@@ -1,58 +1,35 @@
-name: Update Data and Deploy to Pages
+name: Update incident data
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Täglich um 00:00 UTC (ändere zu '0 * * * *' für stündlich)
-  workflow_dispatch:  # Manueller Trigger über GitHub-UI
+    - cron: '0 * * * *'  # Jede Stunde um :00
+  workflow_dispatch:      # Manueller Trigger
 
 jobs:
-  build:
-    runs-on: ubuntu-latest  # GitHub-Server (Linux)
-    permissions:
-      contents: write  # Erlaubt Commit/Push
+  update:
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repo
-      uses: actions/checkout@v4  # Holt dein Repo
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.12'  # Deine Python-Version (passe an)
+        python-version: '3.10'
 
-    - name: Install Dependencies
+    - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt  # Installiert re & Co.
+        pip install requests beautifulsoup4
 
-    - name: Run main.py to Generate Data
-      run: python main.py  # Hier läuft dein Skript – passe an, falls es Args braucht (z. B. python main.py --output data.json)
-      # Tipp: Wenn main.py Input braucht (z. B. Keywords), hardcode sie oder nutze Secrets (siehe unten)
+    - name: Run main.py
+      run: python main.py
 
-    - name: Commit Generated Data
+    - name: Commit and push if changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data.json  # Füge die neue Textdatei hinzu
-        git diff --staged --quiet || git commit -m "Update data.json [$(date +%Y-%m-%d)]"
-        git push  # Push zurück ins Repo
-
-  deploy:
-    needs: build  # Warte auf den Build-Job
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout Repo
-      uses: actions/checkout@v4
-
-    - name: Deploy to GitHub Pages
-      uses: actions/configure-pages@v5  # Bereitet Pages vor
-      # Optional: Wenn du Build brauchst (z. B. für JS), füge hier hinzu
-
-    - name: Upload to Pages
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: '.'  # Denkt das gesamte Repo (inkl. index.html & data.json)
-
-    - name: Deploy
-      id: deployment
-      uses: actions/deploy-pages@v4  # Deployt die Site
+        git add einbrueche_diebstaehle.txt
+        git diff --staged --quiet || git commit -m "Update incident data"
+        git push

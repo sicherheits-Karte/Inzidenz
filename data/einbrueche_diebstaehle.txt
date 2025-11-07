@@ -94,3 +94,6 @@
 {"coords": [6.9603, 50.9375], "date": "2025-11-07"}, // Kölner Dom Köln, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2025-11-07"}, // Autobahnmeldungen Wiesbaden, Einbruch
 {"coords": [8.6139, 49.7236], "date": "2025-11-07"}, // Zeugen Zwingenberg, Einbruch
+//{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
+//{"coords": [], "date": "2025-11-07"} // Versuchter Wohnungseinbruch Freiburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-07"}, // Unfall Aalen, Diebstahl

@@ -111,3 +111,5 @@
 {"coords": [9.2167, 48.4833], "date": "2025-11-07"}, // Werkstatt Reutlingen, Einbruch
 //{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
 //{"coords": [], "date": "2025-11-07"} // Versuchter Wohnungseinbruch Freiburg, Einbruch
+//{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
+//{"coords": [], "date": "2025-11-07"} // Versuchter Wohnungseinbruch Freiburg, Einbruch

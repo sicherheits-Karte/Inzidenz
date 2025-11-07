@@ -97,3 +97,5 @@
 //{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
 //{"coords": [], "date": "2025-11-07"} // Versuchter Wohnungseinbruch Freiburg, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-07"}, // Unfall Aalen, Diebstahl
+//{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
+//{"coords": [], "date": "2025-11-07"} // Versuchter Wohnungseinbruch Freiburg, Einbruch

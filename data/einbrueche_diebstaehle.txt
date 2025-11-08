@@ -132,3 +132,6 @@
 //{"coords": [], "date": "2025-11-08"} // der Hanns-Fay-Straße in, Diebstahl
 {"coords": [7.1, 51.5167], "date": "2025-11-08"}, // Ladendiebstahl Gelsenkirchen, Diebstahl
 //{"coords": [], "date": "2025-11-08"} // der Hanns-Fay-Straße in, Diebstahl
+//{"coords": [], "date": "2025-11-08"} // Frittlingen, Einbruch
+//{"coords": [], "date": "2025-11-08"} // Mundenheim, Einbruch
+{"coords": [7.3328, 49.6133], "date": "2025-11-08"}, // Baumholder, Diebstahl

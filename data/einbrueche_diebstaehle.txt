@@ -129,3 +129,4 @@
 {"coords": [6.0961, 51.0631], "date": "2025-11-08"}, // Heinsberg, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2025-11-08"}, // Meppen, Einbruch
 {"coords": [7.4667, 52.3667], "date": "2025-11-08"}, // Spelle, Einbruch
+//{"coords": [], "date": "2025-11-08"} // der Hanns-Fay-Straße in, Diebstahl

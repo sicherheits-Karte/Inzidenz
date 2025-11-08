@@ -130,3 +130,5 @@
 {"coords": [7.2908, 52.6906], "date": "2025-11-08"}, // Meppen, Einbruch
 {"coords": [7.4667, 52.3667], "date": "2025-11-08"}, // Spelle, Einbruch
 //{"coords": [], "date": "2025-11-08"} // der Hanns-Fay-Straße in, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2025-11-08"}, // Ladendiebstahl Gelsenkirchen, Diebstahl
+//{"coords": [], "date": "2025-11-08"} // der Hanns-Fay-Straße in, Diebstahl

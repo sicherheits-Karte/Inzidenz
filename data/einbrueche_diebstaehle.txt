@@ -149,3 +149,4 @@
 //{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
 {"coords": [7.6, 49.2], "date": "2025-11-08"}, // Drogeriemarkt Müller Pirmasens, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2025-11-08"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch

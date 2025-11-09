@@ -182,3 +182,7 @@
 //{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl
 {"coords": [10.6833, 48.7833], "date": "2025-11-09"}, // Uhr Polizeiinspektion Harburg, Einbruch
 //{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl
+{"coords": [7.6, 49.2], "date": "2025-11-09"}, // Polizei Pirmasens, Einbruch
+{"coords": [7.6, 49.2], "date": "2025-11-09"}, // Keller Polizei Pirmasens, Diebstahl
+{"coords": [7.6, 49.2], "date": "2025-11-09"}, // Parfüm Polizei Pirmasens, Diebstahl
+//{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl

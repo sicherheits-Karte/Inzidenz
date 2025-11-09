@@ -155,3 +155,4 @@
 //{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
 {"coords": [8.0456, 49.0603], "date": "2025-11-08"}, // Einfamilienhaus Niederotterbach, Einbruch
 {"coords": [10.9147, 50.6856], "date": "2025-11-08"}, // derzeit unbekannter Mann in einen Einkaufsmarkt der Unterpörlitzer Straße in Ilmenau. Aus den Regalen steckte dieser Spirituosen im Wert von ca, Diebstahl
+//{"coords": [], "date": "2025-11-09"} // Wohnungseinbruchsdiebstahl Wörth, Einbruch

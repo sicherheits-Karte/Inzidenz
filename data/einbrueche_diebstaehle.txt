@@ -186,3 +186,4 @@
 {"coords": [7.6, 49.2], "date": "2025-11-09"}, // Keller Polizei Pirmasens, Diebstahl
 {"coords": [7.6, 49.2], "date": "2025-11-09"}, // Parfüm Polizei Pirmasens, Diebstahl
 //{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl
+//{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl

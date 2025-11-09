@@ -171,3 +171,7 @@
 {"coords": [8.3708, 52.6078], "date": "2025-11-09"}, // Diepholz, Einbruch
 {"coords": [8.0722, 49.5608], "date": "2025-11-09"}, // Eisenberg Eisenberg, Diebstahl
 {"coords": [11.5928, 50.6933], "date": "2025-11-09"}, // Lagerhalle Pößneck, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-09"}, // Diebstahlsserie Reutlingen, Diebstahl
+{"coords": [8.0, 51.45], "date": "2025-11-09"}, // Müschede Arnsberg, Einbruch
+//{"coords": [], "date": "2025-11-09"} // Soest Soest, Einbruch
+//{"coords": [], "date": "2025-11-09"} // Höhe, Einbruch

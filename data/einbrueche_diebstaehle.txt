@@ -175,3 +175,7 @@
 {"coords": [8.0, 51.45], "date": "2025-11-09"}, // Müschede Arnsberg, Einbruch
 //{"coords": [], "date": "2025-11-09"} // Soest Soest, Einbruch
 //{"coords": [], "date": "2025-11-09"} // Höhe, Einbruch
+{"coords": [9.5083, 49.9833], "date": "2025-11-09"}, // Rechtenbach, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-11-09"}, // Limburg, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2025-11-09"}, // Goslar, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2025-11-09"}, // Zeugenaufruf Nürnberg, Einbruch

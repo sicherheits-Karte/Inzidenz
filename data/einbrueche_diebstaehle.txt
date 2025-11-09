@@ -161,3 +161,6 @@
 {"coords": [10.9167, 50.4167], "date": "2025-11-09"}, // Supermarkt Eisfeld, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2025-11-09"}, // Zeugenaufruf Delmenhorst, Diebstahl
 //{"coords": [], "date": "2025-11-09"} // Otterstadt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-09"}, // Wohnungseinbruch Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-09"}, // Einbruch Aalen, Einbruch
+//{"coords": [], "date": "2025-11-09"} // Pkw Bocholt, Diebstahl

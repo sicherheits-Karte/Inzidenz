@@ -260,3 +260,7 @@
 //{"coords": [], "date": "2025-11-10"} // Heidekreis, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Giessen, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Heidekreis, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-10"}, // Wohnhaus Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-10"}, // Tageswohnungseinbruch Freiburg, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Giessen, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Heidekreis, Einbruch

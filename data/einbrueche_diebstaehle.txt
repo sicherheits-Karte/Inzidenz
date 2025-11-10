@@ -232,3 +232,8 @@
 {"coords": [9.2108, 49.1425], "date": "2025-11-10"}, // Zeugenaufrufe Heilbronn, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Ekholt, Einbruch
 {"coords": [8.5861, 52.1983], "date": "2025-11-10"}, // Haustür Bünde, Diebstahl
+{"coords": [9.2844, 51.045], "date": "2025-11-10"}, // Einfamilienhaus Borken, Einbruch
+{"coords": [6.9889, 51.8944], "date": "2025-11-10"}, // Velen, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Lippe, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-11-10"}, // Hinweise Oldenburg, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Vereinsheim Alpen, Einbruch

@@ -1,5 +1,3 @@
-// Überwachung gestartet: 2025-11-07 00:54:01
-// Schlagwörter: Einbruch, Diebstahl
 {"coords": [9.95, 52.15], "date": "2025-11-06"}, // Ladendiebe Hildesheim, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2025-11-06"}, // Geldbeutels Ludwigshafen, Diebstahl
 {"coords": [9.95, 52.15], "date": "2025-11-07"}, // Markt Hildesheim, Diebstahl

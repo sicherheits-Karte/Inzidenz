@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Einbrüche & Diebstähle Deutschland</title>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <style>
         body {
             margin: 0;
@@ -116,44 +116,9 @@
         svg.call(zoom);
         const g = svg.append("g");
 
-        // ======================================== 
-        // DATEN AUS TEXTDATEI LADEN
-        // ========================================
         let incidents = [];
         let statesData = [];
         const jitterCache = new Map();
-        
-        // Bundesland-Mapping: Koordinaten-Bereiche zu Bundesländern
-        const stateBoundaries = {
-            // Vereinfachte Koordinatenbereiche für Bundesländer
-            "Schleswig-Holstein": { minLat: 53.3, maxLat: 55.1, minLon: 8.0, maxLon: 11.2 },
-            "Hamburg": { minLat: 53.4, maxLat: 53.7, minLon: 9.7, maxLon: 10.3 },
-            "Niedersachsen": { minLat: 51.5, maxLat: 53.9, minLon: 6.7, maxLon: 11.6 },
-            "Bremen": { minLat: 53.0, maxLat: 53.2, minLon: 8.5, maxLon: 8.9 },
-            "Nordrhein-Westfalen": { minLat: 50.3, maxLat: 52.5, minLon: 5.9, maxLon: 9.3 },
-            "Hessen": { minLat: 49.4, maxLat: 51.6, minLon: 7.9, maxLon: 10.2 },
-            "Rheinland-Pfalz": { minLat: 48.9, maxLat: 50.9, minLon: 6.1, maxLon: 8.5 },
-            "Baden-Württemberg": { minLat: 47.5, maxLat: 49.8, minLon: 7.5, maxLon: 10.5 },
-            "Bayern": { minLat: 47.2, maxLat: 50.6, minLon: 9.0, maxLon: 13.8 },
-            "Saarland": { minLat: 49.1, maxLat: 49.6, minLon: 6.4, maxLon: 7.4 },
-            "Berlin": { minLat: 52.3, maxLat: 52.7, minLon: 13.1, maxLon: 13.8 },
-            "Brandenburg": { minLat: 51.3, maxLat: 53.5, minLon: 11.2, maxLon: 14.8 },
-            "Mecklenburg-Vorpommern": { minLat: 53.0, maxLat: 54.7, minLon: 10.5, maxLon: 14.4 },
-            "Sachsen": { minLat: 50.1, maxLat: 51.7, minLon: 11.8, maxLon: 15.0 },
-            "Sachsen-Anhalt": { minLat: 51.2, maxLat: 53.0, minLon: 10.5, maxLon: 13.0 },
-            "Thüringen": { minLat: 50.2, maxLat: 51.6, minLon: 9.9, maxLon: 12.6 }
-        };
-
-        // Funktion zum Bestimmen des Bundeslandes anhand von Koordinaten
-        function getStateByCoordinates(lat, lon) {
-            for (const [state, bounds] of Object.entries(stateBoundaries)) {
-                if (lat >= bounds.minLat && lat <= bounds.maxLat && 
-                    lon >= bounds.minLon && lon <= bounds.maxLon) {
-                    return state;
-                }
-            }
-            return "Unbekannt";
-        }
 
         // Funktion zum Laden der Textdatei
         async function loadIncidents() {
@@ -170,7 +135,6 @@
                 const text = await response.text();
                 console.log("✅ Daten geladen, Länge:", text.length);
                 
-                // Text in Array umwandeln und Kommentare entfernen
                 const lines = text.split('\n');
                 const cleanedLines = [];
                 
@@ -185,22 +149,15 @@
                 const jsonText = `[${cleanedLines.join('\n').replace(/,\s*$/, '')}]`;
                 const data = JSON.parse(jsonText);
                 
-                // BEI JEDEM VORFALL DAS BUNDESLAND BESTIMMEN
                 incidents = data
                     .filter(d => d.coords && d.coords.length === 2)
-                    .map((d, i) => {
-                        const [lon, lat] = d.coords; // Koordinaten sind [Längengrad, Breitengrad]
-                        const state = getStateByCoordinates(lat, lon);
-                        return {
-                            id: i,
-                            coords: d.coords,
-                            date: d.date,
-                            city: `Vorfall ${i + 1}`,
-                            state: state // Bundesland hinzufügen
-                        };
-                    });
+                    .map((d, i) => ({
+                        id: i,
+                        coords: d.coords,
+                        date: d.date,
+                        city: `Vorfall ${i + 1}`
+                    }));
                 
-                console.log("✅ Bundesländer zugeordnet");
                 updateIncidents();
                 
             } catch (error) {
@@ -208,7 +165,6 @@
             }
         }
 
-        // Hilfsfunktion für Datumsformatierung
         function formatDate(date) {
             const year = date.getFullYear();
             const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -221,11 +177,9 @@
         const fromInput = document.getElementById("fromDate");
         const toInput = document.getElementById("toDate");
 
-        // Standard: Heute anzeigen
         fromInput.value = todayStr;
         toInput.value = todayStr;
 
-        // Deterministischer Jitter
         function getJitterPosition(d, group) {
             const key = `${d.id}-${group.length}`;
             if (jitterCache.has(key)) {
@@ -277,17 +231,59 @@
             points.exit().remove();
         }
 
-        // EINFACHE Funktion zum Zählen der Vorfälle in einem Bundesland
-        function countIncidentsInState(stateName, incidents) {
-            // Zähle einfach alle Vorfälle, die diesem Bundesland zugeordnet sind
-            return incidents.filter(incident => incident.state === stateName).length;
+        // VERBESSERTER Algorithmus: Verwendet die originalen GeoJSON-Koordinaten
+        function isPointInPolygon(point, polygon) {
+            const [lng, lat] = point;
+            let inside = false;
+            
+            for (let i = 0, j = polygon.length - 1; i < polygon.length; j = i++) {
+                const [xi, yi] = polygon[i];
+                const [xj, yj] = polygon[j];
+                
+                const intersect = ((yi > lat) !== (yj > lat))
+                    && (lng < (xj - xi) * (lat - yi) / (yj - yi) + xi);
+                
+                if (intersect) inside = !inside;
+            }
+            
+            return inside;
         }
 
-        // Automatische Aktualisierung bei Zeitraum-Änderung
+        function getPolygonsFromGeometry(geometry) {
+            const polygons = [];
+            
+            if (geometry.type === 'Polygon') {
+                polygons.push(geometry.coordinates[0]);
+            } else if (geometry.type === 'MultiPolygon') {
+                geometry.coordinates.forEach(polygon => {
+                    polygons.push(polygon[0]);
+                });
+            }
+            
+            return polygons;
+        }
+
+        function countIncidentsInState(stateFeature, incidents) {
+            let count = 0;
+            const polygons = getPolygonsFromGeometry(stateFeature.geometry);
+            
+            incidents.forEach(incident => {
+                const [lng, lat] = incident.coords;
+                
+                for (let polygon of polygons) {
+                    if (isPointInPolygon([lng, lat], polygon)) {
+                        count++;
+                        break;
+                    }
+                }
+            });
+            
+            return count;
+        }
+
         fromInput.addEventListener("change", updateIncidents);
         toInput.addEventListener("change", updateIncidents);
 
-        // Buttons mit KORRIGIERTER Woche-Logik
         document.getElementById("todayBtn").onclick = () => {
             fromInput.value = todayStr;
             toInput.value = todayStr;
@@ -297,10 +293,7 @@
         document.getElementById("weekBtn").onclick = () => {
             const today = new Date();
             const startOfWeek = new Date(today);
-            
-            // KORRIGIERT: Berechnung des Wochenstarts (Montag)
             const dayOfWeek = today.getDay();
-            
             const diffToMonday = dayOfWeek === 0 ? -6 : 1 - dayOfWeek;
             startOfWeek.setDate(today.getDate() + diffToMonday);
             
@@ -339,26 +332,20 @@
                 .attr("class", "state")
                 .attr("d", path)
                 .on("mouseover", function(event, d) {
-                    // Highlight des Bundeslandes
                     d3.select(this).classed("state-highlight", true);
                     
-                    // Zähle Vorfälle im aktuellen Bundesland
                     const from = fromInput.value;
                     const to = toInput.value;
                     const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
                     
-                    const stateName = d.properties.NAME_1;
-                    const count = countIncidentsInState(stateName, filtered);
+                    const count = countIncidentsInState(d, filtered);
+                    const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
                     
-                    // Zeige Bundesland-Info an
                     document.getElementById("stateInfo").textContent = 
-                        `${stateName}: ${count} Vorfälle`;
+                        `${stateName}: ${count} Vorfall${count !== 1 ? 'e' : ''}`;
                 })
                 .on("mouseout", function() {
-                    // Entferne Highlight
                     d3.select(this).classed("state-highlight", false);
-                    
-                    // Leere Bundesland-Info
                     document.getElementById("stateInfo").textContent = "";
                 });
 
@@ -371,13 +358,9 @@
                 .text(d => d.properties.NAME_1)
                 .style("display", "none");
 
-            // Initiales Laden der Daten
             loadIncidents();
         });
 
-        // ========================================
-        // AUTOMATISCHER RELOAD ALLE 2 MINUTEN
-        // ========================================
         setInterval(loadIncidents, 2 * 60 * 1000);
     </script>
 </body>

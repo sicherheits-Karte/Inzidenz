@@ -212,3 +212,11 @@
 {"coords": [8.24, 50.0822], "date": "2025-11-10"}, // Einbrecher Wiesbaden, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Bierdiebstahl Menden, Einbruch
 {"coords": [7.6333, 51.2167], "date": "2025-11-10"}, // Vandalismus Lüdenscheid, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Metelen, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-11-10"}, // Bochum, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Lotte, Einbruch
+{"coords": [7.5314, 52.5536], "date": "2025-11-10"}, // Lengerich, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Bischweier, Einbruch
+{"coords": [8.5833, 53.55], "date": "2025-11-10"}, // Mitte, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2025-11-10"}, // Einbruchschutz Landkreis Aurich, Einbruch
+{"coords": [8.5833, 53.55], "date": "2025-11-10"}, // Mitte, Diebstahl

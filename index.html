@@ -93,7 +93,7 @@
         const path = d3.geoPath().projection(projection);
 
         const zoom = d3.zoom()
-            .scaleExtent([1, 10])
+            .scaleExtent([-2, 12])
             .on("zoom", (event) => {
                 g.attr("transform", event.transform);
                 const scale = event.transform.k;
@@ -302,3 +302,4 @@
     </script>
 </body>
 </html>
+

@@ -272,3 +272,4 @@
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2025-11-10"}, // Limburg, Einbruch

@@ -22,8 +22,26 @@ except ImportError as e:
 
 # URL der Blaulicht-Seite
 URL = "https://www.presseportal.de/blaulicht/d/polizei"
-# Schlagwörter
-KEYWORDS = ["Einbruch", "Diebstahl", "Unfall"]
+
+# ERWEITERTE Schlagwörter für Einbruch und Diebstahl
+KEYWORDS = [
+    # Einbruch
+    "Einbruch", "Einbrüche", "Einbrüchen", "eingebrochen", "einbrechen", "Einbrecher", "Einbrechern",
+    "hauseinbruch", "wohnungseinbruch", "gewerbeeinbruch", "einseigen", "aufbruch", "aufbrüche",
+    
+    # Diebstahl
+    "Diebstahl", "Diebstähle", "Diebstählen", "Dieb", "Diebe", "Dieben", "Diebin", "Diebinnen",
+    "gestohlen", "stehlen", "stahl", "klauen", "geklaut", "entwendet", "entwendung",
+    "taschendiebstahl", "fahrraddiebstahl", "autodiebstahl", "wohnungseinbruchdiebstahl",
+    
+    # Weitere verwandte Begriffe
+    "Einbruchdiebstahl", "einschleichen", "aufbrechen", "einbruchsicher", "einbruchschutz",
+    "besitzdiebstahl", "eigentumsdelikt", "vermögensdelikt", "hab und gut", "wegnahme",
+    
+    # Umgangssprachlich/Jugendsprache
+    "klau", "geklaut", "mitgehen lassen", "zweckentfremdet"
+]
+
 # Ausgabedatei im data/ Ordner
 OUTPUT_FILE = "../data/einbrueche_diebstaehle.txt"
 # Header
@@ -48,7 +66,7 @@ EXCLUDE_WORDS = {
 existing_entries = set()
 
 def load_existing_entries():
-    """Lade alle bestehenden Einträge aus der TXT-Datei in ein Set (ohne Kommentare mit // am Anfang)"""
+    """Lade alle bestehenden Einträge aus der TXT-Datei in ein Set (inkl. Kommentar-Zeilen)"""
     global existing_entries
     existing_entries = set()
     if not os.path.exists(OUTPUT_FILE):
@@ -58,10 +76,7 @@ def load_existing_entries():
         with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
-                if line.startswith("//"):
-                    continue  # Überspringe Kommentare und Header
-                if line:
-                    # Normalisiere: nur der eigentliche Eintrag (JSON + // Kommentar)
+                if line:  # Nur nicht-leere Zeilen hinzufügen
                     existing_entries.add(line)
         print(f"📊 {len(existing_entries)} vorhandene Einträge geladen")
     except Exception as e:
@@ -138,7 +153,7 @@ def save_to_file(location, keyword, date_str):
         line = f'//{{"coords": [], "date": "{date_str}"}} // {location}, {keyword}'
         status = "Koordinaten fehlen"
 
-    # DUPILKATPRÜFUNG
+    # DUPILKATPRÜFUNG für ALLE Eintragstypen
     if is_duplicate(line):
         print(f"⚠️ Doppelt (übersprungen): {location or '—'} ({keyword}) am {date_str}")
         return
@@ -166,6 +181,8 @@ def check_website():
         found_count = 0
         for article in articles:
             text_block = article.get_text(separator=" ", strip=True).lower()
+            
+            # Case-insensitive Suche mit allen erweiterten Keywords
             if not any(kw.lower() in text_block for kw in KEYWORDS):
                 continue
                 
@@ -175,7 +192,13 @@ def check_website():
             if not date_str:
                 continue
                 
-            keyword = next((kw for kw in KEYWORDS if kw.lower() in text_block), "Unbekannt")
+            # Finde das konkreteste passende Keyword
+            keyword = "Unbekannt"
+            for kw in KEYWORDS:
+                if kw.lower() in text_block:
+                    keyword = kw
+                    break
+                    
             print(f"📍 Gefunden: {location} | {keyword} | {date_str}")
             save_to_file(location, keyword, date_str)
             found_count += 1
@@ -190,11 +213,10 @@ if __name__ == "__main__":
     # Stelle sicher, dass der Ausgabeordner existiert
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     
-    # Initialisiere Ausgabedatei mit Header (falls neu) - WIE IM ALTEN CODE
+    # KEINE Header mehr in der Ausgabedatei - nur bei Bedarf Datei erstellen
     if not os.path.exists(OUTPUT_FILE):
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.write(f"// Überwachung gestartet: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write(f"// Schlagwörter: {', '.join(KEYWORDS)}\n")
+            pass  # Leere Datei erstellen
         print("📄 Neue Ausgabedatei erstellt")
     else:
         # Lade bestehende Einträge, um Duplikate zu vermeiden

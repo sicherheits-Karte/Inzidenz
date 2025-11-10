@@ -316,3 +316,10 @@
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Anschluss durch, Unfall
 //{"coords": [], "date": "2025-11-10"} // Ost, Unfall
+{"coords": [7.4614, 50.4286], "date": "2025-11-10"}, // Bitzen Neuwied, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Reisebüro Giessen, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2025-11-10"}, // Reutlingen, gestohlen
+{"coords": [7.8167, 49.2667], "date": "2025-11-10"}, // Wohnhaus Schweisweiler, Diebstahl
+{"coords": [6.3917, 51.2556], "date": "2025-11-10"}, // Viersen, Dieb
+{"coords": [8.8678, 49.9228], "date": "2025-11-10"}, // Zeugen Münster, Einbrüche
+//{"coords": [], "date": "2025-11-10"} // dem Kreisgebiet, Einbrüche

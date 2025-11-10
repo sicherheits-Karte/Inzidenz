@@ -247,4 +247,4 @@
 //{"coords": [], "date": "2025-11-10"} // Zeugen Rellingen, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Tönis, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Kreis, Einbruch
-//{"coords": [], "date": "2025-11-10"} // Kreis Offenbach, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Kreis Offenbach, Diebstahl    ///////////////////////////////////

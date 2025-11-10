@@ -220,3 +220,15 @@
 {"coords": [8.5833, 53.55], "date": "2025-11-10"}, // Mitte, Einbruch
 {"coords": [7.4836, 53.4711], "date": "2025-11-10"}, // Einbruchschutz Landkreis Aurich, Einbruch
 {"coords": [8.5833, 53.55], "date": "2025-11-10"}, // Mitte, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-11-10"}, // Zeugen Karlsruhe, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2025-11-10"}, // Zeugenaufruf Cuxhaven, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Belecke, Diebstahl
+{"coords": [7.6889, 51.5347], "date": "2025-11-10"}, // Zeugen Unna, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Lagerhalle Thuine, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-11-10"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [8.705, 48.895], "date": "2025-11-10"}, // Zeugenhinweise Pforzheim, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-11-10"}, // Recklinghausen, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2025-11-10"}, // Münster, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-11-10"}, // Zeugenaufrufe Heilbronn, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Ekholt, Einbruch
+{"coords": [8.5861, 52.1983], "date": "2025-11-10"}, // Haustür Bünde, Diebstahl

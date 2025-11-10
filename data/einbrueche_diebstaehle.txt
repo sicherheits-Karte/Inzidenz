@@ -202,3 +202,5 @@
 {"coords": [8.975, 50.0431], "date": "2025-11-10"}, // Seligenstadt, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Rucksack Wittlich, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Vandalismus Salmtal, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Allerheiligenkirmes Soest, Diebstahl
+{"coords": [10.5667, 51.1167], "date": "2025-11-10"}, // Schönstedt, Einbruch

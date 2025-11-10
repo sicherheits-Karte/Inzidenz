@@ -265,3 +265,4 @@
 //{"coords": [], "date": "2025-11-10"} // Giessen, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Heidekreis, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl

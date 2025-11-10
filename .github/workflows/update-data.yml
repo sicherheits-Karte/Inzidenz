@@ -2,7 +2,7 @@ name: Update Incident Data
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Jede Stunde (einfacher zum Testen)
+    - cron: '*/5 * * * *'  # Jede 5 Minuten
   workflow_dispatch:
 
 jobs:

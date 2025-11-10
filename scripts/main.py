@@ -23,7 +23,7 @@ except ImportError as e:
 # URL der Blaulicht-Seite
 URL = "https://www.presseportal.de/blaulicht/d/polizei"
 # Schlagwörter
-KEYWORDS = ["Einbruch", "Diebstahl"]
+KEYWORDS = ["Einbruch", "Diebstahl", "Unfall"]
 # Ausgabedatei im data/ Ordner
 OUTPUT_FILE = "../data/einbrueche_diebstaehle.txt"
 # Header

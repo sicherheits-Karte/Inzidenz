@@ -4792,7 +4792,8 @@ CITY_COORDINATES = {
 "Freiburg": [47.9900, 7.8200],  # Baden-Württemberg (Freiburg im Breisgau)
 "Ludwigsburg": [48.8975, 9.1919],  # Baden-Württemberg
 "Essinghausen": [51.1667, 8.0667],  # Nordrhein-Westfalen (Ortsteil von Lennestadt)
-
+"Schweisweiler": [49.2667, 7.8167],  # Rheinland-Pfalz
+"Rheinbach": [50.6258, 6.9492],  # Nordrhein-Westfalen
 
 
     

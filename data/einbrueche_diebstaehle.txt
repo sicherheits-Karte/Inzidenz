@@ -254,3 +254,7 @@
 //{"coords": [], "date": "2025-11-10"} // Ellerbek, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Münzen Vogelsbergkreis, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2025-11-10"}, // Rohbau Coesfeld, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Giessen, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2025-11-10"}, // Untersuchungshaft Schwerte, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2025-11-10"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Heidekreis, Einbruch

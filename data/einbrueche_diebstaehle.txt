@@ -302,3 +302,9 @@
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Anschluss durch, Unfall
 //{"coords": [], "date": "2025-11-10"} // Ost, Unfall
+{"coords": [7.4614, 50.4286], "date": "2025-11-10"}, // Zeugensuche Neuwied, Unfall
+//{"coords": [], "date": "2025-11-10"} // Innenstadt, Unfall
+//{"coords": [], "date": "2025-11-10"} // Krankenhaus Rheinbach, Unfall
+//{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Anschluss durch, Unfall
+//{"coords": [], "date": "2025-11-10"} // Ost, Unfall

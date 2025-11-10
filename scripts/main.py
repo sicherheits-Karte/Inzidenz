@@ -22,54 +22,48 @@ except ImportError as e:
 
 # URL der Blaulicht-Seite
 URL = "https://www.presseportal.de/blaulicht/d/polizei"
+# Schlagwörter
 KEYWORDS = ["Einbruch", "Diebstahl"]
-
-# AUSGABE-DATEI IM DATA/ ORDNER (EINE EBENE HÖHER)
-OUTPUT_FILE = "../data/einbrueche_diebstaehle.txt"
-
-# Stelle sicher, dass der Ausgabeordner existiert
-os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-print(f"📁 Output file: {OUTPUT_FILE}")
-
+# Ausgabedatei
+OUTPUT_FILE = "einbrueche_diebstaehle.txt"
 # Header
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 }
-
 # Datum-Regex
 DATE_PATTERN = re.compile(
     r"\b(\d{1,2})\.(\d{1,2})\.(\d{4})"
     r"|\b(\d{1,2})\.\s*(Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)\s*(\d{4})\b",
     re.IGNORECASE
 )
-
 # Ausschlusswörter
 EXCLUDE_WORDS = {
     "Container", "Fahrschule", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag",
-    "Polizei", "Ermittler", "Täter", "Zeugen", "Hinweise", "Opfer", "Einbrecher", "Diebe", "Fahrzeug", "Wohnung"
+    "Polizei", "Ermittler", "Täter", "Zeugen", "Hinweise", "Opfer", "Einbrecher", "Diebe", "Fahrzeug", "Wohnung",
+    "Haus", "Geschäft", "Firma", "Unternehmen", "Ladendiebstahl", "PKW", "LKW", "Auto", "Werkstatt", "Garage",
+    "Idstein", "Black", "Deckerstraße", "Diebe", "Täter"
 }
 
-# --- Global: Bereits vorhandene Einträge ---
+# --- Global: Bereits vorhandene Einträge (zur Duplikatvermeidung) ---
 existing_entries = set()
 
 def load_existing_entries():
-    """Lade alle bestehenden Einträge aus der TXT-Datei"""
+    """Lade alle bestehenden Einträge aus der TXT-Datei in ein Set (ohne Kommentare mit // am Anfang)"""
     global existing_entries
     existing_entries = set()
     if not os.path.exists(OUTPUT_FILE):
-        print("📝 Output-Datei existiert noch nicht - wird neu erstellt")
         return
-    try:
-        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith("//"):
-                    existing_entries.add(line)
-        print(f"📊 {len(existing_entries)} vorhandene Einträge geladen")
-    except Exception as e:
-        print(f"❌ Fehler beim Laden vorhandener Einträge: {e}")
+    with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line.startswith("//"):
+                continue  # Überspringe Kommentare und Header
+            if line:
+                # Normalisiere: nur der eigentliche Eintrag (JSON + // Kommentar)
+                existing_entries.add(line)
 
 def is_duplicate(entry_line):
+    """Prüft, ob der Eintrag bereits in der Datei existiert"""
     return entry_line in existing_entries
 
 def extract_date_from_text(text):
@@ -98,7 +92,6 @@ def extract_location_from_article(article):
         loc = ots_match.group(1).strip()
         if loc not in EXCLUDE_WORDS:
             return loc
-    
     # 2. "in [Ort]", "bei [Ort]" etc.
     for prefix in ["in", "bei", "aus", "von", "im", "am", "an"]:
         pattern = rf"{prefix}\s+([A-ZÄÖÜ][A-Za-zäöüß0-9\-\.,]+(?:\s+[A-ZÄÖÜ][A-Za-zäöüß0-9\-\.,]+)*)"
@@ -112,16 +105,16 @@ def extract_location_from_article(article):
                 return candidate
     return None
 
+# === GEÄNDERTE FUNKTION: Duplikatsschutz + Teilort-Suche ===
 def save_to_file(location, keyword, date_str):
     if not date_str:
-        print(f"⚠️ Kein Datum für: {location} - Übersprungen")
         return
 
     coords = []
     used_city = None
 
     if location:
-        words = re.findall(r'[A-ZÄÖÜ][a-zäöüß]+', location)
+        words = re.findall(r'[A-ZÄÖÜ][a-zäöüß]+', location)     # a-zäöüß   A-ZÄÖÜ
         for word in words:
             if word in CITY_COORDINATES:
                 coords = CITY_COORDINATES[word][::-1]
@@ -139,56 +132,50 @@ def save_to_file(location, keyword, date_str):
         line = f'//{{"coords": [], "date": "{date_str}"}} // {location}, {keyword}'
         status = "Koordinaten fehlen"
 
-    # Duplikatprüfung
+    # === DUPILKATPRÜFUNG ===
     if is_duplicate(line):
-        print(f"⚠️ Doppelt (übersprungen): {location or '—'} ({keyword}) am {date_str}")
+        print(f"Doppelt (übersprungen): {location or '—'} ({keyword}) am {date_str}")
         return
 
-    # Schreibe neue Einträge
-    try:
-        with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
-            f.write(line + "\n")
-        existing_entries.add(line)
-        print(f"✅ {status}: {location or '—'} ({keyword}) am {date_str}")
-    except Exception as e:
-        print(f"❌ Fehler beim Schreiben: {e}")
+    # === Schreibe nur neue Einträge ===
+    with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+        f.write(line + "\n")
+    existing_entries.add(line)  # Merke für zukünftige Prüfungen
+    print(f"{status}: {location or '—'} ({keyword}) am {date_str}")
 
 def check_website():
     try:
-        print("🌐 Starte Web-Scraping...")
         response = requests.get(URL, headers=HEADERS, timeout=15)
         response.raise_for_status()
-        print("✅ Website erfolgreich geladen")
-        
         soup = BeautifulSoup(response.text, "html.parser")
         articles = soup.find_all("article") or soup.find_all("div", class_=re.compile(r"teaser|news|item", re.I))
-        print(f"📰 Gefundene Artikel: {len(articles)}")
-        
-        found_count = 0
         for article in articles:
             text_block = article.get_text(separator=" ", strip=True).lower()
             if not any(kw.lower() in text_block for kw in KEYWORDS):
                 continue
-                
             location = extract_location_from_article(article)
             date_str = extract_date_from_text(article.get_text())
-            
             if not date_str:
                 continue
-                
             keyword = next((kw for kw in KEYWORDS if kw.lower() in text_block), "Unbekannt")
-            print(f"📍 Gefunden: {location} | {keyword} | {date_str}")
             save_to_file(location, keyword, date_str)
-            found_count += 1
-            
-        print(f"📊 Gesamt gefunden: {found_count} relevante Einträge")
-            
     except Exception as e:
-        print(f"❌ Fehler beim Scraping: {e}")
+        print(f"Fehler: {e}")
 
-# --- Hauptprogramm ---
+# --- Hauptloop ---
 if __name__ == "__main__":
-    print("🚀 Starte Blaulicht-Monitor...")
-    load_existing_entries()
-    check_website()
-    print("✅ Scraping abgeschlossen")
+    # Initialisiere Ausgabedatei mit Header (falls neu)
+    if not os.path.exists(OUTPUT_FILE):
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write(f"// Überwachung gestartet: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"// Schlagwörter: {', '.join(KEYWORDS)}\n")
+    else:
+        # Lade bestehende Einträge, um Duplikate zu vermeiden
+        load_existing_entries()
+
+    print("Überwachung läuft... (Strg+C zum Beenden)")
+    print(f"→ {len(existing_entries)} Einträge bereits vorhanden.")
+    
+    while True:
+        check_website()
+        time.sleep(60)

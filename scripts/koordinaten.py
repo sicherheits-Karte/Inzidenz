@@ -4758,5 +4758,42 @@ CITY_COORDINATES = {
 "Mundenheim": [49.4667, 8.4167],  # Rheinland-Pfalz (Stadtteil von Ludwigshafen)
 "Ludwigsburg": [48.8975, 9.1919],  # Baden-Württemberg
 "Freiburg": [47.9900, 7.8200],# Baden-Württemberg (Freiburg im Breisgau)
+"Gießen": [50.5833, 8.6667],  # Hessen
+"Heidekreis": [52.9667, 9.9333],  # Niedersachsen (Landkreis, Koordinaten für Bad Fallingbostel als Kreissitz)
+"Vogelsbergkreis": [50.6333, 9.3833],  # Hessen (Landkreis, Koordinaten für Lauterbach als Kreissitz)
+"Ellerbek": [53.6500, 9.8667],  # Schleswig-Holstein
+"Offenbach": [50.1000, 8.7667],  # Hessen (Offenbach am Main)
+"Tönis": [51.3167, 6.4500],  # Nordrhein-Westfalen (Stadtteil von Kempen)
+"Rellingen": [53.6500, 9.8167],  # Schleswig-Holstein
+"Ekholt": [53.7667, 9.7167],  # Schleswig-Holstein (Ortsteil von Großenaspe)
+"Thuine": [52.5000, 7.4833],  # Niedersachsen
+"Belecke": [51.4833, 8.3333],  # Nordrhein-Westfalen (Stadtteil von Warstein)
+"Bischweier": [48.8333, 8.2833],  # Baden-Württemberg
+"Lotte": [52.2833, 7.9167],  # Nordrhein-Westfalen
+"Metelen": [52.1444, 7.2128],  # Nordrhein-Westfalen
+"Menden": [51.4333, 7.8000],  # Nordrhein-Westfalen (Menden (Sauerland))
+"Holtheim": [51.5667, 8.9500],  # Nordrhein-Westfalen (Ortsteil von Marsberg)
+"Remchingen": [48.9500, 8.5833],  # Baden-Württemberg
+"Boke": [51.7167, 8.6333],  # Nordrhein-Westfalen (Ortsteil von Delbrück)
+"Soest": [51.5711, 8.1092],  # Nordrhein-Westfalen
+"Salmtal": [49.9333, 6.8500],  # Rheinland-Pfalz
+"Wittlich": [49.9858, 6.8889],  # Rheinland-Pfalz
+"Haren": [52.7922, 7.2417],  # Niedersachsen (Haren (Ems))
+"Scheuren": [50.5333, 7.0833],  # Rheinland-Pfalz (Ortsteil von Dümpelfeld)
+"Bocholt": [51.8367, 6.6153],  # Nordrhein-Westfalen
+"Otterstadt": [49.3722, 8.4478],  # Rheinland-Pfalz
+"Eichen": [50.6333, 7.5333],  # Rheinland-Pfalz (Eichen bei Koblenz)
+"Wörth": [49.0500, 8.2667],  # Rheinland-Pfalz (Wörth am Rhein)
+"Niederotterbach": [49.0603, 8.0456],  # Rheinland-Pfalz
+"Kircheib": [50.7083, 7.4569],  # Rheinland-Pfalz
+"Schwabhausen": [48.3000, 11.3500],  # Bayern
+"Mundenheim": [49.4667, 8.4167],  # Rheinland-Pfalz (Stadtteil von Ludwigshafen)
+"Frittlingen": [48.1272, 8.7075],  # Baden-Württemberg
+"Freiburg": [47.9900, 7.8200],  # Baden-Württemberg (Freiburg im Breisgau)
+"Ludwigsburg": [48.8975, 9.1919],  # Baden-Württemberg
+"Essinghausen": [51.1667, 8.0667],  # Nordrhein-Westfalen (Ortsteil von Lennestadt)
 
+
+
+    
 }

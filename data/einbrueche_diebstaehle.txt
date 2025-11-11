@@ -417,3 +417,10 @@
 {"coords": [9.7, 53.5833], "date": "2025-11-11"}, // Einfamilienhaus Wedel, Einbruch
 //{"coords": [], "date": "2025-11-11"} // Dieseldieb Herpf, Dieb
 {"coords": [10.6944, 50.6111], "date": "2025-11-11"}, // Suhl, Einbrecher
+//{"coords": [], "date": "2025-11-11"} // Süd, Raub
+//{"coords": [], "date": "2025-11-11"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.8, 53.6592], "date": "2025-11-11"}, // Zeugen Pinneberg, Einbruch
+{"coords": [9.1828, 48.7756], "date": "2025-11-11"}, // Stuttgart- Feuerbach, stahl
+{"coords": [9.95, 52.15], "date": "2025-11-11"}, // Hildesheim, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2025-11-11"}, // Polizeiarbeit Wuppertal, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2025-11-11"}, // Heidekreis, entwendet

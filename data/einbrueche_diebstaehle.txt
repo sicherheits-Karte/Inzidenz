@@ -387,3 +387,7 @@
 {"coords": [9.5164, 53.925], "date": "2025-11-11"}, // Hinweise Itzehoe, Einbruch
 //{"coords": [], "date": "2025-11-11"} // Michaelisdonn, Einbruch
 //{"coords": [], "date": "2025-11-11"} // Reichelsheim, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2025-11-11"}, // Bäckerei Wolfsburg, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-11-11"}, // Steuer Heilbronn, Diebstahl
+//{"coords": [], "date": "2025-11-11"} // Kein Ort gefunden, Diebstahl
+{"coords": [6.6394, 50.8064], "date": "2025-11-11"}, // Nörvenich, Diebstahl

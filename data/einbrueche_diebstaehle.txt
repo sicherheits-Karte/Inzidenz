@@ -328,3 +328,16 @@
 {"coords": [9.5167, 50.35], "date": "2025-11-11"}, // Schlüchtern, Dieb
 {"coords": [10.0936, 48.8372], "date": "2025-11-11"}, // Aalen, Einbruch
 {"coords": [7.6458, 50.6878], "date": "2025-11-11"}, // Schulzentrum Altenkirchen, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Auto Hanstedt, Einbruch
+{"coords": [8.0, 51.45], "date": "2025-11-11"}, // Neheim Arnsberg, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Kreis, geklaut
+{"coords": [10.0, 51.7064], "date": "2025-11-11"}, // Northeim, gestohlen
+//{"coords": [], "date": "2025-11-11"} // Einbruchsversuch Flammersfeld, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Reihenhaus Lingen, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Versuchter Wohnungseinbruch Lingen, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2025-11-11"}, // Haren, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Restaurant Neuenhaus, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Schule Lingen, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Windkraftanlage Rhede, Diebstahl
+//{"coords": [], "date": "2025-11-11"} // Firmengelände Hoogstede, Einbruch
+{"coords": [8.0, 51.45], "date": "2025-11-11"}, // Lebensmittelgeschäft Im Ohl Arnsberg, Einbruch

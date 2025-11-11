@@ -4794,7 +4794,28 @@ CITY_COORDINATES = {
 "Essinghausen": [51.1667, 8.0667],  # Nordrhein-Westfalen (Ortsteil von Lennestadt)
 "Schweisweiler": [49.2667, 7.8167],  # Rheinland-Pfalz
 "Rheinbach": [50.6258, 6.9492],  # Nordrhein-Westfalen
-
+"Reichelsheim": [50.3547, 8.8744],  # Hessen (Reichelsheim (Wetterau))
+"Michaelisdonn": [53.9833, 9.1167],  # Schleswig-Holstein
+"Landau": [49.1994, 8.1128],  # Rheinland-Pfalz (Landau in der Pfalz)
+"Heessen": [51.7000, 7.8333],  # Nordrhein-Westfalen (Stadtteil von Hamm)
+"Marth": [51.3833, 10.0000],  # Thüringen
+"Wetten": [51.6667, 6.3333],  # Nordrhein-Westfalen (Ortsteil von Xanten)
+"Geldern": [51.5194, 6.3319],  # Nordrhein-Westfalen
+"Alsbach": [50.4667, 8.6000],  # Hessen (Alsbach-Hähnlein)
+"Glückstadt": [53.7917, 9.4250],  # Schleswig-Holstein
+"Kürten": [51.0500, 7.2667],  # Nordrhein-Westfalen
+"Gerau": [49.9167, 8.4833],  # Hessen (Kreisstadt des Kreises Groß-Gerau)
+"Rhynern": [51.6333, 7.8500],  # Nordrhein-Westfalen (Stadtteil von Hamm)
+"Warstein": [51.4500, 8.3667],  # Nordrhein-Westfalen
+"Halver": [51.1861, 7.4981],  # Nordrhein-Westfalen
+"Hovestadt": [51.6500, 8.1500],  # Nordrhein-Westfalen (Ortsteil von Lippetal)
+"Hoogstede": [52.5833, 6.9500],  # Niedersachsen
+"Rhede": [51.8333, 6.7000],  # Nordrhein-Westfalen
+"Lingen": [52.5236, 7.3194],  # Niedersachsen
+"Neuenhaus": [52.5000, 6.9667],  # Niedersachsen
+"Flammersfeld": [50.6458, 7.5264],  # Rheinland-Pfalz
+"Hanstedt": [53.2667, 10.0167],  # Niedersachsen
+"Bad Kreuznach": [49.8469, 7.8669],  # Rheinland-Pfalz
 
     
 }

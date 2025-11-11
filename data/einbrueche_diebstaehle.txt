@@ -370,3 +370,6 @@
 //{"coords": [], "date": "2025-11-11"} // Heessen, Einbruch
 {"coords": [6.7623, 51.4344], "date": "2025-11-11"}, // Kupferkabel Duisburg, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2025-11-11"}, // Darmstadt, Dieb
+{"coords": [7.9733, 51.1681], "date": "2025-11-11"}, // Finnentrop, gestohlen
+{"coords": [8.4942, 49.8342], "date": "2025-11-11"}, // Riedstadt, entwendet
+{"coords": [10.7833, 49.3333], "date": "2025-11-11"}, // Heilsbronn, Dieb

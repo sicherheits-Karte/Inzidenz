@@ -39,7 +39,7 @@ KEYWORDS = [
     "besitzdiebstahl", "eigentumsdelikt", "vermögensdelikt", "hab und gut", "wegnahme",
     
     # Umgangssprachlich/Jugendsprache
-    "klau", "geklaut", "mitgehen lassen", "zweckentfremdet"
+    "klau", "geklaut", "mitgehen lassen", "zweckentfremdet", "Raub", "Räuber", "ausgeraubt"
 ]
 
 # Ausgabedatei im data/ Ordner

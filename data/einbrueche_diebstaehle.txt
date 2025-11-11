@@ -396,3 +396,5 @@
 {"coords": [7.5658, 51.4458], "date": "2025-11-11"}, // Schwerte, Einbruch
 {"coords": [7.7156, 52.2778], "date": "2025-11-11"}, // Ibbenbüren, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2025-11-11"}, // Diepholz, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2025-11-11"}, // Zeugensuche Köln, Raub
+{"coords": [6.6264, 51.4519], "date": "2025-11-11"}, // Wohnhaus Moers, Einbruch

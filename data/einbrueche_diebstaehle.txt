@@ -323,3 +323,6 @@
 {"coords": [6.3917, 51.2556], "date": "2025-11-10"}, // Viersen, Dieb
 {"coords": [8.8678, 49.9228], "date": "2025-11-10"}, // Zeugen Münster, Einbrüche
 //{"coords": [], "date": "2025-11-10"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2025-11-11"} // Hargesheim Raum Bad Kreuznach, Einbruch
+{"coords": [9.1833, 50.2], "date": "2025-11-11"}, // Zahnarztpraxis Gelnhausen, Dieb
+{"coords": [9.5167, 50.35], "date": "2025-11-11"}, // Schlüchtern, Dieb

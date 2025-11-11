@@ -391,3 +391,8 @@
 {"coords": [9.2108, 49.1425], "date": "2025-11-11"}, // Steuer Heilbronn, Diebstahl
 //{"coords": [], "date": "2025-11-11"} // Kein Ort gefunden, Diebstahl
 {"coords": [6.6394, 50.8064], "date": "2025-11-11"}, // Nörvenich, Diebstahl
+{"coords": [7.3167, 52.8667], "date": "2025-11-11"}, // Beute Lathen, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2025-11-11"}, // Zeugen Osnabrück, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2025-11-11"}, // Schwerte, Einbruch
+{"coords": [7.7156, 52.2778], "date": "2025-11-11"}, // Ibbenbüren, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2025-11-11"}, // Diepholz, Diebstahl

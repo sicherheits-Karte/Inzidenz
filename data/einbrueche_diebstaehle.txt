@@ -358,3 +358,15 @@
 //{"coords": [], "date": "2025-11-11"} // Tipps Alsbach, hab und gut
 //{"coords": [], "date": "2025-11-11"} // Glückstadt, gestohlen
 //{"coords": [], "date": "2025-11-11"} // Kürten, entwendet
+//{"coords": [], "date": "2025-11-11"} // Gerau, Dieb
+//{"coords": [], "date": "2025-11-11"} // Rhynern, Einbruch
+{"coords": [8.6306, 53.05], "date": "2025-11-11"}, // Elsfleth Delmenhorst, Diebstähle
+{"coords": [9.9916, 48.3984], "date": "2025-11-11"}, // Ulm, Dieb
+{"coords": [9.9916, 48.3984], "date": "2025-11-11"}, // Ulm, Einbruch
+{"coords": [7.2839, 50.9328], "date": "2025-11-11"}, // Overath, entwendet
+{"coords": [8.705, 48.895], "date": "2025-11-11"}, // Pforzheim, Einbrüche
+//{"coords": [], "date": "2025-11-11"} // Tiefgarage gestohlen, gestohlen
+//{"coords": [], "date": "2025-11-11"} // Marth, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Heessen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2025-11-11"}, // Kupferkabel Duisburg, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2025-11-11"}, // Darmstadt, Dieb

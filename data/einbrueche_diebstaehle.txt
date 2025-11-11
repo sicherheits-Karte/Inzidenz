@@ -456,3 +456,20 @@
 //{"coords": [], "date": "2025-11-11"} // Giessen, geklaut
 {"coords": [8.7708, 50.8086], "date": "2025-11-11"}, // Marburg Giessen, aufbrüche
 //{"coords": [], "date": "2025-11-11"} // Münsterland, Einbrüche
+{"coords": [9.3833, 50.6333], "date": "2025-11-11"}, // Einfamilienhäuser Vogelsbergkreis, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2025-11-11"}, // Polizeipräsidiums Osthessen Fulda, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-11-11"}, // Freiburg, Dieb
+{"coords": [7.5792, 50.4267], "date": "2025-11-11"}, // Zeugenaufruf Bendorf, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-11-11"}, // Einsatz Freiburg, Raub
+//{"coords": [], "date": "2025-11-11"} // Baustellen Hofheim, Diebstähle
+//{"coords": [], "date": "2025-11-11"} // Polizeipräsidiums Osthessen Osthessen, Raub
+{"coords": [10.0075, 53.7064], "date": "2025-11-11"}, // Raubtat Norderstedt, Raub
+{"coords": [9.0, 50.7333], "date": "2025-11-11"}, // Homberg, eingebrochen
+{"coords": [10.4, 53.25], "date": "2025-11-11"}, // Kokain Lüneburg, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-11-11"}, // Karlsruhe, Raub
+{"coords": [10.7956, 51.5019], "date": "2025-11-11"}, // Einbrechern Nordhausen, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Zeugen Reinholterode, Diebstahl
+//{"coords": [], "date": "2025-11-11"} // Kreis, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2025-11-11"}, // Limburg, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-11-11"}, // Autobahn Wiesbaden, Diebstahl
+{"coords": [13.2611, 53.5569], "date": "2025-11-11"}, // Neubrandenburg, gestohlen

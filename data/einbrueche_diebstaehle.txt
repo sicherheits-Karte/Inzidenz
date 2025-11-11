@@ -341,3 +341,12 @@
 //{"coords": [], "date": "2025-11-11"} // Windkraftanlage Rhede, Diebstahl
 //{"coords": [], "date": "2025-11-11"} // Firmengelände Hoogstede, Einbruch
 {"coords": [8.0, 51.45], "date": "2025-11-11"}, // Lebensmittelgeschäft Im Ohl Arnsberg, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Hovestadt, Einbruch
+{"coords": [7.6736, 51.2972], "date": "2025-11-11"}, // Altena, Dieb
+//{"coords": [], "date": "2025-11-11"} // Galabau Halver, Einbruch
+{"coords": [7.7, 51.375], "date": "2025-11-11"}, // Einbruch Iserlohn, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-11-11"}, // Warendorf, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2025-11-11"}, // Flaschen Stade, aufbrechen
+//{"coords": [], "date": "2025-11-11"} // Einfamilienhaus Warstein, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Elektronikgeschäft in der Innenstadt mehr, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-11"}, // Northeim, geklaut

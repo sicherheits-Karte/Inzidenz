@@ -429,3 +429,19 @@
 {"coords": [9.9158, 51.5413], "date": "2025-11-11"}, // Göttingen, Einbruch
 {"coords": [9.9937, 53.5511], "date": "2025-11-11"}, // Eigentumskriminalität Hamburg, Einbruch
 {"coords": [7.7806, 53.5769], "date": "2025-11-11"}, // Wittmund, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Zeugen Bad Driburg, Diebstahl
+{"coords": [8.9667, 52.3833], "date": "2025-11-11"}, // Eindringlinge Petershagen, Einbrüche
+{"coords": [8.6231, 52.3061], "date": "2025-11-11"}, // Lübbecke, entwendet
+{"coords": [8.8678, 49.9228], "date": "2025-11-11"}, // Münster, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Kupferdiebe-- Bremen, Dieb
+{"coords": [10.0936, 48.8372], "date": "2025-11-11"}, // Diebstahl Aalen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-11"}, // Einbrüche Aalen, Einbrüche
+{"coords": [7.1675, 51.9436], "date": "2025-11-11"}, // Einbruch Coesfeld, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-11"}, // Zeugenhinweise Recklinghausen, Einbrüche
+{"coords": [9.4764, 53.6008], "date": "2025-11-11"}, // Stade, aufbrüche
+{"coords": [7.7689, 49.4447], "date": "2025-11-11"}, // Garage Kaiserslautern, Dieb
+{"coords": [9.1919, 48.8975], "date": "2025-11-11"}, // Ludwigsburg, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-11"}, // Kaiserslautern, gestohlen
+{"coords": [7.1675, 51.9436], "date": "2025-11-11"}, // Coesfeld, gestohlen
+{"coords": [9.0333, 50.15], "date": "2025-11-11"}, // Wohnhaus eingebrochen Rodenbach, eingebrochen
+{"coords": [9.1919, 48.8975], "date": "2025-11-11"}, // Wohnhaus Ludwigsburg, Einbruch

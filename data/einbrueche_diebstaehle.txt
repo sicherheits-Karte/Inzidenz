@@ -582,3 +582,7 @@
 //{"coords": [], "date": "2025-11-12"} // Wehingen, Diebstahl
 //{"coords": [], "date": "2025-11-12"} // Kirchengemeinde Asbach Asbach, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-12"}, // Zeugen Freiburg, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Landkreis Sömmerda, Einbrüche
+{"coords": [11.0299, 50.9848], "date": "2025-11-12"}, // Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-12"}, // Polizeieinsatz Erfurt, Raub
+//{"coords": [], "date": "2025-11-12"} // Ost, Raub

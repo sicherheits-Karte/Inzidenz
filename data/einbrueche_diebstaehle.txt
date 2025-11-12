@@ -513,3 +513,7 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-12"}, // Polizeibeamte Aalen, Einbruch
 {"coords": [7.7, 51.375], "date": "2025-11-12"}, // Fokus Iserlohn, entwendet
 //{"coords": [], "date": "2025-11-12"} // Glewe, entwendet
+{"coords": [8.5331, 52.021], "date": "2025-11-12"}, // Altglas Container Bielefeld, Diebstahl
+//{"coords": [], "date": "2025-11-12"} // Kein Ort gefunden, Einbruch
+{"coords": [8.4833, 49.9167], "date": "2025-11-12"}, // Gerau, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-11-12"}, // Bargeld Lippstadt, eingebrochen

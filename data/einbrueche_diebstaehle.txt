@@ -608,3 +608,8 @@
 //{"coords": [], "date": "2025-11-12"} // Giessen, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2025-11-12"}, // Blut Köln, Diebstahl
 {"coords": [7.2, 51.6167], "date": "2025-11-12"}, // Hinweise Recklinghausen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-12"}, // Ludwigshafen, gestohlen
+{"coords": [7.2061, 53.3669], "date": "2025-11-12"}, // Emden, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-11-12"}, // Waffen Freiburg, Diebstahl
+//{"coords": [], "date": "2025-11-12"} // Baden, Einbruch
+{"coords": [9.6, 54.3833], "date": "2025-11-12"}, // Owschlag, Einbruch

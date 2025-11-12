@@ -618,3 +618,5 @@
 {"coords": [6.9603, 50.9375], "date": "2025-11-12"}, // Zeugen Köln, Raub
 {"coords": [8.4353, 49.4811], "date": "2025-11-12"}, // Parkbank Ludwigshafen, Diebstahl
 {"coords": [8.6806, 49.9894], "date": "2025-11-12"}, // Langen, Raub
+//{"coords": [], "date": "2025-11-12"} // Lieser Lieser, entwendet
+//{"coords": [], "date": "2025-11-12"} // Birkenfeld Birkenfeld, Diebstahl

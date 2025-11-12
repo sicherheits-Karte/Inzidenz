@@ -563,3 +563,10 @@
 {"coords": [10.5722, 51.4403], "date": "2025-11-12"}, // Bleicherode, Einbruch
 {"coords": [8.0667, 51.1167], "date": "2025-11-12"}, // Kindertagesstätte Lennestadt, Einbruch
 {"coords": [7.2, 51.6167], "date": "2025-11-12"}, // Recklinghausen, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Hinweise Alpen, entwendet
+{"coords": [6.6178, 51.6589], "date": "2025-11-12"}, // Zeugenhinweise Wesel, Raub
+{"coords": [8.4333, 51.8083], "date": "2025-11-12"}, // Rietberg Gütersloh, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-11-12"}, // Brüderpaar Ludwigsburg, Raub
+{"coords": [9.2108, 49.1425], "date": "2025-11-12"}, // Einbruch Heilbronn, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-12"}, // Autos Reutlingen, Einbrüche
+{"coords": [8.1075, 53.5219], "date": "2025-11-12"}, // Beute Wilhelmshaven, entwendet

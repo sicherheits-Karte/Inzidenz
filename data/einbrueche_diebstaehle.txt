@@ -598,3 +598,8 @@
 {"coords": [6.4667, 51.8333], "date": "2025-11-12"}, // Isselburg, entwendet
 {"coords": [10.7183, 50.9489], "date": "2025-11-12"}, // Gotha, entwendet
 {"coords": [10.9147, 50.6856], "date": "2025-11-12"}, // Ilmenau, entwendet
+//{"coords": [], "date": "2025-11-12"} // Werne, Raub
+{"coords": [9.1919, 48.8975], "date": "2025-11-12"}, // Ludwigsburg, Diebstahl
+//{"coords": [], "date": "2025-11-12"} // Quad Bad Langensalza, entwendet
+{"coords": [6.7735, 51.2277], "date": "2025-11-12"}, // Düsseldorf, Raub
+{"coords": [10.7753, 49.7544], "date": "2025-11-12"}, // Mühlhausen, Einbruch

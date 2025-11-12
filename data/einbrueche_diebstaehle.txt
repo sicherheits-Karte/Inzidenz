@@ -491,3 +491,15 @@
 {"coords": [8.9833, 50.1667], "date": "2025-11-11"}, // Doppelhaushälfte Erlensee, Dieb
 //{"coords": [], "date": "2025-11-11"} // Binger Landstraße, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-11"}, // Wohnhaus Freiburg, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-12"}, // Polizeiinspektion Northeim POL-NOM, entwendet
+//{"coords": [], "date": "2025-11-12"} // Wohnhaus eingebrochen mehr, eingebrochen
+{"coords": [7.0667, 52.4333], "date": "2025-11-12"}, // Nordhorn, Raub
+//{"coords": [], "date": "2025-11-12"} // Tierarztpraxis Bestwig, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Siedlinghausen Winterberg, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Filiale Olsberg, Einbruch
+{"coords": [8.3333, 51.4833], "date": "2025-11-12"}, // Belecke, Diebstahl
+{"coords": [8.2833, 51.35], "date": "2025-11-12"}, // Kindergarten Meschede, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Hövel, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2025-11-12"}, // Raubdelikt Nordhausen, entwendet
+{"coords": [7.3194, 52.5236], "date": "2025-11-12"}, // Lingen, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-11-12"}, // Nordhorn, Einbrüche

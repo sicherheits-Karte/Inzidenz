@@ -503,3 +503,13 @@
 {"coords": [10.7956, 51.5019], "date": "2025-11-12"}, // Raubdelikt Nordhausen, entwendet
 {"coords": [7.3194, 52.5236], "date": "2025-11-12"}, // Lingen, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2025-11-12"}, // Nordhorn, Einbrüche
+//{"coords": [], "date": "2025-11-12"} // Zeugen Anröchte, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2025-11-12"}, // Zeugen Kleve, entwendet
+{"coords": [6.3319, 51.5194], "date": "2025-11-12"}, // Zeugen Geldern, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Nieukerk, Einbruch
+{"coords": [8.3667, 51.45], "date": "2025-11-12"}, // Windkraftanlage Warstein, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-12"}, // Einfamilienhäuser Northeim, Einbrüche
+{"coords": [7.6333, 51.2167], "date": "2025-11-12"}, // Lüdenscheid, entwendet
+{"coords": [10.0936, 48.8372], "date": "2025-11-12"}, // Polizeibeamte Aalen, Einbruch
+{"coords": [7.7, 51.375], "date": "2025-11-12"}, // Fokus Iserlohn, entwendet
+//{"coords": [], "date": "2025-11-12"} // Glewe, entwendet

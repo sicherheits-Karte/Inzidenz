@@ -574,3 +574,11 @@
 {"coords": [8.875, 53.05], "date": "2025-11-12"}, // Osterholz, Einbrecher
 {"coords": [7.2197, 51.5428], "date": "2025-11-12"}, // Audi Herne, Einbruch
 //{"coords": [], "date": "2025-11-12"} // Herford, Einbruch
+{"coords": [9.4667, 53.95], "date": "2025-11-12"}, // Zeugen Hessisch Oldendorf, Diebstahl
+//{"coords": [], "date": "2025-11-12"} // Hennef, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2025-11-12"}, // Bonn, gestohlen
+//{"coords": [], "date": "2025-11-12"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2025-11-12"} // Bösingen, Diebstahl
+//{"coords": [], "date": "2025-11-12"} // Wehingen, Diebstahl
+//{"coords": [], "date": "2025-11-12"} // Kirchengemeinde Asbach Asbach, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-12"}, // Zeugen Freiburg, Einbruch

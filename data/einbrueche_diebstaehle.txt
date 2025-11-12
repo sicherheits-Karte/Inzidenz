@@ -613,3 +613,7 @@
 {"coords": [7.82, 47.99], "date": "2025-11-12"}, // Waffen Freiburg, Diebstahl
 //{"coords": [], "date": "2025-11-12"} // Baden, Einbruch
 {"coords": [9.6, 54.3833], "date": "2025-11-12"}, // Owschlag, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-12"}, // Verkehrsunfälle Reutlingen, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2025-11-12"}, // Auto Ludwigshafen, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2025-11-12"}, // Zeugen Köln, Raub
+{"coords": [8.4353, 49.4811], "date": "2025-11-12"}, // Parkbank Ludwigshafen, Diebstahl

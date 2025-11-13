@@ -715,3 +715,10 @@
 {"coords": [9.9916, 48.3984], "date": "2025-11-13"}, // Ulm, Dieb
 {"coords": [6.6833, 51.2], "date": "2025-11-13"}, // Untersuchungshaft Neuss, Diebstahl
 //{"coords": [], "date": "2025-11-13"} // Kommern, Einbruch
+{"coords": [7.1, 51.5167], "date": "2025-11-13"}, // Kupferdiebstahl Gelsenkirchen, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2025-11-13"}, // Euro Wilhelmshaven, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2025-11-13"}, // Zeugenaufruf Mannheim, gestohlen
+{"coords": [8.5331, 52.021], "date": "2025-11-13"}, // Bielefeld, Dieb
+{"coords": [8.0667, 50.3833], "date": "2025-11-13"}, // Limburg, Dieb
+{"coords": [8.4353, 49.4811], "date": "2025-11-13"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-11-13"}, // Ludwigshafen, entwendet

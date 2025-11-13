@@ -744,3 +744,5 @@
 {"coords": [9.3833, 50.6333], "date": "2025-11-13"}, // Geldbörse Vogelsbergkreis, Diebstahl
 {"coords": [9.6775, 50.5528], "date": "2025-11-13"}, // Geldbörse Fulda, Einbruch
 {"coords": [8.24, 50.0822], "date": "2025-11-13"}, // Stadtgebiet Wiesbaden, Einbrüche
+//{"coords": [], "date": "2025-11-13"} // Untergruppenbach, entwendet
+//{"coords": [], "date": "2025-11-13"} // helllichten Tag mehr, Diebstahl

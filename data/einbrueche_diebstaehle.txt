@@ -680,3 +680,6 @@
 {"coords": [8.5861, 52.1983], "date": "2025-11-13"}, // Bünde, Einbrecher
 {"coords": [7.2162, 51.4818], "date": "2025-11-13"}, // Tatverdächtigen Bochum, Einbruch
 //{"coords": [], "date": "2025-11-13"} // Karte Schortens, Diebstahl
+{"coords": [8.1361, 53.3969], "date": "2025-11-13"}, // Euro Varel, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2025-11-13"}, // Mithilfe Gera, Raub
+{"coords": [12.0799, 50.8772], "date": "2025-11-13"}, // Vollstreckungsbeamte Gera, Diebstahl

@@ -623,3 +623,13 @@
 //{"coords": [], "date": "2025-11-13"} // Paketdiebstahl Daleiden, Diebstahl
 {"coords": [10.0119, 51.9603], "date": "2025-11-13"}, // Lamspringe Hildesheim, Einbruch
 {"coords": [7.7, 51.375], "date": "2025-11-13"}, // Erpressung Iserlohn, Räuber
+//{"coords": [], "date": "2025-11-13"} // Lünne, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-11-13"}, // Nordhorn, gestohlen
+{"coords": [8.5833, 53.55], "date": "2025-11-13"}, // Mitte, Dieb
+{"coords": [8.35, 51.6667], "date": "2025-11-13"}, // Lippstadt, entwendet
+{"coords": [10.6833, 48.7833], "date": "2025-11-13"}, // Landkreis Harburg, Einbrüche
+{"coords": [11.5862, 50.9271], "date": "2025-11-13"}, // Versuchter Raub Jena, Raub
+{"coords": [10.0, 51.7064], "date": "2025-11-13"}, // Hinweise Northeim, Einbrüche
+//{"coords": [], "date": "2025-11-13"} // Fahrstreifenwechsel Neu Wulmstorf, Einbrüche
+{"coords": [7.1508, 51.2562], "date": "2025-11-13"}, // Polizei Wuppertal Wuppertal, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-13"}, // Northeim, Diebstähle

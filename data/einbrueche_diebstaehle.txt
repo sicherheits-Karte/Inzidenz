@@ -722,3 +722,11 @@
 {"coords": [8.0667, 50.3833], "date": "2025-11-13"}, // Limburg, Dieb
 {"coords": [8.4353, 49.4811], "date": "2025-11-13"}, // Ludwigshafen, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2025-11-13"}, // Ludwigshafen, entwendet
+{"coords": [7.0982, 50.7374], "date": "2025-11-13"}, // Hinweise Bonn, Raub
+{"coords": [11.0299, 50.9848], "date": "2025-11-13"}, // Erfurt, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2025-11-13"}, // Mainz Mainz, Raub
+{"coords": [8.8678, 49.9228], "date": "2025-11-13"}, // Täter Münster, Dieb
+//{"coords": [], "date": "2025-11-13"} // Giessen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-13"}, // Recklinghausen, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Giessen, einbrechen
+{"coords": [13.15, 53.9667], "date": "2025-11-13"}, // Zeugen Loitz, Diebstahl

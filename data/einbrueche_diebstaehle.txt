@@ -675,3 +675,8 @@
 {"coords": [9.9916, 48.3984], "date": "2025-11-13"}, // Ulm, klau
 //{"coords": [], "date": "2025-11-13"} // Bergneustadt, gestohlen
 //{"coords": [], "date": "2025-11-13"} // Rastplatz Wiehl, Diebstahl
+//{"coords": [], "date": "2025-11-13"} // Wachtendonk, Einbruch
+{"coords": [10.0831, 52.6247], "date": "2025-11-13"}, // Turnhalle Celle, Einbruch
+{"coords": [8.5861, 52.1983], "date": "2025-11-13"}, // Bünde, Einbrecher
+{"coords": [7.2162, 51.4818], "date": "2025-11-13"}, // Tatverdächtigen Bochum, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Karte Schortens, Diebstahl

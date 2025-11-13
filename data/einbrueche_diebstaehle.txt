@@ -646,3 +646,18 @@
 {"coords": [8.0472, 52.2799], "date": "2025-11-13"}, // Zeugen Osnabrück, Diebstahl
 //{"coords": [], "date": "2025-11-13"} // Rickelshof, Einbruch
 //{"coords": [], "date": "2025-11-13"} // Herscheid, gestohlen
+//{"coords": [], "date": "2025-11-13"} // Lippe, Einbruch
+{"coords": [8.3539, 49.5342], "date": "2025-11-13"}, // Supermarktfiliale Frankenthal, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-11-13"}, // Ulm, Einbruch
+{"coords": [7.9733, 51.1681], "date": "2025-11-13"}, // Finnentrop, gestohlen
+//{"coords": [], "date": "2025-11-13"} // Schömberg, Raub
+{"coords": [7.9036, 51.1264], "date": "2025-11-13"}, // Attendorn, Diebstähle
+//{"coords": [], "date": "2025-11-13"} // Kfz Hopsten, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2025-11-13"}, // Mannheim, Dieb
+{"coords": [9.0, 50.7333], "date": "2025-11-13"}, // Homberg, eingebrochen
+{"coords": [10.5267, 52.2689], "date": "2025-11-13"}, // Braunschweig, Raub
+{"coords": [10.8, 53.4833], "date": "2025-11-13"}, // Reihenhaus Greven, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Mittelstadt, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-13"}, // Ulm, Diebstahl
+//{"coords": [], "date": "2025-11-13"} // Feuerwehrgerätehaus Selm, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2025-11-13"}, // Zeugen Duisburg, Raub

@@ -709,3 +709,9 @@
 //{"coords": [], "date": "2025-11-13"} // Kreis, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2025-11-13"}, // Festnahme Düsseldorf, Diebstahl
 //{"coords": [], "date": "2025-11-13"} // Einfamilienhäuser Flonheim, Einbrüche
+//{"coords": [], "date": "2025-11-13"} // Donaueschingen, Dieb
+{"coords": [6.7623, 51.4344], "date": "2025-11-13"}, // Erfolg Duisburg, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2025-11-13"}, // Ermittlungsrichter Düsseldorf, Dieb
+{"coords": [9.9916, 48.3984], "date": "2025-11-13"}, // Ulm, Dieb
+{"coords": [6.6833, 51.2], "date": "2025-11-13"}, // Untersuchungshaft Neuss, Diebstahl
+//{"coords": [], "date": "2025-11-13"} // Kommern, Einbruch

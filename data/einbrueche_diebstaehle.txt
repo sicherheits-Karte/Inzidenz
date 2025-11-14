@@ -841,3 +841,8 @@
 {"coords": [8.1075, 53.5219], "date": "2025-11-14"}, // Hinweise Wilhelmshaven, Diebstahl
 {"coords": [8.6944, 49.4092], "date": "2025-11-14"}, // Stadtteil Ziegelhausen Heidelberg, eingebrochen
 {"coords": [8.8575, 54.1331], "date": "2025-11-14"}, // Büsum, entwendet
+{"coords": [7.0116, 51.4556], "date": "2025-11-14"}, // Essen, Raub
+{"coords": [8.6167, 49.6833], "date": "2025-11-14"}, // Bensheim, aufbrüche
+//{"coords": [], "date": "2025-11-14"} // Werkstatt Malborn, Einbruch
+//{"coords": [], "date": "2025-11-14"} // Zeugen Rees, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-14"}, // Quartett Kaiserslautern, Diebstahl

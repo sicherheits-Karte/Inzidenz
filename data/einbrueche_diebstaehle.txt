@@ -773,3 +773,9 @@
 {"coords": [7.1675, 51.9436], "date": "2025-11-14"}, // Einfamilienhaus Coesfeld, Einbruch
 {"coords": [8.1075, 53.5219], "date": "2025-11-14"}, // Selbstbedienungskasse Wilhelmshaven, Diebstahl
 {"coords": [8.0472, 52.2799], "date": "2025-11-14"}, // Osnabrück, Diebstahl
+//{"coords": [], "date": "2025-11-14"} // Gustavsburg, Einbruch
+{"coords": [9.8333, 53.95], "date": "2025-11-14"}, // Hagen, Raub
+{"coords": [7.2061, 53.3669], "date": "2025-11-14"}, // Emden, aufbruch
+{"coords": [7.82, 47.99], "date": "2025-11-14"}, // Freiburg, Raub
+//{"coords": [], "date": "2025-11-14"} // oder mehrere Unbekannte aus einer Garage in der Straße, entwendet
+//{"coords": [], "date": "2025-11-14"} // Zeugen Anröchte, Einbruch

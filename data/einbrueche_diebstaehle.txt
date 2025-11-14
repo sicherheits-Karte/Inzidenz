@@ -764,3 +764,9 @@
 {"coords": [7.8, 51.4333], "date": "2025-11-14"}, // Menden, Diebstahl
 {"coords": [7.7, 51.375], "date": "2025-11-14"}, // Dördel Iserlohn, Einbruch
 {"coords": [7.6333, 51.2167], "date": "2025-11-14"}, // Beamte Lüdenscheid, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2025-11-14"}, // Verbrauchermarkt Wilhelmshaven, Diebstahl
+{"coords": [8.9519, 49.9667], "date": "2025-11-14"}, // Babenhausen, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-11-14"}, // Weimar, gestohlen
+{"coords": [11.3239, 50.9795], "date": "2025-11-14"}, // Weimar, Dieb
+{"coords": [11.5862, 50.9271], "date": "2025-11-14"}, // Jena, Diebstahl
+{"coords": [10.5833, 50.55], "date": "2025-11-14"}, // Oberstadt, Raub

@@ -802,3 +802,5 @@
 //{"coords": [], "date": "2025-11-14"} // Kreis, Einbrüche
 {"coords": [9.5164, 53.925], "date": "2025-11-14"}, // Itzehoe, Diebstahl
 {"coords": [9.5164, 53.925], "date": "2025-11-14"}, // Einfamilienhaus Itzehoe, Einbruch
+//{"coords": [], "date": "2025-11-14"} // Merzenich, gestohlen
+{"coords": [6.8, 51.0], "date": "2025-11-14"}, // Vereinsheim Pulheim, Einbruch

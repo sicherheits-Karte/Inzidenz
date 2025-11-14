@@ -750,3 +750,8 @@
 {"coords": [6.8889, 49.9858], "date": "2025-11-14"}, // Ladendiebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2025-11-14"} // Kfz Landscheid, Diebstahl
 //{"coords": [], "date": "2025-11-14"} // Rodgau, Dieb
+{"coords": [10.0936, 48.8372], "date": "2025-11-14"}, // Unfallflucht Aalen, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-11-14"}, // Flucht Soest, Einbruch
+{"coords": [6.8031, 52.5061], "date": "2025-11-14"}, // Tankstelle Itterbeck, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2025-11-14"}, // Geldkassetten Haren, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-11-14"}, // Mobiltelefon Offenbach, Dieb

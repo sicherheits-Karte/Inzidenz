@@ -846,3 +846,5 @@
 //{"coords": [], "date": "2025-11-14"} // Werkstatt Malborn, Einbruch
 //{"coords": [], "date": "2025-11-14"} // Zeugen Rees, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2025-11-14"}, // Quartett Kaiserslautern, Diebstahl
+{"coords": [7.5978, 50.3597], "date": "2025-11-14"}, // Koblenz, Raub
+{"coords": [9.0958, 54.1958], "date": "2025-11-14"}, // Hinweise Heide, Einbrüche

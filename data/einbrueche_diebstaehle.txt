@@ -895,3 +895,6 @@
 //{"coords": [], "date": "2025-11-15"} // Wohnung Lambrecht, Einbruch
 //{"coords": [], "date": "2025-11-15"} // Weinstraße, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2025-11-15"}, // Delmenhorst, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-15"}, // Vereinsheim Ulm, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-15"}, // Verletzten Reutlingen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-15"}, // Wohnungseinbrüche Aalen, Einbrüche

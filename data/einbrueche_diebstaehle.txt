@@ -882,3 +882,8 @@
 //{"coords": [], "date": "2025-11-15"} // Nagelstudio Kamen, Einbruch
 {"coords": [7.6889, 51.5347], "date": "2025-11-15"}, // Unna, entwendet
 {"coords": [7.6889, 51.5347], "date": "2025-11-15"}, // Vereinsheim Unna, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-11-15"}, // Werkstatt Lippstadt, Einbruch
+{"coords": [9.8333, 53.95], "date": "2025-11-15"}, // Mehrfamilienhaus Hagen, Einbruch
+{"coords": [6.0961, 51.0631], "date": "2025-11-15"}, // Kreis Heinsberg, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2025-11-15"}, // Jena Nord Jena, Diebstahl
+//{"coords": [], "date": "2025-11-15"} // Wohnhaus Winnweiler, Einbruch

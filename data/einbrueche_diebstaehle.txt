@@ -906,3 +906,4 @@
 {"coords": [8.0667, 50.3833], "date": "2025-11-15"}, // Limburg, Diebstahl
 //{"coords": [], "date": "2025-11-15"} // Sachschaden Hofheim, Einbruch
 //{"coords": [], "date": "2025-11-15"} // Haßloch Haßloch, Diebstähle
+{"coords": [7.5, 50.5], "date": "2025-11-15"}, // Urlaubsabwesenheit Rengsdorf, Einbruch

@@ -967,3 +967,4 @@
 {"coords": [11.0911, 49.245], "date": "2025-11-16"}, // Zeugenaufruf Roth, Einbruch
 {"coords": [10.6833, 48.7833], "date": "2025-11-16"}, // Harburg, Einbrüche
 {"coords": [6.7735, 51.2277], "date": "2025-11-16"}, // Beute Düsseldorf, Diebstahl
+{"coords": [10.4, 53.25], "date": "2025-11-16"}, // Lüneburg, Einbrüche

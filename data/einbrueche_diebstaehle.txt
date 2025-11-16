@@ -976,3 +976,4 @@
 //{"coords": [], "date": "2025-11-16"} // Einfamilienhaus Leimersheim, Einbruch
 //{"coords": [], "date": "2025-11-16"} // Alsweiler Alsweiler, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2025-11-16"}, // Limburg, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2025-11-16"}, // Mannheim, Raub

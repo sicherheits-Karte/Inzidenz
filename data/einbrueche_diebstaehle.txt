@@ -959,3 +959,10 @@
 //{"coords": [], "date": "2025-11-16"} // Pelkum, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2025-11-16"}, // Tageswohnungseinbruch Wittlich, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2025-11-16"}, // Räuberischer Diebstahl Reutlingen, Einbrüche
+{"coords": [10.4278, 51.9042], "date": "2025-11-16"}, // Goslar, Einbruch
+{"coords": [11.012, 49.5897], "date": "2025-11-16"}, // Zeugen Erlangen, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2025-11-16"}, // Zeugenaufruf Nürnberg, Raub
+{"coords": [9.9333, 52.9667], "date": "2025-11-16"}, // Einfamilienhaus Heidekreis, Einbruch
+//{"coords": [], "date": "2025-11-16"} // Bad Frankenhausen, Einbrecher
+{"coords": [11.0911, 49.245], "date": "2025-11-16"}, // Zeugenaufruf Roth, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2025-11-16"}, // Harburg, Einbrüche

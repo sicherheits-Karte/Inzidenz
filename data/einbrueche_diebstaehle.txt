@@ -1044,3 +1044,13 @@
 {"coords": [9.9916, 48.3984], "date": "2025-11-17"}, // Untersuchungshaft Ulm, Raub
 {"coords": [7.5336, 52.1728], "date": "2025-11-17"}, // Mehrfamilienhauses Emsdetten, Einbruch
 {"coords": [8.0153, 48.4047], "date": "2025-11-17"}, // Gengenbach, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2025-11-17"}, // Köln, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-11-17"}, // Bielefeld, Dieb
+{"coords": [7.9833, 51.95], "date": "2025-11-17"}, // Zweifamilienhauses Warendorf, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Versuchter Wohnungseinbruchsdiebstahl Hambach, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Bremen, entwendet
+{"coords": [11.0299, 50.9848], "date": "2025-11-17"}, // Büro Erfurt, eingebrochen
+{"coords": [10.6866, 53.8655], "date": "2025-11-17"}, // Zeugen Lübeck, Diebstahl
+//{"coords": [], "date": "2025-11-17"} // Keller gestohlen mehr, gestohlen
+{"coords": [9.2108, 49.1425], "date": "2025-11-17"}, // Heilbronn, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2025-11-17"}, // Verursacher Stade, entwendet

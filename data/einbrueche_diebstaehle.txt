@@ -1025,3 +1025,13 @@
 //{"coords": [], "date": "2025-11-17"} // Mühltal, gestohlen
 {"coords": [8.6514, 49.8728], "date": "2025-11-17"}, // Darmstadt, Dieb
 //{"coords": [], "date": "2025-11-17"} // Umstadt, Einbruch
+{"coords": [9.5164, 53.925], "date": "2025-11-17"}, // Wohnhauseinbrüchen Itzehoe, Einbrüche
+//{"coords": [], "date": "2025-11-17"} // Emmerich, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Wimsheim, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2025-11-17"}, // Fotofahndung Essen, Einbrecher
+{"coords": [7.1508, 51.2562], "date": "2025-11-17"}, // Wuppertal, Raub
+//{"coords": [], "date": "2025-11-17"} // Kein Ort gefunden, Dieb
+{"coords": [10.5267, 52.2689], "date": "2025-11-17"}, // Braunschweig, Raub
+{"coords": [11.3239, 50.9795], "date": "2025-11-17"}, // Weimar, Einbrecher
+{"coords": [11.5862, 50.9271], "date": "2025-11-17"}, // Jena, Einbrecher
+//{"coords": [], "date": "2025-11-17"} // Langerwehe, Einbruch

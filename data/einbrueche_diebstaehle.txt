@@ -1041,3 +1041,6 @@
 {"coords": [7.1675, 51.9436], "date": "2025-11-17"}, // Coesfeld, Einbrecher
 {"coords": [8.7403, 48.7142], "date": "2025-11-17"}, // Calw, Einbruch
 //{"coords": [], "date": "2025-11-17"} // Einfamilienhaus Uslar, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-17"}, // Untersuchungshaft Ulm, Raub
+{"coords": [7.5336, 52.1728], "date": "2025-11-17"}, // Mehrfamilienhauses Emsdetten, Einbruch
+{"coords": [8.0153, 48.4047], "date": "2025-11-17"}, // Gengenbach, Einbruch

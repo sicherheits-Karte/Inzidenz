@@ -988,3 +988,10 @@
 {"coords": [7.1333, 52.5333], "date": "2025-11-17"}, // Wietmarschen, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2025-11-17"}, // Nordhorn, Einbruch
 {"coords": [8.9, 50.25], "date": "2025-11-17"}, // Nidderau, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2025-11-17"}, // Gera, entwendet
+{"coords": [12.4333, 50.985], "date": "2025-11-17"}, // Diebstahls Altenburg, Diebstahl
+{"coords": [8.3333, 51.4833], "date": "2025-11-17"}, // Belecke, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2025-11-17"}, // Diebstahls Gera, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2025-11-17"}, // Einfamilienhaus Altenburg, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Meuselwitz, entwendet
+//{"coords": [], "date": "2025-11-17"} // Einfamlienhaus Bad Waldliesborn, Einbruch

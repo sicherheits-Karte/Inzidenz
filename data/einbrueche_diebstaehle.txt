@@ -1091,3 +1091,6 @@
 {"coords": [9.0, 50.7333], "date": "2025-11-17"}, // Supermärkten Homberg, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2025-11-17"}, // Tat Hannover, Räuber
 {"coords": [6.85, 49.3], "date": "2025-11-17"}, // Bad Schwalbach, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-17"}, // Zeugen Freiburg, Einbrüche
+//{"coords": [], "date": "2025-11-17"} // Walldorf, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-17"}, // Akkus Aalen, Diebstahl

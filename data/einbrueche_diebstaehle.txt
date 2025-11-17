@@ -1012,3 +1012,5 @@
 {"coords": [7.1675, 51.9436], "date": "2025-11-17"}, // Einbruch Coesfeld, Einbruch
 //{"coords": [], "date": "2025-11-17"} // Gustavsburg, Einbrecher
 {"coords": [8.4153, 49.6917], "date": "2025-11-17"}, // Biblis, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Bergisch Gladbach, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2025-11-17"}, // Körle Homberg, Einbrecher

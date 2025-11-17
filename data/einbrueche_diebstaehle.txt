@@ -980,3 +980,5 @@
 {"coords": [8.1075, 53.5219], "date": "2025-11-16"}, // Zeugen Wilhelmshaven, Raub
 {"coords": [7.9667, 53.4167], "date": "2025-11-16"}, // Zetel Zetel, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2025-11-16"}, // Mannheim, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-11-17"}, // Einbruch Erfurt, Einbruch
+{"coords": [7.5978, 50.3597], "date": "2025-11-17"}, // Koblenz, Diebstahl

@@ -1058,3 +1058,10 @@
 //{"coords": [], "date": "2025-11-17"} // Hövel, Einbruch
 {"coords": [7.8508, 51.0281], "date": "2025-11-17"}, // Olpe, entwendet
 //{"coords": [], "date": "2025-11-17"} // Wohnung Vreden, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-11-17"}, // Bielefeld, stahl
+{"coords": [6.4333, 51.2], "date": "2025-11-17"}, // Mönchengladbach, stehlen
+{"coords": [7.82, 47.99], "date": "2025-11-17"}, // Zeugen Freiburg, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-11-17"}, // Frau Recklinghausen, Raub
+//{"coords": [], "date": "2025-11-17"} // Bestwig Bestwig, Diebstahl
+{"coords": [8.0, 51.45], "date": "2025-11-17"}, // Arnsberg Arnsberg, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Neckar, Einbruch

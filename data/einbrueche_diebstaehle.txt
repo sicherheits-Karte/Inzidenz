@@ -1094,3 +1094,15 @@
 {"coords": [7.82, 47.99], "date": "2025-11-17"}, // Zeugen Freiburg, Einbrüche
 //{"coords": [], "date": "2025-11-17"} // Walldorf, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-17"}, // Akkus Aalen, Diebstahl
+//{"coords": [], "date": "2025-11-17"} // Unfälle Hofheim, Einbrüche
+{"coords": [7.1833, 50.0292], "date": "2025-11-17"}, // Einfamilienhaus Zell, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-17"}, // Kaiserslautern, Dieb
+{"coords": [6.5492, 51.2631], "date": "2025-11-17"}, // Food Restaurant Willich, Raub
+//{"coords": [], "date": "2025-11-17"} // Vorst, Raub
+//{"coords": [], "date": "2025-11-17"} // Hoher Sachschaden Niedersachswerfen, Einbrecher
+//{"coords": [], "date": "2025-11-17"} // die Hauptstraße gerufen. Jugendliche alarmierten die Ordnungshüter, weil zwei Männer ihnen einen Laserpointer abgenommen und sie beleidigt hätten. Vor Ort machten die mutmaßlichen Diebe auf sich aufmerksam und gaben den Polizisten einen anderen Geschehensablauf wieder. Sie händigten den Laserpointer aus und gaben an, dass die drei Jungs, Dieb
+{"coords": [10.7753, 49.7544], "date": "2025-11-17"}, // Mühlhausen, Einbrecher
+{"coords": [8.4043, 49.014], "date": "2025-11-17"}, // Zeugen Karlsruhe, Einbrüche
+{"coords": [8.4043, 49.014], "date": "2025-11-17"}, // Einbrüchen Karlsruhe, Einbrüche
+//{"coords": [], "date": "2025-11-17"} // Schnellrestaurant Lahr, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Kreis, Einbruch

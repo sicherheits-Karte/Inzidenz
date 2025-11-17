@@ -1035,3 +1035,9 @@
 {"coords": [11.3239, 50.9795], "date": "2025-11-17"}, // Weimar, Einbrecher
 {"coords": [11.5862, 50.9271], "date": "2025-11-17"}, // Jena, Einbrecher
 //{"coords": [], "date": "2025-11-17"} // Langerwehe, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-11-17"}, // Zeugen Karlsruhe, Raub
+{"coords": [8.2146, 53.1434], "date": "2025-11-17"}, // Wochenende Oldenburg, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2025-11-17"}, // Ludwigsburg, Einbrecher
+{"coords": [7.1675, 51.9436], "date": "2025-11-17"}, // Coesfeld, Einbrecher
+{"coords": [8.7403, 48.7142], "date": "2025-11-17"}, // Calw, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Einfamilienhaus Uslar, Einbruch

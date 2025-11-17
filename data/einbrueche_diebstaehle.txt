@@ -1014,3 +1014,14 @@
 {"coords": [8.4153, 49.6917], "date": "2025-11-17"}, // Biblis, Einbruch
 //{"coords": [], "date": "2025-11-17"} // Bergisch Gladbach, Diebstahl
 {"coords": [9.0, 50.7333], "date": "2025-11-17"}, // Körle Homberg, Einbrecher
+//{"coords": [], "date": "2025-11-17"} // Volkerzen, Diebstähle
+//{"coords": [], "date": "2025-11-17"} // Zeugenhinweise Straubenhardt, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Sennelager, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-11-17"}, // Paderborn, Raub
+{"coords": [8.7667, 51.7167], "date": "2025-11-17"}, // Zeugen Paderborn, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Schloß Neuhaus, Dieb
+//{"coords": [], "date": "2025-11-17"} // Spabrücken Spabrücken, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2025-11-17"}, // Barmen Wuppertal, Raub
+//{"coords": [], "date": "2025-11-17"} // Mühltal, gestohlen
+{"coords": [8.6514, 49.8728], "date": "2025-11-17"}, // Darmstadt, Dieb
+//{"coords": [], "date": "2025-11-17"} // Umstadt, Einbruch

@@ -995,3 +995,15 @@
 {"coords": [12.4333, 50.985], "date": "2025-11-17"}, // Einfamilienhaus Altenburg, Einbruch
 //{"coords": [], "date": "2025-11-17"} // Meuselwitz, entwendet
 //{"coords": [], "date": "2025-11-17"} // Einfamlienhaus Bad Waldliesborn, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-11-17"}, // Lippstadt, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Kein Ort gefunden, Einbruch
+{"coords": [8.7197, 49.5358], "date": "2025-11-17"}, // Zeugen Gorxheimertal, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-11-17"}, // Baufachhandel Coesfeld, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-17"}, // Freiburg, Raub
+//{"coords": [], "date": "2025-11-17"} // Schule Bad Waldliesborn, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2025-11-17"}, // Zeugen Nienburg, Raub
+//{"coords": [], "date": "2025-11-17"} // Welver, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-11-17"}, // Zeugen Lippstadt, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Taschendieb Stolberg, Dieb
+{"coords": [12.4333, 50.985], "date": "2025-11-17"}, // Autodiebstahl Altenburg, Diebstahl
+{"coords": [13.0819, 54.3092], "date": "2025-11-17"}, // Heizungsableser Stralsund, Diebstahl

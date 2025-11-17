@@ -1068,3 +1068,4 @@
 {"coords": [7.2, 51.6167], "date": "2025-11-17"}, // Recklinghausen, Raub
 //{"coords": [], "date": "2025-11-17"} // Frömern Fröndenberg, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-17"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.2711, 50.0], "date": "2025-11-17"}, // Mainz Mainz, Einbruch

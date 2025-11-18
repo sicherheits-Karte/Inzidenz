@@ -1144,3 +1144,7 @@
 {"coords": [10.45, 51.15], "date": "2025-11-18"}, // Niederdorla, Einbrecher
 {"coords": [8.5331, 52.021], "date": "2025-11-18"}, // Bielefeld, gestohlen
 {"coords": [9.8222, 53.6028], "date": "2025-11-18"}, // Mehrfamilienhaus Schenefeld, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2025-11-18"}, // Kleve, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2025-11-18"}, // Wohnungseinbruchsdiebstahl Offenburg, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Kein Ort gefunden, entwendet
+{"coords": [9.5, 51.3167], "date": "2025-11-18"}, // Kassel, Einbruch

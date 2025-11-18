@@ -1210,3 +1210,5 @@
 {"coords": [6.9603, 50.9375], "date": "2025-11-18"}, // Köln, Raub
 {"coords": [8.0472, 52.2799], "date": "2025-11-18"}, // Zeugen Osnabrück, Räuber
 {"coords": [10.8978, 48.3705], "date": "2025-11-18"}, // Fahrrads Augsburg, Diebstahl
+//{"coords": [], "date": "2025-11-18"} // Wohnung Schweich, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2025-11-18"}, // Trier, Diebstahl

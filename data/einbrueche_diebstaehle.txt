@@ -1148,3 +1148,7 @@
 {"coords": [7.9447, 48.4731], "date": "2025-11-18"}, // Wohnungseinbruchsdiebstahl Offenburg, Einbruch
 //{"coords": [], "date": "2025-11-18"} // Kein Ort gefunden, entwendet
 {"coords": [9.5, 51.3167], "date": "2025-11-18"}, // Kassel, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Rhein, Dieb
+//{"coords": [], "date": "2025-11-18"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2025-11-18"} // Griesheim, aufbruch
+{"coords": [9.4764, 53.6008], "date": "2025-11-18"}, // Stade entwendet, Bei Parkmanöver Auto in Stade beschädigt, entwendet

@@ -1273,3 +1273,12 @@
 {"coords": [8.2869, 52.7303], "date": "2025-11-19"}, // Vechta, Diebstahl
 //{"coords": [], "date": "2025-11-19"} // Hohenlimburg, Einbruch
 {"coords": [11.4012, 53.6355], "date": "2025-11-19"}, // Schwerin, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2025-11-19"}, // Eigentumskriminalität Goslar, Einbrüche
+{"coords": [9.0861, 54.375], "date": "2025-11-19"}, // Friedrichstadt, gestohlen
+{"coords": [7.0116, 51.4556], "date": "2025-11-19"}, // Präventionshinweise Essen, Einbruch
+{"coords": [9.732, 52.3759], "date": "2025-11-19"}, // Hannover, gestohlen
+{"coords": [8.6167, 49.6833], "date": "2025-11-19"}, // Zeugen Bensheim, entwendet
+{"coords": [8.6944, 49.4092], "date": "2025-11-19"}, // Zeugenaufruf Heidelberg, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2025-11-19"}, // Osnabrück, Diebstahl
+{"coords": [8.3667, 50.0], "date": "2025-11-19"}, // Bischofsheim, gestohlen
+//{"coords": [], "date": "2025-11-19"} // Möbeltresor Bremerhaven, Einbruch

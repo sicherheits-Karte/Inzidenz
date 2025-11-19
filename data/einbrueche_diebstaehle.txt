@@ -1251,3 +1251,5 @@
 //{"coords": [], "date": "2025-11-19"} // Polizei Mettmann POL-ME, Diebstähle
 //{"coords": [], "date": "2025-11-19"} // Bad Segeberg, Einbruch
 {"coords": [8.5331, 52.021], "date": "2025-11-19"}, // Bielefeld, gestohlen
+//{"coords": [], "date": "2025-11-19"} // Baum, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2025-11-19"}, // Zeugenaufruf Düsseldorf, Raub

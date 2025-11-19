@@ -1286,3 +1286,5 @@
 {"coords": [6.4333, 51.2], "date": "2025-11-19"}, // Stadtgebiet Mönchengladbach, Einbruch
 {"coords": [7.7806, 53.5769], "date": "2025-11-19"}, // Wittmund, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2025-11-19"}, // Bäckerei Wesel, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-11-19"}, // Wiefelstede Oldenburg, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Einfamilienhaus Uslar, Einbruch

@@ -1229,3 +1229,8 @@
 //{"coords": [], "date": "2025-11-19"} // Bremen, Einbruch
 {"coords": [9.0, 50.7333], "date": "2025-11-19"}, // Geräte Homberg, Einbruch
 {"coords": [7.0116, 51.4556], "date": "2025-11-19"}, // Präventionshinweise Essen, Diebstähle
+//{"coords": [], "date": "2025-11-19"} // Mittelstadt, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2025-11-19"}, // Darmstadt, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-11-19"}, // Zeugen Homberg, aufbrüche
+{"coords": [8.6514, 49.8728], "date": "2025-11-19"}, // Darmstadt, Einbrecher
+{"coords": [10.0, 51.7064], "date": "2025-11-19"}, // Dienstag Northeim, Einbrüche

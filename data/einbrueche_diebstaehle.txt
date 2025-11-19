@@ -1235,3 +1235,10 @@
 {"coords": [8.6514, 49.8728], "date": "2025-11-19"}, // Darmstadt, Einbrecher
 {"coords": [10.0, 51.7064], "date": "2025-11-19"}, // Dienstag Northeim, Einbrüche
 {"coords": [8.0167, 50.8756], "date": "2025-11-19"}, // Siegen, Diebstahl
+//{"coords": [], "date": "2025-11-19"} // Fahrstedt, Einbrüche
+//{"coords": [], "date": "2025-11-19"} // Fintel aufgebrochen, Diebstähle
+{"coords": [6.4833, 50.8], "date": "2025-11-19"}, // Düren, Diebstahl
+//{"coords": [], "date": "2025-11-19"} // Lippe, Einbrecher
+//{"coords": [], "date": "2025-11-19"} // Lippe, Einbruch
+{"coords": [6.6833, 51.2], "date": "2025-11-19"}, // Neuss, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Weimarer Land, entwendet

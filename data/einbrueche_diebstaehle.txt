@@ -1213,3 +1213,4 @@
 //{"coords": [], "date": "2025-11-18"} // Wohnung Schweich, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2025-11-18"}, // Trier, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2025-11-18"}, // Trier, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Oerlsdorf, entwendet

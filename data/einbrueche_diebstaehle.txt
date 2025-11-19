@@ -1234,3 +1234,4 @@
 {"coords": [9.0, 50.7333], "date": "2025-11-19"}, // Zeugen Homberg, aufbrüche
 {"coords": [8.6514, 49.8728], "date": "2025-11-19"}, // Darmstadt, Einbrecher
 {"coords": [10.0, 51.7064], "date": "2025-11-19"}, // Dienstag Northeim, Einbrüche
+{"coords": [8.0167, 50.8756], "date": "2025-11-19"}, // Siegen, Diebstahl

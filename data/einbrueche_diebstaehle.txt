@@ -1323,3 +1323,6 @@
 //{"coords": [], "date": "2025-11-19"} // Nittel Nittel, Einbruch
 //{"coords": [], "date": "2025-11-19"} // Hofheim, Einbrecher
 {"coords": [6.9603, 50.9375], "date": "2025-11-19"}, // Köln, Raub
+//{"coords": [], "date": "2025-11-19"} // Wohnungen Rodewald, Diebstähle
+{"coords": [8.24, 50.0822], "date": "2025-11-19"}, // Großangelegte Kontrollmaßnahme Wiesbaden, Einbrüche
+{"coords": [6.9603, 50.9375], "date": "2025-11-19"}, // Öffentlichkeitsfahndung Köln, Dieb

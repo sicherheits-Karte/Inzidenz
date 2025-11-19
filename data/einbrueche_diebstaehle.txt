@@ -1289,3 +1289,14 @@
 {"coords": [8.2146, 53.1434], "date": "2025-11-19"}, // Wiefelstede Oldenburg, Einbruch
 //{"coords": [], "date": "2025-11-19"} // Einfamilienhaus Uslar, Einbruch
 {"coords": [9.9158, 51.5413], "date": "2025-11-19"}, // Göttingen, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Mithilfe Giessen, aufbrüche
+//{"coords": [], "date": "2025-11-19"} // Einbruchs Giessen, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-19"}, // Kaiserslautern, gestohlen
+//{"coords": [], "date": "2025-11-19"} // Festnahme Niederkrüchten, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2025-11-19"}, // Kaiserslautern, eingebrochen
+//{"coords": [], "date": "2025-11-19"} // mehreren zehntausend Euro. Zeugen, denen verdächtige Personen oder Fahrzeuge aufgefallen sind, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2025-11-19"}, // Wohnhaus Recklinghausen, Einbruch
+{"coords": [9.0492, 52.2603], "date": "2025-11-19"}, // Betriebe Bückeburg, Einbruch
+{"coords": [7.5978, 50.3597], "date": "2025-11-19"}, // Zeugen Koblenz, Raub
+{"coords": [8.3708, 52.6078], "date": "2025-11-19"}, // Diepholz, Diebstahl
+{"coords": [7.8153, 48.5708], "date": "2025-11-19"}, // Folgen Kehl, Diebstahl

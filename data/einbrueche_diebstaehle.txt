@@ -1315,3 +1315,5 @@
 //{"coords": [], "date": "2025-11-19"} // dem Kreisgebiet, Einbrüche
 {"coords": [10.65, 52.25], "date": "2025-11-19"}, // Cremlingen, Einbruch
 {"coords": [8.3194, 48.8039], "date": "2025-11-19"}, // Wohnungseinbruch Gaggenau, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-11-19"}, // Scooters Nordhorn, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-11-19"}, // Beratungsangeboten Wiesbaden, Diebstahl

@@ -1317,3 +1317,9 @@
 {"coords": [8.3194, 48.8039], "date": "2025-11-19"}, // Wohnungseinbruch Gaggenau, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2025-11-19"}, // Scooters Nordhorn, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2025-11-19"}, // Beratungsangeboten Wiesbaden, Diebstahl
+//{"coords": [], "date": "2025-11-19"} // Kein Ort gefunden, Dieb
+//{"coords": [], "date": "2025-11-19"} // Schiesheim, Einbruch
+{"coords": [13.5833, 53.4667], "date": "2025-11-19"}, // Woldegk, Dieb
+//{"coords": [], "date": "2025-11-19"} // Nittel Nittel, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Hofheim, Einbrecher
+{"coords": [6.9603, 50.9375], "date": "2025-11-19"}, // Köln, Raub

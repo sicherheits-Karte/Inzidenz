@@ -1419,3 +1419,11 @@
 {"coords": [9.1919, 48.8975], "date": "2025-11-20"}, // Ludwigsburg, Diebstahl
 {"coords": [8.5167, 53.65], "date": "2025-11-20"}, // Wremen Cuxhaven, Diebstahl
 {"coords": [7.8667, 51.2167], "date": "2025-11-20"}, // Computerbetrug Plettenberg, Diebstahl
+//{"coords": [], "date": "2025-11-20"} // Kein Ort gefunden, gestohlen
+{"coords": [13.0639, 53.3611], "date": "2025-11-20"}, // Neustrelitz, Diebstahl
+//{"coords": [], "date": "2025-11-20"} // Polizei Mettmann POL-ME, gestohlen
+//{"coords": [], "date": "2025-11-20"} // mutmaßlich gestohlenem Schmuck mehr, gestohlen
+//{"coords": [], "date": "2025-11-20"} // Giessen, Einbruch
+{"coords": [11.2333, 51.3333], "date": "2025-11-20"}, // Jährigen Bretleben, entwendet
+{"coords": [10.4, 53.25], "date": "2025-11-20"}, // Lüneburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-20"}, // Freiburg, gestohlen

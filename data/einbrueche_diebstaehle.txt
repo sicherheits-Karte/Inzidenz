@@ -1353,3 +1353,6 @@
 {"coords": [6.0839, 50.7753], "date": "2025-11-20"}, // Geldsumme Aachen, Diebstahl
 //{"coords": [], "date": "2025-11-20"} // Hinweise Rheinberg, Einbruch
 {"coords": [12.9667, 53.2833], "date": "2025-11-20"}, // Wesenberg, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-11-20"}, // Paderborn, Diebstahl
+//{"coords": [], "date": "2025-11-20"} // Lippe, eingebrochen
+//{"coords": [], "date": "2025-11-20"} // Gustavsburg, Diebstahl

@@ -1418,3 +1418,4 @@
 //{"coords": [], "date": "2025-11-20"} // Freinsheim, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2025-11-20"}, // Ludwigsburg, Diebstahl
 {"coords": [8.5167, 53.65], "date": "2025-11-20"}, // Wremen Cuxhaven, Diebstahl
+{"coords": [7.8667, 51.2167], "date": "2025-11-20"}, // Computerbetrug Plettenberg, Diebstahl

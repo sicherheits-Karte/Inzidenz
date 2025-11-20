@@ -1330,3 +1330,4 @@
 {"coords": [10.8978, 48.3705], "date": "2025-11-19"}, // Augsburg, entwendet
 //{"coords": [], "date": "2025-11-19"} // Scheid Scheid, Diebstahl
 //{"coords": [], "date": "2025-11-19"} // Steinalben, Einbruch
+{"coords": [12.75, 53.7], "date": "2025-11-20"}, // Einfamilienhäuser in Gielow, Einbruch

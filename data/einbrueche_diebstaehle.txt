@@ -1371,3 +1371,7 @@
 {"coords": [9.2108, 49.1425], "date": "2025-11-20"}, // Unfall Heilbronn, Einbruch
 //{"coords": [], "date": "2025-11-20"} // Oberstein, Einbruch
 //{"coords": [], "date": "2025-11-20"} // Kuppenheim, Einbrecher
+{"coords": [9.4108, 53.1111], "date": "2025-11-20"}, // Rotenburg, Einbruch
+{"coords": [9.9333, 54.3], "date": "2025-11-20"}, // Felde gesucht Felde, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-20"}, // Kaiserslautern, Dieb
+{"coords": [8.1075, 53.5219], "date": "2025-11-20"}, // Wilhelmshaven, Diebstahl

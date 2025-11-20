@@ -1432,3 +1432,7 @@
 {"coords": [9.6775, 50.5528], "date": "2025-11-20"}, // Tankstelle Fulda, Einbruch
 {"coords": [9.3833, 50.6333], "date": "2025-11-20"}, // Geldbörse Vogelsbergkreis, Einbruch
 //{"coords": [], "date": "2025-11-20"} // Baden, Einbrecher
+{"coords": [10.8978, 48.3705], "date": "2025-11-20"}, // Scooter Diebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-11-20"}, // Polizeibeamter Augsburg, eingebrochen
+{"coords": [7.82, 47.99], "date": "2025-11-20"}, // Rathaus Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-20"}, // Freiburg, Einbruch

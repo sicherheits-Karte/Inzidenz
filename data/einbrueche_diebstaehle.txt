@@ -1392,3 +1392,10 @@
 {"coords": [7.2, 51.6167], "date": "2025-11-20"}, // Recklinghausen, aufbrüche
 {"coords": [8.2869, 52.7303], "date": "2025-11-20"}, // Vechta, Einbruch
 {"coords": [9.984, 54.0714], "date": "2025-11-20"}, // Neumünster Neumünster, Einbrüche
+//{"coords": [], "date": "2025-11-20"} // Mobiltelefon Dormagen, entwendet
+{"coords": [7.2197, 51.5428], "date": "2025-11-20"}, // Zeugen Herne, Einbrecher
+{"coords": [8.4661, 49.4878], "date": "2025-11-20"}, // Zeugenaufruf Mannheim, eingebrochen
+{"coords": [11.2139, 49.3758], "date": "2025-11-20"}, // Zeugenaufruf Feucht, gestohlen
+{"coords": [10.4167, 50.55], "date": "2025-11-20"}, // Shop Meiningen, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Schortens Schortens, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2025-11-20"}, // Düsseldorf, Diebstahl

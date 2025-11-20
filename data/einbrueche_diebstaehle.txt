@@ -1356,3 +1356,11 @@
 {"coords": [8.7667, 51.7167], "date": "2025-11-20"}, // Paderborn, Diebstahl
 //{"coords": [], "date": "2025-11-20"} // Lippe, eingebrochen
 //{"coords": [], "date": "2025-11-20"} // Gustavsburg, Diebstahl
+//{"coords": [], "date": "2025-11-20"} // Kein Ort gefunden, Einbrecher
+{"coords": [9.0, 50.7333], "date": "2025-11-20"}, // Homberg, gestohlen
+{"coords": [8.6514, 49.8728], "date": "2025-11-20"}, // Darmstadt, Dieb
+{"coords": [9.9916, 48.3984], "date": "2025-11-20"}, // Ulm, Einbrecher
+//{"coords": [], "date": "2025-11-20"} // Altenhagen, Raub
+//{"coords": [], "date": "2025-11-20"} // Sandweier, Einbruch
+{"coords": [8.5833, 48.95], "date": "2025-11-20"}, // Zeugenhinweise Remchingen, Einbrecher
+//{"coords": [], "date": "2025-11-20"} // Supermarkt Marienheide, Einbruch

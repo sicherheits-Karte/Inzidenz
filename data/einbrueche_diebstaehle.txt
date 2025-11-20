@@ -1428,3 +1428,7 @@
 {"coords": [10.4, 53.25], "date": "2025-11-20"}, // Lüneburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-20"}, // Freiburg, gestohlen
 //{"coords": [], "date": "2025-11-20"} // Einfamilienhaus Siershahn, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-20"}, // Containeraufbruch Reutlingen, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2025-11-20"}, // Tankstelle Fulda, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2025-11-20"}, // Geldbörse Vogelsbergkreis, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Baden, Einbrecher

@@ -1378,3 +1378,13 @@
 //{"coords": [], "date": "2025-11-20"} // Bergisch Gladbach, Diebstahl
 {"coords": [10.0528, 51.1889], "date": "2025-11-20"}, // Eschwege, Diebstahl
 {"coords": [6.0167, 51.7917], "date": "2025-11-20"}, // Kranenburg, Einbruch
+{"coords": [8.0169, 50.3714], "date": "2025-11-20"}, // Wohnungseinbruchsdiebstahl Diez, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Ottenau, eingebrochen
+{"coords": [8.0472, 52.2799], "date": "2025-11-20"}, // Ladesäulen Osnabrück, Diebstahl
+{"coords": [6.3583, 50.9222], "date": "2025-11-20"}, // Jülich, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-11-20"}, // Straße Gütersloh, Einbruch
+{"coords": [8.705, 48.895], "date": "2025-11-20"}, // Zeugen Pforzheim, Raub
+//{"coords": [], "date": "2025-11-20"} // Tuningen, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Haspe, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-20"}, // Ludwigshafen, gestohlen
+{"coords": [7.5658, 51.4458], "date": "2025-11-20"}, // Schwerte, Einbruch

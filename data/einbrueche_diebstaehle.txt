@@ -1364,3 +1364,10 @@
 //{"coords": [], "date": "2025-11-20"} // Sandweier, Einbruch
 {"coords": [8.5833, 48.95], "date": "2025-11-20"}, // Zeugenhinweise Remchingen, Einbrecher
 //{"coords": [], "date": "2025-11-20"} // Supermarkt Marienheide, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-11-20"}, // Ludwigsburg, entwendet
+{"coords": [8.875, 53.05], "date": "2025-11-20"}, // Osterholz, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Mittelstadt, Diebstahl
+{"coords": [8.0, 51.45], "date": "2025-11-20"}, // Neheim Arnsberg, Räuber
+{"coords": [9.2108, 49.1425], "date": "2025-11-20"}, // Unfall Heilbronn, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Oberstein, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Kuppenheim, Einbrecher

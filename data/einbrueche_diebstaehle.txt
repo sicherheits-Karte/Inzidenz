@@ -1441,3 +1441,4 @@
 //{"coords": [], "date": "2025-11-20"} // Einfamilienhaus Hilgert, Einbruch
 //{"coords": [], "date": "2025-11-20"} // Prüm Reginostraße Prüm, Einbruch
 //{"coords": [], "date": "2025-11-21"} // Diebstahl Pfeilwegweiser Wallersheim, Diebstahl
+{"coords": [7.6667, 50.55], "date": "2025-11-21"}, // Kennzeichendiebstahl Dierdorf, Diebstahl

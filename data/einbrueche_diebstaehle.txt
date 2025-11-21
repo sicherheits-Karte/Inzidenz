@@ -1459,3 +1459,5 @@
 {"coords": [8.2833, 51.35], "date": "2025-11-21"}, // Meschede, Diebstahl
 {"coords": [12.5667, 53.7833], "date": "2025-11-21"}, // Teterow Teterow, Dieb
 //{"coords": [], "date": "2025-11-21"} // Tonne Brilon, Einbruch
+{"coords": [8.875, 53.05], "date": "2025-11-21"}, // Osterholz, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Haspe, stahl

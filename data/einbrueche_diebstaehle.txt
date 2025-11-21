@@ -1553,3 +1553,5 @@
 {"coords": [7.82, 47.99], "date": "2025-11-21"}, // Wohnung Freiburg, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2025-11-21"}, // Ulm, Diebstahl
 //{"coords": [], "date": "2025-11-21"} // Hemer, Raub
+{"coords": [8.45, 50.0167], "date": "2025-11-21"}, // Raunheim, entwendet
+//{"coords": [], "date": "2025-11-21"} // Kein Ort gefunden, Diebstahl

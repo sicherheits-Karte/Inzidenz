@@ -1559,3 +1559,5 @@
 {"coords": [9.2167, 48.4833], "date": "2025-11-21"}, // Zeugenaufruf Reutlingen, Einbruch
 //{"coords": [], "date": "2025-11-21"} // Prüm Prüm, Einbruch
 {"coords": [10.2333, 52.3203], "date": "2025-11-21"}, // Peine, Diebstahl
+//{"coords": [], "date": "2025-11-21"} // Thiede, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Ilsede, Diebstahl

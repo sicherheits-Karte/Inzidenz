@@ -1477,3 +1477,11 @@
 {"coords": [8.7667, 51.7167], "date": "2025-11-21"}, // Paderborn, aufbruch
 //{"coords": [], "date": "2025-11-21"} // Garenfeld, Raub
 //{"coords": [], "date": "2025-11-21"} // Kirn, Einbruch
+{"coords": [9.732, 52.3759], "date": "2025-11-21"}, // Untersuchungshaft Hannover, Raub
+//{"coords": [], "date": "2025-11-21"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.9937, 53.5511], "date": "2025-11-21"}, // Wilstorf Hamburg, Raub
+{"coords": [7.2, 51.6167], "date": "2025-11-21"}, // Recklinghausen, Raub
+{"coords": [6.7583, 51.6417], "date": "2025-11-21"}, // Zeugen Hünxe, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Zeugen Alpen, eingebrochen
+//{"coords": [], "date": "2025-11-21"} // Verkehrsunfälle Hohenlohekreis, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-21"}, // Ulm, Einbruch

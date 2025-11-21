@@ -1523,3 +1523,11 @@
 //{"coords": [], "date": "2025-11-21"} // Kein Ort gefunden, gestohlen
 //{"coords": [], "date": "2025-11-21"} // Diebesgut Bremerhaven, Dieb
 {"coords": [9.6775, 50.5528], "date": "2025-11-21"}, // Farbschmierereien Fulda, gestohlen
+{"coords": [8.4043, 49.014], "date": "2025-11-21"}, // Mehrfamilienhaus Karlsruhe, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-11-21"}, // Wohnhauses Karlsruhe, Einbruch
+{"coords": [6.9667, 52.5], "date": "2025-11-21"}, // Grafschaft Bentheim Neuenhaus, Raub
+//{"coords": [], "date": "2025-11-21"} // Oberndorf, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2025-11-21"}, // Schwerte, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Kreis, Einbruch
+{"coords": [7.1, 51.5167], "date": "2025-11-21"}, // Gelsenkirchen, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2025-11-21"}, // Seniorin Duisburg, stehlen

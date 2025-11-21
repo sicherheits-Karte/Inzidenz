@@ -1556,3 +1556,4 @@
 {"coords": [8.45, 50.0167], "date": "2025-11-21"}, // Raunheim, entwendet
 //{"coords": [], "date": "2025-11-21"} // Kein Ort gefunden, Diebstahl
 //{"coords": [], "date": "2025-11-21"} // Schubverband gemeldet, der in Höhe der Reede Bad Salzig, bei Rhein-km, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-21"}, // Zeugenaufruf Reutlingen, Einbruch

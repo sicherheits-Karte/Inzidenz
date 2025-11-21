@@ -1456,3 +1456,6 @@
 {"coords": [7.7, 51.375], "date": "2025-11-21"}, // Sümmern Iserlohn, Einbruch
 {"coords": [7.8, 51.4333], "date": "2025-11-21"}, // Diebstahl Menden, Diebstahl
 {"coords": [7.0982, 50.7374], "date": "2025-11-21"}, // Zeugen Bonn, Einbruch
+{"coords": [8.2833, 51.35], "date": "2025-11-21"}, // Meschede, Diebstahl
+{"coords": [12.5667, 53.7833], "date": "2025-11-21"}, // Teterow Teterow, Dieb
+//{"coords": [], "date": "2025-11-21"} // Tonne Brilon, Einbruch

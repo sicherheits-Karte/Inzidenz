@@ -1490,3 +1490,15 @@
 {"coords": [10.7865, 52.4226], "date": "2025-11-21"}, // Wolfsburg, entwendet
 //{"coords": [], "date": "2025-11-21"} // Kevelaer, Diebstahl
 {"coords": [9.4108, 53.1111], "date": "2025-11-21"}, // Rotenburg, Diebstahl
+{"coords": [8.7167, 50.9], "date": "2025-11-21"}, // Tresor Wetter, Einbruch
+{"coords": [10.0075, 53.7064], "date": "2025-11-21"}, // Zeugen Norderstedt, Einbruch
+{"coords": [9.7167, 53.7], "date": "2025-11-21"}, // Tornesch, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-11-21"}, // Ladendetektiv Bielefeld, stahl
+{"coords": [7.1, 51.5167], "date": "2025-11-21"}, // Gelsenkirchen, aufbrüche
+{"coords": [9.2167, 48.4833], "date": "2025-11-21"}, // Brände Reutlingen, Diebstahl
+//{"coords": [], "date": "2025-11-21"} // Sillenbuch, eingebrochen
+{"coords": [7.2061, 53.3669], "date": "2025-11-21"}, // Emden, Diebstahl
+//{"coords": [], "date": "2025-11-21"} // Giessen, Einbrecher
+{"coords": [10.6944, 50.6111], "date": "2025-11-21"}, // Bäckereifiliale Suhl, Einbruch
+{"coords": [9.4456, 51.8281], "date": "2025-11-21"}, // Holzminden, Diebstähle
+//{"coords": [], "date": "2025-11-21"} // Kein Ort gefunden, Diebstähle

@@ -1531,3 +1531,14 @@
 //{"coords": [], "date": "2025-11-21"} // Kreis, Einbruch
 {"coords": [7.1, 51.5167], "date": "2025-11-21"}, // Gelsenkirchen, Diebstahl
 {"coords": [6.7623, 51.4344], "date": "2025-11-21"}, // Seniorin Duisburg, stehlen
+{"coords": [6.9889, 51.8944], "date": "2025-11-21"}, // Velen, Diebstahl
+{"coords": [9.6667, 54.2333], "date": "2025-11-21"}, // Tankstelle in Jevenstedt Jevenstedt, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Leinefelde, Einbrecher
+{"coords": [10.7753, 49.7544], "date": "2025-11-21"}, // Kirchgemeinde Mühlhausen, Einbruch
+{"coords": [6.9889, 51.8944], "date": "2025-11-21"}, // Velen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-11-21"}, // Mehrfamilienhaus Ludwigsburg, Einbruch
+{"coords": [6.0839, 50.7753], "date": "2025-11-21"}, // Aachen, Raub
+//{"coords": [], "date": "2025-11-21"} // Bargeld Dinslaken, eingebrochen
+//{"coords": [], "date": "2025-11-21"} // Frontalzusammenstoß Hofheim, Einbrüche
+{"coords": [9.95, 52.15], "date": "2025-11-21"}, // Ochtersum Hildesheim, Einbruch
+{"coords": [8.5333, 50.0667], "date": "2025-11-21"}, // Kelsterbach, entwendet

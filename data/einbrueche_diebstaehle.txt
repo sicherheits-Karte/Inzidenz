@@ -1585,3 +1585,6 @@
 //{"coords": [], "date": "2025-11-22"} // Straße, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-22"}, // Freiburg, Diebstahl
 {"coords": [8.2146, 53.1434], "date": "2025-11-22"}, // Oldenburg, Einbruch
+//{"coords": [], "date": "2025-11-22"} // Sessenhausen, gestohlen
+{"coords": [8.2869, 52.7303], "date": "2025-11-22"}, // Vechta, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-11-22"}, // Limburg, Einbrüche

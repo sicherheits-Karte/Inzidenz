@@ -1574,3 +1574,4 @@
 //{"coords": [], "date": "2025-11-22"} // Bankmitarbeitern-- Bremen, entwendet
 {"coords": [8.2869, 52.7303], "date": "2025-11-22"}, // Vechta, Diebstahl
 //{"coords": [], "date": "2025-11-22"} // Barbelroth, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-11-22"}, // Waffe Heidelberg, Diebstahl

@@ -1571,3 +1571,5 @@
 {"coords": [6.8889, 49.9858], "date": "2025-11-22"}, // Rollators Wittlich, Diebstahl
 {"coords": [7.0667, 52.4333], "date": "2025-11-22"}, // Nordhorn, Einbruch
 //{"coords": [], "date": "2025-11-22"} // Schweinheimer Kirchl Jockgrim, Einbruch
+//{"coords": [], "date": "2025-11-22"} // Bankmitarbeitern-- Bremen, entwendet
+{"coords": [8.2869, 52.7303], "date": "2025-11-22"}, // Vechta, Diebstahl

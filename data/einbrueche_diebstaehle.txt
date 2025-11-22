@@ -1590,3 +1590,4 @@
 {"coords": [8.0667, 50.3833], "date": "2025-11-22"}, // Limburg, Einbrüche
 {"coords": [9.95, 52.15], "date": "2025-11-22"}, // Dunsen Hildesheim, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2025-11-22"}, // Düsseldorf, Raub
+{"coords": [7.2197, 51.5428], "date": "2025-11-22"}, // Herne, Raub

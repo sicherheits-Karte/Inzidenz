@@ -1606,3 +1606,11 @@
 {"coords": [8.375, 49.3833], "date": "2025-11-23"}, // Schifferstadt, Einbruch
 {"coords": [12.1997, 50.6544], "date": "2025-11-23"}, // Greiz, Dieb
 {"coords": [12.1997, 50.6544], "date": "2025-11-23"}, // Greiz Greiz, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-11-23"}, // Mehrfamilienhaus Warendorf, Einbruch
+{"coords": [6.0961, 51.0631], "date": "2025-11-23"}, // Heinsberg, Einbruch
+{"coords": [9.8333, 53.95], "date": "2025-11-23"}, // Tageswohnungseinbruch Hagen, Einbruch
+//{"coords": [], "date": "2025-11-23"} // Hofheim, Diebstahl
+//{"coords": [], "date": "2025-11-23"} // Schwerfen, Einbruch
+{"coords": [10.9464, 50.8342], "date": "2025-11-23"}, // Zeugensuche Arnstadt, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-11-23"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2025-11-23"}, // Bikes Nordhausen, Diebstahl

@@ -1614,3 +1614,6 @@
 {"coords": [10.9464, 50.8342], "date": "2025-11-23"}, // Zeugensuche Arnstadt, Einbruch
 {"coords": [7.9833, 51.95], "date": "2025-11-23"}, // Einfamilienhaus Warendorf, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2025-11-23"}, // Bikes Nordhausen, Diebstahl
+//{"coords": [], "date": "2025-11-23"} // Wohnmobil-- Bremen, gestohlen
+{"coords": [10.6944, 50.6111], "date": "2025-11-23"}, // Fahrzeugaufbruch Suhl, aufbruch
+{"coords": [10.6944, 50.6111], "date": "2025-11-23"}, // Einbruch Suhl, Einbruch

@@ -1645,3 +1645,8 @@
 //{"coords": [], "date": "2025-11-23"} // Outdoorkleidung Uslar, Diebstahl
 //{"coords": [], "date": "2025-11-23"} // Zeugen Gronau, Diebstahl
 {"coords": [7.0042, 51.9542], "date": "2025-11-23"}, // Zeugen Gescher, Diebstähle
+//{"coords": [], "date": "2025-11-23"} // Fahrzeug Klausen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-23"}, // Reutlingen, Einbrüche
+{"coords": [6.8889, 49.9858], "date": "2025-11-23"}, // Fahrzeug Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2025-11-23"}, // Zusammenhang Wittlich, Einbruch
+{"coords": [10.4, 53.25], "date": "2025-11-23"}, // Lüneburg, Einbruch

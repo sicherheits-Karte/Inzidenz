@@ -1790,3 +1790,12 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-24"}, // Diebstähle Aalen, Diebstähle
 //{"coords": [], "date": "2025-11-24"} // Aldingen, Diebstahl
 //{"coords": [], "date": "2025-11-24"} // Wurmlingen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-24"}, // Kinderhaus Reutlingen, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2025-11-24"}, // Scooters Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-11-24"}, // Augsburg, Dieb
+{"coords": [10.8978, 48.3705], "date": "2025-11-24"}, // Autodiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-11-24"}, // Fahrraddiebstählen Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-11-24"}, // Einbruchsversuch Augsburg, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Stadtgebiet, eingebrochen
+//{"coords": [], "date": "2025-11-24"} // Giessen, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-24"}, // Wohnhaus Freiburg, Einbruch

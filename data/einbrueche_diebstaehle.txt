@@ -1666,3 +1666,4 @@
 //{"coords": [], "date": "2025-11-23"} // Jährigen Gillenfeld, Diebstahl
 {"coords": [9.95, 52.15], "date": "2025-11-24"}, // Einfamilienhaus Hildesheim, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Personen Karlshausen, eigentumsdelikt
+//{"coords": [], "date": "2025-11-24"} // Scheune Eckfeld, Einbruch

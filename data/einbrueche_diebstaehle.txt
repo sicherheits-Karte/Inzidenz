@@ -1667,3 +1667,6 @@
 {"coords": [9.95, 52.15], "date": "2025-11-24"}, // Einfamilienhaus Hildesheim, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Personen Karlshausen, eigentumsdelikt
 //{"coords": [], "date": "2025-11-24"} // Scheune Eckfeld, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2025-11-24"}, // Treppenhaus Gera, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2025-11-24"}, // Garten Greiz, Einbruch
+{"coords": [12.4333, 50.985], "date": "2025-11-24"}, // Ladendiebstahl Supermarkt Altenburg, Diebstahl

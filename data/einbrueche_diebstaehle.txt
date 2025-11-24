@@ -1685,3 +1685,6 @@
 {"coords": [7.1675, 51.9436], "date": "2025-11-24"}, // Coesfeld, entwendet
 {"coords": [8.7069, 49.5622], "date": "2025-11-24"}, // Zeugen Birkenau, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2025-11-24"} // Dokument mehr, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Michelbach, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Schmuck Abtsteinach, Einbruch

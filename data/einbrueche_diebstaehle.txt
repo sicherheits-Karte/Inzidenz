@@ -1757,3 +1757,14 @@
 //{"coords": [], "date": "2025-11-24"} // Lippe, Einbrecher
 //{"coords": [], "date": "2025-11-24"} // Lippe, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2025-11-24"}, // Zuhause Ludwigsburg, Einbrüche
+{"coords": [7.0, 49.2333], "date": "2025-11-24"}, // Saarbrücken Saarbrücken, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Polizei Giessen, Dieb
+//{"coords": [], "date": "2025-11-24"} // Zeugen Gronau, gestohlen
+//{"coords": [], "date": "2025-11-24"} // Heek, Einbrecher
+{"coords": [7.1508, 51.2562], "date": "2025-11-24"}, // Wuppertal, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-11-24"}, // Recklinghausen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-11-24"}, // Ludwigsburg, Raub
+{"coords": [9.1681, 48.8319], "date": "2025-11-24"}, // Zuffenhausen, Raub
+//{"coords": [], "date": "2025-11-24"} // Höhe, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Hofheim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-11-24"}, // Wiesbaden, Einbrüche

@@ -1746,3 +1746,7 @@
 //{"coords": [], "date": "2025-11-24"} // Trunkenheitsfahrt Buchholz, gestohlen
 //{"coords": [], "date": "2025-11-24"} // POL-PDNR, Diebstahl
 {"coords": [9.1753, 47.6633], "date": "2025-11-24"}, // Konstanz, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2025-11-24"}, // Schmuck Gevelsberg, Einbruch
+{"coords": [10.4, 53.25], "date": "2025-11-24"}, // Lüneburg, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Personen Karlshausen, gestohlen
+{"coords": [9.2108, 49.1425], "date": "2025-11-24"}, // Handlungen Heilbronn, Einbrüche

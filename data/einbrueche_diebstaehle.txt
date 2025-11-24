@@ -1768,3 +1768,7 @@
 //{"coords": [], "date": "2025-11-24"} // Höhe, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Hofheim, Einbruch
 {"coords": [8.24, 50.0822], "date": "2025-11-24"}, // Wiesbaden, Einbrüche
+{"coords": [10.0528, 51.1889], "date": "2025-11-24"}, // Schule Eschwege, Einbruch
+{"coords": [9.8222, 53.6028], "date": "2025-11-24"}, // Wohnhäuser Schenefeld, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2025-11-24"}, // Wohnhäuser Vogelsbergkreis, Einbruch
+{"coords": [9.9592, 53.8392], "date": "2025-11-24"}, // Zeugen Kaltenkirchen, Einbruch

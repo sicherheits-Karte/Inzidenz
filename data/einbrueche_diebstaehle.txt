@@ -1772,3 +1772,17 @@
 {"coords": [9.8222, 53.6028], "date": "2025-11-24"}, // Wohnhäuser Schenefeld, Einbruch
 {"coords": [9.3833, 50.6333], "date": "2025-11-24"}, // Wohnhäuser Vogelsbergkreis, Einbruch
 {"coords": [9.9592, 53.8392], "date": "2025-11-24"}, // Zeugen Kaltenkirchen, Einbruch
+{"coords": [6.85, 49.3], "date": "2025-11-24"}, // Rückershausen Bad Schwalbach, Einbrecher
+{"coords": [9.8222, 53.6028], "date": "2025-11-24"}, // Schenefeld, Einbrüche
+//{"coords": [], "date": "2025-11-24"} // Blumberg, aufbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-24"}, // Ludwigshafen, Einbrüche
+{"coords": [8.1128, 49.1994], "date": "2025-11-24"}, // Polizeidirektion Landau POL-PDLD, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-24"}, // Innenstadt Kaiserslautern, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2025-11-24"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Diebstahl Rheinau, Einbruch
+//{"coords": [], "date": "2025-11-24"} // müssen. Wie die Diebe den Wagen stehlen konnten, ist derzeit unklar. Zeugen, die Hinweise zum Verbleib des Pkw oder zu den, Dieb
+{"coords": [11.0299, 50.9848], "date": "2025-11-24"}, // Anzeigen Erfurt, gestohlen
+{"coords": [6.9603, 50.9375], "date": "2025-11-24"}, // Zeugen Köln, Räuber
+//{"coords": [], "date": "2025-11-24"} // Einfamilienhäuser Kreis Dithmarschen, Einbrüche
+//{"coords": [], "date": "2025-11-24"} // Lippe, Raub
+//{"coords": [], "date": "2025-11-24"} // Ulzburg, Einbruch

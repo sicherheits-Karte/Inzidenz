@@ -1718,3 +1718,16 @@
 //{"coords": [], "date": "2025-11-24"} // Einfamilienhaus Meinborn, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Lautzert, Diebstahl
 {"coords": [10.7865, 52.4226], "date": "2025-11-24"}, // Wolfsburg, Dieb
+{"coords": [7.8508, 51.0281], "date": "2025-11-24"}, // Fahrzeuge Olpe, entwendet
+{"coords": [8.45, 49.95], "date": "2025-11-24"}, // Zeugen Nauheim, entwendet
+{"coords": [7.8508, 51.0281], "date": "2025-11-24"}, // Olper Schnellimbiss Olpe, Einbruch
+{"coords": [8.65, 50.5333], "date": "2025-11-24"}, // Linden, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2025-11-24"}, // Nürnberg, Raub
+{"coords": [9.2167, 48.4833], "date": "2025-11-24"}, // Pkw Reutlingen, Einbrüche
+//{"coords": [], "date": "2025-11-24"} // Gustavsburg, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2025-11-24"}, // Erdgeschosswohnung Bocholt, Einbruch
+{"coords": [9.8372, 54.4714], "date": "2025-11-24"}, // Eckernförde, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-11-24"}, // Zeugen Bochum, Raub
+{"coords": [6.1972, 51.6267], "date": "2025-11-24"}, // Weeze, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2025-11-24"}, // Beute Bielefeld, Einbrecher
+//{"coords": [], "date": "2025-11-24"} // Gustavsburg, Einbrüche

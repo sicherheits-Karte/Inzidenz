@@ -1688,3 +1688,14 @@
 //{"coords": [], "date": "2025-11-24"} // Dokument mehr, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Michelbach, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Schmuck Abtsteinach, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-11-24"}, // Zeugen Paderborn, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Haaren, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-11-24"}, // Ladendieb Weimar, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2025-11-24"}, // Jägerstraße Ludwigsburg, Einbruch
+{"coords": [7.8231, 50.64], "date": "2025-11-24"}, // Lagerhalle Hachenburg, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Kleidung Herford, Diebstahl
+//{"coords": [], "date": "2025-11-24"} // Brilon, aufbruch
+{"coords": [7.1675, 51.9436], "date": "2025-11-24"}, // Hagenkamp Coesfeld, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2025-11-24"}, // Lagerhalle Warendorf, Einbruch
+{"coords": [8.9519, 49.9667], "date": "2025-11-24"}, // Babenhausen, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Sachschaden von rund, Einbruch

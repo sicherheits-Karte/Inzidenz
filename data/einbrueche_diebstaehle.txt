@@ -1731,3 +1731,11 @@
 {"coords": [6.1972, 51.6267], "date": "2025-11-24"}, // Weeze, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2025-11-24"}, // Beute Bielefeld, Einbrecher
 //{"coords": [], "date": "2025-11-24"} // Gustavsburg, Einbrüche
+{"coords": [8.1361, 53.3969], "date": "2025-11-24"}, // Varel Varel, Einbruch
+{"coords": [8.875, 53.05], "date": "2025-11-24"}, // Osterholz, Einbruch
+{"coords": [7.05, 49.3739], "date": "2025-11-24"}, // Zeugen Illingen, Räuber
+//{"coords": [], "date": "2025-11-24"} // Tankstelle Hohenlockstedt, Raub
+{"coords": [7.8508, 51.0281], "date": "2025-11-24"}, // Kreisgebiet Kreis Olpe, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Zeugenaufruf Oberasbach, Einbruch
+{"coords": [8.1528, 52.0403], "date": "2025-11-24"}, // Versmold Gütersloh, Einbrüche
+{"coords": [7.8508, 51.0281], "date": "2025-11-24"}, // Olpe, Diebstahl

@@ -1800,3 +1800,4 @@
 //{"coords": [], "date": "2025-11-24"} // Giessen, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-24"}, // Wohnhaus Freiburg, Einbruch
 //{"coords": [], "date": "2025-11-24"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.95, 52.15], "date": "2025-11-24"}, // Kurpark Bad Salzdetfurth Hildesheim, Einbruch

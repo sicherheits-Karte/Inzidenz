@@ -1799,3 +1799,4 @@
 //{"coords": [], "date": "2025-11-24"} // Stadtgebiet, eingebrochen
 //{"coords": [], "date": "2025-11-24"} // Giessen, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-24"}, // Wohnhaus Freiburg, Einbruch
+//{"coords": [], "date": "2025-11-24"} // dem Kreisgebiet, Einbrüche

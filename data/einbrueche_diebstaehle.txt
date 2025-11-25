@@ -1927,3 +1927,4 @@
 {"coords": [9.95, 52.15], "date": "2025-11-25"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2025-11-25"}, // Zeugen Münster, Dieb
 //{"coords": [], "date": "2025-11-25"} // Oggersheim, Raub
+//{"coords": [], "date": "2025-11-25"} // Westerburg Westerburg, Diebstahl

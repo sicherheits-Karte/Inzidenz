@@ -1893,3 +1893,14 @@
 {"coords": [13.2611, 53.5569], "date": "2025-11-25"}, // Vogelviertel Neubrandenburg, Raub
 {"coords": [9.1919, 48.8975], "date": "2025-11-25"}, // Ludwigsburg, Dieb
 {"coords": [9.9937, 53.5511], "date": "2025-11-25"}, // Lurup Hamburg, Raub
+{"coords": [6.5492, 51.2631], "date": "2025-11-25"}, // Firma Willich, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-11-25"}, // Ludwigshafen, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Hofheim, gestohlen
+//{"coords": [], "date": "2025-11-25"} // Dülken, aufbruch
+//{"coords": [], "date": "2025-11-25"} // Limburgerhof, Einbruch
+{"coords": [6.5492, 51.2631], "date": "2025-11-25"}, // Hinweise Willich, gestohlen
+//{"coords": [], "date": "2025-11-25"} // Kein Ort gefunden, gestohlen
+{"coords": [10.0075, 53.7064], "date": "2025-11-25"}, // Zeugen Norderstedt, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Giessen, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2025-11-25"}, // Hinweise Recklinghausen, Einbrüche
+//{"coords": [], "date": "2025-11-25"} // dem Kreisgebiet, Einbrüche

@@ -1904,3 +1904,6 @@
 //{"coords": [], "date": "2025-11-25"} // Giessen, Einbrecher
 {"coords": [7.2, 51.6167], "date": "2025-11-25"}, // Hinweise Recklinghausen, Einbrüche
 //{"coords": [], "date": "2025-11-25"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.4592, 49.6436], "date": "2025-11-25"}, // Bürstadt, entwendet
+{"coords": [6.85, 49.3], "date": "2025-11-25"}, // Bad Schwalbach, gestohlen
+//{"coords": [], "date": "2025-11-25"} // Höhe, Einbrüche

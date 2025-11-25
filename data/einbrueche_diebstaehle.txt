@@ -1847,3 +1847,11 @@
 {"coords": [10.1228, 54.3233], "date": "2025-11-25"}, // Kiel, Raub
 //{"coords": [], "date": "2025-11-25"} // Lohmarer Einfamilienhaus Lohmar, Einbruch
 {"coords": [7.2431, 51.3464], "date": "2025-11-25"}, // Sprockhövel, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2025-11-25"}, // Zeugenaufruf Hamburg, entwendet
+{"coords": [8.2146, 53.1434], "date": "2025-11-25"}, // Supermarkt Oldenburg, Diebstahl
+//{"coords": [], "date": "2025-11-25"} // Zeugen Stadthagen, Diebstahl
+//{"coords": [], "date": "2025-11-25"} // Erdgeschoß Bremerhaven, Einbrecher
+{"coords": [10.1228, 54.3233], "date": "2025-11-25"}, // Zeugen Kiel, Räuber
+{"coords": [8.7167, 50.9], "date": "2025-11-25"}, // Wetter, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2025-11-25"}, // Raubstraftat Essen, Raub
+{"coords": [6.7735, 51.2277], "date": "2025-11-25"}, // Düsseldorf, Einbrecher

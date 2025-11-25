@@ -1916,3 +1916,10 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-25"}, // Aalen, Diebstahl
 //{"coords": [], "date": "2025-11-25"} // Iggelheim, stehlen
 {"coords": [8.0667, 50.3833], "date": "2025-11-25"}, // Limburg, Einbrecher
+{"coords": [10.135, 51.3783], "date": "2025-11-25"}, // Heilbad Heiligenstadt, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-11-25"}, // Fahrzeugaufbruch Ludwigshafen, aufbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-25"}, // Arbeitsunfall Reutlingen, Diebstahl
+//{"coords": [], "date": "2025-11-25"} // Botnang, eingebrochen
+//{"coords": [], "date": "2025-11-25"} // Zeugen Lachendorf, Raub
+{"coords": [6.5492, 51.2631], "date": "2025-11-25"}, // Willich, gestohlen
+{"coords": [6.5617, 51.3317], "date": "2025-11-25"}, // Krefeld, Einbruch

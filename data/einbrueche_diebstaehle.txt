@@ -1806,3 +1806,15 @@
 //{"coords": [], "date": "2025-11-25"} // Baucontainer Emsbüren, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2025-11-25"}, // Nordhorn, Einbruch
 {"coords": [7.4167, 52.6], "date": "2025-11-25"}, // Zeugen Bawinkel, Einbrüche
+{"coords": [9.0, 50.7333], "date": "2025-11-25"}, // Zeugen Homberg, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Lebensmittelmarkt Alpen, Einbruch
+{"coords": [8.0, 51.45], "date": "2025-11-25"}, // Neheim Arnsberg, Einbruch
+{"coords": [8.1361, 53.3969], "date": "2025-11-25"}, // Varel Varel, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2025-11-25"}, // Soest, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Rügen, Diebstahl
+//{"coords": [], "date": "2025-11-25"} // Wohnungseinbrüchen Bad Honnef, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Brilon, entwendet
+//{"coords": [], "date": "2025-11-25"} // Einfamilienhaus Bad Bentheim, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2025-11-25"}, // Papenburg, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Baustelle Osterwald, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-11-25"}, // Lingen, Einbruch

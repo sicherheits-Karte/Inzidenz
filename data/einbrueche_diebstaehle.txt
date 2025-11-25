@@ -1801,3 +1801,5 @@
 {"coords": [7.82, 47.99], "date": "2025-11-24"}, // Wohnhaus Freiburg, Einbruch
 //{"coords": [], "date": "2025-11-24"} // dem Kreisgebiet, Einbrüche
 {"coords": [9.95, 52.15], "date": "2025-11-24"}, // Kurpark Bad Salzdetfurth Hildesheim, Einbruch
+{"coords": [13.0819, 54.3092], "date": "2025-11-25"}, // Stralsund, gestohlen
+{"coords": [9.8372, 54.4714], "date": "2025-11-25"}, // Eckernförde Eckernförde, Einbruch

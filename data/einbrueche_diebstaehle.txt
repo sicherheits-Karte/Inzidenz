@@ -1829,3 +1829,6 @@
 {"coords": [8.0, 51.45], "date": "2025-11-25"}, // Hüsten Arnsberg, Raub
 //{"coords": [], "date": "2025-11-25"} // Lippetal, Raub
 {"coords": [8.0, 51.45], "date": "2025-11-25"}, // Deponiegelände Arnsberg, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Wohnmobil Hadenfeld, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Elsen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-25"}, // Unfälle Aalen, Diebstahl

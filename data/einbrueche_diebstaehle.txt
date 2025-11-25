@@ -1818,3 +1818,14 @@
 {"coords": [7.4044, 53.0772], "date": "2025-11-25"}, // Papenburg, Einbruch
 //{"coords": [], "date": "2025-11-25"} // Baustelle Osterwald, Diebstahl
 {"coords": [7.3194, 52.5236], "date": "2025-11-25"}, // Lingen, Einbruch
+{"coords": [8.0667, 51.1167], "date": "2025-11-25"}, // Elspe Lennestadt, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-11-25"}, // Warendorf, Einbruch
+{"coords": [9.6989, 53.4769], "date": "2025-11-25"}, // Buxtehude Stade, Einbrecher
+{"coords": [9.0, 50.7333], "date": "2025-11-25"}, // Zigaretten Homberg, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-11-25"}, // Juwelier Soest, Einbruch
+{"coords": [8.5833, 53.55], "date": "2025-11-25"}, // Mitte, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2025-11-25"}, // Warendorf, Einbrecher
+{"coords": [8.2869, 52.7303], "date": "2025-11-25"}, // Vechta, Raub
+{"coords": [8.0, 51.45], "date": "2025-11-25"}, // Hüsten Arnsberg, Raub
+//{"coords": [], "date": "2025-11-25"} // Lippetal, Raub
+{"coords": [8.0, 51.45], "date": "2025-11-25"}, // Deponiegelände Arnsberg, Einbruch

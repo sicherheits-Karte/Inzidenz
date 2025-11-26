@@ -1952,3 +1952,13 @@
 {"coords": [10.4, 52.6833], "date": "2025-11-26"}, // Steinhorst, Einbruch
 {"coords": [7.1833, 50.9], "date": "2025-11-26"}, // Rösrath, Diebstahl
 {"coords": [8.1361, 53.3969], "date": "2025-11-26"}, // Varel Varel, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-26"}, // Ulm, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2025-11-26"}, // Versammlung Fulda, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-11-26"}, // Bonn, Raub
+//{"coords": [], "date": "2025-11-26"} // Ratzeburg, Einbrüche
+{"coords": [7.2, 51.6167], "date": "2025-11-26"}, // Recklinghausen, Raub
+{"coords": [8.8431, 49.8978], "date": "2025-11-26"}, // Dieburg, Einbruch
+{"coords": [8.0167, 49.6667], "date": "2025-11-26"}, // Supermarkt Kirchheimbolanden, Diebstahl
+//{"coords": [], "date": "2025-11-26"} // Stockstadt, entwendet
+//{"coords": [], "date": "2025-11-26"} // Bewohner Mörlenbach, Einbrecher
+//{"coords": [], "date": "2025-11-26"} // sanitären Anlagen einer leerstehenden Wohnung mehr, Einbrecher

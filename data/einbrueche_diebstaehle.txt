@@ -1947,3 +1947,5 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-26"}, // Sonstiges Aalen, Einbruch
 {"coords": [7.9139, 51.5528], "date": "2025-11-26"}, // Werl, entwendet
 //{"coords": [], "date": "2025-11-26"} // Pkw Fürthen, Diebstähle
+{"coords": [8.705, 48.895], "date": "2025-11-26"}, // Zeugen Pforzheim, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Hövel Sundern, Einbruch

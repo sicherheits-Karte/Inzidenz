@@ -2007,3 +2007,7 @@
 //{"coords": [], "date": "2025-11-26"} // Einbrüchen Ellerau, Einbrüche
 //{"coords": [], "date": "2025-11-26"} // Lippe, eingebrochen
 //{"coords": [], "date": "2025-11-26"} // vor Taschendieben schützen kann mehr, Dieb
+//{"coords": [], "date": "2025-11-26"} // Kein Ort gefunden, gestohlen
+{"coords": [9.9333, 52.9667], "date": "2025-11-26"}, // Abbiegevorgang Heidekreis, Einbruch
+{"coords": [7.1667, 50.8167], "date": "2025-11-26"}, // Tiefgarage Troisdorf, Raub
+{"coords": [10.5267, 52.2689], "date": "2025-11-26"}, // Diebstahl Braunschweig, Diebstahl

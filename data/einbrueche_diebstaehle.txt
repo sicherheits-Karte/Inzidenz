@@ -1980,3 +1980,11 @@
 {"coords": [10.4508, 50.7211], "date": "2025-11-26"}, // Schmalkalden, geklaut
 //{"coords": [], "date": "2025-11-26"} // Bodenseekreis, aufbrüche
 {"coords": [8.2869, 52.7303], "date": "2025-11-26"}, // Vechta, Diebstahl
+{"coords": [9.0492, 52.2603], "date": "2025-11-26"}, // Zeugen Bückeburg, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Kreis, Einbrecher
+{"coords": [9.0, 50.7333], "date": "2025-11-26"}, // Zeugen Homberg, Einbruch
+{"coords": [9.5, 51.3167], "date": "2025-11-26"}, // Kassel, Einbrecher
+//{"coords": [], "date": "2025-11-26"} // Weinstraße, Diebstahl
+//{"coords": [], "date": "2025-11-26"} // der Schulstraße und Wachsenburgstraße gewaltsam mehrere Kellerräume dortiger Mehrfamilienhäuser auf und entwendeten insgesamt vier Fahrräder. Beim Diebesgut handelt es sich um, Diebstähle
+{"coords": [7.82, 47.99], "date": "2025-11-26"}, // Gaststätte Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-26"}, // Freiburg, Einbrüche

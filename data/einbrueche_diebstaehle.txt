@@ -2036,3 +2036,4 @@
 //{"coords": [], "date": "2025-11-26"} // Hofheim, Einbrecher
 {"coords": [8.5833, 53.55], "date": "2025-11-26"}, // Mitte, Dieb
 {"coords": [8.4353, 49.4811], "date": "2025-11-26"}, // Fahrraddiebstahl Ludwigshafen, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-11-26"}, // Assmannshäuser Straße Wiesbaden, Einbrüche

@@ -1962,3 +1962,15 @@
 //{"coords": [], "date": "2025-11-26"} // Stockstadt, entwendet
 //{"coords": [], "date": "2025-11-26"} // Bewohner Mörlenbach, Einbrecher
 //{"coords": [], "date": "2025-11-26"} // sanitären Anlagen einer leerstehenden Wohnung mehr, Einbrecher
+{"coords": [9.3833, 50.6333], "date": "2025-11-26"}, // Trickdiebstahl Vogelsbergkreis, Einbruch
+{"coords": [9.5164, 53.925], "date": "2025-11-26"}, // Erpressung Itzehoe, Räuber
+//{"coords": [], "date": "2025-11-26"} // Rüsselsheim, Dieb
+{"coords": [8.5861, 52.1983], "date": "2025-11-26"}, // Zeugen Bünde, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2025-11-26"}, // Taschendiebstahl Gelsenkirchen, Diebstahl
+{"coords": [9.9937, 53.5511], "date": "2025-11-26"}, // Eißendorf Hamburg, Raub
+//{"coords": [], "date": "2025-11-26"} // Zeugen Epperthausen, gestohlen
+{"coords": [8.5786, 49.5383], "date": "2025-11-26"}, // Viernheim, Einbrecher
+{"coords": [8.2146, 53.1434], "date": "2025-11-26"}, // Sportanlage Am Heidbrook Oldenburg, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Rödinghausen, Einbruch
+{"coords": [8.5833, 48.95], "date": "2025-11-26"}, // Remchingen, Einbrüche
+//{"coords": [], "date": "2025-11-26"} // Mehrfamilienhaus Asbach, Einbruch

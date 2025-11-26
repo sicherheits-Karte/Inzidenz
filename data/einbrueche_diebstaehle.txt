@@ -2043,3 +2043,5 @@
 //{"coords": [], "date": "2025-11-26"} // Ilfeld, Einbrecher
 {"coords": [8.8731, 51.275], "date": "2025-11-26"}, // Korbach, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2025-11-26"}, // Zeugen Mühlhausen, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Ost, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2025-11-26"}, // Verkehrsunfall Reutlingen, Einbruch

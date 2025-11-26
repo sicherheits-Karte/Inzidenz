@@ -1934,3 +1934,16 @@
 {"coords": [8.9167, 50.1333], "date": "2025-11-26"}, // Tatverdächtigen Hanau, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-26"}, // Parkrempler Aalen, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2025-11-26"}, // Wertstoffhof Erfurt, Diebstahl
+//{"coords": [], "date": "2025-11-26"} // Langscheid Sundern, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2025-11-26"}, // Harsefelder Baustelle Stade, entwendet
+{"coords": [8.705, 48.895], "date": "2025-11-26"}, // Pforzheim, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Mehrfamilienhaus Schüttorf, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Steinweg Brilon, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2025-11-26"}, // Zeugen Meppen, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Zeugen Niederlangen, entwendet
+{"coords": [9.0, 50.7333], "date": "2025-11-26"}, // Zeugen Homberg, gestohlen
+//{"coords": [], "date": "2025-11-26"} // Westönnen, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Kein Ort gefunden, entwendet
+{"coords": [10.0936, 48.8372], "date": "2025-11-26"}, // Sonstiges Aalen, Einbruch
+{"coords": [7.9139, 51.5528], "date": "2025-11-26"}, // Werl, entwendet
+//{"coords": [], "date": "2025-11-26"} // Pkw Fürthen, Diebstähle

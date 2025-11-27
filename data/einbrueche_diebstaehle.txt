@@ -2077,3 +2077,15 @@
 //{"coords": [], "date": "2025-11-27"} // Schmuck Rees, Einbruch
 //{"coords": [], "date": "2025-11-27"} // Hinweise Rheinberg, gestohlen
 //{"coords": [], "date": "2025-11-27"} // Zeugen- Weiler, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2025-11-27"}, // Mehrfamilienhaus Ludwigsburg, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-11-27"}, // Dreiecksplatz Bonn, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Polizei Mettmann POL-ME, entwendet
+//{"coords": [], "date": "2025-11-27"} // Bedburg, Einbruch
+//{"coords": [], "date": "2025-11-27"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2025-11-27"} // Rhein, stehlen
+{"coords": [10.65, 52.25], "date": "2025-11-27"}, // Cremlingen, Einbruch
+{"coords": [7.2786, 51.8311], "date": "2025-11-27"}, // Dülmen Coesfeld, Einbrüche
+//{"coords": [], "date": "2025-11-27"} // Schloß Neuhaus, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Rüsselsheim, gestohlen
+{"coords": [8.7667, 51.7167], "date": "2025-11-27"}, // Zeugen Paderborn, Einbruch
+{"coords": [11.5928, 50.6933], "date": "2025-11-27"}, // Pößneck, gestohlen

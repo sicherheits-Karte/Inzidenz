@@ -2125,3 +2125,7 @@
 {"coords": [8.2869, 52.7303], "date": "2025-11-27"}, // Vechta, Diebstahl
 //{"coords": [], "date": "2025-11-27"} // Zeugen Wildberg, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2025-11-27"}, // Zeugen Münster, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Kreis, Diebstahl
+//{"coords": [], "date": "2025-11-27"} // Kreis, gestohlen
+{"coords": [7.9833, 51.95], "date": "2025-11-27"}, // Parallelweg Warendorf, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2025-11-27"}, // Zeugen Nordhausen, Diebstahl

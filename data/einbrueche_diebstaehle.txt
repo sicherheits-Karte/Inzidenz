@@ -2124,3 +2124,4 @@
 //{"coords": [], "date": "2025-11-27"} // die Hauptstraße aus. Ein, entwendet
 {"coords": [8.2869, 52.7303], "date": "2025-11-27"}, // Vechta, Diebstahl
 //{"coords": [], "date": "2025-11-27"} // Zeugen Wildberg, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-11-27"}, // Zeugen Münster, Einbruch

@@ -2089,3 +2089,7 @@
 //{"coords": [], "date": "2025-11-27"} // Rüsselsheim, gestohlen
 {"coords": [8.7667, 51.7167], "date": "2025-11-27"}, // Zeugen Paderborn, Einbruch
 {"coords": [11.5928, 50.6933], "date": "2025-11-27"}, // Pößneck, gestohlen
+{"coords": [11.5862, 50.9271], "date": "2025-11-27"}, // Fremden Jena, entwendet
+//{"coords": [], "date": "2025-11-27"} // Einfamilienhaus Westerkappeln, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Wohnhaus Ladbergen, Einbruch
+{"coords": [6.4833, 50.8], "date": "2025-11-27"}, // Düren, Einbruch

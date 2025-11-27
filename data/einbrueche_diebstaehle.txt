@@ -2148,3 +2148,5 @@
 {"coords": [10.7956, 51.5019], "date": "2025-11-27"}, // Nordhausen, Diebstahl
 {"coords": [9.3833, 50.6333], "date": "2025-11-27"}, // Wohnhaus Vogelsbergkreis, Einbruch
 {"coords": [8.7667, 50.1], "date": "2025-11-27"}, // Kreis Offenbach, Einbrecher
+{"coords": [7.82, 47.99], "date": "2025-11-27"}, // Freiburg, gestohlen
+{"coords": [7.82, 47.99], "date": "2025-11-27"}, // Wohnhaus Freiburg, Einbruch

@@ -2110,3 +2110,7 @@
 //{"coords": [], "date": "2025-11-27"} // Zeugenhinweise Simmozheim, Einbrecher
 //{"coords": [], "date": "2025-11-27"} // Mountainbikes Uslar, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2025-11-27"}, // Warendorf, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Lahr, Diebstahl
+{"coords": [7.5314, 52.5536], "date": "2025-11-27"}, // Lengerich, gestohlen
+{"coords": [9.6775, 50.5528], "date": "2025-11-27"}, // Landkreis Fulda Fulda, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2025-11-27"}, // Pkw Herne, Diebstahl

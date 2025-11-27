@@ -2141,3 +2141,6 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-27"}, // Verkehrsunfälle Aalen, Einbruch
 //{"coords": [], "date": "2025-11-27"} // Bad Oeynhausen, aufbruch
 {"coords": [6.85, 49.3], "date": "2025-11-27"}, // Polizeibeamter Bad Schwalbach, Einbrecher
+{"coords": [9.8, 53.6592], "date": "2025-11-27"}, // Zeugen Pinneberg, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2025-11-27"}, // Festnahme Nürnberg, Raub
+{"coords": [8.2869, 52.7303], "date": "2025-11-27"}, // Vechta, Dieb

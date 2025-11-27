@@ -2098,3 +2098,15 @@
 //{"coords": [], "date": "2025-11-27"} // Schaumburg, Einbrüche
 {"coords": [6.7623, 51.4344], "date": "2025-11-27"}, // Zeugensuche Duisburg, Raub
 {"coords": [8.3708, 52.6078], "date": "2025-11-27"}, // Diepholz, Einbruch
+{"coords": [11.9, 49.95], "date": "2025-11-27"}, // Brand Reutlingen, Einbruch
+{"coords": [11.3, 51.3667], "date": "2025-11-27"}, // Einkäufen Artern, Dieb
+//{"coords": [], "date": "2025-11-27"} // Fleestedt, Diebstahl
+//{"coords": [], "date": "2025-11-27"} // Sankt Augustin, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2025-11-27"}, // Mehrfamilienhaus Schwerte, Einbruch
+{"coords": [7.8, 51.4333], "date": "2025-11-27"}, // Schnellladekabel Menden, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2025-11-27"}, // Brasselsberg Kassel, Einbrecher
+{"coords": [7.2839, 50.9328], "date": "2025-11-27"}, // Einfamilienhaus Overath, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-11-27"}, // Eigentumskriminalität Coesfeld, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Zeugenhinweise Simmozheim, Einbrecher
+//{"coords": [], "date": "2025-11-27"} // Mountainbikes Uslar, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2025-11-27"}, // Warendorf, Einbruch

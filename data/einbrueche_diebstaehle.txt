@@ -2263,3 +2263,6 @@
 {"coords": [6.3917, 51.2556], "date": "2025-11-28"}, // Viersener Innenstadt Viersen, Diebstähle
 {"coords": [10.5267, 52.2689], "date": "2025-11-28"}, // Ladendiebstahl Braunschweig, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2025-11-28"}, // Wohngebäude Aalen, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2025-11-28"}, // Nordhausen, entwendet
+{"coords": [10.135, 51.3783], "date": "2025-11-28"}, // Heilbad Heiligenstadt, Diebstahl
+//{"coords": [], "date": "2025-11-28"} // Feuerbach, Dieb

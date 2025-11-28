@@ -2155,3 +2155,12 @@
 {"coords": [7.82, 47.99], "date": "2025-11-27"}, // Kleinkrafträdern Freiburg, Diebstahl
 {"coords": [8.5889, 52.9083], "date": "2025-11-27"}, // Harpstedt, Dieb
 //{"coords": [], "date": "2025-11-27"} // Wohnung Forstmehren, Raub
+//{"coords": [], "date": "2025-11-28"} // Schmuck Rüsselsheim, Einbruch
+{"coords": [7.9139, 51.5528], "date": "2025-11-28"}, // Werl, gestohlen
+//{"coords": [], "date": "2025-11-28"} // Brilon Brilon, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2025-11-28"}, // Papenburg, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Geschäftshaus Geeste, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Emsbüren, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2025-11-28"}, // Täterfestnahme Wittlich, Diebstahl
+{"coords": [6.8097, 50.0964], "date": "2025-11-28"}, // Tageswohnungseinbruch Manderscheid, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Tageswohnungseinbruch Greimerath, Einbruch

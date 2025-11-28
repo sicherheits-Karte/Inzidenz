@@ -2204,3 +2204,6 @@
 //{"coords": [], "date": "2025-11-28"} // Lippe, Einbruch
 {"coords": [10.6833, 48.7833], "date": "2025-11-28"}, // Landkreis Harburg, Einbrüche
 {"coords": [8.5331, 52.021], "date": "2025-11-28"}, // Bielefeld, entwendet
+{"coords": [10.6944, 50.6111], "date": "2025-11-28"}, // Flüchtiger Ladendieb Suhl, Dieb
+{"coords": [9.0, 50.7333], "date": "2025-11-28"}, // Zeugen Homberg, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Kamen, Diebstahl

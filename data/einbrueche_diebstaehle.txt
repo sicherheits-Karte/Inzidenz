@@ -2221,3 +2221,14 @@
 {"coords": [7.7806, 53.5769], "date": "2025-11-28"}, // Landkreis Wittmund, Diebstahl
 {"coords": [9.2108, 49.1425], "date": "2025-11-28"}, // Raub Heilbronn, Raub
 {"coords": [7.4836, 53.4711], "date": "2025-11-28"}, // Landkreis Aurich, gestohlen
+//{"coords": [], "date": "2025-11-28"} // Frankfurt, Raub
+//{"coords": [], "date": "2025-11-28"} // Raub Frankfurt, Raub
+{"coords": [10.3333, 52.15], "date": "2025-11-28"}, // Salzgitter, Diebstahl
+{"coords": [10.5369, 52.1622], "date": "2025-11-28"}, // Wolfenbüttel, Raub
+{"coords": [7.0116, 51.4556], "date": "2025-11-28"}, // Essen, Einbrecher
+{"coords": [10.0642, 52.2575], "date": "2025-11-28"}, // Hohenhameln, entwendet
+{"coords": [10.3333, 52.15], "date": "2025-11-28"}, // Salzgitter, entwendet
+{"coords": [8.6944, 53.8619], "date": "2025-11-28"}, // Cuxhaven entwendet, entwendet
+{"coords": [9.9333, 52.9667], "date": "2025-11-28"}, // Heidekreis, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Bürocontainer Katzweiler, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-28"}, // Wohnungseinbruch Kaiserslautern, Einbruch

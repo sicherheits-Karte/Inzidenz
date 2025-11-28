@@ -2207,3 +2207,9 @@
 {"coords": [10.6944, 50.6111], "date": "2025-11-28"}, // Flüchtiger Ladendieb Suhl, Dieb
 {"coords": [9.0, 50.7333], "date": "2025-11-28"}, // Zeugen Homberg, Einbruch
 //{"coords": [], "date": "2025-11-28"} // Kamen, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-11-28"}, // Ulm, Einbruch
+{"coords": [11.4012, 53.6355], "date": "2025-11-28"}, // Schwerin, entwendet
+{"coords": [9.2167, 48.4833], "date": "2025-11-28"}, // Farbschmierereien Reutlingen, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-11-28"}, // Vechta, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2025-11-28"}, // Vechta, entwendet
+{"coords": [8.705, 48.895], "date": "2025-11-28"}, // Pforzheim, Einbruch

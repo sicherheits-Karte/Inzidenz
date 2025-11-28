@@ -2164,3 +2164,15 @@
 {"coords": [6.8889, 49.9858], "date": "2025-11-28"}, // Täterfestnahme Wittlich, Diebstahl
 {"coords": [6.8097, 50.0964], "date": "2025-11-28"}, // Tageswohnungseinbruch Manderscheid, Einbruch
 //{"coords": [], "date": "2025-11-28"} // Tageswohnungseinbruch Greimerath, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Unterlüß Unterlüß, Einbruch
+{"coords": [7.35, 52.15], "date": "2025-11-28"}, // Einfamilienhaus Steinfurt, Einbruch
+{"coords": [7.8667, 51.2167], "date": "2025-11-28"}, // Diebespaar Plettenberg, Dieb
+{"coords": [10.0936, 48.8372], "date": "2025-11-28"}, // Trickdiebstahl Aalen, Einbruch
+{"coords": [10.8, 53.4833], "date": "2025-11-28"}, // Einbruch Greven, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-11-28"}, // Wilhelmshaven Wilhelmshaven, Diebstahl
+{"coords": [7.8, 51.4333], "date": "2025-11-28"}, // Geschäft Menden, Einbruch
+{"coords": [7.4981, 51.1861], "date": "2025-11-28"}, // Halver, Dieb
+{"coords": [7.7, 51.375], "date": "2025-11-28"}, // Iserlohn, Dieb
+{"coords": [7.7156, 52.2778], "date": "2025-11-28"}, // Einfamilienhaus Ibbenbüren, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2025-11-28"}, // Lüdenscheid, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Gustavsburg, Einbruch

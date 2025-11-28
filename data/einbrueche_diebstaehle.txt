@@ -2178,3 +2178,5 @@
 //{"coords": [], "date": "2025-11-28"} // Gustavsburg, Einbruch
 {"coords": [9.4764, 53.6008], "date": "2025-11-28"}, // Stade Stade, Einbrecher
 {"coords": [8.2146, 53.1434], "date": "2025-11-28"}, // Alexanderstraße Oldenburg, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-28"}, // Recklinghausen, Raub
+//{"coords": [], "date": "2025-11-28"} // Ingelheim Ingelheim, Einbruch

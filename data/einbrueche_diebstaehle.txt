@@ -2243,3 +2243,5 @@
 //{"coords": [], "date": "2025-11-28"} // Vimbuch, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2025-11-28"}, // Ludwigshafen, Raub
 //{"coords": [], "date": "2025-11-28"} // Rohbau Giessen, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-11-28"}, // Rotenburg, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2025-11-28"}, // Zeugen Münster, Einbruch

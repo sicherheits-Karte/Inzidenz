@@ -2215,3 +2215,9 @@
 {"coords": [8.705, 48.895], "date": "2025-11-28"}, // Pforzheim, Einbruch
 {"coords": [8.3833, 51.9], "date": "2025-11-28"}, // Handtasche Gütersloh, Raub
 {"coords": [9.6989, 53.4769], "date": "2025-11-28"}, // Buxtehude, Räuber
+{"coords": [8.4043, 49.014], "date": "2025-11-28"}, // Stadtgebiet Karlsruhe Karlsruhe, Einbrüche
+{"coords": [8.4043, 49.014], "date": "2025-11-28"}, // Karlsruhe, Einbrüche
+//{"coords": [], "date": "2025-11-28"} // Industriegebiet Konz Konz, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2025-11-28"}, // Landkreis Wittmund, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2025-11-28"}, // Raub Heilbronn, Raub
+{"coords": [7.4836, 53.4711], "date": "2025-11-28"}, // Landkreis Aurich, gestohlen

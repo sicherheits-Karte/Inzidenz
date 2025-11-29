@@ -2276,3 +2276,4 @@
 {"coords": [9.732, 52.3759], "date": "2025-11-28"}, // Hannover, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2025-11-28"}, // Diebstahl Reutlingen, Diebstahl
 {"coords": [8.2711, 50.0], "date": "2025-11-29"}, // Mainz, gestohlen
+{"coords": [9.95, 52.15], "date": "2025-11-29"}, // Zeugenaufruf Hildesheim, Diebstahl

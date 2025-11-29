@@ -2305,3 +2305,4 @@
 {"coords": [8.2146, 53.1434], "date": "2025-11-29"}, // Oldenburg, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2025-11-29"}, // Zeugen Herne, Einbruch
 {"coords": [8.0722, 49.5608], "date": "2025-11-29"}, // Eisenberg diversen Grabschmuck entwendet. Hierbei wurde gezielt nach Gegenständen aus Kupfer und Messing gesucht. Die Schadenssumme kann aktuell nur abgeschätzt werden und bewegt sich im unteren fünfstelligen Bereich. Zeugen oder Geschädigte werden gebeten, sich, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2025-11-29"}, // Reutlingen, Einbrüche

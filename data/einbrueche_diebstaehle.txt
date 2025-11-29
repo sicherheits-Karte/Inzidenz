@@ -2292,3 +2292,6 @@
 //{"coords": [], "date": "2025-11-29"} // Fahrzeug Esch, klau
 //{"coords": [], "date": "2025-11-29"} // Monzel, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2025-11-29"}, // Erfurt, gestohlen
+//{"coords": [], "date": "2025-11-29"} // Pfingstweide, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2025-11-29"}, // Unna, Raub
+//{"coords": [], "date": "2025-11-29"} // Gartenstadt, Einbruch

@@ -2291,3 +2291,4 @@
 {"coords": [7.3481, 52.3236], "date": "2025-11-29"}, // Salzbergen, Diebstahl
 //{"coords": [], "date": "2025-11-29"} // Fahrzeug Esch, klau
 //{"coords": [], "date": "2025-11-29"} // Monzel, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-11-29"}, // Erfurt, gestohlen

@@ -2287,3 +2287,5 @@
 {"coords": [7.4547, 53.2311], "date": "2025-11-29"}, // Leer, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2025-11-29"}, // Vechta, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2025-11-29"}, // Zeugenaufruf Erfurt, gestohlen
+{"coords": [7.3194, 52.5236], "date": "2025-11-29"}, // Lingen, Einbruch
+{"coords": [7.3481, 52.3236], "date": "2025-11-29"}, // Salzbergen, Diebstahl

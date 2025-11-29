@@ -2307,3 +2307,5 @@
 {"coords": [8.0722, 49.5608], "date": "2025-11-29"}, // Eisenberg diversen Grabschmuck entwendet. Hierbei wurde gezielt nach Gegenständen aus Kupfer und Messing gesucht. Die Schadenssumme kann aktuell nur abgeschätzt werden und bewegt sich im unteren fünfstelligen Bereich. Zeugen oder Geschädigte werden gebeten, sich, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2025-11-29"}, // Reutlingen, Einbrüche
 //{"coords": [], "date": "2025-11-29"} // Einkaufsmarkt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-29"}, // Gebäudebrand Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-29"}, // Einbrüche Aalen, Einbrüche

@@ -2289,3 +2289,5 @@
 {"coords": [11.0299, 50.9848], "date": "2025-11-29"}, // Zeugenaufruf Erfurt, gestohlen
 {"coords": [7.3194, 52.5236], "date": "2025-11-29"}, // Lingen, Einbruch
 {"coords": [7.3481, 52.3236], "date": "2025-11-29"}, // Salzbergen, Diebstahl
+//{"coords": [], "date": "2025-11-29"} // Fahrzeug Esch, klau
+//{"coords": [], "date": "2025-11-29"} // Monzel, Einbruch

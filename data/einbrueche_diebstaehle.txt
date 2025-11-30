@@ -2324,3 +2324,4 @@
 //{"coords": [], "date": "2025-11-30"} // Einfamilienhaus Lippe, Einbruch
 {"coords": [7.5658, 51.4458], "date": "2025-11-30"}, // Schwerte, Einbruch
 //{"coords": [], "date": "2025-11-30"} // Hübingen, Diebstahl
+{"coords": [7.6, 49.2], "date": "2025-11-30"}, // Kennzeichens Pirmasens, Diebstahl

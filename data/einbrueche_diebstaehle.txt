@@ -2355,3 +2355,4 @@
 {"coords": [7.4653, 51.5136], "date": "2025-11-30"}, // Polizei Dortmund, Dieb
 {"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Handtaschendiebstahl Delmenhorst, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Handtasche Delmenhorst, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Kirche Delmenhorst, Einbruch

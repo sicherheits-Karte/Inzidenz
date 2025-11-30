@@ -2317,3 +2317,5 @@
 //{"coords": [], "date": "2025-11-30"} // POL-PDNR, Diebstahl
 {"coords": [7.2197, 51.5428], "date": "2025-11-30"}, // Herne, Raub
 {"coords": [11.0299, 50.9848], "date": "2025-11-30"}, // Erfurt, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2025-11-30"}, // Gartenlaube Suhl, Einbruch
+//{"coords": [], "date": "2025-11-30"} // Kein Ort gefunden, Einbruch

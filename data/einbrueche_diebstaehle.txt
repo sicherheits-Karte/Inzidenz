@@ -2350,3 +2350,5 @@
 //{"coords": [], "date": "2025-11-30"} // dem Kreisgebiet, Einbrüche
 {"coords": [7.7806, 53.5769], "date": "2025-11-30"}, // Wittmund, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2025-11-30"}, // Einbruch Polizeiinspektion Heidekreis, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-30"}, // Fahrzeugbrand Reutlingen, Einbrüche
+{"coords": [10.5833, 49.3], "date": "2025-11-30"}, // Ansbach, Einbrüche

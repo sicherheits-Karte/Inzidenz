@@ -2367,3 +2367,4 @@
 {"coords": [10.7956, 51.5019], "date": "2025-11-30"}, // Nordhausen, Diebstahl
 //{"coords": [], "date": "2025-11-30"} // Gewerbegebiet Puderbach, Einbrüche
 {"coords": [8.0667, 50.3833], "date": "2025-11-30"}, // Limburg, Diebstahl
+{"coords": [6.85, 49.3], "date": "2025-11-30"}, // Bad Schwalbach, Einbruch

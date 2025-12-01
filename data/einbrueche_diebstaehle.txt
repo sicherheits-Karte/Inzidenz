@@ -2484,3 +2484,10 @@
 //{"coords": [], "date": "2025-12-01"} // Ulzburg, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2025-12-01"}, // Einbruch Coesfeld, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2025-12-01"}, // Zeugenaufruf Mannheim, eingebrochen
+{"coords": [7.82, 47.99], "date": "2025-12-01"}, // Wertgegenstände Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2025-12-01"}, // Einfamilienhaus Freiburg, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Zeugen Klein Rönnau, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-12-01"}, // Zeugenaufruf Heidelberg, gestohlen
+//{"coords": [], "date": "2025-12-01"} // Giessen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-01"}, // Unfälle Aalen, Einbruch
+{"coords": [6.0839, 50.7753], "date": "2025-12-01"}, // Aachen, Raub

@@ -2444,3 +2444,8 @@
 //{"coords": [], "date": "2025-12-01"} // Zeugen Königslutter, Einbrüche
 {"coords": [8.1075, 53.5219], "date": "2025-12-01"}, // Zeugen Wilhelmshaven, Einbruch
 {"coords": [13.6906, 53.8564], "date": "2025-12-01"}, // Werkzeug Anklam, Dieb
+{"coords": [8.1361, 53.3969], "date": "2025-12-01"}, // Varel, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2025-12-01"}, // Darmstadt, entwendet
+{"coords": [7.8667, 51.3333], "date": "2025-12-01"}, // Einbruch Balve, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Grimmenthal, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Visier Meinerzhagen, Dieb

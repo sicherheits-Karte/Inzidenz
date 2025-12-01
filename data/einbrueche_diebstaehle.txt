@@ -2374,3 +2374,6 @@
 //{"coords": [], "date": "2025-12-01"} // Wirges, entwendet
 {"coords": [11.0299, 50.9848], "date": "2025-12-01"}, // Einbruch Erfurt, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2025-12-01"}, // Oldenburg, Einbrüche
+{"coords": [8.7667, 50.1], "date": "2025-12-01"}, // Seniorin Offenbach, Raub
+{"coords": [9.6667, 54.2333], "date": "2025-12-01"}, // Jevenstedt mehr, Diebstahl
+{"coords": [10.4, 53.25], "date": "2025-12-01"}, // Lüneburg, Einbruch

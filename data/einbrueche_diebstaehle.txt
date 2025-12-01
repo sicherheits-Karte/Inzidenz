@@ -2449,3 +2449,12 @@
 {"coords": [7.8667, 51.3333], "date": "2025-12-01"}, // Einbruch Balve, Einbruch
 //{"coords": [], "date": "2025-12-01"} // Grimmenthal, Einbruch
 //{"coords": [], "date": "2025-12-01"} // Visier Meinerzhagen, Dieb
+{"coords": [6.4333, 51.2], "date": "2025-12-01"}, // Mönchengladbach, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-12-01"}, // Tasche Bielefeld, Räuber
+//{"coords": [], "date": "2025-12-01"} // soziale Einrichtungen, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Polizei Mettmann POL-ME, gestohlen
+//{"coords": [], "date": "2025-12-01"} // Hofheim, Dieb
+{"coords": [8.0472, 52.2799], "date": "2025-12-01"}, // Einsatz Osnabrück, Dieb
+//{"coords": [], "date": "2025-12-01"} // Eck, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Schwenningen, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Trossingen, entwendet

@@ -2468,3 +2468,13 @@
 //{"coords": [], "date": "2025-12-01"} // Zeugen Ratzeburg, Einbruch
 {"coords": [10.8333, 53.5], "date": "2025-12-01"}, // Kupferelementen Gallin, Diebstahl
 {"coords": [7.0083, 52.075], "date": "2025-12-01"}, // Ahaus, Einbrecher
+//{"coords": [], "date": "2025-12-01"} // Schule Herxheim, Einbruch
+{"coords": [6.9667, 52.5], "date": "2025-12-01"}, // Neuenhaus, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-12-01"}, // Einbruch Augsburg, Einbruch
+{"coords": [9.9092, 53.7306], "date": "2025-12-01"}, // Wochenende Quickborn, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2025-12-01"}, // Trickdiebstählen Augsburg, Diebstähle
+{"coords": [8.3658, 49.6306], "date": "2025-12-01"}, // Pfiffligheim Worms, aufbrüche
+//{"coords": [], "date": "2025-12-01"} // Schortens Schortens, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-12-01"}, // Einbrüchen Augsburg, Einbruch
+{"coords": [9.984, 54.0714], "date": "2025-12-01"}, // Neumünster, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-12-01"}, // Rotenburg, Diebstahl

@@ -2430,3 +2430,17 @@
 //{"coords": [], "date": "2025-12-01"} // Unzhurst, Einbruch
 //{"coords": [], "date": "2025-12-01"} // Pelkum, Einbruch
 {"coords": [10.7542, 50.5106], "date": "2025-12-01"}, // Wohnung Schleusingen, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2025-12-01"}, // Betrüger Lüdenscheid, Einbruch
+{"coords": [10.2333, 50.6667], "date": "2025-12-01"}, // Hümpfershausen, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Gastrokaffeemaschine Hennef, eingebrochen
+//{"coords": [], "date": "2025-12-01"} // Hennef, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Fahrzeugen Eitorf, Diebstähle
+{"coords": [8.3833, 51.9], "date": "2025-12-01"}, // Sende Gütersloh, Einbrüche
+//{"coords": [], "date": "2025-12-01"} // Gäu, Einbruch
+{"coords": [7.1667, 50.8167], "date": "2025-12-01"}, // Verkehrsunfall Troisdorf, eingebrochen
+{"coords": [7.82, 47.99], "date": "2025-12-01"}, // Zeugen Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2025-12-01"}, // Zeugen Freiburg, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Zeugenhinweise Lohmar, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Zeugen Königslutter, Einbrüche
+{"coords": [8.1075, 53.5219], "date": "2025-12-01"}, // Zeugen Wilhelmshaven, Einbruch
+{"coords": [13.6906, 53.8564], "date": "2025-12-01"}, // Werkzeug Anklam, Dieb

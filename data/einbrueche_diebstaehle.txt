@@ -2507,3 +2507,4 @@
 {"coords": [8.5833, 53.55], "date": "2025-12-01"}, // Mitte, stahl
 {"coords": [8.0722, 49.5608], "date": "2025-12-01"}, // Kennzeichenschildern Eisenberg, Diebstahl
 //{"coords": [], "date": "2025-12-01"} // der Hohlstraße haben unbekannte Täter am Wochenende einen geparkten Pkw geöffnet und durchsucht. Entwendet wurde nichts. Die Polizei fragt, ob jemand zwischen dem, Diebstahl
+//{"coords": [], "date": "2025-12-01"} // Kreis, Raub

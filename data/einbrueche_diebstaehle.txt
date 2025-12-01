@@ -2377,3 +2377,7 @@
 {"coords": [8.7667, 50.1], "date": "2025-12-01"}, // Seniorin Offenbach, Raub
 {"coords": [9.6667, 54.2333], "date": "2025-12-01"}, // Jevenstedt mehr, Diebstahl
 {"coords": [10.4, 53.25], "date": "2025-12-01"}, // Lüneburg, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Einfamilienhaus Schüttorf, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Mehrparteienhaus Geeste, Einbruch
+{"coords": [7.6331, 52.9928], "date": "2025-12-01"}, // Weihnachtsmarkt Esterwegen, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Bürogebäude Schapen, Einbruch

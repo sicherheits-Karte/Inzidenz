@@ -2496,3 +2496,10 @@
 {"coords": [7.82, 47.99], "date": "2025-12-01"}, // Freiburg, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2025-12-01"}, // Limburg, Einbruch
 //{"coords": [], "date": "2025-12-01"} // Zeugen Klein Nordende, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-01"}, // Öffentlichkeitsfahndung Freiburg, Raub
+{"coords": [9.8, 53.6592], "date": "2025-12-01"}, // Zeugen Pinneberg, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-01"}, // Raststätte Wiesbaden, Einbrüche
+//{"coords": [], "date": "2025-12-01"} // eine Wohnung eines Mehrfamilienhauses in der Dorfstraße gekommen. Täter flüchten nach Ansprache eines Bewohners ohne Stehlgut. Zur genannten Zeit haben sich unbekannte Täter gewaltsam Zutritt zur Wohnung verschafft, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-01"}, // Ludwigshafen, Diebstahl
+{"coords": [9.6536, 53.7547], "date": "2025-12-01"}, // Zeugen Elmshorn, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-01"}, // Wohnhaus Ludwigshafen, Einbruch

@@ -2391,3 +2391,6 @@
 {"coords": [12.4333, 50.985], "date": "2025-12-01"}, // Gartenlaube Altenburg, Einbruch
 //{"coords": [], "date": "2025-12-01"} // Ratzeburg, Einbrüche
 {"coords": [8.3667, 51.45], "date": "2025-12-01"}, // Friseursalon Warstein, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-01"}, // Soest, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2025-12-01"}, // Heizungsfirma Soest, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Wohnhaus Appenweier, Einbruch

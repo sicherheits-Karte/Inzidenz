@@ -2626,3 +2626,4 @@
 //{"coords": [], "date": "2025-12-02"} // Einfamilienhaus Asbach, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Olzheim, Einbrüche
 {"coords": [9.95, 52.15], "date": "2025-12-02"}, // Wohnungseinbruchdiebstahl Hildesheim, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-12-02"}, // Zeugenaufruf Hildesheim, gestohlen

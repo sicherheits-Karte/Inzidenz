@@ -2516,3 +2516,16 @@
 {"coords": [8.35, 51.6667], "date": "2025-12-02"}, // Verdächtige Lippstadt, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Baucontainer Etzbach, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Golf Rödermark, eingebrochen
+{"coords": [9.9916, 48.3984], "date": "2025-12-02"}, // Ulm, Einbrecher
+//{"coords": [], "date": "2025-12-02"} // Kupferkabel Neuenbürg, Diebstahl
+{"coords": [7.3608, 49.2492], "date": "2025-12-02"}, // Zweibrücken, Diebstähle
+{"coords": [11.3239, 50.9795], "date": "2025-12-02"}, // Weimar, gestohlen
+//{"coords": [], "date": "2025-12-02"} // Kreis, Diebstahl
+//{"coords": [], "date": "2025-12-02"} // Kreis, entwendet
+{"coords": [11.5862, 50.9271], "date": "2025-12-02"}, // Komplettentwendung Jena, Diebstahl
+//{"coords": [], "date": "2025-12-02"} // Schmuck Sankt Augustin, Dieb
+{"coords": [7.2056, 50.8014], "date": "2025-12-02"}, // Siegburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-02"}, // Einbruchsversuch Aalen, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Glasfaserbaustelle Weitefeld, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-02"}, // Sachbeschädigung Aalen, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Taschendiebstahl-- Bremen, Diebstahl

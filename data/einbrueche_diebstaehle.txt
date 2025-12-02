@@ -2509,3 +2509,10 @@
 //{"coords": [], "date": "2025-12-01"} // der Hohlstraße haben unbekannte Täter am Wochenende einen geparkten Pkw geöffnet und durchsucht. Entwendet wurde nichts. Die Polizei fragt, ob jemand zwischen dem, Diebstahl
 //{"coords": [], "date": "2025-12-01"} // Kreis, Raub
 {"coords": [8.2711, 50.0], "date": "2025-12-01"}, // Hechtsheim Mainz, Raub
+//{"coords": [], "date": "2025-12-02"} // Kreis, Raub
+{"coords": [7.0667, 52.4333], "date": "2025-12-02"}, // Nordhorn, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-12-02"}, // Jugendhaus Lingen, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2025-12-02"}, // Unternehmen Papenburg, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-12-02"}, // Verdächtige Lippstadt, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Baucontainer Etzbach, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Golf Rödermark, eingebrochen

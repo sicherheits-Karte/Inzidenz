@@ -2535,3 +2535,8 @@
 //{"coords": [], "date": "2025-12-02"} // Wohnung Bergisch Gladbach, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Altenhagen, Einbrecher
 {"coords": [9.9916, 48.3984], "date": "2025-12-02"}, // Ulm, stahl
+{"coords": [12.0799, 50.8772], "date": "2025-12-02"}, // Mehrfamilienhaus Gera, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Juwelier Zirndorf, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Rüsselsheim, Einbruch
+{"coords": [8.285, 51.1492], "date": "2025-12-02"}, // Schmallenberg, Diebstahl
+{"coords": [7.8333, 51.7], "date": "2025-12-02"}, // Heessen, Einbruch

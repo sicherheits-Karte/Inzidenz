@@ -2609,3 +2609,8 @@
 {"coords": [6.9194, 51.9944], "date": "2025-12-02"}, // Stadtlohn, Einbrecher
 {"coords": [6.9019, 50.8331], "date": "2025-12-02"}, // Brühl, Dieb
 {"coords": [9.1919, 48.8975], "date": "2025-12-02"}, // Ludwigsburg, Einbruch
+{"coords": [10.4167, 50.55], "date": "2025-12-02"}, // Meiningen, geklaut
+{"coords": [6.7623, 51.4344], "date": "2025-12-02"}, // Zeugen Duisburg, Raub
+{"coords": [8.0667, 50.3833], "date": "2025-12-02"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Giessen, Einbrecher
+{"coords": [8.6514, 49.8728], "date": "2025-12-02"}, // Untersuchungshaft Darmstadt, Einbruch

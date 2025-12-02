@@ -2623,3 +2623,4 @@
 {"coords": [8.0722, 49.5608], "date": "2025-12-02"}, // Eisenberg, Diebstahl
 //{"coords": [], "date": "2025-12-02"} // Grünstadt und Böhl-Iggelheim zum Thema Einbruchschutz mehr, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-12-02"}, // Einsatz Freiburg, Raub
+//{"coords": [], "date": "2025-12-02"} // Einfamilienhaus Asbach, Einbruch

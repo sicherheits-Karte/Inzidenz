@@ -2615,3 +2615,10 @@
 //{"coords": [], "date": "2025-12-02"} // Giessen, Einbrecher
 {"coords": [8.6514, 49.8728], "date": "2025-12-02"}, // Untersuchungshaft Darmstadt, Einbruch
 {"coords": [8.4167, 49.4667], "date": "2025-12-02"}, // Mundenheim, entwendet
+{"coords": [10.0936, 48.8372], "date": "2025-12-02"}, // Aalen, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2025-12-02"}, // Köln, Raub
+{"coords": [10.8978, 48.3705], "date": "2025-12-02"}, // Einbruch Augsburg, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Festnahme ASCHAFFENBURG, Dieb
+//{"coords": [], "date": "2025-12-02"} // Einfamilienhaus Winnweiler, Einbruch
+{"coords": [8.0722, 49.5608], "date": "2025-12-02"}, // Eisenberg, Diebstahl
+//{"coords": [], "date": "2025-12-02"} // Grünstadt und Böhl-Iggelheim zum Thema Einbruchschutz mehr, Einbruch

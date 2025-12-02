@@ -2529,3 +2529,5 @@
 //{"coords": [], "date": "2025-12-02"} // Glasfaserbaustelle Weitefeld, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2025-12-02"}, // Sachbeschädigung Aalen, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Taschendiebstahl-- Bremen, Diebstahl
+{"coords": [7.215, 51.1397], "date": "2025-12-02"}, // Wermelskirchen, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-02"}, // Oldenburg, Einbruch

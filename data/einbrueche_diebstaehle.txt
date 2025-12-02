@@ -2614,3 +2614,4 @@
 {"coords": [8.0667, 50.3833], "date": "2025-12-02"}, // Limburg, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Giessen, Einbrecher
 {"coords": [8.6514, 49.8728], "date": "2025-12-02"}, // Untersuchungshaft Darmstadt, Einbruch
+{"coords": [8.4167, 49.4667], "date": "2025-12-02"}, // Mundenheim, entwendet

@@ -2643,3 +2643,10 @@
 {"coords": [7.3194, 52.5236], "date": "2025-12-03"}, // Baustelle Lingen, Einbruch
 {"coords": [7.3194, 52.5236], "date": "2025-12-03"}, // Baucontainer Lingen, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2025-12-03"}, // Nordhorn, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-12-03"}, // Recklinghausen, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2025-12-03"}, // Mehrfamilienhäusern Altenburg, aufbrüche
+{"coords": [9.0, 50.7333], "date": "2025-12-03"}, // Schmuck Homberg, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-12-03"}, // Einbrechern Warendorf, Einbrecher
+{"coords": [8.3667, 51.45], "date": "2025-12-03"}, // Schmuck Warstein, Einbruch
+{"coords": [12.1764, 53.7944], "date": "2025-12-03"}, // Güstrow Güstrow, Raub
+{"coords": [10.0936, 48.8372], "date": "2025-12-03"}, // Unfälle Aalen, Einbruch

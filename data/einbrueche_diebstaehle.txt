@@ -2667,3 +2667,7 @@
 //{"coords": [], "date": "2025-12-03"} // Hüthum, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2025-12-03"}, // Emden, Diebstahl
 //{"coords": [], "date": "2025-12-03"} // Pedelec Herford, Diebstahl
+//{"coords": [], "date": "2025-12-03"} // Lahr, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Rech, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Schaephuysen, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Wangerooge Wangerooge, Diebstahl

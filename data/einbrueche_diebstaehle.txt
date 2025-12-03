@@ -2688,3 +2688,8 @@
 {"coords": [9.5, 51.3167], "date": "2025-12-03"}, // Kassel, Diebstahl
 {"coords": [8.7403, 48.7142], "date": "2025-12-03"}, // Bankautomatenaufbruch Calw, aufbruch
 {"coords": [10.8978, 48.3705], "date": "2025-12-03"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [7.4044, 53.0772], "date": "2025-12-03"}, // Einbruch Papenburg, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Öschelbronn, Einbrecher
+//{"coords": [], "date": "2025-12-03"} // Lippe, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2025-12-03"}, // Trier, Diebstähle
+//{"coords": [], "date": "2025-12-03"} // Lippe, Dieb

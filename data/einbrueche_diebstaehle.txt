@@ -2678,3 +2678,4 @@
 //{"coords": [], "date": "2025-12-03"} // Veert, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2025-12-03"}, // Speyer, Diebstahl
 {"coords": [11.0767, 49.4521], "date": "2025-12-03"}, // Nürnberg, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2025-12-03"}, // Dortmund, Dieb

@@ -2693,3 +2693,4 @@
 //{"coords": [], "date": "2025-12-03"} // Lippe, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2025-12-03"}, // Trier, Diebstähle
 //{"coords": [], "date": "2025-12-03"} // Lippe, Dieb
+{"coords": [9.1919, 48.8975], "date": "2025-12-03"}, // Geldabheben Ludwigsburg, Dieb

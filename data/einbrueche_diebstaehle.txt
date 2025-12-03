@@ -2650,3 +2650,6 @@
 {"coords": [8.3667, 51.45], "date": "2025-12-03"}, // Schmuck Warstein, Einbruch
 {"coords": [12.1764, 53.7944], "date": "2025-12-03"}, // Güstrow Güstrow, Raub
 {"coords": [10.0936, 48.8372], "date": "2025-12-03"}, // Unfälle Aalen, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Zeugen Bad Liebenzell, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-03"}, // Einbrüche Coesfeld, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-12-03"}, // Einbruch Aalen, Einbruch

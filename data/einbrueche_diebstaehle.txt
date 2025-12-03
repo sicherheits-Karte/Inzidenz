@@ -2671,3 +2671,10 @@
 //{"coords": [], "date": "2025-12-03"} // Rech, Einbruch
 //{"coords": [], "date": "2025-12-03"} // Schaephuysen, Einbruch
 //{"coords": [], "date": "2025-12-03"} // Wangerooge Wangerooge, Diebstahl
+{"coords": [13.0639, 53.3611], "date": "2025-12-03"}, // Neustrelitz, Raub
+{"coords": [9.1919, 48.8975], "date": "2025-12-03"}, // Gaststätte Ludwigsburg, Einbruch
+{"coords": [11.3592, 50.6486], "date": "2025-12-03"}, // Saalfeld, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-03"}, // Ludwigshafen, entwendet
+//{"coords": [], "date": "2025-12-03"} // Veert, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2025-12-03"}, // Speyer, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2025-12-03"}, // Nürnberg, Einbruch

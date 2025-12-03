@@ -2653,3 +2653,5 @@
 //{"coords": [], "date": "2025-12-03"} // Zeugen Bad Liebenzell, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2025-12-03"}, // Einbrüche Coesfeld, Einbrüche
 {"coords": [10.0936, 48.8372], "date": "2025-12-03"}, // Einbruch Aalen, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Wiblingwerde, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-12-03"}, // Wilhelmshaven, Einbruch

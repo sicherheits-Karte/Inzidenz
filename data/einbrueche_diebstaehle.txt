@@ -2706,3 +2706,14 @@
 {"coords": [9.8, 53.6592], "date": "2025-12-03"}, // Zeugenhinweise Pinneberg, Einbruch
 //{"coords": [], "date": "2025-12-03"} // Höhe, Einbruch
 {"coords": [6.85, 49.3], "date": "2025-12-03"}, // Bad Schwalbach, Einbrecher
+//{"coords": [], "date": "2025-12-03"} // Schwenningen, Einbrecher
+{"coords": [7.7689, 49.4447], "date": "2025-12-03"}, // Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2025-12-03"} // Kein Ort gefunden, Dieb
+{"coords": [7.2197, 51.5428], "date": "2025-12-03"}, // Rhein-Herne-Kanal versenkt, gestohlen
+//{"coords": [], "date": "2025-12-03"} // Kennzeichentafeln Landkreis Sömmerda, Diebstahl
+{"coords": [8.0169, 50.3714], "date": "2025-12-03"}, // Geschäft Diez, Einbruch
+{"coords": [9.8667, 53.65], "date": "2025-12-03"}, // Zeugen Ellerbek, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-03"}, // Gasflaschen Erfurt, Dieb
+{"coords": [8.0667, 50.3833], "date": "2025-12-03"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Lobberich, Einbruch
+{"coords": [8.0167, 50.8756], "date": "2025-12-03"}, // Siegen, Diebstahl

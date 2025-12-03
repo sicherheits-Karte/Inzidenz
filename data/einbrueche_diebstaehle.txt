@@ -2629,3 +2629,4 @@
 {"coords": [9.95, 52.15], "date": "2025-12-02"}, // Zeugenaufruf Hildesheim, gestohlen
 {"coords": [7.2197, 51.5428], "date": "2025-12-03"}, // Zeugenhinweise Herne, Raub
 {"coords": [6.9486, 49.6561], "date": "2025-12-03"}, // Hermeskeil Hermeskeil, Einbruch
+{"coords": [8.8333, 50.15], "date": "2025-12-03"}, // Maintal, Dieb

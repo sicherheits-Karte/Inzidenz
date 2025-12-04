@@ -2729,3 +2729,5 @@
 //{"coords": [], "date": "2025-12-04"} // Elektrowerkzeugen Schüttorf, Einbruch
 //{"coords": [], "date": "2025-12-04"} // Baustelle Emsbüren, Einbruch
 {"coords": [7.1333, 52.5333], "date": "2025-12-04"}, // Baucontainern Wietmarschen, aufbruch
+{"coords": [8.7667, 50.1], "date": "2025-12-04"}, // Offenbach, aufbruch
+{"coords": [7.0667, 52.4333], "date": "2025-12-04"}, // Mehrfamilienhaus Nordhorn, Einbruch

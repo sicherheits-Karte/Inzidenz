@@ -2770,3 +2770,14 @@
 {"coords": [7.1856, 51.3994], "date": "2025-12-04"}, // Wertgegenständen Hattingen, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2025-12-04"}, // Gevelsberg, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2025-12-04"}, // Polizeidirektion Landau POL-PDLD, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2025-12-04"}, // Ermittlungsrichter Düsseldorf, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2025-12-04"}, // Bielefeld, Einbrüche
+{"coords": [9.9916, 48.3984], "date": "2025-12-04"}, // Ulm, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Unternehmen Niedersachswerfen, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-04"}, // Oldenburg, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2025-12-04"}, // Landkreis Heilbronn, Einbruch
+{"coords": [10.8333, 51.1167], "date": "2025-12-04"}, // Bäckerei Herbsleben, Einbrecher
+{"coords": [6.4333, 51.2], "date": "2025-12-04"}, // Mönchengladbach, entwendet
+{"coords": [8.4353, 49.4811], "date": "2025-12-04"}, // Ludwigshafen, gestohlen
+//{"coords": [], "date": "2025-12-04"} // Selm, entwendet
+{"coords": [11.7667, 51.8333], "date": "2025-12-04"}, // Nienburg, Diebstahl

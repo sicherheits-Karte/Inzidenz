@@ -2831,3 +2831,15 @@
 {"coords": [9.0958, 54.1958], "date": "2025-12-04"}, // Heide, gestohlen
 {"coords": [7.7806, 53.5769], "date": "2025-12-04"}, // Wittmund, Diebstähle
 {"coords": [8.6306, 53.05], "date": "2025-12-04"}, // Delmenhorst, Einbruch
+{"coords": [10.5369, 52.1622], "date": "2025-12-04"}, // Wolfenbüttel, Raub
+{"coords": [7.6458, 50.275], "date": "2025-12-04"}, // Vollsperrung Braubach, Raub
+//{"coords": [], "date": "2025-12-04"} // Hofheim, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-04"}, // Wohnwagens Freiburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-04"}, // Aufgefahren Aalen, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-12-04"}, // Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-12-04"}, // Gartenhütten Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-04"}, // Versuchter Wohnungseinbruch Freiburg, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-04"}, // Fahrzeugdiebstähle Wiesbaden, Diebstähle
+//{"coords": [], "date": "2025-12-04"} // Höhe, Einbruch
+{"coords": [13.2611, 53.5569], "date": "2025-12-04"}, // Diebstahl Neubrandenburg, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // zwei Wohnhäuser, Einbrüche

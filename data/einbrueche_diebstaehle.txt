@@ -2723,3 +2723,9 @@
 {"coords": [7.825, 50.4358], "date": "2025-12-03"}, // Westerburg Montabaur, aufbruch
 {"coords": [7.0982, 50.7374], "date": "2025-12-04"}, // Bonn, gestohlen
 {"coords": [9.2958, 50.2556], "date": "2025-12-04"}, // Hinweise Wächtersbach, Raub
+//{"coords": [], "date": "2025-12-04"} // Wohnhaus Twist, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-04"}, // Kiosk Lingen, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Schuppen Bad Bentheim, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // Elektrowerkzeugen Schüttorf, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Baustelle Emsbüren, Einbruch
+{"coords": [7.1333, 52.5333], "date": "2025-12-04"}, // Baucontainern Wietmarschen, aufbruch

@@ -2752,3 +2752,4 @@
 {"coords": [7.9833, 51.95], "date": "2025-12-04"}, // Zweifamilienhaus Warendorf, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-12-04"}, // Einbruch Aalen, Einbruch
 //{"coords": [], "date": "2025-12-04"} // Ottersweier, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Lahr, Einbruch

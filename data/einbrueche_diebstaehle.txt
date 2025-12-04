@@ -2807,3 +2807,8 @@
 //{"coords": [], "date": "2025-12-04"} // Schwarzwald, Einbruch
 //{"coords": [], "date": "2025-12-04"} // Kreuztal, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2025-12-04"}, // Diepholz, Einbruch
+//{"coords": [], "date": "2025-12-04"} // der Ortsgemeinde verschafft haben. Dort wurden bereits im Boden verlegte Kabel gekappt und mitgenommen. Hierdurch entstand ein Schaden, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-12-04"}, // Kennzeichentafeln Erfurt, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // Baustelle Eichsfeld, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-12-04"}, // Erfurt, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // Tapetenrollen Sömmerda, Einbruch

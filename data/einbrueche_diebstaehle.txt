@@ -2893,3 +2893,14 @@
 {"coords": [7.85, 51.6333], "date": "2025-12-05"}, // Rhynern, gestohlen
 {"coords": [7.3608, 49.2492], "date": "2025-12-05"}, // Zweibrücken, Dieb
 {"coords": [11.8486, 53.4261], "date": "2025-12-05"}, // Baucontainer Parchim, Dieb
+{"coords": [10.8, 53.4833], "date": "2025-12-05"}, // Wohnhaus Greven, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2025-12-05"}, // Oberbarmen Wuppertal, Raub
+{"coords": [7.5336, 52.1728], "date": "2025-12-05"}, // Wohnhaus Emsdetten, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2025-12-05"}, // Haftantrag Nürnberg, Raub
+{"coords": [9.4108, 53.1111], "date": "2025-12-05"}, // Rotenburg, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2025-12-05"}, // Schmuck Rheine, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-05"}, // Mehrere Einbrüche Ludwigsburg, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2025-12-05"}, // Wohnhäuser Warendorf, Einbrüche
+//{"coords": [], "date": "2025-12-05"} // Saerbeck, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-12-05"}, // Bauhof Warendorf, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Dinslaken, entwendet

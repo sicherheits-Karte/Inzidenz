@@ -2906,3 +2906,8 @@
 //{"coords": [], "date": "2025-12-05"} // Dinslaken, entwendet
 {"coords": [11.5419, 49.7564], "date": "2025-12-05"}, // Pegnitz, Einbrecher
 {"coords": [9.3833, 50.6333], "date": "2025-12-05"}, // Anhänger Vogelsbergkreis, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Altstadt, Diebstahl
+//{"coords": [], "date": "2025-12-05"} // HSK gegen Einbruchskriminalität mehr, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-05"}, // Einbrüchen Oldenburg, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2025-12-05"}, // Zeugen Stade, Einbrecher
+{"coords": [10.0528, 51.1889], "date": "2025-12-05"}, // Eschwege, Dieb

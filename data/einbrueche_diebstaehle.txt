@@ -2994,3 +2994,4 @@
 {"coords": [7.3194, 52.5236], "date": "2025-12-06"}, // Lingen, Diebstahl
 {"coords": [7.3608, 49.2492], "date": "2025-12-06"}, // Kraftfahrzeugdiebstahl Zweibrücken, Diebstahl
 {"coords": [7.3608, 49.2492], "date": "2025-12-06"}, // Einbruchsdiebstahl Zweibrücken, Einbruch
+//{"coords": [], "date": "2025-12-06"} // Firmengebäude Twist, Einbruch

@@ -3005,3 +3005,4 @@
 {"coords": [7.2061, 53.3669], "date": "2025-12-06"}, // Emden, Räuber
 //{"coords": [], "date": "2025-12-06"} // Zeugensuche Wissen, Einbrüche
 {"coords": [8.6306, 53.05], "date": "2025-12-06"}, // Delmenhorst, Einbruch
+//{"coords": [], "date": "2025-12-06"} // Tankstelle-- Bremen, Räuber

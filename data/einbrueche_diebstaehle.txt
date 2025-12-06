@@ -2973,3 +2973,6 @@
 {"coords": [7.82, 47.99], "date": "2025-12-05"}, // Einfamilienhaus Freiburg, Einbruch
 {"coords": [8.705, 48.895], "date": "2025-12-05"}, // Niefern Pforzheim, Einbruch
 //{"coords": [], "date": "2025-12-05"} // der Arnstädter Turnvater-Jahn-Straße. Hier packte dieser zwei Parfums im Wert von ca, Dieb
+{"coords": [8.1128, 49.1994], "date": "2025-12-06"}, // Landau, Raub
+{"coords": [8.2711, 50.0], "date": "2025-12-06"}, // Monopoly Aktionsbechern Mainz, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2025-12-06"}, // Taschendiebstählen Einbeck, Diebstähle

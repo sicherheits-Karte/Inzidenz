@@ -2995,3 +2995,5 @@
 {"coords": [7.3608, 49.2492], "date": "2025-12-06"}, // Kraftfahrzeugdiebstahl Zweibrücken, Diebstahl
 {"coords": [7.3608, 49.2492], "date": "2025-12-06"}, // Einbruchsdiebstahl Zweibrücken, Einbruch
 //{"coords": [], "date": "2025-12-06"} // Firmengebäude Twist, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2025-12-06"}, // Zeugenaufruf Mannheim, Räuber
+{"coords": [10.0936, 48.8372], "date": "2025-12-06"}, // Polizeihubschrauber Aalen, Einbrecher

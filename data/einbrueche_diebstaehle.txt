@@ -2979,3 +2979,9 @@
 {"coords": [7.2197, 51.5428], "date": "2025-12-06"}, // Zeugen Herne, Einbruch
 //{"coords": [], "date": "2025-12-06"} // Vermisstensuche Herxheim, Raub
 //{"coords": [], "date": "2025-12-06"} // Hemshof, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2025-12-06"}, // Polizeipräsidiums Osthessen Fulda, entwendet
+//{"coords": [], "date": "2025-12-06"} // Fröndenberg- Hohenheide Fröndenberg, Einbruch
+{"coords": [8.25, 49.0244], "date": "2025-12-06"}, // Hagenbach, Diebstahl
+//{"coords": [], "date": "2025-12-06"} // Kamen Kamen, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-12-06"}, // Vechta, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2025-12-06"}, // Thiede Salzgitter, Diebstahl

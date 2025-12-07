@@ -3079,3 +3079,12 @@
 //{"coords": [], "date": "2025-12-07"} // Uhr Buchholz, Diebstähle
 {"coords": [10.8978, 48.3705], "date": "2025-12-07"}, // Diebstahl Augsburg, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2025-12-07"}, // Aalen, Einbrecher
+{"coords": [7.9833, 51.95], "date": "2025-12-07"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [10.9583, 51.2292], "date": "2025-12-07"}, // Zeugenaufruf Greußen, Einbruch
+//{"coords": [], "date": "2025-12-07"} // Damgarten, Einbruch
+{"coords": [9.0817, 52.1906], "date": "2025-12-07"}, // Rintelner Stadtgebiet Rinteln, Diebstahl
+{"coords": [9.0817, 52.1906], "date": "2025-12-07"}, // Rinteln Rinteln, Diebstahl
+{"coords": [8.1361, 53.3969], "date": "2025-12-07"}, // Varel, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2025-12-07"}, // Kaiserslautern, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-07"}, // Sachbeschädigungen Reutlingen, Einbrüche
+{"coords": [12.0799, 50.8772], "date": "2025-12-07"}, // Nikolaustag Gera, Diebstahl

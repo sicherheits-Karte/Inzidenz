@@ -3026,3 +3026,13 @@
 {"coords": [11.0299, 50.9848], "date": "2025-12-07"}, // Kfz Erfurt, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2025-12-07"}, // Einfamilienhaus Ludwigsburg, Einbruch
 //{"coords": [], "date": "2025-12-07"} // Zeugen Ingelheim, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2025-12-07"}, // Einfamilienhaus Northeim, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-12-07"}, // Zeugenaufruf Landau, entwendet
+{"coords": [8.1128, 49.1994], "date": "2025-12-07"}, // Landau, entwendet
+//{"coords": [], "date": "2025-12-07"} // Mörsch, Einbruch
+//{"coords": [], "date": "2025-12-07"} // Netto Eisenbahnstraße Franeknthal, Diebstahl
+{"coords": [8.1128, 49.1994], "date": "2025-12-07"}, // Einbrüchen Landau, Einbrüche
+//{"coords": [], "date": "2025-12-07"} // Mörsch, Einbrüche
+{"coords": [8.3539, 49.5342], "date": "2025-12-07"}, // Zielrichtung Geldbeutel Frankenthal, Diebstähle
+{"coords": [11.35, 47.9667], "date": "2025-12-07"}, // Berg, Einbruch
+//{"coords": [], "date": "2025-12-07"} // Wohnhaus Lippe, Einbruch

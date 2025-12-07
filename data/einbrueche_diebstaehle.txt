@@ -3036,3 +3036,10 @@
 {"coords": [8.3539, 49.5342], "date": "2025-12-07"}, // Zielrichtung Geldbeutel Frankenthal, Diebstähle
 {"coords": [11.35, 47.9667], "date": "2025-12-07"}, // Berg, Einbruch
 //{"coords": [], "date": "2025-12-07"} // Wohnhaus Lippe, Einbruch
+{"coords": [7.4667, 52.3667], "date": "2025-12-07"}, // Spelle, entwendet
+{"coords": [7.82, 47.99], "date": "2025-12-07"}, // Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-12-07"}, // Freiburg, entwendet
+{"coords": [7.4547, 53.2311], "date": "2025-12-07"}, // Leer, Einbruch
+{"coords": [8.7, 50.0167], "date": "2025-12-07"}, // Dreieich, Räuber
+//{"coords": [], "date": "2025-12-07"} // Lippe, Einbruch
+{"coords": [9.5083, 49.9833], "date": "2025-12-07"}, // Rechtenbach, Einbruch

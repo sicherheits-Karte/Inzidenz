@@ -3044,3 +3044,5 @@
 //{"coords": [], "date": "2025-12-07"} // Lippe, Einbruch
 {"coords": [9.5083, 49.9833], "date": "2025-12-07"}, // Rechtenbach, Einbruch
 {"coords": [11.3406, 50.7206], "date": "2025-12-07"}, // Rudolstadt, Einbrüche
+{"coords": [11.3239, 50.9795], "date": "2025-12-07"}, // Weimar, entwendet
+{"coords": [9.1753, 47.6633], "date": "2025-12-07"}, // Konstanz, Einbruch

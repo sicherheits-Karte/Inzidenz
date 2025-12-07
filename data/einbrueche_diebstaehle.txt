@@ -3071,3 +3071,10 @@
 //{"coords": [], "date": "2025-12-07"} // Flucht Gronau, Dieb
 {"coords": [6.9889, 51.8944], "date": "2025-12-07"}, // Einfamilienhaus Velen, Einbrecher
 //{"coords": [], "date": "2025-12-07"} // Reken, eingebrochen
+{"coords": [10.7956, 51.5019], "date": "2025-12-07"}, // Kleingartenanlage Nordhausen, Einbruch
+{"coords": [6.85, 49.3], "date": "2025-12-07"}, // Bad Schwalbach, Einbruch
+{"coords": [10.4167, 50.55], "date": "2025-12-07"}, // Meiningen, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2025-12-07"}, // Einbruch Osnabrück, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2025-12-07"}, // Diepholz, aufbruch
+//{"coords": [], "date": "2025-12-07"} // Uhr Buchholz, Diebstähle
+{"coords": [10.8978, 48.3705], "date": "2025-12-07"}, // Diebstahl Augsburg, Diebstahl

@@ -3054,3 +3054,8 @@
 {"coords": [10.135, 51.3783], "date": "2025-12-07"}, // Kennzeichendiebstahl Heiligenstadt Nordhausen, Einbrüche
 {"coords": [8.6306, 53.05], "date": "2025-12-07"}, // Delmenhorst, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-12-07"}, // Aalen, Einbruch
+{"coords": [8.4167, 49.4667], "date": "2025-12-07"}, // Mundenheim Ludwigshafen, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-07"}, // Wiesbaden, Einbrüche
+{"coords": [8.0, 51.45], "date": "2025-12-07"}, // Einfamilienhaus Arnsberg, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2025-12-07"}, // Mühlhausen, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2025-12-07"}, // Zeugen Bochum, Einbruch

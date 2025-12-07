@@ -3021,3 +3021,6 @@
 {"coords": [10.9464, 50.8342], "date": "2025-12-06"}, // der August-Broemel-Straße in Arnstadt einer Polizeikontrolle unterzogen. Ein mit dem jungen Mann durchgeführter Atemalkoholtest ergab einen Wert von fast, gestohlen
 //{"coords": [], "date": "2025-12-06"} // mehrere Gärten, Einbruch
 //{"coords": [], "date": "2025-12-06"} // Baucontainer, Einbruch
+//{"coords": [], "date": "2025-12-07"} // Weihnachtsbäumen Nimsreuland, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-12-07"}, // Freiburg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-07"}, // Kfz Erfurt, Diebstahl

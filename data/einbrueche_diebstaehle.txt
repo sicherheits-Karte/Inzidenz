@@ -3078,3 +3078,4 @@
 {"coords": [8.3708, 52.6078], "date": "2025-12-07"}, // Diepholz, aufbruch
 //{"coords": [], "date": "2025-12-07"} // Uhr Buchholz, Diebstähle
 {"coords": [10.8978, 48.3705], "date": "2025-12-07"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-07"}, // Aalen, Einbrecher

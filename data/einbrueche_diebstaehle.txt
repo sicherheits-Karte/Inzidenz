@@ -3067,3 +3067,5 @@
 {"coords": [9.9333, 52.9667], "date": "2025-12-07"}, // Sprengkörper Heidekreis, Einbrüche
 {"coords": [7.6889, 51.5347], "date": "2025-12-07"}, // Unna Unna, Einbruch
 {"coords": [7.0116, 51.4556], "date": "2025-12-07"}, // Zeugenhinweise Essen, Einbrüche
+//{"coords": [], "date": "2025-12-07"} // Einfamilienhaus Legden, Einbruch
+//{"coords": [], "date": "2025-12-07"} // Flucht Gronau, Dieb

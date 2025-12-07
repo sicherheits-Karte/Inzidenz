@@ -3062,3 +3062,7 @@
 {"coords": [8.4661, 49.4878], "date": "2025-12-07"}, // Zeugenaufruf Mannheim, Einbruch
 //{"coords": [], "date": "2025-12-07"} // Höhe, Einbruch
 //{"coords": [], "date": "2025-12-07"} // Primstal, Diebstahl
+//{"coords": [], "date": "2025-12-07"} // Spendenkasse Maikammer, Diebstahl
+//{"coords": [], "date": "2025-12-07"} // Unwesen Oberbergischer Kreis, Einbrecher
+{"coords": [9.9333, 52.9667], "date": "2025-12-07"}, // Sprengkörper Heidekreis, Einbrüche
+{"coords": [7.6889, 51.5347], "date": "2025-12-07"}, // Unna Unna, Einbruch

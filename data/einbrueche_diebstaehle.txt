@@ -3060,3 +3060,5 @@
 {"coords": [10.7753, 49.7544], "date": "2025-12-07"}, // Mühlhausen, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2025-12-07"}, // Zeugen Bochum, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2025-12-07"}, // Zeugenaufruf Mannheim, Einbruch
+//{"coords": [], "date": "2025-12-07"} // Höhe, Einbruch
+//{"coords": [], "date": "2025-12-07"} // Primstal, Diebstahl

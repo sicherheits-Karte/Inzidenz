@@ -3222,3 +3222,7 @@
 {"coords": [7.82, 47.99], "date": "2025-12-08"}, // Versuchter Tageswohnungseinbruch Freiburg, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2025-12-08"}, // Rotenburg, Einbruch
 //{"coords": [], "date": "2025-12-08"} // Transporter Schafstedt, stehlen
+//{"coords": [], "date": "2025-12-08"} // Polizei Stelle, Einbrüche
+{"coords": [7.3608, 49.2492], "date": "2025-12-08"}, // Diebstählen Zweibrücken, Diebstahl
+{"coords": [7.5658, 51.4458], "date": "2025-12-08"}, // Computerbetrug Schwerte, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2025-12-08"}, // Hannover, entwendet

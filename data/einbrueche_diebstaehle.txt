@@ -3164,3 +3164,12 @@
 {"coords": [8.3833, 51.9], "date": "2025-12-08"}, // Stukenbrock Gütersloh, Einbrüche
 {"coords": [10.135, 51.3783], "date": "2025-12-08"}, // Heilbad Heiligenstadt, entwendet
 //{"coords": [], "date": "2025-12-08"} // Herford, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2025-12-08"}, // Verl Gütersloh, Einbrüche
+{"coords": [10.7333, 50.65], "date": "2025-12-08"}, // Mehlis, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-08"}, // Einbrüche Coesfeld, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2025-12-08"}, // Wohnungseinbrüche Ludwigsburg, Einbrüche
+{"coords": [10.8, 53.4833], "date": "2025-12-08"}, // Greven, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-12-08"}, // Zeugen Paderborn, Raub
+{"coords": [7.0982, 50.7374], "date": "2025-12-08"}, // Bonn, Raub
+{"coords": [7.5336, 52.1728], "date": "2025-12-08"}, // Emsdetten, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Elsen, Einbruch

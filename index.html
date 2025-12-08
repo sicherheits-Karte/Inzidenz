@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
 
-* {
+        * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -186,6 +186,20 @@
             box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4);
         }
 
+        /* NEUER BUTTON STYLE */
+        .link-btn.details-btn {
+            background: white;
+            color: #dc2626;
+            border-color: white;
+            margin-top: 10px;
+            font-weight: 600;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .link-btn.details-btn:hover {
+            background: #fef2f2;
+            transform: translateY(-1px);
+        }
+
         .state-info-card {
             background: linear-gradient(135deg, #dc2626, #ef4444);
             color: white;
@@ -310,12 +324,26 @@
             stroke: #d1d5db;
             stroke-width: 1;
             transition: all 0.3s ease;
+            cursor: pointer;
         }
 
         .state:hover {
             fill: #fef2f2;
             stroke: #dc2626;
             stroke-width: 2;
+        }
+
+        .state-highlight {
+            fill: #fecaca !important;
+            stroke: #dc2626 !important;
+            stroke-width: 3px !important;
+        }
+
+        /* Neue Klasse für geklicktes Bundesland */
+        .state-selected {
+            fill: #f87171 !important;
+            stroke: #991b1b !important;
+            stroke-width: 3px !important;
         }
 
         .incident {
@@ -332,18 +360,93 @@
             stroke-width: 2;
         }
 
-        .state-highlight {
-            fill: #fecaca !important;
-            stroke: #dc2626 !important;
-            stroke-width: 3px !important;
-        }
-
         text {
             font-size: 9px;
             text-anchor: middle;
             fill: #1f2937;
             pointer-events: none;
             font-weight: 500;
+        }
+
+        /* POPUP MODAL STYLES */
+        .modal {
+            display: none; 
+            position: fixed; 
+            z-index: 1000; 
+            left: 0;
+            top: 0;
+            width: 100%; 
+            height: 100%; 
+            overflow: auto; 
+            background-color: rgba(0,0,0,0.5); 
+            backdrop-filter: blur(5px);
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: 10% auto; 
+            padding: 20px;
+            border: 1px solid #888;
+            border-radius: 12px;
+            width: 80%; 
+            max-width: 500px;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            position: relative;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .modal-header {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #e5e7eb;
+            padding-bottom: 10px;
+        }
+        
+        .modal-header h2 {
+            font-size: 20px;
+            color: #1f2937;
+        }
+
+        .city-list {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .city-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+            border-bottom: 1px solid #f3f4f6;
+            font-size: 14px;
+        }
+
+        .city-item:last-child {
+            border-bottom: none;
+        }
+
+        .city-name {
+            font-weight: 500;
+        }
+
+        .city-count {
+            font-weight: 700;
+            color: #dc2626;
+            background: #fef2f2;
+            padding: 2px 8px;
+            border-radius: 12px;
         }
 
         /* Responsive */
@@ -498,7 +601,6 @@
 </head>
 <body>
     <div class="container">
-        <!-- Header Card -->
         <div class="header-card">
             <div class="header-content">
                 <h1>Einbrüche & Diebstähle Dashboard</h1>
@@ -506,7 +608,6 @@
             </div>
         </div>
 
-        <!-- Sidebar Card -->
         <div class="sidebar-card">
             <div>
                 <h3 class="card-title">Zeitfilter</h3>
@@ -532,12 +633,10 @@
                 </div>
             </div>
 
-            <!-- Datenquelle Button -->
             <div>
                 <a href="daten.html" class="link-btn datenquelle">📊 Datenquelle</a>
             </div>
 
-            <!-- PayPal Button -->
             <div>
                 <a href="https://www.paypal.com/paypalme/JulianKircher231" class="link-btn paypal">☕ Unterstützen via PayPal</a>
             </div>
@@ -545,10 +644,10 @@
             <div class="state-info-card">
                 <h3>Ausgewähltes Bundesland</h3>
                 <div class="state-count" id="stateInfo">-</div>
+                <button id="showDetailsBtn" class="link-btn details-btn" style="display: none;">📍 Daten für Bundesland anschauen</button>
             </div>
         </div>
 
-        <!-- Map Card -->
         <div class="map-card">
             <div class="map-header">
                 <div class="map-title">Deutschland Karte</div>
@@ -559,13 +658,23 @@
             </div>
         </div>
 
-        <!-- Footer -->
         <div class="footer">
             <div class="footer-links">
                 <a href="impressum.html" class="footer-link">Impressum</a>
                 <span style="color: #d1d5db;">|</span>
                 <a href="datenschutz.html" class="footer-link">Datenschutz</a>
             </div>
+        </div>
+    </div>
+
+    <div id="detailsModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-header">
+                <h2 id="modalTitle">Details</h2>
+            </div>
+            <div id="modalList" class="city-list">
+                </div>
         </div>
     </div>
 
@@ -592,6 +701,7 @@
 
         let incidents = [];
         let statesData = [];
+        let selectedStateFeature = null; // Speichert das aktuell ausgewählte Bundesland
 
         function updateMapSize() {
             const container = document.querySelector('.map-container');
@@ -639,7 +749,8 @@
                         id: i,
                         coords: d.coords,
                         date: d.date,
-                        city: `Vorfall ${i + 1}`
+                        // Versuche Stadtname zu finden, sonst Fallback
+                        city: d.stadt || d.city || d.ort || d.location || `Unbekannter Ort` 
                     }));
                 
                 updateIncidents();
@@ -692,6 +803,11 @@
                     const projected = projection(d.coords);
                     return projected ? projected[1] : 0;
                 });
+            
+            // Wenn ein Bundesland ausgewählt ist, aktualisiere auch dessen Info-Box
+            if (selectedStateFeature) {
+                updateStateInfo(selectedStateFeature);
+            }
         }
 
         function isPointInPolygon(point, polygon) {
@@ -741,6 +857,29 @@
             });
             
             return count;
+        }
+
+        // Neue Funktion zum Ermitteln der Städte in einem Bundesland
+        function getCitiesInState(stateFeature, incidents) {
+            const cityCounts = {};
+            const polygons = getPolygonsFromGeometry(stateFeature.geometry);
+            
+            incidents.forEach(incident => {
+                const [lng, lat] = incident.coords;
+                
+                for (let polygon of polygons) {
+                    if (isPointInPolygon([lng, lat], polygon)) {
+                        const cityName = incident.city;
+                        cityCounts[cityName] = (cityCounts[cityName] || 0) + 1;
+                        break;
+                    }
+                }
+            });
+            
+            // Konvertiere zu Array und Sortiere nach Anzahl
+            return Object.entries(cityCounts)
+                .map(([name, count]) => ({ name, count }))
+                .sort((a, b) => b.count - a.count);
         }
 
         fromInput.addEventListener("change", updateIncidents);
@@ -793,6 +932,18 @@
             updateIncidents();
         };
 
+        function updateStateInfo(d) {
+             const from = fromInput.value;
+             const to = toInput.value;
+             const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
+             
+             const count = countIncidentsInState(d, filtered);
+             const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
+             
+             document.getElementById("stateInfo").textContent = 
+                 `${stateName}: ${count}`;
+        }
+
         const geojsonURL = "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json";
         d3.json(geojsonURL).then(data => {
             statesData = data.features;
@@ -804,21 +955,42 @@
                 .attr("class", "state")
                 .attr("d", path)
                 .on("mouseover", function(event, d) {
-                    d3.select(this).classed("state-highlight", true);
-                    
-                    const from = fromInput.value;
-                    const to = toInput.value;
-                    const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
-                    
-                    const count = countIncidentsInState(d, filtered);
-                    const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
-                    
-                    document.getElementById("stateInfo").textContent = 
-                        `${stateName}: ${count}`;
+                    if (selectedStateFeature !== d) {
+                        d3.select(this).classed("state-highlight", true);
+                    }
+                    // Info nur aktualisieren beim Hovern, wenn noch nichts geklickt wurde, 
+                    // oder um temporär zu sehen (optional). 
+                    // Hier: Update nur wenn nichts ausgewählt oder zum preview.
+                    if (!selectedStateFeature) {
+                        updateStateInfo(d);
+                    }
                 })
-                .on("mouseout", function() {
-                    d3.select(this).classed("state-highlight", false);
-                    document.getElementById("stateInfo").textContent = "-";
+                .on("mouseout", function(event, d) {
+                    if (selectedStateFeature !== d) {
+                        d3.select(this).classed("state-highlight", false);
+                    }
+                    if (!selectedStateFeature) {
+                        document.getElementById("stateInfo").textContent = "-";
+                    }
+                })
+                .on("click", function(event, d) {
+                    // Reset vorherige Auswahl
+                    d3.selectAll(".state").classed("state-selected", false);
+                    d3.selectAll(".state").classed("state-highlight", false);
+
+                    // Setze neue Auswahl
+                    selectedStateFeature = d;
+                    d3.select(this).classed("state-selected", true);
+                    
+                    // Info aktualisieren
+                    updateStateInfo(d);
+
+                    // Button anzeigen
+                    const btn = document.getElementById("showDetailsBtn");
+                    btn.style.display = "block";
+                    const stateName = d.properties.NAME_1 || d.properties.name;
+                    // Button Text anpassen (optional, aber hübsch)
+                    btn.textContent = `📍 Daten für ${stateName} anschauen`;
                 });
 
             g.selectAll("text")
@@ -836,11 +1008,54 @@
             setTimeout(updateMapSize, 100);
         });
 
+        // MODAL LOGIC
+        const modal = document.getElementById("detailsModal");
+        const btn = document.getElementById("showDetailsBtn");
+        const span = document.getElementsByClassName("close")[0];
+
+        btn.onclick = function() {
+            if (!selectedStateFeature) return;
+
+            const from = fromInput.value;
+            const to = toInput.value;
+            const filtered = incidents.filter(d => d.date >= from && d.date <= to);
+            
+            const cities = getCitiesInState(selectedStateFeature, filtered);
+            const stateName = selectedStateFeature.properties.NAME_1 || selectedStateFeature.properties.name;
+
+            document.getElementById("modalTitle").textContent = `Vorfälle in ${stateName}`;
+            
+            const listContainer = document.getElementById("modalList");
+            listContainer.innerHTML = ""; // Leeren
+
+            if (cities.length === 0) {
+                listContainer.innerHTML = "<div style='padding:10px; text-align:center;'>Keine Vorfälle in diesem Zeitraum.</div>";
+            } else {
+                cities.forEach(city => {
+                    const div = document.createElement("div");
+                    div.className = "city-item";
+                    div.innerHTML = `
+                        <span class="city-name">${city.name}</span>
+                        <span class="city-count">${city.count}</span>
+                    `;
+                    listContainer.appendChild(div);
+                });
+            }
+
+            modal.style.display = "block";
+        }
+
+        span.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+
         setInterval(loadIncidents, 2 * 60 * 1000);
     </script>
 </body>
 </html>
-
-
-
-

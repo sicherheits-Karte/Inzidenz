@@ -3298,3 +3298,9 @@
 {"coords": [8.24, 50.0822], "date": "2025-12-08"}, // Kontrollmaßnahme Wiesbaden, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2025-12-08"}, // Zeugen Münster, eingebrochen
 //{"coords": [], "date": "2025-12-08"} // der Nacht wegen starker Übelkeit in seiner Fahrerkabine zum Schlafen gelegt hätte, Dieb
+{"coords": [8.4043, 49.014], "date": "2025-12-08"}, // Karlsruhe, Raub
+{"coords": [7.6667, 51.5833], "date": "2025-12-08"}, // Kamen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2025-12-08"}, // Dach Giessen, Einbrecher
+{"coords": [6.7167, 49.9833], "date": "2025-12-08"}, // Scheuern, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2025-12-08"}, // Giessen, Einbrüche
+{"coords": [7.6667, 51.5833], "date": "2025-12-08"}, // Kamen, entwendet

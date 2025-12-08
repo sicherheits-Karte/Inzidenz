@@ -3095,3 +3095,4 @@
 {"coords": [6.9097, 49.4111], "date": "2025-12-07"}, // Lebach, aufbruch
 {"coords": [6.9097, 49.4111], "date": "2025-12-07"}, // Krankenhaus Lebach Lebach, Diebstahl
 {"coords": [7.6667, 50.55], "date": "2025-12-08"}, // Kennzeichendiebstahl Dierdorf, Diebstahl
+//{"coords": [], "date": "2025-12-08"} // Jagdhütte Arenrath, Einbruch

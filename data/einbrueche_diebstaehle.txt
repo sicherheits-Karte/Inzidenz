@@ -3201,3 +3201,6 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-08"}, // Brandalarm Reutlingen, Einbruch
 {"coords": [7.9833, 51.95], "date": "2025-12-08"}, // Mehrfamilienhauses Warendorf, Einbruch
 {"coords": [6.4333, 51.2], "date": "2025-12-08"}, // Wochenende Mönchengladbach, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2025-12-08"}, // Kennzeichen Haren, Diebstahl
+{"coords": [10.2, 50.8167], "date": "2025-12-08"}, // Lebensmittelmarkt Leimbach, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2025-12-08"}, // Sasel Hamburg, Einbruch

@@ -3098,3 +3098,11 @@
 //{"coords": [], "date": "2025-12-08"} // Jagdhütte Arenrath, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2025-12-08"}, // Wittlich, Einbruch
 {"coords": [8.9, 50.25], "date": "2025-12-08"}, // Nidderau, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-12-08"}, // Einfamilienhaus Lingen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-08"}, // Büroräume Lingen, Einbruch
+{"coords": [6.85, 52.6167], "date": "2025-12-08"}, // Bürogebäude Emlichheim, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Tankstellengelände Bad Bentheim, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-08"}, // Werkstatt Lingen, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Hinweise Hasselroth, Dieb
+{"coords": [10.0936, 48.8372], "date": "2025-12-08"}, // Teilen Aalen, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-12-08"}, // Erfurt, entwendet

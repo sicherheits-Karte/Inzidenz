@@ -3304,3 +3304,4 @@
 {"coords": [6.7167, 49.9833], "date": "2025-12-08"}, // Scheuern, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2025-12-08"}, // Giessen, Einbrüche
 {"coords": [7.6667, 51.5833], "date": "2025-12-08"}, // Kamen, entwendet
+{"coords": [9.2167, 48.4833], "date": "2025-12-08"}, // Geschenkkarten Reutlingen, Einbrüche

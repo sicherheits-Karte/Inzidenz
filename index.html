@@ -5,272 +5,128 @@
     <title>Einbrüche & Diebstähle Dashboard</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
     <style>
+        /* --- CSS STYLING (Identisch zum Original) --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
-
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            height: 100vh;
-            padding: 12px;
-            color: #374151;
-            overflow: hidden;
+            min-height: 100vh; height: 100vh; padding: 12px;
+            color: #374151; overflow: hidden;
         }
-
         .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: 280px 1fr;
-            gap: 12px;
-            height: calc(100vh - 24px);
-            overflow: hidden;
+            max-width: 1400px; margin: 0 auto; display: grid;
+            grid-template-columns: 280px 1fr; gap: 12px;
+            height: calc(100vh - 24px); overflow: hidden;
         }
 
-        /* Header Card */
-        .header-card {
-            grid-column: 1 / -1;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 12px;
-            padding: 16px;
+        /* Karten Design */
+        .card-base {
+            background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px);
+            border-radius: 12px; padding: 16px;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.2);
-            text-align: center;
         }
 
+        .header-card { grid-column: 1 / -1; text-align: center; }
         .header-content h1 { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 4px; }
         .header-content .subtitle { font-size: 14px; color: #6b7280; font-weight: 400; }
 
-        /* Sidebar Card */
-        .sidebar-card {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 12px;
-            padding: 16px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            display: flex;
-            flex-direction: column;
-            gap: 14px;
-            overflow-y: auto;
-            max-height: 100%;
-        }
-
+        .sidebar-card { display: flex; flex-direction: column; gap: 14px; overflow-y: auto; max-height: 100%; }
         .card-title { font-size: 16px; font-weight: 600; color: #1f2937; margin-bottom: 6px; }
 
+        /* Eingabefelder */
         .date-inputs { display: flex; flex-direction: column; gap: 12px; }
         .date-group { display: flex; flex-direction: column; gap: 6px; }
         .date-group label { font-size: 14px; font-weight: 500; color: #4b5563; }
-        
         .date-input {
-            padding: 12px;
-            border: 2px solid #e5e7eb;
-            border-radius: 8px;
-            font-size: 14px;
-            transition: all 0.2s ease;
-            background: white;
+            padding: 12px; border: 2px solid #e5e7eb; border-radius: 8px;
+            font-size: 14px; transition: all 0.2s ease; background: white; width: 100%;
         }
         .date-input:focus { outline: none; border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1); }
 
+        /* Buttons */
         .filter-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-        
         .filter-btn {
-            padding: 12px 16px;
-            border: none;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            background: #f8fafc;
-            color: #4b5563;
-            border: 2px solid #e5e7eb;
+            padding: 12px 16px; border: 2px solid #e5e7eb; border-radius: 8px;
+            font-size: 14px; font-weight: 500; cursor: pointer;
+            transition: all 0.2s ease; background: #f8fafc; color: #4b5563;
         }
         .filter-btn:hover { background: #3b82f6; color: white; border-color: #3b82f6; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3); }
         .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; }
 
-        /* Link Buttons */
         .link-btn {
-            display: block;
-            padding: 14px 20px;
-            text-align: center;
-            text-decoration: none;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            border: 2px solid;
+            display: block; padding: 14px 20px; text-align: center; text-decoration: none;
+            border-radius: 8px; font-size: 14px; font-weight: 500; cursor: pointer;
+            transition: all 0.2s ease; border: 2px solid;
         }
         .link-btn.datenquelle { background: #f0fdf4; color: #15803d; border-color: #86efac; }
-        .link-btn.datenquelle:hover { background: #15803d; color: white; border-color: #15803d; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(21, 128, 61, 0.3); }
-        
+        .link-btn.datenquelle:hover { background: #15803d; color: white; border-color: #15803d; transform: translateY(-1px); }
         .link-btn.paypal { background: linear-gradient(135deg, #0070ba, #1546a0); color: white; border-color: #0070ba; }
-        .link-btn.paypal:hover { background: linear-gradient(135deg, #005a94, #103a7f); transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4); }
+        .link-btn.paypal:hover { background: linear-gradient(135deg, #005a94, #103a7f); transform: translateY(-1px); }
 
-        /* --- STABILITÄTS-FIX FÜR ROTE BOX --- */
+        /* Info Box Rot */
         .state-info-card {
-            background: linear-gradient(135deg, #dc2626, #ef4444);
-            color: white;
-            padding: 20px;
-            border-radius: 12px;
-            text-align: center;
-            
-            /* FESTE HÖHE: Verhindert Springen der ganzen Box */
-            height: 190px; 
-            flex-shrink: 0;
-
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            gap: 10px; /* Fester Abstand zwischen Elementen */
+            background: linear-gradient(135deg, #dc2626, #ef4444); color: white;
+            padding: 20px; border-radius: 12px; text-align: center;
+            height: 190px; flex-shrink: 0;
+            display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;
         }
+        .state-info-card h3 { font-size: 14px; font-weight: 600; opacity: 0.9; min-height: 40px; display: flex; align-items: center; justify-content: center; width: 100%; margin: 0; }
+        .state-count { font-size: 24px; font-weight: 700; line-height: 1.2; }
         
-        .state-info-card h3 { 
-            font-size: 14px; 
-            font-weight: 600; 
-            opacity: 0.9;
-            /* FESTE MINDESTHÖHE: Platz für 2 Zeilen reservieren */
-            min-height: 40px; 
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0;
-            width: 100%;
-        }
-
-        .state-count { 
-            font-size: 24px; 
-            font-weight: 700;
-            line-height: 1.2;
-        }
-
-        /* Details Button - FIXED LAYOUT */
         .link-btn.details { 
-            background: white; 
-            color: #dc2626; 
-            border-color: #fca5a5; 
-            font-weight: 600;
-            
-            /* TRICK: Platz reservieren, auch wenn unsichtbar */
-            visibility: hidden; 
-            opacity: 0;
-            
-            /* Feste Größe erzwingen, damit Platz da ist */
-            display: block; 
-            width: 100%;
-            height: 48px; 
-            margin-top: 5px;
-            
+            background: white; color: #dc2626; border-color: #fca5a5; font-weight: 600;
+            visibility: hidden; opacity: 0; display: block; width: 100%; height: 48px; margin-top: 5px;
             transition: opacity 0.2s ease;
         }
-        
         .link-btn.details:hover { background: #fef2f2; border-color: #dc2626; }
-        
-        /* Klasse zum Einblenden */
-        .link-btn.details.is-visible {
-            visibility: visible;
-            opacity: 1;
-        }
+        .link-btn.details.is-visible { visibility: visible; opacity: 1; }
 
-        /* Map Card */
-        .map-card {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 12px;
-            padding: 16px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            display: flex;
-            flex-direction: column;
-            overflow: hidden;
-        }
+        /* Map Bereich */
+        .map-card { display: flex; flex-direction: column; overflow: hidden; }
         .map-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
         .map-title { font-size: 18px; font-weight: 600; color: #1f2937; }
         .vorfälle-count { font-size: 16px; font-weight: 600; color: #dc2626; }
         .map-container {
-            flex: 1;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-            overflow: hidden;
-            position: relative;
+            flex: 1; background: white; border-radius: 12px;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08); overflow: hidden; position: relative;
         }
         #map { width: 100%; height: 100%; background: #f8fafc; }
 
         /* Footer */
-        .footer {
-            grid-column: 1 / -1;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 12px;
-            padding: 12px 16px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            text-align: center;
-        }
+        .footer { grid-column: 1 / -1; padding: 12px 16px; text-align: center; }
         .footer-links { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; }
         .footer-link { color: #6b7280; text-decoration: none; font-size: 14px; font-weight: 500; transition: all 0.2s ease; position: relative; }
         .footer-link:hover { color: #3b82f6; }
         .footer-link::after { content: ''; position: absolute; bottom: -2px; left: 0; width: 0; height: 2px; background: #3b82f6; transition: width 0.2s ease; }
         .footer-link:hover::after { width: 100%; }
 
-        /* Map Elements */
+        /* Kartenelemente */
         .state { fill: white; stroke: #d1d5db; stroke-width: 1; transition: all 0.3s ease; cursor: pointer; }
         .state:hover { fill: #fef2f2; stroke: #dc2626; stroke-width: 2; }
         .state-selected { fill: #fca5a5 !important; stroke: #991b1b !important; stroke-width: 2px !important; }
-
-        .incident { fill: rgba(220, 38, 38, 0.8); stroke: white; stroke-width: 1.5; r: 5; transition: all 0.3s ease; }
+        .incident { fill: rgba(220, 38, 38, 0.8); stroke: white; stroke-width: 1.5; r: 5; transition: all 0.3s ease; pointer-events: none; }
         .incident:hover { r: 7; fill: rgba(220, 38, 38, 1); stroke-width: 2; }
         .state-highlight { fill: #fecaca !important; stroke: #dc2626 !important; stroke-width: 3px !important; }
-        
-        text { font-size: 9px; text-anchor: middle; fill: #1f2937; pointer-events: none; font-weight: 500; }
 
-        /* --- MODAL (POPUP) --- */
-        .modal {
-            display: none; position: fixed; z-index: 2000; left: 0; top: 0;
-            width: 100%; height: 100%; overflow: auto;
-            background-color: rgba(0,0,0,0.5); backdrop-filter: blur(5px);
-        }
-        .modal-content {
-            background-color: #fefefe; margin: 10% auto; padding: 25px;
-            border-radius: 16px; width: 90%; max-width: 500px;
-            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-            position: relative; animation: slideIn 0.3s ease;
-        }
+        /* Modal */
+        .modal { display: none; position: fixed; z-index: 2000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.5); backdrop-filter: blur(5px); }
+        .modal-content { background-color: #fefefe; margin: 10% auto; padding: 25px; border-radius: 16px; width: 90%; max-width: 500px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25); position: relative; animation: slideIn 0.3s ease; }
         @keyframes slideIn { from {transform: translateY(-20px); opacity: 0;} to {transform: translateY(0); opacity: 1;} }
-        
         .close { color: #9ca3af; float: right; font-size: 28px; font-weight: bold; cursor: pointer; line-height: 1; }
         .close:hover { color: #111; }
-        
         .modal-header h2 { font-size: 20px; color: #1f2937; margin-bottom: 15px; border-bottom: 2px solid #f3f4f6; padding-bottom: 10px; }
         
-        /* SUCHFELD IM POPUP */
         .search-container { margin-bottom: 15px; }
-        .search-input {
-            width: 100%;
-            padding: 10px 12px;
-            border: 2px solid #e5e7eb;
-            border-radius: 8px;
-            font-size: 14px;
-            font-family: inherit;
-        }
+        .search-input { width: 100%; padding: 10px 12px; border: 2px solid #e5e7eb; border-radius: 8px; font-size: 14px; font-family: inherit; }
         .search-input:focus { outline: none; border-color: #3b82f6; }
-
         .city-list { max-height: 50vh; overflow-y: auto; padding-right: 5px; }
-        .city-item {
-            display: flex; justify-content: space-between; align-items: center;
-            padding: 12px; border-bottom: 1px solid #f3f4f6; font-size: 14px;
-        }
+        .city-item { display: flex; justify-content: space-between; align-items: center; padding: 12px; border-bottom: 1px solid #f3f4f6; font-size: 14px; }
         .city-item:last-child { border-bottom: none; }
         .city-name { font-weight: 600; color: #374151; }
-        .city-count {
-            background: #fee2e2; color: #991b1b;
-            padding: 4px 10px; border-radius: 20px; font-weight: 700; font-size: 13px;
-        }
+        .city-count { background: #fee2e2; color: #991b1b; padding: 4px 10px; border-radius: 20px; font-weight: 700; font-size: 13px; }
 
         /* Responsive */
         @media (max-width: 1024px) {
@@ -285,21 +141,20 @@
         @media (max-width: 640px) {
             body { padding: 6px; }
             .container { gap: 8px; min-height: calc(100vh - 12px); }
-            .state-count { font-size: 20px; }
             .map-card { min-height: 350px; height: 50vh; }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="header-card">
+        <div class="header-card card-base">
             <div class="header-content">
                 <h1>Einbrüche & Diebstähle Dashboard</h1>
                 <div class="subtitle">Echtzeit-Überwachung von Vorfällen in Deutschland</div>
             </div>
         </div>
 
-        <div class="sidebar-card">
+        <div class="sidebar-card card-base">
             <div>
                 <h3 class="card-title">Zeitfilter</h3>
                 <div class="date-inputs">
@@ -334,7 +189,7 @@
             </div>
         </div>
 
-        <div class="map-card">
+        <div class="map-card card-base">
             <div class="map-header">
                 <div class="map-title">Deutschland Karte</div>
                 <div class="vorfälle-count" id="countDisplay">0 Vorfälle</div>
@@ -344,7 +199,7 @@
             </div>
         </div>
 
-        <div class="footer">
+        <div class="footer card-base">
             <div class="footer-links">
                 <a href="impressum.html" class="footer-link">Impressum</a>
                 <span style="color: #d1d5db;">|</span>
@@ -359,342 +214,339 @@
             <div class="modal-header">
                 <h2 id="modalTitle">Details</h2>
             </div>
-            
             <div class="search-container">
                 <input type="text" id="citySearch" class="search-input" placeholder="🔍 Stadt suchen">
             </div>
-
             <div id="modalList" class="city-list"></div>
         </div>
     </div>
 
     <script>
-        const svg = d3.select("#map");
+        // --- 1. KONFIGURATION & STATE ---
+        const config = {
+            geoJsonUrl: "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json",
+            dataUrl: "./data/einbrueche_diebstaehle.txt"
+        };
+
+        const state = {
+            incidents: [],
+            geoFeatures: [],
+            selectedStateFeature: null,
+            incidentCacheByState: {} // Performance-Cache für schnelle Lookups
+        };
+
+        // DOM Elemente cachen für schnellen Zugriff
+        const elements = {
+            mapSvg: d3.select("#map"),
+            fromDate: document.getElementById("fromDate"),
+            toDate: document.getElementById("toDate"),
+            countDisplay: document.getElementById("countDisplay"),
+            stateInfo: document.getElementById("stateInfo"),
+            detailsBtn: document.getElementById("showDetailsBtn"),
+            modal: document.getElementById("detailsModal"),
+            modalList: document.getElementById("modalList"),
+            citySearch: document.getElementById("citySearch"),
+            modalTitle: document.getElementById("modalTitle"),
+            closeModal: document.querySelector(".close")
+        };
+
+        // Map Setup
         const projection = d3.geoMercator().center([10.5, 51.0]).scale(2600).translate([0, 0]);
-        const path = d3.geoPath().projection(projection);
+        const pathGenerator = d3.geoPath().projection(projection);
+        const mapGroup = elements.mapSvg.append("g");
+        
+        // Zoom Verhalten
+        elements.mapSvg.call(d3.zoom().scaleExtent([0.5, 12]).on("zoom", (e) => {
+            mapGroup.attr("transform", e.transform);
+        }));
 
-        // --- KLICK AUF HINTERGRUND RESETTET AUSWAHL ---
-        svg.on("click", function(event) {
-            // Wenn man auf die Karte (Hintergrund) klickt, alles zurücksetzen
-            selectedState = null;
-            d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
+        // --- 2. DATEN LADEN & PARSEN (OPTIMIERT) ---
+
+        async function init() {
+            setInitialDates();
+            setupEventListeners();
             
-            // UI zurücksetzen
-            document.getElementById("stateInfo").textContent = "-";
-            document.getElementById("showDetailsBtn").classList.remove("is-visible");
-        });
+            try {
+                // GeoJSON laden
+                const geoResponse = await d3.json(config.geoJsonUrl);
+                state.geoFeatures = geoResponse.features;
+                renderMapBase();
 
-        const zoom = d3.zoom().scaleExtent([0.5, 12]).on("zoom", (event) => {
-            g.attr("transform", event.transform);
-            const scale = event.transform.k;
-            svg.selectAll("text").style("display", scale > 2 ? "block" : "none");
-        });
-        svg.call(zoom);
-        const g = svg.append("g");
+                // Incident Daten laden & periodisch aktualisieren
+                await loadIncidents();
+                setInterval(loadIncidents, 120000); // Alle 2 Min Update
 
-        let incidents = [];
-        let statesData = [];
-        let selectedState = null;
+                // Resize Handler
+                window.addEventListener('resize', updateMapDimensions);
+                updateMapDimensions();
 
-        function updateMapSize() {
-            const container = document.querySelector('.map-container');
-            const containerWidth = container.clientWidth;
-            const containerHeight = container.clientHeight;
-            svg.attr("width", containerWidth).attr("height", containerHeight);
-            projection.translate([containerWidth / 2, containerHeight / 2]);
-            if (statesData.length > 0) {
-                g.selectAll("path").attr("d", path);
-                updateIncidents();
+            } catch (err) {
+                console.error("Initialisierungsfehler:", err);
             }
-        }
-
-        // --- REINIGUNGS-FUNKTION ---
-        function cleanLocationName(rawName) {
-            if (!rawName) return "Unbekannter Ort";
-            
-            const blacklist = [
-                "Polizei", "Presseportal", "Blaulicht", "News", "Aktuell",
-                "Zeugenaufruf", "Zeugen", "gesucht",
-                "Eigentumskriminalität", "Wohnungseinbruch", "Wohnungseinbrecherinnen",
-                "Einbruch", "Diebstahl", "Raub", "Überfall", "Festnahme", "Unfall",
-                "Kfz", "Lagerhalle", "Wohnhaus", "Praxisräume", "Einfamilienhaus", "Hütte", "Poser"
-            ];
-
-            let cleaned = rawName;
-            blacklist.forEach(word => {
-                const regex = new RegExp(word, "gi");
-                cleaned = cleaned.replace(regex, "");
-            });
-
-            cleaned = cleaned.replace(/^,|,$/g, "");
-            cleaned = cleaned.replace(/\s+in\s+/gi, " ");
-            cleaned = cleaned.replace(/\s+/g, ' ').trim();
-
-            if (cleaned.length < 2) return "Unbekannter Ort";
-            return cleaned;
         }
 
         async function loadIncidents() {
             try {
-                const timestamp = new Date().getTime();
-                const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${timestamp}`);
-                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                const ts = new Date().getTime();
+                const res = await fetch(`${config.dataUrl}?t=${ts}`);
+                if(!res.ok) throw new Error("Netzwerkfehler");
+                const text = await res.text();
                 
-                const text = await response.text();
-                const lines = text.split('\n');
+                parseIncidents(text);
                 
-                incidents = []; 
+                // WICHTIG: Pre-Calculation der Bundesländer für Performance
+                if(state.geoFeatures.length > 0) {
+                    assignStatesToIncidents(); 
+                }
 
-                for (let line of lines) {
-                    const parts = line.split('//');
-                    let jsonPart = parts[0].trim();
-                    if (jsonPart.endsWith(',')) jsonPart = jsonPart.slice(0, -1);
+                updateView();
+            } catch (e) { console.warn("Daten konnten nicht geladen werden", e); }
+        }
 
-                    if (jsonPart && jsonPart.includes('{') && jsonPart.includes('}')) {
-                        try {
-                            const dataObj = JSON.parse(jsonPart);
-                            let rawName = "Unbekannter Ort";
-                            if (parts[1]) {
-                                const comment = parts[1].trim();
-                                if (comment.includes(',')) rawName = comment.split(',')[0].trim();
-                                else rawName = comment;
-                            }
-                            const finalCityName = cleanLocationName(rawName);
+        function parseIncidents(rawText) {
+            state.incidents = [];
+            const lines = rawText.split('\n');
 
-                            if (dataObj.coords && dataObj.coords.length === 2) {
-                                incidents.push({
-                                    id: incidents.length,
-                                    coords: dataObj.coords,
-                                    date: dataObj.date,
-                                    city: finalCityName
-                                });
-                            }
-                        } catch (e) { console.log("Parsing error for line:", line); }
+            lines.forEach((line, idx) => {
+                if(!line || !line.trim()) return;
+
+                const parts = line.split('//');
+                let jsonStr = parts[0].trim();
+                const comment = parts[1] ? parts[1].trim() : "";
+
+                // Fix: Trailing Comma entfernen für JSON Validität
+                if(jsonStr.endsWith(',')) jsonStr = jsonStr.slice(0, -1);
+
+                try {
+                    if(jsonStr.startsWith('{') && jsonStr.includes('}')) {
+                        const data = JSON.parse(jsonStr);
+                        
+                        // Stadtname aus Kommentar extrahieren
+                        let cityName = comment.split(',')[0].trim();
+                        if(!cityName) cityName = "Unbekannter Ort";
+
+                        if(data.coords && data.coords.length === 2) {
+                            state.incidents.push({
+                                id: idx,
+                                coords: data.coords,
+                                date: data.date,
+                                city: cityName,
+                                stateName: "Unbekannt" // Wird gleich berechnet
+                            });
+                        }
                     }
-                }
-                updateIncidents();
-            } catch (error) { console.error('Fehler beim Laden der Daten:', error); }
-        }
-
-        function formatDate(date) {
-            const year = date.getFullYear();
-            const month = String(date.getMonth() + 1).padStart(2, '0');
-            const day = String(date.getDate()).padStart(2, '0');
-            return `${year}-${month}-${day}`;
-        }
-
-        const today = new Date();
-        const todayStr = formatDate(today);
-        const fromInput = document.getElementById("fromDate");
-        const toInput = document.getElementById("toDate");
-        fromInput.value = todayStr;
-        toInput.value = todayStr;
-
-        function updateIncidents() {
-            const from = fromInput.value;
-            const to = toInput.value;
-            if (!from || !to) return;
-
-            const filtered = incidents.filter(d => d.date >= from && d.date <= to);
-            document.getElementById("countDisplay").textContent = `${filtered.length} Vorfälle`;
-
-            const points = g.selectAll(".incident").data(filtered, d => d.id);
-            points.exit().remove();
-            points.enter().append("circle")
-                .attr("class", "incident")
-                .attr("r", 5).attr("opacity", 0.85)
-                .merge(points)
-                .attr("cx", d => { const p = projection(d.coords); return p ? p[0] : 0; })
-                .attr("cy", d => { const p = projection(d.coords); return p ? p[1] : 0; });
-            
-            if (selectedState) updateStateSelection(selectedState);
-        }
-
-        function isPointInPolygon(point, polygon) {
-            const [lng, lat] = point;
-            let inside = false;
-            for (let i = 0, j = polygon.length - 1; i < polygon.length; j = i++) {
-                const [xi, yi] = polygon[i];
-                const [xj, yj] = polygon[j];
-                const intersect = ((yi > lat) !== (yj > lat)) && (lng < (xj - xi) * (lat - yi) / (yj - yi) + xi);
-                if (intersect) inside = !inside;
-            }
-            return inside;
-        }
-
-        function getPolygonsFromGeometry(geometry) {
-            const polygons = [];
-            if (geometry.type === 'Polygon') polygons.push(geometry.coordinates[0]);
-            else if (geometry.type === 'MultiPolygon') geometry.coordinates.forEach(p => polygons.push(p[0]));
-            return polygons;
-        }
-
-        function getIncidentsInState(stateFeature, incidentsList) {
-            const polygons = getPolygonsFromGeometry(stateFeature.geometry);
-            return incidentsList.filter(incident => {
-                const [lng, lat] = incident.coords;
-                for (let polygon of polygons) {
-                    if (isPointInPolygon([lng, lat], polygon)) return true;
-                }
-                return false;
+                } catch(e) { /* Fehler ignorieren, weitermachen */ }
             });
         }
 
-        function countIncidentsInState(stateFeature, incidentsList) {
-            return getIncidentsInState(stateFeature, incidentsList).length;
+        // --- 3. PERFORMANCE LOGIK: ZUORDNUNG VORBERECHNEN ---
+        
+        function assignStatesToIncidents() {
+            // Dies läuft nur EINMAL beim Laden, nicht bei jedem Klick!
+            state.incidents.forEach(inc => {
+                // Performance: d3.geoContains ist effizient, aber teuer in Schleifen.
+                // Wir machen das hier einmalig, damit die UI später flüssig ist.
+                const foundState = state.geoFeatures.find(feature => 
+                    d3.geoContains(feature, inc.coords)
+                );
+                
+                if(foundState) {
+                    inc.stateName = foundState.properties.NAME_1 || foundState.properties.name;
+                }
+            });
         }
 
-        function updateStateSelection(d) {
-             const from = fromInput.value;
-             const to = toInput.value;
-             const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
-             
-             const count = countIncidentsInState(d, filtered);
-             const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
-             
-             document.getElementById("stateInfo").textContent = `${stateName}: ${count}`;
-             
-             const btn = document.getElementById("showDetailsBtn");
-             if (count > 0) {
-                 btn.textContent = `📍 Details für ${stateName}`;
-                 btn.classList.add("is-visible");
-             } else {
-                 btn.classList.remove("is-visible");
-             }
-        }
+        // --- 4. RENDERING & UI LOGIK ---
 
-        fromInput.addEventListener("change", updateIncidents);
-        toInput.addEventListener("change", updateIncidents);
-
-        function setActiveButton(activeBtn) {
-            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            activeBtn.classList.add('active');
-        }
-
-        document.getElementById("todayBtn").onclick = function() { setActiveButton(this); fromInput.value = todayStr; toInput.value = todayStr; updateIncidents(); };
-        document.getElementById("weekBtn").onclick = function() {
-            setActiveButton(this);
-            const t = new Date(); const s = new Date(t);
-            const diff = t.getDay() === 0 ? -6 : 1 - t.getDay();
-            s.setDate(t.getDate() + diff);
-            fromInput.value = formatDate(s); toInput.value = todayStr; updateIncidents();
-        };
-        document.getElementById("monthBtn").onclick = function() {
-            setActiveButton(this); const t = new Date();
-            fromInput.value = formatDate(new Date(t.getFullYear(), t.getMonth(), 1));
-            toInput.value = formatDate(new Date(t.getFullYear(), t.getMonth() + 1, 0));
-            updateIncidents();
-        };
-        document.getElementById("yearBtn").onclick = function() {
-            setActiveButton(this); fromInput.value = `${new Date().getFullYear()}-01-01`; toInput.value = todayStr; updateIncidents();
-        };
-
-        const geojsonURL = "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json";
-        d3.json(geojsonURL).then(data => {
-            statesData = data.features;
-            g.selectAll("path").data(data.features).enter().append("path")
+        function renderMapBase() {
+            mapGroup.selectAll("path")
+                .data(state.geoFeatures)
+                .enter().append("path")
                 .attr("class", "state")
-                .attr("d", path)
-                .on("mouseover", function(event, d) {
-                    if(!selectedState) {
-                         d3.select(this).classed("state-highlight", true);
-                         updateStateSelection(d);
-                    }
-                })
-                .on("mouseout", function() {
-                    if(!selectedState) {
-                        d3.select(this).classed("state-highlight", false);
-                        document.getElementById("stateInfo").textContent = "-";
-                        document.getElementById("showDetailsBtn").classList.remove("is-visible");
-                    }
-                })
-                .on("click", function(event, d) {
-                    // WICHTIG: stopPropagation verhindert, dass der Klick ans SVG (Hintergrund) weitergegeben wird
-                    event.stopPropagation();
+                .attr("d", pathGenerator)
+                .on("click", handleStateClick)
+                .on("mouseover", function() { if(!state.selectedStateFeature) d3.select(this).classed("state-highlight", true); })
+                .on("mouseout", function() { if(!state.selectedStateFeature) d3.select(this).classed("state-highlight", false); });
+        }
 
-                    d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
-                    selectedState = d;
-                    d3.select(this).classed("state-selected", true);
-                    updateStateSelection(d);
-                });
-
-            g.selectAll("text").data(data.features).enter().append("text")
-                .attr("x", d => path.centroid(d)[0]).attr("y", d => path.centroid(d)[1])
-                .text(d => d.properties.NAME_1).style("display", "none");
-
-            loadIncidents();
-            window.addEventListener('resize', updateMapSize);
-            setTimeout(updateMapSize, 100);
-        });
-
-        const modal = document.getElementById("detailsModal");
-        const btn = document.getElementById("showDetailsBtn");
-        const span = document.getElementsByClassName("close")[0];
-        const searchInput = document.getElementById("citySearch");
-
-        // --- POPUP ÖFFNEN ---
-        btn.onclick = function() {
-            if(!selectedState) return;
-
-            // Reset Suche beim Öffnen
-            searchInput.value = "";
-
-            const from = fromInput.value;
-            const to = toInput.value;
-            const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
+        function updateView() {
+            const from = elements.fromDate.value;
+            const to = elements.toDate.value;
             
-            const incidentsInState = getIncidentsInState(selectedState, filtered);
+            // Filterung nach Datum
+            const filtered = state.incidents.filter(d => d.date >= from && d.date <= to);
             
-            const cityCounts = {};
-            incidentsInState.forEach(inc => {
-                const name = inc.city;
-                cityCounts[name] = (cityCounts[name] || 0) + 1;
-            });
-
-            const sortedCities = Object.entries(cityCounts)
-                .map(([name, count]) => ({ name, count }))
-                .sort((a, b) => b.count - a.count);
-
-            const listContainer = document.getElementById("modalList");
-            const stateName = selectedState.properties.NAME_1 || selectedState.properties.name;
-            document.getElementById("modalTitle").textContent = `Details für ${stateName}`;
+            // Map Punkte zeichnen
+            const circles = mapGroup.selectAll(".incident").data(filtered, d => d.id);
+            circles.exit().remove();
             
-            if (sortedCities.length === 0) {
-                listContainer.innerHTML = "<div style='padding:10px; text-align:center;'>Keine Vorfälle im gewählten Zeitraum.</div>";
+            circles.enter().append("circle")
+                .attr("class", "incident")
+                .attr("r", 5)
+                .merge(circles)
+                .attr("cx", d => projection(d.coords)[0])
+                .attr("cy", d => projection(d.coords)[1]);
+
+            elements.countDisplay.textContent = `${filtered.length} Vorfälle`;
+
+            // State Info Box aktualisieren falls ausgewählt
+            if(state.selectedStateFeature) {
+                updateSidebarInfo(state.selectedStateFeature, filtered);
             } else {
-                listContainer.innerHTML = sortedCities.map(city => `
-                    <div class="city-item">
-                        <span class="city-name">${city.name}</span>
-                        <span class="city-count">${city.count}</span>
-                    </div>
-                `).join('');
-            }
-
-            modal.style.display = "block";
-            // Fokus auf Suchfeld setzen
-            setTimeout(() => searchInput.focus(), 100);
-        }
-
-        // --- SUCHFUNKTION ---
-        searchInput.onkeyup = function() {
-            const filter = this.value.toLowerCase();
-            const items = document.getElementsByClassName("city-item");
-
-            for (let i = 0; i < items.length; i++) {
-                const cityName = items[i].getElementsByClassName("city-name")[0].textContent.toLowerCase();
-                if (cityName.includes(filter)) {
-                    items[i].style.display = "flex";
-                } else {
-                    items[i].style.display = "none";
-                }
+                elements.stateInfo.textContent = "-";
+                elements.detailsBtn.classList.remove("is-visible");
             }
         }
 
-        span.onclick = function() { modal.style.display = "none"; }
-        window.onclick = function(event) { if (event.target == modal) modal.style.display = "none"; }
+        function handleStateClick(event, feature) {
+            event.stopPropagation();
+            
+            // Toggle Auswahl
+            if (state.selectedStateFeature === feature) {
+                resetSelection(); // Abwählen bei erneutem Klick
+            } else {
+                state.selectedStateFeature = feature;
+                d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
+                d3.select(this).classed("state-selected", true);
+                updateView(); // Sidebar updaten
+            }
+        }
 
-        setInterval(loadIncidents, 2 * 60 * 1000);
+        function resetSelection() {
+            state.selectedStateFeature = null;
+            d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
+            updateView();
+        }
+
+        function updateSidebarInfo(feature, currentFilteredIncidents) {
+            const name = feature.properties.NAME_1 || feature.properties.name;
+            
+            // HIER IST DER PERFORMANCE GEWINN:
+            // Statt Geometrie zu berechnen, filtern wir nur noch nach dem String-Namen
+            const count = currentFilteredIncidents.filter(i => i.stateName === name).length;
+
+            elements.stateInfo.textContent = `${name}: ${count}`;
+            
+            if(count > 0) {
+                elements.detailsBtn.textContent = `📍 Details für ${name}`;
+                elements.detailsBtn.classList.add("is-visible");
+            } else {
+                elements.detailsBtn.classList.remove("is-visible");
+            }
+        }
+
+        function updateMapDimensions() {
+            const container = document.querySelector('.map-container');
+            const w = container.clientWidth;
+            const h = container.clientHeight;
+            elements.mapSvg.attr("width", w).attr("height", h);
+            projection.translate([w / 2, h / 2]);
+            mapGroup.selectAll("path").attr("d", pathGenerator);
+            updateView();
+        }
+
+        // --- 5. MODAL LOGIK ---
+
+        elements.detailsBtn.onclick = () => {
+            if(!state.selectedStateFeature) return;
+            
+            const name = state.selectedStateFeature.properties.NAME_1 || state.selectedStateFeature.properties.name;
+            const from = elements.fromDate.value;
+            const to = elements.toDate.value;
+            
+            // Effiziente Filterung
+            const incidentsInState = state.incidents.filter(i => 
+                i.stateName === name && i.date >= from && i.date <= to
+            );
+
+            // Zählen
+            const counts = {};
+            incidentsInState.forEach(i => counts[i.city] = (counts[i.city] || 0) + 1);
+            
+            const sorted = Object.entries(counts)
+                .map(([city, count]) => ({city, count}))
+                .sort((a,b) => b.count - a.count);
+
+            // Render List
+            elements.modalTitle.textContent = `Details für ${name}`;
+            elements.citySearch.value = "";
+            renderCityList(sorted);
+            
+            elements.modal.style.display = "block";
+            setTimeout(() => elements.citySearch.focus(), 100);
+        };
+
+        function renderCityList(items) {
+            if(items.length === 0) {
+                elements.modalList.innerHTML = "<div style='padding:10px; text-align:center;'>Keine Daten.</div>";
+                return;
+            }
+            // HTML String bauen ist schneller als viele appendChild calls
+            elements.modalList.innerHTML = items.map(item => `
+                <div class="city-item" data-name="${item.city.toLowerCase()}">
+                    <span class="city-name">${item.city}</span>
+                    <span class="city-count">${item.count}</span>
+                </div>
+            `).join('');
+        }
+
+        // Suche im Modal (Optimiert)
+        elements.citySearch.onkeyup = function() {
+            const term = this.value.toLowerCase();
+            const items = elements.modalList.children;
+            // Native Loop ist schnell genug für Listen < 1000 Elemente
+            for(let item of items) {
+                const name = item.getAttribute('data-name');
+                item.style.display = name.includes(term) ? "flex" : "none";
+            }
+        };
+
+        // Modal schließen
+        elements.closeModal.onclick = () => elements.modal.style.display = "none";
+        window.onclick = (e) => { if(e.target == elements.modal) elements.modal.style.display = "none"; };
+
+        // --- 6. HELPER & EVENTS ---
+
+        function setInitialDates() {
+            const today = new Date().toISOString().split('T')[0];
+            elements.fromDate.value = today;
+            elements.toDate.value = today;
+        }
+
+        function setupEventListeners() {
+            elements.fromDate.addEventListener("change", updateView);
+            elements.toDate.addEventListener("change", updateView);
+            elements.mapSvg.on("click", resetSelection); // Klick auf Hintergrund
+
+            // Filter Buttons Logik
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.onclick = function() {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    const today = new Date();
+                    let start = new Date();
+                    const endStr = today.toISOString().split('T')[0];
+                    
+                    switch(this.id) {
+                        case 'todayBtn': break; // start ist schon heute
+                        case 'weekBtn': 
+                            const day = today.getDay() || 7; 
+                            if(day !== 1) start.setHours(-24 * (day - 1)); 
+                            break;
+                        case 'monthBtn': start.setDate(1); break;
+                        case 'yearBtn': start.setMonth(0, 1); break;
+                    }
+                    
+                    elements.fromDate.value = start.toISOString().split('T')[0];
+                    elements.toDate.value = endStr;
+                    updateView();
+                };
+            });
+        }
+
+        // Starten
+        init();
     </script>
 </body>
 </html>
-

@@ -3242,3 +3242,13 @@
 {"coords": [6.4247, 51.0067], "date": "2025-12-08"}, // Titz, entwendet
 {"coords": [6.4833, 50.8], "date": "2025-12-08"}, // Dürener Weihnachtsmarkt Düren, Diebstahl
 {"coords": [13.2611, 53.5569], "date": "2025-12-08"}, // Neubrandenburg, Einbruch
+{"coords": [7.6158, 50.8767], "date": "2025-12-08"}, // Leiter Waldbröl, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2025-12-08"}, // Einbrüchen Augsburg, Einbrüche
+{"coords": [10.8978, 48.3705], "date": "2025-12-08"}, // Einbruch Augsburg, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2025-12-08"}, // Zeugensuche Duisburg, klau
+{"coords": [10.8978, 48.3705], "date": "2025-12-08"}, // Raub Augsburg, Raub
+{"coords": [6.0167, 51.7917], "date": "2025-12-08"}, // Kranenburg, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2025-12-08"}, // Zeugenaufruf Mannheim, Einbrüche
+{"coords": [10.7865, 52.4226], "date": "2025-12-08"}, // Bäckerei Wolfsburg, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2025-12-08"}, // Ortsteil Brackel Dortmund, Raub
+//{"coords": [], "date": "2025-12-08"} // Hinweise Bremerhaven, Raub

@@ -3290,3 +3290,11 @@
 //{"coords": [], "date": "2025-12-08"} // Kamen, entwendet
 {"coords": [6.85, 49.3], "date": "2025-12-08"}, // Unfall Bad Schwalbach, Einbrüche
 {"coords": [7.9447, 48.4731], "date": "2025-12-08"}, // Einbrüche Offenburg, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2025-12-08"}, // Zeugenaufruf Mannheim, Diebstähle
+{"coords": [8.4661, 49.4878], "date": "2025-12-08"}, // Zeugenaufruf Mannheim, Raub
+{"coords": [8.6944, 49.4092], "date": "2025-12-08"}, // Zeugenaufruf Heidelberg, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Dach Giessen, Einbrecher
+//{"coords": [], "date": "2025-12-08"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.24, 50.0822], "date": "2025-12-08"}, // Kontrollmaßnahme Wiesbaden, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-12-08"}, // Zeugen Münster, eingebrochen
+//{"coords": [], "date": "2025-12-08"} // der Nacht wegen starker Übelkeit in seiner Fahrerkabine zum Schlafen gelegt hätte, Dieb

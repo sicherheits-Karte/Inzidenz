@@ -3226,3 +3226,7 @@
 {"coords": [7.3608, 49.2492], "date": "2025-12-08"}, // Diebstählen Zweibrücken, Diebstahl
 {"coords": [7.5658, 51.4458], "date": "2025-12-08"}, // Computerbetrug Schwerte, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2025-12-08"}, // Hannover, entwendet
+{"coords": [8.7667, 50.1], "date": "2025-12-08"}, // Kreis Offenbach, Einbrecher
+//{"coords": [], "date": "2025-12-08"} // der Dr.-Heinrich-Bohley-Straße ein sogenannter Tageswohnungseinbruch verübt. Die Täter drangen über ein rückwärtig gelegenes Fenster im Erdgeschoss gewaltsam in das Einfamilienhaus ein, durchsuchten mehrere Räume und entwendeten nach ersten Feststellungen mehrere Uhren und weiteren Schmuck sowie Bargeld. Die Kriminalpolizei bittet um, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-12-08"}, // Tageswohnungseinbruch Fulda, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Bremerhaven, Diebstahl

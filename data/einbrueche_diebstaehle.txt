@@ -3263,3 +3263,15 @@
 {"coords": [8.4661, 49.4878], "date": "2025-12-08"}, // Zeugenaufruf Mannheim, Einbruch
 {"coords": [7.2, 51.6167], "date": "2025-12-08"}, // Recklinghausen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-12-08"}, // Unfallflucht Aalen, Einbrüche
+{"coords": [7.9447, 48.4731], "date": "2025-12-08"}, // Ladendiebstahl Offenburg, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2025-12-08"}, // Zeugensuche Köln, Raub
+{"coords": [7.9447, 48.4731], "date": "2025-12-08"}, // Offenburg, Diebstahl
+//{"coords": [], "date": "2025-12-08"} // Neckar, Diebstahl
+//{"coords": [], "date": "2025-12-08"} // Parfümerie Lahr, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Sandweier, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-12-08"}, // Weihnachtsfeier Bielefeld, Einbrecher
+//{"coords": [], "date": "2025-12-08"} // Giessen, Einbrüche
+//{"coords": [], "date": "2025-12-08"} // Zeugen Birkenfeld, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2025-12-08"}, // Fahrrad Duisburg, gestohlen
+//{"coords": [], "date": "2025-12-08"} // Baustelle gestohlen, gestohlen
+{"coords": [8.4043, 49.014], "date": "2025-12-08"}, // Karlsruhe, Einbrüche

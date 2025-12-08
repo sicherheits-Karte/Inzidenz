@@ -3113,3 +3113,11 @@
 {"coords": [11.3239, 50.9795], "date": "2025-12-08"}, // Bürogebäude Weimar, Einbruch
 //{"coords": [], "date": "2025-12-08"} // Kreis, Einbruch
 //{"coords": [], "date": "2025-12-08"} // Einfamilienhaus Maulbronn, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2025-12-08"}, // Gera, Räuber
+{"coords": [7.2931, 51.2861], "date": "2025-12-08"}, // Schmuck Schwelm, Einbruch
+{"coords": [7.7, 51.375], "date": "2025-12-08"}, // Schmierereien Iserlohn, Einbruch
+{"coords": [7.8, 51.4333], "date": "2025-12-08"}, // Diebstählen Menden, Diebstähle
+{"coords": [7.6333, 51.2167], "date": "2025-12-08"}, // Lüdenscheid, Diebstahl
+//{"coords": [], "date": "2025-12-08"} // Zeugen Neuenbürg, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Renitente Ladendiebin Nachrodt, Dieb
+//{"coords": [], "date": "2025-12-08"} // Untersuchungshaft Freudenstadt, Einbrecher

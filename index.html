@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
     <style>
-        /* --- CSS STYLING (Identisch zum Original) --- */
+        /* --- CSS STYLING --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -21,7 +21,6 @@
             height: calc(100vh - 24px); overflow: hidden;
         }
 
-        /* Karten Design */
         .card-base {
             background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px);
             border-radius: 12px; padding: 16px;
@@ -36,7 +35,6 @@
         .sidebar-card { display: flex; flex-direction: column; gap: 14px; overflow-y: auto; max-height: 100%; }
         .card-title { font-size: 16px; font-weight: 600; color: #1f2937; margin-bottom: 6px; }
 
-        /* Eingabefelder */
         .date-inputs { display: flex; flex-direction: column; gap: 12px; }
         .date-group { display: flex; flex-direction: column; gap: 6px; }
         .date-group label { font-size: 14px; font-weight: 500; color: #4b5563; }
@@ -46,7 +44,6 @@
         }
         .date-input:focus { outline: none; border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1); }
 
-        /* Buttons */
         .filter-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
         .filter-btn {
             padding: 12px 16px; border: 2px solid #e5e7eb; border-radius: 8px;
@@ -66,25 +63,39 @@
         .link-btn.paypal { background: linear-gradient(135deg, #0070ba, #1546a0); color: white; border-color: #0070ba; }
         .link-btn.paypal:hover { background: linear-gradient(135deg, #005a94, #103a7f); transform: translateY(-1px); }
 
-        /* Info Box Rot */
+        /* --- OPTIMIERTE ROTE BOX (FLEXBOX FIX) --- */
         .state-info-card {
             background: linear-gradient(135deg, #dc2626, #ef4444); color: white;
             padding: 20px; border-radius: 12px; text-align: center;
-            height: 190px; flex-shrink: 0;
-            display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;
+            /* Flexbox für vertikale Ausrichtung der Box selbst */
+            display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 12px;
+            min-height: 200px; flex-shrink: 0;
         }
-        .state-info-card h3 { font-size: 14px; font-weight: 600; opacity: 0.9; min-height: 40px; display: flex; align-items: center; justify-content: center; width: 100%; margin: 0; }
-        .state-count { font-size: 24px; font-weight: 700; line-height: 1.2; }
+        .state-info-card h3 { 
+            font-size: 14px; font-weight: 600; opacity: 0.9; margin: 0;
+            min-height: 20px; /* Platzhalter, damit es nicht springt */
+        }
+        .state-count { font-size: 28px; font-weight: 700; line-height: 1.1; }
         
+        /* --- BUTTON ZENTRIERUNG --- */
         .link-btn.details { 
             background: white; color: #dc2626; border-color: #fca5a5; font-weight: 600;
-            visibility: hidden; opacity: 0; display: block; width: 100%; height: 48px; margin-top: 5px;
+            visibility: hidden; opacity: 0; 
+            width: 100%; 
+            margin-top: 5px;
             transition: opacity 0.2s ease;
+            
+            /* NEU: Flexbox für perfekte Zentrierung des Textes im Button */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 48px; /* Mindesthöhe statt fester Höhe */
+            padding: 8px 12px;
+            line-height: 1.2;
         }
         .link-btn.details:hover { background: #fef2f2; border-color: #dc2626; }
         .link-btn.details.is-visible { visibility: visible; opacity: 1; }
 
-        /* Map Bereich */
         .map-card { display: flex; flex-direction: column; overflow: hidden; }
         .map-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
         .map-title { font-size: 18px; font-weight: 600; color: #1f2937; }
@@ -95,7 +106,6 @@
         }
         #map { width: 100%; height: 100%; background: #f8fafc; }
 
-        /* Footer */
         .footer { grid-column: 1 / -1; padding: 12px 16px; text-align: center; }
         .footer-links { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; }
         .footer-link { color: #6b7280; text-decoration: none; font-size: 14px; font-weight: 500; transition: all 0.2s ease; position: relative; }
@@ -103,15 +113,15 @@
         .footer-link::after { content: ''; position: absolute; bottom: -2px; left: 0; width: 0; height: 2px; background: #3b82f6; transition: width 0.2s ease; }
         .footer-link:hover::after { width: 100%; }
 
-        /* Kartenelemente */
-        .state { fill: white; stroke: #d1d5db; stroke-width: 1; transition: all 0.3s ease; cursor: pointer; }
+        .state { fill: white; stroke: #d1d5db; stroke-width: 1; transition: all 0.2s ease; cursor: pointer; }
         .state:hover { fill: #fef2f2; stroke: #dc2626; stroke-width: 2; }
         .state-selected { fill: #fca5a5 !important; stroke: #991b1b !important; stroke-width: 2px !important; }
         .incident { fill: rgba(220, 38, 38, 0.8); stroke: white; stroke-width: 1.5; r: 5; transition: all 0.3s ease; pointer-events: none; }
         .incident:hover { r: 7; fill: rgba(220, 38, 38, 1); stroke-width: 2; }
-        .state-highlight { fill: #fecaca !important; stroke: #dc2626 !important; stroke-width: 3px !important; }
+        
+        /* Highlight Klasse für Hover */
+        .state-highlight { fill: #fef2f2 !important; stroke: #dc2626 !important; stroke-width: 2px !important; }
 
-        /* Modal */
         .modal { display: none; position: fixed; z-index: 2000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.5); backdrop-filter: blur(5px); }
         .modal-content { background-color: #fefefe; margin: 10% auto; padding: 25px; border-radius: 16px; width: 90%; max-width: 500px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25); position: relative; animation: slideIn 0.3s ease; }
         @keyframes slideIn { from {transform: translateY(-20px); opacity: 0;} to {transform: translateY(0); opacity: 1;} }
@@ -128,7 +138,6 @@
         .city-name { font-weight: 600; color: #374151; }
         .city-count { background: #fee2e2; color: #991b1b; padding: 4px 10px; border-radius: 20px; font-weight: 700; font-size: 13px; }
 
-        /* Responsive */
         @media (max-width: 1024px) {
             body { padding: 8px; height: auto; min-height: 100vh; overflow-y: auto; }
             .container { grid-template-columns: 1fr; height: auto; min-height: calc(100vh - 16px); gap: 12px; overflow: visible; }
@@ -183,7 +192,7 @@
             <div><a href="https://www.paypal.com/paypalme/JulianKircher231" class="link-btn paypal">☕ Unterstützen via PayPal</a></div>
 
             <div class="state-info-card">
-                <h3>Ausgewähltes Bundesland</h3>
+                <h3 id="stateTitle">Ausgewähltes Bundesland</h3>
                 <div class="state-count" id="stateInfo">-</div>
                 <button id="showDetailsBtn" class="link-btn details">📍 Orte anzeigen</button>
             </div>
@@ -222,7 +231,6 @@
     </div>
 
     <script>
-        // --- 1. KONFIGURATION & STATE ---
         const config = {
             geoJsonUrl: "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json",
             dataUrl: "./data/einbrueche_diebstaehle.txt"
@@ -232,16 +240,16 @@
             incidents: [],
             geoFeatures: [],
             selectedStateFeature: null,
-            incidentCacheByState: {} // Performance-Cache für schnelle Lookups
+            incidentCacheByState: {}
         };
 
-        // DOM Elemente cachen für schnellen Zugriff
         const elements = {
             mapSvg: d3.select("#map"),
             fromDate: document.getElementById("fromDate"),
             toDate: document.getElementById("toDate"),
             countDisplay: document.getElementById("countDisplay"),
             stateInfo: document.getElementById("stateInfo"),
+            stateTitle: document.getElementById("stateTitle"),
             detailsBtn: document.getElementById("showDetailsBtn"),
             modal: document.getElementById("detailsModal"),
             modalList: document.getElementById("modalList"),
@@ -250,39 +258,58 @@
             closeModal: document.querySelector(".close")
         };
 
-        // Map Setup
         const projection = d3.geoMercator().center([10.5, 51.0]).scale(2600).translate([0, 0]);
         const pathGenerator = d3.geoPath().projection(projection);
         const mapGroup = elements.mapSvg.append("g");
         
-        // Zoom Verhalten
         elements.mapSvg.call(d3.zoom().scaleExtent([0.5, 12]).on("zoom", (e) => {
             mapGroup.attr("transform", e.transform);
         }));
 
-        // --- 2. DATEN LADEN & PARSEN (OPTIMIERT) ---
+        // --- FILTER-LISTE FÜR SAUBERE STÄDTENAMEN ---
+        // Wörter, die entfernt werden sollen (case-insensitive)
+        const CLEANUP_BLACKLIST = [
+            "Polizei", "Presseportal", "Blaulicht", "News", "Aktuell",
+            "Zeugenaufruf", "Zeugen", "gesucht",
+            "Eigentumskriminalität", "Wohnungseinbruch", "Wohnungseinbrecherinnen",
+            "Einbruch", "Diebstahl", "Raub", "Überfall", "Festnahme", "Unfall",
+            "Kfz", "Lagerhalle", "Wohnhaus", "Praxisräume", "Einfamilienhaus", "Hütte", "Poser",
+            "Einbrecher", "Täter", "Unbekannte"
+        ];
+
+        // Hilfsfunktion zum Bereinigen der Stadtnamen
+        function cleanCityName(rawName) {
+            if (!rawName) return "Unbekannter Ort";
+            
+            // 1. Ersetze " in " durch Leerzeichen (z.B. "Einbruch in Hamburg" -> "Einbruch Hamburg")
+            let cleaned = rawName.replace(/\s+in\s+/gi, " ");
+            
+            // 2. Blacklist Wörter entfernen
+            CLEANUP_BLACKLIST.forEach(word => {
+                const regex = new RegExp(word, "gi");
+                cleaned = cleaned.replace(regex, "");
+            });
+
+            // 3. Sonderzeichen am Anfang/Ende entfernen und Whitespace trimmen
+            cleaned = cleaned.replace(/^[\s,.-]+|[\s,.-]+$/g, "");
+            cleaned = cleaned.replace(/\s+/g, ' ').trim(); // Doppelte Leerzeichen weg
+
+            if (cleaned.length < 2) return "Unbekannter Ort";
+            return cleaned;
+        }
 
         async function init() {
             setInitialDates();
             setupEventListeners();
-            
             try {
-                // GeoJSON laden
                 const geoResponse = await d3.json(config.geoJsonUrl);
                 state.geoFeatures = geoResponse.features;
                 renderMapBase();
-
-                // Incident Daten laden & periodisch aktualisieren
                 await loadIncidents();
-                setInterval(loadIncidents, 120000); // Alle 2 Min Update
-
-                // Resize Handler
+                setInterval(loadIncidents, 120000);
                 window.addEventListener('resize', updateMapDimensions);
                 updateMapDimensions();
-
-            } catch (err) {
-                console.error("Initialisierungsfehler:", err);
-            }
+            } catch (err) { console.error("Initialisierungsfehler:", err); }
         }
 
         async function loadIncidents() {
@@ -291,14 +318,8 @@
                 const res = await fetch(`${config.dataUrl}?t=${ts}`);
                 if(!res.ok) throw new Error("Netzwerkfehler");
                 const text = await res.text();
-                
                 parseIncidents(text);
-                
-                // WICHTIG: Pre-Calculation der Bundesländer für Performance
-                if(state.geoFeatures.length > 0) {
-                    assignStatesToIncidents(); 
-                }
-
+                if(state.geoFeatures.length > 0) assignStatesToIncidents();
                 updateView();
             } catch (e) { console.warn("Daten konnten nicht geladen werden", e); }
         }
@@ -309,54 +330,42 @@
 
             lines.forEach((line, idx) => {
                 if(!line || !line.trim()) return;
-
                 const parts = line.split('//');
                 let jsonStr = parts[0].trim();
                 const comment = parts[1] ? parts[1].trim() : "";
 
-                // Fix: Trailing Comma entfernen für JSON Validität
                 if(jsonStr.endsWith(',')) jsonStr = jsonStr.slice(0, -1);
 
                 try {
                     if(jsonStr.startsWith('{') && jsonStr.includes('}')) {
                         const data = JSON.parse(jsonStr);
                         
-                        // Stadtname aus Kommentar extrahieren
-                        let cityName = comment.split(',')[0].trim();
-                        if(!cityName) cityName = "Unbekannter Ort";
+                        // Stadtname extrahieren
+                        let rawCity = comment.split(',')[0].trim();
+                        
+                        // HIER WIRD GEREINIGT:
+                        let finalCityName = cleanCityName(rawCity);
 
                         if(data.coords && data.coords.length === 2) {
                             state.incidents.push({
                                 id: idx,
                                 coords: data.coords,
                                 date: data.date,
-                                city: cityName,
-                                stateName: "Unbekannt" // Wird gleich berechnet
+                                city: finalCityName, // Gesäuberter Name
+                                stateName: "Unbekannt"
                             });
                         }
                     }
-                } catch(e) { /* Fehler ignorieren, weitermachen */ }
+                } catch(e) { }
             });
         }
 
-        // --- 3. PERFORMANCE LOGIK: ZUORDNUNG VORBERECHNEN ---
-        
         function assignStatesToIncidents() {
-            // Dies läuft nur EINMAL beim Laden, nicht bei jedem Klick!
             state.incidents.forEach(inc => {
-                // Performance: d3.geoContains ist effizient, aber teuer in Schleifen.
-                // Wir machen das hier einmalig, damit die UI später flüssig ist.
-                const foundState = state.geoFeatures.find(feature => 
-                    d3.geoContains(feature, inc.coords)
-                );
-                
-                if(foundState) {
-                    inc.stateName = foundState.properties.NAME_1 || foundState.properties.name;
-                }
+                const foundState = state.geoFeatures.find(feature => d3.geoContains(feature, inc.coords));
+                if(foundState) inc.stateName = foundState.properties.NAME_1 || foundState.properties.name;
             });
         }
-
-        // --- 4. RENDERING & UI LOGIK ---
 
         function renderMapBase() {
             mapGroup.selectAll("path")
@@ -365,21 +374,39 @@
                 .attr("class", "state")
                 .attr("d", pathGenerator)
                 .on("click", handleStateClick)
-                .on("mouseover", function() { if(!state.selectedStateFeature) d3.select(this).classed("state-highlight", true); })
-                .on("mouseout", function() { if(!state.selectedStateFeature) d3.select(this).classed("state-highlight", false); });
+                // --- HOVER LOGIK NEU ---
+                .on("mouseover", function(event, d) {
+                    d3.select(this).classed("state-highlight", true);
+                    // Zeige Info beim Hovern an, auch wenn nichts geklickt ist
+                    updateSidebarInfo(d, getFilteredIncidents());
+                })
+                .on("mouseout", function(event, d) {
+                    d3.select(this).classed("state-highlight", false);
+                    
+                    // Wenn ein Staat fest ausgewählt ist, zeige dessen Info wieder an
+                    if(state.selectedStateFeature) {
+                        updateSidebarInfo(state.selectedStateFeature, getFilteredIncidents());
+                    } else {
+                        // Wenn nichts ausgewählt ist, leere die Box
+                        elements.stateTitle.textContent = "Ausgewähltes Bundesland";
+                        elements.stateInfo.textContent = "-";
+                        elements.detailsBtn.classList.remove("is-visible");
+                    }
+                });
+        }
+
+        // Hilfsfunktion zum Abrufen der aktuell gefilterten Vorfälle
+        function getFilteredIncidents() {
+            const from = elements.fromDate.value;
+            const to = elements.toDate.value;
+            return state.incidents.filter(d => d.date >= from && d.date <= to);
         }
 
         function updateView() {
-            const from = elements.fromDate.value;
-            const to = elements.toDate.value;
+            const filtered = getFilteredIncidents();
             
-            // Filterung nach Datum
-            const filtered = state.incidents.filter(d => d.date >= from && d.date <= to);
-            
-            // Map Punkte zeichnen
             const circles = mapGroup.selectAll(".incident").data(filtered, d => d.id);
             circles.exit().remove();
-            
             circles.enter().append("circle")
                 .attr("class", "incident")
                 .attr("r", 5)
@@ -389,47 +416,51 @@
 
             elements.countDisplay.textContent = `${filtered.length} Vorfälle`;
 
-            // State Info Box aktualisieren falls ausgewählt
             if(state.selectedStateFeature) {
                 updateSidebarInfo(state.selectedStateFeature, filtered);
-            } else {
-                elements.stateInfo.textContent = "-";
-                elements.detailsBtn.classList.remove("is-visible");
             }
         }
 
         function handleStateClick(event, feature) {
             event.stopPropagation();
-            
-            // Toggle Auswahl
             if (state.selectedStateFeature === feature) {
-                resetSelection(); // Abwählen bei erneutem Klick
+                resetSelection();
             } else {
                 state.selectedStateFeature = feature;
-                d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
+                d3.selectAll(".state").classed("state-selected", false);
                 d3.select(this).classed("state-selected", true);
-                updateView(); // Sidebar updaten
+                updateView();
             }
         }
 
         function resetSelection() {
             state.selectedStateFeature = null;
-            d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
+            d3.selectAll(".state").classed("state-selected", false);
+            
+            // UI zurücksetzen
+            elements.stateTitle.textContent = "Ausgewähltes Bundesland";
+            elements.stateInfo.textContent = "-";
+            elements.detailsBtn.classList.remove("is-visible");
+            
             updateView();
         }
 
         function updateSidebarInfo(feature, currentFilteredIncidents) {
             const name = feature.properties.NAME_1 || feature.properties.name;
-            
-            // HIER IST DER PERFORMANCE GEWINN:
-            // Statt Geometrie zu berechnen, filtern wir nur noch nach dem String-Namen
             const count = currentFilteredIncidents.filter(i => i.stateName === name).length;
 
-            elements.stateInfo.textContent = `${name}: ${count}`;
+            elements.stateTitle.textContent = name; // Name oben in der Box
+            elements.stateInfo.textContent = `${count}`; // Nur die Zahl groß
+            
+            // Button Logik nur anzeigen, wenn wir wirklich etwas ausgewählt haben ODER hovern
+            // Aber Klickbarkeit macht nur bei echten Daten Sinn.
             
             if(count > 0) {
-                elements.detailsBtn.textContent = `📍 Details für ${name}`;
+                elements.detailsBtn.textContent = `Details für ${name}`; // Text wird im CSS zentriert
                 elements.detailsBtn.classList.add("is-visible");
+                
+                // Update click handler to ensure it works for hover state interactions immediately
+                elements.detailsBtn.onclick = () => openDetailsModal(name);
             } else {
                 elements.detailsBtn.classList.remove("is-visible");
             }
@@ -445,19 +476,13 @@
             updateView();
         }
 
-        // --- 5. MODAL LOGIK ---
-
-        elements.detailsBtn.onclick = () => {
-            if(!state.selectedStateFeature) return;
-            
-            const name = state.selectedStateFeature.properties.NAME_1 || state.selectedStateFeature.properties.name;
-            const from = elements.fromDate.value;
-            const to = elements.toDate.value;
+        // --- MODAL LOGIK ---
+        // Extra Funktion, damit wir sie vom Click und Hover (indirekt) aufrufen können
+        function openDetailsModal(stateName) {
+            const filtered = getFilteredIncidents();
             
             // Effiziente Filterung
-            const incidentsInState = state.incidents.filter(i => 
-                i.stateName === name && i.date >= from && i.date <= to
-            );
+            const incidentsInState = filtered.filter(i => i.stateName === stateName);
 
             // Zählen
             const counts = {};
@@ -467,21 +492,19 @@
                 .map(([city, count]) => ({city, count}))
                 .sort((a,b) => b.count - a.count);
 
-            // Render List
-            elements.modalTitle.textContent = `Details für ${name}`;
+            elements.modalTitle.textContent = `Details für ${stateName}`;
             elements.citySearch.value = "";
             renderCityList(sorted);
             
             elements.modal.style.display = "block";
             setTimeout(() => elements.citySearch.focus(), 100);
-        };
+        }
 
         function renderCityList(items) {
             if(items.length === 0) {
                 elements.modalList.innerHTML = "<div style='padding:10px; text-align:center;'>Keine Daten.</div>";
                 return;
             }
-            // HTML String bauen ist schneller als viele appendChild calls
             elements.modalList.innerHTML = items.map(item => `
                 <div class="city-item" data-name="${item.city.toLowerCase()}">
                     <span class="city-name">${item.city}</span>
@@ -490,22 +513,17 @@
             `).join('');
         }
 
-        // Suche im Modal (Optimiert)
         elements.citySearch.onkeyup = function() {
             const term = this.value.toLowerCase();
             const items = elements.modalList.children;
-            // Native Loop ist schnell genug für Listen < 1000 Elemente
             for(let item of items) {
                 const name = item.getAttribute('data-name');
                 item.style.display = name.includes(term) ? "flex" : "none";
             }
         };
 
-        // Modal schließen
         elements.closeModal.onclick = () => elements.modal.style.display = "none";
         window.onclick = (e) => { if(e.target == elements.modal) elements.modal.style.display = "none"; };
-
-        // --- 6. HELPER & EVENTS ---
 
         function setInitialDates() {
             const today = new Date().toISOString().split('T')[0];
@@ -516,20 +534,17 @@
         function setupEventListeners() {
             elements.fromDate.addEventListener("change", updateView);
             elements.toDate.addEventListener("change", updateView);
-            elements.mapSvg.on("click", resetSelection); // Klick auf Hintergrund
+            elements.mapSvg.on("click", resetSelection); 
 
-            // Filter Buttons Logik
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 btn.onclick = function() {
                     document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
                     this.classList.add('active');
-                    
                     const today = new Date();
                     let start = new Date();
                     const endStr = today.toISOString().split('T')[0];
-                    
                     switch(this.id) {
-                        case 'todayBtn': break; // start ist schon heute
+                        case 'todayBtn': break; 
                         case 'weekBtn': 
                             const day = today.getDay() || 7; 
                             if(day !== 1) start.setHours(-24 * (day - 1)); 
@@ -537,7 +552,6 @@
                         case 'monthBtn': start.setDate(1); break;
                         case 'yearBtn': start.setMonth(0, 1); break;
                     }
-                    
                     elements.fromDate.value = start.toISOString().split('T')[0];
                     elements.toDate.value = endStr;
                     updateView();
@@ -545,7 +559,6 @@
             });
         }
 
-        // Starten
         init();
     </script>
 </body>

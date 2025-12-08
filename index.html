@@ -6,11 +6,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -32,39 +28,21 @@
             overflow: hidden;
         }
 
-        /* Header Card */
-        .header-card {
-            grid-column: 1 / -1;
+        /* --- CARDS --- */
+        .header-card, .sidebar-card, .map-card, .footer {
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
             border-radius: 12px;
-            padding: 16px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.2);
-            text-align: center;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
         }
 
-        .header-content h1 {
-            font-size: 22px;
-            font-weight: 700;
-            color: #1f2937;
-            margin-bottom: 4px;
-        }
+        .header-card { grid-column: 1 / -1; padding: 16px; text-align: center; }
+        .header-content h1 { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 4px; }
+        .header-content .subtitle { font-size: 14px; color: #6b7280; font-weight: 400; }
 
-        .header-content .subtitle {
-            font-size: 14px;
-            color: #6b7280;
-            font-weight: 400;
-        }
-
-        /* Sidebar Card */
         .sidebar-card {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 12px;
             padding: 16px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
             display: flex;
             flex-direction: column;
             gap: 14px;
@@ -72,80 +50,36 @@
             max-height: 100%;
         }
 
-        .card-title {
-            font-size: 16px;
-            font-weight: 600;
-            color: #1f2937;
-            margin-bottom: 6px;
-        }
+        .card-title { font-size: 16px; font-weight: 600; color: #1f2937; margin-bottom: 6px; }
 
-        .date-inputs {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-
-        .date-group {
-            display: flex;
-            flex-direction: column;
-            gap: 6px;
-        }
-
-        .date-group label {
-            font-size: 14px;
-            font-weight: 500;
-            color: #4b5563;
-        }
-
+        /* --- INPUTS --- */
+        .date-inputs { display: flex; flex-direction: column; gap: 12px; }
+        .date-group { display: flex; flex-direction: column; gap: 6px; }
+        .date-group label { font-size: 14px; font-weight: 500; color: #4b5563; }
         .date-input {
             padding: 12px;
             border: 2px solid #e5e7eb;
             border-radius: 8px;
             font-size: 14px;
-            transition: all 0.2s ease;
             background: white;
         }
 
-        .date-input:focus {
-            outline: none;
-            border-color: #3b82f6;
-            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
-        }
-
-        .filter-buttons {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 8px;
-        }
-
+        .filter-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
         .filter-btn {
             padding: 12px 16px;
-            border: none;
+            border: 2px solid #e5e7eb;
             border-radius: 8px;
             font-size: 14px;
             font-weight: 500;
             cursor: pointer;
-            transition: all 0.2s ease;
             background: #f8fafc;
             color: #4b5563;
-            border: 2px solid #e5e7eb;
+            transition: all 0.2s ease;
         }
+        .filter-btn:hover { background: #3b82f6; color: white; border-color: #3b82f6; transform: translateY(-1px); }
+        .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; }
 
-        .filter-btn:hover {
-            background: #3b82f6;
-            color: white;
-            border-color: #3b82f6;
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
-        }
-
-        .filter-btn.active {
-            background: #3b82f6;
-            color: white;
-            border-color: #3b82f6;
-        }
-
-        /* Link Buttons */
+        /* --- LINKS --- */
         .link-btn {
             display: block;
             padding: 14px 20px;
@@ -154,50 +88,25 @@
             border-radius: 8px;
             font-size: 14px;
             font-weight: 500;
-            cursor: pointer;
+            border: 2px solid transparent;
             transition: all 0.2s ease;
-            border: 2px solid;
         }
+        .link-btn.datenquelle { background: #f0fdf4; color: #15803d; border-color: #86efac; }
+        .link-btn.datenquelle:hover { background: #15803d; color: white; border-color: #15803d; }
+        .link-btn.paypal { background: linear-gradient(135deg, #0070ba, #1546a0); color: white; }
+        .link-btn.paypal:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4); }
 
-        .link-btn.datenquelle {
-            background: #f0fdf4;
-            color: #15803d;
-            border-color: #86efac;
-        }
-
-        .link-btn.datenquelle:hover {
-            background: #15803d;
-            color: white;
-            border-color: #15803d;
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(21, 128, 61, 0.3);
-        }
-
-        .link-btn.paypal {
-            background: linear-gradient(135deg, #0070ba, #1546a0);
-            color: white;
-            border-color: #0070ba;
-        }
-
-        .link-btn.paypal:hover {
-            background: linear-gradient(135deg, #005a94, #103a7f);
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4);
-        }
-
-        /* NEUER BUTTON STYLE */
+        /* --- DETAILS BUTTON (WICHTIG) --- */
         .link-btn.details-btn {
             background: white;
             color: #dc2626;
-            border-color: white;
+            border-color: #fecaca;
             margin-top: 10px;
             font-weight: 600;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
         }
-        .link-btn.details-btn:hover {
-            background: #fef2f2;
-            transform: translateY(-1px);
-        }
+        .link-btn.details-btn:hover { background: #fef2f2; border-color: #dc2626; }
 
         .state-info-card {
             background: linear-gradient(135deg, #dc2626, #ef4444);
@@ -210,51 +119,14 @@
             flex-direction: column;
             justify-content: center;
         }
+        .state-info-card h3 { font-size: 14px; font-weight: 600; margin-bottom: 12px; opacity: 0.9; }
+        .state-count { font-size: 24px; font-weight: 700; }
 
-        .state-info-card h3 {
-            font-size: 14px;
-            font-weight: 600;
-            margin-bottom: 12px;
-            opacity: 0.9;
-        }
-
-        .state-count {
-            font-size: 24px;
-            font-weight: 700;
-        }
-
-        /* Map Card */
-        .map-card {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 12px;
-            padding: 16px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            display: flex;
-            flex-direction: column;
-            overflow: hidden;
-        }
-
-        .map-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 12px;
-        }
-
-        .map-title {
-            font-size: 18px;
-            font-weight: 600;
-            color: #1f2937;
-        }
-
-        .vorfälle-count {
-            font-size: 16px;
-            font-weight: 600;
-            color: #dc2626;
-        }
-
+        /* --- MAP --- */
+        .map-card { padding: 16px; display: flex; flex-direction: column; overflow: hidden; }
+        .map-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+        .map-title { font-size: 18px; font-weight: 600; color: #1f2937; }
+        .vorfälle-count { font-size: 16px; font-weight: 600; color: #dc2626; }
         .map-container {
             flex: 1;
             background: white;
@@ -263,336 +135,61 @@
             overflow: hidden;
             position: relative;
         }
+        #map { width: 100%; height: 100%; background: #f8fafc; }
 
-        #map {
-            width: 100%;
-            height: 100%;
-            background: #f8fafc;
-        }
+        .state { fill: white; stroke: #d1d5db; stroke-width: 1; transition: all 0.3s ease; cursor: pointer; }
+        .state:hover { fill: #fef2f2; stroke: #dc2626; stroke-width: 2; }
+        /* Highlighting Styles */
+        .state-highlight { fill: #fecaca !important; stroke: #dc2626 !important; stroke-width: 3px !important; }
+        .state-selected { fill: #f87171 !important; stroke: #991b1b !important; stroke-width: 3px !important; }
 
-        /* Footer */
-        .footer {
-            grid-column: 1 / -1;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 12px;
-            padding: 12px 16px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            text-align: center;
-        }
+        .incident { fill: rgba(220, 38, 38, 0.8); stroke: white; stroke-width: 1.5; r: 5; transition: all 0.3s ease; }
+        .incident:hover { r: 8; fill: rgba(220, 38, 38, 1); stroke-width: 2; cursor: crosshair; }
 
-        .footer-links {
-            display: flex;
-            justify-content: center;
-            gap: 24px;
-            flex-wrap: wrap;
-        }
+        /* --- FOOTER --- */
+        .footer { padding: 12px 16px; text-align: center; }
+        .footer-links { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; }
+        .footer-link { color: #6b7280; text-decoration: none; font-size: 14px; font-weight: 500; }
+        .footer-link:hover { color: #3b82f6; }
 
-        .footer-link {
-            color: #6b7280;
-            text-decoration: none;
-            font-size: 14px;
-            font-weight: 500;
-            transition: all 0.2s ease;
-            position: relative;
-        }
-
-        .footer-link:hover {
-            color: #3b82f6;
-        }
-
-        .footer-link::after {
-            content: '';
-            position: absolute;
-            bottom: -2px;
-            left: 0;
-            width: 0;
-            height: 2px;
-            background: #3b82f6;
-            transition: width 0.2s ease;
-        }
-
-        .footer-link:hover::after {
-            width: 100%;
-        }
-
-        /* Map Elements */
-        .state {
-            fill: white;
-            stroke: #d1d5db;
-            stroke-width: 1;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
-
-        .state:hover {
-            fill: #fef2f2;
-            stroke: #dc2626;
-            stroke-width: 2;
-        }
-
-        .state-highlight {
-            fill: #fecaca !important;
-            stroke: #dc2626 !important;
-            stroke-width: 3px !important;
-        }
-
-        /* Neue Klasse für geklicktes Bundesland */
-        .state-selected {
-            fill: #f87171 !important;
-            stroke: #991b1b !important;
-            stroke-width: 3px !important;
-        }
-
-        .incident {
-            fill: rgba(220, 38, 38, 0.8);
-            stroke: white;
-            stroke-width: 1.5;
-            r: 5;
-            transition: all 0.3s ease;
-        }
-
-        .incident:hover {
-            r: 7;
-            fill: rgba(220, 38, 38, 1);
-            stroke-width: 2;
-        }
-
-        text {
-            font-size: 9px;
-            text-anchor: middle;
-            fill: #1f2937;
-            pointer-events: none;
-            font-weight: 500;
-        }
-
-        /* POPUP MODAL STYLES */
+        /* --- MODAL (POPUP) --- */
         .modal {
-            display: none; 
-            position: fixed; 
-            z-index: 1000; 
-            left: 0;
-            top: 0;
-            width: 100%; 
-            height: 100%; 
-            overflow: auto; 
-            background-color: rgba(0,0,0,0.5); 
-            backdrop-filter: blur(5px);
+            display: none; position: fixed; z-index: 2000; left: 0; top: 0;
+            width: 100%; height: 100%; overflow: auto;
+            background-color: rgba(0,0,0,0.5); backdrop-filter: blur(5px);
         }
-
         .modal-content {
-            background-color: #fefefe;
-            margin: 10% auto; 
-            padding: 20px;
-            border: 1px solid #888;
-            border-radius: 12px;
-            width: 80%; 
-            max-width: 500px;
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-            position: relative;
+            background-color: #fefefe; margin: 10% auto; padding: 25px;
+            border-radius: 16px; width: 90%; max-width: 500px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+            position: relative; animation: slideIn 0.3s ease;
         }
-
-        .close {
-            color: #aaa;
-            float: right;
-            font-size: 28px;
-            font-weight: bold;
-            cursor: pointer;
-        }
-
-        .close:hover,
-        .close:focus {
-            color: black;
-            text-decoration: none;
-            cursor: pointer;
-        }
-
-        .modal-header {
-            margin-bottom: 20px;
-            border-bottom: 1px solid #e5e7eb;
-            padding-bottom: 10px;
-        }
+        @keyframes slideIn { from {transform: translateY(-20px); opacity: 0;} to {transform: translateY(0); opacity: 1;} }
         
-        .modal-header h2 {
-            font-size: 20px;
-            color: #1f2937;
-        }
-
-        .city-list {
-            max-height: 400px;
-            overflow-y: auto;
-        }
-
+        .close { color: #9ca3af; float: right; font-size: 28px; font-weight: bold; cursor: pointer; line-height: 1; }
+        .close:hover { color: #111; }
+        
+        .modal-header h2 { font-size: 20px; color: #1f2937; margin-bottom: 15px; border-bottom: 2px solid #f3f4f6; padding-bottom: 10px; }
+        
+        .city-list { max-height: 50vh; overflow-y: auto; padding-right: 5px; }
         .city-item {
-            display: flex;
-            justify-content: space-between;
-            padding: 10px;
-            border-bottom: 1px solid #f3f4f6;
-            font-size: 14px;
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 12px; border-bottom: 1px solid #f3f4f6; font-size: 14px;
         }
-
-        .city-item:last-child {
-            border-bottom: none;
-        }
-
-        .city-name {
-            font-weight: 500;
-        }
-
+        .city-item:last-child { border-bottom: none; }
+        .city-name { font-weight: 600; color: #374151; }
         .city-count {
-            font-weight: 700;
-            color: #dc2626;
-            background: #fef2f2;
-            padding: 2px 8px;
-            border-radius: 12px;
+            background: #fee2e2; color: #991b1b;
+            padding: 4px 10px; border-radius: 20px; font-weight: 700; font-size: 13px;
         }
 
         /* Responsive */
         @media (max-width: 1024px) {
-            body {
-                padding: 8px;
-                height: auto;
-                min-height: 100vh;
-                overflow-y: auto;
-            }
-
-            .container {
-                grid-template-columns: 1fr;
-                height: auto;
-                min-height: calc(100vh - 16px);
-                gap: 12px;
-                overflow: visible;
-            }
-            
-            .header-card {
-                padding: 12px;
-            }
-
-            .header-content h1 {
-                font-size: 20px;
-            }
-
-            .header-content .subtitle {
-                font-size: 13px;
-            }
-            
-            .sidebar-card {
-                order: 2;
-                max-height: none;
-                overflow-y: visible;
-            }
-
-            .date-inputs {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
-                gap: 8px;
-            }
-            
-            .map-card {
-                order: 1;
-                min-height: 400px;
-                height: 60vh;
-            }
-
-            .footer {
-                order: 3;
-                padding: 12px;
-            }
-
-            .footer-links {
-                gap: 16px;
-            }
-
-            .footer-link {
-                font-size: 13px;
-            }
-        }
-
-        @media (max-width: 640px) {
-            body {
-                padding: 6px;
-            }
-
-            .container {
-                gap: 8px;
-                min-height: calc(100vh - 12px);
-            }
-
-            .header-card {
-                padding: 10px;
-                border-radius: 10px;
-            }
-
-            .header-content h1 {
-                font-size: 18px;
-            }
-
-            .header-content .subtitle {
-                font-size: 12px;
-            }
-
-            .sidebar-card, .map-card, .footer {
-                border-radius: 10px;
-                padding: 12px;
-            }
-
-            .card-title {
-                font-size: 15px;
-            }
-
-            .date-input {
-                padding: 10px;
-                font-size: 13px;
-            }
-
-            .filter-btn {
-                padding: 10px 12px;
-                font-size: 13px;
-            }
-
-            .link-btn {
-                padding: 12px 16px;
-                font-size: 13px;
-            }
-
-            .state-info-card {
-                padding: 16px;
-                min-height: 100px;
-            }
-
-            .state-info-card h3 {
-                font-size: 13px;
-            }
-
-            .state-count {
-                font-size: 20px;
-            }
-
-            .map-card {
-                min-height: 350px;
-                height: 50vh;
-            }
-
-            .map-title {
-                font-size: 16px;
-            }
-
-            .vorfälle-count {
-                font-size: 14px;
-            }
-
-            .footer-links {
-                gap: 12px;
-            }
-
-            .footer-link {
-                font-size: 12px;
-            }
-
-            text {
-                font-size: 8px;
-            }
+            body { padding: 8px; overflow-y: auto; height: auto; }
+            .container { grid-template-columns: 1fr; height: auto; overflow: visible; }
+            .sidebar-card { order: 2; max-height: none; }
+            .map-card { order: 1; height: 60vh; min-height: 400px; }
+            .footer { order: 3; }
         }
     </style>
 </head>
@@ -624,24 +221,19 @@
                 <h3 class="card-title">Schnellfilter</h3>
                 <div class="filter-buttons">
                     <button class="filter-btn active" id="todayBtn">Heute</button>
-                    <button class="filter-btn" id="weekBtn">Diese Woche</button>
-                    <button class="filter-btn" id="monthBtn">Dieser Monat</button>
-                    <button class="filter-btn" id="yearBtn">Dieses Jahr</button>
+                    <button class="filter-btn" id="weekBtn">Woche</button>
+                    <button class="filter-btn" id="monthBtn">Monat</button>
+                    <button class="filter-btn" id="yearBtn">Jahr</button>
                 </div>
             </div>
 
-            <div>
-                <a href="daten.html" class="link-btn datenquelle">📊 Datenquelle</a>
-            </div>
-
-            <div>
-                <a href="https://www.paypal.com/paypalme/JulianKircher231" class="link-btn paypal">☕ Unterstützen via PayPal</a>
-            </div>
+            <div><a href="daten.html" class="link-btn datenquelle">📊 Datenquelle</a></div>
+            <div><a href="https://www.paypal.com/paypalme/JulianKircher231" class="link-btn paypal">☕ Unterstützen</a></div>
 
             <div class="state-info-card">
                 <h3>Ausgewähltes Bundesland</h3>
                 <div class="state-count" id="stateInfo">-</div>
-                <button id="showDetailsBtn" class="link-btn details-btn" style="display: none;">📍 Daten für Bundesland anschauen</button>
+                <button id="showDetailsBtn" class="link-btn details-btn" style="display: none;">📍 Details ansehen</button>
             </div>
         </div>
 
@@ -670,47 +262,32 @@
             <div class="modal-header">
                 <h2 id="modalTitle">Details</h2>
             </div>
-            <div id="modalList" class="city-list">
-                </div>
+            <div id="modalList" class="city-list"></div>
         </div>
     </div>
 
     <script>
         const svg = d3.select("#map");
-        
-        const projection = d3.geoMercator()
-            .center([10.5, 51.0])
-            .scale(2600)
-            .translate([0, 0]);
-
+        const projection = d3.geoMercator().center([10.5, 51.0]).scale(2600).translate([0, 0]);
         const path = d3.geoPath().projection(projection);
 
-        const zoom = d3.zoom()
-            .scaleExtent([0.5, 12])
-            .on("zoom", (event) => {
-                g.attr("transform", event.transform);
-                const scale = event.transform.k;
-                svg.selectAll("text").style("display", scale > 2 ? "block" : "none");
-            });
-
+        const zoom = d3.zoom().scaleExtent([0.5, 12]).on("zoom", (event) => {
+            g.attr("transform", event.transform);
+            svg.selectAll("text").style("display", event.transform.k > 2 ? "block" : "none");
+        });
         svg.call(zoom);
         const g = svg.append("g");
 
         let incidents = [];
         let statesData = [];
-        let selectedStateFeature = null; // Speichert das aktuell ausgewählte Bundesland
+        let selectedStateFeature = null;
 
         function updateMapSize() {
             const container = document.querySelector('.map-container');
-            const containerWidth = container.clientWidth;
-            const containerHeight = container.clientHeight;
-            
-            svg.attr("width", containerWidth)
-               .attr("height", containerHeight);
-            
-            projection.translate([containerWidth / 2, containerHeight / 2]);
-            
-            if (statesData.length > 0) {
+            const w = container.clientWidth, h = container.clientHeight;
+            svg.attr("width", w).attr("height", h);
+            projection.translate([w / 2, h / 2]);
+            if (statesData.length) {
                 g.selectAll("path").attr("d", path);
                 updateIncidents();
             }
@@ -718,339 +295,219 @@
 
         async function loadIncidents() {
             try {
-                const timestamp = new Date().getTime();
-                const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${timestamp}`);
-                
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
+                // Daten aus der Datei laden
+                const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${Date.now()}`);
+                if (!response.ok) throw new Error("Netzwerk Fehler beim Laden der Daten");
                 
                 const text = await response.text();
-                const lines = text.split('\n');
-                const cleanedLines = [];
+                // Parsing Logik
+                const cleanedLines = text.split('\n')
+                    .map(l => l.split('//')[0].split('#')[0].trim())
+                    .filter(l => l.includes('{') && l.includes('}'));
                 
-                for (let line of lines) {
-                    let cleaned = line.split('//')[0].split('#')[0].trim();
-                    
-                    if (cleaned && cleaned.includes('{') && cleaned.includes('}')) {
-                        cleanedLines.push(cleaned);
-                    }
-                }
-                
-                const jsonText = `[${cleanedLines.join('\n').replace(/,\s*$/, '')}]`;
-                const data = JSON.parse(jsonText);
+                const data = JSON.parse(`[${cleanedLines.join(',')}]`);
                 
                 incidents = data
                     .filter(d => d.coords && d.coords.length === 2)
-                    .map((d, i) => ({
-                        id: i,
-                        coords: d.coords,
-                        date: d.date,
-                        // HIER IST DIE ÄNDERUNG:
-                        // Das Dashboard liest jetzt das Feld 'stadt', 'city' oder 'ort' aus deiner Datendatei.
-                        // Falls dein Script das nicht liefert, wird "Unbekannter Ort" angezeigt.
-                        city: d.stadt || d.city || d.ort || d.name || "Unbekannter Ort" 
-                    }));
+                    .map((d, i) => {
+                        // HIER LIEST DER CODE DEN NAMEN AUS DER DATEI
+                        // Er prüft nacheinander auf 'stadt', 'city', 'ort', 'name', 'location'
+                        // Wenn alles fehlt, wird 'Unbekannter Ort' gesetzt.
+                        let cityName = d.stadt || d.city || d.ort || d.name || d.location || "Unbekannter Ort";
+                        
+                        return {
+                            id: i,
+                            coords: d.coords,
+                            date: d.date,
+                            city: cityName 
+                        };
+                    });
                 
                 updateIncidents();
-                
-            } catch (error) {
-                console.error('Fehler beim Laden der Daten:', error);
-            }
+            } catch (e) { console.error("Fehler:", e); }
         }
 
-        function formatDate(date) {
-            const year = date.getFullYear();
-            const month = String(date.getMonth() + 1).padStart(2, '0');
-            const day = String(date.getDate()).padStart(2, '0');
-            return `${year}-${month}-${day}`;
+        function formatDate(d) {
+            return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
         }
 
-        const today = new Date();
-        const todayStr = formatDate(today);
         const fromInput = document.getElementById("fromDate");
         const toInput = document.getElementById("toDate");
-
-        fromInput.value = todayStr;
-        toInput.value = todayStr;
+        const todayStr = formatDate(new Date());
+        fromInput.value = todayStr; toInput.value = todayStr;
 
         function updateIncidents() {
-            const from = fromInput.value;
-            const to = toInput.value;
+            const from = fromInput.value, to = toInput.value;
             if (!from || !to) return;
-
-            const filtered = incidents.filter(d => d.date >= from && d.date <= to);
             
+            const filtered = incidents.filter(d => d.date >= from && d.date <= to);
             document.getElementById("countDisplay").textContent = `${filtered.length} Vorfälle`;
 
-            const points = g.selectAll(".incident")
-                .data(filtered, d => d.id);
-
-            points.exit().remove();
-
-            points.enter()
-                .append("circle")
+            const circles = g.selectAll(".incident").data(filtered, d => d.id);
+            circles.exit().remove();
+            circles.enter().append("circle")
                 .attr("class", "incident")
-                .attr("r", 5)
-                .attr("opacity", 0.85)
-                .merge(points)
-                .attr("cx", d => {
-                    const projected = projection(d.coords);
-                    return projected ? projected[0] : 0;
-                })
-                .attr("cy", d => {
-                    const projected = projection(d.coords);
-                    return projected ? projected[1] : 0;
-                });
+                .attr("r", 5).attr("opacity", 0.85)
+                .merge(circles)
+                .attr("cx", d => (projection(d.coords) || [0,0])[0])
+                .attr("cy", d => (projection(d.coords) || [0,0])[1]);
             
-            // Wenn ein Bundesland ausgewählt ist, aktualisiere auch dessen Info-Box
-            if (selectedStateFeature) {
-                updateStateInfo(selectedStateFeature);
-            }
+            if (selectedStateFeature) updateStateInfo(selectedStateFeature);
         }
 
-        function isPointInPolygon(point, polygon) {
-            const [lng, lat] = point;
+        // Polygon Prüfung (Geo-Mathematik)
+        function isPointInPolygon(pt, poly) {
+            const x = pt[0], y = pt[1];
             let inside = false;
-            
-            for (let i = 0, j = polygon.length - 1; i < polygon.length; j = i++) {
-                const [xi, yi] = polygon[i];
-                const [xj, yj] = polygon[j];
-                
-                const intersect = ((yi > lat) !== (yj > lat))
-                    && (lng < (xj - xi) * (lat - yi) / (yj - yi) + xi);
-                
-                if (intersect) inside = !inside;
+            for (let i=0, j=poly.length-1; i<poly.length; j=i++) {
+                const xi = poly[i][0], yi = poly[i][1], xj = poly[j][0], yj = poly[j][1];
+                if (((yi > y) != (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi)) inside = !inside;
             }
-            
             return inside;
         }
 
-        function getPolygonsFromGeometry(geometry) {
-            const polygons = [];
-            
-            if (geometry.type === 'Polygon') {
-                polygons.push(geometry.coordinates[0]);
-            } else if (geometry.type === 'MultiPolygon') {
-                geometry.coordinates.forEach(polygon => {
-                    polygons.push(polygon[0]);
-                });
-            }
-            
-            return polygons;
+        function getPolygons(geo) {
+            if (geo.type === 'Polygon') return [geo.coordinates[0]];
+            if (geo.type === 'MultiPolygon') return geo.coordinates.map(p => p[0]);
+            return [];
         }
 
-        function countIncidentsInState(stateFeature, incidents) {
+        function countIncidentsInState(state, data) {
             let count = 0;
-            const polygons = getPolygonsFromGeometry(stateFeature.geometry);
-            
-            incidents.forEach(incident => {
-                const [lng, lat] = incident.coords;
-                
-                for (let polygon of polygons) {
-                    if (isPointInPolygon([lng, lat], polygon)) {
-                        count++;
-                        break;
-                    }
-                }
+            const polys = getPolygons(state.geometry);
+            data.forEach(d => {
+                for (let p of polys) if (isPointInPolygon(d.coords, p)) { count++; break; }
             });
-            
             return count;
         }
 
-        // Neue Funktion zum Ermitteln der Städte in einem Bundesland
-        function getCitiesInState(stateFeature, incidents) {
-            const cityCounts = {};
-            const polygons = getPolygonsFromGeometry(stateFeature.geometry);
+        // Zählt Städte innerhalb des gewählten Bundeslandes
+        function getCitiesInState(state, data) {
+            const counts = {};
+            const polys = getPolygons(state.geometry);
             
-            incidents.forEach(incident => {
-                const [lng, lat] = incident.coords;
-                
-                for (let polygon of polygons) {
-                    if (isPointInPolygon([lng, lat], polygon)) {
-                        const cityName = incident.city;
-                        cityCounts[cityName] = (cityCounts[cityName] || 0) + 1;
+            data.forEach(d => {
+                for (let p of polys) {
+                    if (isPointInPolygon(d.coords, p)) {
+                        // Gruppieren nach dem Namen, der aus der Datei geladen wurde
+                        counts[d.city] = (counts[d.city] || 0) + 1;
                         break;
                     }
                 }
             });
             
-            // Konvertiere zu Array und Sortiere nach Anzahl
-            return Object.entries(cityCounts)
-                .map(([name, count]) => ({ name, count }))
-                .sort((a, b) => b.count - a.count);
+            // Sortieren: Höchste Anzahl zuerst
+            return Object.entries(counts).map(([name, count]) => ({name, count})).sort((a,b) => b.count - a.count);
         }
 
-        fromInput.addEventListener("change", updateIncidents);
-        toInput.addEventListener("change", updateIncidents);
-
-        function setActiveButton(activeBtn) {
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            activeBtn.classList.add('active');
+        function updateStateInfo(state) {
+            const filtered = incidents.filter(d => d.date >= fromInput.value && d.date <= toInput.value);
+            const count = countIncidentsInState(state, filtered);
+            document.getElementById("stateInfo").textContent = `${state.properties.NAME_1}: ${count}`;
         }
 
-        document.getElementById("todayBtn").onclick = function() {
-            setActiveButton(this);
-            fromInput.value = todayStr;
-            toInput.value = todayStr;
-            updateIncidents();
-        };
+        // Filter Buttons Logik
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.onclick = function() {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                
+                const now = new Date();
+                if(this.id === 'todayBtn') { fromInput.value = toInput.value = formatDate(now); }
+                else if(this.id === 'weekBtn') {
+                    const start = new Date(now); start.setDate(now.getDate() - (now.getDay()||7) + 1);
+                    fromInput.value = formatDate(start); toInput.value = formatDate(now);
+                }
+                else if(this.id === 'monthBtn') {
+                    fromInput.value = formatDate(new Date(now.getFullYear(), now.getMonth(), 1));
+                    toInput.value = formatDate(new Date(now.getFullYear(), now.getMonth()+1, 0));
+                }
+                else {
+                    fromInput.value = `${now.getFullYear()}-01-01`; toInput.value = formatDate(now);
+                }
+                updateIncidents();
+            }
+        });
 
-        document.getElementById("weekBtn").onclick = function() {
-            setActiveButton(this);
-            const today = new Date();
-            const startOfWeek = new Date(today);
-            const dayOfWeek = today.getDay();
-            const diffToMonday = dayOfWeek === 0 ? -6 : 1 - dayOfWeek;
-            startOfWeek.setDate(today.getDate() + diffToMonday);
-            
-            fromInput.value = formatDate(startOfWeek);
-            toInput.value = todayStr;
-            updateIncidents();
-        };
+        // Event Listeners für Datum
+        fromInput.onchange = updateIncidents; toInput.onchange = updateIncidents;
 
-        document.getElementById("monthBtn").onclick = function() {
-            setActiveButton(this);
-            const now = new Date();
-            const year = now.getFullYear();
-            const month = now.getMonth();
-            const start = new Date(year, month, 1);
-            const end = new Date(year, month + 1, 0);
-            fromInput.value = formatDate(start);
-            toInput.value = formatDate(end);
-            updateIncidents();
-        };
-
-        document.getElementById("yearBtn").onclick = function() {
-            setActiveButton(this);
-            const year = today.getFullYear();
-            fromInput.value = `${year}-01-01`;
-            toInput.value = todayStr;
-            updateIncidents();
-        };
-
-        function updateStateInfo(d) {
-             const from = fromInput.value;
-             const to = toInput.value;
-             const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
-             
-             const count = countIncidentsInState(d, filtered);
-             const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
-             
-             document.getElementById("stateInfo").textContent = 
-                 `${stateName}: ${count}`;
-        }
-
-        const geojsonURL = "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json";
-        d3.json(geojsonURL).then(data => {
+        // Karte Initialisieren
+        d3.json("https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json").then(data => {
             statesData = data.features;
             
-            const states = g.selectAll("path")
-                .data(data.features)
-                .enter()
-                .append("path")
-                .attr("class", "state")
-                .attr("d", path)
-                .on("mouseover", function(event, d) {
-                    if (selectedStateFeature !== d) {
-                        d3.select(this).classed("state-highlight", true);
-                    }
-                    if (!selectedStateFeature) {
-                        updateStateInfo(d);
-                    }
+            // Bundesländer zeichnen
+            g.selectAll("path").data(statesData).enter().append("path")
+                .attr("class", "state").attr("d", path)
+                .on("mouseover", function(e, d) { 
+                    if (!selectedStateFeature) { 
+                        d3.select(this).classed("state-highlight", true); 
+                        updateStateInfo(d); 
+                    } 
                 })
-                .on("mouseout", function(event, d) {
-                    if (selectedStateFeature !== d) {
-                        d3.select(this).classed("state-highlight", false);
-                    }
-                    if (!selectedStateFeature) {
-                        document.getElementById("stateInfo").textContent = "-";
-                    }
+                .on("mouseout", function(e, d) { 
+                    if (!selectedStateFeature) { 
+                        d3.select(this).classed("state-highlight", false); 
+                        document.getElementById("stateInfo").textContent = "-"; 
+                    } 
                 })
-                .on("click", function(event, d) {
-                    // Reset vorherige Auswahl
-                    d3.selectAll(".state").classed("state-selected", false);
-                    d3.selectAll(".state").classed("state-highlight", false);
-
-                    // Setze neue Auswahl
+                .on("click", function(e, d) {
+                    // Auswahl setzen
                     selectedStateFeature = d;
+                    // Visuelles Feedback
+                    d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
                     d3.select(this).classed("state-selected", true);
                     
-                    // Info aktualisieren
                     updateStateInfo(d);
-
-                    // Button anzeigen
+                    
+                    // Button anzeigen und beschriften
                     const btn = document.getElementById("showDetailsBtn");
                     btn.style.display = "block";
                     const stateName = d.properties.NAME_1 || d.properties.name;
-                    btn.textContent = `📍 Daten für ${stateName} anschauen`;
+                    btn.textContent = `📍 Details für ${stateName}`;
                 });
-
-            g.selectAll("text")
-                .data(data.features)
-                .enter()
-                .append("text")
-                .attr("x", d => path.centroid(d)[0])
-                .attr("y", d => path.centroid(d)[1])
-                .text(d => d.properties.NAME_1)
-                .style("display", "none");
+            
+            // Namen der Bundesländer (versteckt, aber im DOM)
+            g.selectAll("text").data(statesData).enter().append("text")
+                .attr("x", d => path.centroid(d)[0]).attr("y", d => path.centroid(d)[1])
+                .text(d => d.properties.NAME_1).style("display", "none");
 
             loadIncidents();
-            
-            window.addEventListener('resize', updateMapSize);
+            window.onresize = updateMapSize;
             setTimeout(updateMapSize, 100);
         });
 
-        // MODAL LOGIC
+        // Modal (Popup) Logik
         const modal = document.getElementById("detailsModal");
-        const btn = document.getElementById("showDetailsBtn");
-        const span = document.getElementsByClassName("close")[0];
-
-        btn.onclick = function() {
+        document.getElementById("showDetailsBtn").onclick = () => {
             if (!selectedStateFeature) return;
-
-            const from = fromInput.value;
-            const to = toInput.value;
-            const filtered = incidents.filter(d => d.date >= from && d.date <= to);
             
+            const filtered = incidents.filter(d => d.date >= fromInput.value && d.date <= toInput.value);
             const cities = getCitiesInState(selectedStateFeature, filtered);
-            const stateName = selectedStateFeature.properties.NAME_1 || selectedStateFeature.properties.name;
-
-            document.getElementById("modalTitle").textContent = `Vorfälle in ${stateName}`;
             
-            const listContainer = document.getElementById("modalList");
-            listContainer.innerHTML = ""; // Leeren
-
+            document.getElementById("modalTitle").textContent = `Vorfälle in ${selectedStateFeature.properties.NAME_1}`;
+            
+            const list = document.getElementById("modalList");
             if (cities.length === 0) {
-                listContainer.innerHTML = "<div style='padding:10px; text-align:center;'>Keine Vorfälle in diesem Zeitraum.</div>";
+                list.innerHTML = "<div style='padding:15px;text-align:center;color:#666'>Keine Vorfälle im Zeitraum</div>";
             } else {
-                cities.forEach(city => {
-                    const div = document.createElement("div");
-                    div.className = "city-item";
-                    div.innerHTML = `
-                        <span class="city-name">${city.name}</span>
-                        <span class="city-count">${city.count}</span>
-                    `;
-                    listContainer.appendChild(div);
-                });
+                list.innerHTML = cities.map(c => `
+                    <div class="city-item">
+                        <span class="city-name">${c.name}</span>
+                        <span class="city-count">${c.count}</span>
+                    </div>
+                `).join('');
             }
-
+            
             modal.style.display = "block";
-        }
+        };
 
-        span.onclick = function() {
-            modal.style.display = "none";
-        }
-
-        window.onclick = function(event) {
-            if (event.target == modal) {
-                modal.style.display = "none";
-            }
-        }
-
-        setInterval(loadIncidents, 2 * 60 * 1000);
+        // Schließen Logik
+        document.querySelector(".close").onclick = () => modal.style.display = "none";
+        window.onclick = e => { if(e.target == modal) modal.style.display = "none"; }
+        
+        // Auto-Refresh
+        setInterval(loadIncidents, 120000);
     </script>
 </body>
 </html>

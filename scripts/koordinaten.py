@@ -4816,6 +4816,354 @@ CITY_COORDINATES = {
 "Flammersfeld": [50.6458, 7.5264],  # Rheinland-Pfalz
 "Hanstedt": [53.2667, 10.0167],  # Niedersachsen
 "Bad Kreuznach": [49.8469, 7.8669],  # Rheinland-Pfalz
-
+"Abenberg": [49.2731, 10.9575], # Bayern
+"Abtsteinach": [49.5261, 8.7831], # Hessen
+"Ahütte": [50.3167, 6.7833], # Rheinland-Pfalz (Ortsteil von Üxheim)
+"Aisch": [49.7150, 10.8717], # Bayern (Ortsteil von Adelsdorf)
+"Aldingen": [48.0667, 8.7667], # Baden-Württemberg
+"Alfter": [50.7333, 7.0000], # Nordrhein-Westfalen
+"Almersbach": [50.7833, 7.6333], # Rheinland-Pfalz
+"Alpen": [51.6000, 6.5167], # Nordrhein-Westfalen
+"Alsweiler": [49.4975, 7.0608], # Saarland
+"Alstätte": [52.1167, 6.9000], # Nordrhein-Westfalen (Ortsteil von Ahaus)
+"Altendiez": [50.3833, 8.0000], # Rheinland-Pfalz
+"Altenhagen": [52.3364, 8.9056], # Nordrhein-Westfalen (Ortsteil von Minden)
+"Altensteig": [48.6436, 8.6017], # Baden-Württemberg
+"Altenburger Land": [50.9833, 12.3333], # Thüringen (Landkreis)
+"Alzey": [49.7569, 8.1139], # Rheinland-Pfalz
+"Anröchte": [51.5833, 8.3333], # Nordrhein-Westfalen
+"Anzhausen": [50.8833, 7.9500], # Nordrhein-Westfalen (Ortsteil von Wilnsdorf)
+"Appenweier": [48.5494, 7.9378], # Baden-Württemberg
+"Arenrath": [50.0050, 6.7628], # Rheinland-Pfalz
+"Arnstadt": [50.8333, 10.9500], # Thüringen
+"Asbach": [50.6833, 7.3333], # Rheinland-Pfalz
+"Aschaffenburg": [49.9750, 9.1556], # Bayern
+"Baden": [48.7994, 8.2417], # Baden-Württemberg (Region, hier Baden-Baden)
+"Bad Bentheim": [52.3000, 7.1667], # Niedersachsen
+"Bad Berleburg": [51.0500, 8.4000], # Nordrhein-Westfalen
+"Bad Dürkheim": [49.4600, 8.1708], # Rheinland-Pfalz
+"Bad Dürrheim": [48.0167, 8.5333], # Baden-Württemberg
+"Bad Frankenhausen": [51.3500, 11.1000], # Thüringen
+"Bad Gandersheim": [51.8833, 10.0333], # Niedersachsen
+"Bad Honnef": [50.6000, 7.2333], # Nordrhein-Westfalen
+"Bad Langensalza": [51.1000, 10.6333], # Thüringen
+"Bad Liebenzell": [48.7294, 8.7300], # Baden-Württemberg
+"Bad Oeynhausen": [52.2000, 8.8000], # Nordrhein-Westfalen
+"Bad Salzig": [50.1333, 7.5500], # Rheinland-Pfalz (Ortsteil von Boppard)
+"Bad Salzungen": [50.8167, 10.2333], # Thüringen
+"Bad Segeberg": [53.9333, 10.3167], # Schleswig-Holstein
+"Bad Waldliesborn": [51.6667, 8.3500], # Nordrhein-Westfalen (Ortsteil von Lippstadt)
+"Barbelroth": [49.1239, 8.0492], # Rheinland-Pfalz
+"Bedburg": [51.0000, 6.5667], # Nordrhein-Westfalen
+"Bergisch Gladbach": [50.9833, 7.1333], # Nordrhein-Westfalen
+"Bergneustadt": [51.0500, 7.6333], # Nordrhein-Westfalen
+"Bestwig": [51.3500, 8.3333], # Nordrhein-Westfalen
+"Biebergemünd": [50.1472, 9.3094], # Hessen
+"Birkach": [48.7189, 9.2222], # Baden-Württemberg (Stadtteil von Stuttgart)
+"Birkenfeld": [49.6583, 7.1861], # Rheinland-Pfalz
+"Birlenbach": [50.3667, 8.0000], # Rheinland-Pfalz
+"Bissersheim": [49.5444, 8.1639], # Rheinland-Pfalz
+"Blumberg": [47.8333, 8.5833], # Baden-Württemberg
+"Bodenseekreis": [47.7833, 9.4000], # Baden-Württemberg (Landkreis)
+"Boostedt": [54.0000, 10.0000], # Schleswig-Holstein
+"Botnang": [48.7750, 9.1167], # Baden-Württemberg (Stadtteil von Stuttgart)
+"Bräunlingen": [48.0000, 8.4833], # Baden-Württemberg
+"Bremen": [53.0750, 8.8075], # Bremen
+"Bremerhaven": [53.5469, 8.5847], # Bremen
+"Brensbach": [49.7711, 8.8772], # Hessen
+"Brilon": [51.3833, 8.5833], # Nordrhein-Westfalen
+"Brodenbach": [50.2167, 7.4500], # Rheinland-Pfalz
+"Brüggen": [51.2167, 6.2500], # Nordrhein-Westfalen
+"Buchholz": [53.3333, 9.8833], # Niedersachsen (Buchholz in der Nordheide)
+"Bühl": [48.7000, 8.1333], # Baden-Württemberg
+"Crumbach": [49.7833, 8.8833], # Hessen (Ortsteil von Brensbach)
+"Dahn": [49.1167, 7.7833], # Rheinland-Pfalz
+"Damgarten": [54.2750, 12.5806], # Mecklenburg-Vorpommern (Ortsteil von Ribnitz-Damgarten)
+"Deuna Eichsfeld": [51.4083, 10.5183], # Thüringen (Ortsteil von Niederorschel)
+"Deuz": [50.8742, 8.0483], # Nordrhein-Westfalen (Ortsteil von Netphen)
+"Dillingen": [48.5667, 10.4500], # Bayern (Dillingen an der Donau)
+"Dinslaken": [51.5833, 6.7500], # Nordrhein-Westfalen
+"Dormagen": [51.1000, 6.8167], # Nordrhein-Westfalen
+"Dülken": [51.2742, 6.3475], # Nordrhein-Westfalen (Stadtteil von Viersen)
+"Eckfeld": [50.1167, 6.8500], # Rheinland-Pfalz
+"Eggesin": [53.7333, 14.1500], # Mecklenburg-Vorpommern
+"Eichsfeld": [51.4167, 10.2333], # Thüringen/Niedersachsen (Region, hier Landkreis Eichsfeld in Thüringen)
+"Eitorf": [50.7833, 7.4500], # Nordrhein-Westfalen
+"Ellerau": [53.7833, 9.9000], # Schleswig-Holstein
+"Elsen": [51.7667, 8.7000], # Nordrhein-Westfalen (Stadtteil von Paderborn)
+"Elten": [51.8667, 6.1333], # Nordrhein-Westfalen (Ortsteil von Emmerich am Rhein)
+"Emmerich": [51.8333, 6.4333], # Nordrhein-Westfalen
+"Emsbüren": [52.3333, 7.3167], # Niedersachsen
+"Epperthausen": [49.5244, 8.3517], # Rheinland-Pfalz (Ortsteil von Bobenheim-Roxheim) - sehr unsicher, ggf. Eppertshausen (Hessen)
+"Ernstweiler": [49.2564, 7.3758], # Rheinland-Pfalz (Stadtteil von Zweibrücken)
+"Esch": [50.4167, 6.7500], # Rheinland-Pfalz (Ortsteil von Hellenthal)
+"Etzbach": [50.8167, 7.6000], # Rheinland-Pfalz
+"Fahrstedt": [53.8667, 9.1500], # Schleswig-Holstein (Ortsteil von St. Margarethen)
+"Fernthal": [50.5833, 7.4333], # Rheinland-Pfalz (Ortsteil von Neustadt (Wied))
+"Feuerbach": [48.8000, 9.1333], # Baden-Württemberg (Stadtteil von Stuttgart)
+"Fintel": [53.1833, 9.6833], # Niedersachsen
+"Forstmehren": [50.6833, 7.6500], # Rheinland-Pfalz
+"Frankenthal": [49.5333, 8.3500], # Rheinland-Pfalz
+"Frankfurt": [50.1106, 8.6822], # Hessen (Frankfurt am Main)
+"Freinsheim": [49.4678, 8.2325], # Rheinland-Pfalz
+"Freudenstadt": [48.4678, 8.4128], # Baden-Württemberg
+"Fröndenberg": [51.4667, 7.7333], # Nordrhein-Westfalen
+"Fürthen": [50.7833, 7.6167], # Rheinland-Pfalz
+"Garenfeld": [51.4167, 7.5000], # Nordrhein-Westfalen (Ortsteil von Hagen)
+"Gartenstadt": [49.4333, 8.4333], # Rheinland-Pfalz (Stadtteil von Ludwigshafen am Rhein)
+"Gäu": [48.5667, 8.8667], # Baden-Württemberg (Region, hier Herrenberg im Oberen Gäu)
+"Geeste": [52.6167, 7.2500], # Niedersachsen
+"Gelmer": [52.0167, 7.6833], # Nordrhein-Westfalen (Stadtteil von Münster)
+"Giessen": [50.5833, 8.6833], # Hessen
+"Gillenfeld": [50.0833, 6.8500], # Rheinland-Pfalz
+"Greimerath": [49.8167, 6.8500], # Rheinland-Pfalz (Hunsrück)
+"Griesheim": [49.8667, 8.5833], # Hessen
+"Grimmenthal": [50.5667, 10.5167], # Thüringen (Ortsteil von Themar)
+"Gronau": [52.2167, 7.0333], # Nordrhein-Westfalen (Gronau (Westf.))
+"Grünstadt": [49.5667, 8.1667], # Rheinland-Pfalz
+"Guckheim": [50.5333, 7.9167], # Rheinland-Pfalz
+"Gummersbach": [51.0833, 7.5667], # Nordrhein-Westfalen
+"Gustavsburg": [49.9833, 8.3667], # Hessen (Ortsteil von Ginsheim-Gustavsburg)
+"Haaren": [51.7000, 8.4333], # Nordrhein-Westfalen (Ortsteil von Bad Wünnenberg)
+"Hadenfeld": [54.0833, 9.4833], # Schleswig-Holstein
+"Hainburg": [50.0500, 8.9833], # Hessen
+"Hambach": [49.3333, 8.1000], # Rheinland-Pfalz (Ortsteil von Neustadt an der Weinstraße)
+"Harbeck": [51.2167, 6.2000], # Nordrhein-Westfalen (Ortsteil von Wegberg)
+"Haspe": [51.3500, 7.4333], # Nordrhein-Westfalen (Stadtteil von Hagen)
+"Hasselroth": [50.1472, 9.1722], # Hessen
+"Haßloch": [49.3667, 8.2833], # Rheinland-Pfalz
+"Hedelfingen": [48.7561, 9.2556], # Baden-Württemberg (Stadtteil von Stuttgart)
+"Heek": [52.1000, 7.0667], # Nordrhein-Westfalen
+"Helferskirchen": [50.4833, 7.7833], # Rheinland-Pfalz
+"Hemer": [51.3833, 7.7500], # Nordrhein-Westfalen
+"Hemshof": [49.4889, 8.4389], # Rheinland-Pfalz (Stadtteil von Ludwigshafen am Rhein)
+"Hennef": [50.7833, 7.2833], # Nordrhein-Westfalen
+"Herdecke": [51.4000, 7.4500], # Nordrhein-Westfalen
+"Herford": [52.1500, 8.6833], # Nordrhein-Westfalen
+"Herringen": [51.6333, 7.7500], # Nordrhein-Westfalen (Stadtteil von Hamm)
+"Herzfeld": [51.7000, 8.1500], # Nordrhein-Westfalen (Ortsteil von Lippetal)
+"Herxheim": [49.2000, 8.2500], # Rheinland-Pfalz (Herxheim bei Landau/Pfalz)
+"Hilgert": [50.4500, 7.5667], # Rheinland-Pfalz
+"Hochsauerlandkreis": [51.3167, 8.3500], # Nordrhein-Westfalen (Landkreis)
+"Höchst": [50.0833, 8.5333], # Hessen (Stadtteil von Frankfurt am Main)
+"Hofheim": [50.0919, 8.4414], # Hessen (Hofheim am Taunus)
+"Hohenlimburg": [51.3667, 7.5833], # Nordrhein-Westfalen (Stadtteil von Hagen)
+"Hohenlockstedt": [54.0167, 9.6167], # Schleswig-Holstein
+"Hohenlohekreis": [49.3167, 9.5500], # Baden-Württemberg (Landkreis)
+"Holzheim": [50.4000, 8.0000], # Rheinland-Pfalz (bei Diez)
+"Hopsten": [52.4167, 7.6500], # Nordrhein-Westfalen
+"Hördt": [49.1239, 8.3094], # Rheinland-Pfalz
+"Hövel": [51.5833, 7.9167], # Nordrhein-Westfalen (Ortsteil von Hamm)
+"Hückeswagen": [51.1333, 7.3000], # Nordrhein-Westfalen
+"Hübingen": [50.4000, 7.8500], # Rheinland-Pfalz
+"Hügelsheim": [48.8000, 8.1000], # Baden-Württemberg
+"Hüthum": [51.8500, 6.3667], # Nordrhein-Westfalen (Ortsteil von Emmerich am Rhein)
+"Iggelheim": [49.3667, 8.3167], # Rheinland-Pfalz (Ortsteil von Böhl-Iggelheim)
+"Ilfeld": [51.5667, 10.7667], # Thüringen (Ortsteil von Harztor)
+"Ilsede": [52.3333, 10.2333], # Niedersachsen
+"Ilvesheim": [49.4686, 8.5722], # Baden-Württemberg
+"Ingelheim": [49.9867, 8.0667], # Rheinland-Pfalz (Ingelheim am Rhein)
+"Isenburg": [50.4500, 7.6000], # Rheinland-Pfalz
+"Jockgrim": [49.0767, 8.2567], # Rheinland-Pfalz
+"Kaisersbach": [48.9717, 9.6050], # Baden-Württemberg
+"Kamen": [51.5833, 7.6667], # Nordrhein-Westfalen
+"Karlshausen": [50.0461, 6.2731], # Rheinland-Pfalz
+"Katharinen": [49.5267, 8.2758], # Rheinland-Pfalz (Katharinenhof bei Bobenheim-Roxheim) - sehr unsicher
+"Katzweiler": [49.5000, 7.7333], # Rheinland-Pfalz
+"Kevelaer": [51.5833, 6.2333], # Nordrhein-Westfalen
+"Kirchhoven": [51.1000, 6.1000], # Nordrhein-Westfalen (Ortsteil von Heinsberg)
+"Kirchlengern": [52.2000, 8.6333], # Nordrhein-Westfalen
+"Kirn": [49.8167, 7.4667], # Rheinland-Pfalz
+"Klausen": [50.0000, 7.1500], # Rheinland-Pfalz
+"Klein Nordende": [53.7167, 9.6833], # Schleswig-Holstein
+"Klein Rönnau": [53.9500, 10.3333], # Schleswig-Holstein
+"Kreis Dithmarschen": [54.1000, 9.0833], # Schleswig-Holstein (Landkreis)
+"Kreis Plön": [54.2000, 10.4167], # Schleswig-Holstein (Landkreis)
+"Kreuztal": [50.9333, 7.9500], # Nordrhein-Westfalen
+"Kuppenheim": [48.8667, 8.2333], # Baden-Württemberg
+"Kurscheid": [50.8167, 7.2333], # Nordrhein-Westfalen (Ortsteil von Hennef (Sieg))
+"Lachendorf": [52.6167, 10.2500], # Niedersachsen
+"Ladbergen": [52.2000, 7.7000], # Nordrhein-Westfalen
+"Lahr": [48.3500, 7.8667], # Baden-Württemberg (Lahr/Schwarzwald)
+"Langerwehe": [50.8447, 6.3214], # Nordrhein-Westfalen
+"Lantershofen": [50.5500, 7.1167], # Rheinland-Pfalz (Ortsteil von Bad Neuenahr-Ahrweiler)
+"Lautzert": [50.7000, 7.6000], # Rheinland-Pfalz
+"Legden": [52.0500, 7.0000], # Nordrhein-Westfalen
+"Leimersheim": [49.1000, 8.3500], # Rheinland-Pfalz
+"Leinefelde": [51.4000, 10.3167], # Thüringen (Ortsteil von Leinefelde-Worbis)
+"Lichtenborn": [50.0833, 6.2333], # Rheinland-Pfalz
+"Limburgerhof": [49.4000, 8.4167], # Rheinland-Pfalz
+"Linnich": [50.9833, 6.2667], # Nordrhein-Westfalen
+"Lintfort": [51.4833, 6.5167], # Nordrhein-Westfalen (Kamp-Lintfort)
+"Lippe": [51.9333, 8.8667], # Nordrhein-Westfalen (Landkreis)
+"Lipperode": [51.7000, 8.4167], # Nordrhein-Westfalen (Ortsteil von Lippstadt)
+"Lippetal": [51.6833, 8.1667], # Nordrhein-Westfalen
+"Lissingen": [50.2333, 6.6667], # Rheinland-Pfalz (Ortsteil von Gerolstein)
+"Lobberich": [51.3500, 6.2500], # Nordrhein-Westfalen (Ortsteil von Nettetal)
+"Lohmar": [50.8333, 7.2000], # Nordrhein-Westfalen
+"Lünne": [52.4167, 7.4333], # Niedersachsen
+"Luxemburg": [49.6117, 6.1300], # Luxemburg (Nachbarland, wird hier nicht zugeordnet)
+"Maikammer": [49.3333, 8.1333], # Rheinland-Pfalz
+"Marienheide": [51.0500, 7.5333], # Nordrhein-Westfalen
+"Maulbronn": [49.0069, 8.8042], # Baden-Württemberg
+"Maxdorf": [49.4667, 8.2833], # Rheinland-Pfalz
+"Maximiliansau": [49.0500, 8.2667], # Rheinland-Pfalz (Stadtteil von Wörth am Rhein)
+"Meinerzhagen": [51.1000, 7.6333], # Nordrhein-Westfalen
+"Meinborn": [50.4833, 7.4667], # Rheinland-Pfalz
+"Meldorf": [54.0667, 9.0833], # Schleswig-Holstein
+"Merbeck": [51.1000, 6.1500], # Nordrhein-Westfalen (Ortsteil von Wegberg)
+"Messel": [49.9167, 8.7167], # Hessen
+"Mettmann": [51.2333, 6.9667], # Nordrhein-Westfalen
+"Meuselwitz": [51.0333, 12.3500], # Thüringen
+"Michelbach": [50.8167, 8.0833], # Nordrhein-Westfalen (Ortsteil von Freudenberg)
+"Minden": [52.3000, 8.9167], # Nordrhein-Westfalen
+"Mittelstadt": [48.5167, 9.2167], # Baden-Württemberg (Ortsteil von Reutlingen)
+"Monzel": [49.9667, 7.0000], # Rheinland-Pfalz (Ortsteil von Kesten)
+"Mörlenbach": [49.5833, 8.7333], # Hessen
+"Mörsch": [49.0083, 8.2500], # Rheinland-Pfalz (Ortsteil von Rheinstetten)
+"Much": [50.9333, 7.3667], # Nordrhein-Westfalen
+"Mühltal": [49.8244, 8.7239], # Hessen
+"Nachrodt": [51.3000, 7.5500], # Nordrhein-Westfalen (Nachrodt-Wiblingwerde)
+"Neckar": [49.4000, 9.2000], # Baden-Württemberg (Fluss, hier unspezifisch)
+"Neheim": [51.4833, 7.9500], # Nordrhein-Westfalen (Stadtteil von Arnsberg)
+"Neersen": [51.2500, 6.4333], # Nordrhein-Westfalen (Ortsteil von Willich)
+"Neuenbürg": [48.8833, 8.6000], # Baden-Württemberg
+"Neuenrade": [51.3500, 7.7833], # Nordrhein-Westfalen
+"Neuhausen": [48.6833, 9.4000], # Baden-Württemberg (Neuhausen auf den Fildern)
+"Niedersachswerfen": [51.5333, 10.7500], # Thüringen (Ortsteil von Harztor)
+"Niederense": [51.5000, 8.0500], # Nordrhein-Westfalen (Ortsteil von Ense)
+"Niederfeld": [49.4583, 8.4350], # Rheinland-Pfalz (Stadtteil von Ludwigshafen am Rhein)
+"Niederlangen": [52.9333, 7.3167], # Niedersachsen
+"Nieukerk": [51.4833, 6.3667], # Nordrhein-Westfalen (Ortsteil von Kerken)
+"Nimsreuland": [50.0833, 6.4167], # Rheinland-Pfalz
+"Nittel": [49.6333, 6.4000], # Rheinland-Pfalz
+"Nohn": [50.3167, 6.7833], # Rheinland-Pfalz
+"Nordwestmecklenburg": [53.8500, 11.4500], # Mecklenburg-Vorpommern (Landkreis)
+"Oberasbach": [49.4214, 10.9706], # Bayern
+"Oberbergischer Kreis": [51.0500, 7.5000], # Nordrhein-Westfalen (Landkreis)
+"Oberndorf": [53.7667, 9.1500], # Niedersachsen (Oberndorf (Oste))
+"Oberstein": [49.6922, 7.3208], # Rheinland-Pfalz (Stadtteil von Idar-Oberstein)
+"Ochtrup": [52.2000, 7.2167], # Nordrhein-Westfalen
+"Oerlsdorf": [54.5167, 9.1333], # Schleswig-Holstein (Ortsteil von Klixbüll)
+"Oggersheim": [49.4972, 8.3583], # Rheinland-Pfalz (Stadtteil von Ludwigshafen am Rhein)
+"Olzheim": [50.2833, 6.5333], # Rheinland-Pfalz
+"Oos": [48.7833, 8.2167], # Baden-Württemberg (Stadtteil von Baden-Baden)
+"Öschelbronn": [48.7306, 8.8742], # Baden-Württemberg (Ortsteil von Gäufelden)
+"Osterwald": [52.5667, 6.9167], # Niedersachsen
+"Ottersweier": [48.6667, 8.0833], # Baden-Württemberg
+"Ottenau": [48.7833, 8.3667], # Baden-Württemberg (Stadtteil von Gaggenau)
+"Palenberg": [50.9333, 6.1333], # Nordrhein-Westfalen (Stadtteil von Übach-Palenberg)
+"Pelkum": [51.6000, 7.8500], # Nordrhein-Westfalen (Stadtteil von Hamm)
+"Pfingstweide": [49.5050, 8.4350], # Rheinland-Pfalz (Stadtteil von Ludwigshafen am Rhein)
+"Porta Westfalica": [52.2333, 8.9167], # Nordrhein-Westfalen
+"Primstal": [49.5167, 6.9667], # Saarland (Ortsteil von Nonnweiler)
+"Prüm": [50.2000, 6.4333], # Rheinland-Pfalz
+"Puderbach": [50.5667, 7.6333], # Rheinland-Pfalz
+"Raesfeld": [51.7833, 6.8333], # Nordrhein-Westfalen
+"Ratzeburg": [53.7000, 10.7500], # Schleswig-Holstein
+"Rech": [50.5167, 7.0000], # Rheinland-Pfalz
+"Rees": [51.7500, 6.6167], # Nordrhein-Westfalen
+"Reken": [51.8333, 7.0000], # Nordrhein-Westfalen (Groß Reken)
+"Rennerod": [50.6000, 8.0167], # Rheinland-Pfalz
+"Rennweg": [49.4678, 8.2325], # Rheinland-Pfalz (Ortsteil von Freinsheim) - sehr unsicher
+"Rheinau": [48.6833, 7.9667], # Baden-Württemberg
+"Rheinberg": [51.5500, 6.6000], # Nordrhein-Westfalen
+"Rödinghausen": [52.3000, 8.5000], # Nordrhein-Westfalen
+"Rodewald": [52.6833, 9.5333], # Niedersachsen
+"Rödermark": [49.9833, 8.7833], # Hessen
+"Rohrheim": [49.7000, 8.5167], # Hessen (Ortsteil von Riedstadt)
+"Rügen": [54.4333, 13.4333], # Mecklenburg-Vorpommern (Insel)
+"Rüsselsheim": [49.9917, 8.4111], # Hessen (Rüsselsheim am Main)
+"Rüthen": [51.5500, 8.4167], # Nordrhein-Westfalen
+"Saerbeck": [52.1833, 7.6500], # Nordrhein-Westfalen
+"Salzkotten": [51.6833, 8.6000], # Nordrhein-Westfalen
+"Sandweier": [48.7917, 8.1917], # Baden-Württemberg (Stadtteil von Baden-Baden)
+"Schaephuysen": [51.4500, 6.4833], # Nordrhein-Westfalen (Ortsteil von Rheurdt)
+"Schafstedt": [54.1000, 9.3500], # Schleswig-Holstein
+"Schaumburg": [52.2167, 9.1500], # Niedersachsen (Landkreis)
+"Schauernheim": [49.4667, 8.2833], # Rheinland-Pfalz (Ortsteil von Dannstadt-Schauernheim)
+"Scheid": [50.2833, 6.6667], # Rheinland-Pfalz (Eifel)
+"Scheuern": [49.9833, 6.7167], # Rheinland-Pfalz (bei Bitburg)
+"Schiefbahn": [51.2500, 6.5500], # Nordrhein-Westfalen (Ortsteil von Willich)
+"Schiesheim": [50.3167, 7.9833], # Rheinland-Pfalz
+"Schloß Neuhaus": [51.7333, 8.7000], # Nordrhein-Westfalen (Stadtteil von Paderborn)
+"Schortens": [53.5333, 8.0000], # Niedersachsen
+"Schüttorf": [52.3167, 7.2333], # Niedersachsen
+"Schwenningen": [48.0667, 8.5333], # Baden-Württemberg (Villingen-Schwenningen)
+"Schwerfen": [50.6833, 6.7500], # Nordrhein-Westfalen (Ortsteil von Zülpich)
+"Schweich": [49.8333, 6.7667], # Rheinland-Pfalz
+"Sennelager": [51.7833, 8.7167], # Nordrhein-Westfalen (Stadtteil von Paderborn)
+"Sessenhausen": [50.5667, 7.7333], # Rheinland-Pfalz
+"Siegen": [50.8833, 8.0167], # Nordrhein-Westfalen
+"Siershahn": [50.4667, 7.8167], # Rheinland-Pfalz
+"Sigmaringen": [48.0833, 9.2167], # Baden-Württemberg
+"Sillenbuch": [48.7333, 9.2167], # Baden-Württemberg (Stadtteil von Stuttgart)
+"Simmozheim": [48.7500, 8.8000], # Baden-Württemberg
+"Sömmerda": [51.1667, 11.1167], # Thüringen
+"Spabrücken": [49.9000, 7.6333], # Rheinland-Pfalz
+"Spaichingen": [48.0778, 8.8556], # Baden-Württemberg
+"Stadthagen": [52.3242, 9.2081], # Niedersachsen
+"Steinalben": [49.3333, 7.7333], # Rheinland-Pfalz
+"Steinhausen": [51.6167, 8.4333], # Nordrhein-Westfalen (Ortsteil von Büren)
+"Stelle": [53.4000, 10.1500], # Niedersachsen
+"Stemwede": [52.4167, 8.3500], # Nordrhein-Westfalen
+"Stockach": [47.8500, 9.0000], # Baden-Württemberg
+"Stockstadt": [49.8833, 8.4333], # Hessen (Stockstadt am Rhein)
+"Stolberg": [50.7833, 6.2333], # Nordrhein-Westfalen (Stolberg (Rheinland))
+"Straubenhardt": [48.8667, 8.5667], # Baden-Württemberg
+"Sundern": [51.3333, 8.0000], # Nordrhein-Westfalen (Sundern (Sauerland))
+"Thallichtenberg": [49.5667, 7.3667], # Rheinland-Pfalz
+"Thiede": [52.1667, 10.4500], # Niedersachsen (Stadtteil von Salzgitter)
+"Trossingen": [48.0667, 8.8333], # Baden-Württemberg
+"Tuningen": [47.9833, 8.6167], # Baden-Württemberg
+"Twist": [52.6167, 7.1000], # Niedersachsen
+"Übach": [50.9167, 6.1333], # Nordrhein-Westfalen (Übach-Palenberg)
+"Uersfeld": [50.2833, 6.9667], # Rheinland-Pfalz
+"Ulzburg": [53.7833, 10.0000], # Schleswig-Holstein (Ortsteil von Henstedt-Ulzburg)
+"Umstadt": [49.9333, 8.9500], # Hessen (Groß-Umstadt)
+"Unterbruch": [51.0833, 6.1333], # Nordrhein-Westfalen (Ortsteil von Heinsberg)
+"Unterlüß": [52.8333, 10.2833], # Niedersachsen
+"Ürzig": [50.0000, 7.0333], # Rheinland-Pfalz
+"Uslar": [51.6500, 9.6333], # Niedersachsen
+"Veert": [51.5333, 6.2167], # Nordrhein-Westfalen (Ortsteil von Geldern)
+"Vierhausen": [53.0333, 9.4000], # Niedersachsen (Ortsteil von Ottersberg)
+"Vimbuch": [48.7833, 8.1667], # Baden-Württemberg (Ortsteil von Bühl)
+"Vluyn": [51.4667, 6.5500], # Nordrhein-Westfalen (Ortsteil von Neukirchen-Vluyn)
+"Voerde": [51.6167, 6.6833], # Nordrhein-Westfalen (Voerde (Niederrhein))
+"Volkerzen": [50.7500, 7.6167], # Rheinland-Pfalz
+"Vorhalle": [51.4333, 7.4500], # Nordrhein-Westfalen (Stadtteil von Hagen)
+"Vorst": [51.2833, 6.4500], # Nordrhein-Westfalen (Ortsteil von Tönisvorst)
+"Vreden": [52.0333, 6.8333], # Nordrhein-Westfalen
+"Wachtendonk": [51.4333, 6.3000], # Nordrhein-Westfalen
+"Wagshurst": [48.6500, 7.9167], # Baden-Württemberg (Ortsteil von Achern)
+"Waldfeucht": [51.0667, 6.0833], # Nordrhein-Westfalen
+"Walldorf": [49.3000, 8.6500], # Baden-Württemberg (Walldorf (Baden))
+"Wallersheim": [50.1833, 6.5167], # Rheinland-Pfalz
+"Wangerooge": [53.7833, 7.8833], # Niedersachsen (Insel)
+"Weiler": [50.3667, 7.0333], # Rheinland-Pfalz (bei Mayen)
+"Weilimdorf": [48.8000, 9.1000], # Baden-Württemberg (Stadtteil von Stuttgart)
+"Weimarer Land": [50.9667, 11.3833], # Thüringen (Landkreis)
+"Weinsheim": [50.1833, 6.6333], # Rheinland-Pfalz (Eifel)
+"Weinstraße": [49.4667, 8.1500], # Rheinland-Pfalz (Region, hier Bad Dürkheim)
+"Wekeln": [51.2500, 6.5833], # Nordrhein-Westfalen (Ortsteil von Willich)
+"Welver": [51.6000, 8.0500], # Nordrhein-Westfalen
+"Werdohl": [51.2833, 7.7667], # Nordrhein-Westfalen
+"Werne": [51.6667, 7.6333], # Nordrhein-Westfalen (Werne an der Lippe)
+"Westerburg": [50.5667, 7.9833], # Rheinland-Pfalz
+"Westerkappeln": [52.3500, 7.8500], # Nordrhein-Westfalen
+"Wiblingwerde": [51.3167, 7.6000], # Nordrhein-Westfalen (Ortsteil von Nachrodt-Wiblingwerde)
+"Wiehl": [51.0167, 7.5667], # Nordrhein-Westfalen
+"Wiernsheim": [48.9167, 8.8500], # Baden-Württemberg
+"Wildberg": [48.6000, 8.7667], # Baden-Württemberg
+"Wilsum": [52.5667, 6.8333], # Niedersachsen
+"Wimsheim": [48.8667, 8.7500], # Baden-Württemberg
+"Winnweiler": [49.5667, 7.8833], # Rheinland-Pfalz
+"Wirges": [50.4500, 7.8333], # Rheinland-Pfalz
+"Wissen": [50.9167, 7.6333], # Rheinland-Pfalz (Wissen (Sieg))
+"Wittbende": [51.1000, 6.1333], # Nordrhein-Westfalen (Ortsteil von Wegberg)
+"Worblingen": [47.7472, 8.8286], # Baden-Württemberg
+"Wurmlingen": [48.0500, 8.8000], # Baden-Württemberg (bei Tuttlingen)
+"Zirndorf": [49.4333, 10.9500], # Bayern
+"Zülpich": [50.7000, 6.6667], # Nordrhein-Westfalen
     
 }

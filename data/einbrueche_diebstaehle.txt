@@ -3149,3 +3149,9 @@
 {"coords": [9.1919, 48.8975], "date": "2025-12-08"}, // Ludwigsburg, Raub
 {"coords": [6.7872, 50.6606], "date": "2025-12-08"}, // Euskirchen, Diebstahl
 //{"coords": [], "date": "2025-12-08"} // Kommern, Einbrecher
+{"coords": [9.8333, 53.95], "date": "2025-12-08"}, // Erpressung Hagen, Räuber
+//{"coords": [], "date": "2025-12-08"} // Wehringhausen, stahl
+{"coords": [11.0299, 50.9848], "date": "2025-12-08"}, // Erfurt, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Netphen, gestohlen
+//{"coords": [], "date": "2025-12-08"} // Herxheim, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-12-08"}, // Zeugen Paderborn, Einbruch

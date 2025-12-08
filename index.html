@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
     <style>
-        /* --- CSS STYLING --- */
+        /* --- CSS STYLING (Unverändert gut) --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -63,35 +63,24 @@
         .link-btn.paypal { background: linear-gradient(135deg, #0070ba, #1546a0); color: white; border-color: #0070ba; }
         .link-btn.paypal:hover { background: linear-gradient(135deg, #005a94, #103a7f); transform: translateY(-1px); }
 
-        /* --- OPTIMIERTE ROTE BOX (FLEXBOX FIX) --- */
         .state-info-card {
             background: linear-gradient(135deg, #dc2626, #ef4444); color: white;
             padding: 20px; border-radius: 12px; text-align: center;
-            /* Flexbox für vertikale Ausrichtung der Box selbst */
             display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 12px;
             min-height: 200px; flex-shrink: 0;
         }
         .state-info-card h3 { 
             font-size: 14px; font-weight: 600; opacity: 0.9; margin: 0;
-            min-height: 20px; /* Platzhalter, damit es nicht springt */
+            min-height: 20px; 
         }
         .state-count { font-size: 28px; font-weight: 700; line-height: 1.1; }
         
-        /* --- BUTTON ZENTRIERUNG --- */
         .link-btn.details { 
             background: white; color: #dc2626; border-color: #fca5a5; font-weight: 600;
-            visibility: hidden; opacity: 0; 
-            width: 100%; 
-            margin-top: 5px;
+            visibility: hidden; opacity: 0; width: 100%; margin-top: 5px;
             transition: opacity 0.2s ease;
-            
-            /* NEU: Flexbox für perfekte Zentrierung des Textes im Button */
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            min-height: 48px; /* Mindesthöhe statt fester Höhe */
-            padding: 8px 12px;
-            line-height: 1.2;
+            display: flex; align-items: center; justify-content: center;
+            min-height: 48px; padding: 8px 12px; line-height: 1.2;
         }
         .link-btn.details:hover { background: #fef2f2; border-color: #dc2626; }
         .link-btn.details.is-visible { visibility: visible; opacity: 1; }
@@ -118,8 +107,6 @@
         .state-selected { fill: #fca5a5 !important; stroke: #991b1b !important; stroke-width: 2px !important; }
         .incident { fill: rgba(220, 38, 38, 0.8); stroke: white; stroke-width: 1.5; r: 5; transition: all 0.3s ease; pointer-events: none; }
         .incident:hover { r: 7; fill: rgba(220, 38, 38, 1); stroke-width: 2; }
-        
-        /* Highlight Klasse für Hover */
         .state-highlight { fill: #fef2f2 !important; stroke: #dc2626 !important; stroke-width: 2px !important; }
 
         .modal { display: none; position: fixed; z-index: 2000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.5); backdrop-filter: blur(5px); }
@@ -266,13 +253,21 @@
             mapGroup.attr("transform", e.transform);
         }));
 
-        // --- FILTER-LISTE FÜR SAUBERE STÄDTENAMEN ---
-        // Wörter, die entfernt werden sollen (case-insensitive)
+        // --- MASISV ERWEITERTE FILTER-LISTE ---
+        // Diese Wörter werden jetzt gnadenlos aus den Stadtnamen gelöscht
         const CLEANUP_BLACKLIST = [
-            "Polizei", "Presseportal", "Blaulicht", "News", "Aktuell",
-            "Zeugenaufruf", "Zeugen", "gesucht",
+            // Deine neuen Begriffe:
+            "Präventionshinweise", "Fotofahndung", "Straftat", "Hinweise", 
+            
+            // Standard Polizei Vokabular
+            "Polizei", "Kriminalpolizei", "Bundespolizei", "Presseportal", "Blaulicht", "News", "Aktuell",
+            "Zeugenaufruf", "Zeugen", "gesucht", "Warnung", "Fahndung", "Meldung",
+            
+            // Delikte
             "Eigentumskriminalität", "Wohnungseinbruch", "Wohnungseinbrecherinnen",
             "Einbruch", "Diebstahl", "Raub", "Überfall", "Festnahme", "Unfall",
+            
+            // Objekte/Täter
             "Kfz", "Lagerhalle", "Wohnhaus", "Praxisräume", "Einfamilienhaus", "Hütte", "Poser",
             "Einbrecher", "Täter", "Unbekannte"
         ];
@@ -284,7 +279,7 @@
             // 1. Ersetze " in " durch Leerzeichen (z.B. "Einbruch in Hamburg" -> "Einbruch Hamburg")
             let cleaned = rawName.replace(/\s+in\s+/gi, " ");
             
-            // 2. Blacklist Wörter entfernen
+            // 2. Blacklist Wörter entfernen (Case-Insensitive)
             CLEANUP_BLACKLIST.forEach(word => {
                 const regex = new RegExp(word, "gi");
                 cleaned = cleaned.replace(regex, "");
@@ -374,20 +369,16 @@
                 .attr("class", "state")
                 .attr("d", pathGenerator)
                 .on("click", handleStateClick)
-                // --- HOVER LOGIK NEU ---
+                // --- HOVER LOGIK ---
                 .on("mouseover", function(event, d) {
                     d3.select(this).classed("state-highlight", true);
-                    // Zeige Info beim Hovern an, auch wenn nichts geklickt ist
                     updateSidebarInfo(d, getFilteredIncidents());
                 })
                 .on("mouseout", function(event, d) {
                     d3.select(this).classed("state-highlight", false);
-                    
-                    // Wenn ein Staat fest ausgewählt ist, zeige dessen Info wieder an
                     if(state.selectedStateFeature) {
                         updateSidebarInfo(state.selectedStateFeature, getFilteredIncidents());
                     } else {
-                        // Wenn nichts ausgewählt ist, leere die Box
                         elements.stateTitle.textContent = "Ausgewähltes Bundesland";
                         elements.stateInfo.textContent = "-";
                         elements.detailsBtn.classList.remove("is-visible");
@@ -395,7 +386,6 @@
                 });
         }
 
-        // Hilfsfunktion zum Abrufen der aktuell gefilterten Vorfälle
         function getFilteredIncidents() {
             const from = elements.fromDate.value;
             const to = elements.toDate.value;
@@ -436,12 +426,9 @@
         function resetSelection() {
             state.selectedStateFeature = null;
             d3.selectAll(".state").classed("state-selected", false);
-            
-            // UI zurücksetzen
             elements.stateTitle.textContent = "Ausgewähltes Bundesland";
             elements.stateInfo.textContent = "-";
             elements.detailsBtn.classList.remove("is-visible");
-            
             updateView();
         }
 
@@ -449,17 +436,12 @@
             const name = feature.properties.NAME_1 || feature.properties.name;
             const count = currentFilteredIncidents.filter(i => i.stateName === name).length;
 
-            elements.stateTitle.textContent = name; // Name oben in der Box
-            elements.stateInfo.textContent = `${count}`; // Nur die Zahl groß
-            
-            // Button Logik nur anzeigen, wenn wir wirklich etwas ausgewählt haben ODER hovern
-            // Aber Klickbarkeit macht nur bei echten Daten Sinn.
+            elements.stateTitle.textContent = name;
+            elements.stateInfo.textContent = `${count}`; 
             
             if(count > 0) {
-                elements.detailsBtn.textContent = `Details für ${name}`; // Text wird im CSS zentriert
+                elements.detailsBtn.textContent = `Details für ${name}`;
                 elements.detailsBtn.classList.add("is-visible");
-                
-                // Update click handler to ensure it works for hover state interactions immediately
                 elements.detailsBtn.onclick = () => openDetailsModal(name);
             } else {
                 elements.detailsBtn.classList.remove("is-visible");
@@ -477,14 +459,10 @@
         }
 
         // --- MODAL LOGIK ---
-        // Extra Funktion, damit wir sie vom Click und Hover (indirekt) aufrufen können
         function openDetailsModal(stateName) {
             const filtered = getFilteredIncidents();
-            
-            // Effiziente Filterung
             const incidentsInState = filtered.filter(i => i.stateName === stateName);
 
-            // Zählen
             const counts = {};
             incidentsInState.forEach(i => counts[i.city] = (counts[i.city] || 0) + 1);
             

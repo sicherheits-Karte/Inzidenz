@@ -3230,3 +3230,5 @@
 //{"coords": [], "date": "2025-12-08"} // der Dr.-Heinrich-Bohley-Straße ein sogenannter Tageswohnungseinbruch verübt. Die Täter drangen über ein rückwärtig gelegenes Fenster im Erdgeschoss gewaltsam in das Einfamilienhaus ein, durchsuchten mehrere Räume und entwendeten nach ersten Feststellungen mehrere Uhren und weiteren Schmuck sowie Bargeld. Die Kriminalpolizei bittet um, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2025-12-08"}, // Tageswohnungseinbruch Fulda, Einbruch
 //{"coords": [], "date": "2025-12-08"} // Bremerhaven, Diebstahl
+//{"coords": [], "date": "2025-12-08"} // Kreis, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2025-12-08"}, // Hannover, Raub

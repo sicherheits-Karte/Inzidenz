@@ -6,7 +6,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        * {
+* {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -16,17 +16,20 @@
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
-            padding: 20px;
+            height: 100vh;
+            padding: 12px;
             color: #374151;
+            overflow: hidden;
         }
 
         .container {
             max-width: 1400px;
             margin: 0 auto;
             display: grid;
-            grid-template-columns: 300px 1fr;
-            gap: 24px;
-            min-height: calc(100vh - 40px);
+            grid-template-columns: 280px 1fr;
+            gap: 12px;
+            height: calc(100vh - 24px);
+            overflow: hidden;
         }
 
         /* Header Card */
@@ -34,22 +37,22 @@
             grid-column: 1 / -1;
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 24px;
+            border-radius: 12px;
+            padding: 16px;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.2);
             text-align: center;
         }
 
         .header-content h1 {
-            font-size: 28px;
+            font-size: 22px;
             font-weight: 700;
             color: #1f2937;
-            margin-bottom: 8px;
+            margin-bottom: 4px;
         }
 
         .header-content .subtitle {
-            font-size: 16px;
+            font-size: 14px;
             color: #6b7280;
             font-weight: 400;
         }
@@ -58,20 +61,22 @@
         .sidebar-card {
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 24px;
+            border-radius: 12px;
+            padding: 16px;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.2);
             display: flex;
             flex-direction: column;
-            gap: 20px;
+            gap: 14px;
+            overflow-y: auto;
+            max-height: 100%;
         }
 
         .card-title {
-            font-size: 18px;
+            font-size: 16px;
             font-weight: 600;
             color: #1f2937;
-            margin-bottom: 8px;
+            margin-bottom: 6px;
         }
 
         .date-inputs {
@@ -208,29 +213,30 @@
         .map-card {
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 24px;
+            border-radius: 12px;
+            padding: 16px;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.2);
             display: flex;
             flex-direction: column;
+            overflow: hidden;
         }
 
         .map-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 20px;
+            margin-bottom: 12px;
         }
 
         .map-title {
-            font-size: 20px;
+            font-size: 18px;
             font-weight: 600;
             color: #1f2937;
         }
 
         .vorfälle-count {
-            font-size: 18px;
+            font-size: 16px;
             font-weight: 600;
             color: #dc2626;
         }
@@ -255,8 +261,8 @@
             grid-column: 1 / -1;
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 20px 24px;
+            border-radius: 12px;
+            padding: 12px 16px;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.2);
             text-align: center;
@@ -341,21 +347,142 @@
 
         /* Responsive */
         @media (max-width: 1024px) {
+            body {
+                padding: 8px;
+                height: auto;
+                min-height: 100vh;
+                overflow-y: auto;
+            }
+
             .container {
                 grid-template-columns: 1fr;
+                height: auto;
+                min-height: calc(100vh - 16px);
+                gap: 12px;
+                overflow: visible;
+            }
+            
+            .header-card {
+                padding: 12px;
+            }
+
+            .header-content h1 {
+                font-size: 20px;
+            }
+
+            .header-content .subtitle {
+                font-size: 13px;
             }
             
             .sidebar-card {
                 order: 2;
+                max-height: none;
+                overflow-y: visible;
             }
             
             .map-card {
                 order: 1;
-                min-height: 500px;
+                min-height: 400px;
+                height: 60vh;
             }
 
             .footer {
                 order: 3;
+                padding: 12px;
+            }
+
+            .footer-links {
+                gap: 16px;
+            }
+
+            .footer-link {
+                font-size: 13px;
+            }
+        }
+
+        @media (max-width: 640px) {
+            body {
+                padding: 6px;
+            }
+
+            .container {
+                gap: 8px;
+                min-height: calc(100vh - 12px);
+            }
+
+            .header-card {
+                padding: 10px;
+                border-radius: 10px;
+            }
+
+            .header-content h1 {
+                font-size: 18px;
+            }
+
+            .header-content .subtitle {
+                font-size: 12px;
+            }
+
+            .sidebar-card, .map-card, .footer {
+                border-radius: 10px;
+                padding: 12px;
+            }
+
+            .card-title {
+                font-size: 15px;
+            }
+
+            .date-input {
+                padding: 10px;
+                font-size: 13px;
+            }
+
+            .filter-btn {
+                padding: 10px 12px;
+                font-size: 13px;
+            }
+
+            .link-btn {
+                padding: 12px 16px;
+                font-size: 13px;
+            }
+
+            .state-info-card {
+                padding: 16px;
+                min-height: 100px;
+            }
+
+            .state-info-card h3 {
+                font-size: 13px;
+            }
+
+            .state-count {
+                font-size: 20px;
+            }
+
+            .map-card {
+                min-height: 350px;
+                height: 50vh;
+            }
+
+            .map-title {
+                font-size: 16px;
+            }
+
+            .vorfälle-count {
+                font-size: 14px;
+            }
+
+            .footer-links {
+                gap: 12px;
+            }
+
+            .footer-link {
+                font-size: 12px;
+            }
+
+            text {
+                font-size: 8px;
             }
         }
     </style>
@@ -704,5 +831,6 @@
     </script>
 </body>
 </html>
+
 
 

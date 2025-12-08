@@ -3232,3 +3232,13 @@
 //{"coords": [], "date": "2025-12-08"} // Bremerhaven, Diebstahl
 //{"coords": [], "date": "2025-12-08"} // Kreis, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2025-12-08"}, // Hannover, Raub
+{"coords": [8.6306, 53.05], "date": "2025-12-08"}, // Delmenhorst, Raub
+{"coords": [7.82, 47.99], "date": "2025-12-08"}, // Freiburg, entwendet
+//{"coords": [], "date": "2025-12-08"} // Lippe, Dieb
+{"coords": [9.6106, 47.7828], "date": "2025-12-08"}, // Ravensburg, gestohlen
+{"coords": [11.5164, 51.0264], "date": "2025-12-08"}, // Apolda, Dieb
+//{"coords": [], "date": "2025-12-08"} // Alfter, Einbrecher
+{"coords": [6.4833, 50.8], "date": "2025-12-08"}, // Düren, Raub
+{"coords": [6.4247, 51.0067], "date": "2025-12-08"}, // Titz, entwendet
+{"coords": [6.4833, 50.8], "date": "2025-12-08"}, // Dürener Weihnachtsmarkt Düren, Diebstahl
+{"coords": [13.2611, 53.5569], "date": "2025-12-08"}, // Neubrandenburg, Einbruch

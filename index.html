@@ -5,360 +5,386 @@
     <title>Einbrüche & Diebstähle Dashboard</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+    
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
 
+    body {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        /* WICHTIG: Fixierte Höhe und kein Scrollen */
+        height: 100vh; 
+        overflow: hidden; 
+        padding: 16px; /* Etwas weniger Außenabstand */
+        color: #374151;
+    }
+
+    .container {
+        max-width: 1400px;
+        margin: 0 auto;
+        /* WICHTIG: Container füllt exakt die Höhe abzüglich Padding */
+        height: 100%; 
+        display: grid;
+        grid-template-columns: 300px 1fr;
+        /* WICHTIG: Header(auto) - Inhalt(Rest) - Footer(auto) */
+        grid-template-rows: auto 1fr auto; 
+        gap: 16px; /* Lücke verkleinert von 24px auf 16px */
+    }
+
+    /* Header Card */
+    .header-card {
+        grid-column: 1 / -1;
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 12px;
+        /* WICHTIG: Padding stark reduziert */
+        padding: 12px 24px; 
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        text-align: center;
+        /* Damit er nicht unnötig hoch wird */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header-content h1 {
+        font-size: 24px; /* Etwas kleiner */
+        font-weight: 700;
+        color: #1f2937;
+        margin-bottom: 2px; /* Weniger Abstand zum Subtitel */
+    }
+
+    .header-content .subtitle {
+        font-size: 14px;
+        color: #6b7280;
+        font-weight: 400;
+    }
+
+    /* Sidebar Card */
+    .sidebar-card {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 16px;
+        padding: 20px; /* Leicht reduziert */
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        display: flex;
+        flex-direction: column;
+        gap: 16px; /* Abstände zwischen Elementen verringert */
+        overflow-y: auto; /* Falls der Bildschirm sehr klein ist, scrollt nur die Sidebar */
+    }
+
+    .card-title {
+        font-size: 16px;
+        font-weight: 600;
+        color: #1f2937;
+        margin-bottom: 6px;
+    }
+
+    .date-inputs {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .date-group {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .date-group label {
+        font-size: 13px;
+        font-weight: 500;
+        color: #4b5563;
+    }
+
+    .date-input {
+        padding: 8px 12px; /* Input kompakter */
+        border: 2px solid #e5e7eb;
+        border-radius: 8px;
+        font-size: 13px;
+        transition: all 0.2s ease;
+        background: white;
+    }
+
+    .date-input:focus {
+        outline: none;
+        border-color: #3b82f6;
+        box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+    }
+
+    .filter-buttons {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 6px;
+    }
+
+    .filter-btn {
+        padding: 8px 12px; /* Buttons kompakter */
+        border: none;
+        border-radius: 8px;
+        font-size: 13px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        background: #f8fafc;
+        color: #4b5563;
+        border: 2px solid #e5e7eb;
+    }
+
+    .filter-btn:hover {
+        background: #3b82f6;
+        color: white;
+        border-color: #3b82f6;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+    }
+
+    .filter-btn.active {
+        background: #3b82f6;
+        color: white;
+        border-color: #3b82f6;
+    }
+
+    /* Link Buttons */
+    .link-btn {
+        display: block;
+        padding: 10px 16px; /* Kompakter */
+        text-align: center;
+        text-decoration: none;
+        border-radius: 8px;
+        font-size: 13px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        border: 2px solid;
+    }
+
+    .link-btn.datenquelle {
+        background: #f0fdf4;
+        color: #15803d;
+        border-color: #86efac;
+    }
+
+    .link-btn.datenquelle:hover {
+        background: #15803d;
+        color: white;
+        border-color: #15803d;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(21, 128, 61, 0.3);
+    }
+
+    .link-btn.paypal {
+        background: linear-gradient(135deg, #0070ba, #1546a0);
+        color: white;
+        border-color: #0070ba;
+    }
+
+    .link-btn.paypal:hover {
+        background: linear-gradient(135deg, #005a94, #103a7f);
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4);
+    }
+
+    .state-info-card {
+        background: linear-gradient(135deg, #dc2626, #ef4444);
+        color: white;
+        padding: 16px;
+        border-radius: 12px;
+        text-align: center;
+        /* Flexibel bleiben */
+        flex: 1; 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-height: 80px; /* Kleiner als vorher */
+    }
+
+    .state-info-card h3 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 8px;
+        opacity: 0.9;
+    }
+
+    .state-count {
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    /* Map Card */
+    .map-card {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 16px;
+        padding: 20px; /* Leicht reduziert */
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        display: flex;
+        flex-direction: column;
+        /* WICHTIG: Die Karte nimmt den restlichen Platz ein */
+        height: 100%; 
+        overflow: hidden;
+    }
+
+    .map-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 16px;
+    }
+
+    .map-title {
+        font-size: 18px;
+        font-weight: 600;
+        color: #1f2937;
+    }
+
+    .vorfälle-count {
+        font-size: 16px;
+        font-weight: 600;
+        color: #dc2626;
+    }
+
+    .map-container {
+        flex: 1; /* Füllt den Rest der Map-Card */
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+        overflow: hidden;
+        position: relative;
+    }
+
+    #map {
+        width: 100%;
+        height: 100%;
+        background: #f8fafc;
+    }
+
+    /* Footer */
+    .footer {
+        grid-column: 1 / -1;
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 12px;
+        /* WICHTIG: Padding stark reduziert */
+        padding: 10px 24px; 
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        text-align: center;
+    }
+
+    .footer-links {
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .footer-link {
+        color: #6b7280;
+        text-decoration: none;
+        font-size: 12px; /* Kleiner */
+        font-weight: 500;
+        transition: all 0.2s ease;
+        position: relative;
+    }
+
+    .footer-link:hover {
+        color: #3b82f6;
+    }
+
+    .footer-link::after {
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 0;
+        height: 2px;
+        background: #3b82f6;
+        transition: width 0.2s ease;
+    }
+
+    .footer-link:hover::after {
+        width: 100%;
+    }
+
+    /* Map Elements */
+    .state {
+        fill: white;
+        stroke: #d1d5db;
+        stroke-width: 1;
+        transition: all 0.3s ease;
+    }
+
+    .state:hover {
+        fill: #fef2f2;
+        stroke: #dc2626;
+        stroke-width: 2;
+    }
+
+    .incident {
+        fill: rgba(220, 38, 38, 0.8);
+        stroke: white;
+        stroke-width: 1.5;
+        r: 5;
+        transition: all 0.3s ease;
+    }
+
+    .incident:hover {
+        r: 7;
+        fill: rgba(220, 38, 38, 1);
+        stroke-width: 2;
+    }
+
+    .state-highlight {
+        fill: #fecaca !important;
+        stroke: #dc2626 !important;
+        stroke-width: 3px !important;
+    }
+
+    text {
+        font-size: 9px;
+        text-anchor: middle;
+        fill: #1f2937;
+        pointer-events: none;
+        font-weight: 500;
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-            color: #374151;
+            height: auto;
+            overflow: auto; /* Auf Mobile wieder scrollen erlauben */
         }
-
+        
         .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: 300px 1fr;
-            gap: 24px;
-            min-height: calc(100vh - 40px);
+            height: auto;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
         }
-
-        /* Header Card */
-        .header-card {
-            grid-column: 1 / -1;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 24px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            text-align: center;
-        }
-
-        .header-content h1 {
-            font-size: 28px;
-            font-weight: 700;
-            color: #1f2937;
-            margin-bottom: 8px;
-        }
-
-        .header-content .subtitle {
-            font-size: 16px;
-            color: #6b7280;
-            font-weight: 400;
-        }
-
-        /* Sidebar Card */
+        
         .sidebar-card {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 24px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
+            order: 2;
         }
-
-        .card-title {
-            font-size: 18px;
-            font-weight: 600;
-            color: #1f2937;
-            margin-bottom: 8px;
-        }
-
-        .date-inputs {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-
-        .date-group {
-            display: flex;
-            flex-direction: column;
-            gap: 6px;
-        }
-
-        .date-group label {
-            font-size: 14px;
-            font-weight: 500;
-            color: #4b5563;
-        }
-
-        .date-input {
-            padding: 12px;
-            border: 2px solid #e5e7eb;
-            border-radius: 8px;
-            font-size: 14px;
-            transition: all 0.2s ease;
-            background: white;
-        }
-
-        .date-input:focus {
-            outline: none;
-            border-color: #3b82f6;
-            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
-        }
-
-        .filter-buttons {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 8px;
-        }
-
-        .filter-btn {
-            padding: 12px 16px;
-            border: none;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            background: #f8fafc;
-            color: #4b5563;
-            border: 2px solid #e5e7eb;
-        }
-
-        .filter-btn:hover {
-            background: #3b82f6;
-            color: white;
-            border-color: #3b82f6;
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
-        }
-
-        .filter-btn.active {
-            background: #3b82f6;
-            color: white;
-            border-color: #3b82f6;
-        }
-
-        /* Link Buttons */
-        .link-btn {
-            display: block;
-            padding: 14px 20px;
-            text-align: center;
-            text-decoration: none;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            border: 2px solid;
-        }
-
-        .link-btn.datenquelle {
-            background: #f0fdf4;
-            color: #15803d;
-            border-color: #86efac;
-        }
-
-        .link-btn.datenquelle:hover {
-            background: #15803d;
-            color: white;
-            border-color: #15803d;
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(21, 128, 61, 0.3);
-        }
-
-        .link-btn.paypal {
-            background: linear-gradient(135deg, #0070ba, #1546a0);
-            color: white;
-            border-color: #0070ba;
-        }
-
-        .link-btn.paypal:hover {
-            background: linear-gradient(135deg, #005a94, #103a7f);
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4);
-        }
-
-        .state-info-card {
-            background: linear-gradient(135deg, #dc2626, #ef4444);
-            color: white;
-            padding: 20px;
-            border-radius: 12px;
-            text-align: center;
-            min-height: 120px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-
-        .state-info-card h3 {
-            font-size: 14px;
-            font-weight: 600;
-            margin-bottom: 12px;
-            opacity: 0.9;
-        }
-
-        .state-count {
-            font-size: 24px;
-            font-weight: 700;
-        }
-
-        /* Map Card */
+        
         .map-card {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 24px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            display: flex;
-            flex-direction: column;
+            order: 1;
+            min-height: 500px;
         }
 
-        .map-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-
-        .map-title {
-            font-size: 20px;
-            font-weight: 600;
-            color: #1f2937;
-        }
-
-        .vorfälle-count {
-            font-size: 18px;
-            font-weight: 600;
-            color: #dc2626;
-        }
-
-        .map-container {
-            flex: 1;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-            overflow: hidden;
-            position: relative;
-        }
-
-        #map {
-            width: 100%;
-            height: 100%;
-            background: #f8fafc;
-        }
-
-        /* Footer */
         .footer {
-            grid-column: 1 / -1;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 20px 24px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            text-align: center;
+            order: 3;
         }
-
-        .footer-links {
-            display: flex;
-            justify-content: center;
-            gap: 24px;
-            flex-wrap: wrap;
-        }
-
-        .footer-link {
-            color: #6b7280;
-            text-decoration: none;
-            font-size: 14px;
-            font-weight: 500;
-            transition: all 0.2s ease;
-            position: relative;
-        }
-
-        .footer-link:hover {
-            color: #3b82f6;
-        }
-
-        .footer-link::after {
-            content: '';
-            position: absolute;
-            bottom: -2px;
-            left: 0;
-            width: 0;
-            height: 2px;
-            background: #3b82f6;
-            transition: width 0.2s ease;
-        }
-
-        .footer-link:hover::after {
-            width: 100%;
-        }
-
-        /* Map Elements */
-        .state {
-            fill: white;
-            stroke: #d1d5db;
-            stroke-width: 1;
-            transition: all 0.3s ease;
-        }
-
-        .state:hover {
-            fill: #fef2f2;
-            stroke: #dc2626;
-            stroke-width: 2;
-        }
-
-        .incident {
-            fill: rgba(220, 38, 38, 0.8);
-            stroke: white;
-            stroke-width: 1.5;
-            r: 5;
-            transition: all 0.3s ease;
-        }
-
-        .incident:hover {
-            r: 7;
-            fill: rgba(220, 38, 38, 1);
-            stroke-width: 2;
-        }
-
-        .state-highlight {
-            fill: #fecaca !important;
-            stroke: #dc2626 !important;
-            stroke-width: 3px !important;
-        }
-
-        text {
-            font-size: 9px;
-            text-anchor: middle;
-            fill: #1f2937;
-            pointer-events: none;
-            font-weight: 500;
-        }
-
-        /* Responsive */
-        @media (max-width: 1024px) {
-            .container {
-                grid-template-columns: 1fr;
-            }
-            
-            .sidebar-card {
-                order: 2;
-            }
-            
-            .map-card {
-                order: 1;
-                min-height: 500px;
-            }
-
-            .footer {
-                order: 3;
-            }
-        }
-    </style>
+    }
+</style>
 </head>
 <body>
     <div class="container">
@@ -704,5 +730,6 @@
     </script>
 </body>
 </html>
+
 
 

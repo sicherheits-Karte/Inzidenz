@@ -3208,3 +3208,17 @@
 //{"coords": [], "date": "2025-12-08"} // Thallichtenberg, Einbrecher
 //{"coords": [], "date": "2025-12-08"} // Much, Raub
 //{"coords": [], "date": "2025-12-08"} // Bad Berleburg, eingebrochen
+{"coords": [9.8372, 54.4714], "date": "2025-12-08"}, // Eckernförde, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-12-08"}, // Produktionshalle Freiburg, Einbruch
+{"coords": [8.2711, 50.0], "date": "2025-12-08"}, // Gonsenheim Mainz, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2025-12-08"}, // Kassel, Dieb
+{"coords": [8.0, 51.45], "date": "2025-12-08"}, // Arnsberg, Einbrüche
+//{"coords": [], "date": "2025-12-08"} // Lippe, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Lippe, Einbrecher
+{"coords": [7.1508, 51.2562], "date": "2025-12-08"}, // Wuppertal, Raub
+{"coords": [7.6, 49.2], "date": "2025-12-08"}, // Terrasse Pirmasens, Einbrecher
+{"coords": [7.82, 47.99], "date": "2025-12-08"}, // Wohnung Freiburg, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Wagshurst, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-08"}, // Versuchter Tageswohnungseinbruch Freiburg, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-12-08"}, // Rotenburg, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Transporter Schafstedt, stehlen

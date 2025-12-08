@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Datenquellen & Methodik - Einbrüche Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+            color: #374151;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 40px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        h1 {
+            font-size: 32px;
+            margin-bottom: 24px;
+            color: #1f2937;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 16px;
+        }
+
+        h2 {
+            font-size: 22px;
+            margin-top: 32px;
+            margin-bottom: 16px;
+            color: #1f2937;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        p {
+            margin-bottom: 16px;
+            color: #4b5563;
+        }
+
+        ul {
+            margin-bottom: 24px;
+            padding-left: 24px;
+            color: #4b5563;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .step-card {
+            background: #f9fafb;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .step-title {
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        .back-btn {
+            display: inline-block;
+            margin-bottom: 24px;
+            padding: 10px 20px;
+            background: #f3f4f6;
+            color: #4b5563;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: all 0.2s ease;
+        }
+
+        .back-btn:hover {
+            background: #e5e7eb;
+            color: #1f2937;
+            text-decoration: none;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 4px 8px;
+            background: #e0e7ff;
+            color: #4338ca;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-right: 6px;
+        }
+        
+        .placeholder {
+            background-color: #fef3c7;
+            padding: 2px 5px;
+            border-radius: 4px;
+            color: #92400e;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-btn">← Zurück zum Dashboard</a>
+        
+        <h1>Datenquellen & Methodik</h1>
+        <p>Transparenz ist uns wichtig. Hier erfahren Sie, woher die Daten stammen, wie sie verarbeitet werden und welche Technologien wir einsetzen.</p>
+
+        <h2>1. Die Datenquelle</h2>
+        <p>Die auf dieser Karte dargestellten Vorfälle basieren auf öffentlich zugänglichen Informationen.</p>
+        <div class="step-card">
+            <span class="step-title">Primärquelle:</span>
+            <p>Die Daten werden aus <span class="placeholder">[Name der Quelle, z.B. Presseportal der Polizei / LKA Statistik]</span> bezogen. <br>
+            <small>Link zur Quelle: <a href="#" target="_blank"><span class="placeholder">[Hier Link einfügen]</span></a></small></p>
+            <p><em>Hinweis: Dies ist keine offizielle Seite einer Behörde, sondern ein privates Projekt zur Visualisierung öffentlicher Daten.</em></p>
+        </div>
+
+        <h2>2. Die technische Verarbeitung</h2>
+        <p>Der Prozess von der Datenquelle bis zur Karte läuft vollautomatisiert ab:</p>
+
+        <div class="step-card">
+            <span class="step-title">Schritt 1: Datenerhebung (Scraping)</span>
+            <p>Ein Python-Skript (<code>main.py</code>) prüft regelmäßig die Quellen auf neue Meldungen zu Einbrüchen und Diebstählen. Relevante Texte werden extrahiert und strukturiert.</p>
+        </div>
+
+        <div class="step-card">
+            <span class="step-title">Schritt 2: Geokodierung</span>
+            <p>Damit die Vorfälle auf der Karte angezeigt werden können, müssen Ortsnamen in Koordinaten umgewandelt werden. Das Skript <code>koordinaten.py</code> nutzt Geodaten, um den Ort des Geschehens bestmöglich zu bestimmen.</p>
+        </div>
+
+        <div class="step-card">
+            <span class="step-title">Schritt 3: Bereitstellung</span>
+            <p>Die bereinigten Daten werden als JSON-Objekte aufbereitet und via GitHub Pages ausgeliefert. Das Frontend (die Karte) lädt diese Daten direkt in Ihren Browser.</p>
+        </div>
+
+        <h2>3. Aktualisierung</h2>
+        <p>Das System aktualisiert sich automatisch über GitHub Actions (CI/CD Pipeline). </p>
+        <ul>
+            <li><strong>Frequenz:</strong> Die Daten werden <span class="placeholder">[z.B. täglich um 08:00 Uhr / alle 6 Stunden]</span> aktualisiert.</li>
+            <li><strong>Zeitraum:</strong> Das Dashboard zeigt standardmäßig aktuelle Daten an, lässt sich aber über den Kalender filtern.</li>
+        </ul>
+
+        <h2>4. Verwendete Technologien</h2>
+        <p>Dieses Projekt ist Open Source und nutzt folgende Technologien:</p>
+        <p>
+            <span class="tag">Python</span>
+            <span class="tag">GitHub Actions</span>
+            <span class="tag">D3.js</span>
+            <span class="tag">HTML5/CSS3</span>
+            <span class="tag">GeoJSON</span>
+        </p>
+
+        <h2>5. Haftungsausschluss</h2>
+        <p>Trotz sorgfältiger Verarbeitung können Fehler bei der automatischen Geokodierung oder der Datenerfassung auftreten. Die Positionen auf der Karte sind oft Näherungswerte (z.B. Ortsmitte), um keine exakten Adressen von Betroffenen preiszugeben. Alle Angaben sind ohne Gewähr.</p>
+
+    </div>
+</body>
+</html>

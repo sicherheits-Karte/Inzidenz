@@ -6,6 +6,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
+
 * {
             margin: 0;
             padding: 0;
@@ -80,8 +81,8 @@
         }
 
         .date-inputs {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
+            display: flex;
+            flex-direction: column;
             gap: 12px;
         }
 
@@ -379,6 +380,12 @@
                 max-height: none;
                 overflow-y: visible;
             }
+
+            .date-inputs {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
             
             .map-card {
                 order: 1;
@@ -485,6 +492,8 @@
                 font-size: 8px;
             }
         }
+
+        
     </style>
 </head>
 <body>
@@ -831,6 +840,7 @@
     </script>
 </body>
 </html>
+
 
 
 

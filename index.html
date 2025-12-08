@@ -1,12 +1,3 @@
-Das "Rappeln" passiert, weil der Button, wenn er ausgeblendet ist (`display: none`), keinen Platz wegnimmt. Sobald er erscheint, schiebt er alles andere zur Seite oder nach oben. Außerdem ändert sich die Höhe der Überschrift bei langen Namen (z.B. "Mecklenburg-Vorpommern" = 2 Zeilen) vs. kurzen Namen ("Berlin" = 1 Zeile).
-
-**Die Lösung:**
-
-1.  Wir reservieren **immer** Platz für den Button, auch wenn er unsichtbar ist (`visibility: hidden` statt `display: none`).
-2.  Wir geben der Überschrift eine **feste Mindesthöhe**, damit sie bei zwei Zeilen nicht das Layout sprengt.
-3.  Die rote Box bekommt eine **feste Fix-Höhe**.
-
-Hier ist der reparierte Code. Es wackelt jetzt nichts mehr.
 
 ```html
 <!DOCTYPE html>
@@ -696,3 +687,4 @@ Hier ist der reparierte Code. Es wackelt jetzt nichts mehr.
 </body>
 </html>
 ```
+

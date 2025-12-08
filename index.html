@@ -6,7 +6,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-
         * {
             margin: 0;
             padding: 0;
@@ -595,8 +594,6 @@
                 font-size: 8px;
             }
         }
-
-        
     </style>
 </head>
 <body>
@@ -749,8 +746,10 @@
                         id: i,
                         coords: d.coords,
                         date: d.date,
-                        // Versuche Stadtname zu finden, sonst Fallback
-                        city: d.stadt || d.city || d.ort || d.location || `Unbekannter Ort` 
+                        // HIER IST DIE ÄNDERUNG:
+                        // Das Dashboard liest jetzt das Feld 'stadt', 'city' oder 'ort' aus deiner Datendatei.
+                        // Falls dein Script das nicht liefert, wird "Unbekannter Ort" angezeigt.
+                        city: d.stadt || d.city || d.ort || d.name || "Unbekannter Ort" 
                     }));
                 
                 updateIncidents();
@@ -958,9 +957,6 @@
                     if (selectedStateFeature !== d) {
                         d3.select(this).classed("state-highlight", true);
                     }
-                    // Info nur aktualisieren beim Hovern, wenn noch nichts geklickt wurde, 
-                    // oder um temporär zu sehen (optional). 
-                    // Hier: Update nur wenn nichts ausgewählt oder zum preview.
                     if (!selectedStateFeature) {
                         updateStateInfo(d);
                     }
@@ -989,7 +985,6 @@
                     const btn = document.getElementById("showDetailsBtn");
                     btn.style.display = "block";
                     const stateName = d.properties.NAME_1 || d.properties.name;
-                    // Button Text anpassen (optional, aber hübsch)
                     btn.textContent = `📍 Daten für ${stateName} anschauen`;
                 });
 

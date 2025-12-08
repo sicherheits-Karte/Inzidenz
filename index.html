@@ -2,454 +2,705 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Einbrüche Dashboard</title>
+    <title>Einbrüche & Diebstähle Dashboard</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        /* =========================================
-           BASIS (Gilt für alle)
-           ========================================= */
-        :root {
-            --bg-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            --card-bg: rgba(255, 255, 255, 0.96);
-            --primary: #3b82f6;
-            --danger: #dc2626;
-            --text-main: #1f2937;
-            --text-muted: #6b7280;
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 
         body {
-            font-family: 'Inter', sans-serif;
-            background: var(--bg-gradient);
-            color: var(--text-main);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #374151;
         }
 
-        /* Gemeinsame Styles für Karten */
-        .card {
-            background: var(--card-bg);
-            border-radius: 16px;
-            padding: 16px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 24px;
+            min-height: calc(100vh - 40px);
+        }
+
+        /* Header Card */
+        .header-card {
+            grid-column: 1 / -1;
+            background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            text-align: center;
         }
 
-        /* Button & Input Styles */
-        button, input, a.link-btn {
-            font-family: inherit;
-            border-radius: 10px;
-            border: 1px solid #e5e7eb;
+        .header-content h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #1f2937;
+            margin-bottom: 8px;
+        }
+
+        .header-content .subtitle {
+            font-size: 16px;
+            color: #6b7280;
+            font-weight: 400;
+        }
+
+        /* Sidebar Card */
+        .sidebar-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .card-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 8px;
+        }
+
+        .date-inputs {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .date-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .date-group label {
             font-size: 14px;
-            transition: all 0.2s;
-        }
-        
-        input[type="date"] {
-            width: 100%;
-            padding: 10px;
-            background: #fff;
-            color: var(--text-main);
+            font-weight: 500;
+            color: #4b5563;
         }
 
-        .btn-group {
+        .date-input {
+            padding: 12px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.2s ease;
+            background: white;
+        }
+
+        .date-input:focus {
+            outline: none;
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        }
+
+        .filter-buttons {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 8px;
         }
 
-        .action-btn {
-            padding: 10px;
-            background: #f8fafc;
-            color: var(--text-muted);
-            cursor: pointer;
-            font-weight: 600;
-            text-align: center;
-        }
-        
-        .action-btn.active, .action-btn:hover {
-            background: var(--primary);
-            color: white;
-            border-color: var(--primary);
-        }
-
-        .link-btn {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 12px;
-            text-decoration: none;
-            font-weight: 600;
-            margin-top: 8px;
-        }
-        
-        .state-box {
-            margin-top: 16px;
-            padding: 12px;
-            background: #fff;
-            border-left: 4px solid var(--danger);
+        .filter-btn {
+            padding: 12px 16px;
+            border: none;
             border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            background: #f8fafc;
+            color: #4b5563;
+            border: 2px solid #e5e7eb;
         }
 
-        /* Map Styling */
-        #map-container {
-            width: 100%;
-            height: 100%;
-            background: #f1f5f9;
+        .filter-btn:hover {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+        }
+
+        .filter-btn.active {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+        }
+
+        /* Link Buttons */
+        .link-btn {
+            display: block;
+            padding: 14px 20px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border: 2px solid;
+        }
+
+        .link-btn.datenquelle {
+            background: #f0fdf4;
+            color: #15803d;
+            border-color: #86efac;
+        }
+
+        .link-btn.datenquelle:hover {
+            background: #15803d;
+            color: white;
+            border-color: #15803d;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(21, 128, 61, 0.3);
+        }
+
+        .link-btn.paypal {
+            background: linear-gradient(135deg, #0070ba, #1546a0);
+            color: white;
+            border-color: #0070ba;
+        }
+
+        .link-btn.paypal:hover {
+            background: linear-gradient(135deg, #005a94, #103a7f);
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4);
+        }
+
+        .state-info-card {
+            background: linear-gradient(135deg, #dc2626, #ef4444);
+            color: white;
+            padding: 20px;
             border-radius: 12px;
+            text-align: center;
+            min-height: 120px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .state-info-card h3 {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            opacity: 0.9;
+        }
+
+        .state-count {
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        /* Map Card */
+        .map-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .map-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .map-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+
+        .vorfälle-count {
+            font-size: 18px;
+            font-weight: 600;
+            color: #dc2626;
+        }
+
+        .map-container {
+            flex: 1;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
             overflow: hidden;
             position: relative;
         }
-        .state { fill: white; stroke: #cbd5e1; stroke-width: 1px; transition: 0.3s; cursor: pointer; }
-        .state:hover { fill: #fee2e2; stroke: var(--danger); stroke-width: 2px; }
-        .state-highlight { fill: #fecaca !important; stroke: var(--danger) !important; stroke-width: 2px !important; }
-        .incident { fill: rgba(220, 38, 38, 0.7); pointer-events: none; }
 
-
-        /* =========================================
-           DESKTOP ANSICHT (> 900px)
-           Ziel: Alles fixiert, kein Scrollen
-           ========================================= */
-        @media (min-width: 901px) {
-            body {
-                height: 100vh;
-                overflow: hidden; /* Scrollen verboten */
-                padding: 20px;
-                display: flex;
-                flex-direction: column;
-            }
-
-            .main-layout {
-                flex: 1;
-                display: grid;
-                grid-template-columns: 320px 1fr; /* Linke Spalte fix, Rest Karte */
-                grid-template-rows: auto 1fr auto; /* Header, Content, Footer */
-                gap: 20px;
-                height: 100%;
-            }
-
-            /* Header geht über volle Breite */
-            .header-area {
-                grid-column: 1 / -1;
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                padding: 12px 24px;
-            }
-
-            /* Sidebar links */
-            .sidebar-area {
-                grid-column: 1;
-                grid-row: 2;
-                display: flex;
-                flex-direction: column;
-                gap: 16px;
-                overflow-y: auto; /* Falls Inhalt zu hoch, scrollt nur Sidebar */
-            }
-
-            /* Karte rechts */
-            .map-area {
-                grid-column: 2;
-                grid-row: 2;
-                display: flex;
-                flex-direction: column;
-                overflow: hidden; /* Wichtig für Map-Resize */
-            }
-
-            /* Footer unten */
-            .footer-area {
-                grid-column: 1 / -1;
-                text-align: center;
-                padding: 8px;
-                font-size: 12px;
-            }
+        #map {
+            width: 100%;
+            height: 100%;
+            background: #f8fafc;
         }
 
+        /* Footer */
+        .footer {
+            grid-column: 1 / -1;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 20px 24px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            text-align: center;
+        }
 
-        /* =========================================
-           HANDY ANSICHT (< 900px)
-           Ziel: Scrollbar, Große Buttons, Lesbarkeit
-           ========================================= */
-        @media (max-width: 900px) {
-            body {
-                min-height: 100vh;
-                padding: 12px;
-                overflow-y: auto; /* Scrollen erlauben */
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 24px;
+            flex-wrap: wrap;
+        }
+
+        .footer-link {
+            color: #6b7280;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .footer-link:hover {
+            color: #3b82f6;
+        }
+
+        .footer-link::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: #3b82f6;
+            transition: width 0.2s ease;
+        }
+
+        .footer-link:hover::after {
+            width: 100%;
+        }
+
+        /* Map Elements */
+        .state {
+            fill: white;
+            stroke: #d1d5db;
+            stroke-width: 1;
+            transition: all 0.3s ease;
+        }
+
+        .state:hover {
+            fill: #fef2f2;
+            stroke: #dc2626;
+            stroke-width: 2;
+        }
+
+        .incident {
+            fill: rgba(220, 38, 38, 0.8);
+            stroke: white;
+            stroke-width: 1.5;
+            r: 5;
+            transition: all 0.3s ease;
+        }
+
+        .incident:hover {
+            r: 7;
+            fill: rgba(220, 38, 38, 1);
+            stroke-width: 2;
+        }
+
+        .state-highlight {
+            fill: #fecaca !important;
+            stroke: #dc2626 !important;
+            stroke-width: 3px !important;
+        }
+
+        text {
+            font-size: 9px;
+            text-anchor: middle;
+            fill: #1f2937;
+            pointer-events: none;
+            font-weight: 500;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 1fr;
             }
-
-            .main-layout {
-                display: flex;
-                flex-direction: column;
-                gap: 16px;
-            }
-
-            /* Reihenfolge auf dem Handy ändern */
-            .header-area { order: 1; text-align: center; }
-            .map-area    { order: 2; height: 50vh; min-height: 400px; } /* Karte ist hoch genug */
-            .sidebar-area{ order: 3; }
-            .footer-area { order: 4; text-align: center; padding-bottom: 20px; }
-
-            /* Anpassungen für Touch-Bedienung */
-            .action-btn { padding: 14px; font-size: 15px; } /* Größere Touch-Flächen */
-            input[type="date"] { padding: 12px; font-size: 16px; }
-            h1 { font-size: 20px; }
             
-            /* Footer Links mit Abstand */
-            .footer-area a {
-                display: inline-block;
-                padding: 10px;
-                color: rgba(255,255,255,0.8);
-                text-decoration: none;
+            .sidebar-card {
+                order: 2;
+            }
+            
+            .map-card {
+                order: 1;
+                min-height: 500px;
+            }
+
+            .footer {
+                order: 3;
             }
         }
     </style>
 </head>
 <body>
-
-    <div class="main-layout">
-        
-        <div class="card header-area">
-            <div>
-                <h1 style="font-size: 1.5rem; font-weight: 700; color: #111;">Einbrüche & Diebstähle</h1>
-                <div style="color: #666; font-size: 0.9rem;">Live Dashboard Deutschland</div>
-            </div>
-            <div id="desktop-count" style="font-size: 1.2rem; font-weight: 700; color: var(--danger); display: none;">
-                0 Vorfälle
+    <div class="container">
+        <!-- Header Card -->
+        <div class="header-card">
+            <div class="header-content">
+                <h1>Einbrüche & Diebstähle Dashboard</h1>
+                <div class="subtitle">Echtzeit-Überwachung von Vorfällen in Deutschland</div>
             </div>
         </div>
 
-        <div class="card sidebar-area">
+        <!-- Sidebar Card -->
+        <div class="sidebar-card">
             <div>
-                <h3 style="margin-bottom: 8px; font-size: 0.9rem; text-transform: uppercase; color: #888;">Zeitraum</h3>
-                <div style="display: flex; flex-direction: column; gap: 10px;">
-                    <input type="date" id="fromDate">
-                    <input type="date" id="toDate">
+                <h3 class="card-title">Zeitfilter</h3>
+                <div class="date-inputs">
+                    <div class="date-group">
+                        <label for="fromDate">Von</label>
+                        <input type="date" id="fromDate" class="date-input">
+                    </div>
+                    <div class="date-group">
+                        <label for="toDate">Bis</label>
+                        <input type="date" id="toDate" class="date-input">
+                    </div>
                 </div>
             </div>
 
             <div>
-                <h3 style="margin-bottom: 8px; font-size: 0.9rem; text-transform: uppercase; color: #888;">Schnellfilter</h3>
-                <div class="btn-group">
-                    <button class="action-btn active" id="todayBtn">Heute</button>
-                    <button class="action-btn" id="weekBtn">Woche</button>
-                    <button class="action-btn" id="monthBtn">Monat</button>
-                    <button class="action-btn" id="yearBtn">Jahr</button>
+                <h3 class="card-title">Schnellfilter</h3>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" id="todayBtn">Heute</button>
+                    <button class="filter-btn" id="weekBtn">Diese Woche</button>
+                    <button class="filter-btn" id="monthBtn">Dieser Monat</button>
+                    <button class="filter-btn" id="yearBtn">Dieses Jahr</button>
                 </div>
             </div>
 
-            <div class="state-box">
-                <div style="font-size: 10px; text-transform: uppercase; color: #991b1b; font-weight: 700;">Ausgewähltes Gebiet</div>
-                <div id="stateInfo" style="font-size: 18px; font-weight: 700; color: #111; margin-top: 4px;">-</div>
+            <!-- Datenquelle Button -->
+            <div>
+                <a href="daten.html" class="link-btn datenquelle">📊 Datenquelle</a>
             </div>
 
-            <div style="margin-top: auto; display: flex; flex-direction: column; gap: 8px;">
-                <a href="daten.html" class="link-btn" style="background: #ecfdf5; color: #047857; border-color: #a7f3d0;">
-                    📊 Datenquelle
-                </a>
-                <a href="https://www.paypal.com/paypalme/JulianKircher231" class="link-btn" style="background: #0070ba; color: white; border-color: #0070ba;">
-                    ☕ Unterstützen
-                </a>
+            <!-- PayPal Button -->
+            <div>
+                <a href="https://www.paypal.com/paypalme/JulianKircher231" class="link-btn paypal">☕ Unterstützen via PayPal</a>
+            </div>
+
+            <div class="state-info-card">
+                <h3>Ausgewähltes Bundesland</h3>
+                <div class="state-count" id="stateInfo">-</div>
             </div>
         </div>
 
-        <div class="card map-area">
-            <div style="display: flex; justify-content: space-between; margin-bottom: 10px; align-items: center;">
-                <h3 style="font-size: 1.1rem; font-weight: 600;">Deutschlandkarte</h3>
-                <span id="map-count" style="color: var(--danger); font-weight: 700;">Lade...</span>
+        <!-- Map Card -->
+        <div class="map-card">
+            <div class="map-header">
+                <div class="map-title">Deutschland Karte</div>
+                <div class="vorfälle-count" id="countDisplay">0 Vorfälle</div>
             </div>
-            <div id="map-container">
+            <div class="map-container">
                 <svg id="map"></svg>
             </div>
         </div>
 
-        <div class="footer-area card">
-            <a href="impressum.html">Impressum</a> • <a href="datenschutz.html">Datenschutz</a>
+        <!-- Footer -->
+        <div class="footer">
+            <div class="footer-links">
+                <a href="impressum.html" class="footer-link">Impressum</a>
+                <span style="color: #d1d5db;">|</span>
+                <a href="datenschutz.html" class="footer-link">Datenschutz</a>
+            </div>
         </div>
-
     </div>
 
     <script>
-        // Initiale Einstellungen
         const svg = d3.select("#map");
-        const g = svg.append("g");
         
-        // Deutschland Projektion
         const projection = d3.geoMercator()
             .center([10.5, 51.0])
-            .scale(2000)
+            .scale(2600)
             .translate([0, 0]);
 
         const path = d3.geoPath().projection(projection);
 
-        // Zoom Funktion
         const zoom = d3.zoom()
-            .scaleExtent([0.5, 8])
-            .on("zoom", (event) => g.attr("transform", event.transform));
-        
+            .scaleExtent([0.5, 12])
+            .on("zoom", (event) => {
+                g.attr("transform", event.transform);
+                const scale = event.transform.k;
+                svg.selectAll("text").style("display", scale > 2 ? "block" : "none");
+            });
+
         svg.call(zoom);
+        const g = svg.append("g");
 
-        // Resize Logic
-        function updateMapSize() {
-            const container = document.getElementById('map-container');
-            if(!container) return;
-            
-            const width = container.clientWidth;
-            const height = container.clientHeight;
-            
-            svg.attr("width", width).attr("height", height);
-            
-            // Zentrieren je nach Bildschirmgröße anpassen
-            const scaleFactor = Math.min(width, height) * 5; 
-            projection.scale(scaleFactor > 2000 ? scaleFactor : (width < 500 ? 2500 : 3000));
-            projection.translate([width / 2, height / 2]);
-            
-            g.selectAll("path").attr("d", path);
-            updateIncidents(); // Punkte neu berechnen
-        }
-
-        // Daten Logik
         let incidents = [];
         let statesData = [];
 
-        // Datum Inputs setzen
-        const today = new Date();
-        const formatDate = d => d.toISOString().split('T')[0];
-        
-        document.getElementById("fromDate").value = formatDate(today);
-        document.getElementById("toDate").value = formatDate(today);
-
-        // Event Listener für Buttons
-        document.querySelectorAll('.action-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                document.querySelectorAll('.action-btn').forEach(b => b.classList.remove('active'));
-                e.target.classList.add('active');
-                
-                const id = e.target.id;
-                const end = new Date();
-                let start = new Date();
-
-                if (id === 'weekBtn') start.setDate(end.getDate() - 7);
-                if (id === 'monthBtn') start.setMonth(end.getMonth() - 1);
-                if (id === 'yearBtn') start.setFullYear(end.getFullYear() - 1);
-                
-                document.getElementById("fromDate").value = formatDate(start);
-                document.getElementById("toDate").value = formatDate(end);
+        function updateMapSize() {
+            const container = document.querySelector('.map-container');
+            const containerWidth = container.clientWidth;
+            const containerHeight = container.clientHeight;
+            
+            svg.attr("width", containerWidth)
+               .attr("height", containerHeight);
+            
+            projection.translate([containerWidth / 2, containerHeight / 2]);
+            
+            if (statesData.length > 0) {
+                g.selectAll("path").attr("d", path);
                 updateIncidents();
-            });
-        });
-
-        document.getElementById("fromDate").addEventListener("change", updateIncidents);
-        document.getElementById("toDate").addEventListener("change", updateIncidents);
-
-        // Daten laden
-        async function loadData() {
-            try {
-                // GeoJSON laden
-                if(statesData.length === 0) {
-                    const geoRes = await fetch("https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json");
-                    const geoJson = await geoRes.json();
-                    statesData = geoJson.features;
-                    
-                    g.selectAll("path")
-                        .data(statesData)
-                        .enter().append("path")
-                        .attr("class", "state")
-                        .attr("d", path)
-                        .on("mouseover", function(e, d) {
-                            d3.select(this).classed("state-highlight", true);
-                            const count = countInState(d);
-                            document.getElementById("stateInfo").innerText = `${d.properties.NAME_1}: ${count}`;
-                        })
-                        .on("mouseout", function() {
-                            d3.select(this).classed("state-highlight", false);
-                            document.getElementById("stateInfo").innerText = "-";
-                        });
-                }
-
-                // Vorfälle laden
-                const ts = new Date().getTime();
-                const res = await fetch(`./data/einbrueche_diebstaehle.txt?t=${ts}`);
-                if (!res.ok) throw new Error("Daten konnten nicht geladen werden");
-                
-                const text = await res.text();
-                // Parsing Logic (angepasst an dein Format)
-                const rawData = text.split('\n')
-                    .map(l => l.split('//')[0].trim())
-                    .filter(l => l.startsWith('{') && l.endsWith('}'));
-                
-                const jsonStr = `[${rawData.join(',')}]`;
-                const parsed = JSON.parse(jsonStr);
-                
-                incidents = parsed.filter(d => d.coords && d.coords.length === 2)
-                    .map((d, i) => ({ ...d, id: i }));
-
-                updateIncidents();
-
-            } catch(e) {
-                console.error(e);
-                document.getElementById("map-count").innerText = "Datenfehler";
             }
         }
 
-        // Punkt in Polygon Test (Ray Casting)
-        function isPointInPoly(pt, poly) {
+        async function loadIncidents() {
+            try {
+                const timestamp = new Date().getTime();
+                const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${timestamp}`);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const text = await response.text();
+                const lines = text.split('\n');
+                const cleanedLines = [];
+                
+                for (let line of lines) {
+                    let cleaned = line.split('//')[0].split('#')[0].trim();
+                    
+                    if (cleaned && cleaned.includes('{') && cleaned.includes('}')) {
+                        cleanedLines.push(cleaned);
+                    }
+                }
+                
+                const jsonText = `[${cleanedLines.join('\n').replace(/,\s*$/, '')}]`;
+                const data = JSON.parse(jsonText);
+                
+                incidents = data
+                    .filter(d => d.coords && d.coords.length === 2)
+                    .map((d, i) => ({
+                        id: i,
+                        coords: d.coords,
+                        date: d.date,
+                        city: `Vorfall ${i + 1}`
+                    }));
+                
+                updateIncidents();
+                
+            } catch (error) {
+                console.error('Fehler beim Laden der Daten:', error);
+            }
+        }
+
+        function formatDate(date) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        const today = new Date();
+        const todayStr = formatDate(today);
+        const fromInput = document.getElementById("fromDate");
+        const toInput = document.getElementById("toDate");
+
+        fromInput.value = todayStr;
+        toInput.value = todayStr;
+
+        function updateIncidents() {
+            const from = fromInput.value;
+            const to = toInput.value;
+            if (!from || !to) return;
+
+            const filtered = incidents.filter(d => d.date >= from && d.date <= to);
+            
+            document.getElementById("countDisplay").textContent = `${filtered.length} Vorfälle`;
+
+            const points = g.selectAll(".incident")
+                .data(filtered, d => d.id);
+
+            points.exit().remove();
+
+            points.enter()
+                .append("circle")
+                .attr("class", "incident")
+                .attr("r", 5)
+                .attr("opacity", 0.85)
+                .merge(points)
+                .attr("cx", d => {
+                    const projected = projection(d.coords);
+                    return projected ? projected[0] : 0;
+                })
+                .attr("cy", d => {
+                    const projected = projection(d.coords);
+                    return projected ? projected[1] : 0;
+                });
+        }
+
+        function isPointInPolygon(point, polygon) {
+            const [lng, lat] = point;
             let inside = false;
-            const x = pt[0], y = pt[1];
-            for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) {
-                const xi = poly[i][0], yi = poly[i][1];
-                const xj = poly[j][0], yj = poly[j][1];
-                const intersect = ((yi > y) != (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
+            
+            for (let i = 0, j = polygon.length - 1; i < polygon.length; j = i++) {
+                const [xi, yi] = polygon[i];
+                const [xj, yj] = polygon[j];
+                
+                const intersect = ((yi > lat) !== (yj > lat))
+                    && (lng < (xj - xi) * (lat - yi) / (yj - yi) + xi);
+                
                 if (intersect) inside = !inside;
             }
+            
             return inside;
         }
 
-        function countInState(stateFeature) {
-            const start = document.getElementById("fromDate").value;
-            const end = document.getElementById("toDate").value;
-            const activeIncidents = incidents.filter(d => d.date >= start && d.date <= end);
+        function getPolygonsFromGeometry(geometry) {
+            const polygons = [];
             
+            if (geometry.type === 'Polygon') {
+                polygons.push(geometry.coordinates[0]);
+            } else if (geometry.type === 'MultiPolygon') {
+                geometry.coordinates.forEach(polygon => {
+                    polygons.push(polygon[0]);
+                });
+            }
+            
+            return polygons;
+        }
+
+        function countIncidentsInState(stateFeature, incidents) {
             let count = 0;
-            const geometry = stateFeature.geometry;
-            const coords = geometry.type === 'Polygon' ? [geometry.coordinates[0]] : geometry.coordinates.map(p => p[0]);
+            const polygons = getPolygonsFromGeometry(stateFeature.geometry);
             
-            activeIncidents.forEach(inc => {
-                for(let poly of coords) {
-                    if(isPointInPoly(inc.coords, poly)) { count++; break; }
+            incidents.forEach(incident => {
+                const [lng, lat] = incident.coords;
+                
+                for (let polygon of polygons) {
+                    if (isPointInPolygon([lng, lat], polygon)) {
+                        count++;
+                        break;
+                    }
                 }
             });
+            
             return count;
         }
 
-        function updateIncidents() {
-            const start = document.getElementById("fromDate").value;
-            const end = document.getElementById("toDate").value;
-            const filtered = incidents.filter(d => d.date >= start && d.date <= end);
-            
-            // Counter aktualisieren
-            const txt = `${filtered.length} Vorfälle`;
-            document.getElementById("map-count").innerText = txt;
-            document.getElementById("desktop-count").innerText = txt;
+        fromInput.addEventListener("change", updateIncidents);
+        toInput.addEventListener("change", updateIncidents);
 
-            // Punkte zeichnen
-            const circles = g.selectAll("circle").data(filtered, d => d.id);
-            circles.exit().remove();
-            
-            circles.enter().append("circle")
-                .attr("class", "incident")
-                .attr("r", 4)
-                .merge(circles)
-                .attr("cx", d => projection(d.coords)[0])
-                .attr("cy", d => projection(d.coords)[1]);
+        function setActiveButton(activeBtn) {
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            activeBtn.classList.add('active');
         }
 
-        // Start
-        window.addEventListener('resize', updateMapSize);
-        loadData();
-        setInterval(loadData, 60000); // Auto-Refresh
-        setTimeout(updateMapSize, 500); // Fix für initiales Laden
+        document.getElementById("todayBtn").onclick = function() {
+            setActiveButton(this);
+            fromInput.value = todayStr;
+            toInput.value = todayStr;
+            updateIncidents();
+        };
 
+        document.getElementById("weekBtn").onclick = function() {
+            setActiveButton(this);
+            const today = new Date();
+            const startOfWeek = new Date(today);
+            const dayOfWeek = today.getDay();
+            const diffToMonday = dayOfWeek === 0 ? -6 : 1 - dayOfWeek;
+            startOfWeek.setDate(today.getDate() + diffToMonday);
+            
+            fromInput.value = formatDate(startOfWeek);
+            toInput.value = todayStr;
+            updateIncidents();
+        };
+
+        document.getElementById("monthBtn").onclick = function() {
+            setActiveButton(this);
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = now.getMonth();
+            const start = new Date(year, month, 1);
+            const end = new Date(year, month + 1, 0);
+            fromInput.value = formatDate(start);
+            toInput.value = formatDate(end);
+            updateIncidents();
+        };
+
+        document.getElementById("yearBtn").onclick = function() {
+            setActiveButton(this);
+            const year = today.getFullYear();
+            fromInput.value = `${year}-01-01`;
+            toInput.value = todayStr;
+            updateIncidents();
+        };
+
+        const geojsonURL = "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json";
+        d3.json(geojsonURL).then(data => {
+            statesData = data.features;
+            
+            const states = g.selectAll("path")
+                .data(data.features)
+                .enter()
+                .append("path")
+                .attr("class", "state")
+                .attr("d", path)
+                .on("mouseover", function(event, d) {
+                    d3.select(this).classed("state-highlight", true);
+                    
+                    const from = fromInput.value;
+                    const to = toInput.value;
+                    const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
+                    
+                    const count = countIncidentsInState(d, filtered);
+                    const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
+                    
+                    document.getElementById("stateInfo").textContent = 
+                        `${stateName}: ${count}`;
+                })
+                .on("mouseout", function() {
+                    d3.select(this).classed("state-highlight", false);
+                    document.getElementById("stateInfo").textContent = "-";
+                });
+
+            g.selectAll("text")
+                .data(data.features)
+                .enter()
+                .append("text")
+                .attr("x", d => path.centroid(d)[0])
+                .attr("y", d => path.centroid(d)[1])
+                .text(d => d.properties.NAME_1)
+                .style("display", "none");
+
+            loadIncidents();
+            
+            window.addEventListener('resize', updateMapSize);
+            setTimeout(updateMapSize, 100);
+        });
+
+        setInterval(loadIncidents, 2 * 60 * 1000);
     </script>
 </body>
 </html>

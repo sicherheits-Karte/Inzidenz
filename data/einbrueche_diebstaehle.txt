@@ -3173,3 +3173,7 @@
 {"coords": [7.0982, 50.7374], "date": "2025-12-08"}, // Bonn, Raub
 {"coords": [7.5336, 52.1728], "date": "2025-12-08"}, // Emsdetten, Einbruch
 //{"coords": [], "date": "2025-12-08"} // Elsen, Einbruch
+{"coords": [8.2711, 50.0], "date": "2025-12-08"}, // Mainz, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2025-12-08"}, // Darmstadt, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-12-08"}, // Wiedenbrück Gütersloh, Einbrüche
+{"coords": [7.82, 47.99], "date": "2025-12-08"}, // Fahndungsrücknahme Freiburg, Raub

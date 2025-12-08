@@ -180,7 +180,6 @@
         /* Map Elements */
         .state { fill: white; stroke: #d1d5db; stroke-width: 1; transition: all 0.3s ease; cursor: pointer; }
         .state:hover { fill: #fef2f2; stroke: #dc2626; stroke-width: 2; }
-        /* Klick Status */
         .state-selected { fill: #fca5a5 !important; stroke: #991b1b !important; stroke-width: 2px !important; }
 
         .incident { fill: rgba(220, 38, 38, 0.8); stroke: white; stroke-width: 1.5; r: 5; transition: all 0.3s ease; }
@@ -326,7 +325,7 @@
 
         let incidents = [];
         let statesData = [];
-        let selectedState = null; // Speichert das angeklickte Bundesland
+        let selectedState = null;
 
         function updateMapSize() {
             const container = document.querySelector('.map-container');
@@ -340,6 +339,41 @@
             }
         }
 
+        // --- HIER IST DIE NEUE REINIGUNGS-FUNKTION ---
+        function cleanLocationName(rawName) {
+            if (!rawName) return "Unbekannter Ort";
+            
+            // Liste der Wörter, die entfernt werden sollen (case-insensitive)
+            // Basiert auf deinem Screenshot und typischen Polizeimeldungen
+            const blacklist = [
+                "Polizei", "Presseportal", "Blaulicht", "News", "Aktuell",
+                "Zeugenaufruf", "Zeugen", "gesucht",
+                "Eigentumskriminalität", "Wohnungseinbruch", "Wohnungseinbrecherinnen",
+                "Einbruch", "Diebstahl", "Raub", "Überfall", "Festnahme", "Unfall",
+                "Kfz", "Lagerhalle", "Wohnhaus", "Praxisräume", "Einfamilienhaus", "Hütte", "Poser"
+            ];
+
+            let cleaned = rawName;
+            
+            // Entferne alle Wörter aus der Blacklist
+            blacklist.forEach(word => {
+                const regex = new RegExp(word, "gi"); // g=global, i=case insensitive
+                cleaned = cleaned.replace(regex, "");
+            });
+
+            // Entferne Kommas am Anfang oder Ende
+            cleaned = cleaned.replace(/^,|,$/g, "");
+            
+            // Entferne " in " (z.B. "Einbruch in Hamburg")
+            cleaned = cleaned.replace(/\s+in\s+/gi, " ");
+
+            // Mehrfache Leerzeichen zu einem machen und trimmen
+            cleaned = cleaned.replace(/\s+/g, ' ').trim();
+
+            if (cleaned.length < 2) return "Unbekannter Ort"; // Falls alles gelöscht wurde
+            return cleaned;
+        }
+
         async function loadIncidents() {
             try {
                 const timestamp = new Date().getTime();
@@ -349,14 +383,12 @@
                 const text = await response.text();
                 const lines = text.split('\n');
                 
-                incidents = []; // Reset array
+                incidents = []; 
 
                 for (let line of lines) {
-                    // Split line into JSON part and Comment part by "//"
                     const parts = line.split('//');
                     let jsonPart = parts[0].trim();
                     
-                    // Cleanup trailing comma if exists (common in copied JS arrays)
                     if (jsonPart.endsWith(',')) {
                         jsonPart = jsonPart.slice(0, -1);
                     }
@@ -365,24 +397,27 @@
                         try {
                             const dataObj = JSON.parse(jsonPart);
                             
-                            // Extract City Name from comment
-                            // Example: "// Kfz Rheine, Diebstahl" -> "Kfz Rheine"
-                            let cityName = "Unbekannter Ort";
+                            // Name extrahieren
+                            let rawName = "Unbekannter Ort";
                             if (parts[1]) {
                                 const comment = parts[1].trim();
+                                // Versuche, den Ort vor oder nach einem Komma zu finden
                                 if (comment.includes(',')) {
-                                    cityName = comment.split(',')[0].trim();
+                                    rawName = comment.split(',')[0].trim();
                                 } else {
-                                    cityName = comment;
+                                    rawName = comment;
                                 }
                             }
+
+                            // --- REINIGUNG ANWENDEN ---
+                            const finalCityName = cleanLocationName(rawName);
 
                             if (dataObj.coords && dataObj.coords.length === 2) {
                                 incidents.push({
                                     id: incidents.length,
                                     coords: dataObj.coords,
                                     date: dataObj.date,
-                                    city: cityName // Hier speichern wir den echten Namen
+                                    city: finalCityName // Jetzt sauber!
                                 });
                             }
                         } catch (e) {
@@ -427,7 +462,6 @@
                 .attr("cx", d => { const p = projection(d.coords); return p ? p[0] : 0; })
                 .attr("cy", d => { const p = projection(d.coords); return p ? p[1] : 0; });
             
-            // Update Text im roten Feld, falls ein Land ausgewählt ist
             if (selectedState) {
                 updateStateSelection(selectedState);
             }
@@ -467,7 +501,6 @@
             return getIncidentsInState(stateFeature, incidentsList).length;
         }
 
-        // --- Logik für Klick auf Bundesland ---
         function updateStateSelection(d) {
              const from = fromInput.value;
              const to = toInput.value;
@@ -478,7 +511,6 @@
              
              document.getElementById("stateInfo").textContent = `${stateName}: ${count}`;
              
-             // Button anzeigen/verstecken
              const btn = document.getElementById("showDetailsBtn");
              if (count > 0) {
                  btn.style.display = "block";
@@ -521,7 +553,7 @@
                 .attr("class", "state")
                 .attr("d", path)
                 .on("mouseover", function(event, d) {
-                    if(!selectedState) { // Nur highlighten, wenn nichts fest ausgewählt ist
+                    if(!selectedState) {
                          d3.select(this).classed("state-highlight", true);
                          updateStateSelection(d);
                     }
@@ -534,10 +566,7 @@
                     }
                 })
                 .on("click", function(event, d) {
-                    // Reset vorherige Auswahl
                     d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
-                    
-                    // Neue Auswahl setzen
                     selectedState = d;
                     d3.select(this).classed("state-selected", true);
                     updateStateSelection(d);
@@ -552,7 +581,6 @@
             setTimeout(updateMapSize, 100);
         });
 
-        // --- POPUP LOGIK ---
         const modal = document.getElementById("detailsModal");
         const btn = document.getElementById("showDetailsBtn");
         const span = document.getElementsByClassName("close")[0];
@@ -564,22 +592,18 @@
             const to = toInput.value;
             const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
             
-            // Nur Vorfälle in diesem Bundesland
             const incidentsInState = getIncidentsInState(selectedState, filtered);
             
-            // Zählen pro Stadt
             const cityCounts = {};
             incidentsInState.forEach(inc => {
                 const name = inc.city;
                 cityCounts[name] = (cityCounts[name] || 0) + 1;
             });
 
-            // In Array umwandeln und sortieren
             const sortedCities = Object.entries(cityCounts)
                 .map(([name, count]) => ({ name, count }))
                 .sort((a, b) => b.count - a.count);
 
-            // HTML generieren
             const listContainer = document.getElementById("modalList");
             const stateName = selectedState.properties.NAME_1 || selectedState.properties.name;
             document.getElementById("modalTitle").textContent = `Details für ${stateName}`;

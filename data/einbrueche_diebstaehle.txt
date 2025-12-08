@@ -3189,3 +3189,15 @@
 //{"coords": [], "date": "2025-12-08"} // Kein Ort gefunden, Einbrecher
 {"coords": [7.35, 52.15], "date": "2025-12-08"}, // Beute Steinfurt, Einbruch
 {"coords": [7.1, 51.5167], "date": "2025-12-08"}, // Feldmark Gelsenkirchen, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2025-12-08"}, // Zeugenaufruf Nürnberg, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2025-12-08"}, // Einfamilienhaus Vogelsbergkreis, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-08"}, // Erdgeschosswohnung Ludwigshafen, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Versuchter Einbruch Dorndorf, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Hinweise Voerde, Diebstahl
+{"coords": [6.5875, 51.0883], "date": "2025-12-08"}, // Grevenbroich, Dieb
+//{"coords": [], "date": "2025-12-08"} // Gronau, Einbrecher
+{"coords": [6.5875, 51.0883], "date": "2025-12-08"}, // Kia Sportage Grevenbroich, Dieb
+//{"coords": [], "date": "2025-12-08"} // Raesfeld, entwendet
+{"coords": [9.2167, 48.4833], "date": "2025-12-08"}, // Brandalarm Reutlingen, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-12-08"}, // Mehrfamilienhauses Warendorf, Einbruch
+{"coords": [6.4333, 51.2], "date": "2025-12-08"}, // Wochenende Mönchengladbach, Einbruch

@@ -3121,3 +3121,12 @@
 //{"coords": [], "date": "2025-12-08"} // Zeugen Neuenbürg, Einbruch
 //{"coords": [], "date": "2025-12-08"} // Renitente Ladendiebin Nachrodt, Dieb
 //{"coords": [], "date": "2025-12-08"} // Untersuchungshaft Freudenstadt, Einbrecher
+{"coords": [9.9916, 48.3984], "date": "2025-12-08"}, // Ulm, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2025-12-08"}, // Aalen, Einbrüche
+//{"coords": [], "date": "2025-12-08"} // Landkreis Sömmerda, Diebstahl
+//{"coords": [], "date": "2025-12-08"} // Hochsauerlandkreis, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Einfamilienhaus Anröchte, Einbruch
+{"coords": [12.4333, 50.985], "date": "2025-12-08"}, // Baustelle Altenburg, Einbruch
+{"coords": [7.2431, 51.3464], "date": "2025-12-08"}, // Sprockhövel, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2025-12-08"}, // Hattingen, Einbruch
+{"coords": [12.1642, 50.7517], "date": "2025-12-08"}, // Berga Greiz, Diebstahl

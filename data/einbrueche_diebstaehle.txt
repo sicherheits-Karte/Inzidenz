@@ -3283,3 +3283,10 @@
 //{"coords": [], "date": "2025-12-08"} // Beute Stemwede, Einbruch
 //{"coords": [], "date": "2025-12-08"} // Rohrheim, Raub
 {"coords": [11.5928, 50.6933], "date": "2025-12-08"}, // Pößneck, Diebstähle
+{"coords": [8.0472, 52.2799], "date": "2025-12-08"}, // Zeugen Osnabrück, Einbrüche
+{"coords": [8.8678, 49.9228], "date": "2025-12-08"}, // Zeugen Münster, Raub
+//{"coords": [], "date": "2025-12-08"} // Scheuern, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-12-08"}, // Zeugen Münster, Einbrüche
+//{"coords": [], "date": "2025-12-08"} // Kamen, entwendet
+{"coords": [6.85, 49.3], "date": "2025-12-08"}, // Unfall Bad Schwalbach, Einbrüche
+{"coords": [7.9447, 48.4731], "date": "2025-12-08"}, // Einbrüche Offenburg, Einbruch

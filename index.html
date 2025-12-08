@@ -649,7 +649,6 @@
             }
         }
 
-// Datum formatieren Helper
         function formatDate(date) {
             const year = date.getFullYear();
             const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -657,116 +656,13 @@
             return `${year}-${month}-${day}`;
         }
 
-        // --- KONFIGURATION START ---
-        const MIN_DATE = "2025-11-07"; // Das erste Datum mit Messdaten
         const today = new Date();
         const todayStr = formatDate(today);
-        
         const fromInput = document.getElementById("fromDate");
         const toInput = document.getElementById("toDate");
 
-        // 1. Grenzen setzen (HTML Attribute)
-        // Verhindert Auswahl in der Zukunft (max) und vor Messbeginn (min) im Kalender
-        fromInput.setAttribute("min", MIN_DATE);
-        fromInput.setAttribute("max", todayStr);
-        
-        toInput.setAttribute("min", MIN_DATE);
-        toInput.setAttribute("max", todayStr);
-
-        // 2. Standardwerte beim Laden setzen
-        // Start: 07.11.2025, Ende: Heute
-        fromInput.value = MIN_DATE;
+        fromInput.value = todayStr;
         toInput.value = todayStr;
-
-        // Hilfsfunktion: Setzt Datum sicher (korrigiert, falls Button vor 7.11. will)
-        function setDatesSafe(startDateStr, endDateStr) {
-            // Wenn das gewünschte Startdatum VOR dem Messbeginn liegt, nimm den Messbeginn
-            if (startDateStr < MIN_DATE) {
-                startDateStr = MIN_DATE;
-            }
-            
-            // Werte setzen
-            fromInput.value = startDateStr;
-            toInput.value = endDateStr;
-            
-            // Karte aktualisieren
-            updateIncidents();
-        }
-
-        function setActiveButton(activeBtn) {
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            activeBtn.classList.add('active');
-        }
-
-        // --- BUTTONS LOGIK (ANGEPASST) ---
-
-        document.getElementById("todayBtn").onclick = function() {
-            setActiveButton(this);
-            setDatesSafe(todayStr, todayStr);
-        };
-
-        document.getElementById("weekBtn").onclick = function() {
-            setActiveButton(this);
-            const d = new Date();
-            const day = d.getDay();
-            const diff = d.getDate() - day + (day == 0 ? -6 : 1); // Montag finden
-            const monday = new Date(d.setDate(diff));
-            setDatesSafe(formatDate(monday), todayStr);
-        };
-
-        document.getElementById("monthBtn").onclick = function() {
-            setActiveButton(this);
-            const d = new Date();
-            const firstDay = new Date(d.getFullYear(), d.getMonth(), 1); // 1. des Monats
-            setDatesSafe(formatDate(firstDay), todayStr);
-        };
-
-        document.getElementById("yearBtn").onclick = function() {
-            setActiveButton(this);
-            const d = new Date();
-            const firstDay = new Date(d.getFullYear(), 0, 1); // 1. Januar
-            // Hier greift nun die Schutzfunktion: Er will 01.01. setzen, 
-            // setDatesSafe korrigiert es aber automatisch auf 07.11.
-            setDatesSafe(formatDate(firstDay), todayStr);
-        };
-
-        // Event Listener für manuelle Änderung
-        fromInput.addEventListener("change", updateIncidents);
-        toInput.addEventListener("change", updateIncidents);
-
-        // Update Funktion (unverändert, hier nur der Vollständigkeit halber referenziert)
-        function updateIncidents() {
-            const from = fromInput.value;
-            const to = toInput.value;
-            // Abbrechen wenn leer
-            if (!from || !to) return; 
-
-            const filtered = incidents.filter(d => d.date >= from && d.date <= to);
-            
-            document.getElementById("countDisplay").textContent = `${filtered.length} Vorfälle`;
-
-            const points = g.selectAll(".incident")
-                .data(filtered, d => d.id);
-
-            points.exit().remove();
-
-            points.enter()
-                .append("circle")
-                .attr("class", "incident")
-                .attr("r", 5)
-                .attr("opacity", 0.85)
-                .merge(points)
-                .attr("cx", d => {
-                    const projected = projection(d.coords);
-                    return projected ? projected[0] : 0;
-                })
-                .attr("cy", d => {
-                    const projected = projection(d.coords);
-                    return projected ? projected[1] : 0;
-                });
-        }
 
         function updateIncidents() {
             const from = fromInput.value;

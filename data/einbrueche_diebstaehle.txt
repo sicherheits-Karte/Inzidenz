@@ -3106,3 +3106,10 @@
 //{"coords": [], "date": "2025-12-08"} // Hinweise Hasselroth, Dieb
 {"coords": [10.0936, 48.8372], "date": "2025-12-08"}, // Teilen Aalen, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2025-12-08"}, // Erfurt, entwendet
+//{"coords": [], "date": "2025-12-08"} // Tankstelle Lippetal, Raub
+{"coords": [11.0299, 50.9848], "date": "2025-12-08"}, // Erfurt, gestohlen
+//{"coords": [], "date": "2025-12-08"} // Einbruchdiebstahl Hemer, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-12-08"}, // Weimar, gestohlen
+{"coords": [11.3239, 50.9795], "date": "2025-12-08"}, // Bürogebäude Weimar, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Kreis, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Einfamilienhaus Maulbronn, Einbruch

@@ -3275,3 +3275,11 @@
 {"coords": [6.7623, 51.4344], "date": "2025-12-08"}, // Fahrrad Duisburg, gestohlen
 //{"coords": [], "date": "2025-12-08"} // Baustelle gestohlen, gestohlen
 {"coords": [8.4043, 49.014], "date": "2025-12-08"}, // Karlsruhe, Einbrüche
+{"coords": [9.732, 52.3759], "date": "2025-12-08"}, // Hannover, Dieb
+{"coords": [6.7623, 51.4344], "date": "2025-12-08"}, // Untersuchungshaft Duisburg, Raub
+{"coords": [6.3917, 51.2556], "date": "2025-12-08"}, // Elektronikfachgeschäft Viersen, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Hofheim, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Giessen, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Beute Stemwede, Einbruch
+//{"coords": [], "date": "2025-12-08"} // Rohrheim, Raub
+{"coords": [11.5928, 50.6933], "date": "2025-12-08"}, // Pößneck, Diebstähle

@@ -373,6 +373,17 @@
         const projection = d3.geoMercator().center([10.5, 51.0]).scale(2600).translate([0, 0]);
         const path = d3.geoPath().projection(projection);
 
+        // --- KLICK AUF HINTERGRUND RESETTET AUSWAHL ---
+        svg.on("click", function(event) {
+            // Wenn man auf die Karte (Hintergrund) klickt, alles zurücksetzen
+            selectedState = null;
+            d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
+            
+            // UI zurücksetzen
+            document.getElementById("stateInfo").textContent = "-";
+            document.getElementById("showDetailsBtn").classList.remove("is-visible");
+        });
+
         const zoom = d3.zoom().scaleExtent([0.5, 12]).on("zoom", (event) => {
             g.attr("transform", event.transform);
             const scale = event.transform.k;
@@ -546,7 +557,6 @@
              const btn = document.getElementById("showDetailsBtn");
              if (count > 0) {
                  btn.textContent = `📍 Details für ${stateName}`;
-                 // HIER WIRD NICHT MEHR DISPLAY GEÄNDERT, SONDERN EINE KLASSE
                  btn.classList.add("is-visible");
              } else {
                  btn.classList.remove("is-visible");
@@ -599,6 +609,9 @@
                     }
                 })
                 .on("click", function(event, d) {
+                    // WICHTIG: stopPropagation verhindert, dass der Klick ans SVG (Hintergrund) weitergegeben wird
+                    event.stopPropagation();
+
                     d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
                     selectedState = d;
                     d3.select(this).classed("state-selected", true);
@@ -684,6 +697,3 @@
     </script>
 </body>
 </html>
-```
-
-

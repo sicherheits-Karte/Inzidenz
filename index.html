@@ -5,7 +5,9 @@
     <title>Einbrüche & Diebstähle Dashboard</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
     <style>
+        /* --- DESIGN & CSS (Der schöne Look von vorher) --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
@@ -15,7 +17,7 @@
             height: 100vh;
             padding: 12px;
             color: #374151;
-            overflow: hidden;
+            overflow: hidden; /* Kein Scrollen auf dem Hauptbody */
         }
 
         .container {
@@ -23,491 +25,406 @@
             margin: 0 auto;
             display: grid;
             grid-template-columns: 280px 1fr;
+            grid-template-rows: auto 1fr auto;
             gap: 12px;
             height: calc(100vh - 24px);
-            overflow: hidden;
         }
 
-        /* --- CARDS --- */
-        .header-card, .sidebar-card, .map-card, .footer {
+        /* Karten-Container Styles */
+        .card {
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
             border-radius: 12px;
             border: 1px solid rgba(255, 255, 255, 0.2);
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            padding: 16px;
         }
 
-        .header-card { grid-column: 1 / -1; padding: 16px; text-align: center; }
-        .header-content h1 { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 4px; }
-        .header-content .subtitle { font-size: 14px; color: #6b7280; font-weight: 400; }
+        /* Header */
+        .header { grid-column: 1 / -1; text-align: center; }
+        .header h1 { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 4px; }
+        .header .subtitle { font-size: 14px; color: #6b7280; }
 
-        .sidebar-card {
-            padding: 16px;
+        /* Sidebar */
+        .sidebar {
             display: flex;
             flex-direction: column;
-            gap: 14px;
+            gap: 16px;
             overflow-y: auto;
-            max-height: 100%;
         }
 
-        .card-title { font-size: 16px; font-weight: 600; color: #1f2937; margin-bottom: 6px; }
+        .section-title { font-size: 14px; font-weight: 600; color: #4b5563; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
 
-        /* --- INPUTS --- */
-        .date-inputs { display: flex; flex-direction: column; gap: 12px; }
-        .date-group { display: flex; flex-direction: column; gap: 6px; }
-        .date-group label { font-size: 14px; font-weight: 500; color: #4b5563; }
+        /* Datum Inputs */
+        .date-group { margin-bottom: 12px; }
+        .date-group label { display: block; font-size: 13px; font-weight: 500; margin-bottom: 4px; color: #4b5563; }
         .date-input {
-            padding: 12px;
-            border: 2px solid #e5e7eb;
-            border-radius: 8px;
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
             font-size: 14px;
-            background: white;
+            transition: all 0.2s;
         }
+        .date-input:focus { border-color: #3b82f6; outline: none; box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1); }
 
-        .filter-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+        /* Filter Buttons */
+        .filter-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
         .filter-btn {
-            padding: 12px 16px;
-            border: 2px solid #e5e7eb;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
+            padding: 8px;
+            border: 1px solid #e5e7eb;
+            background: #f9fafb;
+            border-radius: 6px;
             cursor: pointer;
-            background: #f8fafc;
+            font-size: 13px;
+            font-weight: 500;
             color: #4b5563;
-            transition: all 0.2s ease;
+            transition: all 0.2s;
         }
-        .filter-btn:hover { background: #3b82f6; color: white; border-color: #3b82f6; transform: translateY(-1px); }
-        .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; }
+        .filter-btn:hover { background: #eff6ff; border-color: #3b82f6; color: #1d4ed8; }
+        .filter-btn.active { background: #3b82f6; border-color: #3b82f6; color: white; }
 
-        /* --- LINKS --- */
-        .link-btn {
+        /* Links & Buttons */
+        .action-btn {
             display: block;
-            padding: 14px 20px;
+            width: 100%;
+            padding: 12px;
             text-align: center;
             text-decoration: none;
             border-radius: 8px;
-            font-size: 14px;
             font-weight: 500;
-            border: 2px solid transparent;
-            transition: all 0.2s ease;
+            font-size: 14px;
+            margin-bottom: 8px;
+            transition: transform 0.1s;
         }
-        .link-btn.datenquelle { background: #f0fdf4; color: #15803d; border-color: #86efac; }
-        .link-btn.datenquelle:hover { background: #15803d; color: white; border-color: #15803d; }
-        .link-btn.paypal { background: linear-gradient(135deg, #0070ba, #1546a0); color: white; }
-        .link-btn.paypal:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4); }
+        .btn-green { background: #dcfce7; color: #166534; border: 1px solid #bbf7d0; }
+        .btn-green:hover { background: #bbf7d0; }
+        .btn-blue { background: #0070ba; color: white; }
+        .btn-blue:hover { background: #005ea6; }
 
-        /* --- DETAILS BUTTON (WICHTIG) --- */
-        .link-btn.details-btn {
+        /* Rote Info Box */
+        .info-box {
+            background: linear-gradient(135deg, #ef4444, #dc2626);
+            color: white;
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+        }
+        .info-box h3 { font-size: 13px; opacity: 0.9; margin-bottom: 8px; }
+        .info-count { font-size: 28px; font-weight: 700; }
+        .details-link {
+            display: inline-block;
+            margin-top: 10px;
             background: white;
             color: #dc2626;
-            border-color: #fecaca;
-            margin-top: 10px;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
             font-weight: 600;
             cursor: pointer;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            border: none;
         }
-        .link-btn.details-btn:hover { background: #fef2f2; border-color: #dc2626; }
 
-        .state-info-card {
-            background: linear-gradient(135deg, #dc2626, #ef4444);
-            color: white;
-            padding: 20px;
-            border-radius: 12px;
-            text-align: center;
-            min-height: 120px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-        .state-info-card h3 { font-size: 14px; font-weight: 600; margin-bottom: 12px; opacity: 0.9; }
-        .state-count { font-size: 24px; font-weight: 700; }
+        /* Karte */
+        .map-container { position: relative; width: 100%; height: 100%; overflow: hidden; background: #f8fafc; border-radius: 8px; }
+        
+        /* Map Styles */
+        .state { fill: white; stroke: #cbd5e1; stroke-width: 1; transition: all 0.2s; cursor: pointer; }
+        .state:hover { fill: #fee2e2; stroke: #ef4444; }
+        .state.active { fill: #fecaca; stroke: #dc2626; stroke-width: 2; }
+        
+        .incident-dot { fill: rgba(220, 38, 38, 0.7); stroke: white; stroke-width: 1; transition: r 0.2s; cursor: crosshair; }
+        .incident-dot:hover { fill: rgba(220, 38, 38, 1); r: 8 !important; }
 
-        /* --- MAP --- */
-        .map-card { padding: 16px; display: flex; flex-direction: column; overflow: hidden; }
-        .map-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-        .map-title { font-size: 18px; font-weight: 600; color: #1f2937; }
-        .vorfälle-count { font-size: 16px; font-weight: 600; color: #dc2626; }
-        .map-container {
-            flex: 1;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-            overflow: hidden;
+        /* Footer */
+        .footer { grid-column: 1 / -1; display: flex; justify-content: center; gap: 20px; font-size: 13px; }
+        .footer a { color: #6b7280; text-decoration: none; }
+        .footer a:hover { color: #374151; text-decoration: underline; }
+
+        /* Modal */
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 1000; backdrop-filter: blur(2px); }
+        .modal-content {
+            background: white; width: 90%; max-width: 400px; margin: 10% auto; padding: 24px;
+            border-radius: 12px; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1);
             position: relative;
         }
-        #map { width: 100%; height: 100%; background: #f8fafc; }
-
-        .state { fill: white; stroke: #d1d5db; stroke-width: 1; transition: all 0.3s ease; cursor: pointer; }
-        .state:hover { fill: #fef2f2; stroke: #dc2626; stroke-width: 2; }
-        /* Highlighting Styles */
-        .state-highlight { fill: #fecaca !important; stroke: #dc2626 !important; stroke-width: 3px !important; }
-        .state-selected { fill: #f87171 !important; stroke: #991b1b !important; stroke-width: 3px !important; }
-
-        .incident { fill: rgba(220, 38, 38, 0.8); stroke: white; stroke-width: 1.5; r: 5; transition: all 0.3s ease; }
-        .incident:hover { r: 8; fill: rgba(220, 38, 38, 1); stroke-width: 2; cursor: crosshair; }
-
-        /* --- FOOTER --- */
-        .footer { padding: 12px 16px; text-align: center; }
-        .footer-links { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; }
-        .footer-link { color: #6b7280; text-decoration: none; font-size: 14px; font-weight: 500; }
-        .footer-link:hover { color: #3b82f6; }
-
-        /* --- MODAL (POPUP) --- */
-        .modal {
-            display: none; position: fixed; z-index: 2000; left: 0; top: 0;
-            width: 100%; height: 100%; overflow: auto;
-            background-color: rgba(0,0,0,0.5); backdrop-filter: blur(5px);
-        }
-        .modal-content {
-            background-color: #fefefe; margin: 10% auto; padding: 25px;
-            border-radius: 16px; width: 90%; max-width: 500px;
-            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-            position: relative; animation: slideIn 0.3s ease;
-        }
-        @keyframes slideIn { from {transform: translateY(-20px); opacity: 0;} to {transform: translateY(0); opacity: 1;} }
+        .close-modal { position: absolute; top: 16px; right: 16px; font-size: 24px; cursor: pointer; color: #9ca3af; }
+        .city-list { margin-top: 16px; max-height: 300px; overflow-y: auto; }
+        .city-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid #f3f4f6; }
+        .city-badge { background: #fee2e2; color: #991b1b; padding: 2px 8px; border-radius: 12px; font-size: 12px; font-weight: 700; }
         
-        .close { color: #9ca3af; float: right; font-size: 28px; font-weight: bold; cursor: pointer; line-height: 1; }
-        .close:hover { color: #111; }
-        
-        .modal-header h2 { font-size: 20px; color: #1f2937; margin-bottom: 15px; border-bottom: 2px solid #f3f4f6; padding-bottom: 10px; }
-        
-        .city-list { max-height: 50vh; overflow-y: auto; padding-right: 5px; }
-        .city-item {
-            display: flex; justify-content: space-between; align-items: center;
-            padding: 12px; border-bottom: 1px solid #f3f4f6; font-size: 14px;
-        }
-        .city-item:last-child { border-bottom: none; }
-        .city-name { font-weight: 600; color: #374151; }
-        .city-count {
-            background: #fee2e2; color: #991b1b;
-            padding: 4px 10px; border-radius: 20px; font-weight: 700; font-size: 13px;
-        }
-
         /* Responsive */
-        @media (max-width: 1024px) {
-            body { padding: 8px; overflow-y: auto; height: auto; }
-            .container { grid-template-columns: 1fr; height: auto; overflow: visible; }
-            .sidebar-card { order: 2; max-height: none; }
-            .map-card { order: 1; height: 60vh; min-height: 400px; }
-            .footer { order: 3; }
+        @media (max-width: 1000px) {
+            .container { grid-template-columns: 1fr; grid-template-rows: auto auto 500px auto; height: auto; display: block; }
+            .sidebar { margin-bottom: 12px; max-height: none; }
+            .map-container { height: 500px; }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header-card">
-            <div class="header-content">
-                <h1>Einbrüche & Diebstähle Dashboard</h1>
-                <div class="subtitle">Echtzeit-Überwachung von Vorfällen in Deutschland</div>
+
+<div class="container">
+    <div class="card header">
+        <h1>🛡️ Sicherheits-Dashboard</h1>
+        <div class="subtitle">Analyse von Einbrüchen & Diebstählen in Deutschland</div>
+    </div>
+
+    <div class="card sidebar">
+        <div>
+            <div class="section-title">Zeitraum wählen</div>
+            <div class="date-group">
+                <label>Von:</label>
+                <input type="date" id="dateFrom" class="date-input">
+            </div>
+            <div class="date-group">
+                <label>Bis:</label>
+                <input type="date" id="dateTo" class="date-input">
+            </div>
+            
+            <div class="filter-grid">
+                <button class="filter-btn active" onclick="setFilter('today', this)">Heute</button>
+                <button class="filter-btn" onclick="setFilter('week', this)">Woche</button>
+                <button class="filter-btn" onclick="setFilter('month', this)">Monat</button>
+                <button class="filter-btn" onclick="setFilter('year', this)">Jahr</button>
             </div>
         </div>
 
-        <div class="sidebar-card">
-            <div>
-                <h3 class="card-title">Zeitfilter</h3>
-                <div class="date-inputs">
-                    <div class="date-group">
-                        <label for="fromDate">Von</label>
-                        <input type="date" id="fromDate" class="date-input">
-                    </div>
-                    <div class="date-group">
-                        <label for="toDate">Bis</label>
-                        <input type="date" id="toDate" class="date-input">
-                    </div>
-                </div>
-            </div>
-
-            <div>
-                <h3 class="card-title">Schnellfilter</h3>
-                <div class="filter-buttons">
-                    <button class="filter-btn active" id="todayBtn">Heute</button>
-                    <button class="filter-btn" id="weekBtn">Woche</button>
-                    <button class="filter-btn" id="monthBtn">Monat</button>
-                    <button class="filter-btn" id="yearBtn">Jahr</button>
-                </div>
-            </div>
-
-            <div><a href="daten.html" class="link-btn datenquelle">📊 Datenquelle</a></div>
-            <div><a href="https://www.paypal.com/paypalme/JulianKircher231" class="link-btn paypal">☕ Unterstützen</a></div>
-
-            <div class="state-info-card">
-                <h3>Ausgewähltes Bundesland</h3>
-                <div class="state-count" id="stateInfo">-</div>
-                <button id="showDetailsBtn" class="link-btn details-btn" style="display: none;">📍 Details ansehen</button>
-            </div>
-        </div>
-
-        <div class="map-card">
-            <div class="map-header">
-                <div class="map-title">Deutschland Karte</div>
-                <div class="vorfälle-count" id="countDisplay">0 Vorfälle</div>
-            </div>
-            <div class="map-container">
-                <svg id="map"></svg>
-            </div>
-        </div>
-
-        <div class="footer">
-            <div class="footer-links">
-                <a href="impressum.html" class="footer-link">Impressum</a>
-                <span style="color: #d1d5db;">|</span>
-                <a href="datenschutz.html" class="footer-link">Datenschutz</a>
+        <div style="margin-top: auto;">
+            <a href="daten.html" class="action-btn btn-green">📊 Datenquelle</a>
+            <a href="https://www.paypal.com/paypalme/JulianKircher231" target="_blank" class="action-btn btn-blue">☕ Unterstützen</a>
+            
+            <div class="info-box" style="margin-top: 12px;">
+                <h3 id="selectedStateName">Deutschland gesamt</h3>
+                <div class="info-count" id="incidentCount">0</div>
+                <button class="details-link" id="detailsBtn" style="display: none;">Details anzeigen</button>
             </div>
         </div>
     </div>
 
-    <div id="detailsModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <div class="modal-header">
-                <h2 id="modalTitle">Details</h2>
-            </div>
-            <div id="modalList" class="city-list"></div>
-        </div>
+    <div class="card map-card" style="padding: 0; overflow: hidden;">
+        <div class="map-container" id="mapContainer"></div>
     </div>
 
-    <script>
-        const svg = d3.select("#map");
-        const projection = d3.geoMercator().center([10.5, 51.0]).scale(2600).translate([0, 0]);
-        const path = d3.geoPath().projection(projection);
+    <div class="card footer">
+        <a href="impressum.html">Impressum</a>
+        <a href="datenschutz.html">Datenschutz</a>
+    </div>
+</div>
 
-        const zoom = d3.zoom().scaleExtent([0.5, 12]).on("zoom", (event) => {
-            g.attr("transform", event.transform);
-            svg.selectAll("text").style("display", event.transform.k > 2 ? "block" : "none");
-        });
-        svg.call(zoom);
-        const g = svg.append("g");
+<div id="modal" class="modal">
+    <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <h2 id="modalTitle" style="font-size: 18px; color: #1f2937; margin-bottom: 4px;">Details</h2>
+        <p style="font-size: 13px; color: #6b7280;">Anzahl der Vorfälle pro Stadt</p>
+        <div class="city-list" id="cityList"></div>
+    </div>
+</div>
 
-        let incidents = [];
-        let statesData = [];
-        let selectedStateFeature = null;
+<script>
+    // --- 1. DIE DATENBANK (Hier trägst du deine Daten ein!) ---
+    // Format: { stadt: "Name", coords: [Längengrad, Breitengrad], date: "YYYY-MM-DD" }
+    // Damit umgehen wir alle Probleme mit externen Dateien.
+    const incidents = [
+        { stadt: "Düsseldorf", coords: [6.77, 51.22], date: "2025-12-08" },
+        { stadt: "Düsseldorf", coords: [6.78, 51.23], date: "2025-12-08" },
+        { stadt: "Düsseldorf", coords: [6.76, 51.21], date: "2025-12-08" },
+        { stadt: "Düsseldorf", coords: [6.79, 51.20], date: "2025-12-08" },
+        { stadt: "Düsseldorf", coords: [6.80, 51.24], date: "2025-12-08" },
+        { stadt: "Köln",       coords: [6.96, 50.93], date: "2025-12-08" },
+        { stadt: "Berlin",     coords: [13.40, 52.52], date: "2025-12-08" },
+        { stadt: "Hamburg",    coords: [9.99, 53.55], date: "2025-12-07" }, // Gestern
+        { stadt: "München",    coords: [11.58, 48.13], date: "2025-12-07" },
+        { stadt: "Düsseldorf", coords: [6.77, 51.22], date: "2025-12-07" }
+    ];
 
-        function updateMapSize() {
-            const container = document.querySelector('.map-container');
-            const w = container.clientWidth, h = container.clientHeight;
-            svg.attr("width", w).attr("height", h);
-            projection.translate([w / 2, h / 2]);
-            if (statesData.length) {
-                g.selectAll("path").attr("d", path);
-                updateIncidents();
-            }
+    // --- 2. KARTEN SETUP ---
+    const width = document.getElementById('mapContainer').clientWidth;
+    const height = document.getElementById('mapContainer').clientHeight;
+
+    const svg = d3.select("#mapContainer").append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .attr("viewBox", `0 0 ${width} ${height}`);
+
+    const projection = d3.geoMercator()
+        .center([10.5, 51.3]) // Deutschland Zentrum
+        .scale(width * 2.5)   // Zoomfaktor dynamisch an Breite anpassen
+        .translate([width / 2, height / 2]);
+
+    const path = d3.geoPath().projection(projection);
+    const g = svg.append("g"); // Gruppe für Zoom
+
+    // Zoom Funktion
+    const zoom = d3.zoom()
+        .scaleExtent([1, 8])
+        .on("zoom", (event) => g.attr("transform", event.transform));
+    svg.call(zoom);
+
+    let statesFeatures = [];
+    let activeState = null;
+
+    // --- 3. LOGIK ---
+    
+    // Datum Hilfsfunktionen
+    const getToday = () => new Date().toISOString().split('T')[0];
+    const getPastDate = (days) => {
+        const d = new Date(); d.setDate(d.getDate() - days);
+        return d.toISOString().split('T')[0];
+    };
+    
+    // Initiale Werte
+    document.getElementById('dateFrom').value = getToday();
+    document.getElementById('dateTo').value = getToday();
+
+    function setFilter(type, btn) {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        
+        const today = getToday();
+        if(type === 'today') {
+            document.getElementById('dateFrom').value = today;
+            document.getElementById('dateTo').value = today;
+        } else if (type === 'week') {
+            document.getElementById('dateFrom').value = getPastDate(7);
+            document.getElementById('dateTo').value = today;
+        } else if (type === 'month') {
+            document.getElementById('dateFrom').value = getPastDate(30);
+            document.getElementById('dateTo').value = today;
+        } else if (type === 'year') {
+            document.getElementById('dateFrom').value = new Date().getFullYear() + "-01-01";
+            document.getElementById('dateTo').value = today;
         }
+        updateMap();
+    }
 
-        async function loadIncidents() {
-            try {
-                // Daten aus der Datei laden
-                const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${Date.now()}`);
-                if (!response.ok) throw new Error("Netzwerk Fehler beim Laden der Daten");
-                
-                const text = await response.text();
-                // Parsing Logik
-                const cleanedLines = text.split('\n')
-                    .map(l => l.split('//')[0].split('#')[0].trim())
-                    .filter(l => l.includes('{') && l.includes('}'));
-                
-                const data = JSON.parse(`[${cleanedLines.join(',')}]`);
-                
-                incidents = data
-                    .filter(d => d.coords && d.coords.length === 2)
-                    .map((d, i) => {
-                        // HIER LIEST DER CODE DEN NAMEN AUS DER DATEI
-                        // Er prüft nacheinander auf 'stadt', 'city', 'ort', 'name', 'location'
-                        // Wenn alles fehlt, wird 'Unbekannter Ort' gesetzt.
-                        let cityName = d.stadt || d.city || d.ort || d.name || d.location || "Unbekannter Ort";
-                        
-                        return {
-                            id: i,
-                            coords: d.coords,
-                            date: d.date,
-                            city: cityName 
-                        };
-                    });
-                
-                updateIncidents();
-            } catch (e) { console.error("Fehler:", e); }
-        }
-
-        function formatDate(d) {
-            return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
-        }
-
-        const fromInput = document.getElementById("fromDate");
-        const toInput = document.getElementById("toDate");
-        const todayStr = formatDate(new Date());
-        fromInput.value = todayStr; toInput.value = todayStr;
-
-        function updateIncidents() {
-            const from = fromInput.value, to = toInput.value;
-            if (!from || !to) return;
-            
-            const filtered = incidents.filter(d => d.date >= from && d.date <= to);
-            document.getElementById("countDisplay").textContent = `${filtered.length} Vorfälle`;
-
-            const circles = g.selectAll(".incident").data(filtered, d => d.id);
-            circles.exit().remove();
-            circles.enter().append("circle")
-                .attr("class", "incident")
-                .attr("r", 5).attr("opacity", 0.85)
-                .merge(circles)
-                .attr("cx", d => (projection(d.coords) || [0,0])[0])
-                .attr("cy", d => (projection(d.coords) || [0,0])[1]);
-            
-            if (selectedStateFeature) updateStateInfo(selectedStateFeature);
-        }
-
-        // Polygon Prüfung (Geo-Mathematik)
-        function isPointInPolygon(pt, poly) {
-            const x = pt[0], y = pt[1];
-            let inside = false;
-            for (let i=0, j=poly.length-1; i<poly.length; j=i++) {
-                const xi = poly[i][0], yi = poly[i][1], xj = poly[j][0], yj = poly[j][1];
-                if (((yi > y) != (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi)) inside = !inside;
-            }
-            return inside;
-        }
-
-        function getPolygons(geo) {
-            if (geo.type === 'Polygon') return [geo.coordinates[0]];
-            if (geo.type === 'MultiPolygon') return geo.coordinates.map(p => p[0]);
-            return [];
-        }
-
-        function countIncidentsInState(state, data) {
-            let count = 0;
-            const polys = getPolygons(state.geometry);
-            data.forEach(d => {
-                for (let p of polys) if (isPointInPolygon(d.coords, p)) { count++; break; }
-            });
-            return count;
-        }
-
-        // Zählt Städte innerhalb des gewählten Bundeslandes
-        function getCitiesInState(state, data) {
-            const counts = {};
-            const polys = getPolygons(state.geometry);
-            
-            data.forEach(d => {
-                for (let p of polys) {
-                    if (isPointInPolygon(d.coords, p)) {
-                        // Gruppieren nach dem Namen, der aus der Datei geladen wurde
-                        counts[d.city] = (counts[d.city] || 0) + 1;
-                        break;
-                    }
-                }
-            });
-            
-            // Sortieren: Höchste Anzahl zuerst
-            return Object.entries(counts).map(([name, count]) => ({name, count})).sort((a,b) => b.count - a.count);
-        }
-
-        function updateStateInfo(state) {
-            const filtered = incidents.filter(d => d.date >= fromInput.value && d.date <= toInput.value);
-            const count = countIncidentsInState(state, filtered);
-            document.getElementById("stateInfo").textContent = `${state.properties.NAME_1}: ${count}`;
-        }
-
-        // Filter Buttons Logik
-        document.querySelectorAll('.filter-btn').forEach(btn => {
-            btn.onclick = function() {
-                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                this.classList.add('active');
-                
-                const now = new Date();
-                if(this.id === 'todayBtn') { fromInput.value = toInput.value = formatDate(now); }
-                else if(this.id === 'weekBtn') {
-                    const start = new Date(now); start.setDate(now.getDate() - (now.getDay()||7) + 1);
-                    fromInput.value = formatDate(start); toInput.value = formatDate(now);
-                }
-                else if(this.id === 'monthBtn') {
-                    fromInput.value = formatDate(new Date(now.getFullYear(), now.getMonth(), 1));
-                    toInput.value = formatDate(new Date(now.getFullYear(), now.getMonth()+1, 0));
-                }
-                else {
-                    fromInput.value = `${now.getFullYear()}-01-01`; toInput.value = formatDate(now);
-                }
-                updateIncidents();
-            }
-        });
-
-        // Event Listeners für Datum
-        fromInput.onchange = updateIncidents; toInput.onchange = updateIncidents;
-
-        // Karte Initialisieren
-        d3.json("https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json").then(data => {
-            statesData = data.features;
+    // GeoJSON laden
+    d3.json("https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json")
+        .then(data => {
+            statesFeatures = data.features;
             
             // Bundesländer zeichnen
-            g.selectAll("path").data(statesData).enter().append("path")
-                .attr("class", "state").attr("d", path)
-                .on("mouseover", function(e, d) { 
-                    if (!selectedStateFeature) { 
-                        d3.select(this).classed("state-highlight", true); 
-                        updateStateInfo(d); 
-                    } 
-                })
-                .on("mouseout", function(e, d) { 
-                    if (!selectedStateFeature) { 
-                        d3.select(this).classed("state-highlight", false); 
-                        document.getElementById("stateInfo").textContent = "-"; 
-                    } 
-                })
-                .on("click", function(e, d) {
-                    // Auswahl setzen
-                    selectedStateFeature = d;
-                    // Visuelles Feedback
-                    d3.selectAll(".state").classed("state-selected", false).classed("state-highlight", false);
-                    d3.select(this).classed("state-selected", true);
-                    
-                    updateStateInfo(d);
-                    
-                    // Button anzeigen und beschriften
-                    const btn = document.getElementById("showDetailsBtn");
-                    btn.style.display = "block";
-                    const stateName = d.properties.NAME_1 || d.properties.name;
-                    btn.textContent = `📍 Details für ${stateName}`;
-                });
-            
-            // Namen der Bundesländer (versteckt, aber im DOM)
-            g.selectAll("text").data(statesData).enter().append("text")
-                .attr("x", d => path.centroid(d)[0]).attr("y", d => path.centroid(d)[1])
-                .text(d => d.properties.NAME_1).style("display", "none");
+            g.selectAll("path")
+                .data(statesFeatures)
+                .enter().append("path")
+                .attr("d", path)
+                .attr("class", "state")
+                .on("click", handleStateClick);
+                
+            updateMap();
+        })
+        .catch(err => console.error("Fehler beim Laden der Karte:", err));
 
-            loadIncidents();
-            window.onresize = updateMapSize;
-            setTimeout(updateMapSize, 100);
+    // Update Funktion
+    function updateMap() {
+        const from = document.getElementById('dateFrom').value;
+        const to = document.getElementById('dateTo').value;
+
+        // 1. Daten filtern
+        const visibleIncidents = incidents.filter(d => d.date >= from && d.date <= to);
+
+        // 2. Punkte zeichnen
+        const circles = g.selectAll("circle").data(visibleIncidents);
+        
+        circles.exit().remove();
+        
+        circles.enter().append("circle")
+            .attr("class", "incident-dot")
+            .attr("r", 4)
+            .merge(circles)
+            .attr("cx", d => projection(d.coords)[0])
+            .attr("cy", d => projection(d.coords)[1]);
+
+        // 3. Infos aktualisieren
+        updateInfoBox(visibleIncidents);
+    }
+
+    // Interaktionen
+    function handleStateClick(event, d) {
+        // Reset Auswahl
+        if (activeState === d) {
+            activeState = null;
+            d3.selectAll(".state").classed("active", false);
+            updateMap(); // Zeigt wieder alles an
+            return;
+        }
+        
+        activeState = d;
+        d3.selectAll(".state").classed("active", false);
+        d3.select(this).classed("active", true);
+        updateMap();
+    }
+
+    // Polygon Prüfung
+    function isPointInState(point, stateFeature) {
+        return d3.geoContains(stateFeature, point);
+    }
+
+    function updateInfoBox(currentData) {
+        let count = 0;
+        let title = "Deutschland gesamt";
+        let localData = currentData;
+
+        if (activeState) {
+            title = activeState.properties.NAME_1;
+            // Filtere Punkte, die wirklich in diesem Bundesland liegen
+            localData = currentData.filter(d => isPointInState(d.coords, activeState));
+            count = localData.length;
+        } else {
+            count = currentData.length;
+        }
+
+        document.getElementById('incidentCount').innerText = count;
+        document.getElementById('selectedStateName').innerText = title;
+        
+        // Button Logik
+        const btn = document.getElementById('detailsBtn');
+        if (activeState && count > 0) {
+            btn.style.display = "inline-block";
+            btn.onclick = () => openModal(title, localData);
+        } else {
+            btn.style.display = "none";
+        }
+    }
+
+    // Modal Logik
+    const modal = document.getElementById('modal');
+    document.querySelector('.close-modal').onclick = () => modal.style.display = "none";
+    window.onclick = (e) => { if(e.target == modal) modal.style.display = "none"; };
+
+    function openModal(stateName, data) {
+        document.getElementById('modalTitle').innerText = "Vorfälle in " + stateName;
+        
+        // Städte zählen
+        const cityCounts = {};
+        data.forEach(d => {
+            const city = d.stadt || "Unbekannter Ort";
+            cityCounts[city] = (cityCounts[city] || 0) + 1;
         });
 
-        // Modal (Popup) Logik
-        const modal = document.getElementById("detailsModal");
-        document.getElementById("showDetailsBtn").onclick = () => {
-            if (!selectedStateFeature) return;
-            
-            const filtered = incidents.filter(d => d.date >= fromInput.value && d.date <= toInput.value);
-            const cities = getCitiesInState(selectedStateFeature, filtered);
-            
-            document.getElementById("modalTitle").textContent = `Vorfälle in ${selectedStateFeature.properties.NAME_1}`;
-            
-            const list = document.getElementById("modalList");
-            if (cities.length === 0) {
-                list.innerHTML = "<div style='padding:15px;text-align:center;color:#666'>Keine Vorfälle im Zeitraum</div>";
-            } else {
-                list.innerHTML = cities.map(c => `
-                    <div class="city-item">
-                        <span class="city-name">${c.name}</span>
-                        <span class="city-count">${c.count}</span>
-                    </div>
-                `).join('');
-            }
-            
-            modal.style.display = "block";
-        };
+        // Sortieren
+        const sorted = Object.entries(cityCounts).sort((a,b) => b[1] - a[1]);
 
-        // Schließen Logik
-        document.querySelector(".close").onclick = () => modal.style.display = "none";
-        window.onclick = e => { if(e.target == modal) modal.style.display = "none"; }
+        const html = sorted.map(([city, num]) => `
+            <div class="city-row">
+                <span>${city}</span>
+                <span class="city-badge">${num}</span>
+            </div>
+        `).join('');
         
-        // Auto-Refresh
-        setInterval(loadIncidents, 120000);
-    </script>
+        document.getElementById('cityList').innerHTML = html;
+        modal.style.display = "block";
+    }
+
+    // Event Listener für Inputs
+    document.getElementById('dateFrom').onchange = updateMap;
+    document.getElementById('dateTo').onchange = updateMap;
+
+    // Resize Handler
+    window.onresize = () => {
+        const w = document.getElementById('mapContainer').clientWidth;
+        // ... hier könnte man die Projektion updaten, aber Reload reicht meistens
+    };
+
+</script>
 </body>
 </html>

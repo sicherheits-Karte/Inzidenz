@@ -110,14 +110,14 @@
         .link-btn.paypal { background: linear-gradient(135deg, #0070ba, #1546a0); color: white; border-color: #0070ba; }
         .link-btn.paypal:hover { background: linear-gradient(135deg, #005a94, #103a7f); transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0, 112, 186, 0.4); }
 
-        /* NEUER DETAILS BUTTON */
+        /* Details Button */
         .link-btn.details { 
             background: white; 
             color: #dc2626; 
             border-color: #fca5a5; 
             margin-top: 10px;
             font-weight: 600;
-            display: none; /* Standardmäßig ausgeblendet */
+            display: none; 
         }
         .link-btn.details:hover { background: #fef2f2; border-color: #dc2626; }
 
@@ -207,6 +207,18 @@
         
         .modal-header h2 { font-size: 20px; color: #1f2937; margin-bottom: 15px; border-bottom: 2px solid #f3f4f6; padding-bottom: 10px; }
         
+        /* NEU: SUCHFELD IM POPUP */
+        .search-container { margin-bottom: 15px; }
+        .search-input {
+            width: 100%;
+            padding: 10px 12px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 14px;
+            font-family: inherit;
+        }
+        .search-input:focus { outline: none; border-color: #3b82f6; }
+
         .city-list { max-height: 50vh; overflow-y: auto; padding-right: 5px; }
         .city-item {
             display: flex; justify-content: space-between; align-items: center;
@@ -306,6 +318,11 @@
             <div class="modal-header">
                 <h2 id="modalTitle">Details</h2>
             </div>
+            
+            <div class="search-container">
+                <input type="text" id="citySearch" class="search-input" placeholder="🔍 Stadt suchen (z.B. Dortmund)">
+            </div>
+
             <div id="modalList" class="city-list"></div>
         </div>
     </div>
@@ -339,12 +356,10 @@
             }
         }
 
-        // --- HIER IST DIE NEUE REINIGUNGS-FUNKTION ---
+        // --- REINIGUNGS-FUNKTION ---
         function cleanLocationName(rawName) {
             if (!rawName) return "Unbekannter Ort";
             
-            // Liste der Wörter, die entfernt werden sollen (case-insensitive)
-            // Basiert auf deinem Screenshot und typischen Polizeimeldungen
             const blacklist = [
                 "Polizei", "Presseportal", "Blaulicht", "News", "Aktuell",
                 "Zeugenaufruf", "Zeugen", "gesucht",
@@ -354,23 +369,16 @@
             ];
 
             let cleaned = rawName;
-            
-            // Entferne alle Wörter aus der Blacklist
             blacklist.forEach(word => {
-                const regex = new RegExp(word, "gi"); // g=global, i=case insensitive
+                const regex = new RegExp(word, "gi");
                 cleaned = cleaned.replace(regex, "");
             });
 
-            // Entferne Kommas am Anfang oder Ende
             cleaned = cleaned.replace(/^,|,$/g, "");
-            
-            // Entferne " in " (z.B. "Einbruch in Hamburg")
             cleaned = cleaned.replace(/\s+in\s+/gi, " ");
-
-            // Mehrfache Leerzeichen zu einem machen und trimmen
             cleaned = cleaned.replace(/\s+/g, ' ').trim();
 
-            if (cleaned.length < 2) return "Unbekannter Ort"; // Falls alles gelöscht wurde
+            if (cleaned.length < 2) return "Unbekannter Ort";
             return cleaned;
         }
 
@@ -388,28 +396,17 @@
                 for (let line of lines) {
                     const parts = line.split('//');
                     let jsonPart = parts[0].trim();
-                    
-                    if (jsonPart.endsWith(',')) {
-                        jsonPart = jsonPart.slice(0, -1);
-                    }
+                    if (jsonPart.endsWith(',')) jsonPart = jsonPart.slice(0, -1);
 
                     if (jsonPart && jsonPart.includes('{') && jsonPart.includes('}')) {
                         try {
                             const dataObj = JSON.parse(jsonPart);
-                            
-                            // Name extrahieren
                             let rawName = "Unbekannter Ort";
                             if (parts[1]) {
                                 const comment = parts[1].trim();
-                                // Versuche, den Ort vor oder nach einem Komma zu finden
-                                if (comment.includes(',')) {
-                                    rawName = comment.split(',')[0].trim();
-                                } else {
-                                    rawName = comment;
-                                }
+                                if (comment.includes(',')) rawName = comment.split(',')[0].trim();
+                                else rawName = comment;
                             }
-
-                            // --- REINIGUNG ANWENDEN ---
                             const finalCityName = cleanLocationName(rawName);
 
                             if (dataObj.coords && dataObj.coords.length === 2) {
@@ -417,18 +414,14 @@
                                     id: incidents.length,
                                     coords: dataObj.coords,
                                     date: dataObj.date,
-                                    city: finalCityName // Jetzt sauber!
+                                    city: finalCityName
                                 });
                             }
-                        } catch (e) {
-                            console.log("Parsing error for line:", line);
-                        }
+                        } catch (e) { console.log("Parsing error for line:", line); }
                     }
                 }
                 updateIncidents();
-            } catch (error) {
-                console.error('Fehler beim Laden der Daten:', error);
-            }
+            } catch (error) { console.error('Fehler beim Laden der Daten:', error); }
         }
 
         function formatDate(date) {
@@ -462,9 +455,7 @@
                 .attr("cx", d => { const p = projection(d.coords); return p ? p[0] : 0; })
                 .attr("cy", d => { const p = projection(d.coords); return p ? p[1] : 0; });
             
-            if (selectedState) {
-                updateStateSelection(selectedState);
-            }
+            if (selectedState) updateStateSelection(selectedState);
         }
 
         function isPointInPolygon(point, polygon) {
@@ -584,9 +575,14 @@
         const modal = document.getElementById("detailsModal");
         const btn = document.getElementById("showDetailsBtn");
         const span = document.getElementsByClassName("close")[0];
+        const searchInput = document.getElementById("citySearch");
 
+        // --- POPUP ÖFFNEN ---
         btn.onclick = function() {
             if(!selectedState) return;
+
+            // Reset Suche beim Öffnen
+            searchInput.value = "";
 
             const from = fromInput.value;
             const to = toInput.value;
@@ -620,6 +616,23 @@
             }
 
             modal.style.display = "block";
+            // Fokus auf Suchfeld setzen
+            setTimeout(() => searchInput.focus(), 100);
+        }
+
+        // --- SUCHFUNKTION ---
+        searchInput.onkeyup = function() {
+            const filter = this.value.toLowerCase();
+            const items = document.getElementsByClassName("city-item");
+
+            for (let i = 0; i < items.length; i++) {
+                const cityName = items[i].getElementsByClassName("city-name")[0].textContent.toLowerCase();
+                if (cityName.includes(filter)) {
+                    items[i].style.display = "flex";
+                } else {
+                    items[i].style.display = "none";
+                }
+            }
         }
 
         span.onclick = function() { modal.style.display = "none"; }

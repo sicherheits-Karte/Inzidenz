@@ -3352,3 +3352,19 @@
 {"coords": [8.1075, 53.5219], "date": "2025-12-09"}, // Wilhelmshaven Wilhelmshaven, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2025-12-09"}, // Arbeitsunfall Aalen, Einbruch
 //{"coords": [], "date": "2025-12-09"} // Zeugen Hövelhof, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Kreis, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2025-12-09"}, // Fenster Bremerhaven, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-12-09"}, // Einbruch Gütersloh, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-12-09"}, // Zeugenhinweise Bonn, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Wohnung Meißenheim, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2025-12-09"}, // Jeep Wrangler Gummersbach, Dieb
+{"coords": [7.5408, 50.9056], "date": "2025-12-09"}, // Wärmepumpen Nümbrecht, Dieb
+{"coords": [7.5667, 51.0167], "date": "2025-12-09"}, // Einfamilienhaus Wiehl, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2025-12-09"}, // Gummersbach, stahl
+{"coords": [8.5861, 52.1983], "date": "2025-12-09"}, // Zeugen Bünde, Dieb
+{"coords": [7.7, 50.9667], "date": "2025-12-09"}, // Sporthalle Reichshof, Einbruch
+{"coords": [8.5, 52.3], "date": "2025-12-09"}, // Kupfer Rödinghausen, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2025-12-09"}, // Beute Gummersbach, Einbrecher
+{"coords": [10.9887, 49.4771], "date": "2025-12-09"}, // Fürth, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2025-12-09"}, // Brahmsstraße Ludwigsburg, Einbruch
+{"coords": [7.1833, 50.9], "date": "2025-12-09"}, // Rösrath, Einbruch

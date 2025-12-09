@@ -3428,3 +3428,14 @@
 {"coords": [9.2108, 49.1425], "date": "2025-12-09"}, // Brände Heilbronn, Einbrüche
 {"coords": [7.0116, 51.4556], "date": "2025-12-09"}, // Fotofahndung Essen, stehlen
 {"coords": [8.2869, 52.7303], "date": "2025-12-09"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2025-12-09"} // einer Nacht, Einbrüche
+{"coords": [8.6822, 50.1106], "date": "2025-12-09"}, // Einbrecher Frankfurt, eingebrochen
+{"coords": [8.5333, 48.0667], "date": "2025-12-09"}, // Schwenningen, Einbrüche
+{"coords": [13.2611, 53.5569], "date": "2025-12-09"}, // Hinweisen Neubrandenburg, Raub
+{"coords": [10.0075, 53.7064], "date": "2025-12-09"}, // Einbruch Norderstedt, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-12-09"}, // Altpapiercontainer Wilhelmshaven, Raub
+{"coords": [7.4614, 50.4286], "date": "2025-12-09"}, // Neuwied Neuwied, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2025-12-09"}, // Gronau, Dieb
+//{"coords": [], "date": "2025-12-09"} // Schalbruch, Einbruch
+{"coords": [6.1333, 51.0833], "date": "2025-12-09"}, // Unterbruch, Raub
+{"coords": [10.4, 53.25], "date": "2025-12-09"}, // Lüneburg, eingebrochen

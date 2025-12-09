@@ -3390,3 +3390,8 @@
 {"coords": [8.4167, 49.4], "date": "2025-12-09"}, // Limburgerhof, Einbruch
 {"coords": [10.75, 53.7], "date": "2025-12-09"}, // Ratzeburg, Einbrüche
 {"coords": [8.225, 51.9625], "date": "2025-12-09"}, // Harsewinkel Gütersloh, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2025-12-09"}, // Zeugen Wuppertal, Raub
+//{"coords": [], "date": "2025-12-09"} // Kein Ort gefunden, Diebstahl
+{"coords": [13.0819, 54.3092], "date": "2025-12-09"}, // Stralsund, Raub
+{"coords": [8.3708, 52.6078], "date": "2025-12-09"}, // Diepholz, Diebstahl
+//{"coords": [], "date": "2025-12-09"} // Bad Sassendorf, gestohlen

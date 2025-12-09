@@ -3424,3 +3424,5 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-09"}, // Reutlingen, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2025-12-09"}, // Bochum, Einbrecher
 {"coords": [7.18, 49.3439], "date": "2025-12-09"}, // Neunkirchen, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2025-12-09"}, // Fotofahndung Essen, stahl
+{"coords": [9.2108, 49.1425], "date": "2025-12-09"}, // Brände Heilbronn, Einbrüche

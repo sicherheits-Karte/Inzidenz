@@ -3311,3 +3311,6 @@
 {"coords": [9.9158, 51.5413], "date": "2025-12-09"}, // Haft Göttingen, Diebstahl
 {"coords": [9.0, 50.7333], "date": "2025-12-09"}, // Hinweise Homberg, entwendet
 //{"coords": [], "date": "2025-12-09"} // Ingenheim, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-12-09"}, // Polizeibeamte Aalen, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Kreis, Dieb
+{"coords": [8.0, 51.45], "date": "2025-12-09"}, // Lebensmitteldiscounter Im Ohl Arnsberg, Einbruch

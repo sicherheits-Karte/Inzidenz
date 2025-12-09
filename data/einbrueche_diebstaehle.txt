@@ -3336,3 +3336,6 @@
 {"coords": [9.1167, 50.85], "date": "2025-12-09"}, // Mainzer Neustadt Mainz, Einbrüche
 {"coords": [12.1997, 50.6544], "date": "2025-12-09"}, // Bad Köstritz Greiz, Einbruch
 {"coords": [12.0667, 53.6167], "date": "2025-12-09"}, // Dobbertin Dobbertin, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-09"}, // Aalen, Einbruch
+{"coords": [8.8744, 50.3547], "date": "2025-12-09"}, // Reichelsheim, Einbrüche
+{"coords": [8.8431, 49.8978], "date": "2025-12-09"}, // Dieburg, Dieb

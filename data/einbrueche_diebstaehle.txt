@@ -3406,3 +3406,15 @@
 {"coords": [6.3319, 51.5194], "date": "2025-12-09"}, // Geldern, Einbrüche
 {"coords": [8.0169, 50.3714], "date": "2025-12-09"}, // Diez, Einbruch
 {"coords": [9.5831, 52.8619], "date": "2025-12-09"}, // Walsrode, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Emst, Raub
+{"coords": [8.4661, 49.4878], "date": "2025-12-09"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-12-09"}, // Kaiserslautern, gestohlen
+//{"coords": [], "date": "2025-12-09"} // Rhein, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Duo beraubt, Raub
+{"coords": [10.5167, 49.6167], "date": "2025-12-09"}, // Langenfeld, Einbruch
+{"coords": [12.2, 54.1167], "date": "2025-12-09"}, // Bentwisch, stehlen
+{"coords": [10.15, 53.4], "date": "2025-12-09"}, // Stelle, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-12-09"}, // Northeim, Dieb
+{"coords": [6.3319, 51.5194], "date": "2025-12-09"}, // Geldern, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-09"}, // Soest, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-12-09"}, // Diebstählen Augsburg, Diebstähle

@@ -3477,3 +3477,6 @@
 {"coords": [12.35, 49.1833], "date": "2025-12-09"}, // Reichenbach, Einbrecher
 {"coords": [8.4353, 49.4811], "date": "2025-12-09"}, // Gaststätte Ludwigshafen, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2025-12-09"}, // Versuchter Raub Ludwigshafen, Raub
+{"coords": [7.1675, 51.9436], "date": "2025-12-09"}, // Versuchter Einbruch Coesfeld, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2025-12-09"}, // Schwerte, entwendet
+{"coords": [10.7183, 50.9489], "date": "2025-12-09"}, // Kennzeichentafeln Landkreis Gotha, Diebstahl

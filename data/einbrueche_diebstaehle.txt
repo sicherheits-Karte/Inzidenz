@@ -3439,3 +3439,14 @@
 //{"coords": [], "date": "2025-12-09"} // Schalbruch, Einbruch
 {"coords": [6.1333, 51.0833], "date": "2025-12-09"}, // Unterbruch, Raub
 {"coords": [10.4, 53.25], "date": "2025-12-09"}, // Lüneburg, eingebrochen
+{"coords": [8.6833, 50.5833], "date": "2025-12-09"}, // Giessen, Einbrecher
+//{"coords": [], "date": "2025-12-09"} // Bad Salzungen, Raub
+{"coords": [7.0116, 51.4556], "date": "2025-12-09"}, // Fotofahndung Essen, entwendet
+{"coords": [11.0299, 50.9848], "date": "2025-12-09"}, // Erfurt, Dieb
+{"coords": [8.5331, 52.021], "date": "2025-12-09"}, // Bielefeld, Dieb
+{"coords": [9.3833, 50.6333], "date": "2025-12-09"}, // Kennzeichendiebstahl Vogelsbergkreis, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-12-09"}, // Kennzeichen Bielefeld, Diebstahl
+{"coords": [12.0991, 54.0924], "date": "2025-12-09"}, // Landkreis Rostock, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2025-12-09"}, // Kennzeichentafeln Landkreis Sömmerda, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2025-12-09"}, // Autos Giessen, Diebstähle
+{"coords": [8.5331, 52.021], "date": "2025-12-09"}, // Bielefeld, entwendet

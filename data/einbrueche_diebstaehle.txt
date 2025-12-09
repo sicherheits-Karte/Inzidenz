@@ -3403,3 +3403,6 @@
 //{"coords": [], "date": "2025-12-09"} // Brombachtal, entwendet
 {"coords": [8.4661, 49.4878], "date": "2025-12-09"}, // Zeugenaufruf Mannheim, gestohlen
 {"coords": [8.8667, 51.9333], "date": "2025-12-09"}, // Lippe, Einbrecher
+{"coords": [6.3319, 51.5194], "date": "2025-12-09"}, // Geldern, Einbrüche
+{"coords": [8.0169, 50.3714], "date": "2025-12-09"}, // Diez, Einbruch
+{"coords": [9.5831, 52.8619], "date": "2025-12-09"}, // Walsrode, Einbruch

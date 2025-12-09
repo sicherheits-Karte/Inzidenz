@@ -3418,3 +3418,8 @@
 {"coords": [6.3319, 51.5194], "date": "2025-12-09"}, // Geldern, Einbruch
 {"coords": [8.1092, 51.5711], "date": "2025-12-09"}, // Soest, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2025-12-09"}, // Diebstählen Augsburg, Diebstähle
+{"coords": [10.75, 53.7], "date": "2025-12-09"}, // Einfamilienhaus Ratzeburg, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2025-12-09"}, // Heidekreis, Einbruch
+{"coords": [9.732, 52.3759], "date": "2025-12-09"}, // Hannover, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2025-12-09"}, // Reutlingen, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-09"}, // Bochum, Einbrecher

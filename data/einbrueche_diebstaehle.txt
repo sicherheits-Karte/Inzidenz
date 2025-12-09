@@ -3314,3 +3314,9 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-09"}, // Polizeibeamte Aalen, Einbruch
 //{"coords": [], "date": "2025-12-09"} // Kreis, Dieb
 {"coords": [8.0, 51.45], "date": "2025-12-09"}, // Lebensmitteldiscounter Im Ohl Arnsberg, Einbruch
+{"coords": [7.6736, 51.2972], "date": "2025-12-09"}, // Seniorin Altena, Einbrecher
+{"coords": [7.1675, 51.9436], "date": "2025-12-09"}, // Einbruch Coesfeld, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-09"}, // Einfamilienhaus Soest, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2025-12-09"}, // Meppen, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-12-09"}, // Apotheke Nordhorn, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2025-12-09"}, // Haren, Einbruch

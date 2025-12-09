@@ -3423,3 +3423,4 @@
 {"coords": [9.732, 52.3759], "date": "2025-12-09"}, // Hannover, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2025-12-09"}, // Reutlingen, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2025-12-09"}, // Bochum, Einbrecher
+{"coords": [7.18, 49.3439], "date": "2025-12-09"}, // Neunkirchen, Diebstahl

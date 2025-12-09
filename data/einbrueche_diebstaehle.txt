@@ -3487,3 +3487,4 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-09"}, // Arbeitsunfall Reutlingen, aufbrüche
 //{"coords": [], "date": "2025-12-09"} // Einsatz Radevormwald, Raub
 {"coords": [8.4043, 49.014], "date": "2025-12-09"}, // Stadtgebiet Karlsruhe Karlsruhe, Einbrüche
+{"coords": [9.1753, 47.6633], "date": "2025-12-09"}, // Konstanz, Diebstahl

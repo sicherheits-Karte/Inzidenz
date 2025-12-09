@@ -3339,3 +3339,16 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-09"}, // Aalen, Einbruch
 {"coords": [8.8744, 50.3547], "date": "2025-12-09"}, // Reichelsheim, Einbrüche
 {"coords": [8.8431, 49.8978], "date": "2025-12-09"}, // Dieburg, Dieb
+{"coords": [8.3667, 50.0], "date": "2025-12-09"}, // Einbrecher Bischofsheim, Einbrecher
+{"coords": [7.3392, 51.3197], "date": "2025-12-09"}, // Terrassentür Gevelsberg, Einbruch
+{"coords": [8.45, 49.95], "date": "2025-12-09"}, // Nauheim, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Meckenheim, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-12-09"}, // Heppens Wilhelmshaven, Diebstahl
+{"coords": [9.95, 52.15], "date": "2025-12-09"}, // Handwerkerfahrzeug Hildesheim, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2025-12-09"}, // Osnabrück, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2025-12-09"}, // Rüsselsheim, gestohlen
+//{"coords": [], "date": "2025-12-09"} // einem Supermarkt in der Straße, entwendet
+{"coords": [10.9147, 50.6856], "date": "2025-12-09"}, // Ilmenau, entwendet
+{"coords": [8.1075, 53.5219], "date": "2025-12-09"}, // Wilhelmshaven Wilhelmshaven, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-09"}, // Arbeitsunfall Aalen, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Zeugen Hövelhof, Einbruch

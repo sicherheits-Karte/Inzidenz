@@ -3375,3 +3375,11 @@
 //{"coords": [], "date": "2025-12-09"} // Erpressungsdeliktes Bad Langensalza, Räuber
 {"coords": [9.1919, 48.8975], "date": "2025-12-09"}, // Ludwigsburg, Einbruch
 {"coords": [8.9519, 49.9667], "date": "2025-12-09"}, // Babenhausen, Raub
+{"coords": [7.1, 51.5167], "date": "2025-12-09"}, // Tankstelle Gelsenkirchen, Raub
+{"coords": [9.4108, 53.1111], "date": "2025-12-09"}, // Rotenburg, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Schwabach, Einbruch
+{"coords": [10.4508, 50.7211], "date": "2025-12-09"}, // Schmalkalden, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2025-12-09"}, // Bonn, gestohlen
+{"coords": [10.6944, 50.6111], "date": "2025-12-09"}, // Suhl, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2025-12-09"}, // Tankstelle Wuppertal, Raub
+{"coords": [7.9167, 52.2833], "date": "2025-12-09"}, // Gaststätte Lotte, Einbruch

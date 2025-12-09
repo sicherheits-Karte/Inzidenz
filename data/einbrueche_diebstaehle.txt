@@ -3320,3 +3320,19 @@
 {"coords": [7.2908, 52.6906], "date": "2025-12-09"}, // Meppen, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2025-12-09"}, // Apotheke Nordhorn, Einbruch
 {"coords": [7.2417, 52.7922], "date": "2025-12-09"}, // Haren, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2025-12-09"}, // Greiz, Diebstahl
+{"coords": [8.5833, 51.3833], "date": "2025-12-09"}, // Brilon Brilon, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2025-12-09"}, // Darmstadt, Einbrecher
+{"coords": [8.2417, 48.7994], "date": "2025-12-09"}, // Baden, entwendet
+{"coords": [10.7753, 49.7544], "date": "2025-12-09"}, // Mühlhausen, Dieb
+//{"coords": [], "date": "2025-12-09"} // Ammern, entwendet
+{"coords": [8.1092, 51.5711], "date": "2025-12-09"}, // Kreis Soest, Diebstähle
+{"coords": [7.1675, 51.9436], "date": "2025-12-09"}, // Wohnung Coesfeld, Einbruch
+//{"coords": [], "date": "2025-12-09"} // Wied, Einbruch
+{"coords": [10.135, 51.3783], "date": "2025-12-09"}, // Tätern Heilbad Heiligenstadt, Räuber
+{"coords": [9.0492, 52.2603], "date": "2025-12-09"}, // Zeugen Bückeburg, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2025-12-09"}, // Heilbronn, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-12-09"}, // Spielplatz Lippstadt, Einbruch
+{"coords": [9.1167, 50.85], "date": "2025-12-09"}, // Mainzer Neustadt Mainz, Einbrüche
+{"coords": [12.1997, 50.6544], "date": "2025-12-09"}, // Bad Köstritz Greiz, Einbruch
+{"coords": [12.0667, 53.6167], "date": "2025-12-09"}, // Dobbertin Dobbertin, Einbruch

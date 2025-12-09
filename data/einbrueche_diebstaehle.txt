@@ -3450,3 +3450,13 @@
 {"coords": [11.1167, 51.1667], "date": "2025-12-09"}, // Kennzeichentafeln Landkreis Sömmerda, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2025-12-09"}, // Autos Giessen, Diebstähle
 {"coords": [8.5331, 52.021], "date": "2025-12-09"}, // Bielefeld, entwendet
+{"coords": [7.4981, 51.1861], "date": "2025-12-09"}, // Halver, Dieb
+{"coords": [10.75, 53.7], "date": "2025-12-09"}, // Fahrraddieb Ratzeburg, Diebstähle
+{"coords": [8.0667, 50.3833], "date": "2025-12-09"}, // Limburg, Dieb
+//{"coords": [], "date": "2025-12-09"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.82, 47.99], "date": "2025-12-09"}, // Haft Freiburg, entwendet
+{"coords": [7.2, 51.6167], "date": "2025-12-09"}, // Einbrüche Recklinghausen, Einbrüche
+{"coords": [6.85, 49.3], "date": "2025-12-09"}, // Abbiegevorgang Bad Schwalbach, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-09"}, // Diebstahl Aalen, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-12-09"}, // Wiesbaden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-09"}, // Diebstähle Aalen, Diebstähle

@@ -3635,3 +3635,7 @@
 {"coords": [6.85, 49.3], "date": "2025-12-10"}, // Bad Schwalbach, eingebrochen
 {"coords": [10.7956, 51.5019], "date": "2025-12-10"}, // Zeugen Nordhausen, Einbrecher
 {"coords": [10.3167, 51.4], "date": "2025-12-10"}, // Leinefelde, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-12-10"}, // Limburg, Dieb
+//{"coords": [], "date": "2025-12-10"} // im Blick, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Höhe, Einbrüche
+{"coords": [8.4353, 49.4811], "date": "2025-12-10"}, // Gaststätte Ludwigshafen, Einbruch

@@ -3614,3 +3614,14 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-10"}, // Einbruch Aalen, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2025-12-10"}, // Zeugen Osnabrück, Einbruch
 //{"coords": [], "date": "2025-12-10"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2025-12-10"}, // Landkreis Wittmund, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2025-12-10"}, // Hinweise Osnabrück, Dieb
+{"coords": [7.4836, 53.4711], "date": "2025-12-10"}, // Landkreis Aurich, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-12-10"}, // Hinweise Recklinghausen, Einbrüche
+{"coords": [10.2167, 54.05], "date": "2025-12-10"}, // Zeugen Trappenkamp, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-12-10"}, // Einfamilienhäuser Fulda, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2025-12-10"}, // Kleve, Diebstahl
+{"coords": [10.7667, 51.5667], "date": "2025-12-10"}, // Dieben Ilfeld, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-12-10"}, // Wiesbaden, Einbrüche
+{"coords": [8.4353, 49.4811], "date": "2025-12-10"}, // Ludwigshafen, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2025-12-10"}, // Untersuchungshaft Heidelberg, entwendet

@@ -3578,3 +3578,7 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-10"}, // Reutlingen, Einbruch
 {"coords": [10.6425, 52.1889], "date": "2025-12-10"}, // Sickte, Diebstahl
 {"coords": [8.5847, 53.5469], "date": "2025-12-10"}, // Tat Bremerhaven, Einbrecher
+//{"coords": [], "date": "2025-12-10"} // West, stahl
+{"coords": [10.7, 49.2], "date": "2025-12-10"}, // Geschäft Merkendorf, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Tageswohnungseinbrüche Bad Münstereifel, Einbrüche
+{"coords": [7.3392, 51.3197], "date": "2025-12-10"}, // Gevelsberg, Raub

@@ -3625,3 +3625,5 @@
 {"coords": [8.24, 50.0822], "date": "2025-12-10"}, // Wiesbaden, Einbrüche
 {"coords": [8.4353, 49.4811], "date": "2025-12-10"}, // Ludwigshafen, Diebstahl
 {"coords": [8.6944, 49.4092], "date": "2025-12-10"}, // Untersuchungshaft Heidelberg, entwendet
+{"coords": [8.9519, 49.9667], "date": "2025-12-10"}, // Babenhausen, Einbrüche
+{"coords": [8.6167, 49.6833], "date": "2025-12-10"}, // Bensheim, entwendet

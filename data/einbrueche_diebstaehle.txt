@@ -3532,3 +3532,9 @@
 {"coords": [8.5847, 53.5469], "date": "2025-12-10"}, // Seniorin Bremerhaven, Diebstähle
 {"coords": [8.1917, 48.7917], "date": "2025-12-10"}, // Sandweier, Einbruch
 {"coords": [8.95, 49.9333], "date": "2025-12-10"}, // Umstadt, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Zeugen Kreuzau, Einbruch
+{"coords": [6.4333, 51.2], "date": "2025-12-10"}, // Filiale Mönchengladbach, Einbruch
+{"coords": [10.0667, 51.2333], "date": "2025-12-10"}, // Mackenrode, Einbruch
+{"coords": [8.5667, 51.7667], "date": "2025-12-10"}, // Delbrück, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-10"}, // Ulm, Diebstahl
+{"coords": [7.7, 51.375], "date": "2025-12-10"}, // Diebstahl Iserlohn, Einbruch

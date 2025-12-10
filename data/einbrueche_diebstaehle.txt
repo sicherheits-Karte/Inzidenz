@@ -3596,3 +3596,5 @@
 {"coords": [8.8678, 49.9228], "date": "2025-12-10"}, // Zeugen Münster, Einbruch
 {"coords": [8.7667, 50.1], "date": "2025-12-10"}, // Kreis Offenbach, Einbruch
 {"coords": [13.2611, 53.5569], "date": "2025-12-10"}, // Neubrandenburg, aufbrechen
+{"coords": [6.3917, 51.2556], "date": "2025-12-10"}, // verhindert Viersen-Süchteln, Einbruch
+{"coords": [13.2611, 53.5569], "date": "2025-12-10"}, // Neubrandenburg, Diebstahl

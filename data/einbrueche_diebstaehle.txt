@@ -3560,3 +3560,16 @@
 {"coords": [10.75, 53.7], "date": "2025-12-10"}, // Feuerwehrhaus Ratzeburg, Einbruch
 //{"coords": [], "date": "2025-12-10"} // Winsen, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2025-12-10"}, // Kennzeichen Köln, Raub
+{"coords": [11.9667, 48.7667], "date": "2025-12-10"}, // Werkzeug Rohr, Diebstahl
+{"coords": [9.4367, 54.7819], "date": "2025-12-10"}, // Flensburg, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2025-12-10"}, // Zeugen Zweibrücken, stehlen
+{"coords": [6.9019, 50.8331], "date": "2025-12-10"}, // Fahrschule Brühl, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2025-12-10"}, // Rüsselsheim, entwendet
+{"coords": [9.1919, 48.8975], "date": "2025-12-10"}, // Wohnhäuser Ludwigsburg, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2025-12-10"}, // Lippe, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Neuhofen, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2025-12-10"}, // Lippe, entwendet
+{"coords": [8.8667, 51.9333], "date": "2025-12-10"}, // Lippe, stahl
+{"coords": [9.2222, 48.7189], "date": "2025-12-10"}, // Birkach, eingebrochen
+{"coords": [8.2833, 49.3667], "date": "2025-12-10"}, // Kupferkabel Haßloch, Einbruch
+{"coords": [8.6306, 53.05], "date": "2025-12-10"}, // Wachsamkeit Delmenhorst, Einbruch

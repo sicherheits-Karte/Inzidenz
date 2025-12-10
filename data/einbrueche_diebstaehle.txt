@@ -3582,3 +3582,11 @@
 {"coords": [10.7, 49.2], "date": "2025-12-10"}, // Geschäft Merkendorf, Einbruch
 //{"coords": [], "date": "2025-12-10"} // Tageswohnungseinbrüche Bad Münstereifel, Einbrüche
 {"coords": [7.3392, 51.3197], "date": "2025-12-10"}, // Gevelsberg, Raub
+{"coords": [8.6833, 50.5833], "date": "2025-12-10"}, // Einkaufszentrum Giessen, Einbruch
+{"coords": [7.0333, 50.8167], "date": "2025-12-10"}, // Wohnung Niederkassel, Raub
+{"coords": [7.2197, 51.5428], "date": "2025-12-10"}, // Zeugen Herne, Einbruch
+{"coords": [9.0, 47.85], "date": "2025-12-10"}, // Stockach, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2025-12-10"}, // Zeugensuche Duisburg, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-12-10"}, // Einfamilienhaus Karlsruhe, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2025-12-10"}, // Einfamilienhaus Suhl, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2025-12-10"}, // Grimburg Trier, Einbruch

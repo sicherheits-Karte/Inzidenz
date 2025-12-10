@@ -3538,3 +3538,12 @@
 {"coords": [8.5667, 51.7667], "date": "2025-12-10"}, // Delbrück, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2025-12-10"}, // Ulm, Diebstahl
 {"coords": [7.7, 51.375], "date": "2025-12-10"}, // Diebstahl Iserlohn, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Kein Ort gefunden, Dieb
+{"coords": [11.0767, 49.4521], "date": "2025-12-10"}, // Nürnberg, Raub
+{"coords": [8.0739, 48.6311], "date": "2025-12-10"}, // Bahnhofskiosk Achern, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2025-12-10"}, // Emden, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Hambühren, entwendet
+{"coords": [8.8075, 53.075], "date": "2025-12-10"}, // Gröpelingen-- Bremen, Raub
+{"coords": [7.0667, 52.1], "date": "2025-12-10"}, // Wohnung Heek, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2025-12-10"}, // Wohnungen Gronau, Einbrüche
+{"coords": [6.6393, 49.7556], "date": "2025-12-10"}, // Kalenderwoche Trier, klau

@@ -3639,3 +3639,6 @@
 //{"coords": [], "date": "2025-12-10"} // im Blick, Einbruch
 //{"coords": [], "date": "2025-12-10"} // Höhe, Einbrüche
 {"coords": [8.4353, 49.4811], "date": "2025-12-10"}, // Gaststätte Ludwigshafen, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2025-12-10"}, // Haftrichtertermin Köln, Dieb
+{"coords": [8.4414, 50.0919], "date": "2025-12-10"}, // Wiesbadener Kreuz Hofheim, Einbruch
+{"coords": [8.5786, 49.5383], "date": "2025-12-10"}, // Viernheim, Diebstahl

@@ -3547,3 +3547,8 @@
 {"coords": [7.0667, 52.1], "date": "2025-12-10"}, // Wohnung Heek, Einbruch
 {"coords": [7.0333, 52.2167], "date": "2025-12-10"}, // Wohnungen Gronau, Einbrüche
 {"coords": [6.6393, 49.7556], "date": "2025-12-10"}, // Kalenderwoche Trier, klau
+//{"coords": [], "date": "2025-12-10"} // Raub Reinheim, Raub
+{"coords": [12.0991, 54.0924], "date": "2025-12-10"}, // Rostock, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2025-12-10"}, // Umkleidekabine Kaiserslautern, Dieb
+{"coords": [8.0167, 50.8833], "date": "2025-12-10"}, // Siegen, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Spirituosen und Lebensmitteln festgenommen, Diebstahl

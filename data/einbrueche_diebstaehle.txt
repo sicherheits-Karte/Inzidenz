@@ -3496,3 +3496,10 @@
 {"coords": [8.1092, 51.5711], "date": "2025-12-10"}, // Soest, Einbruch
 //{"coords": [], "date": "2025-12-10"} // Weimarer Land, Einbruch
 {"coords": [8.0, 51.45], "date": "2025-12-10"}, // Arnsberg, entwendet
+{"coords": [10.0936, 48.8372], "date": "2025-12-10"}, // Körperverletzung Aalen, Diebstahl
+{"coords": [8.5667, 48.8667], "date": "2025-12-10"}, // Straubenhardt, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-12-10"}, // Ulm, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-10"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-10"}, // Unfälle Aalen, Einbruch
+{"coords": [7.1167, 51.0333], "date": "2025-12-10"}, // Odenthal, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-12-10"}, // Abschiebehaft Münster, Diebstahl

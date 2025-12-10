@@ -3627,3 +3627,11 @@
 {"coords": [8.6944, 49.4092], "date": "2025-12-10"}, // Untersuchungshaft Heidelberg, entwendet
 {"coords": [8.9519, 49.9667], "date": "2025-12-10"}, // Babenhausen, Einbrüche
 {"coords": [8.6167, 49.6833], "date": "2025-12-10"}, // Bensheim, entwendet
+{"coords": [8.4353, 49.4811], "date": "2025-12-10"}, // Mehrere Kellereinbrüche Ludwigshafen, Einbrüche
+{"coords": [14.2667, 52.1], "date": "2025-12-10"}, // Flucht Friedland, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-12-10"}, // Fahrzeuge Ludwigshafen, Einbrüche
+{"coords": [8.4725, 49.5981], "date": "2025-12-10"}, // Lampertheim, Diebstähle
+{"coords": [7.7689, 49.4447], "date": "2025-12-10"}, // Menschenmenge Kaiserslautern, Dieb
+{"coords": [6.85, 49.3], "date": "2025-12-10"}, // Bad Schwalbach, eingebrochen
+{"coords": [10.7956, 51.5019], "date": "2025-12-10"}, // Zeugen Nordhausen, Einbrecher
+{"coords": [10.3167, 51.4], "date": "2025-12-10"}, // Leinefelde, Einbruch

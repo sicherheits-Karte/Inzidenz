@@ -3503,3 +3503,12 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-10"}, // Unfälle Aalen, Einbruch
 {"coords": [7.1167, 51.0333], "date": "2025-12-10"}, // Odenthal, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2025-12-10"}, // Abschiebehaft Münster, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-12-10"}, // Lingen, gestohlen
+{"coords": [7.0667, 52.4333], "date": "2025-12-10"}, // Wohnung Nordhorn, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-10"}, // Pfefferspray Erfurt, stahl
+{"coords": [11.0299, 50.9848], "date": "2025-12-10"}, // Fluchtversuch Erfurt, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2025-12-10"}, // Vechta, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-12-10"}, // Einfamilienhaus Erfurt, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2025-12-10"}, // Sömmerda Erfurt, entwendet
+{"coords": [9.0, 50.7333], "date": "2025-12-10"}, // Zeugen Homberg, Dieb
+//{"coords": [], "date": "2025-12-10"} // Roxheim, Diebstahl

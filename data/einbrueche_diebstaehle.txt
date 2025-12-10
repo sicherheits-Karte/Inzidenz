@@ -3517,3 +3517,12 @@
 //{"coords": [], "date": "2025-12-10"} // Rehe Rehe, Einbruch
 //{"coords": [], "date": "2025-12-10"} // Ottersdorf, Einbruch
 {"coords": [7.25, 52.6167], "date": "2025-12-10"}, // Sattelzugmaschine Geeste, Diebstahl
+{"coords": [7.4, 51.1167], "date": "2025-12-10"}, // Wipperfürth, eingebrochen
+{"coords": [7.3778, 51.0194], "date": "2025-12-10"}, // Dieb Lindlar, Dieb
+//{"coords": [], "date": "2025-12-10"} // Goldschmiede Bergisch Gladbach, Einbruch
+{"coords": [7.5, 51.4167], "date": "2025-12-10"}, // Garenfeld, Einbrüche
+{"coords": [9.95, 52.15], "date": "2025-12-10"}, // Hildesheim, Dieb
+{"coords": [8.0, 50.4], "date": "2025-12-10"}, // Holzheim, entwendet
+{"coords": [7.9833, 51.95], "date": "2025-12-10"}, // Tatverdächtige Warendorf, Einbruch
+{"coords": [9.8, 53.6592], "date": "2025-12-10"}, // Paketen Pinneberg, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2025-12-10"}, // Zeugen-- Bremen, Räuber

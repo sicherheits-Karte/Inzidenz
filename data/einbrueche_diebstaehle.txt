@@ -3526,3 +3526,9 @@
 {"coords": [7.9833, 51.95], "date": "2025-12-10"}, // Tatverdächtige Warendorf, Einbruch
 {"coords": [9.8, 53.6592], "date": "2025-12-10"}, // Paketen Pinneberg, Diebstahl
 {"coords": [8.8075, 53.075], "date": "2025-12-10"}, // Zeugen-- Bremen, Räuber
+{"coords": [9.9916, 48.3984], "date": "2025-12-10"}, // Ulm, Raub
+{"coords": [9.2108, 49.1425], "date": "2025-12-10"}, // Landkreis Heilbronn, Einbruch
+{"coords": [8.8592, 52.1653], "date": "2025-12-10"}, // Physiotherapeutin Vlotho, Diebstahl
+{"coords": [8.5847, 53.5469], "date": "2025-12-10"}, // Seniorin Bremerhaven, Diebstähle
+{"coords": [8.1917, 48.7917], "date": "2025-12-10"}, // Sandweier, Einbruch
+{"coords": [8.95, 49.9333], "date": "2025-12-10"}, // Umstadt, Einbruch

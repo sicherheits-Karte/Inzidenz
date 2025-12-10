@@ -3598,3 +3598,12 @@
 {"coords": [13.2611, 53.5569], "date": "2025-12-10"}, // Neubrandenburg, aufbrechen
 {"coords": [6.3917, 51.2556], "date": "2025-12-10"}, // verhindert Viersen-Süchteln, Einbruch
 {"coords": [13.2611, 53.5569], "date": "2025-12-10"}, // Neubrandenburg, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2025-12-10"}, // Zeugensuche Duisburg, Dieb
+//{"coords": [], "date": "2025-12-10"} // der Nacht vom, Diebstahl
+{"coords": [7.2511, 50.5442], "date": "2025-12-10"}, // Sinzig, Raub
+{"coords": [10.4, 53.25], "date": "2025-12-10"}, // Lüneburg, Einbruch
+{"coords": [7.8139, 52.2194], "date": "2025-12-10"}, // Tecklenburg, gestohlen
+{"coords": [12.6333, 48.5667], "date": "2025-12-10"}, // Reisbach, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-12-10"}, // Haustür Freiburg, Diebstahl
+//{"coords": [], "date": "2025-12-10"} // Kreis, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-10"}, // Oldenburg Oldenburg, Einbruch

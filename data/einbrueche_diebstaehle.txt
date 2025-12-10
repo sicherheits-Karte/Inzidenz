@@ -3573,3 +3573,8 @@
 {"coords": [9.2222, 48.7189], "date": "2025-12-10"}, // Birkach, eingebrochen
 {"coords": [8.2833, 49.3667], "date": "2025-12-10"}, // Kupferkabel Haßloch, Einbruch
 {"coords": [8.6306, 53.05], "date": "2025-12-10"}, // Wachsamkeit Delmenhorst, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Dorstadt, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2025-12-10"}, // Tabakwaren Gevelsberg, Raub
+{"coords": [9.2167, 48.4833], "date": "2025-12-10"}, // Reutlingen, Einbruch
+{"coords": [10.6425, 52.1889], "date": "2025-12-10"}, // Sickte, Diebstahl
+{"coords": [8.5847, 53.5469], "date": "2025-12-10"}, // Tat Bremerhaven, Einbrecher

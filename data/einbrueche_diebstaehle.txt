@@ -3607,3 +3607,10 @@
 {"coords": [7.82, 47.99], "date": "2025-12-10"}, // Haustür Freiburg, Diebstahl
 //{"coords": [], "date": "2025-12-10"} // Kreis, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2025-12-10"}, // Oldenburg Oldenburg, Einbruch
+{"coords": [9.7678, 53.7892], "date": "2025-12-10"}, // Zeugenhinweise Barmstedt, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2025-12-10"}, // Giessen, Diebstahl
+{"coords": [7.0333, 52.2167], "date": "2025-12-10"}, // Gronau, Einbrecher
+{"coords": [9.6106, 47.7828], "date": "2025-12-10"}, // Landkreis Ravensburg Landkreis Ravensburg, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2025-12-10"}, // Einbruch Aalen, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2025-12-10"}, // Zeugen Osnabrück, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Kein Ort gefunden, Diebstahl

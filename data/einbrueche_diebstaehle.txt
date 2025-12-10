@@ -3642,3 +3642,5 @@
 {"coords": [6.9603, 50.9375], "date": "2025-12-10"}, // Haftrichtertermin Köln, Dieb
 {"coords": [8.4414, 50.0919], "date": "2025-12-10"}, // Wiesbadener Kreuz Hofheim, Einbruch
 {"coords": [8.5786, 49.5383], "date": "2025-12-10"}, // Viernheim, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2025-12-10"}, // Verkehrsunfall Reutlingen, gestohlen
+//{"coords": [], "date": "2025-12-10"} // Kein Ort gefunden, Einbrecher

@@ -3491,3 +3491,5 @@
 {"coords": [6.8889, 49.9858], "date": "2025-12-10"}, // Mehrfamilienhaus Wittlich, Einbruch
 {"coords": [7.6333, 51.2167], "date": "2025-12-10"}, // Kiosk Lüdenscheid, Raub
 {"coords": [8.9167, 50.1333], "date": "2025-12-10"}, // Kasse Hanau, Dieb
+{"coords": [12.4333, 50.985], "date": "2025-12-10"}, // Bäckerei Altenburg, Diebstahl
+{"coords": [6.3319, 51.5194], "date": "2025-12-10"}, // Geldern, Einbruch

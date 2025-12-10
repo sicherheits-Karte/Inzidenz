@@ -3493,3 +3493,6 @@
 {"coords": [8.9167, 50.1333], "date": "2025-12-10"}, // Kasse Hanau, Dieb
 {"coords": [12.4333, 50.985], "date": "2025-12-10"}, // Bäckerei Altenburg, Diebstahl
 {"coords": [6.3319, 51.5194], "date": "2025-12-10"}, // Geldern, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-10"}, // Soest, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Weimarer Land, Einbruch
+{"coords": [8.0, 51.45], "date": "2025-12-10"}, // Arnsberg, entwendet

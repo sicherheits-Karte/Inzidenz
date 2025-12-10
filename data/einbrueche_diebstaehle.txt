@@ -3590,3 +3590,9 @@
 {"coords": [8.4043, 49.014], "date": "2025-12-10"}, // Einfamilienhaus Karlsruhe, Einbruch
 {"coords": [10.6944, 50.6111], "date": "2025-12-10"}, // Einfamilienhaus Suhl, Einbruch
 {"coords": [6.6393, 49.7556], "date": "2025-12-10"}, // Grimburg Trier, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Zeugenaufruf Neuendettelsau, entwendet
+//{"coords": [], "date": "2025-12-10"} // Kreis, Einbrecher
+{"coords": [7.3194, 52.5236], "date": "2025-12-10"}, // Lingen, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-12-10"}, // Zeugen Münster, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-12-10"}, // Kreis Offenbach, Einbruch
+{"coords": [13.2611, 53.5569], "date": "2025-12-10"}, // Neubrandenburg, aufbrechen

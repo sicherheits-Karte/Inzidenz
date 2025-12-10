@@ -3645,3 +3645,4 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-10"}, // Verkehrsunfall Reutlingen, gestohlen
 //{"coords": [], "date": "2025-12-10"} // Kein Ort gefunden, Einbrecher
 {"coords": [9.732, 52.3759], "date": "2025-12-10"}, // Hannover, Diebstahl
+{"coords": [6.75, 50.4167], "date": "2025-12-10"}, // Esch Esch, Einbruch

@@ -3512,3 +3512,8 @@
 {"coords": [11.1167, 51.1667], "date": "2025-12-10"}, // Sömmerda Erfurt, entwendet
 {"coords": [9.0, 50.7333], "date": "2025-12-10"}, // Zeugen Homberg, Dieb
 //{"coords": [], "date": "2025-12-10"} // Roxheim, Diebstahl
+{"coords": [8.05, 51.6], "date": "2025-12-10"}, // Welver, aufbrüche
+{"coords": [8.0167, 50.6], "date": "2025-12-10"}, // Rennerod Rennerod, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Rehe Rehe, Einbruch
+//{"coords": [], "date": "2025-12-10"} // Ottersdorf, Einbruch
+{"coords": [7.25, 52.6167], "date": "2025-12-10"}, // Sattelzugmaschine Geeste, Diebstahl

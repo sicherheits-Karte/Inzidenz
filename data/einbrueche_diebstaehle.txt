@@ -3552,3 +3552,7 @@
 {"coords": [7.7689, 49.4447], "date": "2025-12-10"}, // Umkleidekabine Kaiserslautern, Dieb
 {"coords": [8.0167, 50.8833], "date": "2025-12-10"}, // Siegen, Einbruch
 //{"coords": [], "date": "2025-12-10"} // Spirituosen und Lebensmitteln festgenommen, Diebstahl
+//{"coords": [], "date": "2025-12-10"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.9447, 48.4731], "date": "2025-12-10"}, // Mehrere Vergehen Offenburg, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-12-10"}, // Hinweise Homberg, Einbruch
+{"coords": [9.8372, 54.4714], "date": "2025-12-10"}, // Eckernförde, Diebstähle

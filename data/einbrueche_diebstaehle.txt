@@ -3651,3 +3651,7 @@
 {"coords": [13.2611, 53.5569], "date": "2025-12-11"}, // Neubrandenburg, Raub
 {"coords": [6.8889, 49.9858], "date": "2025-12-11"}, // Taschendiebstahl Wittlich, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2025-12-11"}, // Trickdiebstahl Wittlich, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2025-12-11"}, // Ladendiebstahl Hagen, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2025-12-11"}, // Einbruch Coesfeld, Einbruch
+{"coords": [7.9167, 51.5833], "date": "2025-12-11"}, // Hövel, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-12-11"}, // Tatverdächtigen Offenbach, Räuber

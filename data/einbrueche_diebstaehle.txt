@@ -3704,3 +3704,7 @@
 {"coords": [7.0083, 52.075], "date": "2025-12-11"}, // Einbrüchen Ahaus, Einbrüche
 //{"coords": [], "date": "2025-12-11"} // Flamersheim, eingebrochen
 {"coords": [7.2, 51.6167], "date": "2025-12-11"}, // Recklinghausen, Raub
+//{"coords": [], "date": "2025-12-11"} // Altkalkar, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2025-12-11"}, // Dortmund, Dieb
+{"coords": [9.4108, 53.1111], "date": "2025-12-11"}, // Rotenburg, entwendet
+{"coords": [8.8075, 53.075], "date": "2025-12-11"}, // Haft-- Bremen, Diebstahl

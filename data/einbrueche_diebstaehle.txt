@@ -3753,3 +3753,13 @@
 {"coords": [10.0, 53.7833], "date": "2025-12-11"}, // Ulzburg, Einbrüche
 {"coords": [10.0936, 48.8372], "date": "2025-12-11"}, // Einbrüche Aalen, Einbruch
 {"coords": [7.5978, 50.3597], "date": "2025-12-11"}, // Zeugen Koblenz, Einbrüche
+{"coords": [7.6333, 51.2167], "date": "2025-12-11"}, // Ehepaar Lüdenscheid, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2025-12-11"}, // Giessen, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2025-12-11"}, // Limburg, gestohlen
+{"coords": [6.9194, 51.9944], "date": "2025-12-11"}, // Stadtlohn, entwendet
+{"coords": [8.4414, 50.0919], "date": "2025-12-11"}, // Hofheim, Einbrüche
+{"coords": [6.85, 49.3], "date": "2025-12-11"}, // Bundesstraße Bad Schwalbach, eingebrochen
+{"coords": [11.0299, 50.9848], "date": "2025-12-11"}, // Kellereinbruch Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-11"}, // Erfurter Wohnungen Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-11"}, // Schuhe Erfurt, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-12-11"}, // Wiesbaden, Einbruch

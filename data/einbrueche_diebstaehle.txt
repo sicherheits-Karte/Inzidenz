@@ -3775,3 +3775,4 @@
 {"coords": [8.6833, 50.5833], "date": "2025-12-11"}, // Parkplatzrempler Giessen, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2025-12-11"}, // Ludwigshafen, Dieb
 {"coords": [8.3833, 51.9], "date": "2025-12-11"}, // Spezialeinheiten Gütersloh, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-12-11"}, // Realschule Bielefeld, Einbruch

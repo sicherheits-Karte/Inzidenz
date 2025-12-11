@@ -3718,3 +3718,7 @@
 //{"coords": [], "date": "2025-12-11"} // POL-PDNR, Diebstahl
 //{"coords": [], "date": "2025-12-11"} // Wankum, Einbruch
 {"coords": [7.1, 51.5167], "date": "2025-12-11"}, // Räuber Gelsenkirchen, Raub
+{"coords": [8.2869, 52.7303], "date": "2025-12-11"}, // Vechta, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2025-12-11"}, // Zeugen Kreis Viersen, Einbrüche
+{"coords": [8.4311, 49.3194], "date": "2025-12-11"}, // Speyer, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-11"}, // Zeugen Bochum, Einbruch

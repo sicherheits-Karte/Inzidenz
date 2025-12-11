@@ -3737,3 +3737,5 @@
 {"coords": [9.2081, 52.3242], "date": "2025-12-11"}, // Schmalzkuchenbude Stadthagen, Einbruch
 //{"coords": [], "date": "2025-12-11"} // dem Kreisgebiet, Einbrüche
 {"coords": [8.5331, 52.021], "date": "2025-12-11"}, // Rücken Bielefeld, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2025-12-11"}, // Schmuck Gütersloh, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-12-11"}, // Kreis Offenbach, Dieb

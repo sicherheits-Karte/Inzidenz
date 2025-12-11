@@ -3658,3 +3658,13 @@
 {"coords": [9.8667, 51.8167], "date": "2025-12-11"}, // Landschildkröten Einbeck, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2025-12-11"}, // Versuchter Einbruch Coesfeld, Einbruch
 {"coords": [7.85, 51.6333], "date": "2025-12-11"}, // Rhynern, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2025-12-11"}, // Fahndungsmaßnahmen Gera, Diebstahl
+{"coords": [7.2333, 52.3167], "date": "2025-12-11"}, // Mehrfamilienhaus Schüttorf, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2025-12-11"}, // Versuchter Einbruch Haren, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-12-11"}, // Recklinghausen, Diebstahl
+//{"coords": [], "date": "2025-12-11"} // Kirche Börger, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-11"}, // Soest, eingebrochen
+{"coords": [9.0, 50.7333], "date": "2025-12-11"}, // Hinweise Homberg, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-11"}, // Wohnhaus Soest, Einbruch
+//{"coords": [], "date": "2025-12-11"} // Bingen, Einbrüche
+{"coords": [11.7667, 51.8333], "date": "2025-12-11"}, // Zeugen Nienburg, Einbruch

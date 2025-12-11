@@ -3780,3 +3780,6 @@
 {"coords": [7.4836, 53.4711], "date": "2025-12-11"}, // Schwerer Raub Landkreis Aurich, Raub
 {"coords": [10.7753, 49.7544], "date": "2025-12-11"}, // Mühlhausen, Einbrüche
 {"coords": [10.5667, 51.1667], "date": "2025-12-11"}, // Beuteschaden Altengottern, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-11"}, // Anhänger Reutlingen, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2025-12-11"}, // Landkreis Fulda Fulda, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2025-12-11"}, // Reutlingen, Einbruch

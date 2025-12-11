@@ -3729,3 +3729,9 @@
 {"coords": [10.6944, 50.6111], "date": "2025-12-11"}, // Suhl, Diebstahl
 //{"coords": [], "date": "2025-12-11"} // Höhe von insgesamt circa, entwendet
 {"coords": [10.7865, 52.4226], "date": "2025-12-11"}, // Wolfsburg, entwendet
+//{"coords": [], "date": "2025-12-11"} // Medizinteile Bad Oeynhausen, Einbruch
+{"coords": [10.5267, 52.2689], "date": "2025-12-11"}, // Braunschweig, Raub
+{"coords": [10.2333, 52.3203], "date": "2025-12-11"}, // Peine, Raub
+//{"coords": [], "date": "2025-12-11"} // Donaueschingen, Einbrüche
+{"coords": [9.1753, 47.6633], "date": "2025-12-11"}, // Konstanz, Raub
+{"coords": [9.2081, 52.3242], "date": "2025-12-11"}, // Schmalzkuchenbude Stadthagen, Einbruch

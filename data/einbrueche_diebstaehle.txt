@@ -3722,3 +3722,10 @@
 {"coords": [6.3917, 51.2556], "date": "2025-12-11"}, // Zeugen Kreis Viersen, Einbrüche
 {"coords": [8.4311, 49.3194], "date": "2025-12-11"}, // Speyer, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2025-12-11"}, // Zeugen Bochum, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-12-11"}, // Körperverletzung Heilbronn, Einbruch
+//{"coords": [], "date": "2025-12-11"} // Wohnung beraubt, Raub
+//{"coords": [], "date": "2025-12-11"} // Zeugen Sankt Augustin, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-12-11"}, // Wohnungseinbrüchen Karlsruhe, Einbrüche
+{"coords": [10.6944, 50.6111], "date": "2025-12-11"}, // Suhl, Diebstahl
+//{"coords": [], "date": "2025-12-11"} // Höhe von insgesamt circa, entwendet
+{"coords": [10.7865, 52.4226], "date": "2025-12-11"}, // Wolfsburg, entwendet

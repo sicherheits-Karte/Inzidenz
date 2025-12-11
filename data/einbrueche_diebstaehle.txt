@@ -3679,3 +3679,6 @@
 {"coords": [12.4333, 50.985], "date": "2025-12-11"}, // Altenburg, Einbruch
 {"coords": [7.95, 51.4833], "date": "2025-12-11"}, // Neheim Arnsberg, Einbruch
 {"coords": [7.9833, 51.95], "date": "2025-12-11"}, // Wohnungseinbruch Warendorf, Einbruch
+{"coords": [6.4833, 50.8], "date": "2025-12-11"}, // Zeugen Düren, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2025-12-11"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-12-11"}, // Körperverletzung Wilhelmshaven, Diebstahl

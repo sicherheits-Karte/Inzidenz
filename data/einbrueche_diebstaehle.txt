@@ -3697,3 +3697,10 @@
 {"coords": [8.1128, 49.1994], "date": "2025-12-11"}, // Landau, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2025-12-11"}, // Landau, entwendet
 {"coords": [7.7, 51.375], "date": "2025-12-11"}, // Imbiss Iserlohn, Einbruch
+//{"coords": [], "date": "2025-12-11"} // POL-SI, eingebrochen
+{"coords": [9.6333, 51.65], "date": "2025-12-11"}, // Diebstahl Uslar, Diebstahl
+{"coords": [9.4667, 53.9333], "date": "2025-12-11"}, // Einfamilienhaus Heiligenstedten, Einbruch
+{"coords": [7.0, 51.8333], "date": "2025-12-11"}, // Hinweise Reken, Einbruch
+{"coords": [7.0083, 52.075], "date": "2025-12-11"}, // Einbrüchen Ahaus, Einbrüche
+//{"coords": [], "date": "2025-12-11"} // Flamersheim, eingebrochen
+{"coords": [7.2, 51.6167], "date": "2025-12-11"}, // Recklinghausen, Raub

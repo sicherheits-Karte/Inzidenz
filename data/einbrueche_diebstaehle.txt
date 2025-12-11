@@ -3646,3 +3646,6 @@
 //{"coords": [], "date": "2025-12-10"} // Kein Ort gefunden, Einbrecher
 {"coords": [9.732, 52.3759], "date": "2025-12-10"}, // Hannover, Diebstahl
 {"coords": [6.75, 50.4167], "date": "2025-12-10"}, // Esch Esch, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-12-11"}, // Hildesheim, Diebstahl
+//{"coords": [], "date": "2025-12-11"} // Alt Gaarz, Diebstahl
+{"coords": [13.2611, 53.5569], "date": "2025-12-11"}, // Neubrandenburg, Raub

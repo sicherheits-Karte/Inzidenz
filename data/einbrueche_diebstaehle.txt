@@ -3690,3 +3690,10 @@
 {"coords": [9.4456, 51.8281], "date": "2025-12-11"}, // Holzminden, stahl
 {"coords": [7.5667, 51.0167], "date": "2025-12-11"}, // Drabenderhöhe Wiehl, Einbruch
 //{"coords": [], "date": "2025-12-11"} // Privatwohnung Radevormwald, Einbruch
+{"coords": [7.0028, 50.7631], "date": "2025-12-11"}, // Zeugenhinweise Bornheim, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-12-11"}, // Diebstahl Heilbronn, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2025-12-11"}, // Wittlich Wittlich, Einbruch
+//{"coords": [], "date": "2025-12-11"} // die Polizei verständigt wurde. Mehrere Streifenwagen rückten aus und umstellten das Areal. Dabei entdeckten die Beamten einen Mann, der über das Gelände flüchtete. Der, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-12-11"}, // Landau, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-12-11"}, // Landau, entwendet
+{"coords": [7.7, 51.375], "date": "2025-12-11"}, // Imbiss Iserlohn, Einbruch

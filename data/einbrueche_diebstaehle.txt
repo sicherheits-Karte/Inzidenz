@@ -3713,3 +3713,8 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-11"}, // Reutlingen, Einbrüche
 //{"coords": [], "date": "2025-12-11"} // Eiserfeld, Einbruch
 {"coords": [9.2081, 52.3242], "date": "2025-12-11"}, // Hinweise Stadthagen, Einbruch
+{"coords": [10.6866, 53.8655], "date": "2025-12-11"}, // Hinweisen Lübeck, Diebstahl
+{"coords": [7.7, 51.375], "date": "2025-12-11"}, // Taschendiebin Iserlohn, Diebstahl
+//{"coords": [], "date": "2025-12-11"} // POL-PDNR, Diebstahl
+//{"coords": [], "date": "2025-12-11"} // Wankum, Einbruch
+{"coords": [7.1, 51.5167], "date": "2025-12-11"}, // Räuber Gelsenkirchen, Raub

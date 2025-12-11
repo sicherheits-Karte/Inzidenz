@@ -3777,3 +3777,6 @@
 {"coords": [8.3833, 51.9], "date": "2025-12-11"}, // Spezialeinheiten Gütersloh, Einbruch
 {"coords": [8.5331, 52.021], "date": "2025-12-11"}, // Realschule Bielefeld, Einbruch
 //{"coords": [], "date": "2025-12-11"} // Höhe, Einbrüche
+{"coords": [7.4836, 53.4711], "date": "2025-12-11"}, // Schwerer Raub Landkreis Aurich, Raub
+{"coords": [10.7753, 49.7544], "date": "2025-12-11"}, // Mühlhausen, Einbrüche
+{"coords": [10.5667, 51.1667], "date": "2025-12-11"}, // Beuteschaden Altengottern, Einbruch

@@ -3682,3 +3682,11 @@
 {"coords": [6.4833, 50.8], "date": "2025-12-11"}, // Zeugen Düren, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2025-12-11"}, // Zeugenaufruf Mannheim, Einbruch
 {"coords": [8.1075, 53.5219], "date": "2025-12-11"}, // Körperverletzung Wilhelmshaven, Diebstahl
+{"coords": [7.8, 51.4333], "date": "2025-12-11"}, // Tankstelle Menden, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-12-11"}, // Zeugenaufruf Heidelberg, gestohlen
+{"coords": [11.8556, 52.2722], "date": "2025-12-11"}, // Burg, Raub
+{"coords": [9.9916, 48.3984], "date": "2025-12-11"}, // Ulm, Einbruch
+{"coords": [8.6333, 52.2], "date": "2025-12-11"}, // Kirchlengern, entwendet
+{"coords": [9.4456, 51.8281], "date": "2025-12-11"}, // Holzminden, stahl
+{"coords": [7.5667, 51.0167], "date": "2025-12-11"}, // Drabenderhöhe Wiehl, Einbruch
+//{"coords": [], "date": "2025-12-11"} // Privatwohnung Radevormwald, Einbruch

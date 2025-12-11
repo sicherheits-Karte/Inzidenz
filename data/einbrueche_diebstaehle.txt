@@ -3708,3 +3708,8 @@
 {"coords": [7.4653, 51.5136], "date": "2025-12-11"}, // Dortmund, Dieb
 {"coords": [9.4108, 53.1111], "date": "2025-12-11"}, // Rotenburg, entwendet
 {"coords": [8.8075, 53.075], "date": "2025-12-11"}, // Haft-- Bremen, Diebstahl
+{"coords": [8.705, 48.895], "date": "2025-12-11"}, // Zeugenhinweise Pforzheim, eingebrochen
+{"coords": [9.1919, 48.8975], "date": "2025-12-11"}, // Wohnhäuser Ludwigsburg, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2025-12-11"}, // Reutlingen, Einbrüche
+//{"coords": [], "date": "2025-12-11"} // Eiserfeld, Einbruch
+{"coords": [9.2081, 52.3242], "date": "2025-12-11"}, // Hinweise Stadthagen, Einbruch

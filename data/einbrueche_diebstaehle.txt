@@ -3957,3 +3957,4 @@
 {"coords": [11.5164, 51.0264], "date": "2025-12-12"}, // Apolda, gestohlen
 //{"coords": [], "date": "2025-12-12"} // Bad Oeynhausen, Einbruch
 {"coords": [8.5786, 49.5383], "date": "2025-12-12"}, // Shop Viernheim, Einbruch
+//{"coords": [], "date": "2025-12-12"} // dem Kreisgebiet, Einbrüche

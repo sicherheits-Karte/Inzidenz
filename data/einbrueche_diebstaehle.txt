@@ -3858,3 +3858,5 @@
 {"coords": [8.3833, 51.9], "date": "2025-12-12"}, // Gütersloh Gütersloh, Einbrüche
 //{"coords": [], "date": "2025-12-12"} // Zusammenhang mit Fahrrad- und E-Scooter Diebstahl vorläufig festgenommen, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2025-12-12"}, // Beweismittel Hannover, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2025-12-12"}, // Hannover, Raub
+{"coords": [7.75, 51.6333], "date": "2025-12-12"}, // Herringen, Einbruch

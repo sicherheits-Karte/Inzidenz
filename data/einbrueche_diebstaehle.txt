@@ -3950,3 +3950,10 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-12"}, // Einbruchsversuch Aalen, Einbruch
 {"coords": [9.9158, 51.5413], "date": "2025-12-12"}, // Hinweise Göttingen, Einbrüche
 {"coords": [8.6833, 50.5833], "date": "2025-12-12"}, // Giessen, Dieb
+//{"coords": [], "date": "2025-12-12"} // Süßwaren Bad Langensalza, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2025-12-12"}, // Recklinghausen, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2025-12-12"}, // Vilsendorf Bielefeld, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-12-12"}, // Wiesbaden, Einbrüche
+{"coords": [11.5164, 51.0264], "date": "2025-12-12"}, // Apolda, gestohlen
+//{"coords": [], "date": "2025-12-12"} // Bad Oeynhausen, Einbruch
+{"coords": [8.5786, 49.5383], "date": "2025-12-12"}, // Shop Viernheim, Einbruch

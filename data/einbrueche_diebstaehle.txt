@@ -3963,3 +3963,4 @@
 {"coords": [7.4836, 53.4711], "date": "2025-12-12"}, // Raub Landkreis Aurich, Raub
 {"coords": [7.3333, 50.6833], "date": "2025-12-12"}, // Arztpraxen Asbach, Einbruch
 {"coords": [6.8139, 50.9147], "date": "2025-12-12"}, // Zeugensuche Frechen, entwendet
+{"coords": [8.8678, 49.9228], "date": "2025-12-12"}, // Untersuchungshaft Münster, Dieb

@@ -3784,3 +3784,4 @@
 {"coords": [9.6775, 50.5528], "date": "2025-12-11"}, // Landkreis Fulda Fulda, Einbrecher
 {"coords": [9.2167, 48.4833], "date": "2025-12-11"}, // Reutlingen, Einbruch
 {"coords": [8.4167, 51.55], "date": "2025-12-11"}, // Rüthen, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-12-12"}, // Stadt Offenbach, Raub

@@ -3907,3 +3907,16 @@
 //{"coords": [], "date": "2025-12-12"} // Kein Ort gefunden, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2025-12-12"}, // Taschendiebstählen Augsburg, Diebstähle
 {"coords": [8.6822, 50.1106], "date": "2025-12-12"}, // Raub Frankfurt, Raub
+{"coords": [6.6153, 51.8367], "date": "2025-12-12"}, // Unternehmens Bocholt, Einbruch
+{"coords": [6.9194, 51.9944], "date": "2025-12-12"}, // Pkw Stadtlohn, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-12-12"}, // Wiesental Karlsruhe, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-12"}, // Ulm, Dieb
+{"coords": [8.8667, 51.9333], "date": "2025-12-12"}, // Lippe, eingebrochen
+//{"coords": [], "date": "2025-12-12"} // Ortenberg, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2025-12-12"}, // Lippe, Einbruch
+{"coords": [10.6153, 50.5042], "date": "2025-12-12"}, // Einbruch Themar, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2025-12-12"}, // Schwerte, Einbruch
+{"coords": [7.4667, 52.3667], "date": "2025-12-12"}, // Zeugenhinweise Spelle, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2025-12-12"}, // Wellingsbüttel Hamburg, Raub
+//{"coords": [], "date": "2025-12-12"} // Wertholzstämmen Dommershausen, Diebstahl
+{"coords": [10.7583, 50.8958], "date": "2025-12-12"}, // Schuppen Eichenberg, Einbruch

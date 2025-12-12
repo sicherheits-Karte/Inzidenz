@@ -3798,3 +3798,7 @@
 {"coords": [8.1092, 51.5711], "date": "2025-12-12"}, // Einfamilienhaus Soest, Einbruch
 {"coords": [12.0799, 50.8772], "date": "2025-12-12"}, // Bäckerei Gera, Diebstahl
 {"coords": [12.0799, 50.8772], "date": "2025-12-12"}, // Diebstahl Gera, Diebstahl
+//{"coords": [], "date": "2025-12-12"} // Echthausen, entwendet
+{"coords": [11.5862, 50.9271], "date": "2025-12-12"}, // Ungewöhnlicher Diebstahl Jena, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2025-12-12"}, // Diebstahl Jena, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-12"}, // Randalierer Aalen, Einbruch

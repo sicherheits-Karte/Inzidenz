@@ -3889,3 +3889,12 @@
 {"coords": [7.2197, 51.5428], "date": "2025-12-12"}, // Frauen Herne, Einbrüche
 {"coords": [11.0299, 50.9848], "date": "2025-12-12"}, // Alltagsgegenstände Erfurt, Dieb
 {"coords": [8.5331, 52.021], "date": "2025-12-12"}, // Bielefeld, gestohlen
+{"coords": [11.9, 49.95], "date": "2025-12-12"}, // Brand Reutlingen, aufbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-12"}, // Ludwigshafen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-12"}, // Ludwigshafen, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2025-12-12"}, // Ludwigsburg, Diebstahl
+{"coords": [8.1667, 49.5667], "date": "2025-12-12"}, // Grünstadt, Einbruch
+{"coords": [8.35, 49.5333], "date": "2025-12-12"}, // Frankenthal, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2025-12-12"}, // Ludwigshafen, entwendet
+{"coords": [6.7623, 51.4344], "date": "2025-12-12"}, // Anzeige Duisburg, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2025-12-12"}, // Homberg, entwendet

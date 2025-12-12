@@ -3920,3 +3920,12 @@
 {"coords": [9.9937, 53.5511], "date": "2025-12-12"}, // Wellingsbüttel Hamburg, Raub
 //{"coords": [], "date": "2025-12-12"} // Wertholzstämmen Dommershausen, Diebstahl
 {"coords": [10.7583, 50.8958], "date": "2025-12-12"}, // Schuppen Eichenberg, Einbruch
+{"coords": [8.2833, 49.4667], "date": "2025-12-12"}, // Schauernheim, Dieb
+{"coords": [9.2844, 51.045], "date": "2025-12-12"}, // Woche Kreis Borken, Einbruch
+//{"coords": [], "date": "2025-12-12"} // Hörnerkirchen, Einbruch
+//{"coords": [], "date": "2025-12-12"} // Wohnanhänger Bandenitz, Einbrüche
+{"coords": [7.82, 47.99], "date": "2025-12-12"}, // Zeugen Freiburg, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-12-12"}, // Schmuck Homberg, Einbruch
+{"coords": [8.5833, 53.55], "date": "2025-12-12"}, // Mitte Kamen, Einbruch
+{"coords": [9.4667, 53.95], "date": "2025-12-12"}, // Hessisch Oldendorf, Räuber
+{"coords": [7.2061, 53.3669], "date": "2025-12-12"}, // Emden, Diebstahl

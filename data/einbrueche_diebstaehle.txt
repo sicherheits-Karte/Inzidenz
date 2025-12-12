@@ -3802,3 +3802,8 @@
 {"coords": [11.5862, 50.9271], "date": "2025-12-12"}, // Ungewöhnlicher Diebstahl Jena, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2025-12-12"}, // Diebstahl Jena, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2025-12-12"}, // Randalierer Aalen, Einbruch
+{"coords": [7.2333, 52.3167], "date": "2025-12-12"}, // Versuchter Einbruch Schüttorf, Einbruch
+{"coords": [6.7, 51.8333], "date": "2025-12-12"}, // Rhede, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-12-12"}, // Wohnhaus Nordhorn, Einbruch
+{"coords": [7.1333, 52.5333], "date": "2025-12-12"}, // Lagerhalle Wietmarschen, Einbruch
+{"coords": [7.25, 52.6167], "date": "2025-12-12"}, // Firmen Geeste, Einbrüche

@@ -3809,3 +3809,13 @@
 {"coords": [7.25, 52.6167], "date": "2025-12-12"}, // Firmen Geeste, Einbrüche
 {"coords": [10.1694, 53.2239], "date": "2025-12-12"}, // Reifenplatzer Salzhausen, Dieb
 //{"coords": [], "date": "2025-12-12"} // Einfamilienhaus eingebrochen mehr, eingebrochen
+//{"coords": [], "date": "2025-12-12"} // Reinheim, Einbrüche
+{"coords": [6.6833, 51.2], "date": "2025-12-12"}, // Dieb Neuss, Dieb
+{"coords": [8.9056, 52.3364], "date": "2025-12-12"}, // Altenhagen, stahl
+//{"coords": [], "date": "2025-12-12"} // Wohnhaus Altenberge, Einbruch
+{"coords": [6.6833, 51.2], "date": "2025-12-12"}, // Kreis Neuss, Einbruch
+//{"coords": [], "date": "2025-12-12"} // Kirchbrak, Einbruch
+{"coords": [8.8494, 51.4611], "date": "2025-12-12"}, // Marsberg, gestohlen
+{"coords": [7.3, 51.1333], "date": "2025-12-12"}, // Hückeswagen, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2025-12-12"}, // Lagerraum Gummersbach, Einbruch
+{"coords": [10.3243, 50.9746], "date": "2025-12-12"}, // der Gartenstraße und entwendeten mehrere Zigarettenstangen in unbekannter Menge. Der oder die Täter flüchteten offenbar in einem dunklen Pkw in Richtung Hessen. Die Polizei Eisenach sucht Zeugen, die verdächtige Wahrnehmungen bezüglich Personen oder Fahrzeugen gemacht haben. Hinweise werden, Einbruch

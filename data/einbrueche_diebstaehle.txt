@@ -3941,3 +3941,12 @@
 {"coords": [10.5833, 50.55], "date": "2025-12-12"}, // Mainzer Oberstadt Mainz, Einbruch
 {"coords": [6.55, 51.25], "date": "2025-12-12"}, // Schiefbahn, Einbruch
 {"coords": [8.8075, 53.075], "date": "2025-12-12"}, // Tatverdacht-- Bremen, gestohlen
+{"coords": [8.8731, 51.275], "date": "2025-12-12"}, // Zeugen Korbach, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-12"}, // Hofheim, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-12"}, // Ludwigsburg, gestohlen
+{"coords": [8.0472, 52.2799], "date": "2025-12-12"}, // Osnabrück, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2025-12-12"}, // Einbrechern Bensheim, Einbrecher
+{"coords": [7.3333, 51.4333], "date": "2025-12-12"}, // Witten, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-12"}, // Einbruchsversuch Aalen, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2025-12-12"}, // Hinweise Göttingen, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2025-12-12"}, // Giessen, Dieb

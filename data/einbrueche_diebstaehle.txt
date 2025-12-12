@@ -3958,3 +3958,7 @@
 //{"coords": [], "date": "2025-12-12"} // Bad Oeynhausen, Einbruch
 {"coords": [8.5786, 49.5383], "date": "2025-12-12"}, // Shop Viernheim, Einbruch
 //{"coords": [], "date": "2025-12-12"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.9158, 51.5413], "date": "2025-12-12"}, // Zeugen Göttingen, gestohlen
+//{"coords": [], "date": "2025-12-12"} // Schwarzwald Baar Kreis, Einbrecher
+{"coords": [7.4836, 53.4711], "date": "2025-12-12"}, // Raub Landkreis Aurich, Raub
+{"coords": [7.3333, 50.6833], "date": "2025-12-12"}, // Arztpraxen Asbach, Einbruch

@@ -3852,3 +3852,9 @@
 {"coords": [9.9916, 48.3984], "date": "2025-12-12"}, // Ulm, Einbruch
 {"coords": [6.4333, 51.2], "date": "2025-12-12"}, // Mönchengladbach, gestohlen
 {"coords": [7.85, 51.6333], "date": "2025-12-12"}, // Rhynern, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-12"}, // Zeugen Oldenburg, Einbruch
+{"coords": [7.45, 51.4], "date": "2025-12-12"}, // Herdecke, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2025-12-12"}, // Zeugen Nienburg, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-12-12"}, // Gütersloh Gütersloh, Einbrüche
+//{"coords": [], "date": "2025-12-12"} // Zusammenhang mit Fahrrad- und E-Scooter Diebstahl vorläufig festgenommen, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2025-12-12"}, // Beweismittel Hannover, Diebstahl

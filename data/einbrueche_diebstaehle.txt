@@ -3929,3 +3929,15 @@
 {"coords": [8.5833, 53.55], "date": "2025-12-12"}, // Mitte Kamen, Einbruch
 {"coords": [9.4667, 53.95], "date": "2025-12-12"}, // Hessisch Oldendorf, Räuber
 {"coords": [7.2061, 53.3669], "date": "2025-12-12"}, // Emden, Diebstahl
+//{"coords": [], "date": "2025-12-12"} // Höhe, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2025-12-12"}, // Limburg, Einbrecher
+{"coords": [9.2261, 49.1931], "date": "2025-12-12"}, // Neckarsulm Heilbronn, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-12-12"}, // Gaststätte Wilhelmshaven, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2025-12-12"}, // Iserbrook Hamburg, Raub
+{"coords": [8.0739, 48.6311], "date": "2025-12-12"}, // Verkaufsraum Achern, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2025-12-12"}, // Tatverdächtigen Dortmund, Raub
+{"coords": [8.1075, 53.5219], "date": "2025-12-12"}, // Scooters Wilhelmshaven, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2025-12-12"}, // Giessen, Einbrecher
+{"coords": [10.5833, 50.55], "date": "2025-12-12"}, // Mainzer Oberstadt Mainz, Einbruch
+{"coords": [6.55, 51.25], "date": "2025-12-12"}, // Schiefbahn, Einbruch
+{"coords": [8.8075, 53.075], "date": "2025-12-12"}, // Tatverdacht-- Bremen, gestohlen

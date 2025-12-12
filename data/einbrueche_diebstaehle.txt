@@ -3965,3 +3965,4 @@
 {"coords": [6.8139, 50.9147], "date": "2025-12-12"}, // Zeugensuche Frechen, entwendet
 {"coords": [8.8678, 49.9228], "date": "2025-12-12"}, // Untersuchungshaft Münster, Dieb
 {"coords": [9.2167, 48.4833], "date": "2025-12-12"}, // Reutlingen, Einbruch
+//{"coords": [], "date": "2025-12-12"} // Kreiskrankenhaus Saarburg Saarburg, Einbruch

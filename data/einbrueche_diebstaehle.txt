@@ -3898,3 +3898,12 @@
 {"coords": [8.4353, 49.4811], "date": "2025-12-12"}, // Ludwigshafen, entwendet
 {"coords": [6.7623, 51.4344], "date": "2025-12-12"}, // Anzeige Duisburg, Diebstahl
 {"coords": [9.0, 50.7333], "date": "2025-12-12"}, // Homberg, entwendet
+//{"coords": [], "date": "2025-12-12"} // Wintersdorf, Einbruch
+//{"coords": [], "date": "2025-12-12"} // Schwarzwald, Einbruch
+//{"coords": [], "date": "2025-12-12"} // Selbach, Einbruch
+{"coords": [9.5, 51.3167], "date": "2025-12-12"}, // Kassel, Einbrüche
+{"coords": [7.8153, 48.5708], "date": "2025-12-12"}, // Kehl, Raub
+{"coords": [10.8978, 48.3705], "date": "2025-12-12"}, // Einbruch Augsburg, Einbruch
+//{"coords": [], "date": "2025-12-12"} // Kein Ort gefunden, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-12-12"}, // Taschendiebstählen Augsburg, Diebstähle
+{"coords": [8.6822, 50.1106], "date": "2025-12-12"}, // Raub Frankfurt, Raub

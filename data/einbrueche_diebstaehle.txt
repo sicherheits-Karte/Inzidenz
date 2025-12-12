@@ -3790,3 +3790,11 @@
 {"coords": [12.0799, 50.8772], "date": "2025-12-12"}, // Widerstand Gera, Diebstahl
 {"coords": [12.1997, 50.6544], "date": "2025-12-12"}, // Greiz, geklaut
 {"coords": [12.4333, 50.985], "date": "2025-12-12"}, // Weihnachtsbaums Altenburg, Diebstahl
+//{"coords": [], "date": "2025-12-12"} // Grabschmuck Ailertchen, Diebstahl
+{"coords": [6.6167, 51.75], "date": "2025-12-12"}, // Zeugen Rees, Einbruch
+//{"coords": [], "date": "2025-12-12"} // Mehr, Einbruch
+{"coords": [8.6372, 49.6419], "date": "2025-12-12"}, // Heppenheim, Dieb
+{"coords": [8.3667, 49.9833], "date": "2025-12-12"}, // Gustavsburg, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-12"}, // Einfamilienhaus Soest, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2025-12-12"}, // Bäckerei Gera, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2025-12-12"}, // Diebstahl Gera, Diebstahl

@@ -3787,3 +3787,6 @@
 {"coords": [8.7667, 50.1], "date": "2025-12-12"}, // Stadt Offenbach, Raub
 {"coords": [6.8889, 49.9858], "date": "2025-12-12"}, // Einbruchsdiebstahl Wittlich, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2025-12-12"}, // Bonn, Dieb
+{"coords": [12.0799, 50.8772], "date": "2025-12-12"}, // Widerstand Gera, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2025-12-12"}, // Greiz, geklaut
+{"coords": [12.4333, 50.985], "date": "2025-12-12"}, // Weihnachtsbaums Altenburg, Diebstahl

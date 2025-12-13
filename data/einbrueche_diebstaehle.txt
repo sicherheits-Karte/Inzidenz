@@ -3999,3 +3999,4 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-13"}, // Strafzetteln Reutlingen, Einbrüche
 {"coords": [7.7833, 49.1167], "date": "2025-12-13"}, // Polizeiinspektion Dahn, Diebstähle
 {"coords": [7.2162, 51.4818], "date": "2025-12-13"}, // Bochum, Raub
+{"coords": [7.3333, 49.3167], "date": "2025-12-13"}, // Homburg, Einbruch

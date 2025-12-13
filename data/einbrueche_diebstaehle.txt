@@ -3972,3 +3972,6 @@
 {"coords": [7.3392, 51.3197], "date": "2025-12-13"}, // Einfamilienhaus Gevelsberg, Einbruch
 {"coords": [7.1856, 51.3994], "date": "2025-12-13"}, // Einfamilienhaus Hattingen, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2025-12-13"}, // Abend Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-13"}, // Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-13"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-13"}, // Wohnungseinbruch Ludwigsburg, Einbruch

@@ -4000,3 +4000,5 @@
 {"coords": [7.7833, 49.1167], "date": "2025-12-13"}, // Polizeiinspektion Dahn, Diebstähle
 {"coords": [7.2162, 51.4818], "date": "2025-12-13"}, // Bochum, Raub
 {"coords": [7.3333, 49.3167], "date": "2025-12-13"}, // Homburg, Einbruch
+//{"coords": [], "date": "2025-12-13"} // Gierend, Diebstahl
+{"coords": [7.3333, 49.3167], "date": "2025-12-13"}, // Homburg Homburg, Diebstahl

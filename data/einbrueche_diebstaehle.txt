@@ -4011,3 +4011,4 @@
 {"coords": [13.2611, 53.5569], "date": "2025-12-13"}, // Gittern Neubrandenburg, Dieb
 {"coords": [8.3333, 51.5833], "date": "2025-12-13"}, // Mehrfamilienhaus Anröchte, Einbruch
 {"coords": [13.4333, 54.4333], "date": "2025-12-13"}, // Rügen, Diebstahl
+//{"coords": [], "date": "2025-12-13"} // Kaufhaus Stolz Heringsdorf, Diebstahl

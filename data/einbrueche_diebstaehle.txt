@@ -3976,3 +3976,5 @@
 {"coords": [9.1919, 48.8975], "date": "2025-12-13"}, // Wohnhaus Ludwigsburg, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2025-12-13"}, // Wohnungseinbruch Ludwigsburg, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2025-12-13"}, // Band Erfurt, Diebstahl
+{"coords": [7.3481, 52.3236], "date": "2025-12-13"}, // Mehrfamilienhaus Salzbergen, Einbruch
+{"coords": [7.3333, 52.9667], "date": "2025-12-13"}, // Scheune Dörpen, Einbruch

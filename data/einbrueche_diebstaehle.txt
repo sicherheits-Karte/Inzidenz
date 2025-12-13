@@ -3993,3 +3993,4 @@
 {"coords": [8.6822, 50.1106], "date": "2025-12-13"}, // Stehlgut Frankfurt, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2025-12-13"}, // Vechta, Diebstahl
 {"coords": [8.8075, 53.075], "date": "2025-12-13"}, // Zeugen-- Bremen, Räuber
+{"coords": [8.6306, 53.05], "date": "2025-12-13"}, // Delmenhorst, Einbruch

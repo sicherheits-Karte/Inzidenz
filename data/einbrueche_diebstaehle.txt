@@ -4013,3 +4013,4 @@
 {"coords": [13.4333, 54.4333], "date": "2025-12-13"}, // Rügen, Diebstahl
 //{"coords": [], "date": "2025-12-13"} // Kaufhaus Stolz Heringsdorf, Diebstahl
 //{"coords": [], "date": "2025-12-13"} // Wohnhaus Straßenhaus, Einbruch
+//{"coords": [], "date": "2025-12-13"} // Nordsaarland, Diebstähle

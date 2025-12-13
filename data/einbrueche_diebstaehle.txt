@@ -3981,3 +3981,4 @@
 {"coords": [7.4547, 53.2311], "date": "2025-12-13"}, // Leer, Diebstähle
 {"coords": [10.4167, 50.55], "date": "2025-12-13"}, // Meiningen, geklaut
 //{"coords": [], "date": "2025-12-13"} // Einfamilienhaus Dirmstein, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-12-13"}, // Landau, Diebstahl

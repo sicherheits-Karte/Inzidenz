@@ -3985,3 +3985,7 @@
 {"coords": [8.4414, 50.0919], "date": "2025-12-13"}, // Hofheim, Einbruch
 {"coords": [7.3608, 49.2492], "date": "2025-12-13"}, // Katalysatoren Zweibrücken, Diebstahl
 {"coords": [8.3667, 49.2167], "date": "2025-12-13"}, // Diebstahl Germersheim, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-12-13"}, // Erfurt Erfurt, Raub
+{"coords": [7.7689, 49.4447], "date": "2025-12-13"}, // Tachendieben Kaiserslautern, Diebstähle
+{"coords": [7.7689, 49.4447], "date": "2025-12-13"}, // Kaiserslautern, entwendet
+{"coords": [7.3608, 49.2492], "date": "2025-12-13"}, // Geldbörse Zweibrücken, Diebstahl

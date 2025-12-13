@@ -3983,3 +3983,5 @@
 //{"coords": [], "date": "2025-12-13"} // Einfamilienhaus Dirmstein, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2025-12-13"}, // Landau, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2025-12-13"}, // Hofheim, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2025-12-13"}, // Katalysatoren Zweibrücken, Diebstahl
+{"coords": [8.3667, 49.2167], "date": "2025-12-13"}, // Diebstahl Germersheim, Diebstahl

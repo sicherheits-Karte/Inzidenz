@@ -3997,3 +3997,4 @@
 {"coords": [7.7806, 53.5769], "date": "2025-12-13"}, // Wittmund, Einbrecher
 {"coords": [9.5036, 53.4539], "date": "2025-12-13"}, // Harsefeld erbeuten, Einbrecher
 {"coords": [9.2167, 48.4833], "date": "2025-12-13"}, // Strafzetteln Reutlingen, Einbrüche
+{"coords": [7.7833, 49.1167], "date": "2025-12-13"}, // Polizeiinspektion Dahn, Diebstähle

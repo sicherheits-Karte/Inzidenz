@@ -3991,3 +3991,4 @@
 {"coords": [7.3608, 49.2492], "date": "2025-12-13"}, // Geldbörse Zweibrücken, Diebstahl
 {"coords": [8.6822, 50.1106], "date": "2025-12-13"}, // Frankfurt, Raub
 {"coords": [8.6822, 50.1106], "date": "2025-12-13"}, // Stehlgut Frankfurt, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2025-12-13"}, // Vechta, Diebstahl

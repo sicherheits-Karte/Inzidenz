@@ -4089,3 +4089,4 @@
 {"coords": [12.0799, 50.8772], "date": "2025-12-14"}, // Dieseldiebstahl Gera, Diebstahl
 {"coords": [6.9486, 49.6561], "date": "2025-12-14"}, // Versuchter Tageswohnungseinbruch Hermeskeil, Einbruch
 {"coords": [8.5833, 51.3833], "date": "2025-12-14"}, // Einfamilienhaus Brilon, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-12-14"}, // Warendorf, Einbruch

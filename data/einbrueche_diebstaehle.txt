@@ -4015,3 +4015,5 @@
 //{"coords": [], "date": "2025-12-13"} // Wohnhaus Straßenhaus, Einbruch
 //{"coords": [], "date": "2025-12-13"} // Nordsaarland, Diebstähle
 {"coords": [10.7183, 50.9489], "date": "2025-12-14"}, // Landkreis Gotha, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2025-12-14"}, // Tamm Ludwigsburg, Einbrüche
+{"coords": [9.0114, 48.6853], "date": "2025-12-14"}, // Böblingen Ludwigsburg, Einbrüche

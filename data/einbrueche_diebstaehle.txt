@@ -4031,3 +4031,8 @@
 {"coords": [8.35, 49.5333], "date": "2025-12-14"}, // der Innenstadt Frankenthal, Einbruch
 {"coords": [12.1997, 50.6544], "date": "2025-12-14"}, // Greiz, entwendet
 {"coords": [12.1997, 50.6544], "date": "2025-12-14"}, // Gartenlaubeneinbruch Greiz, Einbruch
+{"coords": [10.3333, 52.15], "date": "2025-12-14"}, // Lebenstedt Salzgitter, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2025-12-14"}, // Diebstahls Suhl, Diebstahl
+{"coords": [8.15, 49.4667], "date": "2025-12-14"}, // Weinstraße, Diebstahl
+{"coords": [8.15, 49.4667], "date": "2025-12-14"}, // Weinstraße, Einbruch
+{"coords": [11.3592, 50.6486], "date": "2025-12-14"}, // Scooters Saalfeld, Diebstahl

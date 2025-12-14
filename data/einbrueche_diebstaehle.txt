@@ -4050,3 +4050,4 @@
 //{"coords": [], "date": "2025-12-14"} // Holzwickede, Einbruch
 {"coords": [8.6306, 53.05], "date": "2025-12-14"}, // Delmenhorst, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2025-12-14"}, // Rotenburg, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-14"}, // Bochum Bochum, Diebstahl

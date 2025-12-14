@@ -4061,3 +4061,8 @@
 {"coords": [6.8333, 51.7833], "date": "2025-12-14"}, // Einfamilienhaus Raesfeld, Einbruch
 {"coords": [9.9333, 52.9667], "date": "2025-12-14"}, // Heidekreis, Einbruch
 {"coords": [8.875, 53.05], "date": "2025-12-14"}, // Osterholz, entwendet
+{"coords": [6.6153, 51.8367], "date": "2025-12-14"}, // Einfamilienhaus Bocholt, Einbruch
+//{"coords": [], "date": "2025-12-14"} // Höhe, Einbrüche
+{"coords": [7.0333, 52.2167], "date": "2025-12-14"}, // Einfamilienhaus Gronau, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-14"}, // Drogeneinfluss Hofheim, Einbrüche
+{"coords": [7.0667, 52.1], "date": "2025-12-14"}, // Einfamilienhaus Heek, Einbruch

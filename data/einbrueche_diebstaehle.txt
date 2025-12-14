@@ -4045,3 +4045,4 @@
 {"coords": [11.5164, 51.0264], "date": "2025-12-14"}, // Apolda, Dieb
 {"coords": [11.1667, 50.35], "date": "2025-12-14"}, // Garage Sonneberg, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2025-12-14"}, // Dachdeckerfirma Lippe, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2025-12-14"}, // Euskirchen, Diebstahl

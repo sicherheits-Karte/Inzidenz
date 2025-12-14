@@ -4036,3 +4036,9 @@
 {"coords": [8.15, 49.4667], "date": "2025-12-14"}, // Weinstraße, Diebstahl
 {"coords": [8.15, 49.4667], "date": "2025-12-14"}, // Weinstraße, Einbruch
 {"coords": [11.3592, 50.6486], "date": "2025-12-14"}, // Scooters Saalfeld, Diebstahl
+{"coords": [7.3608, 49.2492], "date": "2025-12-14"}, // Fashion Outlet Zweibrücken, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2025-12-14"}, // Nordhausen, gestohlen
+{"coords": [7.3608, 49.2492], "date": "2025-12-14"}, // Weihnachtsmarkt Zweibrücken, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2025-12-14"}, // Uhr Speyer, Diebstahl
+{"coords": [10.7865, 52.4226], "date": "2025-12-14"}, // Uhr Wolfsburg, Diebstahl
+{"coords": [6.85, 49.9333], "date": "2025-12-14"}, // Salmtal, Diebstähle

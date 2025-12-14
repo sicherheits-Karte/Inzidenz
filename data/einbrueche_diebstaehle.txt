@@ -4066,3 +4066,4 @@
 {"coords": [7.0333, 52.2167], "date": "2025-12-14"}, // Einfamilienhaus Gronau, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2025-12-14"}, // Drogeneinfluss Hofheim, Einbrüche
 {"coords": [7.0667, 52.1], "date": "2025-12-14"}, // Einfamilienhaus Heek, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-14"}, // Wiesbaden, Einbrüche

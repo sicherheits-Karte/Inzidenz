@@ -4029,3 +4029,5 @@
 {"coords": [7.95, 51.4833], "date": "2025-12-14"}, // Neheim Arnsberg, Einbrüche
 {"coords": [11.3239, 50.9795], "date": "2025-12-14"}, // Weimarer Atrium Weimar, Diebstahl
 {"coords": [8.35, 49.5333], "date": "2025-12-14"}, // der Innenstadt Frankenthal, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2025-12-14"}, // Greiz, entwendet
+{"coords": [12.1997, 50.6544], "date": "2025-12-14"}, // Gartenlaubeneinbruch Greiz, Einbruch

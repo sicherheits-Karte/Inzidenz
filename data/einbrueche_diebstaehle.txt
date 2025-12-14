@@ -4056,3 +4056,4 @@
 {"coords": [6.85, 49.3], "date": "2025-12-14"}, // Kreisverkehr Bad Schwalbach, Einbruch
 {"coords": [7.4139, 50.9889], "date": "2025-12-14"}, // Fenstern Engelskirchen, Einbrecher
 {"coords": [7.5667, 51.0833], "date": "2025-12-14"}, // Gummersbach, gestohlen
+{"coords": [7.2061, 53.3669], "date": "2025-12-14"}, // Emden, aufbruch

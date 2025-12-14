@@ -4019,3 +4019,13 @@
 {"coords": [9.0114, 48.6853], "date": "2025-12-14"}, // Böblingen Ludwigsburg, Einbrüche
 {"coords": [7.1, 51.5167], "date": "2025-12-14"}, // Raub Gelsenkirchen, Raub
 {"coords": [7.1, 51.5167], "date": "2025-12-14"}, // Beckhausen Gelsenkirchen, Raub
+//{"coords": [], "date": "2025-12-14"} // Mutterstadt, Einbruch
+{"coords": [8.375, 49.3833], "date": "2025-12-14"}, // Schifferstadt, entwendet
+{"coords": [8.4661, 49.4878], "date": "2025-12-14"}, // Mannheim, entwendet
+{"coords": [7.4842, 52.6742], "date": "2025-12-14"}, // Angelbedarfsgeschäft Haselünne, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2025-12-14"}, // Haselünne, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2025-12-14"}, // Garage Haselünne, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-12-14"}, // Schillerstraße Weimar Weimar, Diebstahl
+{"coords": [7.95, 51.4833], "date": "2025-12-14"}, // Neheim Arnsberg, Einbrüche
+{"coords": [11.3239, 50.9795], "date": "2025-12-14"}, // Weimarer Atrium Weimar, Diebstahl
+{"coords": [8.35, 49.5333], "date": "2025-12-14"}, // der Innenstadt Frankenthal, Einbruch

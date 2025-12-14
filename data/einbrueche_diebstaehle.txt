@@ -4018,3 +4018,4 @@
 {"coords": [9.1919, 48.8975], "date": "2025-12-14"}, // Tamm Ludwigsburg, Einbrüche
 {"coords": [9.0114, 48.6853], "date": "2025-12-14"}, // Böblingen Ludwigsburg, Einbrüche
 {"coords": [7.1, 51.5167], "date": "2025-12-14"}, // Raub Gelsenkirchen, Raub
+{"coords": [7.1, 51.5167], "date": "2025-12-14"}, // Beckhausen Gelsenkirchen, Raub

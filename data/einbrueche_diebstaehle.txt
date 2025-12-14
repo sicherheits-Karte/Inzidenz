@@ -4047,3 +4047,4 @@
 {"coords": [8.8667, 51.9333], "date": "2025-12-14"}, // Dachdeckerfirma Lippe, Einbruch
 {"coords": [6.7872, 50.6606], "date": "2025-12-14"}, // Euskirchen, Diebstahl
 //{"coords": [], "date": "2025-12-14"} // Kreis, Einbrüche
+//{"coords": [], "date": "2025-12-14"} // Holzwickede, Einbruch

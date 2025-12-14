@@ -4057,3 +4057,7 @@
 {"coords": [7.4139, 50.9889], "date": "2025-12-14"}, // Fenstern Engelskirchen, Einbrecher
 {"coords": [7.5667, 51.0833], "date": "2025-12-14"}, // Gummersbach, gestohlen
 {"coords": [7.2061, 53.3669], "date": "2025-12-14"}, // Emden, aufbruch
+{"coords": [7.0667, 52.1], "date": "2025-12-14"}, // Wohnhaus Heek, Einbruch
+{"coords": [6.8333, 51.7833], "date": "2025-12-14"}, // Einfamilienhaus Raesfeld, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2025-12-14"}, // Heidekreis, Einbruch
+{"coords": [8.875, 53.05], "date": "2025-12-14"}, // Osterholz, entwendet

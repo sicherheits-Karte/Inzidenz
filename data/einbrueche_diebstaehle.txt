@@ -4067,3 +4067,8 @@
 {"coords": [8.4414, 50.0919], "date": "2025-12-14"}, // Drogeneinfluss Hofheim, Einbrüche
 {"coords": [7.0667, 52.1], "date": "2025-12-14"}, // Einfamilienhaus Heek, Einbruch
 {"coords": [8.24, 50.0822], "date": "2025-12-14"}, // Wiesbaden, Einbrüche
+{"coords": [10.5833, 49.3], "date": "2025-12-14"}, // Zeugen Ansbach, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2025-12-14"}, // Hauptbahnhof Nürnberg, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2025-12-14"}, // Essen, Raub
+{"coords": [11.0767, 49.4521], "date": "2025-12-14"}, // Zeugenaufruf Nürnberg, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2025-12-14"}, // Fotofahndung Essen, gestohlen

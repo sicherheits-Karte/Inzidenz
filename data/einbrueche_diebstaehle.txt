@@ -4094,3 +4094,6 @@
 {"coords": [9.8667, 51.8167], "date": "2025-12-15"}, // Diebstahl Einbeck, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2025-12-15"}, // Polizeihubschrauber Warendorf, Einbruch
 {"coords": [8.9167, 50.1333], "date": "2025-12-15"}, // Audi Hanau, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-15"}, // Mehrfamilienhaus Lingen, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2025-12-15"}, // Stand Meppen, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2025-12-15"}, // Meppen, Einbruch

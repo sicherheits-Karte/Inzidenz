@@ -4132,3 +4132,17 @@
 //{"coords": [], "date": "2025-12-15"} // Verkehrsunfall Bordesholm, Raub
 {"coords": [10.7792, 50.8083], "date": "2025-12-15"}, // oder mehrere Unbekannte von einem Gartengrundstück in der Marktbrunnenstraße in Wölfis. Der Wert des Beutegutes beträgt ungefähr, entwendet
 //{"coords": [], "date": "2025-12-15"} // oder mehrere bislang unbekannte Personen drangen widerrechtlich in die Kellerräume mehrerer Mehrfamilienhäuser in der Straße des Friedens ein. Entwendet wurde unter anderem Werkzeug. Die Tatzeiten liegen zwischen dem, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-12-15"}, // Ulm, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2025-12-15"}, // Lippe, Diebstähle
+{"coords": [8.8667, 51.9333], "date": "2025-12-15"}, // Lippe, Dieb
+{"coords": [8.8667, 51.9333], "date": "2025-12-15"}, // Lippe, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Atteln, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2025-12-15"}, // Haus Rheine, Einbrecher
+{"coords": [8.285, 51.1492], "date": "2025-12-15"}, // Schmallenberg, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-12-15"}, // Zeugen Wilhelmshaven, Raub
+{"coords": [8.7667, 51.7167], "date": "2025-12-15"}, // Zeugen Paderborn, Einbrüche
+//{"coords": [], "date": "2025-12-15"} // Berbisleben, entwendet
+{"coords": [9.8833, 53.3333], "date": "2025-12-15"}, // Buchholz, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-12-15"}, // Zeugen Paderborn, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2025-12-15"}, // Nordhausen, entwendet
+//{"coords": [], "date": "2025-12-15"} // Bad Langensalza, Einbrecher

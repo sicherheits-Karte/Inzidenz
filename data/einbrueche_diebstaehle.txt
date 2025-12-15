@@ -4222,3 +4222,13 @@
 {"coords": [7.0982, 50.7374], "date": "2025-12-15"}, // Wohnungseinbruch Bonn, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2025-12-15"}, // Rotenburg, Diebstahl
 //{"coords": [], "date": "2025-12-15"} // Helpsen, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2025-12-15"}, // Brunnen Vogelsbergkreis, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-12-15"}, // Ulm, Einbrüche
+{"coords": [9.9916, 48.3984], "date": "2025-12-15"}, // Ulm, Einbrecher
+//{"coords": [], "date": "2025-12-15"} // Erdesbach, Raub
+{"coords": [7.2, 51.6167], "date": "2025-12-15"}, // Recklinghausen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2025-12-15"}, // Goldschmuck Bielefeld, Einbrecher
+{"coords": [9.1919, 48.8975], "date": "2025-12-15"}, // Einbrüche Ludwigsburg, Einbrüche
+{"coords": [8.9667, 52.3833], "date": "2025-12-15"}, // Wohnhaus Petershagen, Einbruch
+//{"coords": [], "date": "2025-12-15"} // mehreren Straßenlaternen entwendet, entwendet
+{"coords": [9.55, 49.3167], "date": "2025-12-15"}, // Unfallflucht Hohenlohekreis, Einbruch

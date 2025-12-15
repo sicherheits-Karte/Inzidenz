@@ -4298,3 +4298,4 @@
 {"coords": [9.5, 51.3167], "date": "2025-12-15"}, // Uhr Kassel, Raub
 //{"coords": [], "date": "2025-12-15"} // KREMER wird vermisst, klau
 {"coords": [10.0936, 48.8372], "date": "2025-12-15"}, // Aalen, Raub
+{"coords": [8.0667, 50.3833], "date": "2025-12-15"}, // Limburg, klau

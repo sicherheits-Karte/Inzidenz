@@ -4269,3 +4269,10 @@
 {"coords": [7.2162, 51.4818], "date": "2025-12-15"}, // Kraftfahrzeug Bochum, entwendet
 {"coords": [7.4653, 51.5136], "date": "2025-12-15"}, // Zeugen Dortmund, Raub
 //{"coords": [], "date": "2025-12-15"} // Kreis, Einbrüche
+{"coords": [9.5, 51.3167], "date": "2025-12-15"}, // Kassel, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-12-15"}, // Diebstahl Aalen, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Kein Ort gefunden, Einbrecher
+{"coords": [10.8978, 48.3705], "date": "2025-12-15"}, // Einbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2025-12-15"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [8.45, 50.0167], "date": "2025-12-15"}, // Raunheim, gestohlen
+{"coords": [10.8978, 48.3705], "date": "2025-12-15"}, // Einbrüchen Augsburg, Einbruch

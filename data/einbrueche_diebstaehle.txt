@@ -4209,3 +4209,8 @@
 {"coords": [9.1753, 47.6633], "date": "2025-12-15"}, // Konstanz, entwendet
 {"coords": [7.8, 51.4333], "date": "2025-12-15"}, // Menden, Einbrüche
 {"coords": [7.1675, 51.9436], "date": "2025-12-15"}, // Coesfeld, Einbrecher
+{"coords": [8.1361, 53.3969], "date": "2025-12-15"}, // Vareler Innenstadt Varel, Diebstahl
+{"coords": [10.475, 48.175], "date": "2025-12-15"}, // Kirchheim, gestohlen
+{"coords": [8.35, 52.4167], "date": "2025-12-15"}, // Autoteilen Stemwede, Diebstahl
+{"coords": [6.9667, 51.2333], "date": "2025-12-15"}, // Polizei Mettmann POL-ME, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2025-12-15"}, // Räuberischer Diebstahl Euskirchen, Diebstahl

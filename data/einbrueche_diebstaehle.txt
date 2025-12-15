@@ -4295,3 +4295,5 @@
 {"coords": [7.1, 51.5167], "date": "2025-12-15"}, // Auto Gelsenkirchen, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2025-12-15"}, // Verkehrsunfall Reutlingen, Einbrüche
 {"coords": [7.1833, 50.0292], "date": "2025-12-15"}, // Zell, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2025-12-15"}, // Uhr Kassel, Raub
+//{"coords": [], "date": "2025-12-15"} // KREMER wird vermisst, klau

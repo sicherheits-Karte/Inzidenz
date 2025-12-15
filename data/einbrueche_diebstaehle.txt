@@ -4246,3 +4246,15 @@
 //{"coords": [], "date": "2025-12-15"} // Einkaufen Bad Gandersheim, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2025-12-15"}, // Zeugen Münster, Einbrüche
 {"coords": [6.7623, 51.4344], "date": "2025-12-15"}, // Duisburg, Raub
+{"coords": [8.4661, 49.4878], "date": "2025-12-15"}, // Zeugenaufruf Mannheim, gestohlen
+{"coords": [8.8403, 47.7592], "date": "2025-12-15"}, // Singen, Einbruch
+{"coords": [9.2167, 48.0833], "date": "2025-12-15"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Diebstahl mehr, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-12-15"}, // Hinweise Recklinghausen, Einbrüche
+{"coords": [7.0116, 51.4556], "date": "2025-12-15"}, // Fotofahndung Essen, Raub
+{"coords": [9.2167, 48.4833], "date": "2025-12-15"}, // Reutlingen, Raub
+{"coords": [9.5, 51.3167], "date": "2025-12-15"}, // Kassel, Dieb
+{"coords": [8.6833, 50.5833], "date": "2025-12-15"}, // Giessen, eingebrochen
+{"coords": [8.9167, 52.3], "date": "2025-12-15"}, // Haft Minden, Raub
+{"coords": [8.8731, 51.275], "date": "2025-12-15"}, // Karten Korbach, Einbrecher
+//{"coords": [], "date": "2025-12-15"} // dem Kreisgebiet, Einbrüche

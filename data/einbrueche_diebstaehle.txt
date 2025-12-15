@@ -4169,3 +4169,18 @@
 {"coords": [9.6694, 53.6875], "date": "2025-12-15"}, // Supermarkt Uetersen, Raub
 {"coords": [8.3667, 49.9833], "date": "2025-12-15"}, // Gustavsburg, Diebstahl
 {"coords": [9.8372, 54.4714], "date": "2025-12-15"}, // Eckernförde, Einbruch
+{"coords": [6.2333, 51.5833], "date": "2025-12-15"}, // Einbruchsdiebstahl Kevelaer, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-12-15"}, // Fulda, entwendet
+//{"coords": [], "date": "2025-12-15"} // Kein Ort gefunden, Dieb
+{"coords": [6.2333, 51.5833], "date": "2025-12-15"}, // Kevelaer, Einbruch
+{"coords": [6.2333, 51.5833], "date": "2025-12-15"}, // Zeugen Kevelaer, Einbrüche
+//{"coords": [], "date": "2025-12-15"} // Millingen, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Reichswalde, Einbruch
+{"coords": [8.8075, 53.075], "date": "2025-12-15"}, // Bremen, eingebrochen
+//{"coords": [], "date": "2025-12-15"} // Moyland, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Frasselt, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Einfamilienhaus, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Kein Ort gefunden, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2025-12-15"}, // Visier Krimineller Rüsselsheim, Einbrecher
+{"coords": [7.45, 51.4], "date": "2025-12-15"}, // Herdecke, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Uentrop, Einbruch

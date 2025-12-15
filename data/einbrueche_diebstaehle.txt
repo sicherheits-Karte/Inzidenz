@@ -4097,3 +4097,4 @@
 {"coords": [7.3194, 52.5236], "date": "2025-12-15"}, // Mehrfamilienhaus Lingen, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2025-12-15"}, // Stand Meppen, Diebstahl
 {"coords": [7.2908, 52.6906], "date": "2025-12-15"}, // Meppen, Einbruch
+{"coords": [12.2667, 54.0833], "date": "2025-12-15"}, // Broderstorf im Landkreis Rostock Broderstorf, Einbruch

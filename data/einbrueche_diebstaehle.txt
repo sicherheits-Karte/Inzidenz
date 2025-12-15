@@ -4111,3 +4111,11 @@
 //{"coords": [], "date": "2025-12-15"} // Elleringhausen Olsberg, Einbruch
 {"coords": [8.4833, 49.9167], "date": "2025-12-15"}, // Gerau, Einbrecher
 {"coords": [8.4942, 49.8342], "date": "2025-12-15"}, // Wolfskehlen Riedstadt, Einbruch
+{"coords": [7.8508, 51.0281], "date": "2025-12-15"}, // Schützenhalle Olpe Meschede, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-15"}, // Aalen, Einbrüche
+{"coords": [6.6264, 51.4519], "date": "2025-12-15"}, // Autohaus Moers, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2025-12-15"}, // Wohnungseinbruch Moers, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-12-15"}, // Zeugen Homberg, Einbruch
+{"coords": [8.5167, 49.7], "date": "2025-12-15"}, // Rohrheim, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-15"}, // Stadtgebiet Soest, Einbrüche
+//{"coords": [], "date": "2025-12-15"} // Wenholthausen Eslohe, Einbruch

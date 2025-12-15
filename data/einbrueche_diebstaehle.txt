@@ -4192,3 +4192,12 @@
 //{"coords": [], "date": "2025-12-15"} // Anhang, stahl
 {"coords": [8.6822, 50.1106], "date": "2025-12-15"}, // Frankfurt, Raub
 {"coords": [8.8731, 51.275], "date": "2025-12-15"}, // Restaurant Korbach, Einbrecher
+{"coords": [9.984, 54.0714], "date": "2025-12-15"}, // Neumünster, Einbruch
+{"coords": [6.4667, 51.8333], "date": "2025-12-15"}, // Isselburg, Einbrecher
+{"coords": [10.7865, 52.4226], "date": "2025-12-15"}, // Wolfsburg, Raub
+{"coords": [10.5267, 52.2689], "date": "2025-12-15"}, // Braunschweig, Räuber
+{"coords": [8.0, 50.3667], "date": "2025-12-15"}, // Birlenbach, Diebstähle
+{"coords": [6.6153, 51.8367], "date": "2025-12-15"}, // Bocholt, Einbrecher
+{"coords": [10.7865, 52.4226], "date": "2025-12-15"}, // Einfamilienhaus Wolfsburg, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2025-12-15"}, // Nürnberg, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-12-15"}, // Gütersloh Gütersloh, Einbruch

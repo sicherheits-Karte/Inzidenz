@@ -4232,3 +4232,17 @@
 {"coords": [8.9667, 52.3833], "date": "2025-12-15"}, // Wohnhaus Petershagen, Einbruch
 //{"coords": [], "date": "2025-12-15"} // mehreren Straßenlaternen entwendet, entwendet
 {"coords": [9.55, 49.3167], "date": "2025-12-15"}, // Unfallflucht Hohenlohekreis, Einbruch
+{"coords": [8.8731, 51.275], "date": "2025-12-15"}, // Korbach, gestohlen
+{"coords": [8.4043, 49.014], "date": "2025-12-15"}, // Sakralen Karlsruhe, Diebstahl
+{"coords": [10.4, 53.25], "date": "2025-12-15"}, // Lüneburg, Einbruch
+{"coords": [6.9889, 51.8944], "date": "2025-12-15"}, // Velen, entwendet
+{"coords": [6.6153, 51.8367], "date": "2025-12-15"}, // Bocholt, eingebrochen
+{"coords": [8.375, 49.3833], "date": "2025-12-15"}, // Schifferstadt, stehlen
+{"coords": [9.1919, 48.8975], "date": "2025-12-15"}, // Zigarettenautomat Ludwigsburg, Dieb
+{"coords": [9.1919, 48.8975], "date": "2025-12-15"}, // Erdgeschosswohnung Ludwigsburg, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Drogeneinfluss Bad Pyrmont, gestohlen
+//{"coords": [], "date": "2025-12-15"} // Stunden Krempe, Raub
+//{"coords": [], "date": "2025-12-15"} // Kreis, Diebstahl
+//{"coords": [], "date": "2025-12-15"} // Einkaufen Bad Gandersheim, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2025-12-15"}, // Zeugen Münster, Einbrüche
+{"coords": [6.7623, 51.4344], "date": "2025-12-15"}, // Duisburg, Raub

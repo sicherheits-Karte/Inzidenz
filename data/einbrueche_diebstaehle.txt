@@ -4299,3 +4299,4 @@
 //{"coords": [], "date": "2025-12-15"} // KREMER wird vermisst, klau
 {"coords": [10.0936, 48.8372], "date": "2025-12-15"}, // Aalen, Raub
 {"coords": [8.0667, 50.3833], "date": "2025-12-15"}, // Limburg, klau
+//{"coords": [], "date": "2025-12-16"} // Diebstahl Friedhof Wahlrod Wahlrod, Diebstahl

@@ -4184,3 +4184,11 @@
 {"coords": [8.4111, 49.9917], "date": "2025-12-15"}, // Visier Krimineller Rüsselsheim, Einbrecher
 {"coords": [7.45, 51.4], "date": "2025-12-15"}, // Herdecke, Einbruch
 //{"coords": [], "date": "2025-12-15"} // Uentrop, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-12-15"}, // Zeugen Karlsruhe, Einbrüche
+{"coords": [8.4043, 49.014], "date": "2025-12-15"}, // Wohnhäuser Karlsruhe, Einbrüche
+{"coords": [11.5419, 49.7564], "date": "2025-12-15"}, // Pegnitz, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-15"}, // Ludwigsburg, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2025-12-15"}, // Blankenhagen Gütersloh, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Anhang, stahl
+{"coords": [8.6822, 50.1106], "date": "2025-12-15"}, // Frankfurt, Raub
+{"coords": [8.8731, 51.275], "date": "2025-12-15"}, // Restaurant Korbach, Einbrecher

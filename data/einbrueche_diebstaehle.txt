@@ -4125,3 +4125,10 @@
 {"coords": [7.1675, 51.9436], "date": "2025-12-15"}, // Coesfeld, entwendet
 {"coords": [7.1675, 51.9436], "date": "2025-12-15"}, // Bargeld Coesfeld, entwendet
 //{"coords": [], "date": "2025-12-15"} // Jugenheim, Diebstahl
+{"coords": [8.5833, 49.8667], "date": "2025-12-15"}, // Griesheim, gestohlen
+//{"coords": [], "date": "2025-12-15"} // Kein Ort gefunden, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2025-12-15"}, // Sonstiges Aalen, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Spendensammler, Raub
+//{"coords": [], "date": "2025-12-15"} // Verkehrsunfall Bordesholm, Raub
+{"coords": [10.7792, 50.8083], "date": "2025-12-15"}, // oder mehrere Unbekannte von einem Gartengrundstück in der Marktbrunnenstraße in Wölfis. Der Wert des Beutegutes beträgt ungefähr, entwendet
+//{"coords": [], "date": "2025-12-15"} // oder mehrere bislang unbekannte Personen drangen widerrechtlich in die Kellerräume mehrerer Mehrfamilienhäuser in der Straße des Friedens ein. Entwendet wurde unter anderem Werkzeug. Die Tatzeiten liegen zwischen dem, Diebstahl

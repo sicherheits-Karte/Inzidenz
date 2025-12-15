@@ -4258,3 +4258,14 @@
 {"coords": [8.9167, 52.3], "date": "2025-12-15"}, // Haft Minden, Raub
 {"coords": [8.8731, 51.275], "date": "2025-12-15"}, // Karten Korbach, Einbrecher
 //{"coords": [], "date": "2025-12-15"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-12-15"}, // Kind Aalen, Diebstahl
+{"coords": [9.1753, 47.6633], "date": "2025-12-15"}, // Konstanz, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2025-12-15"}, // Trier Trier, Einbrüche
+{"coords": [8.3833, 51.9], "date": "2025-12-15"}, // Berliner Straße Gütersloh, Raub
+{"coords": [6.6393, 49.7556], "date": "2025-12-15"}, // Trier Trier, aufbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-15"}, // Unfall Hofheim, Einbrüche
+{"coords": [10.75, 53.7], "date": "2025-12-15"}, // Zeugen Ratzeburg, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-15"}, // Tuner Kontrollen Wiesbaden, Einbrüche
+{"coords": [7.2162, 51.4818], "date": "2025-12-15"}, // Kraftfahrzeug Bochum, entwendet
+{"coords": [7.4653, 51.5136], "date": "2025-12-15"}, // Zeugen Dortmund, Raub
+//{"coords": [], "date": "2025-12-15"} // Kreis, Einbrüche

@@ -4214,3 +4214,8 @@
 {"coords": [8.35, 52.4167], "date": "2025-12-15"}, // Autoteilen Stemwede, Diebstahl
 {"coords": [6.9667, 51.2333], "date": "2025-12-15"}, // Polizei Mettmann POL-ME, Einbruch
 {"coords": [6.7872, 50.6606], "date": "2025-12-15"}, // Räuberischer Diebstahl Euskirchen, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-12-15"}, // Ulm, stahl
+{"coords": [9.2639, 52.0494], "date": "2025-12-15"}, // Aerzen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-12-15"}, // Zeugen Homberg, Diebstahl
+{"coords": [7.6736, 51.2972], "date": "2025-12-15"}, // Märkischen Gewerkepark Rosmart Altena, eingebrochen
+{"coords": [7.7, 51.375], "date": "2025-12-15"}, // Iserlohn, Einbrüche

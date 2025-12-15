@@ -4104,3 +4104,10 @@
 {"coords": [8.0, 53.5333], "date": "2025-12-15"}, // Bürgerhaus Schortens Schortens, Diebstahl
 //{"coords": [], "date": "2025-12-15"} // Kreis, gestohlen
 {"coords": [11.5862, 50.9271], "date": "2025-12-15"}, // Beutezug Jena, einbrechen
+{"coords": [8.65, 49.3], "date": "2025-12-15"}, // Walldorf, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-15"}, // Aalen, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2025-12-15"}, // Bensheim, aufbruch
+{"coords": [8.8494, 51.4611], "date": "2025-12-15"}, // Udorf Marsberg, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Elleringhausen Olsberg, Einbruch
+{"coords": [8.4833, 49.9167], "date": "2025-12-15"}, // Gerau, Einbrecher
+{"coords": [8.4942, 49.8342], "date": "2025-12-15"}, // Wolfskehlen Riedstadt, Einbruch

@@ -4119,3 +4119,7 @@
 {"coords": [8.5167, 49.7], "date": "2025-12-15"}, // Rohrheim, Einbruch
 {"coords": [8.1092, 51.5711], "date": "2025-12-15"}, // Stadtgebiet Soest, Einbrüche
 //{"coords": [], "date": "2025-12-15"} // Wenholthausen Eslohe, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Lippborg, Einbruch
+{"coords": [8.0, 51.45], "date": "2025-12-15"}, // Wennigloh Arnsberg, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-12-15"}, // Beuel Bonn, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-15"}, // Coesfeld, entwendet

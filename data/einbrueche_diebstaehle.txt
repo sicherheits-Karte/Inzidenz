@@ -4294,3 +4294,4 @@
 {"coords": [8.1361, 53.3969], "date": "2025-12-15"}, // Varel Varel, Einbruch
 {"coords": [7.1, 51.5167], "date": "2025-12-15"}, // Auto Gelsenkirchen, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2025-12-15"}, // Verkehrsunfall Reutlingen, Einbrüche
+{"coords": [7.1833, 50.0292], "date": "2025-12-15"}, // Zell, Diebstahl

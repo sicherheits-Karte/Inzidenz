@@ -4201,3 +4201,11 @@
 {"coords": [10.7865, 52.4226], "date": "2025-12-15"}, // Einfamilienhaus Wolfsburg, Einbruch
 {"coords": [11.0767, 49.4521], "date": "2025-12-15"}, // Nürnberg, Einbruch
 {"coords": [8.3833, 51.9], "date": "2025-12-15"}, // Gütersloh Gütersloh, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2025-12-15"}, // Fotofahndung Essen, gestohlen
+{"coords": [7.0116, 51.4556], "date": "2025-12-15"}, // Fotofahndung Essen, entwendet
+{"coords": [6.9603, 50.9375], "date": "2025-12-15"}, // Köln, Einbruch
+//{"coords": [], "date": "2025-12-15"} // Stadtgebiet, eingebrochen
+{"coords": [7.4981, 51.1861], "date": "2025-12-15"}, // Schlägerei Halver, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2025-12-15"}, // Konstanz, entwendet
+{"coords": [7.8, 51.4333], "date": "2025-12-15"}, // Menden, Einbrüche
+{"coords": [7.1675, 51.9436], "date": "2025-12-15"}, // Coesfeld, Einbrecher

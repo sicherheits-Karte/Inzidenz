@@ -4219,3 +4219,6 @@
 {"coords": [9.0, 50.7333], "date": "2025-12-15"}, // Zeugen Homberg, Diebstahl
 {"coords": [7.6736, 51.2972], "date": "2025-12-15"}, // Märkischen Gewerkepark Rosmart Altena, eingebrochen
 {"coords": [7.7, 51.375], "date": "2025-12-15"}, // Iserlohn, Einbrüche
+{"coords": [7.0982, 50.7374], "date": "2025-12-15"}, // Wohnungseinbruch Bonn, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-12-15"}, // Rotenburg, Diebstahl
+//{"coords": [], "date": "2025-12-15"} // Helpsen, Einbruch

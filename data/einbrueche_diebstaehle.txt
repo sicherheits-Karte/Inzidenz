@@ -4098,3 +4098,5 @@
 {"coords": [7.2908, 52.6906], "date": "2025-12-15"}, // Stand Meppen, Diebstahl
 {"coords": [7.2908, 52.6906], "date": "2025-12-15"}, // Meppen, Einbruch
 {"coords": [12.2667, 54.0833], "date": "2025-12-15"}, // Broderstorf im Landkreis Rostock Broderstorf, Einbruch
+{"coords": [7.15, 50.0], "date": "2025-12-15"}, // Flucht Klausen, klau
+{"coords": [11.7264, 48.1089], "date": "2025-12-15"}, // Haar Offenbach, eingebrochen

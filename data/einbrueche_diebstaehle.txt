@@ -4453,3 +4453,7 @@
 {"coords": [8.24, 50.0822], "date": "2025-12-16"}, // Wiesbaden, Einbrecher
 {"coords": [6.6178, 51.6589], "date": "2025-12-16"}, // Wesel, eingebrochen
 {"coords": [11.4972, 53.3242], "date": "2025-12-16"}, // Ludwigslust, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-12-16"}, // Recklinghausen, Einbruch
+//{"coords": [], "date": "2025-12-16"} // Elmpt, Raub
+{"coords": [7.5264, 50.6458], "date": "2025-12-16"}, // Einbruchsdiebstahl Flammersfeld, Einbruch
+//{"coords": [], "date": "2025-12-16"} // Kreis, Einbrecher

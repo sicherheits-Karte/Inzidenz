@@ -4300,3 +4300,11 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-15"}, // Aalen, Raub
 {"coords": [8.0667, 50.3833], "date": "2025-12-15"}, // Limburg, klau
 //{"coords": [], "date": "2025-12-16"} // Diebstahl Friedhof Wahlrod Wahlrod, Diebstahl
+{"coords": [7.7833, 51.35], "date": "2025-12-16"}, // Jugendzentrum Neuenrade, Einbrecher
+{"coords": [10.0, 51.7064], "date": "2025-12-16"}, // Entsorgungstonnen Northeim, entwendet
+{"coords": [10.0936, 48.8372], "date": "2025-12-16"}, // Sonstiges Aalen, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-12-16"}, // Weimar, eingebrochen
+{"coords": [11.3239, 50.9795], "date": "2025-12-16"}, // Verkehrsunfall Weimar, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2025-12-16"}, // Versuchter Einbruch Weimar, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2025-12-16"}, // Diebstähle Jena, Diebstähle
+{"coords": [11.0299, 50.9848], "date": "2025-12-16"}, // Erfurt, Diebstahl

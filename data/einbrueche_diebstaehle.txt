@@ -4381,3 +4381,11 @@
 {"coords": [10.0333, 53.3833], "date": "2025-12-16"}, // Seevetal, Einbrüche
 {"coords": [9.95, 52.15], "date": "2025-12-16"}, // Berufsbildungszentrum Hildesheim, Einbruch
 //{"coords": [], "date": "2025-12-16"} // Biebesheim, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-12-16"}, // Theresienweg Gütersloh, Einbruch
+{"coords": [11.4012, 53.6355], "date": "2025-12-16"}, // Schwerin Schwerin, Einbrüche
+//{"coords": [], "date": "2025-12-16"} // Kreis, gestohlen
+//{"coords": [], "date": "2025-12-16"} // Mainzer Innenstadt, Diebstähle
+{"coords": [8.8333, 48.0667], "date": "2025-12-16"}, // Trossingen, Diebstahl
+{"coords": [9.1, 48.8], "date": "2025-12-16"}, // Weilimdorf, Raub
+{"coords": [8.1075, 53.5219], "date": "2025-12-16"}, // Abbuchung Wilhelmshaven, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2025-12-16"}, // Wohnhaus Ludwigsburg, Einbruch

@@ -4396,3 +4396,7 @@
 {"coords": [9.0958, 54.1958], "date": "2025-12-16"}, // Untersuchungshaft Heide, Einbrüche
 {"coords": [9.1919, 48.8975], "date": "2025-12-16"}, // Ludwigsburg, Räuber
 //{"coords": [], "date": "2025-12-16"} // Anschlussstelle Reinsfeld Reinsfeld, Raub
+{"coords": [9.7, 53.5833], "date": "2025-12-16"}, // Revierbereich Wedel Wedel, Einbruch
+//{"coords": [], "date": "2025-12-16"} // der Straße Geißbergring geparkt. Am Morgen stellte er fest, dass Unbekannte in den Wagen eingedrungen waren und ihn, Diebstahl
+{"coords": [10.3667, 50.7333], "date": "2025-12-16"}, // Fambach, Diebstahl
+{"coords": [10.4508, 50.7211], "date": "2025-12-16"}, // Arbeitsagentur Schmalkalden, Einbruch

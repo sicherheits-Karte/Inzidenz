@@ -4400,3 +4400,8 @@
 //{"coords": [], "date": "2025-12-16"} // der Straße Geißbergring geparkt. Am Morgen stellte er fest, dass Unbekannte in den Wagen eingedrungen waren und ihn, Diebstahl
 {"coords": [10.3667, 50.7333], "date": "2025-12-16"}, // Fambach, Diebstahl
 {"coords": [10.4508, 50.7211], "date": "2025-12-16"}, // Arbeitsagentur Schmalkalden, Einbruch
+//{"coords": [], "date": "2025-12-16"} // Ladendetektiv ansprach. Da hatte der junge Mann bereits den Kassenbereich passiert, Dieb
+{"coords": [9.2167, 48.4833], "date": "2025-12-16"}, // Brennender Akku Reutlingen, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2025-12-16"}, // Bielefeld, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2025-12-16"}, // Fulda, Einbruch
+//{"coords": [], "date": "2025-12-16"} // Hüfingen, Dieb

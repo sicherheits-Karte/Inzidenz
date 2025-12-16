@@ -4412,3 +4412,13 @@
 {"coords": [8.6331, 52.3775], "date": "2025-12-16"}, // Lkw Espelkamp, Diebstahl
 {"coords": [10.4, 53.25], "date": "2025-12-16"}, // Lüneburg, Einbruch
 //{"coords": [], "date": "2025-12-16"} // Kreis, Diebstahl
+//{"coords": [], "date": "2025-12-16"} // Zeugenhinweise Hagenburg, Diebstahl
+{"coords": [11.0911, 49.245], "date": "2025-12-16"}, // Zeugenaufruf Roth, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2025-12-16"}, // Bocholt, Raub
+{"coords": [7.0333, 52.2167], "date": "2025-12-16"}, // Ladendieb Gronau, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2025-12-16"}, // Giessen, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2025-12-16"}, // Gronau, Einbrecher
+{"coords": [7.0042, 51.9542], "date": "2025-12-16"}, // Wohnhaus Gescher, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-12-16"}, // Kaiserslautern, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2025-12-16"}, // Unfall Giessen, Einbruch
+{"coords": [6.4333, 51.2], "date": "2025-12-16"}, // Mönchengladbach, Diebstahl

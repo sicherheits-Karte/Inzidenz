@@ -4457,3 +4457,5 @@
 //{"coords": [], "date": "2025-12-16"} // Elmpt, Raub
 {"coords": [7.5264, 50.6458], "date": "2025-12-16"}, // Einbruchsdiebstahl Flammersfeld, Einbruch
 //{"coords": [], "date": "2025-12-16"} // Kreis, Einbrecher
+//{"coords": [], "date": "2025-12-16"} // Bad Bramstedt, Einbrüche
+{"coords": [8.8678, 49.9228], "date": "2025-12-16"}, // Zeugen Münster, Diebstahl

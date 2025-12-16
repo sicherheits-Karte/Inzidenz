@@ -4326,3 +4326,7 @@
 {"coords": [12.1997, 50.6544], "date": "2025-12-16"}, // Dieseldiebstahl Greiz, Diebstahl
 //{"coords": [], "date": "2025-12-16"} // Hochschulviertel, Diebstahl
 //{"coords": [], "date": "2025-12-16"} // Uentrop, Einbruch
+{"coords": [8.15, 49.4667], "date": "2025-12-16"}, // der Weinstraße Nord in Bad Dürkheim, zu einem Diebstahl aus einem PKW. Der, Diebstahl
+{"coords": [7.3392, 51.3197], "date": "2025-12-16"}, // Fenster Gevelsberg, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-12-16"}, // Münster, entwendet
+//{"coords": [], "date": "2025-12-16"} // Kellerwohnung Sankt Martin, Einbruch

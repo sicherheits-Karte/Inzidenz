@@ -4340,3 +4340,11 @@
 {"coords": [7.5333, 51.05], "date": "2025-12-16"}, // Marienheide, Einbrecher
 //{"coords": [], "date": "2025-12-16"} // Autohaus-Gelände gestohlen, gestohlen
 //{"coords": [], "date": "2025-12-16"} // See, Dieb
+{"coords": [8.2417, 48.7994], "date": "2025-12-16"}, // Baden, Diebstahl
+//{"coords": [], "date": "2025-12-16"} // Letmathe, gestohlen
+{"coords": [7.6333, 51.2167], "date": "2025-12-16"}, // Taschendiebe Lüdenscheid, Einbruch
+{"coords": [8.8431, 49.8978], "date": "2025-12-16"}, // Plan Dieburg, Dieb
+{"coords": [8.2146, 53.1434], "date": "2025-12-16"}, // Oldenburg, Räuber
+//{"coords": [], "date": "2025-12-16"} // Bergisch Gladbach, entwendet
+{"coords": [7.1833, 50.9], "date": "2025-12-16"}, // Rösrath, Diebstähle
+{"coords": [10.95, 50.8333], "date": "2025-12-16"}, // Keller Arnstadt, Diebstahl

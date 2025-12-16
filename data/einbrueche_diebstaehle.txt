@@ -4320,3 +4320,9 @@
 {"coords": [7.4842, 52.6742], "date": "2025-12-16"}, // Baustellengelände Haselünne, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2025-12-16"}, // Einbruch Coesfeld, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-12-16"}, // Aalen, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2025-12-16"}, // Innenstadt Speyer, Diebstähle
+{"coords": [12.1997, 50.6544], "date": "2025-12-16"}, // Einfamilienhaus Greiz, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2025-12-16"}, // Baumaterialien Greiz, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2025-12-16"}, // Dieseldiebstahl Greiz, Diebstahl
+//{"coords": [], "date": "2025-12-16"} // Hochschulviertel, Diebstahl
+//{"coords": [], "date": "2025-12-16"} // Uentrop, Einbruch

@@ -4409,3 +4409,4 @@
 {"coords": [7.2162, 51.4818], "date": "2025-12-16"}, // Bochum, Raub
 {"coords": [7.2833, 50.7833], "date": "2025-12-16"}, // Hennef, Raub
 {"coords": [9.1753, 47.6633], "date": "2025-12-16"}, // Konstanz, Einbruch
+{"coords": [8.6331, 52.3775], "date": "2025-12-16"}, // Lkw Espelkamp, Diebstahl

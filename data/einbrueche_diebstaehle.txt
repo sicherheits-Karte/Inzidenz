@@ -4422,3 +4422,13 @@
 {"coords": [7.7689, 49.4447], "date": "2025-12-16"}, // Kaiserslautern, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2025-12-16"}, // Unfall Giessen, Einbruch
 {"coords": [6.4333, 51.2], "date": "2025-12-16"}, // Mönchengladbach, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2025-12-16"}, // Delmenhorst, Diebstahl
+{"coords": [10.4278, 51.9042], "date": "2025-12-16"}, // Goslar, stahl
+{"coords": [6.9603, 50.9375], "date": "2025-12-16"}, // Köln, Raub
+{"coords": [9.6106, 47.7828], "date": "2025-12-16"}, // Landkreis Ravensburg Landkreis Ravensburg, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-12-16"}, // Verkehrsunfall Aalen, aufbrüche
+{"coords": [8.6833, 50.5833], "date": "2025-12-16"}, // Mithilfe Giessen, Einbrecher
+{"coords": [7.4044, 53.0772], "date": "2025-12-16"}, // Spielothek Papenburg, Raub
+{"coords": [10.0075, 53.7064], "date": "2025-12-16"}, // Zeugen Norderstedt, Diebstahl
+{"coords": [7.4836, 53.4711], "date": "2025-12-16"}, // Landkreis Aurich, Einbruch
+//{"coords": [], "date": "2025-12-16"} // Kreis, entwendet

@@ -4338,3 +4338,5 @@
 {"coords": [7.5667, 51.0167], "date": "2025-12-16"}, // Wiehl, Einbrecher
 {"coords": [7.5667, 51.0167], "date": "2025-12-16"}, // Wiehl, Dieb
 {"coords": [7.5333, 51.05], "date": "2025-12-16"}, // Marienheide, Einbrecher
+//{"coords": [], "date": "2025-12-16"} // Autohaus-Gelände gestohlen, gestohlen
+//{"coords": [], "date": "2025-12-16"} // See, Dieb

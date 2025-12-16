@@ -4459,3 +4459,6 @@
 //{"coords": [], "date": "2025-12-16"} // Kreis, Einbrecher
 //{"coords": [], "date": "2025-12-16"} // Bad Bramstedt, Einbrüche
 {"coords": [8.8678, 49.9228], "date": "2025-12-16"}, // Zeugen Münster, Diebstahl
+{"coords": [8.8, 53.75], "date": "2025-12-16"}, // Wanna Cuxhaven, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2025-12-16"}, // Zeugen Nordhausen, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2025-12-16"}, // Klasse Coesfeld, Dieb

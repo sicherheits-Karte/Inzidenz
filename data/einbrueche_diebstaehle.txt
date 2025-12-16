@@ -4444,3 +4444,12 @@
 {"coords": [8.35, 49.5333], "date": "2025-12-16"}, // Frankenthal, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2025-12-16"}, // Ludwigshafen, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2025-12-16"}, // Ludwigshafen, Einbruch
+{"coords": [10.0528, 51.1889], "date": "2025-12-16"}, // Eschwege, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-12-16"}, // Limburg, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-16"}, // Scooter Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-12-16"}, // Auto Ludwigshafen, Diebstahl
+{"coords": [7.45, 51.4], "date": "2025-12-16"}, // Herdecke, Einbruch
+//{"coords": [], "date": "2025-12-16"} // Hinsbeck, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-16"}, // Wiesbaden, Einbrecher
+{"coords": [6.6178, 51.6589], "date": "2025-12-16"}, // Wesel, eingebrochen
+{"coords": [11.4972, 53.3242], "date": "2025-12-16"}, // Ludwigslust, Diebstahl

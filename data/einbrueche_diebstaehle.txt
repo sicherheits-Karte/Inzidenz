@@ -4308,3 +4308,15 @@
 {"coords": [11.3239, 50.9795], "date": "2025-12-16"}, // Versuchter Einbruch Weimar, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2025-12-16"}, // Diebstähle Jena, Diebstähle
 {"coords": [11.0299, 50.9848], "date": "2025-12-16"}, // Erfurt, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2025-12-16"}, // Lebensmittelmarkt Moers, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2025-12-16"}, // Zeugen Wesel, Einbruch
+{"coords": [7.6333, 51.1], "date": "2025-12-16"}, // Meinerzhagen, gestohlen
+{"coords": [6.3778, 51.6083], "date": "2025-12-16"}, // Lkw Sonsbeck, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2025-12-16"}, // Kiosk Meppen, Einbruch
+//{"coords": [], "date": "2025-12-16"} // Supermarkt Klein Berßen, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2025-12-16"}, // Anhängers Haselünne, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2025-12-16"}, // Polizeiinspektion Northeim POL-NOM, Dieb
+{"coords": [7.3333, 52.9667], "date": "2025-12-16"}, // Kühlwagen Dörpen, Diebstahl
+{"coords": [7.4842, 52.6742], "date": "2025-12-16"}, // Baustellengelände Haselünne, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2025-12-16"}, // Einbruch Coesfeld, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-16"}, // Aalen, Einbruch

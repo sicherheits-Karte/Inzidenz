@@ -4389,3 +4389,10 @@
 {"coords": [9.1, 48.8], "date": "2025-12-16"}, // Weilimdorf, Raub
 {"coords": [8.1075, 53.5219], "date": "2025-12-16"}, // Abbuchung Wilhelmshaven, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2025-12-16"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-12-16"}, // Vechta, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-12-16"}, // Tag Kaiserslautern, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-16"}, // Bochum, stahl
+{"coords": [6.3319, 51.5194], "date": "2025-12-16"}, // Geldern, Diebstahl
+{"coords": [9.0958, 54.1958], "date": "2025-12-16"}, // Untersuchungshaft Heide, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2025-12-16"}, // Ludwigsburg, Räuber
+//{"coords": [], "date": "2025-12-16"} // Anschlussstelle Reinsfeld Reinsfeld, Raub

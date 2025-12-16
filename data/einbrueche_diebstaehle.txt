@@ -4348,3 +4348,10 @@
 //{"coords": [], "date": "2025-12-16"} // Bergisch Gladbach, entwendet
 {"coords": [7.1833, 50.9], "date": "2025-12-16"}, // Rösrath, Diebstähle
 {"coords": [10.95, 50.8333], "date": "2025-12-16"}, // Keller Arnstadt, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2025-12-16"}, // Hagen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-16"}, // Ulm, gestohlen
+{"coords": [7.0982, 50.7374], "date": "2025-12-16"}, // Zeugen Bonn, Raub
+{"coords": [9.1919, 48.8975], "date": "2025-12-16"}, // Wohnung Ludwigsburg, Einbruch
+{"coords": [6.55, 51.4667], "date": "2025-12-16"}, // Vluyn, Einbruch
+{"coords": [7.2056, 50.8014], "date": "2025-12-16"}, // Beute Siegburg, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2025-12-16"}, // Zeugensuche Reutlingen, Raub

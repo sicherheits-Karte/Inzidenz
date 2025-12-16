@@ -4432,3 +4432,15 @@
 {"coords": [10.0075, 53.7064], "date": "2025-12-16"}, // Zeugen Norderstedt, Diebstahl
 {"coords": [7.4836, 53.4711], "date": "2025-12-16"}, // Landkreis Aurich, Einbruch
 //{"coords": [], "date": "2025-12-16"} // Kreis, entwendet
+//{"coords": [], "date": "2025-12-16"} // Höhe, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2025-12-16"}, // Unfallflucht Heidekreis, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2025-12-16"}, // Kleve, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-12-16"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-12-16"}, // Raubdelikt Paderborn, Raub
+{"coords": [7.82, 47.99], "date": "2025-12-16"}, // Handwerkerfahrzeug Freiburg, aufbruch
+//{"coords": [], "date": "2025-12-16"} // Kein Ort gefunden, Dieb
+{"coords": [6.6393, 49.7556], "date": "2025-12-16"}, // Opel Trier, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2025-12-16"}, // Fahrzeugführer Hofheim, Dieb
+{"coords": [8.35, 49.5333], "date": "2025-12-16"}, // Frankenthal, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-16"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-12-16"}, // Ludwigshafen, Einbruch

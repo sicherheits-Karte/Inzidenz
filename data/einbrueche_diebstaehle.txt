@@ -4330,3 +4330,11 @@
 {"coords": [7.3392, 51.3197], "date": "2025-12-16"}, // Fenster Gevelsberg, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2025-12-16"}, // Münster, entwendet
 //{"coords": [], "date": "2025-12-16"} // Kellerwohnung Sankt Martin, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-16"}, // Ulm, stahl
+{"coords": [8.6514, 49.8728], "date": "2025-12-16"}, // Darmstadt, entwendet
+{"coords": [7.6158, 50.8767], "date": "2025-12-16"}, // Einfamilienhäuser Waldbröl, Einbrüche
+//{"coords": [], "date": "2025-12-16"} // Büroräume BAD DÜRKHEIM, Einbruch
+//{"coords": [], "date": "2025-12-16"} // Hochschulviertel, Einbrecher
+{"coords": [7.5667, 51.0167], "date": "2025-12-16"}, // Wiehl, Einbrecher
+{"coords": [7.5667, 51.0167], "date": "2025-12-16"}, // Wiehl, Dieb
+{"coords": [7.5333, 51.05], "date": "2025-12-16"}, // Marienheide, Einbrecher

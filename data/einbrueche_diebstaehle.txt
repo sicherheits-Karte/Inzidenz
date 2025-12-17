@@ -4603,3 +4603,10 @@
 {"coords": [8.4414, 50.0919], "date": "2025-12-17"}, // Hofheim, Dieb
 {"coords": [9.2, 49.4], "date": "2025-12-17"}, // Neckar, Einbruch
 {"coords": [11.1, 48.7167], "date": "2025-12-17"}, // Oberhausen Oberhausen, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Kreis, Einbrüche
+{"coords": [8.5833, 53.55], "date": "2025-12-17"}, // Mitte, gestohlen
+{"coords": [8.5331, 52.021], "date": "2025-12-17"}, // Bielefeld, Dieb
+{"coords": [8.2036, 48.8572], "date": "2025-12-17"}, // Rastatt, Einbruch
+{"coords": [6.85, 49.3], "date": "2025-12-17"}, // Bad Schwalbach, gestohlen
+{"coords": [6.9603, 50.9375], "date": "2025-12-17"}, // Fusion Köln, Raub
+{"coords": [10.95, 50.8333], "date": "2025-12-17"}, // Keller Arnstadt, Diebstahl

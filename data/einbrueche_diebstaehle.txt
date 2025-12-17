@@ -4636,3 +4636,4 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-17"}, // Gaststätteneinbruch Reutlingen, Einbruch
 {"coords": [9.2189, 48.6619], "date": "2025-12-17"}, // Filderstadt Reutlingen, Raub
 {"coords": [8.7667, 50.1], "date": "2025-12-17"}, // Hauswand Offenbach, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Dieseldiebstahl Gewerbepark Höhfröschen, Diebstahl

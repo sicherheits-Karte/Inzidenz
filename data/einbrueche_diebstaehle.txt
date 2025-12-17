@@ -4591,3 +4591,15 @@
 {"coords": [11.0299, 50.9848], "date": "2025-12-17"}, // Erfurt, Dieb
 {"coords": [8.5331, 52.021], "date": "2025-12-17"}, // Geld Bielefeld, Einbrecher
 {"coords": [6.4333, 51.2], "date": "2025-12-17"}, // Mönchengladbach, Dieb
+//{"coords": [], "date": "2025-12-17"} // Höhe, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-17"}, // Oldenburg, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Kein Ort gefunden, Einbruch
+{"coords": [7.35, 52.15], "date": "2025-12-17"}, // Steinfurt, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2025-12-17"}, // Bocholt, eingebrochen
+{"coords": [7.82, 47.99], "date": "2025-12-17"}, // Zeugen Freiburg, Einbrüche
+{"coords": [9.4, 47.7833], "date": "2025-12-17"}, // Bodenseekreis Bodenseekreis, Einbrecher
+{"coords": [7.0333, 52.2167], "date": "2025-12-17"}, // Gronau, eingebrochen
+//{"coords": [], "date": "2025-12-17"} // Scooters Bad Gandersheim, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2025-12-17"}, // Hofheim, Dieb
+{"coords": [9.2, 49.4], "date": "2025-12-17"}, // Neckar, Einbruch
+{"coords": [11.1, 48.7167], "date": "2025-12-17"}, // Oberhausen Oberhausen, Einbruch

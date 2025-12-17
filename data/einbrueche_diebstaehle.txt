@@ -4485,3 +4485,13 @@
 {"coords": [12.4333, 50.985], "date": "2025-12-17"}, // Altenburg, entwendet
 {"coords": [7.3194, 52.5236], "date": "2025-12-17"}, // Lingen, Einbruch
 {"coords": [12.4333, 50.985], "date": "2025-12-17"}, // Gartenlaube Altenburg, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Tabakwaren Erwitte, Einbruch
+{"coords": [7.45, 51.4], "date": "2025-12-17"}, // Polizei Herdecke, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Vrasselt, Diebstahl
+//{"coords": [], "date": "2025-12-17"} // Keeken, entwendet
+{"coords": [6.3333, 51.6667], "date": "2025-12-17"}, // Wetten, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-12-17"}, // Landau, Einbruch
+{"coords": [7.1833, 50.9], "date": "2025-12-17"}, // Rösrath, eingebrochen
+{"coords": [9.0, 50.7333], "date": "2025-12-17"}, // Zeugen Homberg, Einbruch
+{"coords": [7.45, 51.4], "date": "2025-12-17"}, // Schubladen Herdecke, Einbruch
+{"coords": [9.6167, 54.0167], "date": "2025-12-17"}, // Wohnhaus Hohenlockstedt, Einbruch

@@ -4624,3 +4624,5 @@
 //{"coords": [], "date": "2025-12-17"} // Lichtzeichenanlage Lambrecht, Diebstahl
 {"coords": [6.9603, 50.9375], "date": "2025-12-17"}, // Zeugensuche Köln, Raub
 {"coords": [8.5786, 49.5383], "date": "2025-12-17"}, // Viernheim, entwendet
+{"coords": [10.7956, 51.5019], "date": "2025-12-17"}, // Zeugen Nordhausen, Einbrüche
+//{"coords": [], "date": "2025-12-17"} // Grafschaft Grafschaft, Einbrüche

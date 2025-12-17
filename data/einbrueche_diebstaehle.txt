@@ -4611,3 +4611,11 @@
 {"coords": [6.9603, 50.9375], "date": "2025-12-17"}, // Fusion Köln, Raub
 {"coords": [10.95, 50.8333], "date": "2025-12-17"}, // Keller Arnstadt, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2025-12-17"}, // Wohnhaus Bielefeld, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Sprinter gestohlen, gestohlen
+{"coords": [9.95, 52.15], "date": "2025-12-17"}, // Einkaufsmarkt Hildesheim, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2025-12-17"}, // Giessen, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Kreis, Einbruch
+{"coords": [8.3658, 49.6306], "date": "2025-12-17"}, // Flörsheim Worms, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-12-17"}, // Limburg, Diebstahl
+{"coords": [8.3658, 49.6306], "date": "2025-12-17"}, // Alzeyer Fahrradgeschäft Worms, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-17"}, // Wiesbaden, eingebrochen

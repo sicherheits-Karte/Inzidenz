@@ -4559,3 +4559,7 @@
 {"coords": [10.7753, 49.7544], "date": "2025-12-17"}, // Mühlhausen, Diebstahl
 {"coords": [9.5, 51.3167], "date": "2025-12-17"}, // Zeugen Kassel, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2025-12-17"}, // Senior Erfurt, Raub
+{"coords": [8.8731, 51.275], "date": "2025-12-17"}, // Restaurant Korbach, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2025-12-17"}, // Bielefeld, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2025-12-17"}, // Nordhausen, Einbruch
+{"coords": [9.0492, 52.2603], "date": "2025-12-17"}, // Hinweise Bückeburg, Diebstahl

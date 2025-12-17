@@ -4546,3 +4546,16 @@
 {"coords": [11.0299, 50.9848], "date": "2025-12-17"}, // Kennzeichentafeln Erfurt, Diebstahl
 {"coords": [9.2167, 48.0833], "date": "2025-12-17"}, // Sigmaringen, Einbruch
 {"coords": [12.4167, 53.4833], "date": "2025-12-17"}, // Geld Malchow, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2025-12-17"}, // Ludwigsburg, Diebstähle
+{"coords": [13.4333, 54.4333], "date": "2025-12-17"}, // Rügen, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-17"}, // Freiburg, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2025-12-17"}, // Kaminbrand Reutlingen, Einbrüche
+{"coords": [10.7333, 51.2833], "date": "2025-12-17"}, // Ebeleben, gestohlen
+//{"coords": [], "date": "2025-12-17"} // Kein Ort gefunden, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2025-12-17"}, // Lippe, eingebrochen
+{"coords": [8.8667, 51.9333], "date": "2025-12-17"}, // Lippe, Diebstahl
+{"coords": [8.7236, 48.5522], "date": "2025-12-17"}, // Zeugenhinweise Nagold, Diebstahl
+{"coords": [10.75, 53.7], "date": "2025-12-17"}, // Zeugen Ratzeburg, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2025-12-17"}, // Mühlhausen, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2025-12-17"}, // Zeugen Kassel, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-17"}, // Senior Erfurt, Raub

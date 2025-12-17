@@ -4579,3 +4579,4 @@
 {"coords": [9.35, 52.3333], "date": "2025-12-17"}, // Wenden, aufbruch
 {"coords": [8.95, 49.9333], "date": "2025-12-17"}, // Umstadt, Einbruch
 //{"coords": [], "date": "2025-12-17"} // POL-PDNR, Einbruch
+{"coords": [6.2194, 51.0614], "date": "2025-12-17"}, // Zeugensuche Hückelhoven, stehlen

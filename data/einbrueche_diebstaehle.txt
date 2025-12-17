@@ -4523,3 +4523,9 @@
 {"coords": [10.6944, 50.6111], "date": "2025-12-17"}, // Suhl, Diebstahl
 {"coords": [7.8667, 48.35], "date": "2025-12-17"}, // Lahr, Einbruch
 //{"coords": [], "date": "2025-12-17"} // Reisiek, Einbruch
+{"coords": [8.4153, 49.6917], "date": "2025-12-17"}, // Biblis, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2025-12-17"}, // Heidekreis, Einbruch
+{"coords": [10.15, 52.5333], "date": "2025-12-17"}, // Wathlingen, Raub
+{"coords": [7.2162, 51.4818], "date": "2025-12-17"}, // Bochum, Diebstahl
+{"coords": [8.5167, 49.7], "date": "2025-12-17"}, // Rohrheim, Einbrüche
+{"coords": [8.7236, 48.5522], "date": "2025-12-17"}, // Nagold, Dieb

@@ -4580,3 +4580,14 @@
 {"coords": [8.95, 49.9333], "date": "2025-12-17"}, // Umstadt, Einbruch
 //{"coords": [], "date": "2025-12-17"} // POL-PDNR, Einbruch
 {"coords": [6.2194, 51.0614], "date": "2025-12-17"}, // Zeugensuche Hückelhoven, stehlen
+{"coords": [8.5333, 50.0833], "date": "2025-12-17"}, // Höchst, gestohlen
+{"coords": [7.4836, 53.4711], "date": "2025-12-17"}, // Einbruch Landkreis Aurich, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-17"}, // Ludwigshafen, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-12-17"}, // Zeugenaufruf Heidelberg, Einbruch
+{"coords": [10.3333, 52.15], "date": "2025-12-17"}, // Salzgitter, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2025-12-17"}, // Zeugenaufruf Nürnberg, Diebstahl
+{"coords": [8.0169, 50.3714], "date": "2025-12-17"}, // Warnhinweisen Diez, Einbrecher
+//{"coords": [], "date": "2025-12-17"} // Boele, Raub
+{"coords": [11.0299, 50.9848], "date": "2025-12-17"}, // Erfurt, Dieb
+{"coords": [8.5331, 52.021], "date": "2025-12-17"}, // Geld Bielefeld, Einbrecher
+{"coords": [6.4333, 51.2], "date": "2025-12-17"}, // Mönchengladbach, Dieb

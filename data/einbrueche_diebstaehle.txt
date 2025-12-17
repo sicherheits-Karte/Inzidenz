@@ -4610,3 +4610,4 @@
 {"coords": [6.85, 49.3], "date": "2025-12-17"}, // Bad Schwalbach, gestohlen
 {"coords": [6.9603, 50.9375], "date": "2025-12-17"}, // Fusion Köln, Raub
 {"coords": [10.95, 50.8333], "date": "2025-12-17"}, // Keller Arnstadt, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2025-12-17"}, // Wohnhaus Bielefeld, Einbruch

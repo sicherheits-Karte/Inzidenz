@@ -4626,3 +4626,7 @@
 {"coords": [8.5786, 49.5383], "date": "2025-12-17"}, // Viernheim, entwendet
 {"coords": [10.7956, 51.5019], "date": "2025-12-17"}, // Zeugen Nordhausen, Einbrüche
 //{"coords": [], "date": "2025-12-17"} // Grafschaft Grafschaft, Einbrüche
+{"coords": [7.1675, 51.9436], "date": "2025-12-17"}, // Bargeld Coesfeld, Einbrecher
+{"coords": [8.4353, 49.4811], "date": "2025-12-17"}, // Transporter Ludwigshafen, Diebstahl
+//{"coords": [], "date": "2025-12-17"} // Kreis, Dieb
+{"coords": [9.4108, 53.1111], "date": "2025-12-17"}, // Rotenburg, entwendet

@@ -4633,3 +4633,5 @@
 {"coords": [7.1675, 51.9436], "date": "2025-12-17"}, // Coesfeld, gestohlen
 {"coords": [9.1681, 48.8319], "date": "2025-12-17"}, // Zuffenhausen, gestohlen
 {"coords": [8.4353, 49.4811], "date": "2025-12-17"}, // Keller Ludwigshafen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-17"}, // Gaststätteneinbruch Reutlingen, Einbruch
+{"coords": [9.2189, 48.6619], "date": "2025-12-17"}, // Filderstadt Reutlingen, Raub

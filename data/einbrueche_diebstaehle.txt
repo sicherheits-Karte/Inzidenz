@@ -4533,3 +4533,16 @@
 //{"coords": [], "date": "2025-12-17"} // dem Kreisgebiet, Einbrüche
 {"coords": [8.6822, 50.1106], "date": "2025-12-17"}, // A- Preungesheim Frankfurt, Diebstahl
 {"coords": [7.0116, 51.4556], "date": "2025-12-17"}, // Fotofahndung Essen, stahl
+{"coords": [9.6775, 50.5528], "date": "2025-12-17"}, // Fahrraddiebstahl Fulda, Diebstahl
+//{"coords": [], "date": "2025-12-17"} // Kein Ort gefunden, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2025-12-17"}, // Hammerstraße Ludwigsburg, Einbruch
+{"coords": [8.6925, 52.1986], "date": "2025-12-17"}, // Werkzeuge Löhne, Einbruch
+{"coords": [8.6833, 52.15], "date": "2025-12-17"}, // Gedränge Kreis Herford, Diebstahl
+{"coords": [6.4833, 50.8], "date": "2025-12-17"}, // Diebinnen Düren, Diebstahl
+//{"coords": [], "date": "2025-12-17"} // Inden, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Kreuzau, entwendet
+{"coords": [6.3583, 50.9222], "date": "2025-12-17"}, // Zeugen Jülich, Raub
+{"coords": [11.4012, 53.6355], "date": "2025-12-17"}, // Zeugenhinweise Schwerin, Raub
+{"coords": [11.0299, 50.9848], "date": "2025-12-17"}, // Kennzeichentafeln Erfurt, Diebstahl
+{"coords": [9.2167, 48.0833], "date": "2025-12-17"}, // Sigmaringen, Einbruch
+{"coords": [12.4167, 53.4833], "date": "2025-12-17"}, // Geld Malchow, Diebstahl

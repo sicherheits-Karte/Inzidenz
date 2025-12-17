@@ -4563,3 +4563,8 @@
 {"coords": [8.5331, 52.021], "date": "2025-12-17"}, // Bielefeld, Diebstahl
 {"coords": [10.7956, 51.5019], "date": "2025-12-17"}, // Nordhausen, Einbruch
 {"coords": [9.0492, 52.2603], "date": "2025-12-17"}, // Hinweise Bückeburg, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2025-12-17"}, // Neuss, Diebstahl
+//{"coords": [], "date": "2025-12-17"} // Ebringen, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Blankenheim, Einbruch
+{"coords": [7.0333, 50.8167], "date": "2025-12-17"}, // Bargeld Niederkassel, Einbrüche
+//{"coords": [], "date": "2025-12-17"} // der Zeit von, Einbruch

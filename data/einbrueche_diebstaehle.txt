@@ -4475,3 +4475,13 @@
 {"coords": [9.2167, 48.5167], "date": "2025-12-17"}, // Mittelstadt, Dieb
 {"coords": [12.0799, 50.8772], "date": "2025-12-17"}, // Gera, entwendet
 {"coords": [12.1997, 50.6544], "date": "2025-12-17"}, // Greiz, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Kreis, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2025-12-17"}, // Jena, gestohlen
+{"coords": [12.1997, 50.6544], "date": "2025-12-17"}, // Greiz, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2025-12-17"}, // Altenburg, Diebstahl
+{"coords": [6.5906, 51.7317], "date": "2025-12-17"}, // Hamminkeln, entwendet
+{"coords": [8.5833, 53.55], "date": "2025-12-17"}, // Mitte, Diebstahl
+//{"coords": [], "date": "2025-12-17"} // Gaststätte Erwitte, Einbruch
+{"coords": [12.4333, 50.985], "date": "2025-12-17"}, // Altenburg, entwendet
+{"coords": [7.3194, 52.5236], "date": "2025-12-17"}, // Lingen, Einbruch
+{"coords": [12.4333, 50.985], "date": "2025-12-17"}, // Gartenlaube Altenburg, Einbruch

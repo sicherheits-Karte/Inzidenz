@@ -4619,3 +4619,8 @@
 {"coords": [8.0667, 50.3833], "date": "2025-12-17"}, // Limburg, Diebstahl
 {"coords": [8.3658, 49.6306], "date": "2025-12-17"}, // Alzeyer Fahrradgeschäft Worms, Einbruch
 {"coords": [8.24, 50.0822], "date": "2025-12-17"}, // Wiesbaden, eingebrochen
+//{"coords": [], "date": "2025-12-17"} // Nord, eingebrochen
+{"coords": [10.0936, 48.8372], "date": "2025-12-17"}, // Einbrüche Aalen, Einbruch
+//{"coords": [], "date": "2025-12-17"} // Lichtzeichenanlage Lambrecht, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2025-12-17"}, // Zeugensuche Köln, Raub
+{"coords": [8.5786, 49.5383], "date": "2025-12-17"}, // Viernheim, entwendet

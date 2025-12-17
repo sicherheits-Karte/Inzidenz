@@ -4529,3 +4529,7 @@
 {"coords": [7.2162, 51.4818], "date": "2025-12-17"}, // Bochum, Diebstahl
 {"coords": [8.5167, 49.7], "date": "2025-12-17"}, // Rohrheim, Einbrüche
 {"coords": [8.7236, 48.5522], "date": "2025-12-17"}, // Nagold, Dieb
+{"coords": [8.6822, 50.1106], "date": "2025-12-17"}, // Diebesgut- Festnahme Frankfurt, Dieb
+//{"coords": [], "date": "2025-12-17"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.6822, 50.1106], "date": "2025-12-17"}, // A- Preungesheim Frankfurt, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2025-12-17"}, // Fotofahndung Essen, stahl

@@ -4762,3 +4762,6 @@
 {"coords": [9.0492, 52.2603], "date": "2025-12-18"}, // Aufbruch Bückeburg, aufbruch
 //{"coords": [], "date": "2025-12-18"} // Möggingen, Einbruch
 {"coords": [8.8403, 47.7592], "date": "2025-12-18"}, // Singen, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2025-12-18"}, // Gevelsberg, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-12-18"}, // Tageswohnungseinbruch Fulda, Einbruch
+{"coords": [7.0333, 50.8167], "date": "2025-12-18"}, // Autodieb Niederkassel, Dieb

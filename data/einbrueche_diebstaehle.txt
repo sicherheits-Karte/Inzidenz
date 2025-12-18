@@ -4643,3 +4643,4 @@
 {"coords": [7.1, 51.5167], "date": "2025-12-18"}, // Gelsenkirchen, Raub
 {"coords": [6.8889, 49.9858], "date": "2025-12-18"}, // Taschendiebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2025-12-18"} // Autoantenne Kinderbeuern, Diebstahl
+{"coords": [6.7583, 51.6417], "date": "2025-12-18"}, // Hinweise Hünxe, Einbrüche

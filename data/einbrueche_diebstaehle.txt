@@ -4717,3 +4717,11 @@
 //{"coords": [], "date": "2025-12-18"} // POL-PDNR, Diebstahl
 {"coords": [9.9916, 48.3984], "date": "2025-12-18"}, // Ulm, gestohlen
 {"coords": [9.1919, 48.8975], "date": "2025-12-18"}, // Ludwigsburg, Einbrecher
+//{"coords": [], "date": "2025-12-18"} // Kellen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-18"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-18"}, // Gaststätte Ludwigsburg, Einbruch
+{"coords": [13.0819, 54.3092], "date": "2025-12-18"}, // Täterinnen Stralsund, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2025-12-18"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2025-12-18"}, // Zeugen Wuppertal, Raub
+{"coords": [8.9092, 52.4992], "date": "2025-12-18"}, // Zeugenaufruf Uchte, Diebstahl
+//{"coords": [], "date": "2025-12-18"} // der Rosenkopfer Straße zu schaffen. Gegen Mitternacht schreckte der Besitzer eines Cadillacs durch das Auslösen der Alarmanlage auf. Vor seinem Anwesen konnte er eine dunkle Gestalt beobachten, die sofort die Flucht ergriff und auf der Beifahrerseite in einen bereitstehenden weißen Pkw stieg. Die Täter flüchteten daraufhin in Richtung der, Diebstahl

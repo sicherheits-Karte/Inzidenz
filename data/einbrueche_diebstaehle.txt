@@ -4766,3 +4766,13 @@
 {"coords": [9.6775, 50.5528], "date": "2025-12-18"}, // Tageswohnungseinbruch Fulda, Einbruch
 {"coords": [7.0333, 50.8167], "date": "2025-12-18"}, // Autodieb Niederkassel, Dieb
 {"coords": [7.2333, 52.3167], "date": "2025-12-18"}, // Diebstahl Schüttorf, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-18"}, // Unfälle Aalen, Einbruch
+{"coords": [10.5833, 51.15], "date": "2025-12-18"}, // Kriminellen Großengottern, Einbrecher
+//{"coords": [], "date": "2025-12-18"} // Altstadt, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2025-12-18"}, // Dame Frankfurt, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2025-12-18"}, // Zeugenaufruf Frankfurt, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-18"}, // Jugendlichen Bochum, Einbruch
+{"coords": [7.0, 52.05], "date": "2025-12-18"}, // Zeugenhinweise Legden, Diebstahl
+{"coords": [6.6594, 50.2228], "date": "2025-12-18"}, // Stadt Gerolstein Gerolstein, Diebstahl
+{"coords": [7.0667, 52.1], "date": "2025-12-18"}, // Zeugenhinweise Heek, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2025-12-18"}, // Wohnung Vogelsbergkreis, Einbruch

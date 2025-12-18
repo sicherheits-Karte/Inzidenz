@@ -4817,3 +4817,4 @@
 {"coords": [10.8708, 51.3697], "date": "2025-12-18"}, // Sondershausen, Diebstahl
 //{"coords": [], "date": "2025-12-18"} // Zeugen Bad Frankenhausen, Einbruch
 //{"coords": [], "date": "2025-12-18"} // Regionalbahn erfasst und schwer verletzt, Raub
+{"coords": [8.5833, 53.55], "date": "2025-12-18"}, // Mitte, Dieb

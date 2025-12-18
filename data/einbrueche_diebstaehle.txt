@@ -4644,3 +4644,7 @@
 {"coords": [6.8889, 49.9858], "date": "2025-12-18"}, // Taschendiebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2025-12-18"} // Autoantenne Kinderbeuern, Diebstahl
 {"coords": [6.7583, 51.6417], "date": "2025-12-18"}, // Hinweise Hünxe, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-12-18"}, // Einbruch Aalen, Einbruch
+{"coords": [8.6833, 52.15], "date": "2025-12-18"}, // Herford, Diebstahl
+{"coords": [7.95, 51.4833], "date": "2025-12-18"}, // Neheim Arnsberg, Einbruch
+{"coords": [8.8494, 51.4611], "date": "2025-12-18"}, // Westheim Marsberg, Einbruch

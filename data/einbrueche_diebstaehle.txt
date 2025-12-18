@@ -4691,3 +4691,14 @@
 {"coords": [8.4725, 49.5981], "date": "2025-12-18"}, // Einbrechern Lampertheim, Einbruch
 {"coords": [9.6333, 51.65], "date": "2025-12-18"}, // Fahrraddiebstahl Uslar, Diebstahl
 //{"coords": [], "date": "2025-12-18"} // Büttelborn, Einbruch
+//{"coords": [], "date": "2025-12-18"} // Motorräder Lautenbach, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-12-18"}, // Ulm, Einbrecher
+{"coords": [8.4111, 49.9917], "date": "2025-12-18"}, // Polizei Rüsselsheim, Dieb
+{"coords": [9.9916, 48.3984], "date": "2025-12-18"}, // Ulm, Dieb
+{"coords": [7.9447, 48.4731], "date": "2025-12-18"}, // Offenburg, Einbruch
+{"coords": [7.6333, 51.6667], "date": "2025-12-18"}, // Werne, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2025-12-18"}, // Zeugen Dortmund, Einbruch
+{"coords": [8.3667, 49.2167], "date": "2025-12-18"}, // Germersheim, Diebstahl
+{"coords": [8.7667, 51.7167], "date": "2025-12-18"}, // Zeugen Paderborn, Einbruch
+{"coords": [8.6, 51.6833], "date": "2025-12-18"}, // Zeugen Salzkotten, Einbruch
+//{"coords": [], "date": "2025-12-18"} // Zeugen Waldachtal, Dieb

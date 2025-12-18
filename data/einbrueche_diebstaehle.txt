@@ -4811,3 +4811,9 @@
 {"coords": [10.5464, 52.4886], "date": "2025-12-18"}, // Gifhorn, Einbrüche
 {"coords": [6.1353, 51.7875], "date": "2025-12-18"}, // Kreis Kleve, Einbruch
 //{"coords": [], "date": "2025-12-18"} // der Bevölkerung mehr, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-18"}, // Haft Reutlingen, Einbrecher
+{"coords": [9.9937, 53.5511], "date": "2025-12-18"}, // Georg Hamburg, Raub
+//{"coords": [], "date": "2025-12-18"} // Einsatz, Einbrecher
+{"coords": [10.8708, 51.3697], "date": "2025-12-18"}, // Sondershausen, Diebstahl
+//{"coords": [], "date": "2025-12-18"} // Zeugen Bad Frankenhausen, Einbruch
+//{"coords": [], "date": "2025-12-18"} // Regionalbahn erfasst und schwer verletzt, Raub

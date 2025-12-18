@@ -4736,3 +4736,14 @@
 {"coords": [6.0167, 51.7917], "date": "2025-12-18"}, // Zeugen Kranenburg, entwendet
 {"coords": [6.3319, 51.5194], "date": "2025-12-18"}, // Geldern, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2025-12-18"}, // Münster, Einbrüche
+//{"coords": [], "date": "2025-12-18"} // Kreis, Einbruch
+{"coords": [7.2056, 50.8014], "date": "2025-12-18"}, // Zeugenhinweise Siegburg, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2025-12-18"}, // Untersuchungshaft Duisburg, Dieb
+{"coords": [10.7865, 52.4226], "date": "2025-12-18"}, // Einfamilienhaus Wolfsburg, Einbruch
+{"coords": [8.0167, 50.8833], "date": "2025-12-18"}, // Siegen, aufbrüche
+{"coords": [7.2931, 51.2861], "date": "2025-12-18"}, // Schwelm, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2025-12-18"}, // Walschleben Landkreis Sömmerda, entwendet
+{"coords": [8.0, 50.4], "date": "2025-12-18"}, // Holzheim, Diebstahl
+//{"coords": [], "date": "2025-12-18"} // Donaueschingen, aufbruch
+{"coords": [8.5333, 48.0667], "date": "2025-12-18"}, // Schwenningen, Einbruch
+{"coords": [8.9167, 52.3], "date": "2025-12-18"}, // Freizeit Ladendieb Minden, Diebstahl

@@ -4664,3 +4664,4 @@
 {"coords": [9.4764, 53.6008], "date": "2025-12-18"}, // Stader Friedhof Stade, Dieb
 {"coords": [6.9603, 50.9375], "date": "2025-12-18"}, // Fotos Köln, entwendet
 {"coords": [8.1075, 53.5219], "date": "2025-12-18"}, // Bekleidungsgeschäft Wilhelmshaven, Diebstahl
+{"coords": [7.7, 51.375], "date": "2025-12-18"}, // Iserlohn, Diebstahl

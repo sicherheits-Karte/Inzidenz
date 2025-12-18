@@ -4803,3 +4803,11 @@
 //{"coords": [], "date": "2025-12-18"} // Dam, gestohlen
 {"coords": [11.0299, 50.9848], "date": "2025-12-18"}, // Erfurt Erfurt, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2025-12-18"}, // Vereinsanlage Oldenburg, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-18"}, // Wiesbaden, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-18"}, // Hofheim, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-12-18"}, // Limburg, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2025-12-18"}, // Einsatz Düsseldorf, Einbrecher
+{"coords": [9.5, 51.3167], "date": "2025-12-18"}, // Zeugen Kassel, Einbrüche
+{"coords": [10.5464, 52.4886], "date": "2025-12-18"}, // Gifhorn, Einbrüche
+{"coords": [6.1353, 51.7875], "date": "2025-12-18"}, // Kreis Kleve, Einbruch
+//{"coords": [], "date": "2025-12-18"} // der Bevölkerung mehr, Einbruch

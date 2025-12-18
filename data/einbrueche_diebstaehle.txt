@@ -4790,3 +4790,12 @@
 {"coords": [8.4353, 49.4811], "date": "2025-12-18"}, // Auto Ludwigshafen, Diebstahl
 {"coords": [7.7156, 52.2778], "date": "2025-12-18"}, // Wohnhaus Ibbenbüren, Einbruch
 {"coords": [10.4, 53.25], "date": "2025-12-18"}, // Bundesstraße Lüneburg, Raub
+{"coords": [10.0936, 48.8372], "date": "2025-12-18"}, // Trickdiebstahl Aalen, Diebstahl
+{"coords": [6.85, 49.3], "date": "2025-12-18"}, // Polizeibeamter Bad Schwalbach, Einbrecher
+{"coords": [7.4836, 53.4711], "date": "2025-12-18"}, // Auffahrunfall Landkreis Aurich, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2025-12-18"}, // Giessen, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2025-12-18"}, // Giessen, Dieb
+{"coords": [10.5369, 52.1622], "date": "2025-12-18"}, // Wolfenbüttel, entwendet
+{"coords": [8.8744, 50.3547], "date": "2025-12-18"}, // Reichelsheim, gestohlen
+//{"coords": [], "date": "2025-12-18"} // Kreis, geklaut
+{"coords": [10.5369, 52.1622], "date": "2025-12-18"}, // Wolfenbüttel, Einbruch

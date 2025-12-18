@@ -4753,3 +4753,12 @@
 {"coords": [7.2061, 53.3669], "date": "2025-12-18"}, // Emden, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2025-12-18"}, // Elsfleth Delmenhorst, Diebstahl
 {"coords": [9.0817, 52.1906], "date": "2025-12-18"}, // Imbisswagen Rinteln, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-12-18"}, // Zeugen Münster, Einbruch
+{"coords": [6.4833, 50.8], "date": "2025-12-18"}, // Düren, eingebrochen
+{"coords": [6.4833, 50.8], "date": "2025-12-18"}, // Zeugen Kreis Düren, Diebstahl
+{"coords": [7.5336, 52.1728], "date": "2025-12-18"}, // Pkw Emsdetten, Diebstahl
+{"coords": [9.2167, 48.7333], "date": "2025-12-18"}, // Sillenbuch, eingebrochen
+{"coords": [6.7623, 51.4344], "date": "2025-12-18"}, // Zeugensuche Duisburg, Einbruch
+{"coords": [9.0492, 52.2603], "date": "2025-12-18"}, // Aufbruch Bückeburg, aufbruch
+//{"coords": [], "date": "2025-12-18"} // Möggingen, Einbruch
+{"coords": [8.8403, 47.7592], "date": "2025-12-18"}, // Singen, Einbruch

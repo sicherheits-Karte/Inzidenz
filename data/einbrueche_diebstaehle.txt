@@ -4702,3 +4702,11 @@
 {"coords": [8.7667, 51.7167], "date": "2025-12-18"}, // Zeugen Paderborn, Einbruch
 {"coords": [8.6, 51.6833], "date": "2025-12-18"}, // Zeugen Salzkotten, Einbruch
 //{"coords": [], "date": "2025-12-18"} // Zeugen Waldachtal, Dieb
+{"coords": [9.1919, 48.8975], "date": "2025-12-18"}, // Goethestraße Ludwigsburg, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-12-18"}, // Beute Bielefeld, Diebstahl
+{"coords": [9.9158, 51.5413], "date": "2025-12-18"}, // Untersuchungshaft Göttingen, Raub
+{"coords": [12.0333, 53.4667], "date": "2025-12-18"}, // Lübz, Diebstahl
+{"coords": [8.4111, 49.9917], "date": "2025-12-18"}, // Jährigen Rüsselsheim, Diebstahl
+{"coords": [6.5617, 51.3317], "date": "2025-12-18"}, // Krefeld, Raub
+{"coords": [6.2833, 50.8167], "date": "2025-12-18"}, // Zeugen Eschweiler, aufbruch
+//{"coords": [], "date": "2025-12-18"} // POL-SI, Einbrüche

@@ -4818,3 +4818,6 @@
 //{"coords": [], "date": "2025-12-18"} // Zeugen Bad Frankenhausen, Einbruch
 //{"coords": [], "date": "2025-12-18"} // Regionalbahn erfasst und schwer verletzt, Raub
 {"coords": [8.5833, 53.55], "date": "2025-12-18"}, // Mitte, Dieb
+{"coords": [7.1675, 51.9436], "date": "2025-12-18"}, // Coesfeld, Dieb
+{"coords": [8.3667, 49.9833], "date": "2025-12-18"}, // Gustavsburg, Räuber
+{"coords": [8.24, 50.0822], "date": "2025-12-18"}, // Südhessen Wiesbaden, Räuber

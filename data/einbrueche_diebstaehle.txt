@@ -4825,3 +4825,4 @@
 {"coords": [10.5267, 52.2689], "date": "2025-12-18"}, // Kanzlerfeld Braunschweig, Einbrüche
 {"coords": [7.9733, 51.1681], "date": "2025-12-18"}, // Finnentrop Finnentrop, Raub
 //{"coords": [], "date": "2025-12-18"} // POL-PDNR, Einbruch
+//{"coords": [], "date": "2025-12-18"} // Bilzingen Wincheringen, Einbrüche

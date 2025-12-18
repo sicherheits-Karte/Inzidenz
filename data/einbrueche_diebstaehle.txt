@@ -4799,3 +4799,7 @@
 {"coords": [8.8744, 50.3547], "date": "2025-12-18"}, // Reichelsheim, gestohlen
 //{"coords": [], "date": "2025-12-18"} // Kreis, geklaut
 {"coords": [10.5369, 52.1622], "date": "2025-12-18"}, // Wolfenbüttel, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-12-18"}, // Kaiserslautern, Dieb
+//{"coords": [], "date": "2025-12-18"} // Dam, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2025-12-18"}, // Erfurt Erfurt, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-18"}, // Vereinsanlage Oldenburg, Einbruch

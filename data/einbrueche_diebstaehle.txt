@@ -4710,3 +4710,5 @@
 {"coords": [6.5617, 51.3317], "date": "2025-12-18"}, // Krefeld, Raub
 {"coords": [6.2833, 50.8167], "date": "2025-12-18"}, // Zeugen Eschweiler, aufbruch
 //{"coords": [], "date": "2025-12-18"} // POL-SI, Einbrüche
+{"coords": [7.9447, 48.4731], "date": "2025-12-18"}, // Offenburg, Einbrüche
+{"coords": [8.4043, 49.014], "date": "2025-12-18"}, // Zeugen Karlsruhe, Einbruch

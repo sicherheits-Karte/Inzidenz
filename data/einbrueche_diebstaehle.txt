@@ -4639,3 +4639,4 @@
 //{"coords": [], "date": "2025-12-17"} // Dieseldiebstahl Gewerbepark Höhfröschen, Diebstahl
 {"coords": [12.7628, 53.7392], "date": "2025-12-18"}, // Malchin, Dieb
 {"coords": [6.5167, 50.1833], "date": "2025-12-18"}, // Diebstahl Ortstafel Wallersheim Wallersheim, Diebstahl
+{"coords": [6.5333, 50.2833], "date": "2025-12-18"}, // Dieseldiebstahl Olzheim, Diebstahl

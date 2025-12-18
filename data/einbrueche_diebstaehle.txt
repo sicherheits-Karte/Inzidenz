@@ -4747,3 +4747,9 @@
 //{"coords": [], "date": "2025-12-18"} // Donaueschingen, aufbruch
 {"coords": [8.5333, 48.0667], "date": "2025-12-18"}, // Schwenningen, Einbruch
 {"coords": [8.9167, 52.3], "date": "2025-12-18"}, // Freizeit Ladendieb Minden, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-12-18"}, // Zweifamilienhaus Karlsruhe, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2025-12-18"}, // Mitarbeiter Bremerhaven, Diebstähle
+//{"coords": [], "date": "2025-12-18"} // Kein Ort gefunden, Dieb
+{"coords": [7.2061, 53.3669], "date": "2025-12-18"}, // Emden, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2025-12-18"}, // Elsfleth Delmenhorst, Diebstahl
+{"coords": [9.0817, 52.1906], "date": "2025-12-18"}, // Imbisswagen Rinteln, Einbruch

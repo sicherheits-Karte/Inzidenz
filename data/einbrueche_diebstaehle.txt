@@ -4725,3 +4725,14 @@
 {"coords": [7.1508, 51.2562], "date": "2025-12-18"}, // Zeugen Wuppertal, Raub
 {"coords": [8.9092, 52.4992], "date": "2025-12-18"}, // Zeugenaufruf Uchte, Diebstahl
 //{"coords": [], "date": "2025-12-18"} // der Rosenkopfer Straße zu schaffen. Gegen Mitternacht schreckte der Besitzer eines Cadillacs durch das Auslösen der Alarmanlage auf. Vor seinem Anwesen konnte er eine dunkle Gestalt beobachten, die sofort die Flucht ergriff und auf der Beifahrerseite in einen bereitstehenden weißen Pkw stieg. Die Täter flüchteten daraufhin in Richtung der, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-12-18"}, // Ulm, Diebstähle
+{"coords": [11.3406, 50.7206], "date": "2025-12-18"}, // Rudolstadt, Einbruch
+{"coords": [11.9, 49.95], "date": "2025-12-18"}, // Brand Reutlingen, Einbrüche
+//{"coords": [], "date": "2025-12-18"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.4108, 53.1111], "date": "2025-12-18"}, // Rotenburg, entwendet
+{"coords": [7.45, 51.4], "date": "2025-12-18"}, // Herdecke, Einbruch
+{"coords": [6.3333, 51.6667], "date": "2025-12-18"}, // Wetten, Diebstahl
+{"coords": [6.1667, 51.6833], "date": "2025-12-18"}, // Werkzeuge Goch, entwendet
+{"coords": [6.0167, 51.7917], "date": "2025-12-18"}, // Zeugen Kranenburg, entwendet
+{"coords": [6.3319, 51.5194], "date": "2025-12-18"}, // Geldern, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-12-18"}, // Münster, Einbrüche

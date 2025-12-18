@@ -4648,3 +4648,8 @@
 {"coords": [8.6833, 52.15], "date": "2025-12-18"}, // Herford, Diebstahl
 {"coords": [7.95, 51.4833], "date": "2025-12-18"}, // Neheim Arnsberg, Einbruch
 {"coords": [8.8494, 51.4611], "date": "2025-12-18"}, // Westheim Marsberg, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-18"}, // Einfamilienhaus Lingen, Einbruch
+//{"coords": [], "date": "2025-12-18"} // Wohnhaus Kluse, Einbruch
+{"coords": [7.75, 51.3833], "date": "2025-12-18"}, // Hemer, Einbruch
+{"coords": [8.4167, 51.55], "date": "2025-12-18"}, // Rüthen, Einbruch
+{"coords": [9.2189, 48.6619], "date": "2025-12-18"}, // Filderstadt mehr, Raub

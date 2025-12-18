@@ -4765,3 +4765,4 @@
 {"coords": [7.3392, 51.3197], "date": "2025-12-18"}, // Gevelsberg, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2025-12-18"}, // Tageswohnungseinbruch Fulda, Einbruch
 {"coords": [7.0333, 50.8167], "date": "2025-12-18"}, // Autodieb Niederkassel, Dieb
+{"coords": [7.2333, 52.3167], "date": "2025-12-18"}, // Diebstahl Schüttorf, Diebstahl

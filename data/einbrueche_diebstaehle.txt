@@ -4665,3 +4665,21 @@
 {"coords": [6.9603, 50.9375], "date": "2025-12-18"}, // Fotos Köln, entwendet
 {"coords": [8.1075, 53.5219], "date": "2025-12-18"}, // Bekleidungsgeschäft Wilhelmshaven, Diebstahl
 {"coords": [7.7, 51.375], "date": "2025-12-18"}, // Iserlohn, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2025-12-18"}, // Präventionstipps Heilbronn, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2025-12-18"}, // Untersuchungshaft Rheine, Raub
+{"coords": [9.2108, 49.1425], "date": "2025-12-18"}, // Einbrüchen Heilbronn, Einbruch
+{"coords": [7.3333, 49.3167], "date": "2025-12-18"}, // Homburg Homburg, Diebstahl
+{"coords": [11.9, 49.95], "date": "2025-12-18"}, // Brand Hohenlohekreis, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2025-12-18"}, // Zusammenhang Darmstadt, Einbrüche
+//{"coords": [], "date": "2025-12-18"} // Lerchenweg, Diebstähle
+//{"coords": [], "date": "2025-12-18"} // der Zeit von, Diebstahl
+{"coords": [7.0667, 52.1], "date": "2025-12-18"}, // Heek, Einbrecher
+//{"coords": [], "date": "2025-12-18"} // Bergisch Gladbach, Diebstahl
+{"coords": [7.0083, 52.075], "date": "2025-12-18"}, // Wohnhaus Ahaus, Einbruch
+{"coords": [6.7, 51.8333], "date": "2025-12-18"}, // Rhede, eingebrochen
+{"coords": [7.0, 51.8333], "date": "2025-12-18"}, // Reken, eingebrochen
+{"coords": [8.2869, 52.7303], "date": "2025-12-18"}, // Vechta, entwendet
+{"coords": [8.2869, 52.7303], "date": "2025-12-18"}, // Vechta, Raub
+{"coords": [8.2711, 50.0], "date": "2025-12-18"}, // Mainz, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2025-12-18"}, // Lippe, Raub
+{"coords": [8.9519, 49.9667], "date": "2025-12-18"}, // Babenhausen, Einbruch

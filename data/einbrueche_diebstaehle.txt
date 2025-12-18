@@ -4683,3 +4683,11 @@
 {"coords": [8.2711, 50.0], "date": "2025-12-18"}, // Mainz, Diebstahl
 {"coords": [8.8667, 51.9333], "date": "2025-12-18"}, // Lippe, Raub
 {"coords": [8.9519, 49.9667], "date": "2025-12-18"}, // Babenhausen, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2025-12-18"}, // Lippe, Einbruch
+//{"coords": [], "date": "2025-12-18"} // Krempdorf, Einbrüche
+{"coords": [10.0528, 51.1889], "date": "2025-12-18"}, // Geldbörsendiebstähle Eschwege, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2025-12-18"}, // Einbeck, Diebstahl
+{"coords": [13.0819, 54.3092], "date": "2025-12-18"}, // Stralsund, Diebstahl
+{"coords": [8.4725, 49.5981], "date": "2025-12-18"}, // Einbrechern Lampertheim, Einbruch
+{"coords": [9.6333, 51.65], "date": "2025-12-18"}, // Fahrraddiebstahl Uslar, Diebstahl
+//{"coords": [], "date": "2025-12-18"} // Büttelborn, Einbruch

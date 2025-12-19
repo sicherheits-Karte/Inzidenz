@@ -4935,3 +4935,14 @@
 {"coords": [10.8978, 48.3705], "date": "2025-12-19"}, // Trickdiebstahl Augsburg, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2025-12-19"}, // Ludwigshafen, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2025-12-19"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-12-19"}, // Einsatz Freiburg, Raub
+{"coords": [6.85, 49.3], "date": "2025-12-19"}, // Bad Schwalbach, Einbrecher
+{"coords": [10.1228, 54.3233], "date": "2025-12-19"}, // Untersuchungshaft Kiel, Diebstahl
+{"coords": [8.6267, 48.1678], "date": "2025-12-19"}, // Rottweil, Raub
+{"coords": [8.4661, 49.4878], "date": "2025-12-19"}, // Zeugenaufruf Mannheim, eingebrochen
+{"coords": [7.7689, 49.4447], "date": "2025-12-19"}, // Kaiserslautern, Dieb
+{"coords": [8.6833, 50.5833], "date": "2025-12-19"}, // Ampel Giessen, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-12-19"}, // Apotheke Hersfeld Rotenburg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2025-12-19"}, // Schaufenster Hofheim, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2025-12-19"}, // Bocholt, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-12-19"}, // Homberg, Einbrüche

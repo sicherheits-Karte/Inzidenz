@@ -4860,3 +4860,11 @@
 {"coords": [8.6992, 51.5208], "date": "2025-12-19"}, // Zeugen Bad Wünnenberg, Einbruch
 {"coords": [8.7667, 51.7167], "date": "2025-12-19"}, // Zeugen Paderborn, Einbruch
 {"coords": [8.8494, 51.4611], "date": "2025-12-19"}, // Marsberg Marsberg, Einbruch
+{"coords": [7.6158, 50.8767], "date": "2025-12-19"}, // Dächer Waldbröl, Einbrecher
+{"coords": [8.8678, 49.9228], "date": "2025-12-19"}, // Münster, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-12-19"}, // Ulm, Diebstahl
+{"coords": [6.1353, 51.7875], "date": "2025-12-19"}, // Kleve, entwendet
+{"coords": [9.9916, 48.3984], "date": "2025-12-19"}, // Ulm, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Materborn, entwendet
+//{"coords": [], "date": "2025-12-19"} // Stenden, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Haldern, Einbruch

@@ -4950,3 +4950,9 @@
 //{"coords": [], "date": "2025-12-19"} // Kein Ort gefunden, entwendet
 {"coords": [8.0667, 50.3833], "date": "2025-12-19"}, // Weihnachtsmarkt Limburg, Einbruch
 {"coords": [8.35, 49.5333], "date": "2025-12-19"}, // Zwei Wohnungseinbrüche Frankenthal, Einbruch
+//{"coords": [], "date": "2025-12-19"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2025-12-19"}, // Ludwigsburg, Dieb
+{"coords": [10.7753, 49.7544], "date": "2025-12-19"}, // Discounter Mühlhausen, Raub
+//{"coords": [], "date": "2025-12-19"} // Tönisvorst, gestohlen
+{"coords": [6.3917, 51.2556], "date": "2025-12-19"}, // Parfümerie Viersen, Diebstahl
+{"coords": [6.45, 51.3167], "date": "2025-12-19"}, // Tönis, Einbruch

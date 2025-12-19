@@ -4848,3 +4848,5 @@
 {"coords": [7.2, 51.6167], "date": "2025-12-19"}, // Recklinghausen, Raub
 {"coords": [12.0799, 50.8772], "date": "2025-12-19"}, // Gera, Dieb
 {"coords": [11.3239, 50.9795], "date": "2025-12-19"}, // Firmengelände Weimar, Diebstahl
+{"coords": [8.45, 49.95], "date": "2025-12-19"}, // Zeugen Nauheim, Einbruch
+{"coords": [13.2611, 53.5569], "date": "2025-12-19"}, // Neubrandenburg, gestohlen

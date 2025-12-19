@@ -4913,3 +4913,9 @@
 //{"coords": [], "date": "2025-12-19"} // Kreis, eingebrochen
 //{"coords": [], "date": "2025-12-19"} // Wohnhaus Ötigheim, Einbruch
 //{"coords": [], "date": "2025-12-19"} // Kreis, Raub
+{"coords": [7.3333, 51.4333], "date": "2025-12-19"}, // Witten, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2025-12-19"}, // Lippe, gestohlen
+{"coords": [8.8667, 51.9333], "date": "2025-12-19"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2025-12-19"}, // Lippe, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2025-12-19"}, // Masche Köln, Diebstahl
+//{"coords": [], "date": "2025-12-19"} // Wilnsdorf, Diebstahl

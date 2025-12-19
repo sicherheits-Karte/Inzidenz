@@ -4885,3 +4885,7 @@
 {"coords": [8.8731, 51.275], "date": "2025-12-19"}, // Korbach, Einbruch
 {"coords": [8.7667, 50.1], "date": "2025-12-19"}, // Kreis Offenbach, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2025-12-19"}, // Vollstreckungsbeamte Heilbronn, Einbruch
+{"coords": [12.5556, 50.6978], "date": "2025-12-19"}, // Schaltkästen Reinsdorf, Dieb
+//{"coords": [], "date": "2025-12-19"} // Zeugenaufruf Gunzenhausen, Einbrüche
+//{"coords": [], "date": "2025-12-19"} // Wasserliesch Wasserliesch, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2025-12-19"}, // Tiefgaragen Trier, Diebstahl

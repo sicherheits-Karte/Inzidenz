@@ -4883,3 +4883,5 @@
 {"coords": [10.3667, 50.35], "date": "2025-12-19"}, // Zimmern, Dieb
 {"coords": [6.8889, 49.9858], "date": "2025-12-19"}, // Firmenhalle Wittlich, Einbruch
 {"coords": [8.8731, 51.275], "date": "2025-12-19"}, // Korbach, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-12-19"}, // Kreis Offenbach, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-12-19"}, // Vollstreckungsbeamte Heilbronn, Einbruch

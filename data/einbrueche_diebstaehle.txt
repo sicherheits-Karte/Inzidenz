@@ -4850,3 +4850,4 @@
 {"coords": [11.3239, 50.9795], "date": "2025-12-19"}, // Firmengelände Weimar, Diebstahl
 {"coords": [8.45, 49.95], "date": "2025-12-19"}, // Zeugen Nauheim, Einbruch
 {"coords": [13.2611, 53.5569], "date": "2025-12-19"}, // Neubrandenburg, gestohlen
+{"coords": [8.4833, 49.9167], "date": "2025-12-19"}, // Gerau, Einbruch

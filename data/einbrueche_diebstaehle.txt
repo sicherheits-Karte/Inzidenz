@@ -4946,3 +4946,7 @@
 {"coords": [8.4414, 50.0919], "date": "2025-12-19"}, // Schaufenster Hofheim, Einbruch
 {"coords": [6.6153, 51.8367], "date": "2025-12-19"}, // Bocholt, Einbruch
 {"coords": [9.0, 50.7333], "date": "2025-12-19"}, // Homberg, Einbrüche
+{"coords": [7.2, 51.6167], "date": "2025-12-19"}, // Hinweise Recklinghausen, Einbrüche
+//{"coords": [], "date": "2025-12-19"} // Kein Ort gefunden, entwendet
+{"coords": [8.0667, 50.3833], "date": "2025-12-19"}, // Weihnachtsmarkt Limburg, Einbruch
+{"coords": [8.35, 49.5333], "date": "2025-12-19"}, // Zwei Wohnungseinbrüche Frankenthal, Einbruch

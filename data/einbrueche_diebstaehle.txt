@@ -4870,3 +4870,11 @@
 //{"coords": [], "date": "2025-12-19"} // Haldern, Einbruch
 {"coords": [11.0911, 49.245], "date": "2025-12-19"}, // Betäubungsmitteln Roth, entwendet
 {"coords": [8.0167, 50.8833], "date": "2025-12-19"}, // Siegen, Einbruch
+{"coords": [7.1, 51.5167], "date": "2025-12-19"}, // Buer Gelsenkirchen, Raub
+//{"coords": [], "date": "2025-12-19"} // Holzwickede, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Handwerkerautos ein, aufbrüche
+{"coords": [7.1667, 50.8167], "date": "2025-12-19"}, // Troisdorf, Einbruch
+{"coords": [9.8833, 53.3333], "date": "2025-12-19"}, // Tageswohnungseinbrüche Buchholz, Einbrüche
+{"coords": [7.5978, 50.3597], "date": "2025-12-19"}, // Pellenz Koblenz, Einbruch
+{"coords": [9.0958, 54.1958], "date": "2025-12-19"}, // Nachmittag Heide, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-12-19"}, // Handwerkerfahrzeug Wilhelmshaven, Diebstahl

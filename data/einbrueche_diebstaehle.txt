@@ -4851,3 +4851,12 @@
 {"coords": [8.45, 49.95], "date": "2025-12-19"}, // Zeugen Nauheim, Einbruch
 {"coords": [13.2611, 53.5569], "date": "2025-12-19"}, // Neubrandenburg, gestohlen
 {"coords": [8.4833, 49.9167], "date": "2025-12-19"}, // Gerau, Einbruch
+{"coords": [8.2711, 50.0], "date": "2025-12-19"}, // Kindertagesstätten Mainz, Einbrüche
+{"coords": [9.0, 47.85], "date": "2025-12-19"}, // Stockach, Einbruch
+//{"coords": [], "date": "2025-12-19"} // ein Bürgerhaus in der Willershäuser Straße drangen ein oder mehrere unbekannte Personen gewaltsam ein. Entwendet wurden anschließend Spirituosen im Wert eines mittleren dreistelligen Eurobetrages. Die Tat ereignete sich in der Zeit zwischen dem, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2025-12-19"}, // Emden, Diebstahl
+{"coords": [8.2833, 51.35], "date": "2025-12-19"}, // Eversberg Meschede, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-19"}, // Ulm, gestohlen
+{"coords": [8.6992, 51.5208], "date": "2025-12-19"}, // Zeugen Bad Wünnenberg, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-12-19"}, // Zeugen Paderborn, Einbruch
+{"coords": [8.8494, 51.4611], "date": "2025-12-19"}, // Marsberg Marsberg, Einbruch

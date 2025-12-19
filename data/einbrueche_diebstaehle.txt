@@ -4910,3 +4910,6 @@
 //{"coords": [], "date": "2025-12-19"} // Kein Ort gefunden, Dieb
 {"coords": [9.0817, 52.1906], "date": "2025-12-19"}, // Rinteln, geklaut
 {"coords": [7.3625, 51.2981], "date": "2025-12-19"}, // Ennepetal, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Kreis, eingebrochen
+//{"coords": [], "date": "2025-12-19"} // Wohnhaus Ötigheim, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Kreis, Raub

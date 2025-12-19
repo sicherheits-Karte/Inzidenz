@@ -4845,3 +4845,6 @@
 //{"coords": [], "date": "2025-12-19"} // Kein Ort gefunden, gestohlen
 {"coords": [10.0936, 48.8372], "date": "2025-12-19"}, // Verkehrsunfälle Aalen, aufbruch
 {"coords": [7.1675, 51.9436], "date": "2025-12-19"}, // Einbruch Coesfeld, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-12-19"}, // Recklinghausen, Raub
+{"coords": [12.0799, 50.8772], "date": "2025-12-19"}, // Gera, Dieb
+{"coords": [11.3239, 50.9795], "date": "2025-12-19"}, // Firmengelände Weimar, Diebstahl

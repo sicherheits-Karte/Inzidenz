@@ -4920,3 +4920,6 @@
 {"coords": [6.9603, 50.9375], "date": "2025-12-19"}, // Masche Köln, Diebstahl
 //{"coords": [], "date": "2025-12-19"} // Wilnsdorf, Diebstahl
 {"coords": [10.6866, 53.8655], "date": "2025-12-19"}, // Anzeigenaufnahme Lübeck, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Ratheim, Diebstahl
+{"coords": [8.875, 53.05], "date": "2025-12-19"}, // Osterholz, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-12-19"}, // Fulda, entwendet

@@ -4919,3 +4919,4 @@
 {"coords": [8.8667, 51.9333], "date": "2025-12-19"}, // Lippe, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2025-12-19"}, // Masche Köln, Diebstahl
 //{"coords": [], "date": "2025-12-19"} // Wilnsdorf, Diebstahl
+{"coords": [10.6866, 53.8655], "date": "2025-12-19"}, // Anzeigenaufnahme Lübeck, Einbruch

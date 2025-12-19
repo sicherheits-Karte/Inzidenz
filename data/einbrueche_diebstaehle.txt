@@ -4868,3 +4868,5 @@
 //{"coords": [], "date": "2025-12-19"} // Materborn, entwendet
 //{"coords": [], "date": "2025-12-19"} // Stenden, Einbruch
 //{"coords": [], "date": "2025-12-19"} // Haldern, Einbruch
+{"coords": [11.0911, 49.245], "date": "2025-12-19"}, // Betäubungsmitteln Roth, entwendet
+{"coords": [8.0167, 50.8833], "date": "2025-12-19"}, // Siegen, Einbruch

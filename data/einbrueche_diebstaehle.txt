@@ -4878,3 +4878,8 @@
 {"coords": [7.5978, 50.3597], "date": "2025-12-19"}, // Pellenz Koblenz, Einbruch
 {"coords": [9.0958, 54.1958], "date": "2025-12-19"}, // Nachmittag Heide, Einbruch
 {"coords": [8.1075, 53.5219], "date": "2025-12-19"}, // Handwerkerfahrzeug Wilhelmshaven, Diebstahl
+//{"coords": [], "date": "2025-12-19"} // Reinheim, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-12-19"}, // Moment Gütersloh, gestohlen
+{"coords": [10.3667, 50.35], "date": "2025-12-19"}, // Zimmern, Dieb
+{"coords": [6.8889, 49.9858], "date": "2025-12-19"}, // Firmenhalle Wittlich, Einbruch
+{"coords": [8.8731, 51.275], "date": "2025-12-19"}, // Korbach, Einbruch

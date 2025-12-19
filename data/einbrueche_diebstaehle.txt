@@ -4899,3 +4899,8 @@
 {"coords": [6.6153, 51.8367], "date": "2025-12-19"}, // Bocholt, entwendet
 {"coords": [11.1167, 51.1667], "date": "2025-12-19"}, // Sömmerda Sömmerda, Diebstahl
 //{"coords": [], "date": "2025-12-19"} // Kreis, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2025-12-19"}, // Reutlingen, Einbrüche
+//{"coords": [], "date": "2025-12-19"} // Landkreis Weyhausen, Einbruch
+{"coords": [7.1, 51.5167], "date": "2025-12-19"}, // Altstadt Gelsenkirchen, Raub
+{"coords": [9.1919, 48.8975], "date": "2025-12-19"}, // Jahnstraße Ludwigsburg, Einbruch
+{"coords": [7.1, 51.5167], "date": "2025-12-19"}, // Gelsenkirchen, Diebstahl

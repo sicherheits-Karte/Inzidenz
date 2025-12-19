@@ -4834,3 +4834,6 @@
 {"coords": [11.0299, 50.9848], "date": "2025-12-19"}, // Erfurt, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2025-12-19"}, // Taschendiebstahl Wittlich, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2025-12-19"}, // Rüttelplatten Wittlich, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-12-19"}, // Einfamilienhaus Lingen, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Vereinsheim Werlte, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Freren, klau

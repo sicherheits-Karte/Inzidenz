@@ -4840,3 +4840,8 @@
 {"coords": [7.1675, 51.9436], "date": "2025-12-19"}, // Versuchter Einbruch Coesfeld, Einbruch
 {"coords": [7.7, 51.375], "date": "2025-12-19"}, // Diebe Iserlohn, Einbrecher
 {"coords": [7.9139, 51.5528], "date": "2025-12-19"}, // Fenster Werl, eingebrochen
+{"coords": [12.4333, 50.985], "date": "2025-12-19"}, // Frühmorgendliche Überraschung Altenburg, Diebstahl
+{"coords": [11.4972, 53.3242], "date": "2025-12-19"}, // Einbruch Ludwigslust, Einbruch
+//{"coords": [], "date": "2025-12-19"} // Kein Ort gefunden, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2025-12-19"}, // Verkehrsunfälle Aalen, aufbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-19"}, // Einbruch Coesfeld, Einbruch

@@ -4837,3 +4837,6 @@
 {"coords": [7.3194, 52.5236], "date": "2025-12-19"}, // Einfamilienhaus Lingen, Einbruch
 //{"coords": [], "date": "2025-12-19"} // Vereinsheim Werlte, Einbruch
 //{"coords": [], "date": "2025-12-19"} // Freren, klau
+{"coords": [7.1675, 51.9436], "date": "2025-12-19"}, // Versuchter Einbruch Coesfeld, Einbruch
+{"coords": [7.7, 51.375], "date": "2025-12-19"}, // Diebe Iserlohn, Einbrecher
+{"coords": [7.9139, 51.5528], "date": "2025-12-19"}, // Fenster Werl, eingebrochen

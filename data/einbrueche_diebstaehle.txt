@@ -4923,3 +4923,15 @@
 //{"coords": [], "date": "2025-12-19"} // Ratheim, Diebstahl
 {"coords": [8.875, 53.05], "date": "2025-12-19"}, // Osterholz, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2025-12-19"}, // Fulda, entwendet
+{"coords": [10.0, 53.7833], "date": "2025-12-19"}, // Ulzburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-19"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.375, 49.3833], "date": "2025-12-19"}, // Einfamilienhaus Schifferstadt, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-12-19"}, // Einfamilienhaus Ludwigshafen, Einbruch
+{"coords": [8.35, 49.5333], "date": "2025-12-19"}, // Mehrfamilienhaus Frankenthal, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-19"}, // Wiesbaden, Einbrüche
+{"coords": [6.4333, 51.2], "date": "2025-12-19"}, // Polizei Mönchengladbach, Raub
+{"coords": [6.6667, 50.7], "date": "2025-12-19"}, // Zülpich Zülpich, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2025-12-19"}, // Pkw Diebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-12-19"}, // Trickdiebstahl Augsburg, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-12-19"}, // Ludwigshafen, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2025-12-19"}, // Fahrraddiebstahl Augsburg, Diebstahl

@@ -4984,3 +4984,4 @@
 //{"coords": [], "date": "2025-12-20"} // Polizei Verden, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2025-12-20"}, // Brände Reutlingen, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2025-12-20"}, // Diepholz, aufbruch
+{"coords": [8.6822, 50.1106], "date": "2025-12-20"}, // Wohnungseinbrechern Frankfurt, Einbrecher

@@ -4995,3 +4995,4 @@
 {"coords": [10.7183, 50.9489], "date": "2025-12-20"}, // Landkreis Gotha, Diebstahl
 //{"coords": [], "date": "2025-12-20"} // POL-PDNR, aufbruch
 {"coords": [11.0299, 50.9848], "date": "2025-12-20"}, // Raubdelikt Erfurt, Raub
+{"coords": [6.7735, 51.2277], "date": "2025-12-21"}, // Düsseldorf, Raub

@@ -4970,3 +4970,5 @@
 {"coords": [6.9667, 52.5], "date": "2025-12-20"}, // Werkstatt Neuenhaus, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-12-20"}, // Einbrüche Aalen, Einbrüche
 {"coords": [7.1856, 51.3994], "date": "2025-12-20"}, // Niederwenigern Hattingen, Einbruch
+{"coords": [7.2431, 51.3464], "date": "2025-12-20"}, // Tat Sprockhövel, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-20"}, // Hofheim, Einbruch

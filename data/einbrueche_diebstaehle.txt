@@ -4992,3 +4992,4 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-20"}, // Hubschrauber Aalen, Raub
 {"coords": [6.25, 51.2167], "date": "2025-12-20"}, // Einsatz Brüggen, Raub
 {"coords": [10.0936, 48.8372], "date": "2025-12-20"}, // Aalen, Raub
+{"coords": [10.7183, 50.9489], "date": "2025-12-20"}, // Landkreis Gotha, Diebstahl

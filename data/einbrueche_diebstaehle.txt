@@ -4963,3 +4963,4 @@
 {"coords": [9.9937, 53.5511], "date": "2025-12-19"}, // Uhlenhorst Hamburg, Raub
 //{"coords": [], "date": "2025-12-20"} // Olsberg, Einbruch
 //{"coords": [], "date": "2025-12-20"} // Einfamilienhaus Gerolsheim, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2025-12-20"}, // Zweibrücken, gestohlen

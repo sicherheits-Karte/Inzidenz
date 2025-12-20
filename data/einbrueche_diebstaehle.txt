@@ -4964,3 +4964,5 @@
 //{"coords": [], "date": "2025-12-20"} // Olsberg, Einbruch
 //{"coords": [], "date": "2025-12-20"} // Einfamilienhaus Gerolsheim, Einbruch
 {"coords": [7.3608, 49.2492], "date": "2025-12-20"}, // Zweibrücken, gestohlen
+//{"coords": [], "date": "2025-12-20"} // Pkw Ford und Pkw Skoda, in welchen jeweils die Handtaschen von außen erkennbar im Fahrzeug gelagert waren. Der oder die Unbekannten schlugen jeweils eine Seitenscheibe ein und entwendeten die, aufbrüche
+{"coords": [7.3608, 49.2492], "date": "2025-12-20"}, // Mehrparteienhaus Zweibrücken, Einbruch

@@ -4961,3 +4961,4 @@
 {"coords": [9.95, 52.15], "date": "2025-12-19"}, // Freden Hildesheim, Einbruch
 {"coords": [11.1917, 53.4289], "date": "2025-12-19"}, // Verletzten Hagenow, Raub
 {"coords": [9.9937, 53.5511], "date": "2025-12-19"}, // Uhlenhorst Hamburg, Raub
+//{"coords": [], "date": "2025-12-20"} // Olsberg, Einbruch

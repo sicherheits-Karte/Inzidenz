@@ -4990,3 +4990,5 @@
 {"coords": [9.95, 52.15], "date": "2025-12-20"}, // Hildesheim, aufbrüche
 {"coords": [7.1861, 49.6583], "date": "2025-12-20"}, // Scooter Birkenfeld, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2025-12-20"}, // Hubschrauber Aalen, Raub
+{"coords": [6.25, 51.2167], "date": "2025-12-20"}, // Einsatz Brüggen, Raub
+{"coords": [10.0936, 48.8372], "date": "2025-12-20"}, // Aalen, Raub

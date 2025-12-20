@@ -4973,3 +4973,4 @@
 {"coords": [7.2431, 51.3464], "date": "2025-12-20"}, // Tat Sprockhövel, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2025-12-20"}, // Hofheim, Einbruch
 {"coords": [8.3667, 51.45], "date": "2025-12-20"}, // Güterzug Warstein, Raub
+{"coords": [7.2162, 51.4818], "date": "2025-12-20"}, // Bochum, Einbruch

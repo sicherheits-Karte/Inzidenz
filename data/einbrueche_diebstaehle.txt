@@ -5059,3 +5059,4 @@
 {"coords": [6.9194, 51.9944], "date": "2025-12-21"}, // Kupfer Stadtlohn, Dieb
 {"coords": [12.1997, 50.6544], "date": "2025-12-21"}, // Greiz, Diebstahl
 {"coords": [6.4667, 51.8333], "date": "2025-12-21"}, // Angelsportvereins Isselburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2025-12-21"}, // Augsburg, Dieb

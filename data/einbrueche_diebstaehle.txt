@@ -4997,3 +4997,6 @@
 {"coords": [11.0299, 50.9848], "date": "2025-12-20"}, // Raubdelikt Erfurt, Raub
 {"coords": [6.7735, 51.2277], "date": "2025-12-21"}, // Düsseldorf, Raub
 //{"coords": [], "date": "2025-12-21"} // Ettenheim, Einbruch
+{"coords": [7.825, 50.4358], "date": "2025-12-21"}, // Montabaur, Einbruch
+//{"coords": [], "date": "2025-12-21"} // Polizeieinsatz Raubach, Einbruch
+//{"coords": [], "date": "2025-12-21"} // Baumbach, Einbrüche

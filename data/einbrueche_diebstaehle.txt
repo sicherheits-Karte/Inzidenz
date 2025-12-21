@@ -5026,3 +5026,5 @@
 //{"coords": [], "date": "2025-12-21"} // Polcher Straße, Diebstahl
 {"coords": [8.6892, 49.3481], "date": "2025-12-21"}, // Leimen, Einbruch
 {"coords": [8.24, 50.0822], "date": "2025-12-21"}, // Wiesbaden, Raub
+//{"coords": [], "date": "2025-12-21"} // stand zudem unter Einfluss berauschender Mittel und war nicht im Besitz einer gültigen Fahrerlaubnis. Für den PKW Renault, gestohlen
+{"coords": [6.7872, 50.6606], "date": "2025-12-21"}, // Euskirchen, gestohlen

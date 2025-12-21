@@ -5038,3 +5038,4 @@
 //{"coords": [], "date": "2025-12-21"} // Kreis, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2025-12-21"}, // Emden, Diebstahl
 {"coords": [8.0472, 52.2799], "date": "2025-12-21"}, // Hinweise Osnabrück, Räuber
+//{"coords": [], "date": "2025-12-21"} // Bad Salzungen, Raub

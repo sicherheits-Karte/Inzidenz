@@ -5002,3 +5002,12 @@
 //{"coords": [], "date": "2025-12-21"} // Baumbach, Einbrüche
 {"coords": [11.3239, 50.9795], "date": "2025-12-21"}, // Kellereinbruch Weimar, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2025-12-21"}, // Firma Weimar, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-21"}, // Bochum, Raub
+{"coords": [7.3392, 51.3197], "date": "2025-12-21"}, // Gevelsberg, Einbruch
+{"coords": [8.0, 51.3333], "date": "2025-12-21"}, // Allendorf Sundern, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2025-12-21"}, // Diebstahl Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2025-12-21"}, // Thermalbad Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2025-12-21"}, // Wohnhaus Lippe, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2025-12-21"}, // Jena, Diebstahl
+{"coords": [8.0722, 49.5608], "date": "2025-12-21"}, // Eisenberg, Diebstahl
+//{"coords": [], "date": "2025-12-21"} // Nordsehl, Einbruch

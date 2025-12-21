@@ -5049,3 +5049,7 @@
 {"coords": [8.6822, 50.1106], "date": "2025-12-21"}, // Baucontainer Frankfurt, Diebstahl
 {"coords": [12.1997, 50.6544], "date": "2025-12-21"}, // Papierfabrik Greiz, Einbruch
 //{"coords": [], "date": "2025-12-21"} // Zeugenaufruf Schwabach, Einbruch
+{"coords": [7.0083, 52.075], "date": "2025-12-21"}, // Elektrogerät Ahaus, eingebrochen
+{"coords": [9.2167, 48.4833], "date": "2025-12-21"}, // Polizeieinsatz Reutlingen, Einbrüche
+{"coords": [7.0083, 52.075], "date": "2025-12-21"}, // Ahaus, eingebrochen
+{"coords": [7.0083, 52.075], "date": "2025-12-21"}, // Zeugenhinweise Ahaus, Einbruch

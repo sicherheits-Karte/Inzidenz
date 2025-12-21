@@ -5022,3 +5022,5 @@
 //{"coords": [], "date": "2025-12-21"} // Wohnhaus Bad Frankenhausen, Einbruch
 {"coords": [7.6667, 50.55], "date": "2025-12-21"}, // Wohnhaus Dierdorf, Einbruch
 {"coords": [8.0169, 50.3714], "date": "2025-12-21"}, // Diez Diez, Einbruch
+//{"coords": [], "date": "2025-12-21"} // Kaufland, Diebstahl
+//{"coords": [], "date": "2025-12-21"} // Polcher Straße, Diebstahl

@@ -5041,3 +5041,4 @@
 //{"coords": [], "date": "2025-12-21"} // Bad Salzungen, Raub
 //{"coords": [], "date": "2025-12-21"} // Kein Ort gefunden, Raub
 {"coords": [9.9333, 52.9667], "date": "2025-12-21"}, // Heidekreis, Einbruch
+//{"coords": [], "date": "2025-12-21"} // Trimbs, Einbruch

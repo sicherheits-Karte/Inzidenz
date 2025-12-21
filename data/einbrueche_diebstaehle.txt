@@ -5011,3 +5011,8 @@
 {"coords": [11.5862, 50.9271], "date": "2025-12-21"}, // Jena, Diebstahl
 {"coords": [8.0722, 49.5608], "date": "2025-12-21"}, // Eisenberg, Diebstahl
 //{"coords": [], "date": "2025-12-21"} // Nordsehl, Einbruch
+//{"coords": [], "date": "2025-12-21"} // Gaststätte Stausee Kelbra, Einbruch
+//{"coords": [], "date": "2025-12-21"} // Limburgstraße, Einbruch
+{"coords": [8.3667, 49.2167], "date": "2025-12-21"}, // Wohnungseinbruch Germersheim, Einbruch
+{"coords": [8.35, 49.1], "date": "2025-12-21"}, // Fahrzeugen Leimersheim, Diebstähle
+{"coords": [11.5164, 51.0264], "date": "2025-12-21"}, // Apolda, Diebstahl

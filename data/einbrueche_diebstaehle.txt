@@ -5016,3 +5016,9 @@
 {"coords": [8.3667, 49.2167], "date": "2025-12-21"}, // Wohnungseinbruch Germersheim, Einbruch
 {"coords": [8.35, 49.1], "date": "2025-12-21"}, // Fahrzeugen Leimersheim, Diebstähle
 {"coords": [11.5164, 51.0264], "date": "2025-12-21"}, // Apolda, Diebstahl
+//{"coords": [], "date": "2025-12-21"} // Neustraße, Diebstahl
+{"coords": [11.1167, 51.1667], "date": "2025-12-21"}, // Diebstahl Sömmerda, Diebstahl
+{"coords": [11.1167, 51.1667], "date": "2025-12-21"}, // Baumarkt Sömmerda, Diebstahl
+//{"coords": [], "date": "2025-12-21"} // Wohnhaus Bad Frankenhausen, Einbruch
+{"coords": [7.6667, 50.55], "date": "2025-12-21"}, // Wohnhaus Dierdorf, Einbruch
+{"coords": [8.0169, 50.3714], "date": "2025-12-21"}, // Diez Diez, Einbruch

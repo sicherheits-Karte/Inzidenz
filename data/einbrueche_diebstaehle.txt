@@ -5053,3 +5053,5 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-21"}, // Polizeieinsatz Reutlingen, Einbrüche
 {"coords": [7.0083, 52.075], "date": "2025-12-21"}, // Ahaus, eingebrochen
 {"coords": [7.0083, 52.075], "date": "2025-12-21"}, // Zeugenhinweise Ahaus, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2025-12-21"}, // Gronau, eingebrochen
+{"coords": [7.0042, 51.9542], "date": "2025-12-21"}, // Gescher, Einbruch

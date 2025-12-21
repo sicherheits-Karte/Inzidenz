@@ -5071,3 +5071,4 @@
 {"coords": [11.8203, 50.4056], "date": "2025-12-21"}, // Hirschberg Hirschberg, Einbruch
 //{"coords": [], "date": "2025-12-21"} // Willroth, entwendet
 {"coords": [10.0936, 48.8372], "date": "2025-12-21"}, // Einbrechern Aalen, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-21"}, // Wohnmobilen Freiburg, Diebstahl

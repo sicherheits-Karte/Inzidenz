@@ -5000,3 +5000,5 @@
 {"coords": [7.825, 50.4358], "date": "2025-12-21"}, // Montabaur, Einbruch
 //{"coords": [], "date": "2025-12-21"} // Polizeieinsatz Raubach, Einbruch
 //{"coords": [], "date": "2025-12-21"} // Baumbach, Einbrüche
+{"coords": [11.3239, 50.9795], "date": "2025-12-21"}, // Kellereinbruch Weimar, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-12-21"}, // Firma Weimar, Einbruch

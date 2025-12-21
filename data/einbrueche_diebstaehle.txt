@@ -5043,3 +5043,9 @@
 {"coords": [9.9333, 52.9667], "date": "2025-12-21"}, // Heidekreis, Einbruch
 //{"coords": [], "date": "2025-12-21"} // Trimbs, Einbruch
 {"coords": [11.0767, 49.4521], "date": "2025-12-21"}, // Zeugen Nürnberg, Einbruch
+//{"coords": [], "date": "2025-12-21"} // Kein Ort gefunden, gestohlen
+{"coords": [11.0767, 49.4521], "date": "2025-12-21"}, // Nürnberg, entwendet
+{"coords": [7.3, 51.1333], "date": "2025-12-21"}, // Imbiss Hückeswagen, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2025-12-21"}, // Baucontainer Frankfurt, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2025-12-21"}, // Papierfabrik Greiz, Einbruch
+//{"coords": [], "date": "2025-12-21"} // Zeugenaufruf Schwabach, Einbruch

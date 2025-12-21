@@ -5055,3 +5055,7 @@
 {"coords": [7.0083, 52.075], "date": "2025-12-21"}, // Zeugenhinweise Ahaus, Einbruch
 {"coords": [7.0333, 52.2167], "date": "2025-12-21"}, // Gronau, eingebrochen
 {"coords": [7.0042, 51.9542], "date": "2025-12-21"}, // Gescher, Einbruch
+{"coords": [6.8333, 52.0333], "date": "2025-12-21"}, // Tatausführung Vreden, Einbruch
+{"coords": [6.9194, 51.9944], "date": "2025-12-21"}, // Kupfer Stadtlohn, Dieb
+{"coords": [12.1997, 50.6544], "date": "2025-12-21"}, // Greiz, Diebstahl
+{"coords": [6.4667, 51.8333], "date": "2025-12-21"}, // Angelsportvereins Isselburg, Einbruch

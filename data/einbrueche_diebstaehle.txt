@@ -5247,3 +5247,11 @@
 {"coords": [7.3333, 49.3167], "date": "2025-12-22"}, // Beeden Homburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-12-22"}, // Einfamilienhaus Freiburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-12-22"}, // Tageswohnungseinbruch Freiburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2025-12-22"}, // Giessen, Einbruch
+{"coords": [7.7667, 51.2833], "date": "2025-12-22"}, // Einbruch Werdohl, Einbruch
+{"coords": [11.9, 49.95], "date": "2025-12-22"}, // Brand Aalen, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-12-22"}, // Untersuchungshaft Karlsruhe, Dieb
+//{"coords": [], "date": "2025-12-22"} // Windhagen, entwendet
+{"coords": [10.8978, 48.3705], "date": "2025-12-22"}, // Imbiss Augsburg, Einbruch
+//{"coords": [], "date": "2025-12-22"} // der Straße, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2025-12-22"}, // Zeugen Münster, Raub

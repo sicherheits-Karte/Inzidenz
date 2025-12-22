@@ -5095,3 +5095,5 @@
 {"coords": [7.1675, 51.9436], "date": "2025-12-22"}, // Versuchter Automatenaufbruch Coesfeld, aufbruch
 {"coords": [6.45, 51.6583], "date": "2025-12-22"}, // Xanten, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2025-12-22"}, // Rasteder Cafe Oldenburg, Einbruch
+{"coords": [10.3167, 51.4], "date": "2025-12-22"}, // Leinefelde, Dieb
+{"coords": [9.0, 50.7333], "date": "2025-12-22"}, // Wohnhaus Homberg, Einbruch

@@ -5075,3 +5075,4 @@
 //{"coords": [], "date": "2025-12-21"} // Fahrraddiebstahl Bad Gandersheim, Diebstahl
 {"coords": [6.6178, 51.6589], "date": "2025-12-21"}, // Zeugensuche Wesel, Raub
 {"coords": [10.95, 50.8333], "date": "2025-12-22"}, // Arnstadt, Einbruch
+//{"coords": [], "date": "2025-12-22"} // Kues, Einbruch

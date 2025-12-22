@@ -5283,3 +5283,4 @@
 {"coords": [8.7667, 50.1], "date": "2025-12-22"}, // Messers Stadt Offenbach, Raub
 //{"coords": [], "date": "2025-12-22"} // Enkirch Enkirch, Einbruch
 {"coords": [7.6, 50.3], "date": "2025-12-22"}, // Lahnstein, Raub
+{"coords": [8.8678, 49.9228], "date": "2025-12-22"}, // Hinweisportal Münster, geklaut

@@ -5272,3 +5272,10 @@
 {"coords": [8.24, 50.0822], "date": "2025-12-22"}, // Wiesbaden, Einbrüche
 {"coords": [8.6944, 49.4092], "date": "2025-12-22"}, // Zeugenaufruf Heidelberg, entwendet
 {"coords": [7.8153, 48.5708], "date": "2025-12-22"}, // Kehl, Einbrecher
+{"coords": [9.4108, 53.1111], "date": "2025-12-22"}, // Hersfeld Rotenburg, Einbrecher
+//{"coords": [], "date": "2025-12-22"} // Höhe, Einbrüche
+{"coords": [6.85, 49.3], "date": "2025-12-22"}, // Bad Schwalbach, Einbruch
+{"coords": [11.2167, 51.3], "date": "2025-12-22"}, // Zeugen Heldrungen, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2025-12-22"}, // Hofheim, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-12-22"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-12-22"} // Zigarettenautomatensprengung Großberndten, Diebstahl

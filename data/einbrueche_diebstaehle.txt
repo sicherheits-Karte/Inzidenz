@@ -5281,3 +5281,4 @@
 //{"coords": [], "date": "2025-12-22"} // Zigarettenautomatensprengung Großberndten, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2025-12-22"}, // Wohnhaus Reutlingen, Einbruch
 {"coords": [8.7667, 50.1], "date": "2025-12-22"}, // Messers Stadt Offenbach, Raub
+//{"coords": [], "date": "2025-12-22"} // Enkirch Enkirch, Einbruch

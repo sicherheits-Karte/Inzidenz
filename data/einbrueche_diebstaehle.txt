@@ -5171,3 +5171,13 @@
 //{"coords": [], "date": "2025-12-22"} // Einfamilienhaus ein, eingebrochen
 //{"coords": [], "date": "2025-12-22"} // Wankum, Einbruch
 {"coords": [9.55, 49.3167], "date": "2025-12-22"}, // Trunkenheitsfahrt Hohenlohekreis, Einbruch
+//{"coords": [], "date": "2025-12-22"} // Einbruch Großbrüchter, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-22"}, // Coesfeld, Dieb
+//{"coords": [], "date": "2025-12-22"} // Kreis, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2025-12-22"}, // Gartenlaube Nordhausen, Einbrecher
+{"coords": [7.6331, 52.9928], "date": "2025-12-22"}, // Esterwegen, Raub
+{"coords": [8.0, 50.3667], "date": "2025-12-22"}, // Birlenbach, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2025-12-22"}, // Zeugenaufruf Mannheim, eingebrochen
+{"coords": [7.7333, 51.4667], "date": "2025-12-22"}, // Fröndenberg, Einbruch
+//{"coords": [], "date": "2025-12-22"} // Weidenau, Einbrüche
+{"coords": [8.8742, 48.7306], "date": "2025-12-22"}, // Öschelbronn, Einbruch

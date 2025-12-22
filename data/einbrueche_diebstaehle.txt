@@ -5255,3 +5255,17 @@
 {"coords": [10.8978, 48.3705], "date": "2025-12-22"}, // Imbiss Augsburg, Einbruch
 //{"coords": [], "date": "2025-12-22"} // der Straße, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2025-12-22"}, // Zeugen Münster, Raub
+{"coords": [11.5653, 53.2792], "date": "2025-12-22"}, // Grabow, Diebstahl
+{"coords": [7.6736, 51.2972], "date": "2025-12-22"}, // Altena, gestohlen
+{"coords": [8.5331, 52.021], "date": "2025-12-22"}, // Bielefeld, Einbruch
+{"coords": [8.5833, 53.55], "date": "2025-12-22"}, // Mitte, gestohlen
+//{"coords": [], "date": "2025-12-22"} // Enzkreis, Einbruch
+{"coords": [7.4981, 51.1861], "date": "2025-12-22"}, // Halver, Einbruch
+//{"coords": [], "date": "2025-12-22"} // ein Wohnhaus in der Unteren Eisenbahnstraße eingedrungen zu sein und dort neuwertige Sportschuhe sowie Marken-Armbanduhren im Gesamtwert von mehreren tausend Euro gestohlen zu haben. Die kriminaltechnische Auswertung der am Tatort gesicherten, Einbrecher
+{"coords": [7.6333, 51.2167], "date": "2025-12-22"}, // Lüdenscheid, Diebstähle
+//{"coords": [], "date": "2025-12-22"} // einem Lebensmitteldiscounter an der Straße, Raub
+{"coords": [6.3475, 51.2742], "date": "2025-12-22"}, // Dülken, Einbruch
+{"coords": [10.135, 51.3783], "date": "2025-12-22"}, // Schule Heilbad Heiligenstadt, Einbrecher
+//{"coords": [], "date": "2025-12-22"} // Breyell, Einbruch
+{"coords": [6.55, 51.25], "date": "2025-12-22"}, // Schiefbahn, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2025-12-22"}, // Zeugen Viersen, Einbrüche

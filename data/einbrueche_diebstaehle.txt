@@ -5144,3 +5144,8 @@
 {"coords": [7.8508, 51.0281], "date": "2025-12-22"}, // Olpe, entwendet
 {"coords": [11.0299, 50.9848], "date": "2025-12-22"}, // Brühlervorstadt Erfurt, Einbruch
 {"coords": [8.5331, 52.021], "date": "2025-12-22"}, // Weihnachtsmarkt Bielefeld, Diebstahl
+{"coords": [6.3319, 51.5194], "date": "2025-12-22"}, // Geldern, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2025-12-22"}, // Einsatz Düsseldorf, Raub
+{"coords": [13.2611, 53.5569], "date": "2025-12-22"}, // Neubrandenburg, gestohlen
+//{"coords": [], "date": "2025-12-22"} // Kein Ort gefunden, Einbrecher
+{"coords": [11.0299, 50.9848], "date": "2025-12-22"}, // Spielzeugdiebstahl Erfurt, Diebstahl

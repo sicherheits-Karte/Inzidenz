@@ -5210,3 +5210,18 @@
 //{"coords": [], "date": "2025-12-22"} // Niedereschach, Einbruch
 {"coords": [7.0333, 50.8167], "date": "2025-12-22"}, // Zeugenhinweise Niederkassel, Diebstahl
 {"coords": [10.7667, 52.5], "date": "2025-12-22"}, // Jembke, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2025-12-22"}, // Wuppertal, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-12-22"}, // Karlsruher Stadtgebiet Karlsruhe, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-12-22"}, // Zeugen Karlsruhe, Einbrüche
+{"coords": [8.3833, 51.9], "date": "2025-12-22"}, // Straße Gütersloh, Einbrüche
+//{"coords": [], "date": "2025-12-22"} // Zeugen Egenhausen, Einbruch
+{"coords": [12.0991, 54.0924], "date": "2025-12-22"}, // Landkreis Rostock, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-12-22"}, // Vollstreckungsbeamte Heilbronn, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-12-22"}, // Homberg, eingebrochen
+{"coords": [6.2333, 51.5833], "date": "2025-12-22"}, // Zeugen Kevelaer, Einbrüche
+{"coords": [9.9092, 53.7306], "date": "2025-12-22"}, // Einbruch Quickborn, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2025-12-22"}, // Darmstadt, Einbruch
+//{"coords": [], "date": "2025-12-22"} // Kein Ort gefunden, Raub
+{"coords": [7.2061, 53.3669], "date": "2025-12-22"}, // Emden, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2025-12-22"}, // Homberg, Diebstahl
+//{"coords": [], "date": "2025-12-22"} // Godscheuer, Einbruch

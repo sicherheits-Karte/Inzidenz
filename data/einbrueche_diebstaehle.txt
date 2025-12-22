@@ -5159,3 +5159,15 @@
 {"coords": [8.875, 53.05], "date": "2025-12-22"}, // Osterholz, eingebrochen
 //{"coords": [], "date": "2025-12-22"} // Lerchenberg, Diebstahl
 //{"coords": [], "date": "2025-12-22"} // Wohnungseinbruch Mommenheim, Einbruch
+{"coords": [6.8139, 50.9147], "date": "2025-12-22"}, // Frechen, Einbrüche
+{"coords": [9.6167, 54.0167], "date": "2025-12-22"}, // Zeugenhinweise Hohenlockstedt, Einbruch
+//{"coords": [], "date": "2025-12-22"} // Kapellen, Einbruch
+{"coords": [9.2, 49.4], "date": "2025-12-22"}, // Neckar, Einbruch
+{"coords": [8.5786, 49.5383], "date": "2025-12-22"}, // Zeugen Viernheim, entwendet
+{"coords": [7.2162, 51.4818], "date": "2025-12-22"}, // Bochum, Einbruch
+{"coords": [10.75, 53.7], "date": "2025-12-22"}, // Zeugen Ratzeburg, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-22"}, // Wohnungseinbrüche Reutlingen, Einbrüche
+{"coords": [9.5, 51.3167], "date": "2025-12-22"}, // Kassel, eingebrochen
+//{"coords": [], "date": "2025-12-22"} // Einfamilienhaus ein, eingebrochen
+//{"coords": [], "date": "2025-12-22"} // Wankum, Einbruch
+{"coords": [9.55, 49.3167], "date": "2025-12-22"}, // Trunkenheitsfahrt Hohenlohekreis, Einbruch

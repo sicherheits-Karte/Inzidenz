@@ -5181,3 +5181,9 @@
 {"coords": [7.7333, 51.4667], "date": "2025-12-22"}, // Fröndenberg, Einbruch
 //{"coords": [], "date": "2025-12-22"} // Weidenau, Einbrüche
 {"coords": [8.8742, 48.7306], "date": "2025-12-22"}, // Öschelbronn, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-22"}, // Komplizin Bochum, Einbruch
+{"coords": [13.3878, 54.0931], "date": "2025-12-22"}, // Greifswald, Raub
+{"coords": [9.95, 52.15], "date": "2025-12-22"}, // Fahrzeug Hildesheim, Einbruch
+{"coords": [8.8075, 53.075], "date": "2025-12-22"}, // Bremen, Diebstahl
+{"coords": [7.0, 49.2333], "date": "2025-12-22"}, // Saarbrücken Saarbrücken, Raub
+{"coords": [7.6667, 51.5833], "date": "2025-12-22"}, // Toyota Kamen, Diebstahl

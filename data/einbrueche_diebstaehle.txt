@@ -5244,3 +5244,6 @@
 {"coords": [7.1508, 51.2562], "date": "2025-12-22"}, // Zeugen Wuppertal, entwendet
 {"coords": [10.4, 53.25], "date": "2025-12-22"}, // Lüneburg, gestohlen
 {"coords": [7.1675, 51.9436], "date": "2025-12-22"}, // Einbrüche Coesfeld, Einbrüche
+{"coords": [7.3333, 49.3167], "date": "2025-12-22"}, // Beeden Homburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-22"}, // Einfamilienhaus Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-22"}, // Tageswohnungseinbruch Freiburg, Einbruch

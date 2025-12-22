@@ -5207,3 +5207,6 @@
 {"coords": [6.4333, 51.2], "date": "2025-12-22"}, // Polizei Mönchengladbach, Raub
 {"coords": [8.7667, 50.1], "date": "2025-12-22"}, // Kreis Offenbach, gestohlen
 {"coords": [10.6866, 53.8655], "date": "2025-12-22"}, // Gefängnis Lübeck, Diebstahl
+//{"coords": [], "date": "2025-12-22"} // Niedereschach, Einbruch
+{"coords": [7.0333, 50.8167], "date": "2025-12-22"}, // Zeugenhinweise Niederkassel, Diebstahl
+{"coords": [10.7667, 52.5], "date": "2025-12-22"}, // Jembke, Diebstahl

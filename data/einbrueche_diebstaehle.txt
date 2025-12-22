@@ -5234,3 +5234,13 @@
 {"coords": [9.5, 51.3167], "date": "2025-12-22"}, // Zeugenhinweise Kassel, Einbrüche
 {"coords": [9.9092, 53.7306], "date": "2025-12-22"}, // Zeugen Quickborn, Einbruch
 //{"coords": [], "date": "2025-12-22"} // Hähnlein, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-12-22"}, // Recklinghausen, Einbrecher
+{"coords": [8.8333, 50.15], "date": "2025-12-22"}, // Zeugen Maintal, Raub
+//{"coords": [], "date": "2025-12-22"} // Zeugenhinweise Neversdorf, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-22"}, // Einsatz Freiburg, Raub
+{"coords": [7.1, 51.5167], "date": "2025-12-22"}, // Raub Gelsenkirchen, Raub
+{"coords": [9.0044, 49.6789], "date": "2025-12-22"}, // Person Michelstadt, Raub
+{"coords": [7.1675, 51.9436], "date": "2025-12-22"}, // Coesfeld, gestohlen
+{"coords": [7.1508, 51.2562], "date": "2025-12-22"}, // Zeugen Wuppertal, entwendet
+{"coords": [10.4, 53.25], "date": "2025-12-22"}, // Lüneburg, gestohlen
+{"coords": [7.1675, 51.9436], "date": "2025-12-22"}, // Einbrüche Coesfeld, Einbrüche

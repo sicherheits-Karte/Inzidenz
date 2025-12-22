@@ -5097,3 +5097,16 @@
 {"coords": [8.2146, 53.1434], "date": "2025-12-22"}, // Rasteder Cafe Oldenburg, Einbruch
 {"coords": [10.3167, 51.4], "date": "2025-12-22"}, // Leinefelde, Dieb
 {"coords": [9.0, 50.7333], "date": "2025-12-22"}, // Wohnhaus Homberg, Einbruch
+{"coords": [10.75, 53.7], "date": "2025-12-22"}, // Ratzeburg, Einbruch
+{"coords": [7.35, 52.15], "date": "2025-12-22"}, // Steinfurt, gestohlen
+{"coords": [6.6833, 51.2], "date": "2025-12-22"}, // Kreis Neuss, Einbrüche
+{"coords": [8.6094, 49.7592], "date": "2025-12-22"}, // Bickenbach Engelskirchen, Diebstahl
+{"coords": [7.3, 51.1333], "date": "2025-12-22"}, // Kiosk Hückeswagen, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-22"}, // Gemeinderäumlichkeiten Freiburg, Einbruch
+//{"coords": [], "date": "2025-12-22"} // Dokument mehr, Einbruch
+{"coords": [8.3333, 51.5833], "date": "2025-12-22"}, // Anröchte, Dieb
+{"coords": [11.0299, 50.9848], "date": "2025-12-22"}, // Erfurter Fleischerei Erfurt, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-22"}, // Tankstellen Wiesbaden, Räuber
+{"coords": [7.215, 51.1397], "date": "2025-12-22"}, // Sonntagabend Wermelskirchen, Einbrüche
+{"coords": [10.3243, 50.9746], "date": "2025-12-22"}, // Eisenach, entwendet
+{"coords": [8.3333, 51.4833], "date": "2025-12-22"}, // Belecke, Dieb

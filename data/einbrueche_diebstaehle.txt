@@ -5093,3 +5093,5 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-22"}, // Aalen, Einbrüche
 {"coords": [8.45, 49.95], "date": "2025-12-22"}, // Nauheim, Einbrüche
 {"coords": [7.1675, 51.9436], "date": "2025-12-22"}, // Versuchter Automatenaufbruch Coesfeld, aufbruch
+{"coords": [6.45, 51.6583], "date": "2025-12-22"}, // Xanten, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-22"}, // Rasteder Cafe Oldenburg, Einbruch

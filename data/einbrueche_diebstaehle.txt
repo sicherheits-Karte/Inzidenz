@@ -5197,3 +5197,7 @@
 //{"coords": [], "date": "2025-12-22"} // Weyerbusch, Einbruch
 {"coords": [10.65, 52.25], "date": "2025-12-22"}, // Cremlingen, entwendet
 {"coords": [9.4108, 53.1111], "date": "2025-12-22"}, // Rotenburg, Diebstahl
+//{"coords": [], "date": "2025-12-22"} // Diedorf, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2025-12-22"}, // Polizei Düsseldorf, Raub
+{"coords": [9.9592, 53.8392], "date": "2025-12-22"}, // Zeugen Kaltenkirchen, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-12-22"}, // Bonn, Einbruch

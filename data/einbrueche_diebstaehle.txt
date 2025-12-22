@@ -5116,3 +5116,15 @@
 {"coords": [7.35, 52.15], "date": "2025-12-22"}, // Steinfurt, Einbruch
 {"coords": [6.6264, 51.4519], "date": "2025-12-22"}, // Hinweise Moers, Raub
 {"coords": [7.35, 52.15], "date": "2025-12-22"}, // Steinfurt, eingebrochen
+{"coords": [7.2162, 51.4818], "date": "2025-12-22"}, // Bochum, Raub
+{"coords": [10.0333, 53.3833], "date": "2025-12-22"}, // Restaurant Seevetal, Einbruch
+{"coords": [9.425, 53.7917], "date": "2025-12-22"}, // Dienstfahrzeugen Glückstadt, Einbruch
+//{"coords": [], "date": "2025-12-22"} // Zeugen Inden, Einbruch
+{"coords": [6.4833, 50.8], "date": "2025-12-22"}, // Wochenende Düren, Einbrüche
+{"coords": [8.45, 50.0167], "date": "2025-12-22"}, // Raunheim, entwendet
+{"coords": [7.9167, 51.5833], "date": "2025-12-22"}, // Hövel, Einbruch
+{"coords": [11.0167, 49.4167], "date": "2025-12-22"}, // Stein, Einbruch
+{"coords": [7.35, 52.15], "date": "2025-12-22"}, // Einbruch Einfamilienhaus Steinfurt, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-22"}, // Ulm, Diebstahl
+{"coords": [8.3667, 51.45], "date": "2025-12-22"}, // Tankstelle Warstein, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-12-22"}, // Keller Kaiserslautern, Einbruch

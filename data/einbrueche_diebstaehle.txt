@@ -5149,3 +5149,13 @@
 {"coords": [13.2611, 53.5569], "date": "2025-12-22"}, // Neubrandenburg, gestohlen
 //{"coords": [], "date": "2025-12-22"} // Kein Ort gefunden, Einbrecher
 {"coords": [11.0299, 50.9848], "date": "2025-12-22"}, // Spielzeugdiebstahl Erfurt, Diebstahl
+{"coords": [8.5833, 49.8667], "date": "2025-12-22"}, // Polizei Griesheim, Einbrüche
+{"coords": [7.2, 51.6167], "date": "2025-12-22"}, // Recklinghausen, Raub
+{"coords": [6.5617, 51.3317], "date": "2025-12-22"}, // Krefeld, Raub
+{"coords": [6.1344, 50.8247], "date": "2025-12-22"}, // Würselen, Raub
+//{"coords": [], "date": "2025-12-22"} // Kreis, entwendet
+{"coords": [8.705, 48.895], "date": "2025-12-22"}, // Pforzheim, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2025-12-22"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [8.875, 53.05], "date": "2025-12-22"}, // Osterholz, eingebrochen
+//{"coords": [], "date": "2025-12-22"} // Lerchenberg, Diebstahl
+//{"coords": [], "date": "2025-12-22"} // Wohnungseinbruch Mommenheim, Einbruch

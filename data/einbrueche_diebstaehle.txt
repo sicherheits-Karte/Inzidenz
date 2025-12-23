@@ -5326,3 +5326,6 @@
 {"coords": [7.35, 52.15], "date": "2025-12-23"}, // Steinfurt, Diebstahl
 {"coords": [9.2844, 51.045], "date": "2025-12-23"}, // Hubschrauber Borken, Raub
 {"coords": [9.9916, 48.3984], "date": "2025-12-23"}, // Ulm, Einbrecher
+{"coords": [8.1333, 48.7], "date": "2025-12-23"}, // Wohnhaus Bühl, Einbruch
+//{"coords": [], "date": "2025-12-23"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.6944, 50.6111], "date": "2025-12-23"}, // Büroraum Suhl, Diebstahl

@@ -5309,3 +5309,12 @@
 //{"coords": [], "date": "2025-12-23"} // POL-PDNR, Einbruch
 {"coords": [12.0799, 50.8772], "date": "2025-12-23"}, // Gera, Dieb
 //{"coords": [], "date": "2025-12-23"} // Kreis, Raub
+{"coords": [9.9916, 48.3984], "date": "2025-12-23"}, // Ulm, Einbruch
+{"coords": [7.8333, 51.7], "date": "2025-12-23"}, // Heessen, Einbruch
+//{"coords": [], "date": "2025-12-23"} // Breitscheid Breitscheid, Einbruch
+{"coords": [7.6333, 50.5667], "date": "2025-12-23"}, // Puderbach Puderbach, Einbruch
+{"coords": [10.9167, 50.4167], "date": "2025-12-23"}, // Firmeneinbruch Eisfeld, Einbruch
+//{"coords": [], "date": "2025-12-23"} // Rollerdiebstahl Straßenhaus, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2025-12-23"}, // Soest, Dieb
+{"coords": [7.82, 47.99], "date": "2025-12-23"}, // Untersuchungshaft Freiburg, Dieb
+{"coords": [6.85, 49.4333], "date": "2025-12-23"}, // Schmelz Schmelz, Raub

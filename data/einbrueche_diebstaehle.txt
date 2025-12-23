@@ -5288,3 +5288,16 @@
 {"coords": [9.95, 52.15], "date": "2025-12-23"}, // Hildesheim, Einbruch
 //{"coords": [], "date": "2025-12-23"} // Gierend, Raub
 //{"coords": [], "date": "2025-12-23"} // Wohnhaus Hasborn, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-12-23"}, // Weimar, Dieb
+{"coords": [11.3239, 50.9795], "date": "2025-12-23"}, // Werkzeug Weimar, gestohlen
+//{"coords": [], "date": "2025-12-23"} // Kreis, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2025-12-23"}, // Fabrikhalle Jena, Einbruch
+{"coords": [7.4833, 52.5], "date": "2025-12-23"}, // Zigarettenautomaten Thuine, aufbruch
+{"coords": [7.4667, 52.3667], "date": "2025-12-23"}, // Firmenfahrzeugen Spelle, Diebstahl
+{"coords": [7.1333, 52.5333], "date": "2025-12-23"}, // Wohnhaus Wietmarschen, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-12-23"}, // Überseecontainer Hildesheim, Einbruch
+{"coords": [8.05, 51.6], "date": "2025-12-23"}, // Einfamilienhaus Welver, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-12-23"}, // Hinweisportal Münster Steinfurt, geklaut
+{"coords": [11.5164, 51.0264], "date": "2025-12-23"}, // Gartenlaube Apolda, Einbruch
+{"coords": [7.5833, 51.3667], "date": "2025-12-23"}, // Hohenlimburg, Dieb
+{"coords": [11.0299, 50.9848], "date": "2025-12-23"}, // Erfurt, Dieb

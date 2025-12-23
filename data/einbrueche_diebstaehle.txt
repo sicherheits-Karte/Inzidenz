@@ -5365,3 +5365,12 @@
 {"coords": [8.8667, 51.9333], "date": "2025-12-23"}, // Lippe, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2025-12-23"}, // Lippe, aufbrüche
 {"coords": [7.1675, 51.9436], "date": "2025-12-23"}, // Einbruch Coesfeld, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2025-12-23"}, // Goch, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-12-23"}, // Kreis Offenbach, Dieb
+{"coords": [10.4508, 50.7211], "date": "2025-12-23"}, // Eingebrochen Schmalkalden, Einbruch
+//{"coords": [], "date": "2025-12-23"} // Kein Ort gefunden, Einbrecher
+{"coords": [9.5, 51.3167], "date": "2025-12-23"}, // Kassel, Raub
+{"coords": [10.4167, 50.55], "date": "2025-12-23"}, // Bäckerei Meiningen, Einbruch
+//{"coords": [], "date": "2025-12-23"} // Straßenverkehrsgefährdung Bad Münstereifel, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2025-12-23"}, // Mehrparteienhaus Bonn, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-12-23"}, // Kaiserslautern, gestohlen

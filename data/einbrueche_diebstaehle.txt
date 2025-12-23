@@ -5409,3 +5409,8 @@
 {"coords": [10.4, 53.25], "date": "2025-12-23"}, // Lüneburg, klau
 {"coords": [6.7583, 51.6417], "date": "2025-12-23"}, // Zeugen Hünxe, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2025-12-23"}, // Zeugen Wesel, eingebrochen
+//{"coords": [], "date": "2025-12-23"} // Stadtgebiet, eingebrochen
+{"coords": [7.9447, 48.4731], "date": "2025-12-23"}, // Offenburg, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2025-12-23"}, // Kaiserslautern, Dieb
+//{"coords": [], "date": "2025-12-23"} // erbeutet Ramstein-Miesenbach, Dieb
+{"coords": [8.875, 53.05], "date": "2025-12-23"}, // Osterholz, Diebstahl

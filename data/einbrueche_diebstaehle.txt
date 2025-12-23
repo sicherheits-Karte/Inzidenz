@@ -5437,3 +5437,5 @@
 {"coords": [7.6014, 52.6853], "date": "2025-12-23"}, // Hinweise Herzlake, Diebstahl
 //{"coords": [], "date": "2025-12-23"} // Polizei Mosbach, Diebstähle
 {"coords": [10.8978, 48.3705], "date": "2025-12-23"}, // Einbrüchen Augsburg, Einbrüche
+{"coords": [6.85, 49.3], "date": "2025-12-23"}, // Bad Schwalbach, gestohlen
+{"coords": [8.24, 50.0822], "date": "2025-12-23"}, // Brennender Müllcontainer Wiesbaden, Einbrecher

@@ -5350,3 +5350,18 @@
 {"coords": [9.6775, 50.5528], "date": "2025-12-23"}, // Fulda, Einbruch
 {"coords": [6.5875, 51.0883], "date": "2025-12-23"}, // Handtasche Grevenbroich, entwendet
 {"coords": [9.0, 50.7333], "date": "2025-12-23"}, // Homberg, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-12-23"}, // Jugendliche Ladendiebe Kaiserslautern, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2025-12-23"}, // Eschwege, Diebstahl
+{"coords": [9.7167, 53.2833], "date": "2025-12-23"}, // Kellertür Tostedt, Einbruch
+//{"coords": [], "date": "2025-12-23"} // Wert von über, entwendet
+{"coords": [11.0767, 49.4521], "date": "2025-12-23"}, // Öffentlichkeitsfahndung Nürnberg, Raub
+{"coords": [6.3583, 50.9222], "date": "2025-12-23"}, // Zeugen Jülich, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-23"}, // Zeugen Freiburg, Einbrüche
+//{"coords": [], "date": "2025-12-23"} // Salmünster, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-12-23"}, // Wilhelmshaven, entwendet
+{"coords": [7.2162, 51.4818], "date": "2025-12-23"}, // Zeugen Bochum, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2025-12-23"}, // Diepholz, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2025-12-23"}, // Lippe, gestohlen
+{"coords": [8.8667, 51.9333], "date": "2025-12-23"}, // Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2025-12-23"}, // Lippe, aufbrüche
+{"coords": [7.1675, 51.9436], "date": "2025-12-23"}, // Einbruch Coesfeld, Einbruch

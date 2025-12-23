@@ -5318,3 +5318,8 @@
 {"coords": [8.1092, 51.5711], "date": "2025-12-23"}, // Soest, Dieb
 {"coords": [7.82, 47.99], "date": "2025-12-23"}, // Untersuchungshaft Freiburg, Dieb
 {"coords": [6.85, 49.4333], "date": "2025-12-23"}, // Schmelz Schmelz, Raub
+{"coords": [7.35, 52.15], "date": "2025-12-23"}, // Steinfurt, Einbruch
+//{"coords": [], "date": "2025-12-23"} // Einfamilienhaus BAD DÜRKHEIM, Einbruch
+{"coords": [7.35, 52.15], "date": "2025-12-23"}, // Hinweise Steinfurt, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2025-12-23"}, // Landkreis Sömmerda, Diebstahl
+{"coords": [11.1167, 51.1667], "date": "2025-12-23"}, // Sömmerda Sömmerda, Einbruch

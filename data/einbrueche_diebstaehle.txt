@@ -5404,3 +5404,8 @@
 {"coords": [6.0839, 50.7753], "date": "2025-12-23"}, // Zeugen Aachen, Raub
 {"coords": [10.8978, 48.3705], "date": "2025-12-23"}, // Kennzeichendiebstahl Augsburg, Diebstahl
 {"coords": [8.3858, 48.2289], "date": "2025-12-23"}, // Schramberg, Einbruch
+{"coords": [6.45, 51.3167], "date": "2025-12-23"}, // Sankt Tönis, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2025-12-23"}, // Osnabrück, Einbruch
+{"coords": [10.4, 53.25], "date": "2025-12-23"}, // Lüneburg, klau
+{"coords": [6.7583, 51.6417], "date": "2025-12-23"}, // Zeugen Hünxe, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2025-12-23"}, // Zeugen Wesel, eingebrochen

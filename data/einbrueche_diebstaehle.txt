@@ -5429,3 +5429,9 @@
 {"coords": [8.6944, 49.4092], "date": "2025-12-23"}, // Zeugenaufruf Heidelberg, entwendet
 {"coords": [9.15, 52.2167], "date": "2025-12-23"}, // Schaumburg, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2025-12-23"}, // Giessen, Einbruch
+//{"coords": [], "date": "2025-12-23"} // Höhe, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-23"}, // Hofheim, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-23"}, // Ludwigsburg, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-12-23"}, // Postfahrzeug Karlsruhe, Raub
+{"coords": [8.6833, 50.5833], "date": "2025-12-23"}, // Giessen, Einbrüche
+{"coords": [7.6014, 52.6853], "date": "2025-12-23"}, // Hinweise Herzlake, Diebstahl

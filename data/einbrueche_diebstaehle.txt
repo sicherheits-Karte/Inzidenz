@@ -5301,3 +5301,11 @@
 {"coords": [11.5164, 51.0264], "date": "2025-12-23"}, // Gartenlaube Apolda, Einbruch
 {"coords": [7.5833, 51.3667], "date": "2025-12-23"}, // Hohenlimburg, Dieb
 {"coords": [11.0299, 50.9848], "date": "2025-12-23"}, // Erfurt, Dieb
+{"coords": [7.4333, 51.35], "date": "2025-12-23"}, // Haspe, Einbrecher
+//{"coords": [], "date": "2025-12-23"} // Olsberg Olsberg, Einbruch
+{"coords": [8.285, 51.1492], "date": "2025-12-23"}, // Schmallenberg Schmallenberg, Einbruch
+{"coords": [8.5833, 53.55], "date": "2025-12-23"}, // Mitte, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-23"}, // Einbruch Aalen, Einbruch
+//{"coords": [], "date": "2025-12-23"} // POL-PDNR, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2025-12-23"}, // Gera, Dieb
+//{"coords": [], "date": "2025-12-23"} // Kreis, Raub

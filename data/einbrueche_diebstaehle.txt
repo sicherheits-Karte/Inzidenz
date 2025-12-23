@@ -5392,3 +5392,10 @@
 {"coords": [9.5, 51.3167], "date": "2025-12-23"}, // Haft Kassel, Raub
 {"coords": [8.4353, 49.4811], "date": "2025-12-23"}, // Ludwigshafen, entwendet
 {"coords": [8.4353, 49.4811], "date": "2025-12-23"}, // Ludwigshafen, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2025-12-23"}, // Bielefeld, Einbrecher
+{"coords": [10.3333, 52.15], "date": "2025-12-23"}, // Salzgitter, Dieb
+{"coords": [7.4667, 49.8167], "date": "2025-12-23"}, // Kühlwagen Kirn, Diebstahl
+//{"coords": [], "date": "2025-12-23"} // Feldberger Seenlandschaft, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2025-12-23"}, // Verkehrsunfälle Reutlingen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2025-12-23"}, // Zeugen Duisburg, entwendet
+{"coords": [13.6444, 54.5167], "date": "2025-12-23"}, // Sassnitz, entwendet

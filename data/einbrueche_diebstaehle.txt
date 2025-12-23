@@ -5414,3 +5414,9 @@
 {"coords": [7.7689, 49.4447], "date": "2025-12-23"}, // Kaiserslautern, Dieb
 //{"coords": [], "date": "2025-12-23"} // erbeutet Ramstein-Miesenbach, Dieb
 {"coords": [8.875, 53.05], "date": "2025-12-23"}, // Osterholz, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2025-12-23"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [8.4661, 49.4878], "date": "2025-12-23"}, // Zeugenaufruf Mannheim, Einbruch
+//{"coords": [], "date": "2025-12-23"} // Wohnung mehr, Raub
+//{"coords": [], "date": "2025-12-23"} // Sasbach, Räuber
+{"coords": [8.8556, 48.0778], "date": "2025-12-23"}, // Spaichingen, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-12-23"}, // Zeugenaufruf Heidelberg, gestohlen

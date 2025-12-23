@@ -5439,3 +5439,4 @@
 {"coords": [10.8978, 48.3705], "date": "2025-12-23"}, // Einbrüchen Augsburg, Einbrüche
 {"coords": [6.85, 49.3], "date": "2025-12-23"}, // Bad Schwalbach, gestohlen
 {"coords": [8.24, 50.0822], "date": "2025-12-23"}, // Brennender Müllcontainer Wiesbaden, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2025-12-23"}, // Limburg, Einbruch

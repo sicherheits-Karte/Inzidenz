@@ -5399,3 +5399,8 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-23"}, // Verkehrsunfälle Reutlingen, Einbruch
 {"coords": [6.7623, 51.4344], "date": "2025-12-23"}, // Zeugen Duisburg, entwendet
 {"coords": [13.6444, 54.5167], "date": "2025-12-23"}, // Sassnitz, entwendet
+{"coords": [8.8075, 53.075], "date": "2025-12-23"}, // Bremen, Raub
+{"coords": [6.7735, 51.2277], "date": "2025-12-23"}, // Ermittlungsrichter Düsseldorf, Einbrecher
+{"coords": [6.0839, 50.7753], "date": "2025-12-23"}, // Zeugen Aachen, Raub
+{"coords": [10.8978, 48.3705], "date": "2025-12-23"}, // Kennzeichendiebstahl Augsburg, Diebstahl
+{"coords": [8.3858, 48.2289], "date": "2025-12-23"}, // Schramberg, Einbruch

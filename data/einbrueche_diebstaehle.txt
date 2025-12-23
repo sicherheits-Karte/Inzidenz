@@ -5329,3 +5329,12 @@
 {"coords": [8.1333, 48.7], "date": "2025-12-23"}, // Wohnhaus Bühl, Einbruch
 //{"coords": [], "date": "2025-12-23"} // dem Kreisgebiet, Einbrüche
 {"coords": [10.6944, 50.6111], "date": "2025-12-23"}, // Büroraum Suhl, Diebstahl
+{"coords": [11.5928, 50.6933], "date": "2025-12-23"}, // Einbruch Pößneck, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-23"}, // Coesfeld, gestohlen
+{"coords": [8.5861, 52.1983], "date": "2025-12-23"}, // Zeugen Bünde, Einbruch
+{"coords": [7.5667, 51.0167], "date": "2025-12-23"}, // Beute Wiehl, einbrechen
+{"coords": [7.2839, 50.9328], "date": "2025-12-23"}, // Overath, Einbruch
+{"coords": [8.65, 49.3], "date": "2025-12-23"}, // Walldorf, Einbruch
+{"coords": [7.3, 51.1333], "date": "2025-12-23"}, // Jugendzentrum Hückeswagen, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2025-12-23"}, // Zeugenaufruf Cuxhaven, Einbrüche
+{"coords": [10.3243, 50.9746], "date": "2025-12-23"}, // Eisenach, entwendet

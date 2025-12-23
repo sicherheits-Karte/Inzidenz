@@ -5374,3 +5374,7 @@
 //{"coords": [], "date": "2025-12-23"} // Straßenverkehrsgefährdung Bad Münstereifel, Diebstahl
 {"coords": [7.0982, 50.7374], "date": "2025-12-23"}, // Mehrparteienhaus Bonn, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2025-12-23"}, // Kaiserslautern, gestohlen
+{"coords": [8.5847, 53.5469], "date": "2025-12-23"}, // Bremerhaven, Diebstahl
+{"coords": [8.6372, 49.6419], "date": "2025-12-23"}, // Ludwigstraße Heppenheim, aufbruch
+{"coords": [6.2833, 50.8167], "date": "2025-12-23"}, // Eschweiler Eschweiler, Raub
+{"coords": [7.0, 51.8333], "date": "2025-12-23"}, // Kupfer Reken, Einbrecher

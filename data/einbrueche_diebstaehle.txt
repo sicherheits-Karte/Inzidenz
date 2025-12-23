@@ -5420,3 +5420,12 @@
 //{"coords": [], "date": "2025-12-23"} // Sasbach, Räuber
 {"coords": [8.8556, 48.0778], "date": "2025-12-23"}, // Spaichingen, Einbruch
 {"coords": [8.6944, 49.4092], "date": "2025-12-23"}, // Zeugenaufruf Heidelberg, gestohlen
+{"coords": [6.0167, 51.7917], "date": "2025-12-23"}, // Großen Haag Kranenburg, Einbruch
+{"coords": [6.4333, 51.2], "date": "2025-12-23"}, // Discounter Mönchengladbach, entwendet
+{"coords": [7.2, 51.6167], "date": "2025-12-23"}, // Recklinghausen, Einbrüche
+{"coords": [6.6833, 51.2], "date": "2025-12-23"}, // Neuss, Raub
+//{"coords": [], "date": "2025-12-23"} // Kreis, eingebrochen
+{"coords": [9.7167, 53.7], "date": "2025-12-23"}, // Zeugen Tornesch, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-12-23"}, // Zeugenaufruf Heidelberg, entwendet
+{"coords": [9.15, 52.2167], "date": "2025-12-23"}, // Schaumburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2025-12-23"}, // Giessen, Einbruch

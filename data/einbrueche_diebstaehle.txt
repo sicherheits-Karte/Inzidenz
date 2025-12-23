@@ -5287,3 +5287,4 @@
 //{"coords": [], "date": "2025-12-22"} // Alkoholeinfluss Hanroth, Raub
 {"coords": [9.95, 52.15], "date": "2025-12-23"}, // Hildesheim, Einbruch
 //{"coords": [], "date": "2025-12-23"} // Gierend, Raub
+//{"coords": [], "date": "2025-12-23"} // Wohnhaus Hasborn, Einbruch

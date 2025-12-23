@@ -5446,3 +5446,4 @@
 {"coords": [10.7956, 51.5019], "date": "2025-12-23"}, // Trepenhaus Nordhausen, Diebstahl
 //{"coords": [], "date": "2025-12-23"} // Ingbert, Raub
 //{"coords": [], "date": "2025-12-23"} // Gierend, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-12-23"}, // Zeugenaufruf Hildesheim, Diebstahl

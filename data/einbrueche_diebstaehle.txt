@@ -5454,3 +5454,4 @@
 {"coords": [8.7917, 51.9917], "date": "2025-12-24"}, // Einfamilienhäusern Lage, Einbrüche
 {"coords": [8.3667, 51.45], "date": "2025-12-24"}, // Warstein, Einbruch
 {"coords": [7.6, 49.2], "date": "2025-12-24"}, // Pirmasens, gestohlen
+{"coords": [7.3608, 49.2492], "date": "2025-12-24"}, // Handyzubehörgeschäft Zweibrücken, Einbruch

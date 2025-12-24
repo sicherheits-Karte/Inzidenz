@@ -5450,3 +5450,6 @@
 {"coords": [7.6, 50.3], "date": "2025-12-24"}, // Oberlahnstein Lahnstein, Raub
 {"coords": [7.6667, 51.5833], "date": "2025-12-24"}, // Kamen, aufbruch
 {"coords": [7.6333, 51.6667], "date": "2025-12-24"}, // Fahrzeugtransportanhängers Werne, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-12-24"}, // Zeugen Lingen, aufbruch
+{"coords": [8.7917, 51.9917], "date": "2025-12-24"}, // Einfamilienhäusern Lage, Einbrüche
+{"coords": [8.3667, 51.45], "date": "2025-12-24"}, // Warstein, Einbruch

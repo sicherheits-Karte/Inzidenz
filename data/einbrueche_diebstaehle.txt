@@ -5465,3 +5465,6 @@
 {"coords": [8.4311, 49.3194], "date": "2025-12-24"}, // Uhr Speyer, Diebstähle
 //{"coords": [], "date": "2025-12-24"} // Maudach, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2025-12-24"}, // Uhr Speyer, Einbruch
+{"coords": [8.6306, 53.05], "date": "2025-12-24"}, // Delmenhorst, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-24"}, // Gartenhausaufbrüche Aalen, aufbrüche
+{"coords": [7.7806, 53.5769], "date": "2025-12-24"}, // Wittmund, Diebstahl

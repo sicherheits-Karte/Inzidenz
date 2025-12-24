@@ -5476,3 +5476,4 @@
 {"coords": [7.2162, 51.4818], "date": "2025-12-24"}, // Bochum, Raub
 //{"coords": [], "date": "2025-12-24"} // Pkw Bad Gandersheim, Diebstahl
 //{"coords": [], "date": "2025-12-24"} // Bad Dürkheim, Einbruch
+//{"coords": [], "date": "2025-12-24"} // Höhe, Einbruch

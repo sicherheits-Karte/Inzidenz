@@ -5474,3 +5474,4 @@
 {"coords": [8.15, 49.4667], "date": "2025-12-24"}, // Weinstraße, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2025-12-24"}, // Haarstudio Gevelsberg, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2025-12-24"}, // Bochum, Raub
+//{"coords": [], "date": "2025-12-24"} // Pkw Bad Gandersheim, Diebstahl

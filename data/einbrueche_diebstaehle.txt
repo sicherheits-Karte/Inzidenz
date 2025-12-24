@@ -5481,3 +5481,4 @@
 {"coords": [8.0667, 50.3833], "date": "2025-12-24"}, // Verletzten Limburg, Diebstahl
 //{"coords": [], "date": "2025-12-24"} // Sulzbach Altenwald, Diebstahl
 //{"coords": [], "date": "2025-12-24"} // Einsatz Masburg, Raub
+{"coords": [8.6833, 52.15], "date": "2025-12-24"}, // Herford Herford, Einbruch

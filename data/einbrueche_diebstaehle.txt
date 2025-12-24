@@ -5473,3 +5473,4 @@
 {"coords": [8.1128, 49.1994], "date": "2025-12-24"}, // Firmengebäude Landau, Einbruch
 {"coords": [8.15, 49.4667], "date": "2025-12-24"}, // Weinstraße, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2025-12-24"}, // Haarstudio Gevelsberg, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-24"}, // Bochum, Raub

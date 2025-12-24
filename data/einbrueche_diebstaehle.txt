@@ -5479,3 +5479,4 @@
 //{"coords": [], "date": "2025-12-24"} // Höhe, Einbruch
 {"coords": [7.15, 50.0], "date": "2025-12-24"}, // Klausen, klau
 {"coords": [8.0667, 50.3833], "date": "2025-12-24"}, // Verletzten Limburg, Diebstahl
+//{"coords": [], "date": "2025-12-24"} // Sulzbach Altenwald, Diebstahl

@@ -5471,3 +5471,4 @@
 {"coords": [8.05, 51.6], "date": "2025-12-24"}, // Tierarztpraxis Welver, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2025-12-24"}, // Kaiserslautern, entwendet
 {"coords": [8.1128, 49.1994], "date": "2025-12-24"}, // Firmengebäude Landau, Einbruch
+{"coords": [8.15, 49.4667], "date": "2025-12-24"}, // Weinstraße, Einbruch

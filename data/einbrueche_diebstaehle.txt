@@ -5477,3 +5477,4 @@
 //{"coords": [], "date": "2025-12-24"} // Pkw Bad Gandersheim, Diebstahl
 //{"coords": [], "date": "2025-12-24"} // Bad Dürkheim, Einbruch
 //{"coords": [], "date": "2025-12-24"} // Höhe, Einbruch
+{"coords": [7.15, 50.0], "date": "2025-12-24"}, // Klausen, klau

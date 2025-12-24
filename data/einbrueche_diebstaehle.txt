@@ -5455,3 +5455,13 @@
 {"coords": [8.3667, 51.45], "date": "2025-12-24"}, // Warstein, Einbruch
 {"coords": [7.6, 49.2], "date": "2025-12-24"}, // Pirmasens, gestohlen
 {"coords": [7.3608, 49.2492], "date": "2025-12-24"}, // Handyzubehörgeschäft Zweibrücken, Einbruch
+{"coords": [6.1972, 51.6267], "date": "2025-12-24"}, // Zeugen Weeze, Einbruch
+{"coords": [6.2167, 51.5333], "date": "2025-12-24"}, // Veert, Einbruch
+{"coords": [6.4333, 51.8333], "date": "2025-12-24"}, // Emmerich, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2025-12-24"}, // Kleve, Diebstahl
+{"coords": [7.2431, 51.3464], "date": "2025-12-24"}, // Einfamilienhaus Sprockhövel, Einbruch
+{"coords": [7.2931, 51.2861], "date": "2025-12-24"}, // Einfamilienhaus Schwelm, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2025-12-24"}, // Mehrfamilienhauses Gevelsberg, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2025-12-24"}, // Uhr Speyer, Diebstähle
+//{"coords": [], "date": "2025-12-24"} // Maudach, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2025-12-24"}, // Uhr Speyer, Einbruch

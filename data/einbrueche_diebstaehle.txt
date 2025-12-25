@@ -5500,3 +5500,12 @@
 {"coords": [9.6106, 47.7828], "date": "2025-12-25"}, // Landkreis Ravensburg Landkreis Ravensburg, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-12-25"}, // Wohnungseinbruch Aalen, Einbruch
 //{"coords": [], "date": "2025-12-25"} // Langscheid, Diebstähle
+{"coords": [9.55, 49.3167], "date": "2025-12-25"}, // Hubschrauber Hohenlohekreis, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-12-25"}, // Zeugenaufruf Heidelberg, Einbruch
+//{"coords": [], "date": "2025-12-25"} // Kreis, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2025-12-25"}, // Suhl, entwendet
+{"coords": [6.4333, 51.8333], "date": "2025-12-25"}, // Emmerich, Einbruch
+//{"coords": [], "date": "2025-12-25"} // Hartefeld, Einbruch
+{"coords": [6.2167, 51.5333], "date": "2025-12-25"}, // Veert, Einbruch
+//{"coords": [], "date": "2025-12-25"} // Kein Ort gefunden, Einbrüche
+{"coords": [8.6822, 50.1106], "date": "2025-12-25"}, // Zeugenaufruf Frankfurt, Einbruch

@@ -5525,3 +5525,4 @@
 {"coords": [7.0982, 50.7374], "date": "2025-12-25"}, // Beobachtungen Bonn, Einbruch
 {"coords": [7.825, 50.4358], "date": "2025-12-25"}, // Montabaur, Einbruch
 {"coords": [7.9833, 51.95], "date": "2025-12-25"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2025-12-25"}, // Polizei Gronau, Raub

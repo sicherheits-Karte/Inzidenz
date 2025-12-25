@@ -5512,3 +5512,4 @@
 {"coords": [7.3392, 51.3197], "date": "2025-12-25"}, // Gartenstraße Gevelsberg, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2025-12-25"}, // Heilbronn, Einbrüche
 {"coords": [7.45, 51.4], "date": "2025-12-25"}, // Schanze Herdecke, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-12-25"}, // Wohnungseinbruch Bonn, Einbruch

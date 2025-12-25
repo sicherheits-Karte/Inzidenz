@@ -5520,3 +5520,4 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-25"}, // Raub Reutlingen, Einbrüche
 {"coords": [10.4167, 50.55], "date": "2025-12-25"}, // Weihnachtsbaum Meiningen, stehlen
 {"coords": [8.375, 49.3833], "date": "2025-12-25"}, // Fahrzeug Schifferstadt, Diebstahl
+//{"coords": [], "date": "2025-12-25"} // Höhe, Einbruch

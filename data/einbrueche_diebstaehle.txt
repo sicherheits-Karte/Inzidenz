@@ -5487,3 +5487,7 @@
 {"coords": [9.8333, 53.95], "date": "2025-12-25"}, // Heiligabend Hagen, Einbruch
 {"coords": [9.95, 52.15], "date": "2025-12-25"}, // Moorberg Hildesheim, Einbruch
 {"coords": [8.1333, 51.5], "date": "2025-12-25"}, // Gaststätte Möhnesee, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-12-25"}, // Vechta, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2025-12-25"}, // Versuchter Einbruch Weimar, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-12-25"}, // Weimar, entwendet
+{"coords": [8.05, 51.6], "date": "2025-12-25"}, // Welver, Einbruch

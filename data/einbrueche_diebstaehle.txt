@@ -5484,3 +5484,4 @@
 {"coords": [8.6833, 52.15], "date": "2025-12-24"}, // Herford Herford, Einbruch
 {"coords": [9.95, 52.15], "date": "2025-12-25"}, // Heiligabend Hildesheim, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2025-12-25"}, // Weihnachtsmarkt Gotha, Einbruch
+{"coords": [9.8333, 53.95], "date": "2025-12-25"}, // Heiligabend Hagen, Einbruch

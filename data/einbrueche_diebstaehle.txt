@@ -5527,3 +5527,4 @@
 {"coords": [7.9833, 51.95], "date": "2025-12-25"}, // Einfamilienhaus Warendorf, Einbruch
 {"coords": [7.0333, 52.2167], "date": "2025-12-25"}, // Polizei Gronau, Raub
 {"coords": [10.0936, 48.8372], "date": "2025-12-25"}, // Einbrecher Aalen, Einbrecher
+//{"coords": [], "date": "2025-12-25"} // Kleinkraftrad Straßenhaus, entwendet

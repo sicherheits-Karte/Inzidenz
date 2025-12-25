@@ -5496,3 +5496,4 @@
 {"coords": [7.3194, 52.5236], "date": "2025-12-25"}, // Wohnung Lingen, Einbruch
 {"coords": [6.9667, 52.5], "date": "2025-12-25"}, // Neuenhaus, Einbruch
 {"coords": [6.9667, 52.5], "date": "2025-12-25"}, // Wohnhaus Neuenhaus, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-25"}, // Wiesbaden, Einbruch

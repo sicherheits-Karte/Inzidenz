@@ -5486,3 +5486,4 @@
 {"coords": [10.7183, 50.9489], "date": "2025-12-25"}, // Weihnachtsmarkt Gotha, Einbruch
 {"coords": [9.8333, 53.95], "date": "2025-12-25"}, // Heiligabend Hagen, Einbruch
 {"coords": [9.95, 52.15], "date": "2025-12-25"}, // Moorberg Hildesheim, Einbruch
+{"coords": [8.1333, 51.5], "date": "2025-12-25"}, // Gaststätte Möhnesee, Einbruch

@@ -5491,3 +5491,8 @@
 {"coords": [11.3239, 50.9795], "date": "2025-12-25"}, // Versuchter Einbruch Weimar, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2025-12-25"}, // Weimar, entwendet
 {"coords": [8.05, 51.6], "date": "2025-12-25"}, // Welver, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2025-12-25"}, // Meppen, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2025-12-25"}, // Einfamilienhaus Meppen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-25"}, // Wohnung Lingen, Einbruch
+{"coords": [6.9667, 52.5], "date": "2025-12-25"}, // Neuenhaus, Einbruch
+{"coords": [6.9667, 52.5], "date": "2025-12-25"}, // Wohnhaus Neuenhaus, Einbruch

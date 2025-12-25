@@ -5517,3 +5517,5 @@
 {"coords": [8.875, 53.05], "date": "2025-12-25"}, // Osterholz, Einbruch
 {"coords": [7.7806, 53.5769], "date": "2025-12-25"}, // Wittmund, Diebstahl
 //{"coords": [], "date": "2025-12-25"} // Großniedesheim, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2025-12-25"}, // Raub Reutlingen, Einbrüche
+{"coords": [10.4167, 50.55], "date": "2025-12-25"}, // Weihnachtsbaum Meiningen, stehlen

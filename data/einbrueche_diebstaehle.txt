@@ -5511,3 +5511,4 @@
 {"coords": [8.6822, 50.1106], "date": "2025-12-25"}, // Zeugenaufruf Frankfurt, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2025-12-25"}, // Gartenstraße Gevelsberg, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2025-12-25"}, // Heilbronn, Einbrüche
+{"coords": [7.45, 51.4], "date": "2025-12-25"}, // Schanze Herdecke, Einbruch

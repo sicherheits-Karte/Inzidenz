@@ -5563,3 +5563,4 @@
 {"coords": [11.0167, 49.4167], "date": "2025-12-26"}, // Stein, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2025-12-26"}, // Reutlingen, Einbrüche
 {"coords": [8.4592, 49.6436], "date": "2025-12-26"}, // Bürstadt, entwendet
+{"coords": [8.5333, 50.0667], "date": "2025-12-26"}, // Zeugen Kelsterbach, Einbruch

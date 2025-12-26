@@ -5565,3 +5565,15 @@
 {"coords": [8.4592, 49.6436], "date": "2025-12-26"}, // Bürstadt, entwendet
 {"coords": [8.5333, 50.0667], "date": "2025-12-26"}, // Zeugen Kelsterbach, Einbruch
 {"coords": [8.4833, 49.9167], "date": "2025-12-26"}, // Gerau, Einbruch
+{"coords": [8.705, 48.895], "date": "2025-12-26"}, // Zeugen Pforzheim, Einbruch
+//{"coords": [], "date": "2025-12-26"} // Geld Schöppingen, Dieb
+//{"coords": [], "date": "2025-12-26"} // Zeugen Eisingen, Einbruch
+{"coords": [7.0, 51.8333], "date": "2025-12-26"}, // Schmuck Reken, Einbruch
+{"coords": [6.9333, 51.8333], "date": "2025-12-26"}, // Heiden, eingebrochen
+{"coords": [8.8042, 49.0069], "date": "2025-12-26"}, // Diebes Maulbronn, Dieb
+{"coords": [6.6153, 51.8367], "date": "2025-12-26"}, // Bocholt, einbrechen
+//{"coords": [], "date": "2025-12-26"} // Bilfingen, Einbruch
+{"coords": [8.8, 48.75], "date": "2025-12-26"}, // Zeugen Simmozheim, Einbrecher
+//{"coords": [], "date": "2025-12-26"} // Einfamilienhaus Ebhausen, Einbruch
+{"coords": [7.0083, 52.075], "date": "2025-12-26"}, // Ahaus, Einbrecher
+{"coords": [8.8075, 53.075], "date": "2025-12-26"}, // Bremen, Einbrecher

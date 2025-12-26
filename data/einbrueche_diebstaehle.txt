@@ -5550,3 +5550,6 @@
 {"coords": [7.6667, 50.55], "date": "2025-12-26"}, // Zielrichtung Zigaretten Dierdorf, Einbruch
 {"coords": [7.75, 51.6333], "date": "2025-12-26"}, // Herringen, Einbruch
 {"coords": [7.5667, 51.0833], "date": "2025-12-26"}, // Gummersbach Gummersbach, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-26"}, // Versuchter Einbruch Coesfeld, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-26"}, // Pkw Oldenburg, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-26"}, // Einbruch Coesfeld, Einbruch

@@ -5583,3 +5583,5 @@
 {"coords": [8.7106, 48.3925], "date": "2025-12-26"}, // Zeugen Empfingen, Einbruch
 {"coords": [8.8742, 48.7306], "date": "2025-12-26"}, // Öschelbronn, Einbruch
 //{"coords": [], "date": "2025-12-26"} // Feiertage Contwig, Einbrecher
+{"coords": [11.0299, 50.9848], "date": "2025-12-26"}, // Beutezug Erfurt, Dieb
+{"coords": [8.6514, 49.8728], "date": "2025-12-26"}, // Einbrechern Darmstadt, Einbrecher

@@ -5554,3 +5554,9 @@
 {"coords": [8.2146, 53.1434], "date": "2025-12-26"}, // Pkw Oldenburg, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2025-12-26"}, // Einbruch Coesfeld, Einbruch
 {"coords": [8.6822, 50.1106], "date": "2025-12-26"}, // Frankfurt, Einbruch
+{"coords": [8.4725, 49.5981], "date": "2025-12-26"}, // Visier Lampertheim, Einbruch
+{"coords": [9.732, 52.3759], "date": "2025-12-26"}, // Hannover, Raub
+{"coords": [8.6139, 49.7236], "date": "2025-12-26"}, // Zwingenberg, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2025-12-26"}, // Heidekreis, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-12-26"}, // Recklinghausen, Raub
+//{"coords": [], "date": "2025-12-26"} // dem Kreisgebiet, Einbrüche

@@ -5560,3 +5560,6 @@
 {"coords": [9.9333, 52.9667], "date": "2025-12-26"}, // Heidekreis, Einbruch
 {"coords": [7.2, 51.6167], "date": "2025-12-26"}, // Recklinghausen, Raub
 //{"coords": [], "date": "2025-12-26"} // dem Kreisgebiet, Einbrüche
+{"coords": [11.0167, 49.4167], "date": "2025-12-26"}, // Stein, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-26"}, // Reutlingen, Einbrüche
+{"coords": [8.4592, 49.6436], "date": "2025-12-26"}, // Bürstadt, entwendet

@@ -5553,3 +5553,4 @@
 {"coords": [7.1675, 51.9436], "date": "2025-12-26"}, // Versuchter Einbruch Coesfeld, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2025-12-26"}, // Pkw Oldenburg, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2025-12-26"}, // Einbruch Coesfeld, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2025-12-26"}, // Frankfurt, Einbruch

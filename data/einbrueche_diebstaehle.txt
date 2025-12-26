@@ -5542,3 +5542,9 @@
 //{"coords": [], "date": "2025-12-26"} // Versuchter Wohnungseinbruchdiebstahl Großniedesheim, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2025-12-26"}, // Mühlbach Heilbronn, Einbrüche
 {"coords": [8.8667, 51.9333], "date": "2025-12-26"}, // Wohnhaus Lippe, Einbruch
+//{"coords": [], "date": "2025-12-26"} // Terrassentür Radevormwald, Einbruch
+{"coords": [7.5408, 50.9056], "date": "2025-12-26"}, // Zapfanlagen Nümbrecht, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2025-12-26"}, // Verkehrsunfallflucht Aalen, Einbruch
+{"coords": [7.8333, 51.7], "date": "2025-12-26"}, // Heessen, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-12-26"}, // Wiesbaden, Einbruch
+{"coords": [7.6667, 50.55], "date": "2025-12-26"}, // Zielrichtung Zigaretten Dierdorf, Einbruch

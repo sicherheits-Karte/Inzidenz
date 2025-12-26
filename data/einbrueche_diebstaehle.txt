@@ -5595,3 +5595,5 @@
 {"coords": [7.2, 51.6167], "date": "2025-12-26"}, // Recklinghausen, Einbrüche
 {"coords": [8.6514, 49.8728], "date": "2025-12-26"}, // Darmstadt, Einbruch
 //{"coords": [], "date": "2025-12-26"} // Höhe, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-26"}, // Sachschaden Hofheim, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-12-26"}, // Limburg, Einbruch

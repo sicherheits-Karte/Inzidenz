@@ -5533,3 +5533,6 @@
 {"coords": [8.5833, 53.55], "date": "2025-12-25"}, // Mitte, Einbruch
 //{"coords": [], "date": "2025-12-26"} // Einfamilienhaus Obersülzen, Einbruch
 {"coords": [9.8333, 53.95], "date": "2025-12-26"}, // Elsey Hagen, Einbruch
+//{"coords": [], "date": "2025-12-26"} // Versuchter Einbruchsdiebstahl Altrip, Einbruch
+{"coords": [7.4547, 53.2311], "date": "2025-12-26"}, // Leer, Einbruch
+{"coords": [8.0, 50.4], "date": "2025-12-26"}, // Holzheim, Einbrüche

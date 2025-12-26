@@ -5598,3 +5598,4 @@
 {"coords": [8.4414, 50.0919], "date": "2025-12-26"}, // Sachschaden Hofheim, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2025-12-26"}, // Limburg, Einbruch
 {"coords": [11.5928, 50.6933], "date": "2025-12-26"}, // Spielothek Pößneck, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2025-12-26"}, // Zeugen Goch, Einbrecher

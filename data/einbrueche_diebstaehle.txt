@@ -5548,3 +5548,5 @@
 {"coords": [7.8333, 51.7], "date": "2025-12-26"}, // Heessen, Einbruch
 {"coords": [8.24, 50.0822], "date": "2025-12-26"}, // Wiesbaden, Einbruch
 {"coords": [7.6667, 50.55], "date": "2025-12-26"}, // Zielrichtung Zigaretten Dierdorf, Einbruch
+{"coords": [7.75, 51.6333], "date": "2025-12-26"}, // Herringen, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2025-12-26"}, // Gummersbach Gummersbach, Einbruch

@@ -5531,3 +5531,4 @@
 //{"coords": [], "date": "2025-12-25"} // Reinheim Spachbrücken, Dieb
 {"coords": [7.8333, 51.7], "date": "2025-12-25"}, // Heessen, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2025-12-25"}, // Mitte, Einbruch
+//{"coords": [], "date": "2025-12-26"} // Einfamilienhaus Obersülzen, Einbruch

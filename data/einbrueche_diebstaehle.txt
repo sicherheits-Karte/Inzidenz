@@ -5586,3 +5586,12 @@
 {"coords": [11.0299, 50.9848], "date": "2025-12-26"}, // Beutezug Erfurt, Dieb
 {"coords": [8.6514, 49.8728], "date": "2025-12-26"}, // Einbrechern Darmstadt, Einbrecher
 {"coords": [8.9519, 49.9667], "date": "2025-12-26"}, // Getränkemarkt Babenhausen, Einbrecher
+{"coords": [6.9603, 50.9375], "date": "2025-12-26"}, // Köln, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2025-12-26"}, // Tatverdächtigen Köln, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2025-12-26"}, // Raub Köln, Raub
+{"coords": [7.2, 51.6167], "date": "2025-12-26"}, // Recklinghausen, Einbruch
+//{"coords": [], "date": "2025-12-26"} // Otzberg, entwendet
+{"coords": [8.6514, 49.8728], "date": "2025-12-26"}, // Darmstadt, entwendet
+{"coords": [7.2, 51.6167], "date": "2025-12-26"}, // Recklinghausen, Einbrüche
+{"coords": [8.6514, 49.8728], "date": "2025-12-26"}, // Darmstadt, Einbruch
+//{"coords": [], "date": "2025-12-26"} // Höhe, Einbruch

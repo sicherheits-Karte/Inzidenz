@@ -5582,3 +5582,4 @@
 {"coords": [9.2, 49.4], "date": "2025-12-26"}, // Neckar, Einbruch
 {"coords": [8.7106, 48.3925], "date": "2025-12-26"}, // Zeugen Empfingen, Einbruch
 {"coords": [8.8742, 48.7306], "date": "2025-12-26"}, // Öschelbronn, Einbruch
+//{"coords": [], "date": "2025-12-26"} // Feiertage Contwig, Einbrecher

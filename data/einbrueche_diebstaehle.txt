@@ -5538,3 +5538,7 @@
 {"coords": [8.0, 50.4], "date": "2025-12-26"}, // Holzheim, Einbrüche
 {"coords": [7.9833, 51.95], "date": "2025-12-26"}, // Einfamilienhaus Warendorf, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2025-12-26"}, // Lippe, Diebstahl
+{"coords": [8.35, 49.5333], "date": "2025-12-26"}, // Münzautomaten Frankenthal, Diebstahl
+//{"coords": [], "date": "2025-12-26"} // Versuchter Wohnungseinbruchdiebstahl Großniedesheim, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-12-26"}, // Mühlbach Heilbronn, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2025-12-26"}, // Wohnhaus Lippe, Einbruch

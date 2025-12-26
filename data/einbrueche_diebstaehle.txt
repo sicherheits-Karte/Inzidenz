@@ -5601,3 +5601,4 @@
 {"coords": [6.1667, 51.6833], "date": "2025-12-26"}, // Zeugen Goch, Einbrecher
 //{"coords": [], "date": "2025-12-26"} // der vergangenen Nacht auf ein Privatgrundstück in der Ruhlaer Straße. Dort entwendeten der oder die Täter die beiden WAK-Kennzeichentafeln von einem parkenden Audi. Die Schadenshöhe wird auf einen zweistelligen Euro-Betrag geschätzt. Die Polizei leitete ein Ermittlungsverfahren wegen besonders schwerem Fall des Diebstahls ein und sucht Zeugen, die den Vorfall, Diebstahl
 //{"coords": [], "date": "2025-12-26"} // Rhein, Einbruch
+{"coords": [13.1667, 50.65], "date": "2025-12-26"}, // Bad Marienberg, Diebstähle

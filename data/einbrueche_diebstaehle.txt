@@ -5577,3 +5577,8 @@
 //{"coords": [], "date": "2025-12-26"} // Einfamilienhaus Ebhausen, Einbruch
 {"coords": [7.0083, 52.075], "date": "2025-12-26"}, // Ahaus, Einbrecher
 {"coords": [8.8075, 53.075], "date": "2025-12-26"}, // Bremen, Einbrecher
+{"coords": [9.0958, 54.1958], "date": "2025-12-26"}, // Polizeibeamten Heide, Diebstahl
+{"coords": [9.425, 53.7917], "date": "2025-12-26"}, // Zeugen Glückstadt, Einbruch
+{"coords": [9.2, 49.4], "date": "2025-12-26"}, // Neckar, Einbruch
+{"coords": [8.7106, 48.3925], "date": "2025-12-26"}, // Zeugen Empfingen, Einbruch
+{"coords": [8.8742, 48.7306], "date": "2025-12-26"}, // Öschelbronn, Einbruch

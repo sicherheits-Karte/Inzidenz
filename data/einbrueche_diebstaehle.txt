@@ -5617,3 +5617,4 @@
 {"coords": [10.0, 51.7064], "date": "2025-12-27"}, // Einfamilienhaus Northeim, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2025-12-27"}, // Landau, entwendet
 {"coords": [7.3328, 49.6133], "date": "2025-12-27"}, // Versuchter Einbruchsdiebstahl Baumholder, Einbruch
+//{"coords": [], "date": "2025-12-27"} // Heinbockel mit HSV-Stickern, Einbrecher in Buxtehuder Friseursalon mehr, Einbrecher

@@ -5612,3 +5612,5 @@
 //{"coords": [], "date": "2025-12-27"} // Kneipe Sögel, Einbruch
 {"coords": [8.9167, 50.1333], "date": "2025-12-27"}, // Hanau, Dieb
 {"coords": [8.35, 49.5333], "date": "2025-12-27"}, // Bar Frankenthal, Einbruch
+//{"coords": [], "date": "2025-12-27"} // Ortsbereich Freckenfeld, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2025-12-27"}, // Kennzeichen Einbeck, Diebstahl

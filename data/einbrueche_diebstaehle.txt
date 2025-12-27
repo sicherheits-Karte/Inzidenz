@@ -5610,3 +5610,5 @@
 {"coords": [8.2869, 52.7303], "date": "2025-12-27"}, // Vechta, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2025-12-27"}, // Meppen, Diebstahl
 //{"coords": [], "date": "2025-12-27"} // Kneipe Sögel, Einbruch
+{"coords": [8.9167, 50.1333], "date": "2025-12-27"}, // Hanau, Dieb
+{"coords": [8.35, 49.5333], "date": "2025-12-27"}, // Bar Frankenthal, Einbruch

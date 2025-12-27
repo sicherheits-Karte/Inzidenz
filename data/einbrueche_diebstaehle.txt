@@ -5637,3 +5637,4 @@
 //{"coords": [], "date": "2025-12-27"} // Beurig, Diebstahl
 {"coords": [7.95, 51.4833], "date": "2025-12-27"}, // Neheim, Einbruch
 {"coords": [7.8231, 50.64], "date": "2025-12-27"}, // Hachenburg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-28"}, // Einkaufszentrum Erfurt, Einbruch

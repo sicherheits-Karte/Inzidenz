@@ -5624,3 +5624,4 @@
 {"coords": [8.4353, 49.4811], "date": "2025-12-27"}, // Ludwigshafen, Einbruch
 {"coords": [9.5, 51.3167], "date": "2025-12-27"}, // Niestetal Kassel, Einbrüche
 {"coords": [8.8075, 53.075], "date": "2025-12-27"}, // Bremen, Einbrecher
+{"coords": [11.3, 51.3667], "date": "2025-12-27"}, // Artern, entwendet

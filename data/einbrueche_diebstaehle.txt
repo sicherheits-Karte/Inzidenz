@@ -5615,3 +5615,4 @@
 //{"coords": [], "date": "2025-12-27"} // Ortsbereich Freckenfeld, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2025-12-27"}, // Kennzeichen Einbeck, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2025-12-27"}, // Einfamilienhaus Northeim, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-12-27"}, // Landau, entwendet

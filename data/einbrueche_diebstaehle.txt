@@ -5634,3 +5634,4 @@
 //{"coords": [], "date": "2025-12-27"} // Gartenschuppen, Einbruch
 //{"coords": [], "date": "2025-12-27"} // Sportlerheim Woffleben, Einbruch
 //{"coords": [], "date": "2025-12-27"} // Salon Harztor, Dieb
+//{"coords": [], "date": "2025-12-27"} // Beurig, Diebstahl

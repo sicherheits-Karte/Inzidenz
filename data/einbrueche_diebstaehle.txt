@@ -5629,3 +5629,8 @@
 {"coords": [8.7167, 50.9], "date": "2025-12-27"}, // Kindertagesstätte Wetter, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2025-12-27"}, // Kfz Reutlingen, Einbrüche
 {"coords": [11.0299, 50.9848], "date": "2025-12-27"}, // Erfurt, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-27"}, // Verkehrsunfall Hofheim, Einbrecher
+{"coords": [12.0799, 50.8772], "date": "2025-12-27"}, // Kind Gera, Diebstahl
+//{"coords": [], "date": "2025-12-27"} // Gartenschuppen, Einbruch
+//{"coords": [], "date": "2025-12-27"} // Sportlerheim Woffleben, Einbruch
+//{"coords": [], "date": "2025-12-27"} // Salon Harztor, Dieb

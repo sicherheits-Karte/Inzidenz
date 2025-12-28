@@ -5643,3 +5643,9 @@
 {"coords": [7.6333, 51.6167], "date": "2025-12-28"}, // Vereinsheim Bergkamen, Einbruch
 //{"coords": [], "date": "2025-12-28"} // Bönen, Einbruch
 {"coords": [8.0, 51.45], "date": "2025-12-28"}, // Arnsberg Arnsberg, Einbruch
+//{"coords": [], "date": "2025-12-28"} // Bad Bentheim, entwendet
+{"coords": [8.7917, 51.9917], "date": "2025-12-28"}, // Dorfstraße Lage, Einbruch
+{"coords": [8.6806, 49.9894], "date": "2025-12-28"}, // Straße Rentrup Langen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-28"}, // Dalumer Straße Lingen, Einbruch
+{"coords": [7.3167, 52.3333], "date": "2025-12-28"}, // Bahnhofstraße Emsbüren, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2025-12-28"}, // Apolda, Diebstahl

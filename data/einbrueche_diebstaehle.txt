@@ -5653,3 +5653,4 @@
 {"coords": [7.9833, 51.95], "date": "2025-12-28"}, // Geld Warendorf, Raub
 {"coords": [10.95, 50.8333], "date": "2025-12-28"}, // Kita Arnstadt, Einbruch
 {"coords": [7.9833, 51.95], "date": "2025-12-28"}, // Warendorf, Einbruch
+{"coords": [10.95, 50.8333], "date": "2025-12-28"}, // Arnstadt, Einbruch

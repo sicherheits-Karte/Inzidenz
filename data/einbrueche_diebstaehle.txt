@@ -5683,3 +5683,5 @@
 {"coords": [6.9194, 51.9944], "date": "2025-12-28"}, // Stadtlohn, Einbrecher
 {"coords": [6.7, 51.8333], "date": "2025-12-28"}, // Spielcasino Rhede, Einbruch
 //{"coords": [], "date": "2025-12-28"} // Kreis, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2025-12-28"}, // Heidekreis, entwendet
+//{"coords": [], "date": "2025-12-28"} // Weihnachtseinkauf Lindhorst, Diebstahl

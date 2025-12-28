@@ -5669,3 +5669,5 @@
 //{"coords": [], "date": "2025-12-28"} // Autowerkstatt, Einbruch
 //{"coords": [], "date": "2025-12-28"} // der Zeit vom, Einbruch
 //{"coords": [], "date": "2025-12-28"} // Polizeidirektion Hochtaunus, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2025-12-28"}, // Widerstandshandlungen Frankfurt, Dieb
+{"coords": [8.8075, 53.075], "date": "2025-12-28"}, // Bremen, Raub

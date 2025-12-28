@@ -5672,3 +5672,7 @@
 {"coords": [8.6822, 50.1106], "date": "2025-12-28"}, // Widerstandshandlungen Frankfurt, Dieb
 {"coords": [8.8075, 53.075], "date": "2025-12-28"}, // Bremen, Raub
 {"coords": [7.0116, 51.4556], "date": "2025-12-28"}, // Essen, Einbruch
+{"coords": [7.0042, 51.9542], "date": "2025-12-28"}, // Gescher, eingebrochen
+{"coords": [6.6153, 51.8367], "date": "2025-12-28"}, // Bocholt, eingebrochen
+{"coords": [7.0083, 52.075], "date": "2025-12-28"}, // Einfamilienhaus Ahaus, Einbruch
+{"coords": [6.4667, 51.8333], "date": "2025-12-28"}, // Isselburg, eingebrochen

@@ -5642,3 +5642,4 @@
 {"coords": [9.5, 51.3167], "date": "2025-12-28"}, // Schnellrestaurant Kassel, Raub
 {"coords": [7.6333, 51.6167], "date": "2025-12-28"}, // Vereinsheim Bergkamen, Einbruch
 //{"coords": [], "date": "2025-12-28"} // Bönen, Einbruch
+{"coords": [8.0, 51.45], "date": "2025-12-28"}, // Arnsberg Arnsberg, Einbruch

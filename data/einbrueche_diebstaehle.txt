@@ -5676,3 +5676,10 @@
 {"coords": [6.6153, 51.8367], "date": "2025-12-28"}, // Bocholt, eingebrochen
 {"coords": [7.0083, 52.075], "date": "2025-12-28"}, // Einfamilienhaus Ahaus, Einbruch
 {"coords": [6.4667, 51.8333], "date": "2025-12-28"}, // Isselburg, eingebrochen
+{"coords": [11.5862, 50.9271], "date": "2025-12-28"}, // Einbruch Jena, Einbruch
+{"coords": [8.6306, 53.05], "date": "2025-12-28"}, // Delmenhorst, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-12-28"}, // Brandstiftung Heilbronn, Einbrüche
+//{"coords": [], "date": "2025-12-28"} // Kreis, gestohlen
+{"coords": [6.9194, 51.9944], "date": "2025-12-28"}, // Stadtlohn, Einbrecher
+{"coords": [6.7, 51.8333], "date": "2025-12-28"}, // Spielcasino Rhede, Einbruch
+//{"coords": [], "date": "2025-12-28"} // Kreis, Diebstahl

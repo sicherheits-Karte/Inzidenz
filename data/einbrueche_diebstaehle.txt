@@ -5685,3 +5685,5 @@
 //{"coords": [], "date": "2025-12-28"} // Kreis, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2025-12-28"}, // Heidekreis, entwendet
 //{"coords": [], "date": "2025-12-28"} // Weihnachtseinkauf Lindhorst, Diebstahl
+//{"coords": [], "date": "2025-12-28"} // Wohnungseinbruchsdiebstahl Bad Bergzabern, Einbruch
+{"coords": [8.875, 53.05], "date": "2025-12-28"}, // Osterholz, Einbruch

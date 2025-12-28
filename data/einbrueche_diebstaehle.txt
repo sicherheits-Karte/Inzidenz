@@ -5689,3 +5689,4 @@
 {"coords": [8.875, 53.05], "date": "2025-12-28"}, // Osterholz, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2025-12-28"}, // Einbrüche Reutlingen, Einbrüche
 {"coords": [8.1075, 53.5219], "date": "2025-12-28"}, // Wilhelmshaven, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2025-12-28"}, // Uhr Landkreis Harburg, Einbruch

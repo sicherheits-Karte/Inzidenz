@@ -5662,3 +5662,5 @@
 {"coords": [12.0799, 50.8772], "date": "2025-12-28"}, // Bike Gera, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2025-12-28"}, // Vechta, Einbruch
 {"coords": [13.6906, 53.8564], "date": "2025-12-28"}, // Anklam, Diebstähle
+{"coords": [9.4764, 53.6008], "date": "2025-12-28"}, // Düdenbüttel Stade, Einbrüche
+//{"coords": [], "date": "2025-12-28"} // Herstelle, Einbruch

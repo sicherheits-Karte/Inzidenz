@@ -5698,3 +5698,4 @@
 {"coords": [8.0667, 50.3833], "date": "2025-12-28"}, // Limburg, Diebstahl
 {"coords": [10.5464, 52.4886], "date": "2025-12-28"}, // Gifhorn, Einbruch
 //{"coords": [], "date": "2025-12-28"} // Straßenhaus, Einbruch
+{"coords": [13.0406, 54.1111], "date": "2025-12-29"}, // Grimmen, Diebstahl

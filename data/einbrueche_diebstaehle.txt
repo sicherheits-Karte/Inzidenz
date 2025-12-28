@@ -5687,3 +5687,4 @@
 //{"coords": [], "date": "2025-12-28"} // Weihnachtseinkauf Lindhorst, Diebstahl
 //{"coords": [], "date": "2025-12-28"} // Wohnungseinbruchsdiebstahl Bad Bergzabern, Einbruch
 {"coords": [8.875, 53.05], "date": "2025-12-28"}, // Osterholz, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-28"}, // Einbrüche Reutlingen, Einbrüche

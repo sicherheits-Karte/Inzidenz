@@ -5649,3 +5649,4 @@
 {"coords": [7.3194, 52.5236], "date": "2025-12-28"}, // Dalumer Straße Lingen, Einbruch
 {"coords": [7.3167, 52.3333], "date": "2025-12-28"}, // Bahnhofstraße Emsbüren, Einbruch
 {"coords": [11.5164, 51.0264], "date": "2025-12-28"}, // Apolda, Diebstahl
+//{"coords": [], "date": "2025-12-28"} // Arnulfstraße, Diebstahl

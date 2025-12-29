@@ -5842,3 +5842,17 @@
 {"coords": [9.1919, 48.8975], "date": "2025-12-29"}, // Wohnhaus Ludwigsburg, Einbruch
 {"coords": [8.6333, 51.7167], "date": "2025-12-29"}, // Boke, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2025-12-29"}, // Ausblick Silvester Trier, Diebstahl
+{"coords": [8.6267, 48.1678], "date": "2025-12-29"}, // Rottweil, eingebrochen
+{"coords": [10.7956, 51.5019], "date": "2025-12-29"}, // Nordhausen, Einbruch
+{"coords": [10.3167, 51.4], "date": "2025-12-29"}, // Leinefelde, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Süd, eingebrochen
+{"coords": [8.8731, 51.275], "date": "2025-12-29"}, // Zigarettenautomaten Korbach, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-29"}, // Überfall Aalen, Diebstahl
+{"coords": [9.2167, 48.7333], "date": "2025-12-29"}, // Sillenbuch, eingebrochen
+{"coords": [10.4, 53.25], "date": "2025-12-29"}, // Lüneburg, entwendet
+{"coords": [7.7689, 49.4447], "date": "2025-12-29"}, // Kaiserslautern, Dieb
+{"coords": [10.0075, 53.7064], "date": "2025-12-29"}, // Wochenende Norderstedt, Einbruch
+{"coords": [6.8761, 50.8778], "date": "2025-12-29"}, // Eisdiele Hürth, Einbruch
+{"coords": [6.4667, 51.8333], "date": "2025-12-29"}, // Industriestraße Isselburg, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-12-29"}, // Gütersloh, Einbrüche
+{"coords": [10.2167, 53.95], "date": "2025-12-29"}, // Weihnachtsfeiertag Wahlstedt, Einbruch

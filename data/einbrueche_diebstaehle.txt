@@ -5710,3 +5710,7 @@
 {"coords": [7.9833, 51.95], "date": "2025-12-29"}, // Zweiparteienhaus Warendorf, Einbruch
 //{"coords": [], "date": "2025-12-29"} // Körbecke, Einbruch
 {"coords": [7.85, 52.35], "date": "2025-12-29"}, // Westerkappeln, Einbrüche
+{"coords": [9.1417, 53.8958], "date": "2025-12-29"}, // Bargeld Brunsbüttel, Einbruch
+{"coords": [11.3333, 51.35], "date": "2025-12-29"}, // Einbruch Kalbsrieth, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-12-29"}, // Mehrfamilienhaus Soest, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Bad Waldliesborn, Einbruch

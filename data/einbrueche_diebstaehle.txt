@@ -5884,3 +5884,4 @@
 {"coords": [7.82, 47.99], "date": "2025-12-29"}, // Zeugensuche Freiburg, Diebstahl
 {"coords": [7.82, 47.99], "date": "2025-12-29"}, // Gaststätte Freiburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-12-29"}, // Freiburg, Einbrecher
+//{"coords": [], "date": "2025-12-29"} // Schlierbach, Diebstahl

@@ -5873,3 +5873,5 @@
 {"coords": [8.6833, 50.5833], "date": "2025-12-29"}, // Giessen, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2025-12-29"}, // Schusswaffe Bonn, Raub
 {"coords": [10.0936, 48.8372], "date": "2025-12-29"}, // Farbschmiererei Aalen, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2025-12-29"}, // Personenbeschreibungen Coesfeld, Einbrecher
+{"coords": [7.0982, 50.7374], "date": "2025-12-29"}, // Einbruchsversuch Bonn, Einbruch

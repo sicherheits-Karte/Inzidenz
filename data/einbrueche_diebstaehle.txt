@@ -5856,3 +5856,9 @@
 {"coords": [6.4667, 51.8333], "date": "2025-12-29"}, // Industriestraße Isselburg, Einbruch
 {"coords": [8.3833, 51.9], "date": "2025-12-29"}, // Gütersloh, Einbrüche
 {"coords": [10.2167, 53.95], "date": "2025-12-29"}, // Weihnachtsfeiertag Wahlstedt, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Bullenkuhlen, Einbrüche
+{"coords": [6.7623, 51.4344], "date": "2025-12-29"}, // Duisburg, gestohlen
+{"coords": [8.9167, 50.1333], "date": "2025-12-29"}, // Hanau, Räuber
+//{"coords": [], "date": "2025-12-29"} // Wohnhäuser eingebrochen Queidersbach, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-12-29"}, // Rotenburg, Einbruch
+{"coords": [6.6833, 51.2], "date": "2025-12-29"}, // Neuss, Raub

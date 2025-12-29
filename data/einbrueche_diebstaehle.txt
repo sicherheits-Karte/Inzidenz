@@ -5723,3 +5723,15 @@
 {"coords": [11.3239, 50.9795], "date": "2025-12-29"}, // Nacht Weimar, gestohlen
 {"coords": [10.0936, 48.8372], "date": "2025-12-29"}, // Sonstiges Aalen, Einbrüche
 {"coords": [10.95, 50.8333], "date": "2025-12-29"}, // Garage Arnstadt, Diebstahl
+{"coords": [8.9167, 50.1333], "date": "2025-12-29"}, // Kennzeichenschilder Hanau, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Kein Ort gefunden, entwendet
+{"coords": [9.0, 50.7333], "date": "2025-12-29"}, // Kompletträdern Homberg, Diebstahl
+{"coords": [9.6333, 51.65], "date": "2025-12-29"}, // Diebstahl Uslar, Diebstahl
+//{"coords": [], "date": "2025-12-29"} // Apotheke mehr, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-12-29"}, // Unfall Heilbronn, Einbruch
+{"coords": [8.7, 50.0167], "date": "2025-12-29"}, // Heiligabend Dreieich, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-29"}, // Ulm, Einbrecher
+{"coords": [8.7667, 51.7167], "date": "2025-12-29"}, // Paderborn, Einbrüche
+//{"coords": [], "date": "2025-12-29"} // Salmünster, Raub
+{"coords": [8.6, 51.6833], "date": "2025-12-29"}, // Hausbewohner Salzkotten, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Aderborn, Einbruch

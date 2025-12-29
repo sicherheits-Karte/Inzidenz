@@ -5817,3 +5817,16 @@
 {"coords": [11.0767, 49.4521], "date": "2025-12-29"}, // Nürnberg, aufbruch
 //{"coords": [], "date": "2025-12-29"} // Bad Herrenalb, Einbruch
 {"coords": [7.1508, 51.2562], "date": "2025-12-29"}, // Wuppertal, Raub
+{"coords": [8.5331, 52.021], "date": "2025-12-29"}, // Weihnachtswoche Bielefeld, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2025-12-29"}, // Einbrecher Bielefeld, eingebrochen
+{"coords": [9.1919, 48.8975], "date": "2025-12-29"}, // Mal Ludwigsburg, aufbrechen
+//{"coords": [], "date": "2025-12-29"} // Kein Ort gefunden, gestohlen
+{"coords": [8.5331, 52.021], "date": "2025-12-29"}, // Bielefeld, gestohlen
+{"coords": [7.0083, 52.075], "date": "2025-12-29"}, // Ahaus, entwendet
+{"coords": [10.8978, 48.3705], "date": "2025-12-29"}, // Einbrüchen Augsburg, Einbrüche
+{"coords": [8.6822, 50.1106], "date": "2025-12-29"}, // Zeugenaufruf Frankfurt, Diebstahl
+//{"coords": [], "date": "2025-12-29"} // Ellmendingen, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-12-29"}, // Oelder Straße Gütersloh, Einbruch
+{"coords": [9.5, 51.3167], "date": "2025-12-29"}, // Kassel, Einbruch
+{"coords": [8.9167, 52.3], "date": "2025-12-29"}, // Feiertagen Minden, aufbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-29"}, // Audi Erfurt, Dieb

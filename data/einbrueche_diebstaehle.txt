@@ -5869,3 +5869,7 @@
 {"coords": [9.6694, 53.6875], "date": "2025-12-29"}, // Mehrfamilienhaus Uetersen, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2025-12-29"}, // Unfallflucht Hofheim, Einbruch
 //{"coords": [], "date": "2025-12-29"} // Höhe, Einbrecher
+{"coords": [12.0991, 54.0924], "date": "2025-12-29"}, // Rostock Rostock, aufbruch
+{"coords": [8.6833, 50.5833], "date": "2025-12-29"}, // Giessen, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-12-29"}, // Schusswaffe Bonn, Raub
+{"coords": [10.0936, 48.8372], "date": "2025-12-29"}, // Farbschmiererei Aalen, Diebstahl

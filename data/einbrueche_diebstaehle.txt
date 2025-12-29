@@ -5790,3 +5790,5 @@
 {"coords": [6.5139, 51.1917], "date": "2025-12-29"}, // Fahrrad Korschenbroich, Einbrecher
 //{"coords": [], "date": "2025-12-29"} // Grenzhausen, Diebstähle
 //{"coords": [], "date": "2025-12-29"} // Kein Ort gefunden, Dieb
+{"coords": [8.705, 48.895], "date": "2025-12-29"}, // Pforzheim, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Sankt Augustin, Dieb

@@ -5830,3 +5830,15 @@
 {"coords": [9.5, 51.3167], "date": "2025-12-29"}, // Kassel, Einbruch
 {"coords": [8.9167, 52.3], "date": "2025-12-29"}, // Feiertagen Minden, aufbruch
 {"coords": [11.0299, 50.9848], "date": "2025-12-29"}, // Audi Erfurt, Dieb
+//{"coords": [], "date": "2025-12-29"} // einem bisher bekannten Zeitraum von, Einbruch
+{"coords": [9.6536, 53.7547], "date": "2025-12-29"}, // Bargeld Elmshorn, Raub
+{"coords": [7.4836, 53.4711], "date": "2025-12-29"}, // Landkreis Aurich, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-12-29"}, // Hinweise Recklinghausen, Einbrüche
+//{"coords": [], "date": "2025-12-29"} // Hubert, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2025-12-29"}, // Zeugensuche Duisburg, Raub
+{"coords": [10.0528, 51.1889], "date": "2025-12-29"}, // Eschwege, Einbruch
+{"coords": [9.5164, 53.925], "date": "2025-12-29"}, // Technik Itzehoe, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2025-12-29"}, // Sömmerda, Dieb
+{"coords": [9.1919, 48.8975], "date": "2025-12-29"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [8.6333, 51.7167], "date": "2025-12-29"}, // Boke, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2025-12-29"}, // Ausblick Silvester Trier, Diebstahl

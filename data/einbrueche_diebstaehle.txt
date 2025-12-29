@@ -5714,3 +5714,7 @@
 {"coords": [11.3333, 51.35], "date": "2025-12-29"}, // Einbruch Kalbsrieth, Einbruch
 {"coords": [8.1092, 51.5711], "date": "2025-12-29"}, // Mehrfamilienhaus Soest, Einbruch
 //{"coords": [], "date": "2025-12-29"} // Bad Waldliesborn, Einbruch
+{"coords": [7.1, 52.6167], "date": "2025-12-29"}, // Twist, Diebstahl
+{"coords": [7.4044, 53.0772], "date": "2025-12-29"}, // Friederikenstraße Papenburg, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-12-29"}, // Mehrfamilienhauses Nordhorn, Einbruch
+{"coords": [7.2333, 52.3167], "date": "2025-12-29"}, // Postfiliale Schüttorf, Einbruch

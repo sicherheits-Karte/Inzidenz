@@ -5792,3 +5792,10 @@
 //{"coords": [], "date": "2025-12-29"} // Kein Ort gefunden, Dieb
 {"coords": [8.705, 48.895], "date": "2025-12-29"}, // Pforzheim, Einbruch
 //{"coords": [], "date": "2025-12-29"} // Sankt Augustin, Dieb
+{"coords": [9.9937, 53.5511], "date": "2025-12-29"}, // Schnelsen Hamburg, Einbrecher
+//{"coords": [], "date": "2025-12-29"} // Villingen, gestohlen
+//{"coords": [], "date": "2025-12-29"} // Hilzingen, Einbruch
+{"coords": [10.0833, 48.2833], "date": "2025-12-29"}, // Vöhringen, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Dietersweiler, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-12-29"}, // Heidelberg Heidelberg, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Feuerwerk gescheitert mehr, Diebstahl

@@ -5775,3 +5775,18 @@
 {"coords": [7.1675, 51.9436], "date": "2025-12-29"}, // Coesfeld, entwendet
 {"coords": [8.6167, 49.6833], "date": "2025-12-29"}, // Bensheim, Einbrüche
 {"coords": [10.7333, 50.65], "date": "2025-12-29"}, // Mehlis, eingebrochen
+{"coords": [8.4661, 49.4878], "date": "2025-12-29"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [9.9592, 53.8392], "date": "2025-12-29"}, // Kaltenkirchen, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-12-29"}, // Karlsruher Stadtgebiet Karlsruhe, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2025-12-29"}, // Versuchter Einbruch Fulda, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Kreis, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2025-12-29"}, // Lippe, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2025-12-29"}, // Bremerhaven, Diebstahl
+{"coords": [9.9833, 53.3833], "date": "2025-12-29"}, // Hittfeld, Einbruch
+{"coords": [7.7736, 51.0236], "date": "2025-12-29"}, // Drolshagen, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-12-29"}, // Bochum, entwendet
+{"coords": [7.1675, 51.9436], "date": "2025-12-29"}, // Terrassentür Coesfeld, Dieb
+{"coords": [8.3833, 51.9], "date": "2025-12-29"}, // Kleistraße Gütersloh, Raub
+{"coords": [6.5139, 51.1917], "date": "2025-12-29"}, // Fahrrad Korschenbroich, Einbrecher
+//{"coords": [], "date": "2025-12-29"} // Grenzhausen, Diebstähle
+//{"coords": [], "date": "2025-12-29"} // Kein Ort gefunden, Dieb

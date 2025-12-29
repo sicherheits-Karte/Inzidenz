@@ -5699,3 +5699,5 @@
 {"coords": [10.5464, 52.4886], "date": "2025-12-28"}, // Gifhorn, Einbruch
 //{"coords": [], "date": "2025-12-28"} // Straßenhaus, Einbruch
 {"coords": [13.0406, 54.1111], "date": "2025-12-29"}, // Grimmen, Diebstahl
+{"coords": [8.3658, 49.6306], "date": "2025-12-29"}, // Einfamilienhaus Worms, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-29"}, // Aalen, Einbruch

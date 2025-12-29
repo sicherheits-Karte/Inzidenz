@@ -5862,3 +5862,10 @@
 //{"coords": [], "date": "2025-12-29"} // Wohnhäuser eingebrochen Queidersbach, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2025-12-29"}, // Rotenburg, Einbruch
 {"coords": [6.6833, 51.2], "date": "2025-12-29"}, // Neuss, Raub
+{"coords": [9.6536, 53.7547], "date": "2025-12-29"}, // Haft Elmshorn, Raub
+{"coords": [6.5617, 51.3317], "date": "2025-12-29"}, // Krefeld, gestohlen
+{"coords": [8.24, 50.0822], "date": "2025-12-29"}, // Unfall Wiesbaden, Einbrüche
+{"coords": [8.0667, 50.3833], "date": "2025-12-29"}, // Limburg, gestohlen
+{"coords": [9.6694, 53.6875], "date": "2025-12-29"}, // Mehrfamilienhaus Uetersen, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2025-12-29"}, // Unfallflucht Hofheim, Einbruch
+//{"coords": [], "date": "2025-12-29"} // Höhe, Einbrecher

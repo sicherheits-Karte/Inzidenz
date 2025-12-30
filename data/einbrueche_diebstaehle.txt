@@ -6018,3 +6018,14 @@
 {"coords": [8.4833, 49.75], "date": "2025-12-30"}, // Restaurant Gernsheim, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2025-12-30"}, // Juwelier Heilbronn, Einbruch
 {"coords": [9.2714, 50.7511], "date": "2025-12-30"}, // Büroräume Alsfeld, Einbruch
+{"coords": [8.6306, 53.05], "date": "2025-12-30"}, // Delmenhorst, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-30"}, // Unfall Aalen, aufbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-12-30"}, // Dieseldiebstahl Aalen, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Kommern, entwendet
+{"coords": [8.4043, 49.014], "date": "2025-12-30"}, // Betrieb Karlsruhe, Einbruch
+{"coords": [11.1, 48.7167], "date": "2025-12-30"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2025-12-30"}, // Frankfurt, Raub
+{"coords": [6.315, 51.0794], "date": "2025-12-30"}, // Erkelenz, entwendet
+//{"coords": [], "date": "2025-12-30"} // Tageswohnungseinbruch Geilenkirchen, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Stahe, stahl
+{"coords": [10.4278, 51.9042], "date": "2025-12-30"}, // Goslar, entwendet

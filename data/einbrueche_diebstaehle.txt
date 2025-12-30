@@ -5887,3 +5887,7 @@
 //{"coords": [], "date": "2025-12-29"} // Schlierbach, Diebstahl
 {"coords": [9.95, 52.15], "date": "2025-12-29"}, // Kupferrohren Hildesheim, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2025-12-29"}, // Pressemitteilung Polizeipräsidium Aalen Aalen, Raub
+{"coords": [7.6333, 51.1], "date": "2025-12-30"}, // Auto Meinerzhagen, Dieb
+{"coords": [7.75, 51.3833], "date": "2025-12-30"}, // Sportgeschäft Hemer, Einbruch
+{"coords": [8.6925, 52.1986], "date": "2025-12-30"}, // Diebesgut Löhne, Einbruch
+{"coords": [8.6833, 52.15], "date": "2025-12-30"}, // Abwesenheit Herford, Einbruch

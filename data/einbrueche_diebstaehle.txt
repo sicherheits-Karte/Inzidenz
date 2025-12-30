@@ -5994,3 +5994,9 @@
 {"coords": [7.6889, 51.5347], "date": "2025-12-30"}, // Mobilfunkgeschäft Unna, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2025-12-30"}, // Coesfeld, Einbrecher
 {"coords": [9.5164, 53.925], "date": "2025-12-30"}, // Feuerwerkskörper Itzehoe, gestohlen
+//{"coords": [], "date": "2025-12-30"} // Zeugenhinweise Groß Nordende, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2025-12-30"}, // Landkreis Aurich, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Baustelle Bad Pyrmont, Diebstahl
+//{"coords": [], "date": "2025-12-30"} // Hachmühlen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-30"}, // Pakete Erfurt, Dieb
+{"coords": [9.6775, 50.5528], "date": "2025-12-30"}, // Feuerwerkskörper Fulda, entwendet

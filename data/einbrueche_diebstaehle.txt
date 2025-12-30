@@ -5925,3 +5925,18 @@
 {"coords": [9.1919, 48.8975], "date": "2025-12-30"}, // Schule Ludwigsburg, Einbruch
 {"coords": [11.7667, 51.8333], "date": "2025-12-30"}, // Nienburg, Diebstahl
 {"coords": [6.1353, 51.7875], "date": "2025-12-30"}, // Kleve, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-12-30"}, // Silvesterfeuerwerk Bielefeld, Einbrecher
+{"coords": [7.6158, 50.8767], "date": "2025-12-30"}, // Sportlerheim Waldbröl, Einbruch
+{"coords": [7.3, 51.1333], "date": "2025-12-30"}, // Hückeswagen, Einbrecher
+{"coords": [7.5333, 51.05], "date": "2025-12-30"}, // Marienheide, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2025-12-30"}, // Einfamilienhaus Stade, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Wohnhaus Satde, Einbruch
+{"coords": [8.6267, 48.1678], "date": "2025-12-30"}, // Rottweil, entwendet
+{"coords": [6.75, 51.5833], "date": "2025-12-30"}, // Parkscheinautomaten Dinslaken, aufbruch
+{"coords": [6.7583, 51.6417], "date": "2025-12-30"}, // Zeugen Hünxe, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Immelborn, Einbruch
+//{"coords": [], "date": "2025-12-30"} // einem Ludwigsluster Discountmarkt im Einsatz. Gegen, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2025-12-30"}, // Rüttelplatte Mönchengladbach, Dieb
+{"coords": [6.5875, 51.0883], "date": "2025-12-30"}, // Imbiss Grevenbroich, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Hinweise Schermbeck, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-30"}, // Kindertagesstätte Ludwigsburg, Einbruch

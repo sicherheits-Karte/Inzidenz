@@ -6058,3 +6058,5 @@
 {"coords": [7.2511, 50.5442], "date": "2025-12-30"}, // Tat Sinzig, Dieb
 //{"coords": [], "date": "2025-12-30"} // Kein Ort gefunden, Diebstahl
 //{"coords": [], "date": "2025-12-30"} // Rheingönheim, Einbrüche
+{"coords": [8.9519, 49.9667], "date": "2025-12-30"}, // Zeugen Babenhausen, Diebstahl
+//{"coords": [], "date": "2025-12-30"} // Ramstadt, entwendet

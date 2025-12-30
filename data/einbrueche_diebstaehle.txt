@@ -5899,3 +5899,5 @@
 //{"coords": [], "date": "2025-12-30"} // Olsberg, Einbruch
 {"coords": [8.5833, 53.55], "date": "2025-12-30"}, // Mitte, Einbruch
 {"coords": [7.9167, 51.5833], "date": "2025-12-30"}, // Hövel, gestohlen
+//{"coords": [], "date": "2025-12-30"} // Kaarst, Raub
+{"coords": [12.4333, 50.985], "date": "2025-12-30"}, // Altenburg, gestohlen

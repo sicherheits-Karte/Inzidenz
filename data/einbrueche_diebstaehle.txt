@@ -5940,3 +5940,13 @@
 {"coords": [6.5875, 51.0883], "date": "2025-12-30"}, // Imbiss Grevenbroich, Einbruch
 //{"coords": [], "date": "2025-12-30"} // Hinweise Schermbeck, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2025-12-30"}, // Kindertagesstätte Ludwigsburg, Einbruch
+{"coords": [8.8075, 53.075], "date": "2025-12-30"}, // Oslebshausen-- Bremen, Raub
+{"coords": [10.6866, 53.8655], "date": "2025-12-30"}, // Discounter Lübeck, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-12-30"}, // Ulm, Einbrecher
+{"coords": [9.1167, 48.775], "date": "2025-12-30"}, // Botnang, eingebrochen
+{"coords": [9.984, 54.0714], "date": "2025-12-30"}, // Neumünster, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-12-30"}, // Hildesheim, Einbruch
+{"coords": [8.4833, 53.1833], "date": "2025-12-30"}, // Berne Delmenhorst, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Masserberg, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2025-12-30"}, // Lippe, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2025-12-30"}, // Einfamilienhäuser Ludwigsburg, Einbrüche

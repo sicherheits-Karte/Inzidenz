@@ -6011,3 +6011,4 @@
 {"coords": [6.3319, 51.5194], "date": "2025-12-30"}, // Geldern, entwendet
 {"coords": [6.6167, 51.75], "date": "2025-12-30"}, // Zeugen Rees, entwendet
 {"coords": [6.3319, 51.5194], "date": "2025-12-30"}, // Geldern, Einbruch
+{"coords": [8.3658, 49.6306], "date": "2025-12-30"}, // Zeugen Worms, entwendet

@@ -6014,3 +6014,7 @@
 {"coords": [8.3658, 49.6306], "date": "2025-12-30"}, // Zeugen Worms, entwendet
 {"coords": [6.7623, 51.4344], "date": "2025-12-30"}, // Zeugen Duisburg, stehlen
 {"coords": [7.1667, 50.8167], "date": "2025-12-30"}, // Troisdorf, Dieb
+{"coords": [9.4, 48.6833], "date": "2025-12-30"}, // Neuhausen, Einbruch
+{"coords": [8.4833, 49.75], "date": "2025-12-30"}, // Restaurant Gernsheim, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-12-30"}, // Juwelier Heilbronn, Einbruch
+{"coords": [9.2714, 50.7511], "date": "2025-12-30"}, // Büroräume Alsfeld, Einbruch

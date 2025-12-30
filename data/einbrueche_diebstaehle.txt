@@ -5956,3 +5956,6 @@
 //{"coords": [], "date": "2025-12-30"} // Meckelfeld, Einbrecher
 {"coords": [10.7956, 51.5019], "date": "2025-12-30"}, // Diebstahl Nordhausen, Diebstahl
 {"coords": [7.3333, 51.4333], "date": "2025-12-30"}, // Witten, Einbruch
+{"coords": [11.9, 49.95], "date": "2025-12-30"}, // Brand Heidekreis, entwendet
+//{"coords": [], "date": "2025-12-30"} // Dreiste Diebe Lingenfeld, Dieb
+{"coords": [8.875, 53.05], "date": "2025-12-30"}, // Osterholz, Einbruch

@@ -6040,3 +6040,15 @@
 {"coords": [9.0, 47.85], "date": "2025-12-30"}, // Stockach, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-12-30"}, // Wohnung Freiburg, Einbruch
 {"coords": [7.1, 51.5167], "date": "2025-12-30"}, // Gelsenkirchen, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-12-30"}, // Kaiserslautern, gestohlen
+{"coords": [7.9833, 51.95], "date": "2025-12-30"}, // Lager Warendorf, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Landkreis Verden, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2025-12-30"}, // Giessen, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Reisiek, Einbruch
+{"coords": [9.8222, 53.6028], "date": "2025-12-30"}, // der Straße Bi de Windmöl in Schenefeld ein Einbruch in ein Einfamilienhaus. Die Kriminalpolizei Pinneberg hat die Ermittlungen aufgenommen und bittet die Bevölkerung um Mithilfe. Nach ersten Erkenntnissen der Ermittler drangen unbekannte Täter zwischen, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2025-12-30"}, // Nürnberg, Raub
+{"coords": [7.0042, 51.9542], "date": "2025-12-30"}, // Firmengebäude Gescher, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Vogelbusch, Schapdettener Straße, Dieb
+{"coords": [7.0083, 52.075], "date": "2025-12-30"}, // Zeugen Ahaus, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-12-30"}, // Hinweise Recklinghausen, Einbruch
+{"coords": [10.2333, 49.5333], "date": "2025-12-30"}, // Uffenheim, Raub

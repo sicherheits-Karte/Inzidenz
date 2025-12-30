@@ -5959,3 +5959,16 @@
 {"coords": [11.9, 49.95], "date": "2025-12-30"}, // Brand Heidekreis, entwendet
 //{"coords": [], "date": "2025-12-30"} // Dreiste Diebe Lingenfeld, Dieb
 {"coords": [8.875, 53.05], "date": "2025-12-30"}, // Osterholz, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-30"}, // Kaminbrand Reutlingen, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2025-12-30"}, // Zeugenaufruf Cuxhaven, Diebstahl
+//{"coords": [], "date": "2025-12-30"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2025-12-30"} // Zeugen Aldenhoven, Einbruch
+{"coords": [6.4833, 50.8], "date": "2025-12-30"}, // Düren, Raub
+{"coords": [8.5847, 53.5469], "date": "2025-12-30"}, // Kraftstoff Bremerhaven, Dieb
+{"coords": [6.4833, 50.8], "date": "2025-12-30"}, // Zeugen Düren, Diebstahl
+{"coords": [6.4833, 50.8], "date": "2025-12-30"}, // Düren, Einbruch
+{"coords": [9.1417, 53.8958], "date": "2025-12-30"}, // Zeugen Brunsbüttel, entwendet
+{"coords": [6.4833, 50.8], "date": "2025-12-30"}, // Zeugen Düren, Einbruch
+{"coords": [9.2, 49.4], "date": "2025-12-30"}, // Neckar, entwendet
+//{"coords": [], "date": "2025-12-30"} // Lenne, Einbruch
+{"coords": [8.2711, 50.0], "date": "2025-12-30"}, // Umkleidekabine Mainz, Dieb

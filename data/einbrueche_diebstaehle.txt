@@ -5891,3 +5891,11 @@
 {"coords": [7.75, 51.3833], "date": "2025-12-30"}, // Sportgeschäft Hemer, Einbruch
 {"coords": [8.6925, 52.1986], "date": "2025-12-30"}, // Diebesgut Löhne, Einbruch
 {"coords": [8.6833, 52.15], "date": "2025-12-30"}, // Abwesenheit Herford, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-12-30"}, // Wohnhaus Weimar, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Kreis, eingebrochen
+//{"coords": [], "date": "2025-12-30"} // Kreis, gestohlen
+{"coords": [11.5862, 50.9271], "date": "2025-12-30"}, // Seniorenheim Jena, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2025-12-30"}, // Jena, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Olsberg, Einbruch
+{"coords": [8.5833, 53.55], "date": "2025-12-30"}, // Mitte, Einbruch
+{"coords": [7.9167, 51.5833], "date": "2025-12-30"}, // Hövel, gestohlen

@@ -5901,3 +5901,5 @@
 {"coords": [7.9167, 51.5833], "date": "2025-12-30"}, // Hövel, gestohlen
 //{"coords": [], "date": "2025-12-30"} // Kaarst, Raub
 {"coords": [12.4333, 50.985], "date": "2025-12-30"}, // Altenburg, gestohlen
+{"coords": [7.2162, 51.4818], "date": "2025-12-30"}, // Tatverdächtigen Bochum, Raub
+//{"coords": [], "date": "2025-12-30"} // Schloß Neuhaus, Einbrecher

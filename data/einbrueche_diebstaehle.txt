@@ -5909,3 +5909,9 @@
 {"coords": [8.1075, 53.5219], "date": "2025-12-30"}, // Wilhelmshaven Wilhelmshaven, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2025-12-30"}, // Werkstatt Warendorf, Einbruch
 {"coords": [7.6667, 51.5833], "date": "2025-12-30"}, // Hochparterrewohnung Kamen, Einbruch
+{"coords": [8.8333, 50.15], "date": "2025-12-30"}, // Maintal, Einbrecher
+{"coords": [8.705, 48.895], "date": "2025-12-30"}, // Pforzheim, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2025-12-30"}, // Suhl, aufbrüche
+{"coords": [12.7628, 53.7392], "date": "2025-12-30"}, // Malchin Malchin, entwendet
+//{"coords": [], "date": "2025-12-30"} // Selm, Raub
+{"coords": [7.2, 51.6167], "date": "2025-12-30"}, // Recklinghausen, Raub

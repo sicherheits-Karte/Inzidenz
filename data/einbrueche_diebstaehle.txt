@@ -5950,3 +5950,9 @@
 //{"coords": [], "date": "2025-12-30"} // Masserberg, Diebstahl
 {"coords": [8.8667, 51.9333], "date": "2025-12-30"}, // Lippe, gestohlen
 {"coords": [9.1919, 48.8975], "date": "2025-12-30"}, // Einfamilienhäuser Ludwigsburg, Einbrüche
+{"coords": [7.0116, 51.4556], "date": "2025-12-30"}, // Zeugenaufruf Essen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-30"}, // Ulm, Dieb
+//{"coords": [], "date": "2025-12-30"} // Pkw Bad Frankenhausen, Diebstahl
+//{"coords": [], "date": "2025-12-30"} // Meckelfeld, Einbrecher
+{"coords": [10.7956, 51.5019], "date": "2025-12-30"}, // Diebstahl Nordhausen, Diebstahl
+{"coords": [7.3333, 51.4333], "date": "2025-12-30"}, // Witten, Einbruch

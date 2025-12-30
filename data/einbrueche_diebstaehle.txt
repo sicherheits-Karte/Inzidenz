@@ -6000,3 +6000,14 @@
 //{"coords": [], "date": "2025-12-30"} // Hachmühlen, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2025-12-30"}, // Pakete Erfurt, Dieb
 {"coords": [9.6775, 50.5528], "date": "2025-12-30"}, // Feuerwerkskörper Fulda, entwendet
+{"coords": [8.3194, 48.8039], "date": "2025-12-30"}, // Gaggenau, Einbrüche
+{"coords": [6.6264, 51.4519], "date": "2025-12-30"}, // Moerser Innenstadt Moers, Raub
+{"coords": [8.3833, 51.9], "date": "2025-12-30"}, // Postdamm Gütersloh, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Kreis, Diebstahl
+{"coords": [7.825, 50.4358], "date": "2025-12-30"}, // Polizei Montabaur, Diebstähle
+{"coords": [11.0299, 50.9848], "date": "2025-12-30"}, // Sachschaden Erfurt, Einbruch
+//{"coords": [], "date": "2025-12-30"} // Zeugen Uedem, Einbrüche
+{"coords": [11.4012, 53.6355], "date": "2025-12-30"}, // Hinweise Schwerin, Raub
+{"coords": [6.3319, 51.5194], "date": "2025-12-30"}, // Geldern, entwendet
+{"coords": [6.6167, 51.75], "date": "2025-12-30"}, // Zeugen Rees, entwendet
+{"coords": [6.3319, 51.5194], "date": "2025-12-30"}, // Geldern, Einbruch

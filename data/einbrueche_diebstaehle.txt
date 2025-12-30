@@ -5972,3 +5972,20 @@
 {"coords": [9.2, 49.4], "date": "2025-12-30"}, // Neckar, entwendet
 //{"coords": [], "date": "2025-12-30"} // Lenne, Einbruch
 {"coords": [8.2711, 50.0], "date": "2025-12-30"}, // Umkleidekabine Mainz, Dieb
+{"coords": [7.1675, 51.9436], "date": "2025-12-30"}, // Wohnungseinbruch Coesfeld, Einbruch
+{"coords": [10.6866, 53.8655], "date": "2025-12-30"}, // Zeugen Lübeck, entwendet
+//{"coords": [], "date": "2025-12-30"} // Gesamtschule, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-12-30"}, // Bielefeld, Dieb
+{"coords": [8.0, 51.45], "date": "2025-12-30"}, // Herdringen Arnsberg, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-12-30"}, // Einbrüche Coesfeld, Einbrüche
+//{"coords": [], "date": "2025-12-30"} // Kreis, Einbrecher
+{"coords": [8.4661, 49.4878], "date": "2025-12-30"}, // Zeugenaufruf Mannheim, Einbrecher
+{"coords": [6.5617, 51.3317], "date": "2025-12-30"}, // Krefeld, entwendet
+{"coords": [8.4661, 49.4878], "date": "2025-12-30"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-30"}, // Bargeld Erfurt, Dieb
+{"coords": [10.9887, 49.4771], "date": "2025-12-30"}, // Fürth, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-12-30"}, // Taschendiebstahl Northeim, Diebstahl
+//{"coords": [], "date": "2025-12-30"} // Weidenhausen, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-12-30"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2025-12-30"} // Ferndorf, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2025-12-30"}, // Northeim, Dieb

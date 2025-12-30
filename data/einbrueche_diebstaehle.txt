@@ -6054,3 +6054,7 @@
 {"coords": [10.2333, 49.5333], "date": "2025-12-30"}, // Uffenheim, Raub
 {"coords": [8.6833, 50.5833], "date": "2025-12-30"}, // Giessen, Einbrüche
 {"coords": [10.6866, 53.8655], "date": "2025-12-30"}, // Lübeck, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2025-12-30"}, // Zeugenaufruf Mannheim, gestohlen
+{"coords": [7.2511, 50.5442], "date": "2025-12-30"}, // Tat Sinzig, Dieb
+//{"coords": [], "date": "2025-12-30"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2025-12-30"} // Rheingönheim, Einbrüche

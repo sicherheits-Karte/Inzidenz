@@ -6069,3 +6069,4 @@
 {"coords": [6.1667, 51.6833], "date": "2025-12-31"}, // Goch, Diebstahl
 {"coords": [7.3194, 52.5236], "date": "2025-12-31"}, // Ladenlokal Lingen, Einbruch
 {"coords": [7.2417, 52.7922], "date": "2025-12-31"}, // Blumengeschäft Haren, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2025-12-31"}, // Osnabrück, Einbruch

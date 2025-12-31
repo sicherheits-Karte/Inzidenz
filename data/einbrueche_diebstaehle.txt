@@ -6070,3 +6070,9 @@
 {"coords": [7.3194, 52.5236], "date": "2025-12-31"}, // Ladenlokal Lingen, Einbruch
 {"coords": [7.2417, 52.7922], "date": "2025-12-31"}, // Blumengeschäft Haren, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2025-12-31"}, // Osnabrück, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-31"}, // Diebstahl Aalen, Diebstahl
+{"coords": [7.3608, 49.2492], "date": "2025-12-31"}, // Taschendiebstahl Zweibrücken, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-31"}, // Fahrbahn Aalen, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-12-31"}, // Heidelberg, gestohlen
+{"coords": [9.55, 49.3167], "date": "2025-12-31"}, // Hohenlohekreis, entwendet
+{"coords": [9.2108, 49.1425], "date": "2025-12-31"}, // Dieben Heilbronn, Einbruch

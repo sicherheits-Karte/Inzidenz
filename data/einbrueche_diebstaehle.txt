@@ -6064,3 +6064,5 @@
 //{"coords": [], "date": "2025-12-31"} // Holzwickede, Einbruch
 {"coords": [7.7333, 51.4667], "date": "2025-12-31"}, // Fröndenberg, Einbruch
 {"coords": [12.4333, 50.985], "date": "2025-12-31"}, // Altenburg, Dieb
+{"coords": [9.8333, 53.95], "date": "2025-12-31"}, // Humboldtstraße Hagen, Einbruch
+{"coords": [8.7167, 50.9], "date": "2025-12-31"}, // Bäckerei Wetter, Einbruch

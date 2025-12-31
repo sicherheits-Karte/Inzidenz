@@ -6062,3 +6062,4 @@
 //{"coords": [], "date": "2025-12-30"} // Ramstadt, entwendet
 {"coords": [8.3333, 51.35], "date": "2025-12-31"}, // Einfamilienhaus Bestwig, Einbruch
 //{"coords": [], "date": "2025-12-31"} // Holzwickede, Einbruch
+{"coords": [7.7333, 51.4667], "date": "2025-12-31"}, // Fröndenberg, Einbruch

@@ -6080,3 +6080,4 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-31"}, // Verkehrsunfall Reutlingen, Einbruch
 //{"coords": [], "date": "2025-12-31"} // Horneburg und flüchtet, Einbruch
 {"coords": [8.6306, 53.05], "date": "2025-12-31"}, // Kellerabteil Delmenhorst, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2025-12-31"}, // Emden, Raub

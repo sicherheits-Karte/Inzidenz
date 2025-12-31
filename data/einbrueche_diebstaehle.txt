@@ -6084,3 +6084,4 @@
 {"coords": [10.4167, 50.55], "date": "2025-12-31"}, // Meiningen Meiningen, Einbrüche
 {"coords": [8.875, 53.05], "date": "2025-12-31"}, // Osterholz, Diebstahl
 {"coords": [10.4167, 50.55], "date": "2025-12-31"}, // Hausbewohnern Meiningen, Dieb
+{"coords": [8.4414, 50.0919], "date": "2025-12-31"}, // Verkehrsunfallflucht Hofheim, Räuber

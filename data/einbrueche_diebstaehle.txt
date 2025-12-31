@@ -6081,3 +6081,6 @@
 //{"coords": [], "date": "2025-12-31"} // Horneburg und flüchtet, Einbruch
 {"coords": [8.6306, 53.05], "date": "2025-12-31"}, // Kellerabteil Delmenhorst, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2025-12-31"}, // Emden, Raub
+{"coords": [10.4167, 50.55], "date": "2025-12-31"}, // Meiningen Meiningen, Einbrüche
+{"coords": [8.875, 53.05], "date": "2025-12-31"}, // Osterholz, Diebstahl
+{"coords": [10.4167, 50.55], "date": "2025-12-31"}, // Hausbewohnern Meiningen, Dieb

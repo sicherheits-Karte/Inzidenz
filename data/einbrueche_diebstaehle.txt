@@ -6066,3 +6066,4 @@
 {"coords": [12.4333, 50.985], "date": "2025-12-31"}, // Altenburg, Dieb
 {"coords": [9.8333, 53.95], "date": "2025-12-31"}, // Humboldtstraße Hagen, Einbruch
 {"coords": [8.7167, 50.9], "date": "2025-12-31"}, // Bäckerei Wetter, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2025-12-31"}, // Goch, Diebstahl

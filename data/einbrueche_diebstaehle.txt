@@ -6067,3 +6067,5 @@
 {"coords": [9.8333, 53.95], "date": "2025-12-31"}, // Humboldtstraße Hagen, Einbruch
 {"coords": [8.7167, 50.9], "date": "2025-12-31"}, // Bäckerei Wetter, Einbruch
 {"coords": [6.1667, 51.6833], "date": "2025-12-31"}, // Goch, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-12-31"}, // Ladenlokal Lingen, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2025-12-31"}, // Blumengeschäft Haren, Einbruch

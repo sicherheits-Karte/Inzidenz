@@ -6076,3 +6076,4 @@
 {"coords": [8.6944, 49.4092], "date": "2025-12-31"}, // Heidelberg, gestohlen
 {"coords": [9.55, 49.3167], "date": "2025-12-31"}, // Hohenlohekreis, entwendet
 {"coords": [9.2108, 49.1425], "date": "2025-12-31"}, // Dieben Heilbronn, Einbruch
+{"coords": [8.5333, 48.0667], "date": "2025-12-31"}, // Schwenningen, Einbruch

@@ -6120,3 +6120,5 @@
 {"coords": [8.3708, 52.6078], "date": "2026-01-01"}, // Diepholz, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-01-01"}, // Augsburg, Dieb
 {"coords": [8.24, 50.0822], "date": "2026-01-01"}, // Wiesbaden, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-01-01"}, // Hofheim, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-01-01"}, // Zeugen Kleve, Einbruch

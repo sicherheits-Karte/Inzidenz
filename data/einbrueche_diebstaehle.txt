@@ -6089,3 +6089,4 @@
 {"coords": [7.3392, 51.3197], "date": "2026-01-01"}, // Einfamilienhaus Gevelsberg, Einbruch
 {"coords": [8.5833, 51.3833], "date": "2026-01-01"}, // Einfamilienhaus Brilon, Einbruch
 {"coords": [7.3608, 49.2492], "date": "2026-01-01"}, // Rosenstadt Zweibrücken, Einbruch
+{"coords": [10.4508, 50.7211], "date": "2026-01-01"}, // Bäckerfiliale Schmalkalden, Einbruch

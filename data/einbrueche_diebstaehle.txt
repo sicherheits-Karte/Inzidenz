@@ -6116,3 +6116,4 @@
 {"coords": [7.3, 51.1333], "date": "2026-01-01"}, // Einbruch Hückeswagen, Einbruch
 {"coords": [6.5617, 51.3317], "date": "2026-01-01"}, // Silvesternacht Krefeld, gestohlen
 {"coords": [7.2, 51.6167], "date": "2026-01-01"}, // Recklinghausen, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-01-01"}, // Heilbronn, gestohlen

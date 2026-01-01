@@ -6090,3 +6090,9 @@
 {"coords": [8.5833, 51.3833], "date": "2026-01-01"}, // Einfamilienhaus Brilon, Einbruch
 {"coords": [7.3608, 49.2492], "date": "2026-01-01"}, // Rosenstadt Zweibrücken, Einbruch
 {"coords": [10.4508, 50.7211], "date": "2026-01-01"}, // Bäckerfiliale Schmalkalden, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-01-01"}, // Konstanz, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-01-01"}, // Mainzer Innenstadt Mainz, Raub
+{"coords": [7.3194, 52.5236], "date": "2026-01-01"}, // Wohnhaus Lingen, Einbruch
+{"coords": [7.1333, 52.5333], "date": "2026-01-01"}, // Imbiss Wietmarschen, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-01-01"}, // Kindertagesstätte Haselünne, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-01-01"}, // Gotha, Dieb

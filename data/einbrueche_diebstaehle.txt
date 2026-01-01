@@ -6087,3 +6087,5 @@
 {"coords": [8.4414, 50.0919], "date": "2025-12-31"}, // Verkehrsunfallflucht Hofheim, Räuber
 {"coords": [9.1919, 48.8975], "date": "2026-01-01"}, // Ludwigsburg, Einbrecher
 {"coords": [7.3392, 51.3197], "date": "2026-01-01"}, // Einfamilienhaus Gevelsberg, Einbruch
+{"coords": [8.5833, 51.3833], "date": "2026-01-01"}, // Einfamilienhaus Brilon, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2026-01-01"}, // Rosenstadt Zweibrücken, Einbruch

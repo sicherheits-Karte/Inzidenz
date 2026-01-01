@@ -6103,3 +6103,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-01"}, // Aalen, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-01-01"}, // Warenlager Warendorf, Einbruch
 //{"coords": [], "date": "2026-01-01"} // Höhe, Einbrüche
+{"coords": [9.6106, 47.7828], "date": "2026-01-01"}, // Landkreis Ravensburg Ravensburg, stahl
+{"coords": [7.0333, 52.2167], "date": "2026-01-01"}, // Einfamilienhaus Gronau, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-01-01"}, // Einbruch Heilbronn, Einbruch
+{"coords": [7.0042, 51.9542], "date": "2026-01-01"}, // Spielhalle Gescher, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-01-01"}, // Kupferrohres Bocholt, Dieb
+{"coords": [7.0083, 52.075], "date": "2026-01-01"}, // Ahaus, entwendet

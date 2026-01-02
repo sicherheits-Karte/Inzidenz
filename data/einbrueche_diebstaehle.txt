@@ -6218,3 +6218,10 @@
 //{"coords": [], "date": "2026-01-02"} // Kein Ort gefunden, Einbrüche
 {"coords": [11.9833, 49.4833], "date": "2026-01-02"}, // Freudenberg, Einbruch
 {"coords": [7.1508, 51.2562], "date": "2026-01-02"}, // Wuppertal, stahl
+{"coords": [7.3608, 49.2492], "date": "2026-01-02"}, // Hinweise Zweibrücken, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-02"}, // Neujahr Ludwigsburg, Einbrüche
+{"coords": [7.6889, 51.5347], "date": "2026-01-02"}, // Festnahmen Unna, entwendet
+{"coords": [8.8667, 51.9333], "date": "2026-01-02"}, // Lippe, gestohlen
+{"coords": [8.8667, 51.9333], "date": "2026-01-02"}, // Lippe, Einbruch
+{"coords": [9.4667, 53.95], "date": "2026-01-02"}, // Oldendorf, Einbrecher
+{"coords": [8.8667, 51.9333], "date": "2026-01-02"}, // Lippe, Raub

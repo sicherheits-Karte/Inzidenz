@@ -6228,3 +6228,15 @@
 {"coords": [9.9937, 53.5511], "date": "2026-01-02"}, // Zuführung Hamburg, Einbruch
 {"coords": [6.7583, 51.6417], "date": "2026-01-02"}, // Zeugensuche Hünxe, Einbruch
 {"coords": [6.3475, 51.2742], "date": "2026-01-02"}, // Dülken, Einbruch
+{"coords": [10.1833, 53.85], "date": "2026-01-02"}, // Zeugen Seth, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-01-02"}, // Hannover, Raub
+{"coords": [7.8847, 50.7778], "date": "2026-01-02"}, // Alsdorf, Raub
+{"coords": [7.1508, 51.2562], "date": "2026-01-02"}, // Polizei Wuppertal Wuppertal, Diebstahl
+//{"coords": [], "date": "2026-01-02"} // Nord, eingebrochen
+//{"coords": [], "date": "2026-01-02"} // Höhe, gestohlen
+//{"coords": [], "date": "2026-01-02"} // Kreis, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-01-02"}, // Kiosk Bad Schwalbach, Einbrecher
+{"coords": [6.6, 51.55], "date": "2026-01-02"}, // Rheinberg, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-01-02"}, // Wolfsburg, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-01-02"}, // Landkreis Sömmerda, Dieb
+{"coords": [6.5167, 51.6], "date": "2026-01-02"}, // Alpen, eingebrochen

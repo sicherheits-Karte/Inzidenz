@@ -6162,3 +6162,14 @@
 //{"coords": [], "date": "2026-01-02"} // Oberbergs Straßen Oberbergischer Kreis, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-02"}, // Ludwigsburg, gestohlen
 {"coords": [8.2869, 52.7303], "date": "2026-01-02"}, // Vechta, Einbruch
+{"coords": [12.1764, 53.7944], "date": "2026-01-02"}, // Güstrow Güstrow, Raub
+{"coords": [7.7156, 52.2778], "date": "2026-01-02"}, // Glühweinbude Ibbenbüren, Einbruch
+{"coords": [8.4725, 49.5981], "date": "2026-01-02"}, // Einbrechern Lampertheim, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Mehrere Einbrüche Mittelbaden, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-02"}, // Coesfeld, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Neckarsteinach, entwendet
+{"coords": [8.8386, 48.9511], "date": "2026-01-02"}, // Mühlacker, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-02"}, // Osnabrück, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2026-01-02"} // Alchen, Einbruch
+{"coords": [8.8772, 49.7711], "date": "2026-01-02"}, // Brensbach, Einbruch

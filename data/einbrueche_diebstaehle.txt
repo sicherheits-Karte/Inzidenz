@@ -6273,3 +6273,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-01-02"}, // Schulgebäude Reutlingen, Einbrüche
 {"coords": [7.3208, 49.6922], "date": "2026-01-02"}, // Oberstein, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-02"}, // Kastanienweg Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Uentrop, Einbruch

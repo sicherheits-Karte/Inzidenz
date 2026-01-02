@@ -6225,3 +6225,5 @@
 {"coords": [8.8667, 51.9333], "date": "2026-01-02"}, // Lippe, Einbruch
 {"coords": [9.4667, 53.95], "date": "2026-01-02"}, // Oldendorf, Einbrecher
 {"coords": [8.8667, 51.9333], "date": "2026-01-02"}, // Lippe, Raub
+{"coords": [9.9937, 53.5511], "date": "2026-01-02"}, // Zuführung Hamburg, Einbruch
+{"coords": [6.7583, 51.6417], "date": "2026-01-02"}, // Zeugensuche Hünxe, Einbruch

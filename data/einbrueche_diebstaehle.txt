@@ -6124,3 +6124,6 @@
 {"coords": [6.1353, 51.7875], "date": "2026-01-01"}, // Zeugen Kleve, Einbruch
 {"coords": [8.6822, 50.1106], "date": "2026-01-01"}, // Wohnungseinbruchdiebstahl Frankfurt, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-01-01"}, // Limburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-02"}, // Sachbeschädigung Aalen, Diebstähle
+{"coords": [11.3239, 50.9795], "date": "2026-01-02"}, // Weimar, Raub
+{"coords": [11.5862, 50.9271], "date": "2026-01-02"}, // Räuberischer Diebstahl Jena, Diebstahl

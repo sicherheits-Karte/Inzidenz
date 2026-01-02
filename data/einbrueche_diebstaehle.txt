@@ -6201,3 +6201,6 @@
 {"coords": [10.8, 53.4833], "date": "2026-01-02"}, // Greven, entwendet
 {"coords": [7.1675, 51.9436], "date": "2026-01-02"}, // Zigaretten Coesfeld, Einbruch
 {"coords": [9.0, 50.7333], "date": "2026-01-02"}, // Bauwagen Homberg, Diebstahl
+{"coords": [10.3692, 52.2603], "date": "2026-01-02"}, // Vechelde, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-01-02"}, // Bonn, Diebstahl
+{"coords": [6.2667, 50.9833], "date": "2026-01-02"}, // Einfamilienhaus Linnich, Einbruch

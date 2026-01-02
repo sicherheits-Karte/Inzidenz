@@ -6174,3 +6174,18 @@
 //{"coords": [], "date": "2026-01-02"} // Alchen, Einbruch
 {"coords": [8.8772, 49.7711], "date": "2026-01-02"}, // Brensbach, Einbruch
 //{"coords": [], "date": "2026-01-02"} // POL-PDNR, Diebstahl
+{"coords": [7.9167, 51.5833], "date": "2026-01-02"}, // Hövel, Einbruch
+{"coords": [7.8667, 50.7833], "date": "2026-01-02"}, // Kaninchendiebstahl Betzdorf, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-01-02"}, // Darmstadt, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-02"}, // Mitte, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Autohaus Keltern, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-01-02"}, // Gera, entwendet
+{"coords": [7.7333, 51.4667], "date": "2026-01-02"}, // Kindergarten Fröndenberg, Einbruch
+{"coords": [6.6, 51.55], "date": "2026-01-02"}, // Pkw Rheinberg, Diebstahl
+{"coords": [7.45, 51.4333], "date": "2026-01-02"}, // Vorhalle, Einbruch
+{"coords": [7.65, 52.1833], "date": "2026-01-02"}, // Einfamilienhaus Saerbeck, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-01-02"}, // Einbrecher Wolfsburg, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-01-02"}, // Wuppertal, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Hanerau-Hademarschen gesucht Hanerau-Hademarschen, Einbruch
+{"coords": [9.2844, 51.045], "date": "2026-01-02"}, // Zeugen Borken, Einbrüche
+//{"coords": [], "date": "2026-01-02"} // Mesum, Einbruch

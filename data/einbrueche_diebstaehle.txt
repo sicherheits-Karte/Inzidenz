@@ -6258,3 +6258,8 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-02"}, // Unfälle Aalen, Einbruch
 {"coords": [7.3333, 51.4333], "date": "2026-01-02"}, // Witten, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2026-01-02"}, // Heilbronn, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-02"}, // Giessen, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-01-02"}, // Einfamilienhaus Hofheim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-01-02"}, // Brennende Mülltonnen Wiesbaden, Einbrüche
+{"coords": [10.4278, 51.9042], "date": "2026-01-02"}, // Goslar, entwendet
+{"coords": [9.95, 52.15], "date": "2026-01-02"}, // Zeugenaufruf Hildesheim, aufbruch

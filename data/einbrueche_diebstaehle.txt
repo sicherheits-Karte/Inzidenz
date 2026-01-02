@@ -6264,3 +6264,5 @@
 {"coords": [10.4278, 51.9042], "date": "2026-01-02"}, // Goslar, entwendet
 {"coords": [9.95, 52.15], "date": "2026-01-02"}, // Zeugenaufruf Hildesheim, aufbruch
 {"coords": [10.1333, 54.4], "date": "2026-01-02"}, // Person Altenholz, klau
+{"coords": [8.4353, 49.4811], "date": "2026-01-02"}, // Ludwigshafen, stahl
+{"coords": [8.4353, 49.4811], "date": "2026-01-02"}, // Ludwigshafen, Einbruch

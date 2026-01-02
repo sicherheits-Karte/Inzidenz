@@ -6206,3 +6206,11 @@
 {"coords": [6.2667, 50.9833], "date": "2026-01-02"}, // Einfamilienhaus Linnich, Einbruch
 {"coords": [9.0, 50.7333], "date": "2026-01-02"}, // Zeugen Homberg, Einbruch
 {"coords": [10.3333, 52.15], "date": "2026-01-02"}, // Salzgitter, Einbrecher
+{"coords": [6.8139, 50.9147], "date": "2026-01-02"}, // Frechen, Raub
+{"coords": [10.3333, 52.15], "date": "2026-01-02"}, // Salzgitter, entwendet
+{"coords": [9.6333, 51.65], "date": "2026-01-02"}, // Kino Uslar, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-01-02"}, // Sprengung Cuxhaven, aufbruch
+//{"coords": [], "date": "2026-01-02"} // Schlafzimmer Bahrdorf, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2026-01-02"}, // Herzberger Landstraße Göttingen, Räuber
+{"coords": [9.2167, 48.4833], "date": "2026-01-02"}, // Sachbeschädigung Reutlingen, Einbrüche
+{"coords": [10.65, 52.25], "date": "2026-01-02"}, // Cremlingen, Einbruch

@@ -6135,3 +6135,7 @@
 //{"coords": [], "date": "2026-01-02"} // Zigarettenautomaten Bad Sassendorf, entwendet
 {"coords": [7.1675, 51.9436], "date": "2026-01-02"}, // Einfamilienhaus Coesfeld, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-02"}, // Aalen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-02"}, // Wohnungseinbruchdiebstahl Coesfeld, Einbruch
+{"coords": [8.5667, 51.7667], "date": "2026-01-02"}, // Delbrück, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Benhausen, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-01-02"}, // Schule Lüdenscheid, Einbruch

@@ -6189,3 +6189,15 @@
 //{"coords": [], "date": "2026-01-02"} // Hanerau-Hademarschen gesucht Hanerau-Hademarschen, Einbruch
 {"coords": [9.2844, 51.045], "date": "2026-01-02"}, // Zeugen Borken, Einbrüche
 //{"coords": [], "date": "2026-01-02"} // Mesum, Einbruch
+{"coords": [6.3214, 50.8447], "date": "2026-01-02"}, // Zeugen Langerwehe, Einbruch
+{"coords": [7.4547, 53.2311], "date": "2026-01-02"}, // Leer, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Zeugenhinweise Tiefenbronn, Einbrecher
+{"coords": [8.5847, 53.5469], "date": "2026-01-02"}, // Bremerhaven, eingebrochen
+{"coords": [8.4043, 49.014], "date": "2026-01-02"}, // Karlsruher Oststadt Karlsruhe, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-01-02"}, // Wilhelmshaven, Raub
+{"coords": [7.85, 51.6333], "date": "2026-01-02"}, // Rhynern, Einbruch
+{"coords": [11.4012, 53.6355], "date": "2026-01-02"}, // Schwerin, Dieb
+{"coords": [7.75, 51.6333], "date": "2026-01-02"}, // Herringen, Einbruch
+{"coords": [10.8, 53.4833], "date": "2026-01-02"}, // Greven, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-01-02"}, // Zigaretten Coesfeld, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-01-02"}, // Bauwagen Homberg, Diebstahl

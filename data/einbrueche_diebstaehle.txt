@@ -6257,3 +6257,4 @@
 {"coords": [8.8678, 49.9228], "date": "2026-01-02"}, // Münster, geklaut
 {"coords": [10.0936, 48.8372], "date": "2026-01-02"}, // Unfälle Aalen, Einbruch
 {"coords": [7.3333, 51.4333], "date": "2026-01-02"}, // Witten, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-01-02"}, // Heilbronn, Einbruch

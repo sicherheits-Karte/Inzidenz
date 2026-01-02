@@ -6214,3 +6214,7 @@
 {"coords": [9.9158, 51.5413], "date": "2026-01-02"}, // Herzberger Landstraße Göttingen, Räuber
 {"coords": [9.2167, 48.4833], "date": "2026-01-02"}, // Sachbeschädigung Reutlingen, Einbrüche
 {"coords": [10.65, 52.25], "date": "2026-01-02"}, // Cremlingen, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-01-02"}, // Bochum, Einbruch
+//{"coords": [], "date": "2026-01-02"} // Kein Ort gefunden, Einbrüche
+{"coords": [11.9833, 49.4833], "date": "2026-01-02"}, // Freudenberg, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-01-02"}, // Wuppertal, stahl

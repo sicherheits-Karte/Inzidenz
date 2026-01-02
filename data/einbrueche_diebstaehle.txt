@@ -6129,3 +6129,7 @@
 {"coords": [11.5862, 50.9271], "date": "2026-01-02"}, // Räuberischer Diebstahl Jena, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-01-02"}, // Sachbeschädigungen Aalen, Diebstahl
 {"coords": [6.6264, 51.4519], "date": "2026-01-02"}, // Moers, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-01-02"}, // Kennzeichen Northeim, gestohlen
+{"coords": [8.35, 51.6667], "date": "2026-01-02"}, // Lippstadt, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-01-02"}, // Northeim, Diebstahl
+//{"coords": [], "date": "2026-01-02"} // Zigarettenautomaten Bad Sassendorf, entwendet

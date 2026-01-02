@@ -6263,3 +6263,4 @@
 {"coords": [8.24, 50.0822], "date": "2026-01-02"}, // Brennende Mülltonnen Wiesbaden, Einbrüche
 {"coords": [10.4278, 51.9042], "date": "2026-01-02"}, // Goslar, entwendet
 {"coords": [9.95, 52.15], "date": "2026-01-02"}, // Zeugenaufruf Hildesheim, aufbruch
+{"coords": [10.1333, 54.4], "date": "2026-01-02"}, // Person Altenholz, klau

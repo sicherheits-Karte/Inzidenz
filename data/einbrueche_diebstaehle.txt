@@ -6267,3 +6267,6 @@
 {"coords": [8.4353, 49.4811], "date": "2026-01-02"}, // Ludwigshafen, stahl
 {"coords": [8.4353, 49.4811], "date": "2026-01-02"}, // Ludwigshafen, Einbruch
 {"coords": [8.7667, 50.1], "date": "2026-01-02"}, // Kreis Offenbach, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-02"}, // Einsatz Freiburg, Raub
+//{"coords": [], "date": "2026-01-02"} // Tankstelle Bietigheim, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-02"}, // Hinweise Recklinghausen, Einbruch

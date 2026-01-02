@@ -6254,3 +6254,6 @@
 {"coords": [7.0083, 52.075], "date": "2026-01-02"}, // Ahaus, Dieb
 {"coords": [10.7333, 51.2833], "date": "2026-01-02"}, // Ebeleben, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-01-02"}, // Untersuchungshaft Ludwigshafen, Einbrüche
+{"coords": [8.8678, 49.9228], "date": "2026-01-02"}, // Münster, geklaut
+{"coords": [10.0936, 48.8372], "date": "2026-01-02"}, // Unfälle Aalen, Einbruch
+{"coords": [7.3333, 51.4333], "date": "2026-01-02"}, // Witten, Einbruch

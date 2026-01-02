@@ -6270,3 +6270,4 @@
 {"coords": [7.82, 47.99], "date": "2026-01-02"}, // Einsatz Freiburg, Raub
 //{"coords": [], "date": "2026-01-02"} // Tankstelle Bietigheim, Einbruch
 {"coords": [7.2, 51.6167], "date": "2026-01-02"}, // Hinweise Recklinghausen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-01-02"}, // Schulgebäude Reutlingen, Einbrüche

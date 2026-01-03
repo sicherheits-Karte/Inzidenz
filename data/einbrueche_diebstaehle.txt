@@ -6280,3 +6280,5 @@
 {"coords": [7.7689, 49.4447], "date": "2026-01-03"}, // Einsatzkräfte Kaiserslautern, Einbruch
 {"coords": [9.2, 49.4], "date": "2026-01-03"}, // Neckar Ludwigsburg, Einbruch
 //{"coords": [], "date": "2026-01-03"} // Straßenhaus, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2026-01-03"}, // Friseursalon Hattingen, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-03"}, // Mehrfamilienhauses Gevelsberg, Einbruch

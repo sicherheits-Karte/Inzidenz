@@ -6301,3 +6301,4 @@
 {"coords": [12.0991, 54.0924], "date": "2026-01-03"}, // Tatzeit Rostock, Raub
 {"coords": [10.0, 51.7064], "date": "2026-01-03"}, // Einsatzkräfte Northeim, Raub
 {"coords": [7.1, 51.5167], "date": "2026-01-03"}, // Autos Gelsenkirchen, Einbruch
+//{"coords": [], "date": "2026-01-03"} // Wohnhaus Freren, Einbruch

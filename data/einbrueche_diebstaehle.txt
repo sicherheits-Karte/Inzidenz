@@ -6285,3 +6285,4 @@
 {"coords": [8.4353, 49.4811], "date": "2026-01-03"}, // Berliner Platz Ludwigshafen, Diebstahl
 {"coords": [10.95, 50.8333], "date": "2026-01-03"}, // Zeugenaufruf Arnstadt, Einbruch
 {"coords": [10.95, 50.8333], "date": "2026-01-03"}, // Arnstadt, Einbruch
+{"coords": [7.95, 51.4833], "date": "2026-01-03"}, // Neheim, Einbruch

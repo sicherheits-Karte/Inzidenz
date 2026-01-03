@@ -6306,3 +6306,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-01-03"}, // Bootshaus Limburg, Einbruch
 {"coords": [6.6393, 49.7556], "date": "2026-01-03"}, // Trier, Diebstahl
 {"coords": [9.1828, 48.7756], "date": "2026-01-03"}, // Stuttgart Stuttgart, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-03"}, // Update Aalen, Raub

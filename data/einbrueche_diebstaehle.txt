@@ -6277,3 +6277,4 @@
 {"coords": [9.1167, 50.85], "date": "2026-01-02"}, // Polizeidirektion Neustadt, Einbruch
 {"coords": [8.1667, 49.5667], "date": "2026-01-02"}, // Grünstadt mehr, Einbruch
 {"coords": [9.2081, 52.3242], "date": "2026-01-03"}, // Verkehrsteilnehmer Stadthagen, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-01-03"}, // Einsatzkräfte Kaiserslautern, Einbruch

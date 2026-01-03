@@ -6282,3 +6282,6 @@
 //{"coords": [], "date": "2026-01-03"} // Straßenhaus, Einbruch
 {"coords": [7.1856, 51.3994], "date": "2026-01-03"}, // Friseursalon Hattingen, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2026-01-03"}, // Mehrfamilienhauses Gevelsberg, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-03"}, // Berliner Platz Ludwigshafen, Diebstahl
+{"coords": [10.95, 50.8333], "date": "2026-01-03"}, // Zeugenaufruf Arnstadt, Einbruch
+{"coords": [10.95, 50.8333], "date": "2026-01-03"}, // Arnstadt, Einbruch

@@ -6297,3 +6297,4 @@
 {"coords": [8.35, 49.5333], "date": "2026-01-03"}, // Wohngebäude Frankenthal, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-01-03"}, // Hofheim, gestohlen
 {"coords": [7.15, 50.0], "date": "2026-01-03"}, // Personenschaden Klausen, klau
+{"coords": [12.0991, 54.0924], "date": "2026-01-03"}, // Zeugenhinweise Rostock, Raub

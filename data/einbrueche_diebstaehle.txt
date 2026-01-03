@@ -6294,3 +6294,5 @@
 //{"coords": [], "date": "2026-01-03"} // Gaststätte Sögel, Einbruch
 //{"coords": [], "date": "2026-01-03"} // Wohnhaus Oberlangen, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2026-01-03"}, // Uhr Speyer, Diebstahl
+{"coords": [8.35, 49.5333], "date": "2026-01-03"}, // Wohngebäude Frankenthal, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-01-03"}, // Hofheim, gestohlen

@@ -6288,3 +6288,8 @@
 {"coords": [7.95, 51.4833], "date": "2026-01-03"}, // Neheim, Einbruch
 //{"coords": [], "date": "2026-01-03"} // Einfamilienhaus Olsberg, Einbruch
 {"coords": [7.2417, 52.7922], "date": "2026-01-03"}, // Pkw Haren, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-01-03"}, // Kiosk Haren, Dieb
+{"coords": [7.0667, 52.4333], "date": "2026-01-03"}, // Sportschuhlager Nordhorn, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-01-03"}, // Vereinsheim Haren, Einbruch
+//{"coords": [], "date": "2026-01-03"} // Gaststätte Sögel, Einbruch
+//{"coords": [], "date": "2026-01-03"} // Wohnhaus Oberlangen, Einbruch

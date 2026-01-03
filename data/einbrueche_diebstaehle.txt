@@ -6293,3 +6293,4 @@
 {"coords": [7.2417, 52.7922], "date": "2026-01-03"}, // Vereinsheim Haren, Einbruch
 //{"coords": [], "date": "2026-01-03"} // Gaststätte Sögel, Einbruch
 //{"coords": [], "date": "2026-01-03"} // Wohnhaus Oberlangen, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-01-03"}, // Uhr Speyer, Diebstahl

@@ -6304,3 +6304,4 @@
 //{"coords": [], "date": "2026-01-03"} // Wohnhaus Freren, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2026-01-03"}, // Gotha, entwendet
 {"coords": [8.0667, 50.3833], "date": "2026-01-03"}, // Bootshaus Limburg, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2026-01-03"}, // Trier, Diebstahl

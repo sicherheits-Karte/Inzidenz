@@ -6341,3 +6341,11 @@
 {"coords": [8.1075, 53.5219], "date": "2026-01-04"}, // Wilhelmshaven, aufbruch
 {"coords": [11.5164, 51.0264], "date": "2026-01-04"}, // Supermarkt Apolda, Einbruch
 //{"coords": [], "date": "2026-01-04"} // Höhe, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-01-04"}, // Sachbeschädigung Augsburg, klau
+//{"coords": [], "date": "2026-01-04"} // Epe, entwendet
+{"coords": [6.6153, 51.8367], "date": "2026-01-04"}, // Bocholt, Einbruch
+//{"coords": [], "date": "2026-01-04"} // Ottenstein, Einbruch
+{"coords": [6.8333, 52.0333], "date": "2026-01-04"}, // Schmuckgeschäft Vreden, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-04"}, // Limburg, Diebstahl
+{"coords": [7.0333, 52.2167], "date": "2026-01-04"}, // Gronau, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-01-04"}, // Lüneburg, Einbruch

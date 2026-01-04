@@ -6316,3 +6316,9 @@
 {"coords": [8.1128, 49.1994], "date": "2026-01-04"}, // Landau, Einbrüche
 //{"coords": [], "date": "2026-01-04"} // Bönen, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-01-04"}, // Lippe, Einbruch
+{"coords": [7.3167, 52.9333], "date": "2026-01-04"}, // Lagerhalle Niederlangen, Einbruch
+{"coords": [9.185, 51.7175], "date": "2026-01-04"}, // Versuchter Automatendiebstahl Brakel, Diebstahl
+//{"coords": [], "date": "2026-01-04"} // Imbiss Börger, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-01-04"}, // Weimar, gestohlen
+//{"coords": [], "date": "2026-01-04"} // Wohnhaus Freren, Einbruch
+//{"coords": [], "date": "2026-01-04"} // Wehrstapel, Einbruch

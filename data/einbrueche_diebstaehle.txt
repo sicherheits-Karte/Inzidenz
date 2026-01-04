@@ -6325,3 +6325,4 @@
 {"coords": [11.1667, 50.35], "date": "2026-01-04"}, // Wintereinbruch Sonneberg, Einbruch
 {"coords": [8.8075, 53.075], "date": "2026-01-04"}, // Unfälle-- Bremen, Einbruch
 {"coords": [6.7872, 50.6606], "date": "2026-01-04"}, // Kraftfahrzeugen Euskirchen, Diebstahl
+{"coords": [9.2167, 48.0833], "date": "2026-01-04"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Einbruch

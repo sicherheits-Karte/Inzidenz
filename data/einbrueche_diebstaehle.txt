@@ -6322,3 +6322,5 @@
 {"coords": [11.3239, 50.9795], "date": "2026-01-04"}, // Weimar, gestohlen
 //{"coords": [], "date": "2026-01-04"} // Wohnhaus Freren, Einbruch
 //{"coords": [], "date": "2026-01-04"} // Wehrstapel, Einbruch
+{"coords": [11.1667, 50.35], "date": "2026-01-04"}, // Wintereinbruch Sonneberg, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-01-04"}, // Unfälle-- Bremen, Einbruch

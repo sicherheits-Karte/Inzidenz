@@ -6307,3 +6307,4 @@
 {"coords": [6.6393, 49.7556], "date": "2026-01-03"}, // Trier, Diebstahl
 {"coords": [9.1828, 48.7756], "date": "2026-01-03"}, // Stuttgart Stuttgart, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-03"}, // Update Aalen, Raub
+{"coords": [11.87, 50.7356], "date": "2026-01-04"}, // Diakonievereins Triptis, Einbruch

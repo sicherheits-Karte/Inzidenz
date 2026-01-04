@@ -6333,3 +6333,6 @@
 {"coords": [7.2061, 53.3669], "date": "2026-01-04"}, // Emden, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-01-04"}, // Seniorenzentrum Hofheim, Diebstahl
 {"coords": [10.135, 51.3783], "date": "2026-01-04"}, // Heilbad Heiligenstadt, entwendet
+{"coords": [8.6944, 53.8619], "date": "2026-01-04"}, // Stadtgebiet Cuxhaven, Einbruch
+{"coords": [9.1333, 48.8], "date": "2026-01-04"}, // Feuerbach, aufbruch
+{"coords": [9.2167, 48.4833], "date": "2026-01-04"}, // Reutlingen, Einbruch

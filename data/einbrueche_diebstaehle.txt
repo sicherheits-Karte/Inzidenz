@@ -6326,3 +6326,6 @@
 {"coords": [8.8075, 53.075], "date": "2026-01-04"}, // Unfälle-- Bremen, Einbruch
 {"coords": [6.7872, 50.6606], "date": "2026-01-04"}, // Kraftfahrzeugen Euskirchen, Diebstahl
 {"coords": [9.2167, 48.0833], "date": "2026-01-04"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Einbruch
+{"coords": [7.3, 51.1333], "date": "2026-01-04"}, // Hückeswagen, eingebrochen
+//{"coords": [], "date": "2026-01-04"} // Radevormwald, Einbruch
+{"coords": [7.4139, 50.9889], "date": "2026-01-04"}, // Engelskirchen, Einbruch

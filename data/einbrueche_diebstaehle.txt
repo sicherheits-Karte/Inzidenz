@@ -6349,3 +6349,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-01-04"}, // Limburg, Diebstahl
 {"coords": [7.0333, 52.2167], "date": "2026-01-04"}, // Gronau, Einbruch
 {"coords": [10.4, 53.25], "date": "2026-01-04"}, // Lüneburg, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-01-04"}, // Warendorf, Einbruch

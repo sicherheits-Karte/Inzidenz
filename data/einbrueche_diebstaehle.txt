@@ -6330,3 +6330,4 @@
 //{"coords": [], "date": "2026-01-04"} // Radevormwald, Einbruch
 {"coords": [7.4139, 50.9889], "date": "2026-01-04"}, // Engelskirchen, Einbruch
 //{"coords": [], "date": "2026-01-04"} // Kellereinbruch Altenburger Land, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-01-04"}, // Emden, Einbruch

@@ -6340,3 +6340,4 @@
 {"coords": [10.7183, 50.9489], "date": "2026-01-04"}, // Gotha, Diebstahl
 {"coords": [8.1075, 53.5219], "date": "2026-01-04"}, // Wilhelmshaven, aufbruch
 {"coords": [11.5164, 51.0264], "date": "2026-01-04"}, // Supermarkt Apolda, Einbruch
+//{"coords": [], "date": "2026-01-04"} // Höhe, Einbruch

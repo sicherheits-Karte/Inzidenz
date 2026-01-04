@@ -6352,3 +6352,4 @@
 {"coords": [7.9833, 51.95], "date": "2026-01-04"}, // Warendorf, Einbruch
 {"coords": [11.5928, 50.6933], "date": "2026-01-04"}, // eine Postfiliale Pößneck, Einbruch
 //{"coords": [], "date": "2026-01-04"} // Theley Theley, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2026-01-04"}, // Haus Rockenhausen, Einbruch

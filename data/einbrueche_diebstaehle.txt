@@ -6315,3 +6315,4 @@
 {"coords": [7.2931, 51.2861], "date": "2026-01-04"}, // Mehrfamilienhauses Schwelm, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2026-01-04"}, // Landau, Einbrüche
 //{"coords": [], "date": "2026-01-04"} // Bönen, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-01-04"}, // Lippe, Einbruch

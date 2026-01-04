@@ -6337,3 +6337,5 @@
 {"coords": [9.1333, 48.8], "date": "2026-01-04"}, // Feuerbach, aufbruch
 {"coords": [9.2167, 48.4833], "date": "2026-01-04"}, // Reutlingen, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-01-04"}, // Einbrüche Wiesbaden, Einbrüche
+{"coords": [10.7183, 50.9489], "date": "2026-01-04"}, // Gotha, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-01-04"}, // Wilhelmshaven, aufbruch

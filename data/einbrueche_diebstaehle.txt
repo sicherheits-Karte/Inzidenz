@@ -6329,3 +6329,4 @@
 {"coords": [7.3, 51.1333], "date": "2026-01-04"}, // Hückeswagen, eingebrochen
 //{"coords": [], "date": "2026-01-04"} // Radevormwald, Einbruch
 {"coords": [7.4139, 50.9889], "date": "2026-01-04"}, // Engelskirchen, Einbruch
+//{"coords": [], "date": "2026-01-04"} // Kellereinbruch Altenburger Land, Einbruch

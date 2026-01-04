@@ -6309,3 +6309,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-03"}, // Update Aalen, Raub
 {"coords": [11.87, 50.7356], "date": "2026-01-04"}, // Diakonievereins Triptis, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2026-01-04"}, // Jena, gestohlen
+{"coords": [7.6333, 51.6167], "date": "2026-01-04"}, // Bergkamen, Einbruch

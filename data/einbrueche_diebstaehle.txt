@@ -6480,3 +6480,13 @@
 {"coords": [8.3833, 51.9], "date": "2026-01-05"}, // Gütersloh, Einbrecher
 {"coords": [9.4, 47.7833], "date": "2026-01-05"}, // Bodenseekreis Bodenseekreis, eingebrochen
 {"coords": [9.1919, 48.8975], "date": "2026-01-05"}, // Ludwigsburg, Dieb
+//{"coords": [], "date": "2026-01-05"} // Haft Rodenberg, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-01-05"}, // Kreis Offenbach, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-05"}, // Limburg, Einbruch
+//{"coords": [], "date": "2026-01-05"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.4836, 53.4711], "date": "2026-01-05"}, // Landkreis Aurich, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-01-05"}, // Festnahme Köln, Dieb
+{"coords": [8.6267, 48.1678], "date": "2026-01-05"}, // Rottweil, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-05"}, // Hinweise Recklinghausen, Einbrüche
+{"coords": [7.1, 51.5167], "date": "2026-01-05"}, // Gelsenkirchen, Einbruch
+//{"coords": [], "date": "2026-01-05"} // Kein Ort gefunden, Raub

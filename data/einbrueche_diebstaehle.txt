@@ -6441,3 +6441,8 @@
 {"coords": [8.8667, 51.9333], "date": "2026-01-05"}, // Lippe, Diebstahl
 {"coords": [8.8667, 51.9333], "date": "2026-01-05"}, // Lippe, Einbruch
 {"coords": [13.405, 52.52], "date": "2026-01-05"}, // Berlin, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-01-05"}, // Ladendiebstahl Ludwigshafen, Diebstahl
+{"coords": [6.5617, 51.3317], "date": "2026-01-05"}, // Krefeld, entwendet
+{"coords": [6.9603, 50.9375], "date": "2026-01-05"}, // Köln, Raub
+{"coords": [7.8153, 48.5708], "date": "2026-01-05"}, // Kehl, Diebstahl
+//{"coords": [], "date": "2026-01-05"} // der Zeit zwischen dem, Diebstahl

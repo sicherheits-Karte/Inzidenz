@@ -6493,3 +6493,14 @@
 {"coords": [9.5, 51.3167], "date": "2026-01-05"}, // Kassel, Raub
 {"coords": [8.6167, 49.6833], "date": "2026-01-05"}, // Bensheim, gestohlen
 {"coords": [8.4414, 50.0919], "date": "2026-01-05"}, // Verletzten Hofheim, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-01-05"}, // Reutlingen, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-01-05"}, // Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2026-01-05"}, // Wohnungseinbruchsdiebstahl Freiburg, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-01-05"}, // Einbruch Nordhausen, Einbruch
+//{"coords": [], "date": "2026-01-05"} // Worbis, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2026-01-05"}, // Dieben Nordhausen, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-01-05"}, // Nordhausen, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-01-05"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-05"}, // Bevölkerung Freiburg, Dieb
+{"coords": [7.4333, 52.2833], "date": "2026-01-05"}, // Kfz Rheine, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-01-05"}, // Giessen, Einbruch

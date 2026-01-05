@@ -6490,3 +6490,6 @@
 {"coords": [7.2, 51.6167], "date": "2026-01-05"}, // Hinweise Recklinghausen, Einbrüche
 {"coords": [7.1, 51.5167], "date": "2026-01-05"}, // Gelsenkirchen, Einbruch
 //{"coords": [], "date": "2026-01-05"} // Kein Ort gefunden, Raub
+{"coords": [9.5, 51.3167], "date": "2026-01-05"}, // Kassel, Raub
+{"coords": [8.6167, 49.6833], "date": "2026-01-05"}, // Bensheim, gestohlen
+{"coords": [8.4414, 50.0919], "date": "2026-01-05"}, // Verletzten Hofheim, Einbruch

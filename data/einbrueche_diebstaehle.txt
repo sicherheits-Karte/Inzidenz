@@ -6506,3 +6506,7 @@
 {"coords": [8.6833, 50.5833], "date": "2026-01-05"}, // Giessen, Einbruch
 {"coords": [9.732, 52.3759], "date": "2026-01-05"}, // Hannover, Raub
 {"coords": [10.8978, 48.3705], "date": "2026-01-05"}, // Stadtgebiet Augsburg, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-05"}, // Erfolglose Einbrecher Coesfeld, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-01-05"}, // Snackautomaten Giessen, Einbrüche
+{"coords": [8.5333, 48.0667], "date": "2026-01-05"}, // Schwenningen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-05"}, // Unfall Giessen, Einbruch

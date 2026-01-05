@@ -6453,3 +6453,6 @@
 {"coords": [7.7, 51.375], "date": "2026-01-05"}, // Hausfriedensbruch Iserlohn, Diebstahl
 {"coords": [7.75, 51.3833], "date": "2026-01-05"}, // Kellereinbruch Hemer, Einbruch
 {"coords": [7.6736, 51.2972], "date": "2026-01-05"}, // Altena, Dieb
+{"coords": [9.9158, 51.5413], "date": "2026-01-05"}, // Münzen Göttingen, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-01-05"}, // Zigarettenautomaten Hildesheim, aufbruch
+//{"coords": [], "date": "2026-01-05"} // Wilnsdorf, Einbrüche

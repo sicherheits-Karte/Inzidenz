@@ -6361,3 +6361,8 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-05"}, // Bahnhofsunterführung Erfurt, entwendet
 {"coords": [11.0299, 50.9848], "date": "2026-01-05"}, // Friseursalon Erfurt, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-01-05"}, // Erfurt, Einbrecher
+{"coords": [8.05, 51.6], "date": "2026-01-05"}, // Kindergarten Welver, Einbruch
+{"coords": [7.8208, 51.6803], "date": "2026-01-05"}, // Hamm, Einbruch
+{"coords": [9.8167, 53.65], "date": "2026-01-05"}, // Rellingen, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-01-05"}, // Arnsberg, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2026-01-05"}, // Einfamilienhaus Moers, Einbruch

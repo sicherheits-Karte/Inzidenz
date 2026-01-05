@@ -6371,3 +6371,12 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-05"}, // Aalen, Einbrüche
 //{"coords": [], "date": "2026-01-05"} // Wiepenkathen, Dieb
 //{"coords": [], "date": "2026-01-05"} // Bremke Im Wennetal Eslohe, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-01-05"}, // Nordhausen, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-05"}, // Darmstadt, Dieb
+{"coords": [8.9167, 50.1333], "date": "2026-01-05"}, // Hanau, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-05"}, // Einbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2026-01-05"} // ein Wohnhaus in der Walther-Rathenau-Straße versuchten ein oder mehrere unbekannte Personen gewaltsam einzudringen, was allerdings misslang. Es entstand Sachschaden. Die Tat ereignete sich in der Zeit zwischen dem, Einbruch
+{"coords": [6.6167, 51.75], "date": "2026-01-05"}, // Rees, Einbruch
+//{"coords": [], "date": "2026-01-05"} // Wankum, entwendet
+{"coords": [6.6178, 51.6589], "date": "2026-01-05"}, // Wesel, Diebstahl
+//{"coords": [], "date": "2026-01-05"} // Sevelen, entwendet

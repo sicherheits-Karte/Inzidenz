@@ -6446,3 +6446,10 @@
 {"coords": [6.9603, 50.9375], "date": "2026-01-05"}, // Köln, Raub
 {"coords": [7.8153, 48.5708], "date": "2026-01-05"}, // Kehl, Diebstahl
 //{"coords": [], "date": "2026-01-05"} // der Zeit zwischen dem, Diebstahl
+{"coords": [8.705, 48.895], "date": "2026-01-05"}, // Pforzheim, aufbrüche
+{"coords": [7.6333, 51.2167], "date": "2026-01-05"}, // Einbruch Lüdenscheid, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-05"}, // Bielefeld, Einbruch
+{"coords": [7.8, 51.4333], "date": "2026-01-05"}, // Vandalismus Menden, Diebstahl
+{"coords": [7.7, 51.375], "date": "2026-01-05"}, // Hausfriedensbruch Iserlohn, Diebstahl
+{"coords": [7.75, 51.3833], "date": "2026-01-05"}, // Kellereinbruch Hemer, Einbruch
+{"coords": [7.6736, 51.2972], "date": "2026-01-05"}, // Altena, Dieb

@@ -6407,3 +6407,17 @@
 {"coords": [8.6306, 53.05], "date": "2026-01-05"}, // Delmenhorst, entwendet
 {"coords": [7.2, 51.6167], "date": "2026-01-05"}, // Recklinghausen, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-05"}, // Ludwigsburg, stahl
+{"coords": [8.5833, 49.8667], "date": "2026-01-05"}, // Polizei Griesheim, Einbrüche
+{"coords": [8.5847, 53.5469], "date": "2026-01-05"}, // Täter Bremerhaven, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-01-05"}, // Zwei Wohnungseinbrüche Warendorf, Einbrüche
+{"coords": [10.7865, 52.4226], "date": "2026-01-05"}, // Wolfsburg, Einbruch
+{"coords": [10.0528, 51.1889], "date": "2026-01-05"}, // Eschwege, Einbruch
+//{"coords": [], "date": "2026-01-05"} // Dokument mehr, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-01-05"}, // Mehrfamilienhaus Warendorf, Einbruch
+{"coords": [10.85, 50.7667], "date": "2026-01-05"}, // Bad Liebenstein, Einbruch
+{"coords": [7.8667, 50.7833], "date": "2026-01-05"}, // Betzdorf, Diebstahl
+{"coords": [8.65, 49.3], "date": "2026-01-05"}, // Walldorf, Einbruch
+{"coords": [7.45, 51.4], "date": "2026-01-05"}, // Herdecke, Einbruch
+//{"coords": [], "date": "2026-01-05"} // Kein Ort gefunden, gestohlen
+{"coords": [8.2711, 50.0], "date": "2026-01-05"}, // Mainz, Einbruch
+//{"coords": [], "date": "2026-01-05"} // der Nacht zum, Raub

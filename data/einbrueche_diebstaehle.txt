@@ -6434,3 +6434,10 @@
 {"coords": [14.2667, 52.1], "date": "2026-01-05"}, // Friedland, gestohlen
 {"coords": [7.9833, 51.95], "date": "2026-01-05"}, // Firmengebäude Warendorf, Einbruch
 {"coords": [7.4333, 51.35], "date": "2026-01-05"}, // Haspe, Einbruch
+{"coords": [8.7403, 48.7142], "date": "2026-01-05"}, // Zeugenhinweise Calw, entwendet
+{"coords": [10.2167, 54.05], "date": "2026-01-05"}, // Zeugen Trappenkamp, aufbruch
+{"coords": [8.8667, 51.9333], "date": "2026-01-05"}, // Lippe, Dieb
+{"coords": [9.95, 52.15], "date": "2026-01-05"}, // Achtumer Kirche Hildesheim, Dieb
+{"coords": [8.8667, 51.9333], "date": "2026-01-05"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-01-05"}, // Lippe, Einbruch
+{"coords": [13.405, 52.52], "date": "2026-01-05"}, // Berlin, Raub

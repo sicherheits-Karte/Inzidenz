@@ -6355,3 +6355,4 @@
 {"coords": [12.0333, 49.8667], "date": "2026-01-04"}, // Haus Rockenhausen, Einbruch
 //{"coords": [], "date": "2026-01-04"} // Fahrraddiebstahl Bad Gandersheim, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-01-04"}, // Polizeihubschrauber Aalen, Raub
+{"coords": [7.6, 50.45], "date": "2026-01-05"}, // Isenburg, Einbruch

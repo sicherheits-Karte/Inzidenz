@@ -6356,3 +6356,8 @@
 //{"coords": [], "date": "2026-01-04"} // Fahrraddiebstahl Bad Gandersheim, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-01-04"}, // Polizeihubschrauber Aalen, Raub
 {"coords": [7.6, 50.45], "date": "2026-01-05"}, // Isenburg, Einbruch
+//{"coords": [], "date": "2026-01-05"} // Kreis, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-01-05"}, // Winzerla Jena, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-05"}, // Bahnhofsunterführung Erfurt, entwendet
+{"coords": [11.0299, 50.9848], "date": "2026-01-05"}, // Friseursalon Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-05"}, // Erfurt, Einbrecher

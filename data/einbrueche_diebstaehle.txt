@@ -6366,3 +6366,6 @@
 {"coords": [9.8167, 53.65], "date": "2026-01-05"}, // Rellingen, Einbruch
 {"coords": [8.0, 51.45], "date": "2026-01-05"}, // Arnsberg, Diebstahl
 {"coords": [6.6264, 51.4519], "date": "2026-01-05"}, // Einfamilienhaus Moers, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-05"}, // Darmstadt, entwendet
+{"coords": [9.1167, 50.85], "date": "2026-01-05"}, // Neustadt, Räuber
+{"coords": [10.0936, 48.8372], "date": "2026-01-05"}, // Aalen, Einbrüche

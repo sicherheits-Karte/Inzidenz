@@ -6504,3 +6504,5 @@
 {"coords": [7.82, 47.99], "date": "2026-01-05"}, // Bevölkerung Freiburg, Dieb
 {"coords": [7.4333, 52.2833], "date": "2026-01-05"}, // Kfz Rheine, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-01-05"}, // Giessen, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-01-05"}, // Hannover, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-01-05"}, // Stadtgebiet Augsburg, Einbruch

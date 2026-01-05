@@ -6380,3 +6380,9 @@
 //{"coords": [], "date": "2026-01-05"} // Wankum, entwendet
 {"coords": [6.6178, 51.6589], "date": "2026-01-05"}, // Wesel, Diebstahl
 //{"coords": [], "date": "2026-01-05"} // Sevelen, entwendet
+{"coords": [7.6, 50.8167], "date": "2026-01-05"}, // Kennzeichendiebstahl Etzbach, Diebstahl
+{"coords": [7.9167, 51.5833], "date": "2026-01-05"}, // Hövel, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-05"}, // Darmstadt, Einbrüche
+{"coords": [8.2869, 52.7303], "date": "2026-01-05"}, // Vechta, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-01-05"}, // Juweliergeschäft Nordhorn, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2026-01-05"}, // Visier Krimineller Rüsselsheim, entwendet

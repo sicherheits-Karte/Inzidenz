@@ -6400,3 +6400,10 @@
 {"coords": [9.1919, 48.8975], "date": "2026-01-05"}, // Wohnhäuser Ludwigsburg, Einbrüche
 {"coords": [8.45, 50.0167], "date": "2026-01-05"}, // Einbrechern Raunheim, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-01-05"}, // Gütersloh, aufbrüche
+{"coords": [6.9667, 51.2333], "date": "2026-01-05"}, // Polizei Mettmann POL-ME, gestohlen
+{"coords": [7.9447, 48.4731], "date": "2026-01-05"}, // Offenburg, Diebstahl
+//{"coords": [], "date": "2026-01-05"} // Zeugen Althengstett, gestohlen
+{"coords": [8.3667, 49.2167], "date": "2026-01-05"}, // Germersheim, eingebrochen
+{"coords": [8.6306, 53.05], "date": "2026-01-05"}, // Delmenhorst, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-01-05"}, // Recklinghausen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-05"}, // Ludwigsburg, stahl

@@ -6421,3 +6421,16 @@
 //{"coords": [], "date": "2026-01-05"} // Kein Ort gefunden, gestohlen
 {"coords": [8.2711, 50.0], "date": "2026-01-05"}, // Mainz, Einbruch
 //{"coords": [], "date": "2026-01-05"} // der Nacht zum, Raub
+{"coords": [7.1508, 51.2562], "date": "2026-01-05"}, // Zeugen Wuppertal, Raub
+{"coords": [11.0767, 49.4521], "date": "2026-01-05"}, // Nürnberg, Dieb
+{"coords": [8.2146, 53.1434], "date": "2026-01-05"}, // Haft Oldenburg, Diebstahl
+//{"coords": [], "date": "2026-01-05"} // Stuvenborn, Einbrüche
+{"coords": [8.705, 48.895], "date": "2026-01-05"}, // Pforzheim, entwendet
+{"coords": [13.2611, 53.5569], "date": "2026-01-05"}, // Neubrandenburg, entwendet
+{"coords": [7.2833, 50.7833], "date": "2026-01-05"}, // Hennef, Einbruch
+{"coords": [7.8667, 48.35], "date": "2026-01-05"}, // Lahr, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-01-05"}, // Zeugen Münster, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2026-01-05"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [14.2667, 52.1], "date": "2026-01-05"}, // Friedland, gestohlen
+{"coords": [7.9833, 51.95], "date": "2026-01-05"}, // Firmengebäude Warendorf, Einbruch
+{"coords": [7.4333, 51.35], "date": "2026-01-05"}, // Haspe, Einbruch

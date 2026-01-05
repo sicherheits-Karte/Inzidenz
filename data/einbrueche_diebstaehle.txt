@@ -6458,3 +6458,14 @@
 //{"coords": [], "date": "2026-01-05"} // Wilnsdorf, Einbrüche
 {"coords": [7.2, 51.6167], "date": "2026-01-05"}, // Recklinghausen, Diebstähle
 //{"coords": [], "date": "2026-01-05"} // Reisebüro Selm, Einbruch
+{"coords": [6.6961, 50.8719], "date": "2026-01-05"}, // Supermarkt Kerpen, Diebstahl
+{"coords": [9.8425, 53.6333], "date": "2026-01-05"}, // Zeugen Halstenbek, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-01-05"}, // Mülltonnenbrand Vogelsbergkreis, Dieb
+{"coords": [6.6, 50.7333], "date": "2026-01-05"}, // Vettweiß Vettweiß, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2026-01-05"}, // Mülleimerbrand Fulda, Diebstahl
+//{"coords": [], "date": "2026-01-05"} // Zeugen Aldenhoven, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-01-05"}, // Stade, Dieb
+{"coords": [9.1753, 47.6633], "date": "2026-01-05"}, // Konstanz, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-01-05"}, // Zeugen Düren, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-01-05"}, // Winterhude Hamburg, Einbruch
+{"coords": [10.3333, 52.15], "date": "2026-01-05"}, // Salzgitter, Einbruch

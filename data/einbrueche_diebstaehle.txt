@@ -6591,3 +6591,4 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-06"}, // Erfurter Innenstadt Erfurt, Einbruch
 {"coords": [7.6667, 51.5833], "date": "2026-01-06"}, // Baustelle Kamen, Diebstahl
 //{"coords": [], "date": "2026-01-06"} // der Zeit vom, Diebstahl
+{"coords": [6.3917, 51.2556], "date": "2026-01-06"}, // Friedhof Viersen, Diebstahl

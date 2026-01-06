@@ -6612,3 +6612,14 @@
 {"coords": [7.1508, 51.2562], "date": "2026-01-06"}, // Wuppertal, Raub
 {"coords": [6.6528, 50.5931], "date": "2026-01-06"}, // Gemeindehaus Mechernich, Einbruch
 {"coords": [6.7872, 50.6606], "date": "2026-01-06"}, // Euskirchen, Diebstahl
+{"coords": [9.9937, 53.5511], "date": "2026-01-06"}, // City Hamburg, Raub
+{"coords": [8.0472, 52.2799], "date": "2026-01-06"}, // Osnabrück, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-06"}, // Passat Giessen, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2026-01-06"}, // Göttingen, Räuber
+{"coords": [8.0667, 50.3833], "date": "2026-01-06"}, // Unfall Limburg, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-01-06"}, // Lüneburg, Diebstahl
+//{"coords": [], "date": "2026-01-06"} // Höhe, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-01-06"}, // Inhalte Hofheim, Einbruch
+{"coords": [8.4153, 49.6917], "date": "2026-01-06"}, // Praxisräume Biblis, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-01-06"}, // Selbstbedienungsverkaufsstand Wilhelmshaven, aufbruch
+//{"coords": [], "date": "2026-01-06"} // Porta Westfalica, Dieb

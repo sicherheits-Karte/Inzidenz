@@ -6601,3 +6601,4 @@
 {"coords": [8.8667, 51.9333], "date": "2026-01-06"}, // Lippe, Diebstahl
 {"coords": [8.1361, 53.3969], "date": "2026-01-06"}, // Fluchttreppe Varel, Diebstahl
 {"coords": [7.2833, 50.7833], "date": "2026-01-06"}, // Hennef, Einbruch
+{"coords": [8.9167, 52.3], "date": "2026-01-06"}, // Minden, klau

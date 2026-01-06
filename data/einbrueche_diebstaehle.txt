@@ -6602,3 +6602,13 @@
 {"coords": [8.1361, 53.3969], "date": "2026-01-06"}, // Fluchttreppe Varel, Diebstahl
 {"coords": [7.2833, 50.7833], "date": "2026-01-06"}, // Hennef, Einbruch
 {"coords": [8.9167, 52.3], "date": "2026-01-06"}, // Minden, klau
+{"coords": [8.24, 50.0822], "date": "2026-01-06"}, // Drogeneinfluss Wiesbaden, Einbruch
+{"coords": [8.3667, 49.9833], "date": "2026-01-06"}, // Gustavsburg, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-01-06"}, // Bielefeld, gestohlen
+{"coords": [8.4592, 49.6436], "date": "2026-01-06"}, // Gartenbauverein Bürstadt, Einbruch
+{"coords": [8.75, 52.3333], "date": "2026-01-06"}, // Hille, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-01-06"}, // Euskirchen, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-01-06"}, // Praxis Gronau, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-01-06"}, // Wuppertal, Raub
+{"coords": [6.6528, 50.5931], "date": "2026-01-06"}, // Gemeindehaus Mechernich, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2026-01-06"}, // Euskirchen, Diebstahl

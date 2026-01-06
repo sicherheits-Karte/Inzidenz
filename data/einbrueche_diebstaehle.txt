@@ -6561,3 +6561,14 @@
 {"coords": [7.9833, 51.95], "date": "2026-01-06"}, // Einfamilienhaus Warendorf, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-01-06"}, // Zweifamilienhaus Warendorf, Einbruch
 {"coords": [7.7156, 52.2778], "date": "2026-01-06"}, // Ibbenbüren, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-01-06"}, // Konstanz, Einbruch
+{"coords": [10.4167, 50.55], "date": "2026-01-06"}, // Meiningen, Diebstahl
+{"coords": [9.1753, 47.6633], "date": "2026-01-06"}, // Konstanz, aufbrüche
+{"coords": [8.5833, 49.8667], "date": "2026-01-06"}, // Polizei Griesheim, Dieb
+{"coords": [8.8075, 53.075], "date": "2026-01-06"}, // Bremen, Einbrecher
+{"coords": [6.9194, 51.9944], "date": "2026-01-06"}, // Kupferrohre Stadtlohn, Dieb
+{"coords": [7.0333, 52.2167], "date": "2026-01-06"}, // Geschäft Gronau, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-01-06"}, // Bremen, aufbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-06"}, // Bielefeld, Dieb
+//{"coords": [], "date": "2026-01-06"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.5658, 51.4458], "date": "2026-01-06"}, // Mehrfamilienhauses Schwerte, Einbruch

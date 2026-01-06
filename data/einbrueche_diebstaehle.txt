@@ -6525,3 +6525,8 @@
 {"coords": [8.7667, 50.1], "date": "2026-01-06"}, // Jährigen Offenbach, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2026-01-06"}, // Jena, Diebstahl
 {"coords": [9.2167, 48.5167], "date": "2026-01-06"}, // Mittelstadt, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2026-01-06"}, // Berufskolleg Soest, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-06"}, // Hebebühne Erfurt, Diebstahl
+//{"coords": [], "date": "2026-01-06"} // Cappel, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-06"}, // Wohnungen Erfurt, Einbrüche
+{"coords": [6.75, 51.5833], "date": "2026-01-06"}, // Dinslaken, gestohlen

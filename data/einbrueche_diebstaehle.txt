@@ -6530,3 +6530,11 @@
 //{"coords": [], "date": "2026-01-06"} // Cappel, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-01-06"}, // Wohnungen Erfurt, Einbrüche
 {"coords": [6.75, 51.5833], "date": "2026-01-06"}, // Dinslaken, gestohlen
+{"coords": [7.2, 51.6167], "date": "2026-01-06"}, // Recklinghausen, entwendet
+{"coords": [8.6306, 53.05], "date": "2026-01-06"}, // Delmenhorst, Diebstahl
+{"coords": [6.3319, 51.5194], "date": "2026-01-06"}, // Geldern, Einbruch
+{"coords": [6.0167, 51.7917], "date": "2026-01-06"}, // Einfamilienhaus Kranenburg, Einbruch
+{"coords": [7.7156, 52.2778], "date": "2026-01-06"}, // Werkstatt Ibbenbüren, Einbruch
+//{"coords": [], "date": "2026-01-06"} // Kein Ort gefunden, gestohlen
+{"coords": [8.5861, 52.1983], "date": "2026-01-06"}, // Bünde, entwendet
+{"coords": [8.6306, 53.05], "date": "2026-01-06"}, // Delmenhorst, Einbruch

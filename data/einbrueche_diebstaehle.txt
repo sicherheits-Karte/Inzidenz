@@ -6579,3 +6579,10 @@
 {"coords": [6.7735, 51.2277], "date": "2026-01-06"}, // Zeugen Düsseldorf, Raub
 {"coords": [7.6333, 51.6167], "date": "2026-01-06"}, // Mehrfamilienhaus Bergkamen, Einbruch
 {"coords": [7.6333, 51.6667], "date": "2026-01-06"}, // Werne, Einbruch
+{"coords": [8.5667, 51.7667], "date": "2026-01-06"}, // Delbrück, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-01-06"}, // Wuppertal, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-01-06"}, // Bochum, Raub
+{"coords": [9.4108, 53.1111], "date": "2026-01-06"}, // Rotenburg, Diebstahl
+{"coords": [7.5978, 50.3597], "date": "2026-01-06"}, // Koblenz, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-01-06"}, // Mainz, Einbrüche
+//{"coords": [], "date": "2026-01-06"} // Altstadt, Diebstahl

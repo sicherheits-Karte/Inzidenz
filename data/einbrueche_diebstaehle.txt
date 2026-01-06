@@ -6625,3 +6625,6 @@
 //{"coords": [], "date": "2026-01-06"} // Porta Westfalica, Dieb
 {"coords": [10.7753, 49.7544], "date": "2026-01-06"}, // Zeugen Mühlhausen, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-01-06"}, // Giessen, Einbruch
+{"coords": [10.775, 52.1439], "date": "2026-01-06"}, // Schöppenstedt, Einbruch
+{"coords": [10.3333, 52.15], "date": "2026-01-06"}, // Salzgitter, Diebstahl
+//{"coords": [], "date": "2026-01-06"} // Kreis, geklaut

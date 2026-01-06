@@ -6541,3 +6541,15 @@
 {"coords": [7.45, 51.4], "date": "2026-01-06"}, // Wohnungstür Herdecke, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-01-06"}, // Typenmodells Warendorf, gestohlen
 {"coords": [9.7194, 53.9522], "date": "2026-01-06"}, // Einfamilienhaus Kellinghusen, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-01-06"}, // Bauwagen Northeim, Einbruch
+{"coords": [7.5667, 51.0167], "date": "2026-01-06"}, // Stromaggregat Wiehl, Dieb
+//{"coords": [], "date": "2026-01-06"} // Leichlingen, Einbrüche
+{"coords": [10.0, 51.7064], "date": "2026-01-06"}, // Versuchter Wohnungseinbruch Northeim, Einbruch
+//{"coords": [], "date": "2026-01-06"} // Zeugen Hövelhof, Einbruch
+{"coords": [6.55, 51.4667], "date": "2026-01-06"}, // Vluyn, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-06"}, // Gelsenkirchen, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-01-06"}, // Fahrzeug Gotha, Diebstahl
+//{"coords": [], "date": "2026-01-06"} // der Zeit zwischen dem, entwendet
+//{"coords": [], "date": "2026-01-06"} // Zeugen Bad Blankenburg, Diebstahl
+{"coords": [6.9667, 51.2333], "date": "2026-01-06"}, // Polizei Mettmann POL-ME, gestohlen
+//{"coords": [], "date": "2026-01-06"} // Kein Ort gefunden, Einbrecher

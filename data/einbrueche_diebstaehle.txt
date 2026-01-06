@@ -6513,3 +6513,4 @@
 //{"coords": [], "date": "2026-01-05"} // Kreis, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2026-01-05"}, // Einbrecher Coesfeld, Einbrecher
 {"coords": [13.2611, 53.5569], "date": "2026-01-05"}, // Neubrandenburg, Raub
+{"coords": [9.95, 52.15], "date": "2026-01-06"}, // Hildesheim, entwendet

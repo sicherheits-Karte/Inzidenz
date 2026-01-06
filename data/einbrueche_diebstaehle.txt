@@ -6538,3 +6538,4 @@
 //{"coords": [], "date": "2026-01-06"} // Kein Ort gefunden, gestohlen
 {"coords": [8.5861, 52.1983], "date": "2026-01-06"}, // Bünde, entwendet
 {"coords": [8.6306, 53.05], "date": "2026-01-06"}, // Delmenhorst, Einbruch
+{"coords": [7.45, 51.4], "date": "2026-01-06"}, // Wohnungstür Herdecke, Einbruch

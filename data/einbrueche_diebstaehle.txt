@@ -6514,3 +6514,9 @@
 {"coords": [7.1675, 51.9436], "date": "2026-01-05"}, // Einbrecher Coesfeld, Einbrecher
 {"coords": [13.2611, 53.5569], "date": "2026-01-05"}, // Neubrandenburg, Raub
 {"coords": [9.95, 52.15], "date": "2026-01-06"}, // Hildesheim, entwendet
+{"coords": [9.9916, 48.3984], "date": "2026-01-06"}, // Ulm, Raub
+{"coords": [8.7667, 50.1], "date": "2026-01-06"}, // Offenbach, aufbruch
+{"coords": [8.6806, 49.9894], "date": "2026-01-06"}, // Schmuck Langen, Dieb
+{"coords": [6.8889, 49.9858], "date": "2026-01-06"}, // Taschendiebstahl Wittlich, Diebstahl
+{"coords": [8.8517, 50.0717], "date": "2026-01-06"}, // Zeugen Obertshausen, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-01-06"}, // Einbruchsdiebstahl Wittlich, Einbruch

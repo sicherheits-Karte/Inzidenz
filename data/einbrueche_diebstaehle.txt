@@ -6767,3 +6767,5 @@
 {"coords": [7.2061, 53.3669], "date": "2026-01-07"}, // Emden, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-01-07"}, // Limburg, gestohlen
 {"coords": [8.1075, 53.5219], "date": "2026-01-07"}, // Wilhelmshaven mehr, Diebstahl
+//{"coords": [], "date": "2026-01-07"} // Hegner Bucht, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-01-07"}, // Bahnhof Barnten Hildesheim, aufbruch

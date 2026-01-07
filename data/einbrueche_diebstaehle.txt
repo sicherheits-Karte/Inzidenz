@@ -6769,3 +6769,4 @@
 {"coords": [8.1075, 53.5219], "date": "2026-01-07"}, // Wilhelmshaven mehr, Diebstahl
 //{"coords": [], "date": "2026-01-07"} // Hegner Bucht, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-01-07"}, // Bahnhof Barnten Hildesheim, aufbruch
+//{"coords": [], "date": "2026-01-07"} // Insel Reichenau Allensbach, Einbruch

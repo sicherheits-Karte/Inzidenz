@@ -6657,3 +6657,6 @@
 {"coords": [11.5862, 50.9271], "date": "2026-01-07"}, // Jena, gestohlen
 {"coords": [11.5862, 50.9271], "date": "2026-01-07"}, // Quads Jena, Diebstahl
 {"coords": [6.55, 51.4667], "date": "2026-01-07"}, // Vluyn, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-07"}, // Gevelsberg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-07"}, // Sonstiges Aalen, Einbruch
+{"coords": [8.705, 48.895], "date": "2026-01-07"}, // Kindergarten Pforzheim, Einbruch

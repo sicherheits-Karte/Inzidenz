@@ -6716,3 +6716,6 @@
 {"coords": [10.5267, 52.2689], "date": "2026-01-07"}, // Einbruch Braunschweig, Einbruch
 {"coords": [7.0116, 51.4556], "date": "2026-01-07"}, // Fotofahndung Essen, entwendet
 {"coords": [7.2162, 51.4818], "date": "2026-01-07"}, // Raubdelikt Bochum, Raub
+{"coords": [7.9447, 48.4731], "date": "2026-01-07"}, // Einfamilienhaus Offenburg, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-01-07"}, // Phantombild Gütersloh, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-01-07"}, // Unfall Heilbronn, Einbruch

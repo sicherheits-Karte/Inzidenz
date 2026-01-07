@@ -6663,3 +6663,5 @@
 {"coords": [8.9667, 53.9667], "date": "2026-01-07"}, // Zusammenhang Kronprinzenkoog, Einbruch
 {"coords": [10.0075, 53.7064], "date": "2026-01-07"}, // Zeugen Norderstedt, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-01-07"}, // Ulm, Einbrecher
+{"coords": [9.7167, 53.7], "date": "2026-01-07"}, // Werkstatt Tornesch, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2026-01-07"}, // Kalenderwoche Trier, klau

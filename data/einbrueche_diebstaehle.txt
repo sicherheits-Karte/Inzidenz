@@ -6677,3 +6677,10 @@
 {"coords": [9.9916, 48.3984], "date": "2026-01-07"}, // Ulm, gestohlen
 {"coords": [8.5, 52.3], "date": "2026-01-07"}, // Gasflaschen Rödinghausen, Diebstahl
 {"coords": [8.4333, 51.6167], "date": "2026-01-07"}, // Steinhausen, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2026-01-07"}, // Straße Bergkamen, Einbruch
+{"coords": [9.35, 53.2417], "date": "2026-01-07"}, // Vereinsheim in Elsdorf, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-07"}, // Einsatz Freiburg, Raub
+{"coords": [8.2, 53.25], "date": "2026-01-07"}, // Rastede Oldenburg, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-01-07"}, // Dortmund, Raub
+//{"coords": [], "date": "2026-01-07"} // Gewerbeobjekte Bad Gandersheim, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-07"}, // Darmstadt, entwendet

@@ -6729,3 +6729,12 @@
 {"coords": [9.2108, 49.1425], "date": "2026-01-07"}, // Einbrüche Heilbronn, Einbrüche
 //{"coords": [], "date": "2026-01-07"} // Kuckum, Diebstahl
 //{"coords": [], "date": "2026-01-07"} // Boscheln, entwendet
+//{"coords": [], "date": "2026-01-07"} // Hinweise Niederkrüchten, aufbrüche
+{"coords": [10.8978, 48.3705], "date": "2026-01-07"}, // Stadtgebiet Augsburg, Einbrüche
+//{"coords": [], "date": "2026-01-07"} // Einfamilienhaus Tönisvorst, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-01-07"}, // Diepholz, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-01-07"}, // Bonn, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-01-07"}, // Polizei Wuppertal Wuppertal, Diebstahl
+{"coords": [8.4111, 49.9917], "date": "2026-01-07"}, // Visier Krimineller Rüsselsheim, entwendet
+{"coords": [8.6944, 53.8619], "date": "2026-01-07"}, // Cuxhaven, Dieb
+{"coords": [8.6944, 53.8619], "date": "2026-01-07"}, // Schiffdorf Cuxhaven, Diebstahl

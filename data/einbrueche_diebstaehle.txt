@@ -6698,3 +6698,11 @@
 {"coords": [12.7167, 53.3333], "date": "2026-01-07"}, // Lagerhalle Rechlin, Einbruch
 {"coords": [7.9447, 48.4731], "date": "2026-01-07"}, // Offenburg, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-01-07"}, // Zeugen Gelsenkirchen, Raub
+//{"coords": [], "date": "2026-01-07"} // Pfalzdorf, entwendet
+{"coords": [7.1667, 50.8167], "date": "2026-01-07"}, // Bargeld Troisdorf, Raub
+//{"coords": [], "date": "2026-01-07"} // Ladendiebstahls Freigericht, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-01-07"}, // Bielefeld, Diebstahl
+{"coords": [11.1, 48.7167], "date": "2026-01-07"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-07"}, // Zeugenaufruf Mannheim, Diebstahl
+//{"coords": [], "date": "2026-01-07"} // Gold Sankt Augustin, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2026-01-07"}, // Wohnhaus Offenburg, Einbruch

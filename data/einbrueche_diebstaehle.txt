@@ -6687,3 +6687,7 @@
 //{"coords": [], "date": "2026-01-07"} // Zeugen Kreuzau, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-01-07"}, // Ulm, Einbruch
 {"coords": [6.3583, 50.9222], "date": "2026-01-07"}, // Jülich, Einbruch
+//{"coords": [], "date": "2026-01-07"} // Bad Herrenalb, entwendet
+//{"coords": [], "date": "2026-01-07"} // Straelen, entwendet
+//{"coords": [], "date": "2026-01-07"} // Hetzert, entwendet
+{"coords": [6.9889, 51.8944], "date": "2026-01-07"}, // Bargeld Velen, Dieb

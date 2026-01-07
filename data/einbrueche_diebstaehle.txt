@@ -6719,3 +6719,13 @@
 {"coords": [7.9447, 48.4731], "date": "2026-01-07"}, // Einfamilienhaus Offenburg, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-01-07"}, // Phantombild Gütersloh, Raub
 {"coords": [9.2108, 49.1425], "date": "2026-01-07"}, // Unfall Heilbronn, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-01-07"}, // Zeugen Nürnberg, Einbrüche
+{"coords": [7.1, 51.5167], "date": "2026-01-07"}, // Bank Gelsenkirchen, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-01-07"}, // Lüneburg, Einbruch
+//{"coords": [], "date": "2026-01-07"} // Kreis, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-07"}, // Horst Gelsenkirchen, Raub
+{"coords": [8.0167, 50.8833], "date": "2026-01-07"}, // Siegen, Einbruch
+{"coords": [9.0972, 52.6036], "date": "2026-01-07"}, // Grundschule Liebenau, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-01-07"}, // Einbrüche Heilbronn, Einbrüche
+//{"coords": [], "date": "2026-01-07"} // Kuckum, Diebstahl
+//{"coords": [], "date": "2026-01-07"} // Boscheln, entwendet

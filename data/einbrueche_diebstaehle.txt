@@ -6714,3 +6714,5 @@
 //{"coords": [], "date": "2026-01-07"} // Bessenich, Einbruch
 {"coords": [7.6333, 51.6167], "date": "2026-01-07"}, // Bergkamen, entwendet
 {"coords": [10.5267, 52.2689], "date": "2026-01-07"}, // Einbruch Braunschweig, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-01-07"}, // Fotofahndung Essen, entwendet
+{"coords": [7.2162, 51.4818], "date": "2026-01-07"}, // Raubdelikt Bochum, Raub

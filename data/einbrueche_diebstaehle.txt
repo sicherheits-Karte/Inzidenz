@@ -6684,3 +6684,6 @@
 {"coords": [7.4653, 51.5136], "date": "2026-01-07"}, // Dortmund, Raub
 //{"coords": [], "date": "2026-01-07"} // Gewerbeobjekte Bad Gandersheim, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2026-01-07"}, // Darmstadt, entwendet
+//{"coords": [], "date": "2026-01-07"} // Zeugen Kreuzau, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-07"}, // Ulm, Einbruch
+{"coords": [6.3583, 50.9222], "date": "2026-01-07"}, // Jülich, Einbruch

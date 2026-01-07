@@ -6707,3 +6707,10 @@
 //{"coords": [], "date": "2026-01-07"} // Gold Sankt Augustin, Einbruch
 {"coords": [7.9447, 48.4731], "date": "2026-01-07"}, // Wohnhaus Offenburg, Einbruch
 {"coords": [11.9, 49.95], "date": "2026-01-07"}, // Brand Hildesheim, Einbruch
+{"coords": [10.5369, 52.1622], "date": "2026-01-07"}, // Wolfenbüttel, Raub
+{"coords": [7.4842, 52.6742], "date": "2026-01-07"}, // Hinweise Haselünne, aufbruch
+//{"coords": [], "date": "2026-01-07"} // Kreis, Einbrüche
+{"coords": [9.5, 51.3167], "date": "2026-01-07"}, // Leipziger Platz Kassel, Raub
+//{"coords": [], "date": "2026-01-07"} // Bessenich, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2026-01-07"}, // Bergkamen, entwendet
+{"coords": [10.5267, 52.2689], "date": "2026-01-07"}, // Einbruch Braunschweig, Einbruch

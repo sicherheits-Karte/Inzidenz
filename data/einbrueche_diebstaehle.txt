@@ -6642,3 +6642,11 @@
 {"coords": [8.4353, 49.4811], "date": "2026-01-06"}, // Ludwigshafen, Einbrüche
 {"coords": [8.1075, 53.5219], "date": "2026-01-06"}, // Wilhelmshaven Wilhelmshaven, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-01-07"}, // Erfurt Erfurt, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-01-07"}, // Ulm, Raub
+{"coords": [7.6014, 52.6853], "date": "2026-01-07"}, // Zeugen Herzlake, Einbruch
+//{"coords": [], "date": "2026-01-07"} // Freren, Einbruch
+{"coords": [6.8333, 52.5667], "date": "2026-01-07"}, // Zeugen Wilsum, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-01-07"}, // Zeugen Haren, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-01-07"}, // Soest Soest, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-01-07"}, // Wohnung Iserlohn, Einbruch
+//{"coords": [], "date": "2026-01-07"} // Tageswohnungseinbruch Königswinter, Einbruch

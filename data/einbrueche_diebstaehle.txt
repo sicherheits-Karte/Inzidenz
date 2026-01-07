@@ -6766,3 +6766,4 @@
 {"coords": [7.82, 47.99], "date": "2026-01-07"}, // Freiburg, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2026-01-07"}, // Emden, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-01-07"}, // Limburg, gestohlen
+{"coords": [8.1075, 53.5219], "date": "2026-01-07"}, // Wilhelmshaven mehr, Diebstahl

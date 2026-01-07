@@ -6650,3 +6650,10 @@
 {"coords": [8.1092, 51.5711], "date": "2026-01-07"}, // Soest Soest, Einbruch
 {"coords": [7.7, 51.375], "date": "2026-01-07"}, // Wohnung Iserlohn, Einbruch
 //{"coords": [], "date": "2026-01-07"} // Tageswohnungseinbruch Königswinter, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-01-07"}, // Altenburg, aufbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-07"}, // Brände Aalen, Einbrüche
+{"coords": [11.3239, 50.9795], "date": "2026-01-07"}, // Weimar Nord Weimar, Einbruch
+//{"coords": [], "date": "2026-01-07"} // Kreis, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-01-07"}, // Jena, gestohlen
+{"coords": [11.5862, 50.9271], "date": "2026-01-07"}, // Quads Jena, Diebstahl
+{"coords": [6.55, 51.4667], "date": "2026-01-07"}, // Vluyn, Einbruch

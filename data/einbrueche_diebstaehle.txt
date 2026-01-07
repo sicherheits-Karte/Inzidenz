@@ -6691,3 +6691,10 @@
 //{"coords": [], "date": "2026-01-07"} // Straelen, entwendet
 //{"coords": [], "date": "2026-01-07"} // Hetzert, entwendet
 {"coords": [6.9889, 51.8944], "date": "2026-01-07"}, // Bargeld Velen, Dieb
+{"coords": [10.0831, 52.6247], "date": "2026-01-07"}, // Vorsicht Celle, Diebstähle
+{"coords": [8.5331, 52.021], "date": "2026-01-07"}, // Angeblicher Bankeinbruch Bielefeld, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-01-07"}, // Aufgebrochener Zigarettenautomat Reutlingen, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2026-01-07"}, // Festnahmen Schwerte, entwendet
+{"coords": [12.7167, 53.3333], "date": "2026-01-07"}, // Lagerhalle Rechlin, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2026-01-07"}, // Offenburg, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-07"}, // Zeugen Gelsenkirchen, Raub

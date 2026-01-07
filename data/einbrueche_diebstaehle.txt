@@ -6753,3 +6753,10 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-07"}, // Erfurt, gestohlen
 {"coords": [11.0299, 50.9848], "date": "2026-01-07"}, // Jahreswechsel Erfurt, Einbrecher
 {"coords": [11.0299, 50.9848], "date": "2026-01-07"}, // Friseursalon Erfurt, Einbruch
+//{"coords": [], "date": "2026-01-07"} // Kein Ort gefunden, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-01-07"}, // Reutlingen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-07"}, // Giessen, Einbrecher
+{"coords": [7.1508, 51.2562], "date": "2026-01-07"}, // Zeugen Wuppertal, Raub
+{"coords": [9.2167, 48.7333], "date": "2026-01-07"}, // Sillenbuch, eingebrochen
+//{"coords": [], "date": "2026-01-07"} // Zeugenhinweise Tangstedt, Einbruch
+{"coords": [10.8708, 51.3697], "date": "2026-01-07"}, // Sondershausen, gestohlen

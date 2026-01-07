@@ -6738,3 +6738,14 @@
 {"coords": [8.4111, 49.9917], "date": "2026-01-07"}, // Visier Krimineller Rüsselsheim, entwendet
 {"coords": [8.6944, 53.8619], "date": "2026-01-07"}, // Cuxhaven, Dieb
 {"coords": [8.6944, 53.8619], "date": "2026-01-07"}, // Schiffdorf Cuxhaven, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-01-07"}, // Ludwigshafen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-07"}, // Giessen, Dieb
+{"coords": [8.4167, 49.4], "date": "2026-01-07"}, // Limburgerhof, gestohlen
+{"coords": [9.4764, 53.6008], "date": "2026-01-07"}, // Stader Baustelle Stade, Dieb
+//{"coords": [], "date": "2026-01-07"} // Höhe, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-01-07"}, // Scheibe Giessen, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-01-07"}, // Hofheim, Einbrecher
+{"coords": [6.85, 49.3], "date": "2026-01-07"}, // Verletzten Bad Schwalbach, Einbrecher
+{"coords": [8.24, 50.0822], "date": "2026-01-07"}, // Drogeneinfluss Wiesbaden, Einbrecher
+{"coords": [10.8978, 48.3705], "date": "2026-01-07"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-01-07"}, // Gotha, eingebrochen

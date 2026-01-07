@@ -6749,3 +6749,7 @@
 {"coords": [8.24, 50.0822], "date": "2026-01-07"}, // Drogeneinfluss Wiesbaden, Einbrecher
 {"coords": [10.8978, 48.3705], "date": "2026-01-07"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-01-07"}, // Gotha, eingebrochen
+{"coords": [11.0299, 50.9848], "date": "2026-01-07"}, // Erfurt, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-01-07"}, // Erfurt, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-01-07"}, // Jahreswechsel Erfurt, Einbrecher
+{"coords": [11.0299, 50.9848], "date": "2026-01-07"}, // Friseursalon Erfurt, Einbruch

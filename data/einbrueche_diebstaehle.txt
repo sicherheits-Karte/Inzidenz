@@ -6867,3 +6867,13 @@
 {"coords": [8.4311, 49.3194], "date": "2026-01-08"}, // Speyer, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-01-08"}, // Diebstahl Augsburg, Diebstahl
 //{"coords": [], "date": "2026-01-08"} // Tuttlingen, Einbruch
+//{"coords": [], "date": "2026-01-08"} // Allensbach, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-01-08"}, // Frankenthal, gestohlen
+{"coords": [6.7623, 51.4344], "date": "2026-01-08"}, // Duisburg, aufbrüche
+{"coords": [8.24, 50.0822], "date": "2026-01-08"}, // Wiesbaden, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-08"}, // Zeugensuche Giessen, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-01-08"}, // Kassel, eingebrochen
+{"coords": [13.2611, 53.5569], "date": "2026-01-08"}, // Neubrandenburg, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-01-08"}, // Cuxhaven, aufbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-08"}, // Limburg, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-01-08"}, // Gegenverkehr Bad Schwalbach, Einbrecher

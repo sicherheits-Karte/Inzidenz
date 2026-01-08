@@ -6773,3 +6773,11 @@
 {"coords": [7.8667, 51.2167], "date": "2026-01-08"}, // Plettenberg, Einbrecher
 {"coords": [7.7, 51.375], "date": "2026-01-08"}, // Iserlohn, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-01-08"}, // Erfurt, Diebstahl
+{"coords": [6.6833, 51.6167], "date": "2026-01-08"}, // Einfamilienhaus Voerde, Einbruch
+{"coords": [7.8208, 51.6803], "date": "2026-01-08"}, // Pkw Hamm, Diebstähle
+//{"coords": [], "date": "2026-01-08"} // Weimarer Land, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-01-08"}, // Greiz, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-01-08"}, // Sonstiges Aalen, Einbruch
+{"coords": [7.45, 51.4333], "date": "2026-01-08"}, // Vorhalle, stahl
+{"coords": [10.0936, 48.8372], "date": "2026-01-08"}, // Einbruch Aalen, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-08"}, // Mitte, Einbruch

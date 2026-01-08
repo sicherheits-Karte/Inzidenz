@@ -6781,3 +6781,7 @@
 {"coords": [7.45, 51.4333], "date": "2026-01-08"}, // Vorhalle, stahl
 {"coords": [10.0936, 48.8372], "date": "2026-01-08"}, // Einbruch Aalen, Einbruch
 {"coords": [8.5833, 53.55], "date": "2026-01-08"}, // Mitte, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-01-08"}, // Trunkenheitsfahrt Northeim, Diebstähle
+{"coords": [6.6393, 49.7556], "date": "2026-01-08"}, // Brennholz Trier, entwendet
+{"coords": [8.6306, 53.05], "date": "2026-01-08"}, // Festnahme Delmenhorst, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-01-08"}, // Zeugen Dinslaken, gestohlen

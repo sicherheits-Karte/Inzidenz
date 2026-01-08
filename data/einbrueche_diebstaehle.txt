@@ -6838,3 +6838,7 @@
 {"coords": [9.9937, 53.5511], "date": "2026-01-08"}, // Eimsbütteler Restaurant Hamburg, Raub
 {"coords": [9.2108, 49.1425], "date": "2026-01-08"}, // Einbrüche Heilbronn, Einbrüche
 {"coords": [9.6333, 51.65], "date": "2026-01-08"}, // Einbruchdiebstahl Uslar, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-08"}, // Ilversgehofen Erfurt, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-08"}, // Tatverdächtige Recklinghausen, Einbrüche
+{"coords": [6.4833, 50.8], "date": "2026-01-08"}, // Hinweise Düren, gestohlen
+{"coords": [8.8731, 51.275], "date": "2026-01-08"}, // Korbach, Einbruch

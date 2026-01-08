@@ -6817,3 +6817,5 @@
 {"coords": [7.2162, 51.4818], "date": "2026-01-08"}, // Zeugen Bochum, Einbruch
 //{"coords": [], "date": "2026-01-08"} // Völkershausen, Raub
 {"coords": [9.4764, 53.6008], "date": "2026-01-08"}, // Stade, entwendet
+{"coords": [7.5336, 52.1728], "date": "2026-01-08"}, // Wohnhaus Emsdetten, Einbruch
+{"coords": [10.0167, 53.2667], "date": "2026-01-08"}, // Hanstedt, Dieb

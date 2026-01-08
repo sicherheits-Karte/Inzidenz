@@ -6831,3 +6831,5 @@
 {"coords": [11.9, 49.95], "date": "2026-01-08"}, // Brand Friedewald, stahl
 {"coords": [8.5331, 52.021], "date": "2026-01-08"}, // Einbrecher Bielefeld, Einbrüche
 {"coords": [7.7689, 49.4447], "date": "2026-01-08"}, // Kaiserslautern, Dieb
+{"coords": [7.2061, 53.3669], "date": "2026-01-08"}, // Emden, Diebstahl
+//{"coords": [], "date": "2026-01-08"} // Kattendorf, Einbruch

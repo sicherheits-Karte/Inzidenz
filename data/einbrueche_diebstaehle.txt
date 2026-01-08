@@ -6836,3 +6836,5 @@
 //{"coords": [], "date": "2026-01-08"} // Fridingen, Einbruch
 {"coords": [7.1667, 50.8167], "date": "2026-01-08"}, // Zeugenhinweise Troisdorf, Diebstähle
 {"coords": [9.9937, 53.5511], "date": "2026-01-08"}, // Eimsbütteler Restaurant Hamburg, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-01-08"}, // Einbrüche Heilbronn, Einbrüche
+{"coords": [9.6333, 51.65], "date": "2026-01-08"}, // Einbruchdiebstahl Uslar, Einbruch

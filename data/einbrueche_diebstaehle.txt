@@ -6812,3 +6812,8 @@
 {"coords": [8.5167, 49.7], "date": "2026-01-08"}, // Rohrheim, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-01-08"}, // Nordhausen, Diebstahl
 {"coords": [8.0472, 52.2799], "date": "2026-01-08"}, // Osnabrück, Diebstahl
+{"coords": [6.2333, 51.5833], "date": "2026-01-08"}, // Zeugen Kevelaer, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2026-01-08"}, // Mehrfamilienhauses Schwerte, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-01-08"}, // Zeugen Bochum, Einbruch
+//{"coords": [], "date": "2026-01-08"} // Völkershausen, Raub
+{"coords": [9.4764, 53.6008], "date": "2026-01-08"}, // Stade, entwendet

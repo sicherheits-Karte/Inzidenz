@@ -6770,3 +6770,6 @@
 //{"coords": [], "date": "2026-01-07"} // Hegner Bucht, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-01-07"}, // Bahnhof Barnten Hildesheim, aufbruch
 //{"coords": [], "date": "2026-01-07"} // Insel Reichenau Allensbach, Einbruch
+{"coords": [7.8667, 51.2167], "date": "2026-01-08"}, // Plettenberg, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-01-08"}, // Iserlohn, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-01-08"}, // Erfurt, Diebstahl

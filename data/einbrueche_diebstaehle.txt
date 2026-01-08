@@ -6844,3 +6844,13 @@
 {"coords": [8.8731, 51.275], "date": "2026-01-08"}, // Korbach, Einbruch
 {"coords": [10.5464, 52.4886], "date": "2026-01-08"}, // Gifhorn, Diebstahl
 {"coords": [10.4, 53.25], "date": "2026-01-08"}, // Täter Lüneburg, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-01-08"}, // Recklinghausen, gestohlen
+{"coords": [8.1667, 49.5667], "date": "2026-01-08"}, // Euro Grünstadt, Diebstahl
+//{"coords": [], "date": "2026-01-08"} // Höhe, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-01-08"}, // Mehrfamilienhaus Gütersloh, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-08"}, // Mitte, Dieb
+{"coords": [7.4333, 52.2833], "date": "2026-01-08"}, // Tierarztpraxis Rheine, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2026-01-08"}, // Zahnarztpraxen Rheine, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-01-08"}, // Pkw Kaiserslautern, Diebstahl
+{"coords": [6.9194, 51.9944], "date": "2026-01-08"}, // Kupferrohre Stadtlohn, Dieb
+{"coords": [8.2146, 53.1434], "date": "2026-01-08"}, // Usedomer Ring Oldenburg, Einbruch

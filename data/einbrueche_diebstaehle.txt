@@ -6877,3 +6877,4 @@
 {"coords": [8.6944, 53.8619], "date": "2026-01-08"}, // Cuxhaven, aufbruch
 {"coords": [8.0667, 50.3833], "date": "2026-01-08"}, // Limburg, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-01-08"}, // Gegenverkehr Bad Schwalbach, Einbrecher
+{"coords": [7.1675, 51.9436], "date": "2026-01-08"}, // Haft Coesfeld, Einbruch

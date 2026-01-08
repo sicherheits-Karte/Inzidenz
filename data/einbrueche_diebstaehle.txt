@@ -6819,3 +6819,10 @@
 {"coords": [9.4764, 53.6008], "date": "2026-01-08"}, // Stade, entwendet
 {"coords": [7.5336, 52.1728], "date": "2026-01-08"}, // Wohnhaus Emsdetten, Einbruch
 {"coords": [10.0167, 53.2667], "date": "2026-01-08"}, // Hanstedt, Dieb
+{"coords": [8.8731, 51.275], "date": "2026-01-08"}, // Wohnhaus Korbach, Einbrecher
+{"coords": [6.4833, 50.8], "date": "2026-01-08"}, // Düren, Diebstahl
+//{"coords": [], "date": "2026-01-08"} // Kreis, geklaut
+{"coords": [8.7667, 50.1], "date": "2026-01-08"}, // Kreis Offenbach, Diebstahl
+//{"coords": [], "date": "2026-01-08"} // Uedem, entwendet
+{"coords": [9.1167, 50.85], "date": "2026-01-08"}, // Neustadt, Diebstahl
+//{"coords": [], "date": "2026-01-08"} // Altstadt, Diebstahl

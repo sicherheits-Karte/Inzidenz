@@ -6882,3 +6882,4 @@
 //{"coords": [], "date": "2026-01-08"} // Stahlmattenzaun Müschenbach, stahl
 //{"coords": [], "date": "2026-01-08"} // Ebersheim, Einbrüche
 {"coords": [9.95, 52.15], "date": "2026-01-08"}, // Autobahn Hildesheim, gestohlen
+//{"coords": [], "date": "2026-01-08"} // Odenwaldkreis, Raub

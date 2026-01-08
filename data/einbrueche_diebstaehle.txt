@@ -6826,3 +6826,8 @@
 //{"coords": [], "date": "2026-01-08"} // Uedem, entwendet
 {"coords": [9.1167, 50.85], "date": "2026-01-08"}, // Neustadt, Diebstahl
 //{"coords": [], "date": "2026-01-08"} // Altstadt, Diebstahl
+{"coords": [9.3833, 50.6333], "date": "2026-01-08"}, // Vogelsbergkreis, Diebstahl
+{"coords": [9.4108, 53.1111], "date": "2026-01-08"}, // Rotenburg, entwendet
+{"coords": [11.9, 49.95], "date": "2026-01-08"}, // Brand Friedewald, stahl
+{"coords": [8.5331, 52.021], "date": "2026-01-08"}, // Einbrecher Bielefeld, Einbrüche
+{"coords": [7.7689, 49.4447], "date": "2026-01-08"}, // Kaiserslautern, Dieb

@@ -6854,3 +6854,11 @@
 {"coords": [7.7689, 49.4447], "date": "2026-01-08"}, // Pkw Kaiserslautern, Diebstahl
 {"coords": [6.9194, 51.9944], "date": "2026-01-08"}, // Kupferrohre Stadtlohn, Dieb
 {"coords": [8.2146, 53.1434], "date": "2026-01-08"}, // Usedomer Ring Oldenburg, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2026-01-08"}, // Zahnarztpraxis Rüsselsheim, Einbruch
+{"coords": [10.1228, 54.3233], "date": "2026-01-08"}, // Zeugen Kiel, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-01-08"}, // Pkw Aalen, Diebstahl
+{"coords": [8.0167, 50.8833], "date": "2026-01-08"}, // Siegen, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2026-01-08"}, // Einbruchsversuch Heidekreis, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-01-08"}, // Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-01-08"}, // Frankfurt, Räuber
+{"coords": [8.6822, 50.1106], "date": "2026-01-08"}, // Zeugensuche Frankfurt, Raub

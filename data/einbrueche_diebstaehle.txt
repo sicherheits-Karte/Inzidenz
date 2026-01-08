@@ -6806,3 +6806,9 @@
 {"coords": [8.6833, 52.15], "date": "2026-01-08"}, // Elektronik Herford, Diebstahl
 {"coords": [9.9916, 48.3984], "date": "2026-01-08"}, // Ulm, aufbruch
 //{"coords": [], "date": "2026-01-08"} // Geschäft Olsberg, Einbruch
+{"coords": [8.5786, 49.5383], "date": "2026-01-08"}, // Viernheim, Einbrüche
+{"coords": [8.6944, 49.4092], "date": "2026-01-08"}, // Zeugenaufruf Heidelberg, entwendet
+//{"coords": [], "date": "2026-01-08"} // Wohngebiet, Einbruch
+{"coords": [8.5167, 49.7], "date": "2026-01-08"}, // Rohrheim, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-01-08"}, // Nordhausen, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-01-08"}, // Osnabrück, Diebstahl

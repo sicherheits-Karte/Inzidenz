@@ -6800,3 +6800,9 @@
 {"coords": [7.5314, 52.5536], "date": "2026-01-08"}, // Lengerich, Einbruch
 {"coords": [7.4333, 52.2833], "date": "2026-01-08"}, // Rheine, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2026-01-08"}, // Oldenburg, Einbruch
+{"coords": [7.0028, 50.7631], "date": "2026-01-08"}, // Bornheim, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-08"}, // Rollerdiebstahl Darmstadt, Diebstahl
+{"coords": [8.6167, 52.1667], "date": "2026-01-08"}, // Zeugen Hiddenhausen, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-01-08"}, // Elektronik Herford, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-01-08"}, // Ulm, aufbruch
+//{"coords": [], "date": "2026-01-08"} // Geschäft Olsberg, Einbruch

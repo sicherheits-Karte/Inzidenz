@@ -6790,3 +6790,13 @@
 {"coords": [8.8667, 51.9333], "date": "2026-01-08"}, // Lippe, Dieb
 //{"coords": [], "date": "2026-01-08"} // Baustellengelände Stöckse, Diebstahl
 {"coords": [8.0472, 52.2799], "date": "2026-01-08"}, // Festnahme Osnabrück, Diebstahl
+{"coords": [8.7667, 51.7167], "date": "2026-01-08"}, // Paderborn, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-08"}, // Zeugen Osnabrück, Einbruch
+{"coords": [7.8667, 48.35], "date": "2026-01-08"}, // Automatenkiosk Lahr, Einbruch
+//{"coords": [], "date": "2026-01-08"} // Pfalzdorf, Einbruch
+//{"coords": [], "date": "2026-01-08"} // Aldekerk, entwendet
+{"coords": [7.6889, 51.5347], "date": "2026-01-08"}, // Schmuckgeschäft Unna, Einbruch
+{"coords": [9.1, 48.8], "date": "2026-01-08"}, // Weilimdorf, Einbruch
+{"coords": [7.5314, 52.5536], "date": "2026-01-08"}, // Lengerich, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2026-01-08"}, // Rheine, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-01-08"}, // Oldenburg, Einbruch

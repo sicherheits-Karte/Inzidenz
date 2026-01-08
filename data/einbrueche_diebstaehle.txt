@@ -6785,3 +6785,4 @@
 {"coords": [6.6393, 49.7556], "date": "2026-01-08"}, // Brennholz Trier, entwendet
 {"coords": [8.6306, 53.05], "date": "2026-01-08"}, // Festnahme Delmenhorst, Einbruch
 {"coords": [6.75, 51.5833], "date": "2026-01-08"}, // Zeugen Dinslaken, gestohlen
+{"coords": [8.1092, 51.5711], "date": "2026-01-08"}, // Soest Soest, Diebstahl

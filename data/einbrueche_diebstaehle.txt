@@ -6789,3 +6789,4 @@
 {"coords": [9.9916, 48.3984], "date": "2026-01-08"}, // Ulm, Einbrüche
 {"coords": [8.8667, 51.9333], "date": "2026-01-08"}, // Lippe, Dieb
 //{"coords": [], "date": "2026-01-08"} // Baustellengelände Stöckse, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-01-08"}, // Festnahme Osnabrück, Diebstahl

@@ -6954,3 +6954,5 @@
 {"coords": [7.0333, 52.2167], "date": "2026-01-09"}, // Einfamilienhaus Gronau, Einbruch
 {"coords": [8.7667, 50.1], "date": "2026-01-09"}, // Kreis Offenbach, Einbruch
 {"coords": [9.0, 50.7333], "date": "2026-01-09"}, // Zeugen Homberg, Diebstahl
+{"coords": [9.9158, 51.5413], "date": "2026-01-09"}, // Göttingen, stehlen
+{"coords": [6.7735, 51.2277], "date": "2026-01-09"}, // Festnahme Düsseldorf, Diebstahl

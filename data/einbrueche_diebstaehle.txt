@@ -6942,3 +6942,7 @@
 {"coords": [7.2162, 51.4818], "date": "2026-01-09"}, // Zeugen Bochum, Einbruch
 //{"coords": [], "date": "2026-01-09"} // Tuttlingen, entwendet
 //{"coords": [], "date": "2026-01-09"} // Einbruch Hinternah, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-01-09"}, // Zeugen Homberg, Einbruch
+//{"coords": [], "date": "2026-01-09"} // Kriminellen Bad König, entwendet
+{"coords": [9.2844, 51.045], "date": "2026-01-09"}, // Borken, eingebrochen
+{"coords": [9.2167, 48.4833], "date": "2026-01-09"}, // Einbruch Reutlingen, Einbruch

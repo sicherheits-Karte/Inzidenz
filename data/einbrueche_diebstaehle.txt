@@ -6904,3 +6904,11 @@
 {"coords": [8.4942, 49.8342], "date": "2026-01-09"}, // Hinweise Riedstadt, Diebstahl
 //{"coords": [], "date": "2026-01-09"} // Münchfeld, Raub
 {"coords": [7.1675, 51.9436], "date": "2026-01-09"}, // Einbruch Coesfeld, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-01-09"}, // Wilhelmshaven Wilhelmshaven, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-01-09"}, // Mitte, gestohlen
+{"coords": [7.7689, 49.4447], "date": "2026-01-09"}, // Kaiserslautern, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-01-09"}, // Erfurt, entwendet
+{"coords": [12.0991, 54.0924], "date": "2026-01-09"}, // Landkreis Rostock, Diebstahl
+{"coords": [7.75, 51.3833], "date": "2026-01-09"}, // Honigdiebe Hemer, Dieb
+{"coords": [7.4981, 51.1861], "date": "2026-01-09"}, // Halver, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-01-09"}, // Coesfeld, entwendet

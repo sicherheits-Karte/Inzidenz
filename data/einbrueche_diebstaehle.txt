@@ -6974,3 +6974,8 @@
 //{"coords": [], "date": "2026-01-09"} // Kein Ort gefunden, Dieb
 //{"coords": [], "date": "2026-01-09"} // Kreis, entwendet
 {"coords": [8.6822, 50.1106], "date": "2026-01-09"}, // Widerstand Frankfurt, Diebstahl
+{"coords": [10.45, 48.5667], "date": "2026-01-09"}, // Dillingen Dillingen, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-01-09"}, // Einbruch Heilbronn, Einbruch
+{"coords": [7.3333, 51.4333], "date": "2026-01-09"}, // Witten, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-09"}, // Zeugen Freiburg, Einbrüche
+{"coords": [7.2197, 51.5428], "date": "2026-01-09"}, // Fahrzeug Herne, Diebstahl

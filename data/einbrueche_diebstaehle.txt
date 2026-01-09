@@ -6979,3 +6979,4 @@
 {"coords": [7.3333, 51.4333], "date": "2026-01-09"}, // Witten, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-01-09"}, // Zeugen Freiburg, Einbrüche
 {"coords": [7.2197, 51.5428], "date": "2026-01-09"}, // Fahrzeug Herne, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-01-09"}, // Autohaus Ludwigsburg, Einbruch

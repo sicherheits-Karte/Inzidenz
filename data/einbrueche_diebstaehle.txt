@@ -6969,3 +6969,8 @@
 //{"coords": [], "date": "2026-01-09"} // Bauchem, Diebstahl
 //{"coords": [], "date": "2026-01-09"} // Hüls, stehlen
 {"coords": [7.4836, 53.4711], "date": "2026-01-09"}, // Landkreis Aurich, Diebstahl
+{"coords": [6.7, 51.8333], "date": "2026-01-09"}, // Gehöfts Rhede, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-09"}, // Jacke Bielefeld, Dieb
+//{"coords": [], "date": "2026-01-09"} // Kein Ort gefunden, Dieb
+//{"coords": [], "date": "2026-01-09"} // Kreis, entwendet
+{"coords": [8.6822, 50.1106], "date": "2026-01-09"}, // Widerstand Frankfurt, Diebstahl

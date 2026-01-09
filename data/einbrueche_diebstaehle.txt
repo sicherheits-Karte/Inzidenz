@@ -6912,3 +6912,12 @@
 {"coords": [7.75, 51.3833], "date": "2026-01-09"}, // Honigdiebe Hemer, Dieb
 {"coords": [7.4981, 51.1861], "date": "2026-01-09"}, // Halver, Dieb
 {"coords": [7.1675, 51.9436], "date": "2026-01-09"}, // Coesfeld, entwendet
+{"coords": [7.5667, 51.0167], "date": "2026-01-09"}, // Wiehl, Einbrecher
+{"coords": [7.3, 51.1333], "date": "2026-01-09"}, // Ärztehaus Hückeswagen, Einbruch
+{"coords": [7.4, 51.1167], "date": "2026-01-09"}, // Wipperfürth, gestohlen
+{"coords": [9.8667, 51.8167], "date": "2026-01-09"}, // Geldbörse Einbeck, Diebstahl
+{"coords": [11.4653, 53.8925], "date": "2026-01-09"}, // Geldbörsendieb Wismar, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-01-09"}, // Ludwigsburg, gestohlen
+{"coords": [7.9833, 51.95], "date": "2026-01-09"}, // Warendorf, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-09"}, // Einfamilienhaus Ludwigsburg, Einbruch
+{"coords": [10.3333, 52.15], "date": "2026-01-09"}, // Salzgitter, Dieb

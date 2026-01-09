@@ -6893,3 +6893,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-09"}, // Unfälle Aalen, Einbruch
 {"coords": [7.85, 51.6333], "date": "2026-01-09"}, // Rhynern, Einbruch
 {"coords": [7.9167, 51.5833], "date": "2026-01-09"}, // Hövel, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-01-09"}, // Delmenhorst, Einbruch

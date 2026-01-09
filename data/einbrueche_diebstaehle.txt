@@ -6932,3 +6932,9 @@
 {"coords": [10.7753, 49.7544], "date": "2026-01-09"}, // Diebstahls Mühlhausen, Diebstahl
 //{"coords": [], "date": "2026-01-09"} // Bad Langensalza, Diebstahl
 {"coords": [7.45, 50.7833], "date": "2026-01-09"}, // Feuerwehr Eitorf, Einbruch
+//{"coords": [], "date": "2026-01-09"} // Thüringer Autobahnen Thüringer Autobahnen, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-01-09"}, // Stadtgebiet Oldenburg Oldenburg, Einbruch
+//{"coords": [], "date": "2026-01-09"} // Baude Schmiedefeld, Einbruch
+{"coords": [11.1917, 53.4289], "date": "2026-01-09"}, // Hagenow, Diebstahl
+//{"coords": [], "date": "2026-01-09"} // Weidenau, Einbruch
+{"coords": [8.8494, 51.4611], "date": "2026-01-09"}, // Marsberg, Raub

@@ -6921,3 +6921,7 @@
 {"coords": [7.9833, 51.95], "date": "2026-01-09"}, // Warendorf, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-09"}, // Einfamilienhaus Ludwigsburg, Einbruch
 {"coords": [10.3333, 52.15], "date": "2026-01-09"}, // Salzgitter, Dieb
+//{"coords": [], "date": "2026-01-09"} // Kein Ort gefunden, Einbrecher
+{"coords": [8.3708, 52.6078], "date": "2026-01-09"}, // Diepholz, Einbruch
+{"coords": [7.5833, 51.3667], "date": "2026-01-09"}, // Hohenlimburg, gestohlen
+{"coords": [9.8333, 53.95], "date": "2026-01-09"}, // Supermarkt Hagen, Diebstahl

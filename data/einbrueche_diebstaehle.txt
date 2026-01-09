@@ -6980,3 +6980,9 @@
 {"coords": [7.82, 47.99], "date": "2026-01-09"}, // Zeugen Freiburg, Einbrüche
 {"coords": [7.2197, 51.5428], "date": "2026-01-09"}, // Fahrzeug Herne, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-01-09"}, // Autohaus Ludwigsburg, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-01-09"}, // Flucht Viersen, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-01-09"}, // Glätte Wiesbaden, Raub
+{"coords": [8.4414, 50.0919], "date": "2026-01-09"}, // Drogeneinfluss Hofheim, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-09"}, // Limburg, eingebrochen
+{"coords": [6.85, 49.3], "date": "2026-01-09"}, // Bad Schwalbach, Einbrecher
+{"coords": [9.9158, 51.5413], "date": "2026-01-09"}, // Schock Göttingen, Raub

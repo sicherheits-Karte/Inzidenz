@@ -6883,3 +6883,13 @@
 //{"coords": [], "date": "2026-01-08"} // Ebersheim, Einbrüche
 {"coords": [9.95, 52.15], "date": "2026-01-08"}, // Autobahn Hildesheim, gestohlen
 //{"coords": [], "date": "2026-01-08"} // Odenwaldkreis, Raub
+//{"coords": [], "date": "2026-01-09"} // Weimarer Land, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-01-09"}, // Jena, entwendet
+{"coords": [8.1667, 51.6833], "date": "2026-01-09"}, // Baumarkt Lippetal, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-01-09"}, // Hinweise Haren, Einbruch
+//{"coords": [], "date": "2026-01-09"} // Hinweise Freren, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-01-09"}, // Hinweise Lingen, Einbruch
+{"coords": [7.3333, 52.9667], "date": "2026-01-09"}, // Hinweise Dörpen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-01-09"}, // Unfälle Aalen, Einbruch
+{"coords": [7.85, 51.6333], "date": "2026-01-09"}, // Rhynern, Einbruch
+{"coords": [7.9167, 51.5833], "date": "2026-01-09"}, // Hövel, Einbruch

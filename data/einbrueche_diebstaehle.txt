@@ -6894,3 +6894,9 @@
 {"coords": [7.85, 51.6333], "date": "2026-01-09"}, // Rhynern, Einbruch
 {"coords": [7.9167, 51.5833], "date": "2026-01-09"}, // Hövel, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-01-09"}, // Delmenhorst, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-01-09"}, // Herford, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-01-09"}, // Altenburg, Einbruch
+{"coords": [8.6167, 52.1667], "date": "2026-01-09"}, // Haustür Hiddenhausen, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-01-09"}, // Zeugen Kleve, Einbruch
+{"coords": [6.2333, 51.5833], "date": "2026-01-09"}, // Fenster Kevelaer, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-01-09"}, // Zwei Unfälle Heidekreis, Einbrecher

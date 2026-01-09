@@ -6946,3 +6946,11 @@
 //{"coords": [], "date": "2026-01-09"} // Kriminellen Bad König, entwendet
 {"coords": [9.2844, 51.045], "date": "2026-01-09"}, // Borken, eingebrochen
 {"coords": [9.2167, 48.4833], "date": "2026-01-09"}, // Einbruch Reutlingen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-01-09"}, // Homberg, Dieb
+{"coords": [6.9194, 51.9944], "date": "2026-01-09"}, // Stadtlohn, Dieb
+//{"coords": [], "date": "2026-01-09"} // Kreis, Einbruch
+{"coords": [6.5667, 51.0], "date": "2026-01-09"}, // Bedburg, Raub
+{"coords": [7.2061, 53.3669], "date": "2026-01-09"}, // Emden, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-01-09"}, // Einfamilienhaus Gronau, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-01-09"}, // Kreis Offenbach, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-01-09"}, // Zeugen Homberg, Diebstahl

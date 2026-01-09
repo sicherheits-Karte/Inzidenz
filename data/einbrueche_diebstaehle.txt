@@ -6958,3 +6958,5 @@
 {"coords": [6.7735, 51.2277], "date": "2026-01-09"}, // Festnahme Düsseldorf, Diebstahl
 {"coords": [13.0819, 54.3092], "date": "2026-01-09"}, // Einbruchsdiebstahl Stralsund, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-01-09"}, // Zeugenaufruf Mannheim, Diebstahl
+{"coords": [10.7865, 52.4226], "date": "2026-01-09"}, // Wolfsburg, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2026-01-09"}, // Bonn, gestohlen

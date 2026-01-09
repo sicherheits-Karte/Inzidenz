@@ -6962,3 +6962,10 @@
 {"coords": [7.0982, 50.7374], "date": "2026-01-09"}, // Bonn, gestohlen
 {"coords": [9.3833, 50.6333], "date": "2026-01-09"}, // Vogelsbergkreis, entwendet
 {"coords": [6.9603, 50.9375], "date": "2026-01-09"}, // Köln, gestohlen
+{"coords": [8.2869, 52.7303], "date": "2026-01-09"}, // Vechta, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-01-09"}, // Vechta, Einbrüche
+//{"coords": [], "date": "2026-01-09"} // Rödgen, eingebrochen
+{"coords": [6.315, 51.0794], "date": "2026-01-09"}, // Erkelenz, entwendet
+//{"coords": [], "date": "2026-01-09"} // Bauchem, Diebstahl
+//{"coords": [], "date": "2026-01-09"} // Hüls, stehlen
+{"coords": [7.4836, 53.4711], "date": "2026-01-09"}, // Landkreis Aurich, Diebstahl

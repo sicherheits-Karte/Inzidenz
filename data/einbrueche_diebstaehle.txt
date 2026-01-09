@@ -6900,3 +6900,6 @@
 {"coords": [6.1353, 51.7875], "date": "2026-01-09"}, // Zeugen Kleve, Einbruch
 {"coords": [6.2333, 51.5833], "date": "2026-01-09"}, // Fenster Kevelaer, Einbruch
 {"coords": [9.9333, 52.9667], "date": "2026-01-09"}, // Zwei Unfälle Heidekreis, Einbrecher
+{"coords": [9.9916, 48.3984], "date": "2026-01-09"}, // Ulm, Einbruch
+{"coords": [8.4942, 49.8342], "date": "2026-01-09"}, // Hinweise Riedstadt, Diebstahl
+//{"coords": [], "date": "2026-01-09"} // Münchfeld, Raub

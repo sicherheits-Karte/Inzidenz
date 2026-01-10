@@ -6988,3 +6988,8 @@
 {"coords": [9.9158, 51.5413], "date": "2026-01-09"}, // Schock Göttingen, Raub
 //{"coords": [], "date": "2026-01-10"} // Westen, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-10"}, // Ludwigsburg, entwendet
+{"coords": [8.2869, 52.7303], "date": "2026-01-10"}, // Vechta, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-01-10"}, // Kneipe Nordhorn, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-01-10"}, // Hinweise Lingen, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2026-01-10"}, // Hinweise Nordhorn, Einbruch
+{"coords": [7.3167, 52.3333], "date": "2026-01-10"}, // Hinweise Emsbüren, Einbruch

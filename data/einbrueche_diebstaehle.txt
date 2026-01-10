@@ -6993,3 +6993,6 @@
 {"coords": [7.3194, 52.5236], "date": "2026-01-10"}, // Hinweise Lingen, Diebstahl
 {"coords": [7.0667, 52.4333], "date": "2026-01-10"}, // Hinweise Nordhorn, Einbruch
 {"coords": [7.3167, 52.3333], "date": "2026-01-10"}, // Hinweise Emsbüren, Einbruch
+//{"coords": [], "date": "2026-01-10"} // Königsheim, entwendet
+{"coords": [10.7956, 51.5019], "date": "2026-01-10"}, // Nordhausen, Einbrecher
+{"coords": [7.4547, 53.2311], "date": "2026-01-10"}, // Leer, Einbruch

@@ -7001,3 +7001,7 @@
 {"coords": [9.6106, 47.7828], "date": "2026-01-10"}, // Landkreis Ravensburg Ravensburg, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-01-10"}, // Erfurt, Einbruch
 {"coords": [7.6667, 50.55], "date": "2026-01-10"}, // Grabschmuck Dierdorf, Diebstahl
+{"coords": [8.1128, 49.1994], "date": "2026-01-10"}, // Landau, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-01-10"}, // Kennzeichen Wittlich, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-01-10"}, // Verkehrsunfälle Reutlingen, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2026-01-10"}, // Goslar, Einbruch

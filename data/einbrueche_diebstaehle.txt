@@ -6986,3 +6986,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-01-09"}, // Limburg, eingebrochen
 {"coords": [6.85, 49.3], "date": "2026-01-09"}, // Bad Schwalbach, Einbrecher
 {"coords": [9.9158, 51.5413], "date": "2026-01-09"}, // Schock Göttingen, Raub
+//{"coords": [], "date": "2026-01-10"} // Westen, Einbruch

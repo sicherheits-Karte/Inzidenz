@@ -7006,3 +7006,5 @@
 {"coords": [9.2167, 48.4833], "date": "2026-01-10"}, // Verkehrsunfälle Reutlingen, Einbruch
 {"coords": [10.4278, 51.9042], "date": "2026-01-10"}, // Goslar, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-01-10"}, // Hofheim, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-01-10"}, // Schwäbisch Gmünd Aalen, aufbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-10"}, // Endersbach Aalen, Einbruch

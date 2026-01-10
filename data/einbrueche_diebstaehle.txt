@@ -7000,3 +7000,4 @@
 {"coords": [7.7689, 49.4447], "date": "2026-01-10"}, // Kaiserslautern, Einbruch
 {"coords": [9.6106, 47.7828], "date": "2026-01-10"}, // Landkreis Ravensburg Ravensburg, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-01-10"}, // Erfurt, Einbruch
+{"coords": [7.6667, 50.55], "date": "2026-01-10"}, // Grabschmuck Dierdorf, Diebstahl

@@ -7010,3 +7010,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-10"}, // Endersbach Aalen, Einbruch
 //{"coords": [], "date": "2026-01-10"} // POL-PDNR, Diebstahl
 //{"coords": [], "date": "2026-01-10"} // Bingen, Raub
+{"coords": [7.9833, 51.95], "date": "2026-01-10"}, // Reihenendhaus Warendorf, Einbruch

@@ -7016,3 +7016,5 @@
 {"coords": [8.0667, 49.9867], "date": "2026-01-11"}, // Ingelheim, Diebstahl
 {"coords": [11.3239, 50.9795], "date": "2026-01-11"}, // Weimar Weimar, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2026-01-11"}, // Weimar, entwendet
+{"coords": [7.3392, 51.3197], "date": "2026-01-11"}, // Schulgebäude Gevelsberg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-11"}, // Einfamilienhaus Ludwigsburg, Einbruch

@@ -7018,3 +7018,7 @@
 {"coords": [11.3239, 50.9795], "date": "2026-01-11"}, // Weimar, entwendet
 {"coords": [7.3392, 51.3197], "date": "2026-01-11"}, // Schulgebäude Gevelsberg, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-11"}, // Einfamilienhaus Ludwigsburg, Einbruch
+{"coords": [6.8, 51.0], "date": "2026-01-11"}, // Ort Pulheim, Dieb
+{"coords": [7.2417, 52.7922], "date": "2026-01-11"}, // Haren, Dieb
+{"coords": [7.6014, 52.6853], "date": "2026-01-11"}, // Renovierungsarbeiten Herzlake, Einbruch
+{"coords": [6.7, 51.8333], "date": "2026-01-11"}, // Rhede, Diebstahl

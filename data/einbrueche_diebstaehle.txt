@@ -7026,3 +7026,4 @@
 {"coords": [12.1997, 50.6544], "date": "2026-01-11"}, // Lebensmittelmarkt Greiz, Einbruch
 //{"coords": [], "date": "2026-01-11"} // Kreis, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-01-11"}, // Widerstand Ludwigshafen, Diebstahl
+{"coords": [8.25, 49.2], "date": "2026-01-11"}, // Herxheim, Einbruch

@@ -7056,3 +7056,4 @@
 {"coords": [9.9333, 52.9667], "date": "2026-01-11"}, // Polizei Heidekreis, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-01-11"}, // Hofheim, Einbrecher
 {"coords": [8.8431, 49.8978], "date": "2026-01-11"}, // Dieburg, Dieb
+//{"coords": [], "date": "2026-01-11"} // der Nacht vom, Diebstahl

@@ -7052,3 +7052,5 @@
 {"coords": [6.7735, 51.2277], "date": "2026-01-11"}, // Zeugen Düsseldorf, Raub
 {"coords": [7.2162, 51.4818], "date": "2026-01-11"}, // Seniorin Bochum, Dieb
 {"coords": [8.8075, 53.075], "date": "2026-01-11"}, // Bremen, eingebrochen
+{"coords": [8.1075, 53.5219], "date": "2026-01-11"}, // Wilhelmshaven, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-01-11"}, // Polizei Heidekreis, Einbruch

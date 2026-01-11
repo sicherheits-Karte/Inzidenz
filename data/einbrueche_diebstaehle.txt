@@ -7044,3 +7044,7 @@
 {"coords": [7.2162, 51.4818], "date": "2026-01-11"}, // Zeugen Bochum, Raub
 {"coords": [6.85, 49.3], "date": "2026-01-11"}, // Bad Schwalbach, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2026-01-11"}, // Gotha, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-01-11"}, // Mühlhausen, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-01-11"}, // Bochum, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2026-01-11"}, // Goslar, Diebstahl
+{"coords": [6.9667, 51.2333], "date": "2026-01-11"}, // Polizei Mettmann POL-ME, Dieb

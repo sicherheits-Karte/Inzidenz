@@ -7022,3 +7022,7 @@
 {"coords": [7.2417, 52.7922], "date": "2026-01-11"}, // Haren, Dieb
 {"coords": [7.6014, 52.6853], "date": "2026-01-11"}, // Renovierungsarbeiten Herzlake, Einbruch
 {"coords": [6.7, 51.8333], "date": "2026-01-11"}, // Rhede, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2026-01-11"}, // Teichwolframsdorf Greiz, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2026-01-11"}, // Lebensmittelmarkt Greiz, Einbruch
+//{"coords": [], "date": "2026-01-11"} // Kreis, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-11"}, // Widerstand Ludwigshafen, Diebstahl

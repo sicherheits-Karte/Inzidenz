@@ -7057,3 +7057,4 @@
 {"coords": [8.4414, 50.0919], "date": "2026-01-11"}, // Hofheim, Einbrecher
 {"coords": [8.8431, 49.8978], "date": "2026-01-11"}, // Dieburg, Dieb
 //{"coords": [], "date": "2026-01-11"} // der Nacht vom, Diebstahl
+{"coords": [12.0991, 54.0924], "date": "2026-01-11"}, // Raub Rostock, Raub

@@ -7013,3 +7013,6 @@
 {"coords": [7.9833, 51.95], "date": "2026-01-10"}, // Reihenendhaus Warendorf, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2026-01-11"}, // Landkreis Gotha, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2026-01-11"}, // Öffentlichkeitsfahndung Mühlhausen, Raub
+{"coords": [8.0667, 49.9867], "date": "2026-01-11"}, // Ingelheim, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-01-11"}, // Weimar Weimar, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-01-11"}, // Weimar, entwendet

@@ -7027,3 +7027,8 @@
 //{"coords": [], "date": "2026-01-11"} // Kreis, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-01-11"}, // Widerstand Ludwigshafen, Diebstahl
 {"coords": [8.25, 49.2], "date": "2026-01-11"}, // Herxheim, Einbruch
+{"coords": [6.8333, 52.0333], "date": "2026-01-11"}, // Bäckereifiliale Vreden, Einbruch
+{"coords": [8.6333, 52.2], "date": "2026-01-11"}, // Kirchlengern, entwendet
+//{"coords": [], "date": "2026-01-11"} // Oberwichterich, entwendet
+//{"coords": [], "date": "2026-01-11"} // Höhe, Dieb
+//{"coords": [], "date": "2026-01-11"} // Einsätze Kreisgebiet, Einbruch

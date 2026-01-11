@@ -7041,3 +7041,4 @@
 {"coords": [8.6306, 53.05], "date": "2026-01-11"}, // Brake Delmenhorst, Diebstahl
 //{"coords": [], "date": "2026-01-11"} // Ifta, entwendet
 {"coords": [8.7667, 50.1], "date": "2026-01-11"}, // Spielhalle Stadt Offenbach, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-01-11"}, // Zeugen Bochum, Raub

@@ -7173,3 +7173,15 @@
 {"coords": [8.8431, 49.8978], "date": "2026-01-12"}, // Dieburg, Einbrecher
 {"coords": [8.6822, 50.1106], "date": "2026-01-12"}, // Schwerer Raub Frankfurt, Raub
 {"coords": [8.6822, 50.1106], "date": "2026-01-12"}, // Zeugenaufruf Frankfurt, Raub
+{"coords": [6.8, 51.0], "date": "2026-01-12"}, // Zeugensuche Pulheim, entwendet
+{"coords": [8.4043, 49.014], "date": "2026-01-12"}, // Karlsruhe, Diebstahl
+//{"coords": [], "date": "2026-01-12"} // dem Kreisgebiet, Einbrüche
+{"coords": [6.3917, 51.2556], "date": "2026-01-12"}, // Viersen, gestohlen
+{"coords": [8.4043, 49.014], "date": "2026-01-12"}, // Wohnhaus Karlsruhe, Einbruch
+{"coords": [6.55, 51.25], "date": "2026-01-12"}, // Schiefbahn, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Anrath, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-01-12"}, // Zeugen Dortmund, Raub
+{"coords": [8.8731, 51.275], "date": "2026-01-12"}, // Korbach, Raub
+{"coords": [10.8, 53.4833], "date": "2026-01-12"}, // Greven, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-01-12"}, // Zeugenaufruf Essen, Einbrecher
+{"coords": [8.24, 50.0822], "date": "2026-01-12"}, // Diebstahl Wiesbaden, Diebstahl

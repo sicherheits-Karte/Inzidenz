@@ -7185,3 +7185,8 @@
 {"coords": [10.8, 53.4833], "date": "2026-01-12"}, // Greven, Einbruch
 {"coords": [7.0116, 51.4556], "date": "2026-01-12"}, // Zeugenaufruf Essen, Einbrecher
 {"coords": [8.24, 50.0822], "date": "2026-01-12"}, // Diebstahl Wiesbaden, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2026-01-12"}, // Bonn, Einbruch
+{"coords": [9.6536, 53.7547], "date": "2026-01-12"}, // Bargeld Elmshorn, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-01-12"}, // Giessen, Dieb
+//{"coords": [], "date": "2026-01-12"} // Einfamilienhaus Lampaden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-12"}, // Unfall Aalen, Einbruch

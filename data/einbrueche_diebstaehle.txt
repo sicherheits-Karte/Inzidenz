@@ -7149,3 +7149,16 @@
 {"coords": [7.6736, 51.2972], "date": "2026-01-12"}, // Diebinnen Altena, Dieb
 {"coords": [11.25, 53.1333], "date": "2026-01-12"}, // Wohnhaus Dömitz, Einbruch
 //{"coords": [], "date": "2026-01-12"} // Hövelhof, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-12"}, // Zeugen Freiburg, Einbrüche
+{"coords": [9.5, 51.3167], "date": "2026-01-12"}, // Kassel, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-12"}, // Bielefeld, Raub
+//{"coords": [], "date": "2026-01-12"} // Kreis, Einbrüche
+{"coords": [8.8678, 49.9228], "date": "2026-01-12"}, // Münster, eingebrochen
+{"coords": [6.7623, 51.4344], "date": "2026-01-12"}, // Duisburg, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-01-12"}, // Gaststätte Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-12"}, // Tuchrainstraße Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Kreis, Einbrecher
+{"coords": [10.3333, 52.15], "date": "2026-01-12"}, // Salzgitter, Dieb
+{"coords": [8.6514, 49.8728], "date": "2026-01-12"}, // Darmstadt, Einbrecher
+{"coords": [9.4108, 53.1111], "date": "2026-01-12"}, // Rotenburg, Diebstahl
+{"coords": [6.6528, 50.5931], "date": "2026-01-12"}, // Mechernich, Einbruch

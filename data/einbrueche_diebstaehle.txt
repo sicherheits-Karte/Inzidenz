@@ -7100,3 +7100,12 @@
 {"coords": [7.7, 51.375], "date": "2026-01-12"}, // Iserlohn, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2026-01-12"}, // Einfamilienhaus Coesfeld, Einbruch
 //{"coords": [], "date": "2026-01-12"} // Jugendhaus Südlohn, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-12"}, // Parkscheinautomat Mannheim, aufbruch
+{"coords": [9.95, 52.15], "date": "2026-01-12"}, // Hildesheim Hildesheim, Diebstahl
+{"coords": [7.4333, 52.2833], "date": "2026-01-12"}, // Untersuchungshaft Rheine, Einbrüche
+{"coords": [6.0839, 50.7753], "date": "2026-01-12"}, // Zeugen Aachen, Raub
+{"coords": [6.1353, 51.7875], "date": "2026-01-12"}, // Wasserflaschen Kleve, entwendet
+//{"coords": [], "date": "2026-01-12"} // Praxisräume Sankt Augustin, Einbruch
+{"coords": [6.2167, 51.5333], "date": "2026-01-12"}, // Veert, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Zeugenaufruf Landesbergen, Diebstahl
+{"coords": [6.75, 51.5833], "date": "2026-01-12"}, // Hinweise Dinslaken, Einbruch

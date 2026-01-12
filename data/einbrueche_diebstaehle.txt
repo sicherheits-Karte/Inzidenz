@@ -7060,3 +7060,8 @@
 {"coords": [12.0991, 54.0924], "date": "2026-01-11"}, // Raub Rostock, Raub
 {"coords": [7.9833, 51.95], "date": "2026-01-12"}, // Warendorf, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-01-12"}, // Erfurt, Diebstahl
+{"coords": [8.5578, 52.1392], "date": "2026-01-12"}, // Wohnung Enger, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-01-12"}, // Mehrfamilienhaus Weimar, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-01-12"}, // Jena, gestohlen
+{"coords": [8.5108, 51.64], "date": "2026-01-12"}, // Tankstelle Geseke, Einbruch
+{"coords": [7.8208, 51.6803], "date": "2026-01-12"}, // Hamm, Einbruch

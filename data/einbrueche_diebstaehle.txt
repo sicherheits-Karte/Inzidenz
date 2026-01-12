@@ -7083,3 +7083,9 @@
 {"coords": [7.9833, 51.95], "date": "2026-01-12"}, // Erdgeschosswohnung Warendorf, Einbruch
 {"coords": [8.7667, 51.7167], "date": "2026-01-12"}, // Paderborn, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2026-01-12"}, // Pkw Gotha, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-01-12"}, // Mitte, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-12"}, // Einbruch Recklinghausen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-01-12"}, // Zeugen Homberg, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2026-01-12"}, // Rheine, Diebstähle
+{"coords": [7.9833, 51.95], "date": "2026-01-12"}, // Gebäude Warendorf, Einbrüche
+//{"coords": [], "date": "2026-01-12"} // Recke, Diebstahl

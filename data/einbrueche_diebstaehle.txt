@@ -7143,3 +7143,6 @@
 {"coords": [7.1508, 51.2562], "date": "2026-01-12"}, // Wuppertal, Raub
 //{"coords": [], "date": "2026-01-12"} // Simmertal, Diebstähle
 //{"coords": [], "date": "2026-01-12"} // Dauchingen, Einbruch
+{"coords": [13.4333, 54.4333], "date": "2026-01-12"}, // Rügen, Einbrüche
+{"coords": [9.0, 50.7333], "date": "2026-01-12"}, // Homberg, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-01-12"}, // Unfälle Heilbronn, Einbrüche

@@ -7115,3 +7115,13 @@
 {"coords": [8.3833, 51.9], "date": "2026-01-12"}, // Verl Gütersloh, Einbrüche
 {"coords": [8.2711, 50.0], "date": "2026-01-12"}, // Stadtgebiet Mainz, Einbrüche
 {"coords": [8.4353, 49.4811], "date": "2026-01-12"}, // Nord Ludwigshafen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-12"}, // Ludwigshafen, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-01-12"}, // Bochum, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-01-12"}, // Selhorst Gütersloh, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-12"}, // Straße Ludwigsburg, Einbruch
+{"coords": [9.0511, 54.4761], "date": "2026-01-12"}, // Husum, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-01-12"}, // Bäckerei Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Weidenau, Einbrüche
+{"coords": [11.0299, 50.9848], "date": "2026-01-12"}, // Einbruch Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-12"}, // Erfurt, gestohlen
+//{"coords": [], "date": "2026-01-12"} // Geschäft Eimbeckhausen, Einbruch

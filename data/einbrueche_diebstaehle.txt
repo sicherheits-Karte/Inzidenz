@@ -7203,3 +7203,5 @@
 {"coords": [11.4012, 53.6355], "date": "2026-01-12"}, // Marienplatz Schwerin, Diebstahl
 {"coords": [6.85, 49.3], "date": "2026-01-12"}, // Bad Schwalbach, Einbrecher
 //{"coords": [], "date": "2026-01-12"} // Bad Frankenhausen, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-01-12"}, // Giessen, Einbruch
+{"coords": [8.2036, 48.8572], "date": "2026-01-12"}, // Rastatt, Räuber

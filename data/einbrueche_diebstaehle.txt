@@ -7162,3 +7162,14 @@
 {"coords": [8.6514, 49.8728], "date": "2026-01-12"}, // Darmstadt, Einbrecher
 {"coords": [9.4108, 53.1111], "date": "2026-01-12"}, // Rotenburg, Diebstahl
 {"coords": [6.6528, 50.5931], "date": "2026-01-12"}, // Mechernich, Einbruch
+{"coords": [6.0839, 50.7753], "date": "2026-01-12"}, // Aachen, Raub
+{"coords": [9.0, 50.7333], "date": "2026-01-12"}, // Homberg, stahl
+//{"coords": [], "date": "2026-01-12"} // Diebstahl genutzt mehr, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2026-01-12"}, // Zeugen Duisburg, Raub
+{"coords": [9.6106, 47.7828], "date": "2026-01-12"}, // Landkreis Ravensburg Landkreis Ravensburg, eingebrochen
+{"coords": [7.1675, 51.9436], "date": "2026-01-12"}, // Einbruch Coesfeld, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-12"}, // Recklinghausen, Einbrüche
+{"coords": [6.8333, 52.0333], "date": "2026-01-12"}, // Verbrauchermarkt Vreden, Einbruch
+{"coords": [8.8431, 49.8978], "date": "2026-01-12"}, // Dieburg, Einbrecher
+{"coords": [8.6822, 50.1106], "date": "2026-01-12"}, // Schwerer Raub Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-01-12"}, // Zeugenaufruf Frankfurt, Raub

@@ -7074,3 +7074,12 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-12"}, // Sonstiges Aalen, Einbrüche
 {"coords": [7.4333, 52.2833], "date": "2026-01-12"}, // Glasfront Rheine, Einbruch
 {"coords": [8.0, 51.45], "date": "2026-01-12"}, // Arnsberg, Raub
+{"coords": [7.4333, 51.35], "date": "2026-01-12"}, // Haspe, stehlen
+{"coords": [8.2833, 51.35], "date": "2026-01-12"}, // Meschede Meschede, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2026-01-12"}, // Geisecke Schwerte, Einbruch
+{"coords": [7.3, 51.1333], "date": "2026-01-12"}, // Fahrschule Hückeswagen, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Dokument mehr, Einbruch
+{"coords": [9.7167, 53.7], "date": "2026-01-12"}, // Tornesch, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-01-12"}, // Erdgeschosswohnung Warendorf, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-01-12"}, // Paderborn, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-01-12"}, // Pkw Gotha, Diebstahl

@@ -7146,3 +7146,6 @@
 {"coords": [13.4333, 54.4333], "date": "2026-01-12"}, // Rügen, Einbrüche
 {"coords": [9.0, 50.7333], "date": "2026-01-12"}, // Homberg, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2026-01-12"}, // Unfälle Heilbronn, Einbrüche
+{"coords": [7.6736, 51.2972], "date": "2026-01-12"}, // Diebinnen Altena, Dieb
+{"coords": [11.25, 53.1333], "date": "2026-01-12"}, // Wohnhaus Dömitz, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Hövelhof, Einbruch

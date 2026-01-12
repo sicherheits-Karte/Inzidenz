@@ -7131,3 +7131,10 @@
 {"coords": [8.8667, 51.9333], "date": "2026-01-12"}, // Lippe, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-01-12"}, // Zeugenaufruf Mannheim, gestohlen
 {"coords": [8.4353, 49.4811], "date": "2026-01-12"}, // Kellerabteile Ludwigshafen, Einbrüche
+//{"coords": [], "date": "2026-01-12"} // Jugenheim, Einbrüche
+//{"coords": [], "date": "2026-01-12"} // Wahlwies, Einbruch
+{"coords": [12.0, 48.85], "date": "2026-01-12"}, // Hausen, Einbruch
+{"coords": [8.7667, 48.0667], "date": "2026-01-12"}, // Aldingen, Diebstähle
+{"coords": [8.8403, 47.7592], "date": "2026-01-12"}, // Singen, Dieb
+{"coords": [9.1753, 47.6633], "date": "2026-01-12"}, // Konstanz, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-01-12"}, // Zeugen Karlsruhe, Einbrüche

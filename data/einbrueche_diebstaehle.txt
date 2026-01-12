@@ -7190,3 +7190,16 @@
 {"coords": [8.6833, 50.5833], "date": "2026-01-12"}, // Giessen, Dieb
 //{"coords": [], "date": "2026-01-12"} // Einfamilienhaus Lampaden, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-12"}, // Unfall Aalen, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Wasbek, Einbrüche
+{"coords": [9.8372, 54.4714], "date": "2026-01-12"}, // Eckernförde, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-01-12"}, // Zeugen Kleve, entwendet
+{"coords": [7.8231, 50.64], "date": "2026-01-12"}, // Hachenburg Hachenburg, Einbruch
+{"coords": [10.135, 51.3783], "date": "2026-01-12"}, // Heilbad Heiligenstadt, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-12"}, // Einsatz Freiburg, Raub
+//{"coords": [], "date": "2026-01-12"} // Kirchhasel, Raub
+{"coords": [10.7956, 51.5019], "date": "2026-01-12"}, // Nordhausen, Einbrecher
+//{"coords": [], "date": "2026-01-12"} // Kreis, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-01-12"}, // Giessen, Einbrecher
+{"coords": [11.4012, 53.6355], "date": "2026-01-12"}, // Marienplatz Schwerin, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-01-12"}, // Bad Schwalbach, Einbrecher
+//{"coords": [], "date": "2026-01-12"} // Bad Frankenhausen, Einbrecher

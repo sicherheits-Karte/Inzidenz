@@ -7065,3 +7065,9 @@
 {"coords": [11.5862, 50.9271], "date": "2026-01-12"}, // Jena, gestohlen
 {"coords": [8.5108, 51.64], "date": "2026-01-12"}, // Tankstelle Geseke, Einbruch
 {"coords": [7.8208, 51.6803], "date": "2026-01-12"}, // Hamm, Einbruch
+{"coords": [7.35, 52.15], "date": "2026-01-12"}, // Steinfurt, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2026-01-12"}, // Rheine, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2026-01-12"}, // Rheine, eingebrochen
+{"coords": [7.5314, 52.5536], "date": "2026-01-12"}, // Lengerich, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-01-12"}, // Ratzeburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-12"}, // Fahrzeugbrand Aalen, Einbruch

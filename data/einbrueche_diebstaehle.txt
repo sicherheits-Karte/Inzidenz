@@ -7073,3 +7073,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-12"}, // Fahrzeugbrand Aalen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-12"}, // Sonstiges Aalen, Einbrüche
 {"coords": [7.4333, 52.2833], "date": "2026-01-12"}, // Glasfront Rheine, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-01-12"}, // Arnsberg, Raub

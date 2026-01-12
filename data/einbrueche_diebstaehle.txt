@@ -7205,3 +7205,5 @@
 //{"coords": [], "date": "2026-01-12"} // Bad Frankenhausen, Einbrecher
 {"coords": [8.6833, 50.5833], "date": "2026-01-12"}, // Giessen, Einbruch
 {"coords": [8.2036, 48.8572], "date": "2026-01-12"}, // Rastatt, Räuber
+{"coords": [8.0472, 52.2799], "date": "2026-01-12"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-01-12"}, // Mehrere Sachbeschädigungen Hofheim, Einbrüche

@@ -7138,3 +7138,8 @@
 {"coords": [8.8403, 47.7592], "date": "2026-01-12"}, // Singen, Dieb
 {"coords": [9.1753, 47.6633], "date": "2026-01-12"}, // Konstanz, Einbruch
 {"coords": [8.4043, 49.014], "date": "2026-01-12"}, // Zeugen Karlsruhe, Einbrüche
+{"coords": [7.0982, 50.7374], "date": "2026-01-12"}, // Hinweise Bonn, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-01-12"}, // Schule Haren, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-01-12"}, // Wuppertal, Raub
+//{"coords": [], "date": "2026-01-12"} // Simmertal, Diebstähle
+//{"coords": [], "date": "2026-01-12"} // Dauchingen, Einbruch

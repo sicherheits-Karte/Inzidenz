@@ -7125,3 +7125,9 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-12"}, // Einbruch Erfurt, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-01-12"}, // Erfurt, gestohlen
 //{"coords": [], "date": "2026-01-12"} // Geschäft Eimbeckhausen, Einbruch
+{"coords": [8.8431, 49.8978], "date": "2026-01-12"}, // Dieburg, Dieb
+{"coords": [8.4353, 49.4811], "date": "2026-01-12"}, // Ludwigshafen, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-01-12"}, // Sachbeschädigungen Reutlingen, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2026-01-12"}, // Lippe, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-12"}, // Zeugenaufruf Mannheim, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-01-12"}, // Kellerabteile Ludwigshafen, Einbrüche

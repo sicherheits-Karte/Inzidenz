@@ -7089,3 +7089,14 @@
 {"coords": [7.4333, 52.2833], "date": "2026-01-12"}, // Rheine, Diebstähle
 {"coords": [7.9833, 51.95], "date": "2026-01-12"}, // Gebäude Warendorf, Einbrüche
 //{"coords": [], "date": "2026-01-12"} // Recke, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-01-12"}, // Hildesheim, Raub
+{"coords": [6.6264, 51.4519], "date": "2026-01-12"}, // Pkw Moers, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2026-01-12"}, // Hinweise Moers, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-01-12"}, // Diepholz, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-01-12"}, // Determeyerstraße Gütersloh, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Kein Ort gefunden, Einbrüche
+//{"coords": [], "date": "2026-01-12"} // Herscheid, Einbruch
+{"coords": [7.85, 51.6333], "date": "2026-01-12"}, // Rhynern, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-01-12"}, // Iserlohn, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-01-12"}, // Einfamilienhaus Coesfeld, Einbruch
+//{"coords": [], "date": "2026-01-12"} // Jugendhaus Südlohn, Einbruch

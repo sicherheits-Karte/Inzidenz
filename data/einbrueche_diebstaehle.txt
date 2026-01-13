@@ -7212,3 +7212,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-01-12"}, // Einbrüchen Augsburg, Einbrüche
 {"coords": [8.6833, 50.5833], "date": "2026-01-12"}, // Benz Giessen, Einbrecher
 {"coords": [9.6775, 50.5528], "date": "2026-01-12"}, // Landkreis Fulda Fulda, Einbrecher
+//{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, Diebstahl

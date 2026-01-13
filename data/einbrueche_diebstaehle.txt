@@ -7241,3 +7241,9 @@
 {"coords": [11.1167, 51.1667], "date": "2026-01-13"}, // Sömmerda Sömmerda, Einbrecher
 //{"coords": [], "date": "2026-01-13"} // noch unbekanntem Wert entwendeten mehrere Personen von einem Firmengelände im Bierweg. Offenbar nutzten die Unbekannten ein Fahrrad mit Anhänger zum Abtransport des Beutegutes. Nach ersten Erkenntnissen handelte es sich um drei Täter. Die Tatzeit liegt zwischen gestern, Diebstahl
 {"coords": [6.5492, 51.2631], "date": "2026-01-13"}, // Mehrfamilienhauses Willich, Einbruch
+{"coords": [8.6925, 52.1986], "date": "2026-01-13"}, // Löhne, Diebstahl
+{"coords": [8.5, 52.3], "date": "2026-01-13"}, // Werkzeuge Rödinghausen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-13"}, // Ulm, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-01-13"}, // Ulm, gestohlen
+//{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, Einbrecher
+//{"coords": [], "date": "2026-01-13"} // Wohnhaus Kierspe, Einbruch

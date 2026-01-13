@@ -7309,3 +7309,17 @@
 {"coords": [10.4, 53.25], "date": "2026-01-13"}, // Durchfahrt Lüneburg, Einbruch
 {"coords": [10.7753, 49.7544], "date": "2026-01-13"}, // Stadtgebiet Mühlhausen, Diebstähle
 //{"coords": [], "date": "2026-01-13"} // Ratheim, Einbruch
+{"coords": [12.0991, 54.0924], "date": "2026-01-13"}, // Fahrzeugen Rostock, Diebstähle
+{"coords": [10.7865, 52.4226], "date": "2026-01-13"}, // Haft Wolfsburg, Diebstahl
+{"coords": [11.1, 48.7167], "date": "2026-01-13"}, // Zeugen Oberhausen, Einbruch
+{"coords": [9.4, 47.7833], "date": "2026-01-13"}, // Bodenseekreis Bodenseekreis, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-01-13"}, // Erfurt, Diebstahl
+{"coords": [9.3833, 50.6333], "date": "2026-01-13"}, // Einfamilienhaus Vogelsbergkreis, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-13"}, // Einbrüche Aalen, Einbrüche
+{"coords": [8.4661, 49.4878], "date": "2026-01-13"}, // Zeugenaufruf Mannheim, gestohlen
+//{"coords": [], "date": "2026-01-13"} // Kreis, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-01-13"}, // Pkw Gotha, Diebstahl
+{"coords": [6.8319, 50.1981], "date": "2026-01-13"}, // Vulkaneifel Daun, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-01-13"}, // Praxis Coesfeld, Einbruch
+{"coords": [13.405, 52.52], "date": "2026-01-13"}, // Berlin, Diebstahl
+//{"coords": [], "date": "2026-01-13"} // Wellendingen, aufbruch

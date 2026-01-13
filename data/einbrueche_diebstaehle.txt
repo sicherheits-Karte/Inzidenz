@@ -7283,3 +7283,8 @@
 {"coords": [9.2108, 49.1425], "date": "2026-01-13"}, // Landkreis Heilbronn, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2026-01-13"}, // Emden, Diebstahl
 {"coords": [9.2108, 49.1425], "date": "2026-01-13"}, // Unfälle Heilbronn, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-01-13"}, // Nürnberg, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-13"}, // Bielefeld, gestohlen
+{"coords": [8.6944, 53.8619], "date": "2026-01-13"}, // Zeugenaufruf Cuxhaven, Diebstahl
+{"coords": [11.9, 49.95], "date": "2026-01-13"}, // Brand Reutlingen, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-01-13"}, // Diepholz, Einbruch

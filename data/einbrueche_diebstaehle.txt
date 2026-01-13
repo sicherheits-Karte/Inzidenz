@@ -7247,3 +7247,12 @@
 {"coords": [9.9916, 48.3984], "date": "2026-01-13"}, // Ulm, gestohlen
 //{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, Einbrecher
 //{"coords": [], "date": "2026-01-13"} // Wohnhaus Kierspe, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-01-13"}, // Zeugen Münster, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-01-13"}, // Arztpraxis Gummersbach, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-01-13"}, // Spielautomaten Gummersbach, Einbrecher
+{"coords": [7.7689, 49.4447], "date": "2026-01-13"}, // Kaiserslautern, Einbruch
+{"coords": [7.3, 51.1333], "date": "2026-01-13"}, // Hückeswagen Hückeswagen, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-01-13"}, // Zeugen Paderborn, Einbruch
+{"coords": [8.7, 51.7667], "date": "2026-01-13"}, // Elsen, Einbruch
+{"coords": [8.3667, 49.2167], "date": "2026-01-13"}, // Wohnung Germersheim, Diebstahl
+{"coords": [12.5667, 54.15], "date": "2026-01-13"}, // Richtungen Gemeinde Marlow, Dieb

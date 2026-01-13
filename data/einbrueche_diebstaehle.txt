@@ -7355,3 +7355,4 @@
 {"coords": [8.6514, 49.8728], "date": "2026-01-13"}, // Jährigen Darmstadt, Einbruch
 //{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, gestohlen
 {"coords": [8.4353, 49.4811], "date": "2026-01-13"}, // Ludwigshafen, Raub
+{"coords": [8.1128, 49.1994], "date": "2026-01-13"}, // Innenstadtbereich Landau, Raub

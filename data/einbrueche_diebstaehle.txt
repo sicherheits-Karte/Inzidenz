@@ -7272,3 +7272,14 @@
 //{"coords": [], "date": "2026-01-13"} // Bad Oeynhausen, Einbrüche
 {"coords": [7.0982, 50.7374], "date": "2026-01-13"}, // Bonn, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-13"}, // Ludwigsburg, Dieb
+{"coords": [7.1, 51.5167], "date": "2026-01-13"}, // Komplexe Spurensicherung Gelsenkirchen, Einbruch
+//{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, Einbruch
+{"coords": [10.6866, 53.8655], "date": "2026-01-13"}, // Hinweisen Lübeck, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-13"}, // Mitte, Raub
+{"coords": [11.5164, 51.0264], "date": "2026-01-13"}, // Apolda, Diebstahl
+{"coords": [9.8167, 53.65], "date": "2026-01-13"}, // Rellingen, Einbruch
+{"coords": [13.2611, 53.5569], "date": "2026-01-13"}, // Neubrandenburg, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-01-13"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-01-13"}, // Landkreis Heilbronn, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-01-13"}, // Emden, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-01-13"}, // Unfälle Heilbronn, Einbruch

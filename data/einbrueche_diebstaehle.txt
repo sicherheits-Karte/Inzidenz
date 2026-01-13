@@ -7231,3 +7231,5 @@
 {"coords": [7.1675, 51.9436], "date": "2026-01-13"}, // Verkaufsautomaten Coesfeld, Diebstahl
 {"coords": [8.8667, 51.9333], "date": "2026-01-13"}, // Lippe, Einbruch
 {"coords": [7.3608, 49.2492], "date": "2026-01-13"}, // Zweibrücken, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-01-13"}, // Dortmund, Einbruch
+//{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, Dieb

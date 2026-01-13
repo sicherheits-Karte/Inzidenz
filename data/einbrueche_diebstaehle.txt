@@ -7288,3 +7288,8 @@
 {"coords": [8.6944, 53.8619], "date": "2026-01-13"}, // Zeugenaufruf Cuxhaven, Diebstahl
 {"coords": [11.9, 49.95], "date": "2026-01-13"}, // Brand Reutlingen, Diebstahl
 {"coords": [8.3708, 52.6078], "date": "2026-01-13"}, // Diepholz, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-01-13"}, // Einbruchmeldungen Wuppertal, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-13"}, // Recklinghausen, Dieb
+{"coords": [7.3333, 51.4333], "date": "2026-01-13"}, // Wasserrohr Witten, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-01-13"}, // Zeugen Bochum, Einbrecher
+{"coords": [7.1, 51.5167], "date": "2026-01-13"}, // Zeugen Gelsenkirchen, Räuber

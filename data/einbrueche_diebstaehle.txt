@@ -7233,3 +7233,11 @@
 {"coords": [7.3608, 49.2492], "date": "2026-01-13"}, // Zweibrücken, Diebstahl
 {"coords": [7.4653, 51.5136], "date": "2026-01-13"}, // Dortmund, Einbruch
 //{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, Dieb
+{"coords": [7.2056, 50.8014], "date": "2026-01-13"}, // Siegburg, Dieb
+{"coords": [7.7, 51.375], "date": "2026-01-13"}, // Seniorin Iserlohn, Diebstahl
+//{"coords": [], "date": "2026-01-13"} // Krummwisch gesucht Krummwisch, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-01-13"}, // Sömmerda, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-01-13"}, // Baustelle Paderborn, Diebstahl
+{"coords": [11.1167, 51.1667], "date": "2026-01-13"}, // Sömmerda Sömmerda, Einbrecher
+//{"coords": [], "date": "2026-01-13"} // noch unbekanntem Wert entwendeten mehrere Personen von einem Firmengelände im Bierweg. Offenbar nutzten die Unbekannten ein Fahrrad mit Anhänger zum Abtransport des Beutegutes. Nach ersten Erkenntnissen handelte es sich um drei Täter. Die Tatzeit liegt zwischen gestern, Diebstahl
+{"coords": [6.5492, 51.2631], "date": "2026-01-13"}, // Mehrfamilienhauses Willich, Einbruch

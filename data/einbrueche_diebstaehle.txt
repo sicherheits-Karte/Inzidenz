@@ -7323,3 +7323,19 @@
 {"coords": [7.1675, 51.9436], "date": "2026-01-13"}, // Praxis Coesfeld, Einbruch
 {"coords": [13.405, 52.52], "date": "2026-01-13"}, // Berlin, Diebstahl
 //{"coords": [], "date": "2026-01-13"} // Wellendingen, aufbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-13"}, // Limburg, eingebrochen
+{"coords": [6.6833, 51.2], "date": "2026-01-13"}, // Neuss, entwendet
+{"coords": [7.7689, 49.4447], "date": "2026-01-13"}, // Kaiserslautern, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-01-13"}, // Recklinghausen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-13"}, // Zeugensuche Freiburg, Dieb
+{"coords": [10.6866, 53.8655], "date": "2026-01-13"}, // Zeugen Lübeck, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-13"}, // Zeugen Gelsenkirchen, stehlen
+{"coords": [6.85, 49.3], "date": "2026-01-13"}, // Bad Schwalbach, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-01-13"}, // Heidekreis, eingebrochen
+{"coords": [7.2162, 51.4818], "date": "2026-01-13"}, // Zeugen Bochum, Raub
+{"coords": [8.0472, 52.2799], "date": "2026-01-13"}, // Täterinnen Osnabrück, Raub
+{"coords": [9.6631, 54.3069], "date": "2026-01-13"}, // Rendsburg, Raub
+{"coords": [8.1128, 49.1994], "date": "2026-01-13"}, // Polizeidirektion Landau POL-PDLD, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-01-13"}, // Sachbeschädigung Aalen, aufbruch
+{"coords": [8.6944, 49.4092], "date": "2026-01-13"}, // Zeugenaufruf Heidelberg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-01-13"}, // Hofheim, gestohlen

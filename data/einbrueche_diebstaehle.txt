@@ -7228,3 +7228,6 @@
 {"coords": [8.6944, 53.8619], "date": "2026-01-13"}, // Cuxhaven Cuxhaven, Raub
 {"coords": [6.0167, 51.7917], "date": "2026-01-13"}, // Tabakwaren Kranenburg, entwendet
 //{"coords": [], "date": "2026-01-13"} // Zeugen Issum, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-13"}, // Verkaufsautomaten Coesfeld, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-01-13"}, // Lippe, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2026-01-13"}, // Zweibrücken, Diebstahl

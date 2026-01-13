@@ -7352,3 +7352,6 @@
 //{"coords": [], "date": "2026-01-13"} // Porta Westfalica, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-01-13"}, // Ludwigshafen, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-01-13"}, // Friedlingen Freiburg, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-13"}, // Jährigen Darmstadt, Einbruch
+//{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-01-13"}, // Ludwigshafen, Raub

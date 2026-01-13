@@ -7263,3 +7263,12 @@
 {"coords": [6.9667, 51.2333], "date": "2026-01-13"}, // Polizei Mettmann POL-ME, gestohlen
 {"coords": [7.4333, 51.35], "date": "2026-01-13"}, // Haspe, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-13"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-01-13"}, // Hildesheim, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-01-13"}, // Bremen, Raub
+//{"coords": [], "date": "2026-01-13"} // Gemünd, Diebstahl
+{"coords": [10.15, 52.5333], "date": "2026-01-13"}, // Wathlingen Wathlingen, Diebstahl
+{"coords": [7.6889, 51.5347], "date": "2026-01-13"}, // Mehrfamilienhauswohnung Unna, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-01-13"}, // Mehrparteienhaus Bonn, Einbruch
+//{"coords": [], "date": "2026-01-13"} // Bad Oeynhausen, Einbrüche
+{"coords": [7.0982, 50.7374], "date": "2026-01-13"}, // Bonn, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-13"}, // Ludwigsburg, Dieb

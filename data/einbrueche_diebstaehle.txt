@@ -7262,3 +7262,4 @@
 //{"coords": [], "date": "2026-01-13"} // Bad Cannstatt, eingebrochen
 {"coords": [6.9667, 51.2333], "date": "2026-01-13"}, // Polizei Mettmann POL-ME, gestohlen
 {"coords": [7.4333, 51.35], "date": "2026-01-13"}, // Haspe, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-13"}, // Wohnhaus Ludwigsburg, Einbruch

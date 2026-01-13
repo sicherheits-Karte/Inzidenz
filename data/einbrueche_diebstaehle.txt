@@ -7256,3 +7256,9 @@
 {"coords": [8.7, 51.7667], "date": "2026-01-13"}, // Elsen, Einbruch
 {"coords": [8.3667, 49.2167], "date": "2026-01-13"}, // Wohnung Germersheim, Diebstahl
 {"coords": [12.5667, 54.15], "date": "2026-01-13"}, // Richtungen Gemeinde Marlow, Dieb
+{"coords": [8.3667, 49.9833], "date": "2026-01-13"}, // Gustavsburg, Dieb
+{"coords": [9.6775, 50.5528], "date": "2026-01-13"}, // Scooter Fulda, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-01-13"}, // Vechta, Einbruch
+//{"coords": [], "date": "2026-01-13"} // Bad Cannstatt, eingebrochen
+{"coords": [6.9667, 51.2333], "date": "2026-01-13"}, // Polizei Mettmann POL-ME, gestohlen
+{"coords": [7.4333, 51.35], "date": "2026-01-13"}, // Haspe, Einbruch

@@ -7350,3 +7350,5 @@
 {"coords": [9.4764, 53.6008], "date": "2026-01-13"}, // Stade, Parkscheinautomat am Buxtehuder Bahnhof durch Böller gesprengt, Dieb
 {"coords": [9.1, 48.8], "date": "2026-01-13"}, // Weilimdorf, gestohlen
 //{"coords": [], "date": "2026-01-13"} // Porta Westfalica, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-13"}, // Ludwigshafen, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-01-13"}, // Friedlingen Freiburg, Einbruch

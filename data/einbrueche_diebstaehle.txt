@@ -7215,3 +7215,7 @@
 //{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-01-13"}, // Einbruchsdiebstahl Wittlich, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-13"}, // Diebstahl Aalen, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-01-13"}, // Mehrfamilienhaus Warendorf, Einbruch
+//{"coords": [], "date": "2026-01-13"} // Hinweise Freren, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-01-13"}, // Hinweise Haren, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-01-13"}, // Flüchtigen Offenbach, Einbruch

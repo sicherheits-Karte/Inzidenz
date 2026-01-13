@@ -7213,3 +7213,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-01-12"}, // Benz Giessen, Einbrecher
 {"coords": [9.6775, 50.5528], "date": "2026-01-12"}, // Landkreis Fulda Fulda, Einbrecher
 //{"coords": [], "date": "2026-01-13"} // Kein Ort gefunden, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-01-13"}, // Einbruchsdiebstahl Wittlich, Einbruch

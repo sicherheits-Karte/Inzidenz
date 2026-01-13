@@ -7339,3 +7339,10 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-13"}, // Sachbeschädigung Aalen, aufbruch
 {"coords": [8.6944, 49.4092], "date": "2026-01-13"}, // Zeugenaufruf Heidelberg, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-01-13"}, // Hofheim, gestohlen
+{"coords": [6.9603, 50.9375], "date": "2026-01-13"}, // Taschendiebin Köln, Dieb
+{"coords": [10.6472, 53.8922], "date": "2026-01-13"}, // Stockelsdorf Lübeck, Einbruch
+{"coords": [6.5667, 51.0], "date": "2026-01-13"}, // Bedburg, Einbruch
+//{"coords": [], "date": "2026-01-13"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-01-13"}, // Giessen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-13"}, // Ludwigshafen, gestohlen
+{"coords": [6.9194, 51.9944], "date": "2026-01-13"}, // Pkw Stadtlohn, Diebstahl

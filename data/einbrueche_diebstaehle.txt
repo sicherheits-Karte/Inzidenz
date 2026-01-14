@@ -7359,3 +7359,4 @@
 //{"coords": [], "date": "2026-01-13"} // Bezahlung Bad Kreuznach, Diebstahl
 {"coords": [6.85, 49.9333], "date": "2026-01-14"}, // Kennzeichendiebstahl Salmtal, Diebstahl
 {"coords": [9.1722, 50.1472], "date": "2026-01-14"}, // Kupferkabel Hasselroth, gestohlen
+//{"coords": [], "date": "2026-01-14"} // Salmünster, Einbruch

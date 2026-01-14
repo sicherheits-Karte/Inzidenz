@@ -7406,3 +7406,8 @@
 {"coords": [7.1675, 51.9436], "date": "2026-01-14"}, // Einfamilienhaus Coesfeld, Einbruch
 //{"coords": [], "date": "2026-01-14"} // Vaihingen, eingebrochen
 {"coords": [10.9167, 50.4167], "date": "2026-01-14"}, // Aufbruch Eisfeld, aufbruch
+{"coords": [9.0, 50.7333], "date": "2026-01-14"}, // Homberg, entwendet
+{"coords": [6.7667, 49.8333], "date": "2026-01-14"}, // Schweich, Diebstahl
+{"coords": [7.2833, 50.7833], "date": "2026-01-14"}, // Kirche Hennef, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-14"}, // Mitte, Dieb
+{"coords": [8.2711, 50.0], "date": "2026-01-14"}, // Mainzer Innenstadt Mainz Innenstadt, Diebstahl

@@ -7449,3 +7449,9 @@
 {"coords": [9.2167, 48.0833], "date": "2026-01-14"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Einbruch
 //{"coords": [], "date": "2026-01-14"} // Kein Ort gefunden, Dieb
 {"coords": [11.9, 49.95], "date": "2026-01-14"}, // Brand Freiburg, Raub
+//{"coords": [], "date": "2026-01-14"} // Kein Ort gefunden, Raub
+{"coords": [7.1508, 51.2562], "date": "2026-01-14"}, // Wuppertal, Raub
+{"coords": [6.9603, 50.9375], "date": "2026-01-14"}, // Köln, Räuber
+{"coords": [7.7689, 49.4447], "date": "2026-01-14"}, // Rädern Kaiserslautern, gestohlen
+//{"coords": [], "date": "2026-01-14"} // Baustelle mehr, Diebstahl
+{"coords": [9.35, 53.2417], "date": "2026-01-14"}, // Elsdorf, eingebrochen

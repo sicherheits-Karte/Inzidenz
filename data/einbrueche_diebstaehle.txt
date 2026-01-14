@@ -7455,3 +7455,10 @@
 {"coords": [7.7689, 49.4447], "date": "2026-01-14"}, // Rädern Kaiserslautern, gestohlen
 //{"coords": [], "date": "2026-01-14"} // Baustelle mehr, Diebstahl
 {"coords": [9.35, 53.2417], "date": "2026-01-14"}, // Elsdorf, eingebrochen
+{"coords": [8.4353, 49.4811], "date": "2026-01-14"}, // Ludwigshafen, Einbruch
+//{"coords": [], "date": "2026-01-14"} // den vergangenen Tagen Verdächtiges beobachtet, Einbruch
+//{"coords": [], "date": "2026-01-14"} // Lutzerath, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-14"}, // Hinweise Recklinghausen, Einbrüche
+//{"coords": [], "date": "2026-01-14"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.4044, 53.0772], "date": "2026-01-14"}, // Wohnung Papenburg, Raub
+{"coords": [8.1075, 53.5219], "date": "2026-01-14"}, // Zigarettenautomaten Wilhelmshaven, aufbruch

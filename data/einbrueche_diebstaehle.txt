@@ -7373,3 +7373,7 @@
 {"coords": [12.4333, 50.985], "date": "2026-01-14"}, // Altenburg, Diebstahl
 {"coords": [8.0167, 50.8833], "date": "2026-01-14"}, // Siegen, Einbruch
 {"coords": [7.1833, 50.9], "date": "2026-01-14"}, // Seniorin Rösrath, entwendet
+{"coords": [7.5336, 52.1728], "date": "2026-01-14"}, // Schmuck Emsdetten, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-01-14"}, // Großhansdorf Ratzeburg, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-01-14"}, // Rotenburg, entwendet
+{"coords": [7.0667, 52.4333], "date": "2026-01-14"}, // Tankstelle Nordhorn, Einbruch

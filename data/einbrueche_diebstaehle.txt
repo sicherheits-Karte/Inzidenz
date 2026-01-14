@@ -7363,3 +7363,7 @@
 {"coords": [8.2833, 51.35], "date": "2026-01-14"}, // Ruhrstraße Meschede, Einbruch
 //{"coords": [], "date": "2026-01-14"} // Leipziger Straße Winterberg, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-01-14"}, // Warendorf, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-01-14"}, // Garage Aalen, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-01-14"}, // Weimar, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-01-14"}, // Transporters Weimar, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-01-14"}, // Jena, Einbruch

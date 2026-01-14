@@ -7367,3 +7367,6 @@
 {"coords": [11.3239, 50.9795], "date": "2026-01-14"}, // Weimar, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2026-01-14"}, // Transporters Weimar, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2026-01-14"}, // Jena, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-14"}, // Mitte, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-01-14"}, // Hinweise Dinslaken, gestohlen
+{"coords": [6.5167, 51.4833], "date": "2026-01-14"}, // Lintfort, Einbrecher

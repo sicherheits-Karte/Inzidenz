@@ -7469,3 +7469,4 @@
 {"coords": [8.0472, 52.2799], "date": "2026-01-14"}, // Osnabrück Osnabrück, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2026-01-14"}, // Kaiserslautern, Raub
 {"coords": [9.9937, 53.5511], "date": "2026-01-14"}, // Lurup Hamburg, Raub
+//{"coords": [], "date": "2026-01-14"} // Campinganlage Stahlhütte Dorsel, Einbruch

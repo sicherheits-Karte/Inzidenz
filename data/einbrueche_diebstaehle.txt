@@ -7433,3 +7433,9 @@
 //{"coords": [], "date": "2026-01-14"} // Straelen, Diebstahl
 //{"coords": [], "date": "2026-01-14"} // der Bremer Straße einen Mercedes. Bei der Routineüberprüfung trafen die Einsatzkräfte auf zwei Männer im Alter von, Dieb
 {"coords": [7.0333, 50.8167], "date": "2026-01-14"}, // Geldautomaten Niederkassel, Diebstahl
+//{"coords": [], "date": "2026-01-14"} // Wettringen, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2026-01-14"}, // Baucontainer Eschwege, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2026-01-14"}, // Rüsselsheim, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-01-14"}, // Baugeschäft Erfurt, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-01-14"}, // Wohnungsdurchsuchung Köln, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-01-14"}, // Erfurt, Dieb

@@ -7357,3 +7357,5 @@
 {"coords": [8.4353, 49.4811], "date": "2026-01-13"}, // Ludwigshafen, Raub
 {"coords": [8.1128, 49.1994], "date": "2026-01-13"}, // Innenstadtbereich Landau, Raub
 //{"coords": [], "date": "2026-01-13"} // Bezahlung Bad Kreuznach, Diebstahl
+{"coords": [6.85, 49.9333], "date": "2026-01-14"}, // Kennzeichendiebstahl Salmtal, Diebstahl
+{"coords": [9.1722, 50.1472], "date": "2026-01-14"}, // Kupferkabel Hasselroth, gestohlen

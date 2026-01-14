@@ -7377,3 +7377,11 @@
 {"coords": [10.75, 53.7], "date": "2026-01-14"}, // Großhansdorf Ratzeburg, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2026-01-14"}, // Rotenburg, entwendet
 {"coords": [7.0667, 52.4333], "date": "2026-01-14"}, // Tankstelle Nordhorn, Einbruch
+{"coords": [10.8, 53.4833], "date": "2026-01-14"}, // Einfamilienhaus Greven, Einbruch
+{"coords": [6.7583, 51.6417], "date": "2026-01-14"}, // Garage Hünxe, Diebstahl
+{"coords": [7.5667, 51.0833], "date": "2026-01-14"}, // Lager Gummersbach, Einbruch
+{"coords": [7.4981, 51.1861], "date": "2026-01-14"}, // Halver, eingebrochen
+{"coords": [7.75, 51.3833], "date": "2026-01-14"}, // Hemer, Diebstahl
+{"coords": [7.7, 51.375], "date": "2026-01-14"}, // Sümmern Iserlohn, Einbrüche
+{"coords": [8.875, 53.05], "date": "2026-01-14"}, // Osterholz, Einbruch
+{"coords": [7.6333, 51.1], "date": "2026-01-14"}, // Meinerzhagen, eingebrochen

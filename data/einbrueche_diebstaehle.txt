@@ -7439,3 +7439,13 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-14"}, // Baugeschäft Erfurt, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-01-14"}, // Wohnungsdurchsuchung Köln, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-01-14"}, // Erfurt, Dieb
+{"coords": [8.2869, 52.7303], "date": "2026-01-14"}, // Vechta, Raub
+//{"coords": [], "date": "2026-01-14"} // Höhe, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-01-14"}, // Hofheim, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-01-14"}, // Apolda, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-14"}, // Unfallflucht Limburg, gestohlen
+{"coords": [8.24, 50.0822], "date": "2026-01-14"}, // Brennende Mülltonnen Wiesbaden, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-01-14"}, // Zigarettenautomaten Karlsruhe, Diebstahl
+{"coords": [9.2167, 48.0833], "date": "2026-01-14"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Einbruch
+//{"coords": [], "date": "2026-01-14"} // Kein Ort gefunden, Dieb
+{"coords": [11.9, 49.95], "date": "2026-01-14"}, // Brand Freiburg, Raub

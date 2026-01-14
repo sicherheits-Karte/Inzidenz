@@ -7411,3 +7411,8 @@
 {"coords": [7.2833, 50.7833], "date": "2026-01-14"}, // Kirche Hennef, Einbruch
 {"coords": [8.5833, 53.55], "date": "2026-01-14"}, // Mitte, Dieb
 {"coords": [8.2711, 50.0], "date": "2026-01-14"}, // Mainzer Innenstadt Mainz Innenstadt, Diebstahl
+//{"coords": [], "date": "2026-01-14"} // Grab gestohlen, gestohlen
+{"coords": [9.9916, 48.3984], "date": "2026-01-14"}, // Ulm, gestohlen
+{"coords": [8.2869, 52.7303], "date": "2026-01-14"}, // Vechta, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2026-01-14"}, // Zeugenaufruf Heidelberg, gestohlen
+{"coords": [6.7735, 51.2277], "date": "2026-01-14"}, // Festnahme Düsseldorf, Einbruch

@@ -7397,3 +7397,11 @@
 {"coords": [9.5164, 53.925], "date": "2026-01-14"}, // Itzehoe, Diebstahl
 {"coords": [10.7333, 50.65], "date": "2026-01-14"}, // Mehlis, entwendet
 {"coords": [9.2108, 49.1425], "date": "2026-01-14"}, // Schule Landkreis Heilbronn, Einbruch
+{"coords": [8.6372, 49.6419], "date": "2026-01-14"}, // Heppenheim, entwendet
+{"coords": [6.3917, 51.2556], "date": "2026-01-14"}, // Kreis Viersen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-14"}, // Ludwigsburg, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-01-14"}, // Emden, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-01-14"}, // Zeugen Homberg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-14"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-14"}, // Einfamilienhaus Coesfeld, Einbruch
+//{"coords": [], "date": "2026-01-14"} // Vaihingen, eingebrochen

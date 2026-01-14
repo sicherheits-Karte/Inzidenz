@@ -7416,3 +7416,7 @@
 {"coords": [8.2869, 52.7303], "date": "2026-01-14"}, // Vechta, Einbruch
 {"coords": [8.6944, 49.4092], "date": "2026-01-14"}, // Zeugenaufruf Heidelberg, gestohlen
 {"coords": [6.7735, 51.2277], "date": "2026-01-14"}, // Festnahme Düsseldorf, Einbruch
+//{"coords": [], "date": "2026-01-14"} // Pendlerparkplatz Suthfeld, entwendet
+//{"coords": [], "date": "2026-01-14"} // Brullsen, Einbruch
+{"coords": [12.0991, 54.0924], "date": "2026-01-14"}, // Rostock, Raub
+{"coords": [7.4653, 51.5136], "date": "2026-01-14"}, // Zeugen Dortmund, Raub

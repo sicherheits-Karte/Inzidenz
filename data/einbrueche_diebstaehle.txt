@@ -7388,3 +7388,12 @@
 {"coords": [6.9667, 51.2333], "date": "2026-01-14"}, // Polizei Mettmann POL-ME, gestohlen
 {"coords": [8.4661, 49.4878], "date": "2026-01-14"}, // Zeugenaufruf Mannheim, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-01-14"}, // Ulm, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-01-14"}, // Lippe, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-01-14"}, // Lippe, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-14"}, // Ulm, Einbruch
+{"coords": [6.8333, 52.0333], "date": "2026-01-14"}, // Zigarettenautomaten Vreden, Diebstahl
+{"coords": [8.6833, 52.15], "date": "2026-01-14"}, // Zeugen Herford, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-01-14"}, // Bielefeld, stehlen
+{"coords": [9.5164, 53.925], "date": "2026-01-14"}, // Itzehoe, Diebstahl
+{"coords": [10.7333, 50.65], "date": "2026-01-14"}, // Mehlis, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-01-14"}, // Schule Landkreis Heilbronn, Einbruch

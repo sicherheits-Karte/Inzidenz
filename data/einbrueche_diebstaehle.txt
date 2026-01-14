@@ -7420,3 +7420,7 @@
 //{"coords": [], "date": "2026-01-14"} // Brullsen, Einbruch
 {"coords": [12.0991, 54.0924], "date": "2026-01-14"}, // Rostock, Raub
 {"coords": [7.4653, 51.5136], "date": "2026-01-14"}, // Zeugen Dortmund, Raub
+{"coords": [9.6631, 54.3069], "date": "2026-01-14"}, // Rendsburg, aufbrüche
+{"coords": [9.2, 49.4], "date": "2026-01-14"}, // Neckar, Einbruch
+{"coords": [11.1, 48.7167], "date": "2026-01-14"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-01-14"}, // Kreis Offenbach, Einbruch

@@ -7385,3 +7385,6 @@
 {"coords": [7.7, 51.375], "date": "2026-01-14"}, // Sümmern Iserlohn, Einbrüche
 {"coords": [8.875, 53.05], "date": "2026-01-14"}, // Osterholz, Einbruch
 {"coords": [7.6333, 51.1], "date": "2026-01-14"}, // Meinerzhagen, eingebrochen
+{"coords": [6.9667, 51.2333], "date": "2026-01-14"}, // Polizei Mettmann POL-ME, gestohlen
+{"coords": [8.4661, 49.4878], "date": "2026-01-14"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-14"}, // Ulm, Raub

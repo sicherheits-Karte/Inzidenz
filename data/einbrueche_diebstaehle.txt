@@ -7462,3 +7462,5 @@
 //{"coords": [], "date": "2026-01-14"} // dem Kreisgebiet, Einbrüche
 {"coords": [7.4044, 53.0772], "date": "2026-01-14"}, // Wohnung Papenburg, Raub
 {"coords": [8.1075, 53.5219], "date": "2026-01-14"}, // Zigarettenautomaten Wilhelmshaven, aufbruch
+{"coords": [9.732, 52.3759], "date": "2026-01-14"}, // Trickbetrüger Hannover, Dieb
+{"coords": [6.7623, 51.4344], "date": "2026-01-14"}, // Zeugen Duisburg, Dieb

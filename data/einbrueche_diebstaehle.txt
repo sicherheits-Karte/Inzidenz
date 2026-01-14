@@ -7360,3 +7360,6 @@
 {"coords": [6.85, 49.9333], "date": "2026-01-14"}, // Kennzeichendiebstahl Salmtal, Diebstahl
 {"coords": [9.1722, 50.1472], "date": "2026-01-14"}, // Kupferkabel Hasselroth, gestohlen
 //{"coords": [], "date": "2026-01-14"} // Salmünster, Einbruch
+{"coords": [8.2833, 51.35], "date": "2026-01-14"}, // Ruhrstraße Meschede, Einbruch
+//{"coords": [], "date": "2026-01-14"} // Leipziger Straße Winterberg, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-01-14"}, // Warendorf, Diebstahl

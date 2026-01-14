@@ -7465,3 +7465,6 @@
 {"coords": [9.732, 52.3759], "date": "2026-01-14"}, // Trickbetrüger Hannover, Dieb
 {"coords": [6.7623, 51.4344], "date": "2026-01-14"}, // Zeugen Duisburg, Dieb
 //{"coords": [], "date": "2026-01-14"} // Landkreis Verden, Raub
+{"coords": [10.7753, 49.7544], "date": "2026-01-14"}, // Mühlhausen, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-14"}, // Osnabrück Osnabrück, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-01-14"}, // Kaiserslautern, Raub

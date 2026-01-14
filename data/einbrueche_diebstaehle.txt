@@ -7429,3 +7429,7 @@
 {"coords": [8.2711, 50.0], "date": "2026-01-14"}, // Hartenbergpark Mainz, Raub
 {"coords": [9.0, 50.7333], "date": "2026-01-14"}, // Zeugen Homberg, entwendet
 {"coords": [7.2162, 51.4818], "date": "2026-01-14"}, // Zeugen Bochum, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-01-14"}, // Baustelle Fulda, Diebstahl
+//{"coords": [], "date": "2026-01-14"} // Straelen, Diebstahl
+//{"coords": [], "date": "2026-01-14"} // der Bremer Straße einen Mercedes. Bei der Routineüberprüfung trafen die Einsatzkräfte auf zwei Männer im Alter von, Dieb
+{"coords": [7.0333, 50.8167], "date": "2026-01-14"}, // Geldautomaten Niederkassel, Diebstahl

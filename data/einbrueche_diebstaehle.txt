@@ -7425,3 +7425,7 @@
 {"coords": [11.1, 48.7167], "date": "2026-01-14"}, // Oberhausen Ein Dokument mehr, Einbruch
 {"coords": [8.7667, 50.1], "date": "2026-01-14"}, // Kreis Offenbach, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-01-14"}, // Zeugenaufruf Mannheim, Einbrecher
+{"coords": [8.5331, 52.021], "date": "2026-01-14"}, // Bielefeld, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-01-14"}, // Hartenbergpark Mainz, Raub
+{"coords": [9.0, 50.7333], "date": "2026-01-14"}, // Zeugen Homberg, entwendet
+{"coords": [7.2162, 51.4818], "date": "2026-01-14"}, // Zeugen Bochum, Einbruch

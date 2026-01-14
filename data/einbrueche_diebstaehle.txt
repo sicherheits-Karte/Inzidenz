@@ -7470,3 +7470,4 @@
 {"coords": [7.7689, 49.4447], "date": "2026-01-14"}, // Kaiserslautern, Raub
 {"coords": [9.9937, 53.5511], "date": "2026-01-14"}, // Lurup Hamburg, Raub
 //{"coords": [], "date": "2026-01-14"} // Campinganlage Stahlhütte Dorsel, Einbruch
+//{"coords": [], "date": "2026-01-14"} // Polizeibeamten Wattenheim, Einbrecher

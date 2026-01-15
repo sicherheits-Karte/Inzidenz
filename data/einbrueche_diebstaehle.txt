@@ -7584,3 +7584,8 @@
 //{"coords": [], "date": "2026-01-15"} // Höhe, gestohlen
 {"coords": [8.0667, 50.3833], "date": "2026-01-15"}, // Limburg, entwendet
 {"coords": [8.5331, 52.021], "date": "2026-01-15"}, // Bielefeld, Raub
+{"coords": [9.5, 51.3167], "date": "2026-01-15"}, // Kassel, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-01-15"}, // Giessen, Einbruch
+{"coords": [10.1228, 54.3233], "date": "2026-01-15"}, // Zeugen Kiel, Raub
+{"coords": [7.2, 51.6167], "date": "2026-01-15"}, // Untersuchungshaft Recklinghausen, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2026-01-15"}, // Schmuckgeschäft Unna, Einbruch

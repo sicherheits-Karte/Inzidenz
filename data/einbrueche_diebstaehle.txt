@@ -7576,3 +7576,11 @@
 {"coords": [6.5492, 51.2631], "date": "2026-01-15"}, // Willich, stahl
 {"coords": [6.3917, 51.2556], "date": "2026-01-15"}, // Hinweise Kreis Viersen, Einbruch
 {"coords": [8.8731, 51.275], "date": "2026-01-15"}, // Tipps Korbach, Diebstähle
+{"coords": [8.0739, 48.6311], "date": "2026-01-15"}, // Achern, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-15"}, // Fahrtrichtung Mannheim ein Auffahrunfall, bei dem mindestens eine Person verletzt wurde. Ersten Erkenntnissen zufolge soll eine Ford-Fahrerin einem vorausfahrenden Lkw aus bislang unbekannten Gründen hinten aufgefahren sein, Raub
+{"coords": [6.7, 51.8333], "date": "2026-01-15"}, // Jugendtreff Rhede, Einbruch
+{"coords": [13.0431, 53.905], "date": "2026-01-15"}, // Demmin, Diebstähle
+{"coords": [7.7689, 49.4447], "date": "2026-01-15"}, // Kaiserslautern, stahl
+//{"coords": [], "date": "2026-01-15"} // Höhe, gestohlen
+{"coords": [8.0667, 50.3833], "date": "2026-01-15"}, // Limburg, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-01-15"}, // Bielefeld, Raub

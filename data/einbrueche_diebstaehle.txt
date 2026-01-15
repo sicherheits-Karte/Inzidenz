@@ -7544,3 +7544,4 @@
 {"coords": [9.5, 51.3167], "date": "2026-01-15"}, // Kassel, eingebrochen
 {"coords": [8.24, 50.0822], "date": "2026-01-15"}, // Wiesbaden, Diebstahl
 //{"coords": [], "date": "2026-01-15"} // Kein Ort gefunden, Einbruch
+{"coords": [6.9194, 51.9944], "date": "2026-01-15"}, // Stadtlohn, entwendet

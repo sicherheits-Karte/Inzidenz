@@ -7599,3 +7599,4 @@
 {"coords": [8.4353, 49.4811], "date": "2026-01-15"}, // Ludwigshafen, Einbruch
 //{"coords": [], "date": "2026-01-15"} // Bahnhof Neubrücke mehr, aufbruch
 {"coords": [8.4661, 49.4878], "date": "2026-01-15"}, // Mannheim, Raub
+{"coords": [13.9897, 53.5069], "date": "2026-01-15"}, // Pasewalk, Raub

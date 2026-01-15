@@ -7539,3 +7539,8 @@
 {"coords": [9.9916, 48.3984], "date": "2026-01-15"}, // Ulm, gestohlen
 {"coords": [8.5833, 53.55], "date": "2026-01-15"}, // Mitte, Diebstahl
 {"coords": [10.75, 53.7], "date": "2026-01-15"}, // Ratzeburg, Diebstahl
+{"coords": [8.8403, 47.7592], "date": "2026-01-15"}, // Singen, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-01-15"}, // Delmenhorst, Raub
+{"coords": [9.5, 51.3167], "date": "2026-01-15"}, // Kassel, eingebrochen
+{"coords": [8.24, 50.0822], "date": "2026-01-15"}, // Wiesbaden, Diebstahl
+//{"coords": [], "date": "2026-01-15"} // Kein Ort gefunden, Einbruch

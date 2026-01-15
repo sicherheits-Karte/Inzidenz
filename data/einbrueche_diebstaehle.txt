@@ -7520,3 +7520,7 @@
 {"coords": [8.3094, 49.1239], "date": "2026-01-15"}, // Wohnung Hördt, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-01-15"}, // Bielefeld, Dieb
 //{"coords": [], "date": "2026-01-15"} // Münchweiler, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-01-15"}, // Emden, Diebstahl
+//{"coords": [], "date": "2026-01-15"} // Wohnhaus Tangstedt, Einbruch
+{"coords": [9.4367, 54.7819], "date": "2026-01-15"}, // Feuerlöschers Flensburg, entwendet
+{"coords": [7.3392, 51.3197], "date": "2026-01-15"}, // Gevelsberg, Einbruch

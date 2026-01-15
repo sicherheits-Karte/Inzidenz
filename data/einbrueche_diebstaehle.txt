@@ -7533,3 +7533,5 @@
 {"coords": [7.4653, 51.5136], "date": "2026-01-15"}, // Verkehrsunfallflucht Dortmund, gestohlen
 {"coords": [8.4043, 49.014], "date": "2026-01-15"}, // Karlsruher Weststadt Karlsruhe, Einbruch
 {"coords": [7.45, 51.4], "date": "2026-01-15"}, // Individualnummern Herdecke, Diebstahl
+{"coords": [6.5617, 51.3317], "date": "2026-01-15"}, // Krefeld, Räuber
+//{"coords": [], "date": "2026-01-15"} // Zeugenhinweise Sankt Augustin, Diebstahl

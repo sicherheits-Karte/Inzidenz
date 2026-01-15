@@ -7494,3 +7494,9 @@
 {"coords": [10.9806, 54.3722], "date": "2026-01-15"}, // Heiligenhafen gestellt, Dieb
 //{"coords": [], "date": "2026-01-15"} // Hinweise Schermbeck, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-01-15"}, // Taschendiebin Coesfeld, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-01-15"}, // Bonn, Raub
+{"coords": [9.4108, 53.1111], "date": "2026-01-15"}, // Rotenburg, Einbrüche
+{"coords": [8.3833, 51.9], "date": "2026-01-15"}, // Wohnungen Gütersloh, eingebrochen
+{"coords": [7.5658, 51.4458], "date": "2026-01-15"}, // Mehrfamilienhauses Schwerte, Einbruch
+{"coords": [7.215, 51.1397], "date": "2026-01-15"}, // Wermelskirchen, Dieb
+{"coords": [8.4833, 49.9167], "date": "2026-01-15"}, // Gerau, Diebstähle

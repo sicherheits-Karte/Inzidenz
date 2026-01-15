@@ -7493,3 +7493,4 @@
 {"coords": [8.6514, 49.8728], "date": "2026-01-15"}, // Darmstadt, Einbrecher
 {"coords": [10.9806, 54.3722], "date": "2026-01-15"}, // Heiligenhafen gestellt, Dieb
 //{"coords": [], "date": "2026-01-15"} // Hinweise Schermbeck, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-15"}, // Taschendiebin Coesfeld, Dieb

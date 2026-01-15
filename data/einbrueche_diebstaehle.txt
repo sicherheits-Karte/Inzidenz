@@ -7597,3 +7597,4 @@
 {"coords": [9.1919, 48.8975], "date": "2026-01-15"}, // Dagersheimer Straße Ludwigsburg, Einbruch
 //{"coords": [], "date": "2026-01-15"} // Süd, eingebrochen
 {"coords": [8.4353, 49.4811], "date": "2026-01-15"}, // Ludwigshafen, Einbruch
+//{"coords": [], "date": "2026-01-15"} // Bahnhof Neubrücke mehr, aufbruch

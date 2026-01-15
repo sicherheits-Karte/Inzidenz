@@ -7473,3 +7473,6 @@
 //{"coords": [], "date": "2026-01-14"} // Polizeibeamten Wattenheim, Einbrecher
 {"coords": [10.9887, 49.4771], "date": "2026-01-14"}, // Fürth, Einbruch
 {"coords": [7.15, 50.0], "date": "2026-01-15"}, // Küchenbrand Klausen, klau
+{"coords": [11.0299, 50.9848], "date": "2026-01-15"}, // Einbrecher Erfurt, Einbrecher
+{"coords": [7.4333, 52.2833], "date": "2026-01-15"}, // Rheine, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-15"}, // Erfurt, Diebstahl

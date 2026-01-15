@@ -7476,3 +7476,8 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-15"}, // Einbrecher Erfurt, Einbrecher
 {"coords": [7.4333, 52.2833], "date": "2026-01-15"}, // Rheine, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-01-15"}, // Erfurt, Diebstahl
+{"coords": [11.1167, 51.1667], "date": "2026-01-15"}, // Landkreis Sömmerda Landkreis Sömmerda, Einbruch
+{"coords": [10.9887, 49.4771], "date": "2026-01-15"}, // Fürth, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-01-15"}, // Altenburg, Dieb
+//{"coords": [], "date": "2026-01-15"} // Bad Waldliesborn, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-01-15"}, // Aalen, Dieb

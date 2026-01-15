@@ -7481,3 +7481,9 @@
 {"coords": [12.4333, 50.985], "date": "2026-01-15"}, // Altenburg, Dieb
 //{"coords": [], "date": "2026-01-15"} // Bad Waldliesborn, Einbrecher
 {"coords": [10.0936, 48.8372], "date": "2026-01-15"}, // Aalen, Dieb
+{"coords": [10.75, 53.7], "date": "2026-01-15"}, // Zeugen Ratzeburg, Einbrecher
+{"coords": [6.4333, 51.2], "date": "2026-01-15"}, // Mönchengladbach, Diebstahl
+{"coords": [7.7833, 51.35], "date": "2026-01-15"}, // Einbruch Neuenrade, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-01-15"}, // Lüdenscheid, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-01-15"}, // Ingewahrsamnahme Iserlohn, Einbruch
+{"coords": [8.0, 51.3333], "date": "2026-01-15"}, // Sundern Sundern, Einbruch

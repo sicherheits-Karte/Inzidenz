@@ -7500,3 +7500,8 @@
 {"coords": [7.5658, 51.4458], "date": "2026-01-15"}, // Mehrfamilienhauses Schwerte, Einbruch
 {"coords": [7.215, 51.1397], "date": "2026-01-15"}, // Wermelskirchen, Dieb
 {"coords": [8.4833, 49.9167], "date": "2026-01-15"}, // Gerau, Diebstähle
+{"coords": [7.9447, 48.4731], "date": "2026-01-15"}, // Tankstelle Offenburg, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-15"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [9.0, 50.7333], "date": "2026-01-15"}, // Zeugen Homberg, Dieb
+{"coords": [8.1528, 52.0403], "date": "2026-01-15"}, // Versmold Gütersloh, Einbruch
+//{"coords": [], "date": "2026-01-15"} // Zahnarztpraxis, Einbruch

@@ -7535,3 +7535,7 @@
 {"coords": [7.45, 51.4], "date": "2026-01-15"}, // Individualnummern Herdecke, Diebstahl
 {"coords": [6.5617, 51.3317], "date": "2026-01-15"}, // Krefeld, Räuber
 //{"coords": [], "date": "2026-01-15"} // Zeugenhinweise Sankt Augustin, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-01-15"}, // Ulm, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-01-15"}, // Ulm, gestohlen
+{"coords": [8.5833, 53.55], "date": "2026-01-15"}, // Mitte, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-01-15"}, // Ratzeburg, Diebstahl

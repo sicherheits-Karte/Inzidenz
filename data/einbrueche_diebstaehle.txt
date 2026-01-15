@@ -7505,3 +7505,11 @@
 {"coords": [9.0, 50.7333], "date": "2026-01-15"}, // Zeugen Homberg, Dieb
 {"coords": [8.1528, 52.0403], "date": "2026-01-15"}, // Versmold Gütersloh, Einbruch
 //{"coords": [], "date": "2026-01-15"} // Zahnarztpraxis, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-15"}, // Tankstelle Ludwigsburg, Einbruch
+{"coords": [8.9167, 50.1333], "date": "2026-01-15"}, // Hanau, gestohlen
+{"coords": [7.1675, 51.9436], "date": "2026-01-15"}, // Firmenfahrzeug Coesfeld, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-01-15"}, // Kreis Offenbach, Diebstahl
+//{"coords": [], "date": "2026-01-15"} // Kraftfahrzeugen Beindersheim, Diebstahl
+//{"coords": [], "date": "2026-01-15"} // Roxheim, Diebstahl
+{"coords": [8.8592, 52.1653], "date": "2026-01-15"}, // Vlotho, Einbruch
+//{"coords": [], "date": "2026-01-15"} // Berchum, Einbruch

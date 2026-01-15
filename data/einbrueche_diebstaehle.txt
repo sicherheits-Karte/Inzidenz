@@ -7546,3 +7546,13 @@
 //{"coords": [], "date": "2026-01-15"} // Kein Ort gefunden, Einbruch
 {"coords": [6.9194, 51.9944], "date": "2026-01-15"}, // Stadtlohn, entwendet
 {"coords": [8.8431, 49.8978], "date": "2026-01-15"}, // Dieburg, Dieb
+{"coords": [7.82, 47.99], "date": "2026-01-15"}, // Gaststätte Freiburg, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-01-15"}, // Mönchengladbach, Raub
+//{"coords": [], "date": "2026-01-15"} // POL-SI, Dieb
+//{"coords": [], "date": "2026-01-15"} // Main, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-01-15"}, // Autohändler Ludwigsburg, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-01-15"}, // Wolfsburg, gestohlen
+{"coords": [10.4278, 51.9042], "date": "2026-01-15"}, // Goslar, entwendet
+{"coords": [6.315, 51.0794], "date": "2026-01-15"}, // Wohnhäuser Erkelenz, Einbrüche
+{"coords": [7.0, 51.8333], "date": "2026-01-15"}, // Reken, Einbrecher
+{"coords": [9.8372, 54.4714], "date": "2026-01-15"}, // Eckernförde, Einbruch

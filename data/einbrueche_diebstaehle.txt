@@ -7472,3 +7472,4 @@
 //{"coords": [], "date": "2026-01-14"} // Campinganlage Stahlhütte Dorsel, Einbruch
 //{"coords": [], "date": "2026-01-14"} // Polizeibeamten Wattenheim, Einbrecher
 {"coords": [10.9887, 49.4771], "date": "2026-01-14"}, // Fürth, Einbruch
+{"coords": [7.15, 50.0], "date": "2026-01-15"}, // Küchenbrand Klausen, klau

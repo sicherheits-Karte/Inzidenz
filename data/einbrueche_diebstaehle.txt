@@ -7524,3 +7524,12 @@
 //{"coords": [], "date": "2026-01-15"} // Wohnhaus Tangstedt, Einbruch
 {"coords": [9.4367, 54.7819], "date": "2026-01-15"}, // Feuerlöschers Flensburg, entwendet
 {"coords": [7.3392, 51.3197], "date": "2026-01-15"}, // Gevelsberg, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-01-15"}, // Lippe, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-01-15"}, // Einfamilienhaus Fulda, entwendet
+{"coords": [8.8667, 51.9333], "date": "2026-01-15"}, // Lippe, gestohlen
+{"coords": [8.8667, 51.9333], "date": "2026-01-15"}, // Lippe, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-01-15"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-01-15"}, // Lippe, entwendet
+{"coords": [7.4653, 51.5136], "date": "2026-01-15"}, // Verkehrsunfallflucht Dortmund, gestohlen
+{"coords": [8.4043, 49.014], "date": "2026-01-15"}, // Karlsruher Weststadt Karlsruhe, Einbruch
+{"coords": [7.45, 51.4], "date": "2026-01-15"}, // Individualnummern Herdecke, Diebstahl

@@ -7593,3 +7593,7 @@
 {"coords": [10.8978, 48.3705], "date": "2026-01-15"}, // Verkehrsunfällen Augsburg, Raub
 {"coords": [10.8978, 48.3705], "date": "2026-01-15"}, // Diebstahl Augsburg, Diebstahl
 {"coords": [7.1508, 51.2562], "date": "2026-01-15"}, // Wuppertal, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-01-15"}, // Gomaringen Reutlingen, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-01-15"}, // Dagersheimer Straße Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-01-15"} // Süd, eingebrochen
+{"coords": [8.4353, 49.4811], "date": "2026-01-15"}, // Ludwigshafen, Einbruch

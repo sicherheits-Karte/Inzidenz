@@ -7556,3 +7556,13 @@
 {"coords": [6.315, 51.0794], "date": "2026-01-15"}, // Wohnhäuser Erkelenz, Einbrüche
 {"coords": [7.0, 51.8333], "date": "2026-01-15"}, // Reken, Einbrecher
 {"coords": [9.8372, 54.4714], "date": "2026-01-15"}, // Eckernförde, Einbruch
+//{"coords": [], "date": "2026-01-15"} // Kein Ort gefunden, Dieb
+{"coords": [6.2667, 50.9833], "date": "2026-01-15"}, // Getränkemarkt Linnich, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-01-15"}, // Hoven Düren, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-01-15"}, // Aufnahmegerät Kaiserslautern, Dieb
+{"coords": [8.4661, 49.4878], "date": "2026-01-15"}, // Zeugenaufruf Mannheim, Dieb
+{"coords": [7.2, 51.6167], "date": "2026-01-15"}, // Recklinghausen, Einbrüche
+{"coords": [8.6822, 50.1106], "date": "2026-01-15"}, // Tageswohnungseinbruch Frankfurt, Einbruch
+{"coords": [8.8333, 48.0667], "date": "2026-01-15"}, // Trossingen, aufbruch
+{"coords": [7.7689, 49.4447], "date": "2026-01-15"}, // Kaiserslautern, Dieb
+{"coords": [9.9333, 52.9667], "date": "2026-01-15"}, // Heidekreis, Einbruch

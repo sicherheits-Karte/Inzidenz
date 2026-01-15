@@ -7513,3 +7513,10 @@
 //{"coords": [], "date": "2026-01-15"} // Roxheim, Diebstahl
 {"coords": [8.8592, 52.1653], "date": "2026-01-15"}, // Vlotho, Einbruch
 //{"coords": [], "date": "2026-01-15"} // Berchum, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-01-15"}, // Festnahme Nürnberg, entwendet
+{"coords": [6.3667, 51.4833], "date": "2026-01-15"}, // Nieukerk, Einbruch
+//{"coords": [], "date": "2026-01-15"} // Einbrecher Neu Wulmstorf, Einbrecher
+{"coords": [7.4, 51.1167], "date": "2026-01-15"}, // Wipperfürth, stahl
+{"coords": [8.3094, 49.1239], "date": "2026-01-15"}, // Wohnung Hördt, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-01-15"}, // Bielefeld, Dieb
+//{"coords": [], "date": "2026-01-15"} // Münchweiler, Diebstahl

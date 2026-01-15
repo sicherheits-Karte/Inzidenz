@@ -7545,3 +7545,4 @@
 {"coords": [8.24, 50.0822], "date": "2026-01-15"}, // Wiesbaden, Diebstahl
 //{"coords": [], "date": "2026-01-15"} // Kein Ort gefunden, Einbruch
 {"coords": [6.9194, 51.9944], "date": "2026-01-15"}, // Stadtlohn, entwendet
+{"coords": [8.8431, 49.8978], "date": "2026-01-15"}, // Dieburg, Dieb

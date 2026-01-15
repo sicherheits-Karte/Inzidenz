@@ -7490,3 +7490,6 @@
 {"coords": [7.9833, 51.95], "date": "2026-01-15"}, // Einfamilienhaus Warendorf, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-15"}, // Unfall Aalen, Einbruch
 //{"coords": [], "date": "2026-01-15"} // Leichlingen, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-15"}, // Darmstadt, Einbrecher
+{"coords": [10.9806, 54.3722], "date": "2026-01-15"}, // Heiligenhafen gestellt, Dieb
+//{"coords": [], "date": "2026-01-15"} // Hinweise Schermbeck, Einbruch

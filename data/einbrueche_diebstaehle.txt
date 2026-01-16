@@ -7724,3 +7724,8 @@
 {"coords": [10.8978, 48.3705], "date": "2026-01-16"}, // Raubdelikt Augsburg, Raub
 {"coords": [7.1, 51.5167], "date": "2026-01-16"}, // Überfall Gelsenkirchen, Räuber
 {"coords": [8.6833, 50.5833], "date": "2026-01-16"}, // Einbruch Giessen, Einbruch
+//{"coords": [], "date": "2026-01-16"} // Sachschaden in Höhe von etwa, Einbruch
+//{"coords": [], "date": "2026-01-16"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-01-16"}, // Zeugenaufruf Freiburg, Raub
+{"coords": [6.9194, 51.9944], "date": "2026-01-16"}, // Stadtlohn, eingebrochen
+{"coords": [6.9194, 51.9944], "date": "2026-01-16"}, // Stadtlohn, entwendet

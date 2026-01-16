@@ -7689,3 +7689,5 @@
 {"coords": [8.0739, 48.6311], "date": "2026-01-16"}, // Achern, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2026-01-16"}, // Speyer, Einbruch
 {"coords": [9.0958, 54.1958], "date": "2026-01-16"}, // Haft Heide, Diebstahl
+//{"coords": [], "date": "2026-01-16"} // Kreis, Einbrecher
+{"coords": [6.6178, 51.6589], "date": "2026-01-16"}, // Polizei Wesel, Diebstahl

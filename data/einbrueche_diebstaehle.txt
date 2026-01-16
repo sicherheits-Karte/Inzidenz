@@ -7729,3 +7729,4 @@
 {"coords": [7.82, 47.99], "date": "2026-01-16"}, // Zeugenaufruf Freiburg, Raub
 {"coords": [6.9194, 51.9944], "date": "2026-01-16"}, // Stadtlohn, eingebrochen
 {"coords": [6.9194, 51.9944], "date": "2026-01-16"}, // Stadtlohn, entwendet
+{"coords": [9.0, 47.85], "date": "2026-01-16"}, // Stockach, Einbruch

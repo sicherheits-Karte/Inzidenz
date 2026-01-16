@@ -7601,3 +7601,12 @@
 {"coords": [8.4661, 49.4878], "date": "2026-01-15"}, // Mannheim, Raub
 {"coords": [13.9897, 53.5069], "date": "2026-01-15"}, // Pasewalk, Raub
 //{"coords": [], "date": "2026-01-16"} // Personensuche Klingenmünster, Raub
+//{"coords": [], "date": "2026-01-16"} // Wohnhaus Hüven, Einbruch
+{"coords": [7.2333, 52.3167], "date": "2026-01-16"}, // Wohnhaus Schüttorf, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-01-16"}, // Vereinsheim Haren, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-01-16"}, // Fahrradschuppen Haselünne, Diebstahl
+{"coords": [7.3481, 52.3236], "date": "2026-01-16"}, // Einfamilienhaus Salzbergen, Einbruch
+{"coords": [6.85, 52.6167], "date": "2026-01-16"}, // Kirche Emlichheim, Diebstahl
+{"coords": [7.4842, 52.6742], "date": "2026-01-16"}, // Einfamilienhaus Haselünne, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-01-16"}, // Kiosk Haselünne, Einbruch
+//{"coords": [], "date": "2026-01-16"} // Bäckerei Werpeloh, Raub

@@ -7691,3 +7691,8 @@
 {"coords": [9.0958, 54.1958], "date": "2026-01-16"}, // Haft Heide, Diebstahl
 //{"coords": [], "date": "2026-01-16"} // Kreis, Einbrecher
 {"coords": [6.6178, 51.6589], "date": "2026-01-16"}, // Polizei Wesel, Diebstahl
+{"coords": [9.8833, 53.3333], "date": "2026-01-16"}, // Baustellenbereich Buchholz, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-01-16"}, // Ludwigshafen, klau
+{"coords": [8.4353, 49.4811], "date": "2026-01-16"}, // Oppau Ludwigshafen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-16"}, // Ludwigshafen, entwendet
+{"coords": [6.5617, 51.3317], "date": "2026-01-16"}, // Festnahme Krefeld, Diebstahl

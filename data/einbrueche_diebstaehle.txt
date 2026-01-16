@@ -7600,3 +7600,4 @@
 //{"coords": [], "date": "2026-01-15"} // Bahnhof Neubrücke mehr, aufbruch
 {"coords": [8.4661, 49.4878], "date": "2026-01-15"}, // Mannheim, Raub
 {"coords": [13.9897, 53.5069], "date": "2026-01-15"}, // Pasewalk, Raub
+//{"coords": [], "date": "2026-01-16"} // Personensuche Klingenmünster, Raub

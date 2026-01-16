@@ -7736,3 +7736,4 @@
 {"coords": [7.82, 47.99], "date": "2026-01-16"}, // Gaststätte Freiburg, Einbruch
 {"coords": [11.4667, 53.6333], "date": "2026-01-16"}, // Wilhelmsburg Hamburg, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-01-16"}, // Wohnhaus Reutlingen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-16"}, // Karl Friedrich Schnellert aus Erfurt vermisst mehr, klau

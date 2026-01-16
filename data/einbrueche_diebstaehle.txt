@@ -7730,3 +7730,4 @@
 {"coords": [6.9194, 51.9944], "date": "2026-01-16"}, // Stadtlohn, eingebrochen
 {"coords": [6.9194, 51.9944], "date": "2026-01-16"}, // Stadtlohn, entwendet
 {"coords": [9.0, 47.85], "date": "2026-01-16"}, // Stockach, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-16"}, // Limburg, gestohlen

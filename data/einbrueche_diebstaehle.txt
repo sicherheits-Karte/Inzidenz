@@ -7721,3 +7721,6 @@
 {"coords": [8.5331, 52.021], "date": "2026-01-16"}, // Bielefeld, gestohlen
 {"coords": [8.6822, 50.1106], "date": "2026-01-16"}, // Frankfurt, Räuber
 {"coords": [7.3333, 51.4333], "date": "2026-01-16"}, // Witten, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-01-16"}, // Raubdelikt Augsburg, Raub
+{"coords": [7.1, 51.5167], "date": "2026-01-16"}, // Überfall Gelsenkirchen, Räuber
+{"coords": [8.6833, 50.5833], "date": "2026-01-16"}, // Einbruch Giessen, Einbruch

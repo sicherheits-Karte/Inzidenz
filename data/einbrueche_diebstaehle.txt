@@ -7647,3 +7647,14 @@
 {"coords": [8.3708, 52.6078], "date": "2026-01-16"}, // Diepholz, Einbruch
 {"coords": [12.1997, 50.6544], "date": "2026-01-16"}, // Greiz, gestohlen
 {"coords": [12.6833, 54.4333], "date": "2026-01-16"}, // Kurierfahrer Zingst, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-01-16"}, // Erdgeschosswohnung Gütersloh, Einbruch
+//{"coords": [], "date": "2026-01-16"} // Kein Ort gefunden, gestohlen
+{"coords": [10.7292, 50.4258], "date": "2026-01-16"}, // Aggressiver Ladendieb Hildburghausen, Dieb
+{"coords": [7.2056, 50.8014], "date": "2026-01-16"}, // Ladendiebstahl Siegburg, Diebstahl
+//{"coords": [], "date": "2026-01-16"} // E-Scooter verhindert, Diebstahl
+//{"coords": [], "date": "2026-01-16"} // Kein Ort gefunden, Einbruch
+//{"coords": [], "date": "2026-01-16"} // Glück Heimbach, eingebrochen
+{"coords": [6.4833, 50.8], "date": "2026-01-16"}, // Zeugen Düren, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-01-16"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-01-16"}, // Vechta, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-16"}, // Haft Bielefeld, Diebstähle

@@ -7739,3 +7739,4 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-16"}, // Karl Friedrich Schnellert aus Erfurt vermisst mehr, klau
 {"coords": [9.732, 52.3759], "date": "2026-01-16"}, // Hannover, Räuber
 {"coords": [8.0169, 50.3714], "date": "2026-01-16"}, // Zeugenhinweise Diez, Diebstahl
+{"coords": [9.0833, 52.7167], "date": "2026-01-16"}, // Diebstahl Wietzen, Diebstahl

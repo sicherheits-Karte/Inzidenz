@@ -7731,3 +7731,7 @@
 {"coords": [6.9194, 51.9944], "date": "2026-01-16"}, // Stadtlohn, entwendet
 {"coords": [9.0, 47.85], "date": "2026-01-16"}, // Stockach, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-01-16"}, // Limburg, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-01-16"}, // Einsatz Freiburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-01-16"}, // Tankstelle Freiburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-01-16"}, // Gaststätte Freiburg, Einbruch
+{"coords": [11.4667, 53.6333], "date": "2026-01-16"}, // Wilhelmsburg Hamburg, Raub

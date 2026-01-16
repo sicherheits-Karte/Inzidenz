@@ -7658,3 +7658,9 @@
 {"coords": [9.1919, 48.8975], "date": "2026-01-16"}, // Wohnhaus Ludwigsburg, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-01-16"}, // Vechta, Einbruch
 {"coords": [8.5331, 52.021], "date": "2026-01-16"}, // Haft Bielefeld, Diebstähle
+{"coords": [7.75, 51.3833], "date": "2026-01-16"}, // Hemer, entwendet
+{"coords": [7.6333, 51.2167], "date": "2026-01-16"}, // Radladerfahrt Lüdenscheid, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-01-16"}, // Kaiserslautern, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-01-16"}, // Automatensprengung Erfurt, stahl
+{"coords": [8.4661, 49.4878], "date": "2026-01-16"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2026-01-16"}, // Zeugenaufruf Heidelberg, Einbruch

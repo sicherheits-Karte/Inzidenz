@@ -7617,3 +7617,5 @@
 {"coords": [11.3239, 50.9795], "date": "2026-01-16"}, // Weimar, Einbrecher
 //{"coords": [], "date": "2026-01-16"} // Kreis, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2026-01-16"}, // Verwechslung Jena, Diebstahl
+{"coords": [8.35, 51.6667], "date": "2026-01-16"}, // Einfamilienhaus Lippstadt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-16"}, // Unfall Aalen, Einbruch

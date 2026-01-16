@@ -7629,3 +7629,4 @@
 //{"coords": [], "date": "2026-01-16"} // Werpeloh, Raub
 {"coords": [8.2146, 53.1434], "date": "2026-01-16"}, // Oldenburg, Einbruch
 {"coords": [7.7, 51.375], "date": "2026-01-16"}, // Glasbruch Iserlohn, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-16"}, // Ulm, Einbruch

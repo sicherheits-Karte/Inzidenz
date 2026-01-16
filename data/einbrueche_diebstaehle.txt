@@ -7713,3 +7713,11 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-16"}, // Einbrüche Aalen, Einbrüche
 //{"coords": [], "date": "2026-01-16"} // Höhe, Einbrecher
 {"coords": [8.4043, 49.014], "date": "2026-01-16"}, // Wohnhaus Karlsruhe, Einbruch
+{"coords": [9.6694, 53.6875], "date": "2026-01-16"}, // Zeitschriftengeschäft Uetersen, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-01-16"}, // Aalen, Einbrecher
+{"coords": [7.1, 51.5167], "date": "2026-01-16"}, // Buer Gelsenkirchen, Räuber
+//{"coords": [], "date": "2026-01-16"} // Radolfzell, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-01-16"}, // Jackenverkauf Frankfurt, Raub
+{"coords": [8.5331, 52.021], "date": "2026-01-16"}, // Bielefeld, gestohlen
+{"coords": [8.6822, 50.1106], "date": "2026-01-16"}, // Frankfurt, Räuber
+{"coords": [7.3333, 51.4333], "date": "2026-01-16"}, // Witten, Einbruch

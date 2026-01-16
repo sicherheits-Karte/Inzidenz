@@ -7698,3 +7698,8 @@
 {"coords": [6.5617, 51.3317], "date": "2026-01-16"}, // Festnahme Krefeld, Diebstahl
 {"coords": [8.15, 49.4667], "date": "2026-01-16"}, // Weinstraße, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2026-01-16"}, // Hannover-Badenstedt entwendet mehr, entwendet
+{"coords": [7.6, 49.2], "date": "2026-01-16"}, // Pirmasens, Raub
+{"coords": [6.315, 51.0794], "date": "2026-01-16"}, // Tageswohnungseinbruch Erkelenz, Einbruch
+//{"coords": [], "date": "2026-01-16"} // Anrath, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-16"}, // Zeugen Gelsenkirchen, Raub
+{"coords": [8.7333, 49.5833], "date": "2026-01-16"}, // Indoorspielplatz Mörlenbach, Einbruch

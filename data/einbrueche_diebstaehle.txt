@@ -7696,3 +7696,4 @@
 {"coords": [8.4353, 49.4811], "date": "2026-01-16"}, // Oppau Ludwigshafen, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-01-16"}, // Ludwigshafen, entwendet
 {"coords": [6.5617, 51.3317], "date": "2026-01-16"}, // Festnahme Krefeld, Diebstahl
+{"coords": [8.15, 49.4667], "date": "2026-01-16"}, // Weinstraße, Diebstahl

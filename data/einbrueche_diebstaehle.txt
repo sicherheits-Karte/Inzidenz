@@ -7630,3 +7630,7 @@
 {"coords": [8.2146, 53.1434], "date": "2026-01-16"}, // Oldenburg, Einbruch
 {"coords": [7.7, 51.375], "date": "2026-01-16"}, // Glasbruch Iserlohn, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-01-16"}, // Ulm, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-01-16"}, // Wohnhaus Vogelsbergkreis, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-16"}, // Mitte, Diebstahl
+//{"coords": [], "date": "2026-01-16"} // der Pfortenstraße entwendeten ein oder mehrere unbekannte Personen unter anderem einen Bohrhammer. Der Gesamtwert des Beuteguts liegt bei etwa, Diebstahl
+//{"coords": [], "date": "2026-01-16"} // Kein Ort gefunden, Einbrecher

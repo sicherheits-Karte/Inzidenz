@@ -7610,3 +7610,10 @@
 {"coords": [7.4842, 52.6742], "date": "2026-01-16"}, // Einfamilienhaus Haselünne, Einbruch
 {"coords": [7.4842, 52.6742], "date": "2026-01-16"}, // Kiosk Haselünne, Einbruch
 //{"coords": [], "date": "2026-01-16"} // Bäckerei Werpeloh, Raub
+{"coords": [10.7333, 50.65], "date": "2026-01-16"}, // Mehlis, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-16"}, // Sachbeschädigungen Aalen, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2026-01-16"}, // Pedelec Aalen, Diebstahl
+{"coords": [8.5861, 52.1983], "date": "2026-01-16"}, // Bünde, entwendet
+{"coords": [11.3239, 50.9795], "date": "2026-01-16"}, // Weimar, Einbrecher
+//{"coords": [], "date": "2026-01-16"} // Kreis, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-01-16"}, // Verwechslung Jena, Diebstahl

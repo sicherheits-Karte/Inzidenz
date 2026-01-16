@@ -7641,3 +7641,9 @@
 {"coords": [8.7667, 51.7167], "date": "2026-01-16"}, // Paderborn, Einbruch
 {"coords": [7.6333, 51.6167], "date": "2026-01-16"}, // Bergkamen, aufbruch
 {"coords": [9.6775, 50.5528], "date": "2026-01-16"}, // Kindergärten Fulda, Einbrüche
+{"coords": [7.7689, 49.4447], "date": "2026-01-16"}, // Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2026-01-16"} // Baustelle entwendet mehr, entwendet
+{"coords": [6.6833, 51.2], "date": "2026-01-16"}, // Schmuck Neuss, entwendet
+{"coords": [8.3708, 52.6078], "date": "2026-01-16"}, // Diepholz, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-01-16"}, // Greiz, gestohlen
+{"coords": [12.6833, 54.4333], "date": "2026-01-16"}, // Kurierfahrer Zingst, Diebstahl

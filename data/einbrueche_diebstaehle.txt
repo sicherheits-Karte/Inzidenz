@@ -7751,3 +7751,9 @@
 {"coords": [7.0667, 52.4333], "date": "2026-01-17"}, // Friseursalon Nordhorn, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2026-01-17"}, // Tagespflegestätte Einbeck, Einbruch
 {"coords": [9.8333, 53.95], "date": "2026-01-17"}, // Hagen Hagen, Einbruch
+{"coords": [8.5833, 51.3833], "date": "2026-01-17"}, // Einfamilienhaus Brilon, Einbruch
+{"coords": [8.5694, 50.1433], "date": "2026-01-17"}, // Eschborn Hofheim, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-01-17"}, // Zeugensuche Wesel, Raub
+//{"coords": [], "date": "2026-01-17"} // Wenholthausen, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-17"}, // Gelsenkirchen, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-01-17"}, // Einbrecher-- Bremen, Einbrecher

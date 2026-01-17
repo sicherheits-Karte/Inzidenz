@@ -7741,3 +7741,5 @@
 {"coords": [8.0169, 50.3714], "date": "2026-01-16"}, // Zeugenhinweise Diez, Diebstahl
 {"coords": [9.0833, 52.7167], "date": "2026-01-16"}, // Diebstahl Wietzen, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-01-17"}, // Mehrparteienhaus Ludwigsburg, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-01-17"}, // Vechta, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-01-17"}, // Emden, Diebstahl

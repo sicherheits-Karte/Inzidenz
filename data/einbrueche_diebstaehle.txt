@@ -7762,3 +7762,4 @@
 {"coords": [9.6333, 51.65], "date": "2026-01-17"}, // Motorsäge Uslar, Diebstahl
 {"coords": [9.6333, 51.65], "date": "2026-01-17"}, // Uslar, Raub
 {"coords": [7.7689, 49.4447], "date": "2026-01-17"}, // Kreis Kaiserslautern, Diebstähle
+{"coords": [7.9447, 48.4731], "date": "2026-01-17"}, // Offenburg, Diebstahl

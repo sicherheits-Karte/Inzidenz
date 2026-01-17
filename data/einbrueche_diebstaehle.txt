@@ -7768,3 +7768,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-17"}, // Pressemitteilung Polizeipräsidium Aalen Aalen, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-01-17"}, // Limburg, Einbruch
 //{"coords": [], "date": "2026-01-17"} // der Zeit zwischen gestern, entwendet
+{"coords": [8.6306, 53.05], "date": "2026-01-17"}, // Zeugenaufruf Delmenhorst, Einbruch

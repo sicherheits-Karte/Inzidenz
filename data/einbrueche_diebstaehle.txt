@@ -7770,3 +7770,4 @@
 //{"coords": [], "date": "2026-01-17"} // der Zeit zwischen gestern, entwendet
 {"coords": [8.6306, 53.05], "date": "2026-01-17"}, // Zeugenaufruf Delmenhorst, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-01-17"}, // Zeugenaufruf Lippe, Raub
+//{"coords": [], "date": "2026-01-17"} // Einfamilienhaus mehr, Einbruch

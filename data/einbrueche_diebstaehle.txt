@@ -7765,3 +7765,5 @@
 {"coords": [7.9447, 48.4731], "date": "2026-01-17"}, // Offenburg, Diebstahl
 {"coords": [8.35, 49.5333], "date": "2026-01-17"}, // Frankenthal, verschlossen, abgestellt worden. Durch den oder die, derzeitig noch, unbekannten Täter wurde der Innenraum der Fahrzeuge durchwühlt und Bargeld in Höhe von insgesamt, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-01-17"}, // Pedelec gestohlen. Der Besitzer sicherte es am Fahrradständer und fuhr mit dem Zug nach Erfurt. Als er wiederkam, erlebte er eine böse Überraschung. Sein Fahrrad im Wert von knapp, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-01-17"}, // Pressemitteilung Polizeipräsidium Aalen Aalen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-17"}, // Limburg, Einbruch

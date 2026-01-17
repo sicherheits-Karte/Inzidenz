@@ -7743,3 +7743,9 @@
 {"coords": [9.1919, 48.8975], "date": "2026-01-17"}, // Mehrparteienhaus Ludwigsburg, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-01-17"}, // Vechta, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2026-01-17"}, // Emden, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-01-17"}, // Einbeck, entwendet
+{"coords": [7.4842, 52.6742], "date": "2026-01-17"}, // Wohnhaus Haselünne, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2026-01-17"}, // Versuchter Wohnungseinbruch Papenburg, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-01-17"}, // Gartenhaus Nordhorn, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-01-17"}, // Kindergarten Nordhorn, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-01-17"}, // Friseursalon Nordhorn, Einbruch

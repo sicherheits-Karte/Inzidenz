@@ -7740,3 +7740,4 @@
 {"coords": [9.732, 52.3759], "date": "2026-01-16"}, // Hannover, Räuber
 {"coords": [8.0169, 50.3714], "date": "2026-01-16"}, // Zeugenhinweise Diez, Diebstahl
 {"coords": [9.0833, 52.7167], "date": "2026-01-16"}, // Diebstahl Wietzen, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-01-17"}, // Mehrparteienhaus Ludwigsburg, Einbruch

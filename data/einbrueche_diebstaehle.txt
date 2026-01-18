@@ -7818,3 +7818,5 @@
 //{"coords": [], "date": "2026-01-18"} // Kein Ort gefunden, Raub
 {"coords": [11.3239, 50.9795], "date": "2026-01-18"}, // Weimar, entwendet
 {"coords": [8.3708, 52.6078], "date": "2026-01-18"}, // Diepholz, Einbruch
+//{"coords": [], "date": "2026-01-18"} // Pkw Schmölln, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-01-18"}, // Raub Ludwigshafen, Raub

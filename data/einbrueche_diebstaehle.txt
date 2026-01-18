@@ -7810,3 +7810,4 @@
 {"coords": [7.5667, 51.0833], "date": "2026-01-18"}, // Pedelec Gummersbach, Dieb
 {"coords": [7.7, 50.9667], "date": "2026-01-18"}, // Lagerhalle Reichshof, Einbrecher
 {"coords": [7.6333, 51.05], "date": "2026-01-18"}, // Packstation Bergneustadt, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-01-18"}, // Verdächtigen-- Bremen, Einbruch

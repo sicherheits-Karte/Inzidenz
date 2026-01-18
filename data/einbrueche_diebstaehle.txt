@@ -7775,3 +7775,5 @@
 {"coords": [10.95, 50.8333], "date": "2026-01-18"}, // Gartenanlage Arnstadt, Einbruch
 {"coords": [7.6889, 51.5347], "date": "2026-01-18"}, // Vierfamilienhaus Unna, Einbruch
 //{"coords": [], "date": "2026-01-18"} // Mehrfamilienhauses Holzwickede, Einbruch
+{"coords": [11.7333, 50.85], "date": "2026-01-18"}, // Stadtroda Stadtroda, gestohlen
+{"coords": [8.0722, 49.5608], "date": "2026-01-18"}, // Festhaltung Eisenberg, Diebstahl

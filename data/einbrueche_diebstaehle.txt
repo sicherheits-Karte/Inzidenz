@@ -7841,3 +7841,4 @@
 //{"coords": [], "date": "2026-01-18"} // Umgebung Panzweiler, Diebstähle
 {"coords": [8.5833, 53.55], "date": "2026-01-19"}, // Mitte, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2026-01-19"}, // Wiesbaden, Raub
+{"coords": [10.95, 50.8333], "date": "2026-01-19"}, // Arnstadt, Einbruch

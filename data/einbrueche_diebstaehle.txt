@@ -7805,3 +7805,8 @@
 {"coords": [7.0116, 51.4556], "date": "2026-01-18"}, // Fotofahndung Essen, Dieb
 //{"coords": [], "date": "2026-01-18"} // Epfendorf, entwendet
 {"coords": [8.6306, 53.05], "date": "2026-01-18"}, // Zeugenaufruf Delmenhorst, Einbruch
+//{"coords": [], "date": "2026-01-18"} // Harthausen- Versuchter Einbruchsdiebstahl Harthausen, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-01-18"}, // Wilhelmshaven, Diebstahl
+{"coords": [7.5667, 51.0833], "date": "2026-01-18"}, // Pedelec Gummersbach, Dieb
+{"coords": [7.7, 50.9667], "date": "2026-01-18"}, // Lagerhalle Reichshof, Einbrecher
+{"coords": [7.6333, 51.05], "date": "2026-01-18"}, // Packstation Bergneustadt, Einbruch

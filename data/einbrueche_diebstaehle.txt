@@ -7799,3 +7799,6 @@
 {"coords": [10.7333, 51.2833], "date": "2026-01-18"}, // Ebeleben, entwendet
 {"coords": [7.1, 51.5167], "date": "2026-01-18"}, // Bürgerin Gelsenkirchen, Raub
 //{"coords": [], "date": "2026-01-18"} // Kindertagesstätte Auhagen, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-01-18"}, // Einfamilienhaus Lippe, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-18"}, // Zeugen Ludwigshafen, aufbrüche
+{"coords": [6.9667, 51.2333], "date": "2026-01-18"}, // Polizei Mettmann POL-ME, Dieb

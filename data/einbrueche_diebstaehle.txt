@@ -7832,3 +7832,4 @@
 //{"coords": [], "date": "2026-01-18"} // Bargeld Norderwöhrden, Einbruch
 //{"coords": [], "date": "2026-01-18"} // Süden, Einbruch
 //{"coords": [], "date": "2026-01-18"} // Höhe, Einbrüche
+{"coords": [9.4108, 53.1111], "date": "2026-01-18"}, // Pkw Rotenburg, Einbruch

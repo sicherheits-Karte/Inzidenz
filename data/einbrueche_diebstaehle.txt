@@ -7784,3 +7784,9 @@
 {"coords": [8.2869, 52.7303], "date": "2026-01-18"}, // Vechta, Einbruch
 //{"coords": [], "date": "2026-01-18"} // Geschäften oder öffentlichen Verkehrsmitteln zunutze, um zuzuschlagen. Doch schon mit einfachen Verhaltensmaßnahmen können Sie sich davor schützen, Opfer eines Diebstahls zu werden, Diebstahl
 {"coords": [8.35, 49.5333], "date": "2026-01-18"}, // hochwertiges Pedelcs mittels eines Ortungsgeräts lokalisieren konnte. Das Pedelc sei am Vortag, an der Arbeitsstelle, Amazon in Frankenthal, trotz Sicherung durch einen unbekannten Täter entwendet worden. Die Ortungsadresse wurde aufgesucht und das Pedelc hinter einer verschlossenen Tür mittels akustischer Ortung festgestellt. Nach Erwirkung eines, Diebstahl
+{"coords": [7.6, 49.2], "date": "2026-01-18"}, // Netto Polizei Pirmasens, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-01-18"}, // Einbeck, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2026-01-18"}, // Nordhorn, Raub
+{"coords": [7.6, 49.2], "date": "2026-01-18"}, // Wasgau Husterhöhe Polizei Pirmasens, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-01-18"}, // Diebesgut Meppen, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-01-18"}, // Neuwagen Hagen, Einbruch

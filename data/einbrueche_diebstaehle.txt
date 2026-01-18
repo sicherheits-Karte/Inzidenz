@@ -7834,3 +7834,4 @@
 //{"coords": [], "date": "2026-01-18"} // Höhe, Einbrüche
 {"coords": [9.4108, 53.1111], "date": "2026-01-18"}, // Pkw Rotenburg, Einbruch
 {"coords": [10.9147, 50.6856], "date": "2026-01-18"}, // Ilmenau, aufbruch
+{"coords": [9.732, 52.3759], "date": "2026-01-18"}, // Hannover, eingebrochen

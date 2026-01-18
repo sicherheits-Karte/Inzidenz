@@ -7822,3 +7822,8 @@
 {"coords": [8.4353, 49.4811], "date": "2026-01-18"}, // Raub Ludwigshafen, Raub
 {"coords": [7.0083, 52.075], "date": "2026-01-18"}, // Ahaus, Dieb
 {"coords": [6.85, 49.3], "date": "2026-01-18"}, // Trunkenheitsfahrt Bad Schwalbach, Einbruch
+{"coords": [7.0, 51.8333], "date": "2026-01-18"}, // Wohnhaus Reken, Einbruch
+{"coords": [6.8333, 51.7833], "date": "2026-01-18"}, // Geschäftsräume Raesfeld, Einbruch
+{"coords": [9.2844, 51.045], "date": "2026-01-18"}, // Borken, Dieb
+{"coords": [8.4414, 50.0919], "date": "2026-01-18"}, // Hofheim, Einbrüche
+{"coords": [11.0299, 50.9848], "date": "2026-01-18"}, // Erfurt, Einbrecher

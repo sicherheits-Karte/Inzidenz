@@ -7796,3 +7796,5 @@
 {"coords": [8.1075, 53.5219], "date": "2026-01-18"}, // Wilhelmshaven, Einbruch
 {"coords": [12.1997, 50.6544], "date": "2026-01-18"}, // Funkstreifenwagen Greiz, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-01-18"}, // Gotha, Einbruch
+{"coords": [10.7333, 51.2833], "date": "2026-01-18"}, // Ebeleben, entwendet
+{"coords": [7.1, 51.5167], "date": "2026-01-18"}, // Bürgerin Gelsenkirchen, Raub

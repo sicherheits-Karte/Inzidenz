@@ -7838,3 +7838,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-18"}, // Einbruch Aalen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-18"}, // Einbrüche Aalen, Einbruch
 {"coords": [7.6, 50.3], "date": "2026-01-18"}, // Dachsenhausen Lahnstein, Raub
+//{"coords": [], "date": "2026-01-18"} // Umgebung Panzweiler, Diebstähle

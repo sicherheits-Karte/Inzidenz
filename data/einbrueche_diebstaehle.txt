@@ -7827,3 +7827,4 @@
 {"coords": [9.2844, 51.045], "date": "2026-01-18"}, // Borken, Dieb
 {"coords": [8.4414, 50.0919], "date": "2026-01-18"}, // Hofheim, Einbrüche
 {"coords": [11.0299, 50.9848], "date": "2026-01-18"}, // Erfurt, Einbrecher
+{"coords": [6.8333, 52.0333], "date": "2026-01-18"}, // Vreden, Diebstahl

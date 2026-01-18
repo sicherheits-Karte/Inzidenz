@@ -7777,3 +7777,8 @@
 //{"coords": [], "date": "2026-01-18"} // Mehrfamilienhauses Holzwickede, Einbruch
 {"coords": [11.7333, 50.85], "date": "2026-01-18"}, // Stadtroda Stadtroda, gestohlen
 {"coords": [8.0722, 49.5608], "date": "2026-01-18"}, // Festhaltung Eisenberg, Diebstahl
+//{"coords": [], "date": "2026-01-18"} // Cambs, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-01-18"}, // Jena, entwendet
+{"coords": [7.3608, 49.2492], "date": "2026-01-18"}, // Taschendiebstahl Zweibrücken, Diebstahl
+//{"coords": [], "date": "2026-01-18"} // Ausbildungszentrum Hinterweidenthal, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-01-18"}, // Vechta, Einbruch

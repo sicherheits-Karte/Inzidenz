@@ -7804,3 +7804,4 @@
 {"coords": [6.9667, 51.2333], "date": "2026-01-18"}, // Polizei Mettmann POL-ME, Dieb
 {"coords": [7.0116, 51.4556], "date": "2026-01-18"}, // Fotofahndung Essen, Dieb
 //{"coords": [], "date": "2026-01-18"} // Epfendorf, entwendet
+{"coords": [8.6306, 53.05], "date": "2026-01-18"}, // Zeugenaufruf Delmenhorst, Einbruch

@@ -7828,3 +7828,4 @@
 {"coords": [8.4414, 50.0919], "date": "2026-01-18"}, // Hofheim, Einbrüche
 {"coords": [11.0299, 50.9848], "date": "2026-01-18"}, // Erfurt, Einbrecher
 {"coords": [6.8333, 52.0333], "date": "2026-01-18"}, // Vreden, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-01-18"}, // Limburg, Diebstahl

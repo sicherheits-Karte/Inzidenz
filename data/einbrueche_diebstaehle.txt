@@ -7790,3 +7790,9 @@
 {"coords": [7.6, 49.2], "date": "2026-01-18"}, // Wasgau Husterhöhe Polizei Pirmasens, Diebstahl
 {"coords": [7.2908, 52.6906], "date": "2026-01-18"}, // Diebesgut Meppen, Einbruch
 {"coords": [9.8333, 53.95], "date": "2026-01-18"}, // Neuwagen Hagen, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-01-18"}, // Automatensprengung Apolda, entwendet
+{"coords": [11.5164, 51.0264], "date": "2026-01-18"}, // Garageneinbruch Apolda, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-18"}, // Personen Gelsenkirchen, Raub
+{"coords": [8.1075, 53.5219], "date": "2026-01-18"}, // Wilhelmshaven, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-01-18"}, // Funkstreifenwagen Greiz, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-01-18"}, // Gotha, Einbruch

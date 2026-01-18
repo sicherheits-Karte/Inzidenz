@@ -7829,3 +7829,4 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-18"}, // Erfurt, Einbrecher
 {"coords": [6.8333, 52.0333], "date": "2026-01-18"}, // Vreden, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2026-01-18"}, // Limburg, Diebstahl
+//{"coords": [], "date": "2026-01-18"} // Bargeld Norderwöhrden, Einbruch

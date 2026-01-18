@@ -7812,3 +7812,5 @@
 {"coords": [7.6333, 51.05], "date": "2026-01-18"}, // Packstation Bergneustadt, Einbruch
 {"coords": [8.8075, 53.075], "date": "2026-01-18"}, // Verdächtigen-- Bremen, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-01-18"}, // Wiesbaden, Einbrüche
+{"coords": [10.3, 50.8], "date": "2026-01-18"}, // Barchfeld, Einbruch
+{"coords": [10.5833, 49.3], "date": "2026-01-18"}, // Wohnhaus Ansbach, Einbruch

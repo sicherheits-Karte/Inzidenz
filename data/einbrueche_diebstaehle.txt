@@ -7840,3 +7840,4 @@
 {"coords": [7.6, 50.3], "date": "2026-01-18"}, // Dachsenhausen Lahnstein, Raub
 //{"coords": [], "date": "2026-01-18"} // Umgebung Panzweiler, Diebstähle
 {"coords": [8.5833, 53.55], "date": "2026-01-19"}, // Mitte, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-01-19"}, // Wiesbaden, Raub

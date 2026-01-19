@@ -8020,3 +8020,4 @@
 {"coords": [8.1075, 53.5219], "date": "2026-01-19"}, // Innenstadt Wilhelmshaven, Raub
 {"coords": [8.6833, 50.5833], "date": "2026-01-19"}, // Giessen, Einbrüche
 //{"coords": [], "date": "2026-01-19"} // Kein Ort gefunden, Dieb
+{"coords": [7.1167, 49.8167], "date": "2026-01-19"}, // Wohnhaus Morbach, Einbruch

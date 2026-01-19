@@ -7994,3 +7994,16 @@
 {"coords": [6.85, 49.3], "date": "2026-01-19"}, // Bad Schwalbach, eingebrochen
 //{"coords": [], "date": "2026-01-19"} // Höhe, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-01-19"}, // Unfälle Hofheim, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-19"}, // Giessen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-19"}, // Recklinghausen, Einbrüche
+//{"coords": [], "date": "2026-01-19"} // Zeugen Grabe, Raub
+//{"coords": [], "date": "2026-01-19"} // Uedem, Diebstahl
+{"coords": [7.5336, 52.1728], "date": "2026-01-19"}, // Geschäftsgebäude Emsdetten, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-19"}, // Freiburg, Einbrüche
+//{"coords": [], "date": "2026-01-19"} // Mülhausen, Einbruch
+{"coords": [6.45, 51.3167], "date": "2026-01-19"}, // Tönis, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-01-19"}, // Viersen, Diebstahl
+{"coords": [6.9667, 51.2333], "date": "2026-01-19"}, // Polizei Mettmann POL-ME, Einbrecher
+//{"coords": [], "date": "2026-01-19"} // Kein Ort gefunden, gestohlen
+{"coords": [6.9194, 51.9944], "date": "2026-01-19"}, // Kupferrohren Stadtlohn, Diebstahl
+{"coords": [6.5492, 51.2631], "date": "2026-01-19"}, // Willich, Einbruch

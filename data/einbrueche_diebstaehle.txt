@@ -7884,3 +7884,14 @@
 {"coords": [8.6514, 49.8728], "date": "2026-01-19"}, // Darmstadt, eingebrochen
 {"coords": [7.1833, 50.9], "date": "2026-01-19"}, // Rösrath, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2026-01-19"}, // Darmstadt, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Hinweise Meckenheim, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Einfamilienhaus Unnau, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2026-01-19"}, // Kiosk Unna, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Pflegeeinrichtung Bad Bentheim, Einbruch
+{"coords": [7.2931, 51.2861], "date": "2026-01-19"}, // Schwelm, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-19"}, // Coesfeld, Einbruch
+{"coords": [7.8333, 51.7], "date": "2026-01-19"}, // Heessen, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Römerberg, Einbruch
+{"coords": [7.8333, 51.7], "date": "2026-01-19"}, // Heessen, stahl
+{"coords": [10.75, 53.7], "date": "2026-01-19"}, // Ammersbek Ratzeburg, Einbrüche
+{"coords": [7.4653, 51.5136], "date": "2026-01-19"}, // Aplerbeck Dortmund, Raub

@@ -7907,3 +7907,20 @@
 //{"coords": [], "date": "2026-01-19"} // Kreis, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2026-01-19"}, // Wohnhaus Nordhorn, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2026-01-19"}, // Gevelsberg, gestohlen
+{"coords": [6.4333, 51.2], "date": "2026-01-19"}, // Mönchengladbach, gestohlen
+{"coords": [7.6736, 51.2972], "date": "2026-01-19"}, // Erpressung Altena, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Radevormwald, Raub
+{"coords": [8.0472, 52.2799], "date": "2026-01-19"}, // Hinweise Osnabrück, Einbruch
+{"coords": [7.5336, 52.1728], "date": "2026-01-19"}, // Emsdetten, Einbrecher
+{"coords": [9.4108, 53.1111], "date": "2026-01-19"}, // Rotenburg, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Altenberge, gestohlen
+{"coords": [9.9916, 48.3984], "date": "2026-01-19"}, // Ulm, Einbrüche
+{"coords": [7.3625, 51.2981], "date": "2026-01-19"}, // Geldabhebungen Ennepetal, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Einrichtung Altenberge, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Bad Laasphe, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-01-19"}, // Vereinsgebäude Warendorf, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Warbeyen, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-01-19"}, // Warendorf, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2026-01-19"}, // Hattingen, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-01-19"}, // Betriebsgebäude Fulda, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Neu Wulmstorf, Einbrecher

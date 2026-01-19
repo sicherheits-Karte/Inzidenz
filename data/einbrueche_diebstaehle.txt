@@ -8014,3 +8014,5 @@
 //{"coords": [], "date": "2026-01-19"} // Ost, stahl
 {"coords": [8.1092, 51.5711], "date": "2026-01-19"}, // Tankstelle Soest, Raub
 {"coords": [7.3608, 49.2492], "date": "2026-01-19"}, // Zeugenaufruf Zweibrücken, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Kindertagesstätte Wincheringen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-19"}, // Giessen, klauen

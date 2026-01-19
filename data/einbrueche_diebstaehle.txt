@@ -7849,3 +7849,10 @@
 {"coords": [11.3239, 50.9795], "date": "2026-01-19"}, // Weimar Weimar, Einbruch
 //{"coords": [], "date": "2026-01-19"} // Kreis, Diebstahl
 {"coords": [6.6178, 51.6589], "date": "2026-01-19"}, // Hinweise Wesel, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-01-19"}, // Greiz, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-01-19"}, // Osterholz, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Baucontainer Weyerbusch, Einbruch
+{"coords": [7.8208, 51.6803], "date": "2026-01-19"}, // Hamm, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-01-19"}, // Herford, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-19"}, // Unfallflucht Aalen, Einbrüche
+{"coords": [8.8592, 52.1653], "date": "2026-01-19"}, // Vlotho, Einbruch

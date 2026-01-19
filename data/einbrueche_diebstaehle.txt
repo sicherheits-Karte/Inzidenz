@@ -7845,3 +7845,4 @@
 {"coords": [13.0819, 54.3092], "date": "2026-01-19"}, // Stralsund, Diebstahl
 {"coords": [8.7, 50.0167], "date": "2026-01-19"}, // Dreieich, Einbruch
 {"coords": [8.9167, 50.1333], "date": "2026-01-19"}, // Folgeermittlungen Hanau, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Straße, Einbruch

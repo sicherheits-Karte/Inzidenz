@@ -7846,3 +7846,6 @@
 {"coords": [8.7, 50.0167], "date": "2026-01-19"}, // Dreieich, Einbruch
 {"coords": [8.9167, 50.1333], "date": "2026-01-19"}, // Folgeermittlungen Hanau, Diebstahl
 //{"coords": [], "date": "2026-01-19"} // Straße, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-01-19"}, // Weimar Weimar, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Kreis, Diebstahl
+{"coords": [6.6178, 51.6589], "date": "2026-01-19"}, // Hinweise Wesel, Einbruch

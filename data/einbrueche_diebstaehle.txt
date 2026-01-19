@@ -7856,3 +7856,10 @@
 {"coords": [8.6833, 52.15], "date": "2026-01-19"}, // Herford, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-19"}, // Unfallflucht Aalen, Einbrüche
 {"coords": [8.8592, 52.1653], "date": "2026-01-19"}, // Vlotho, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-19"}, // Ulm, Dieb
+{"coords": [9.95, 52.15], "date": "2026-01-19"}, // Hildesheim Hildesheim, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-01-19"}, // Zeugen Ratzeburg, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-01-19"}, // Tankstelle Lippstadt, Raub
+{"coords": [7.82, 47.99], "date": "2026-01-19"}, // Täterfestnahme Freiburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-01-19"}, // Schaffhauser Straße Freiburg, Raub
+{"coords": [6.5906, 51.7317], "date": "2026-01-19"}, // Hinweise Hamminkeln, eingebrochen

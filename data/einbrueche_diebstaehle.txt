@@ -7961,3 +7961,7 @@
 {"coords": [7.3, 51.1333], "date": "2026-01-19"}, // Hückeswagen, Einbruch
 //{"coords": [], "date": "2026-01-19"} // Sanitätshaus, Einbruch
 {"coords": [6.8167, 51.1], "date": "2026-01-19"}, // Polizei Dormagen, gestohlen
+{"coords": [8.8667, 51.9333], "date": "2026-01-19"}, // Lippe, Einbrecher
+{"coords": [8.8667, 51.9333], "date": "2026-01-19"}, // Lippe, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-19"}, // Ludwigshafen, gestohlen
+{"coords": [11.4317, 49.5106], "date": "2026-01-19"}, // Hersbruck, Einbruch

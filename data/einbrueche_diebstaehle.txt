@@ -7863,3 +7863,5 @@
 {"coords": [7.82, 47.99], "date": "2026-01-19"}, // Täterfestnahme Freiburg, Raub
 {"coords": [7.82, 47.99], "date": "2026-01-19"}, // Schaffhauser Straße Freiburg, Raub
 {"coords": [6.5906, 51.7317], "date": "2026-01-19"}, // Hinweise Hamminkeln, eingebrochen
+{"coords": [7.9139, 51.5528], "date": "2026-01-19"}, // Werl, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-19"}, // Coesfeld, entwendet

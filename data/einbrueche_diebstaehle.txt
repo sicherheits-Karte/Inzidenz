@@ -7878,3 +7878,9 @@
 {"coords": [8.7667, 51.7167], "date": "2026-01-19"}, // Kreis Paderborn, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2026-01-19"}, // Wochenende Oldenburg, Einbrüche
 {"coords": [9.9916, 48.3984], "date": "2026-01-19"}, // Ulm, Diebstahl
+{"coords": [8.76, 49.6233], "date": "2026-01-19"}, // Rimbach, Einbrecher
+{"coords": [8.5786, 49.5383], "date": "2026-01-19"}, // Bierflasche Viernheim, Einbrecher
+{"coords": [7.1675, 51.9436], "date": "2026-01-19"}, // Coesfeld, Einbrecher
+{"coords": [8.6514, 49.8728], "date": "2026-01-19"}, // Darmstadt, eingebrochen
+{"coords": [7.1833, 50.9], "date": "2026-01-19"}, // Rösrath, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-19"}, // Darmstadt, Einbruch

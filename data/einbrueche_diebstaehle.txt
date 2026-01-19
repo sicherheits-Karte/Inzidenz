@@ -7946,3 +7946,13 @@
 {"coords": [6.7735, 51.2277], "date": "2026-01-19"}, // Untersuchungshaft Düsseldorf, Einbruch
 //{"coords": [], "date": "2026-01-19"} // Letmathe, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-01-19"}, // Zeugen Köln, Dieb
+{"coords": [8.8386, 48.9511], "date": "2026-01-19"}, // Mühlacker, entwendet
+{"coords": [9.8222, 53.6028], "date": "2026-01-19"}, // Wohnungen Schenefeld, Einbrüche
+//{"coords": [], "date": "2026-01-19"} // Geisweid, Einbruch
+{"coords": [6.5875, 51.0883], "date": "2026-01-19"}, // Grevenbroich, Dieb
+{"coords": [10.0, 51.7064], "date": "2026-01-19"}, // Garage Northeim, Einbruch
+{"coords": [6.6833, 51.2], "date": "2026-01-19"}, // Kia Sportage Neuss, Dieb
+{"coords": [10.0, 51.7064], "date": "2026-01-19"}, // Gartenlaube Northeim, Diebstahl
+{"coords": [7.75, 51.3833], "date": "2026-01-19"}, // Hemer, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-01-19"}, // Iserlohn, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-01-19"}, // Pkw Lüdenscheid, Einbrüche

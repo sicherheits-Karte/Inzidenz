@@ -8007,3 +8007,10 @@
 //{"coords": [], "date": "2026-01-19"} // Kein Ort gefunden, gestohlen
 {"coords": [6.9194, 51.9944], "date": "2026-01-19"}, // Kupferrohren Stadtlohn, Diebstahl
 {"coords": [6.5492, 51.2631], "date": "2026-01-19"}, // Willich, Einbruch
+{"coords": [10.135, 51.3783], "date": "2026-01-19"}, // Zeugen Heilbad Heiligenstadt, Einbrüche
+//{"coords": [], "date": "2026-01-19"} // Schulgelände Bad Frankenhausen, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Untersuchungshaft mehr, Diebstähle
+{"coords": [8.5331, 52.021], "date": "2026-01-19"}, // Haft Bielefeld, Dieb
+//{"coords": [], "date": "2026-01-19"} // Ost, stahl
+{"coords": [8.1092, 51.5711], "date": "2026-01-19"}, // Tankstelle Soest, Raub
+{"coords": [7.3608, 49.2492], "date": "2026-01-19"}, // Zeugenaufruf Zweibrücken, Diebstahl

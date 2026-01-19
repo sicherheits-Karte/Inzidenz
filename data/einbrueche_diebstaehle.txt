@@ -7975,3 +7975,11 @@
 {"coords": [10.0075, 53.7064], "date": "2026-01-19"}, // Norderstedt, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-01-19"}, // Ludwigshafen, Einbruch
 {"coords": [8.2, 53.25], "date": "2026-01-19"}, // Rastede Oldenburg, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-01-19"}, // Vermisste Person Frankfurt, Raub
+//{"coords": [], "date": "2026-01-19"} // Radolfzell, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-19"}, // Unfall Aalen, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Scheune in Botelsdorf, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Ost, gestohlen
+{"coords": [6.9019, 50.8331], "date": "2026-01-19"}, // Tatort Brühl, Dieb
+{"coords": [6.1667, 51.6833], "date": "2026-01-19"}, // Goch, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-01-19"}, // Clarholz Gütersloh, eingebrochen

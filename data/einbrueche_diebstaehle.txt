@@ -7895,3 +7895,15 @@
 {"coords": [7.8333, 51.7], "date": "2026-01-19"}, // Heessen, stahl
 {"coords": [10.75, 53.7], "date": "2026-01-19"}, // Ammersbek Ratzeburg, Einbrüche
 {"coords": [7.4653, 51.5136], "date": "2026-01-19"}, // Aplerbeck Dortmund, Raub
+//{"coords": [], "date": "2026-01-19"} // Wohnhaus Erwitte, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-19"}, // Raub Bielefeld, Raub
+//{"coords": [], "date": "2026-01-19"} // Uentrop, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-01-19"}, // Landkreis Heilbronn, Einbrüche
+//{"coords": [], "date": "2026-01-19"} // Einfamilienhaus Selm, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-01-19"}, // Emden, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-01-19"}, // Diepholz, Dieb
+{"coords": [8.0, 53.5333], "date": "2026-01-19"}, // Schortens Schortens, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-01-19"}, // Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Kreis, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-01-19"}, // Wohnhaus Nordhorn, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-19"}, // Gevelsberg, gestohlen

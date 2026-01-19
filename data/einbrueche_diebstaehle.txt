@@ -8017,3 +8017,4 @@
 //{"coords": [], "date": "2026-01-19"} // Kindertagesstätte Wincheringen, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-01-19"}, // Giessen, klauen
 //{"coords": [], "date": "2026-01-19"} // Kein Ort gefunden, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-01-19"}, // Innenstadt Wilhelmshaven, Raub

@@ -7983,3 +7983,14 @@
 {"coords": [6.9019, 50.8331], "date": "2026-01-19"}, // Tatort Brühl, Dieb
 {"coords": [6.1667, 51.6833], "date": "2026-01-19"}, // Goch, Diebstahl
 {"coords": [8.3833, 51.9], "date": "2026-01-19"}, // Clarholz Gütersloh, eingebrochen
+{"coords": [8.24, 50.0822], "date": "2026-01-19"}, // Wiesbaden, Einbrüche
+{"coords": [8.8403, 47.7592], "date": "2026-01-19"}, // Singen, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Neschen, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-01-19"}, // Polizei Wuppertal Wuppertal, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-19"}, // Limburg, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-01-19"}, // Wiedenbrück Gütersloh, Diebstahl
+{"coords": [6.1972, 51.6267], "date": "2026-01-19"}, // Weeze, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // der Neuen Straße entwendeten ein oder mehrere Unbekannte Wellblechtafeln im Wert von circa, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-01-19"}, // Bad Schwalbach, eingebrochen
+//{"coords": [], "date": "2026-01-19"} // Höhe, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-01-19"}, // Unfälle Hofheim, Einbruch

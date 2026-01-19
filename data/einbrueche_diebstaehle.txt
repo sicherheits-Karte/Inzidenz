@@ -7956,3 +7956,8 @@
 {"coords": [7.75, 51.3833], "date": "2026-01-19"}, // Hemer, Einbrecher
 {"coords": [7.7, 51.375], "date": "2026-01-19"}, // Iserlohn, Einbruch
 {"coords": [7.6333, 51.2167], "date": "2026-01-19"}, // Pkw Lüdenscheid, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-01-19"}, // Zeugen Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-19"}, // Kiosk Freiburg, Einbruch
+{"coords": [7.3, 51.1333], "date": "2026-01-19"}, // Hückeswagen, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Sanitätshaus, Einbruch
+{"coords": [6.8167, 51.1], "date": "2026-01-19"}, // Polizei Dormagen, gestohlen

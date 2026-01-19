@@ -7936,3 +7936,13 @@
 {"coords": [8.2869, 52.7303], "date": "2026-01-19"}, // Vechta, Diebstahl
 {"coords": [8.6514, 49.8728], "date": "2026-01-19"}, // Jährigen Darmstadt, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2026-01-19"}, // Polizeikontrolle Reutlingen, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-01-19"}, // Polizeieinsätze Hildesheim, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-01-19"}, // Zeugen Düren, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-01-19"}, // Wohnung Karlsruhe, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-01-19"}, // Zeugen Karlsruhe, Einbrüche
+//{"coords": [], "date": "2026-01-19"} // Altenheim, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-01-19"}, // Zeugen Mühlhausen, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Kellerräume Haslach, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-01-19"}, // Untersuchungshaft Düsseldorf, Einbruch
+//{"coords": [], "date": "2026-01-19"} // Letmathe, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-01-19"}, // Zeugen Köln, Dieb

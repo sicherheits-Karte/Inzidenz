@@ -7924,3 +7924,15 @@
 {"coords": [7.1856, 51.3994], "date": "2026-01-19"}, // Hattingen, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2026-01-19"}, // Betriebsgebäude Fulda, Einbruch
 //{"coords": [], "date": "2026-01-19"} // Neu Wulmstorf, Einbrecher
+{"coords": [9.6333, 51.65], "date": "2026-01-19"}, // Gartenparzelle Uslar, Diebstahl
+//{"coords": [], "date": "2026-01-19"} // Twisteden, Diebstahl
+{"coords": [7.2197, 51.5428], "date": "2026-01-19"}, // Beute Herne, Raub
+{"coords": [9.3833, 50.6333], "date": "2026-01-19"}, // Vogelsbergkreis, Diebstahl
+{"coords": [7.4333, 52.2833], "date": "2026-01-19"}, // Einbrüche Rheine, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2026-01-19"}, // Bielefeld, Einbrecher
+//{"coords": [], "date": "2026-01-19"} // Hau Hau, Diebstahl
+{"coords": [7.4333, 52.2833], "date": "2026-01-19"}, // Kfz Rheine, Diebstähle
+//{"coords": [], "date": "2026-01-19"} // Kirchhundem, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-01-19"}, // Vechta, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-01-19"}, // Jährigen Darmstadt, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-01-19"}, // Polizeikontrolle Reutlingen, Einbruch

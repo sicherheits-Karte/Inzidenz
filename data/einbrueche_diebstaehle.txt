@@ -8049,3 +8049,4 @@
 {"coords": [8.0667, 51.1167], "date": "2026-01-20"}, // Steinmetzbetrieb Lennestadt, Einbruch
 //{"coords": [], "date": "2026-01-20"} // Allagen, Einbruch
 {"coords": [8.8772, 49.7711], "date": "2026-01-20"}, // Heizöfen Brensbach, Einbrüche
+//{"coords": [], "date": "2026-01-20"} // Wohnungseinbrüche Horst, Einbruch

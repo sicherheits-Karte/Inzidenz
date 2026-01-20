@@ -8063,3 +8063,11 @@
 //{"coords": [], "date": "2026-01-20"} // Firmenhalle Börger, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2026-01-20"}, // Bürogebäude Nordhorn, Einbruch
 {"coords": [7.9667, 53.4167], "date": "2026-01-20"}, // Zetel, Diebstahl
+//{"coords": [], "date": "2026-01-20"} // der Friedrichstraße öffneten in der Zeit vom, Diebstahl
+{"coords": [7.5667, 51.0833], "date": "2026-01-20"}, // Gummersbach, gestohlen
+//{"coords": [], "date": "2026-01-20"} // Glück Sonnberg, Einbrüche
+//{"coords": [], "date": "2026-01-20"} // Aldekerk, Einbruch
+//{"coords": [], "date": "2026-01-20"} // Kierspe, Einbrecher
+{"coords": [8.875, 53.05], "date": "2026-01-20"}, // Osterholz, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-01-20"}, // Diebstahl Iserlohn, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-01-20"}, // Gronau, Einbruch

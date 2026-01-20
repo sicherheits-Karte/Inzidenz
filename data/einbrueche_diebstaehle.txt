@@ -8114,3 +8114,4 @@
 {"coords": [9.1167, 54.0833], "date": "2026-01-20"}, // Nindorf, Diebstähle
 {"coords": [7.6167, 50.4], "date": "2026-01-20"}, // Social Media Vallendar, Einbrüche
 {"coords": [6.4333, 51.2], "date": "2026-01-20"}, // Mönchengladbach, gestohlen
+{"coords": [9.8833, 53.3333], "date": "2026-01-20"}, // Alkoholeinfluss Buchholz, Diebstahl

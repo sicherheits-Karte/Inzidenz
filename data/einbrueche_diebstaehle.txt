@@ -8146,3 +8146,12 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-20"}, // Erfurt, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-01-20"}, // Hofheim, Einbruch
 //{"coords": [], "date": "2026-01-20"} // Kein Ort gefunden, Einbruch
+//{"coords": [], "date": "2026-01-20"} // Kreis, Dieb
+{"coords": [6.8889, 49.9858], "date": "2026-01-20"}, // Einbruchsdiebstahl Windkraftanlage Reuth Wittlich, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-01-20"}, // Bad Schwalbach, Einbruch
+//{"coords": [], "date": "2026-01-20"} // Bad Hersfeld, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-01-20"}, // Limburg, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2026-01-20"}, // Firmenautos Trier, Diebstähle
+{"coords": [6.6393, 49.7556], "date": "2026-01-20"}, // Trier, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2026-01-20"}, // Martinus Trier, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-20"}, // Giessen, Raub

@@ -8137,3 +8137,12 @@
 {"coords": [9.95, 52.15], "date": "2026-01-20"}, // Hildesheim Ochtersum Hildesheim, Diebstahl
 {"coords": [6.3319, 51.5194], "date": "2026-01-20"}, // Geldern, Diebstahl
 {"coords": [6.8, 51.0], "date": "2026-01-20"}, // Randkanal Pulheim, eingebrochen
+{"coords": [8.6306, 53.05], "date": "2026-01-20"}, // Zeugenaufruf Delmenhorst, Einbruch
+//{"coords": [], "date": "2026-01-20"} // Kriminalpolizei Kreis Segeberg, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-01-20"}, // Gewerbeobjekt Ratzeburg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-20"}, // Pedelec Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-20"}, // Bürogebäude Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-20"}, // Erfurt, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-01-20"}, // Erfurt, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-01-20"}, // Hofheim, Einbruch
+//{"coords": [], "date": "2026-01-20"} // Kein Ort gefunden, Einbruch

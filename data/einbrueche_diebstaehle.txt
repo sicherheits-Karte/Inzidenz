@@ -8104,3 +8104,9 @@
 {"coords": [9.2167, 48.4833], "date": "2026-01-20"}, // Auseinandersetzung Reutlingen, Einbrüche
 {"coords": [7.35, 52.15], "date": "2026-01-20"}, // Steinfurt, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2026-01-20"}, // Garage Fulda, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-01-20"}, // Zeugenaufruf Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-01-20"} // Kreis, geklaut
+{"coords": [8.7667, 50.1], "date": "2026-01-20"}, // Kreis Offenbach, aufbrüche
+{"coords": [7.6667, 51.5833], "date": "2026-01-20"}, // Fahrzeugdiebstahl Kamen, Diebstahl
+//{"coords": [], "date": "2026-01-20"} // der Zeit vom, Diebstahl
+{"coords": [9.2844, 51.045], "date": "2026-01-20"}, // Borken, Raub

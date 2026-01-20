@@ -8071,3 +8071,16 @@
 {"coords": [8.875, 53.05], "date": "2026-01-20"}, // Osterholz, Einbruch
 {"coords": [7.7, 51.375], "date": "2026-01-20"}, // Diebstahl Iserlohn, Einbruch
 {"coords": [7.0333, 52.2167], "date": "2026-01-20"}, // Gronau, Einbruch
+{"coords": [9.55, 49.3167], "date": "2026-01-20"}, // Pkw Hohenlohekreis, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-01-20"}, // Zeugenaufruf Cuxhaven, Einbruch
+//{"coords": [], "date": "2026-01-20"} // Hundheim, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-01-20"}, // Emden, Diebstahl
+{"coords": [7.45, 51.4], "date": "2026-01-20"}, // Herdecke, Einbruch
+{"coords": [6.3214, 50.8447], "date": "2026-01-20"}, // Einbrüchen Langerwehe, Einbrüche
+//{"coords": [], "date": "2026-01-20"} // ein Wohnhaus in der Straße Im Gröbenfeld ein und entwendeten Schmuck und Bargeld. In der Zeit von, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-01-20"}, // Diepholz, entwendet
+{"coords": [6.2706, 50.0892], "date": "2026-01-20"}, // Zeugenhinweise Arzfeld, Einbruch
+//{"coords": [], "date": "2026-01-20"} // dem Kreisgebiet, Einbrüche
+{"coords": [6.1667, 51.6833], "date": "2026-01-20"}, // Goch, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-01-20"}, // Reutlingen, Diebstahl
+//{"coords": [], "date": "2026-01-20"} // Kein Ort gefunden, Dieb

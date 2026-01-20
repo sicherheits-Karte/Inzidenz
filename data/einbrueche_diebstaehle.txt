@@ -8132,3 +8132,8 @@
 {"coords": [8.6833, 50.5833], "date": "2026-01-20"}, // Giessen, Einbruch
 {"coords": [6.9194, 51.9944], "date": "2026-01-20"}, // Stadtlohn, eingebrochen
 {"coords": [7.0042, 51.9542], "date": "2026-01-20"}, // Gescher, eingebrochen
+{"coords": [10.4, 53.25], "date": "2026-01-20"}, // Lüneburg, Diebstähle
+{"coords": [6.7833, 49.3833], "date": "2026-01-20"}, // Nalbach, Raub
+{"coords": [9.95, 52.15], "date": "2026-01-20"}, // Hildesheim Ochtersum Hildesheim, Diebstahl
+{"coords": [6.3319, 51.5194], "date": "2026-01-20"}, // Geldern, Diebstahl
+{"coords": [6.8, 51.0], "date": "2026-01-20"}, // Randkanal Pulheim, eingebrochen

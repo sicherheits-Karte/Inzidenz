@@ -8023,3 +8023,5 @@
 {"coords": [7.1167, 49.8167], "date": "2026-01-19"}, // Wohnhaus Morbach, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-01-20"}, // Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-01-20"} // Einfamilienhaus Nister, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-20"}, // Einbruch Aalen, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-01-20"}, // Vereinsheim Wesel, Einbruch

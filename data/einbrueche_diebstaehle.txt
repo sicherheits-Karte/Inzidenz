@@ -8022,3 +8022,4 @@
 //{"coords": [], "date": "2026-01-19"} // Kein Ort gefunden, Dieb
 {"coords": [7.1167, 49.8167], "date": "2026-01-19"}, // Wohnhaus Morbach, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-01-20"}, // Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-01-20"} // Einfamilienhaus Nister, Einbruch

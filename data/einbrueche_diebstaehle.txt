@@ -8110,3 +8110,7 @@
 {"coords": [7.6667, 51.5833], "date": "2026-01-20"}, // Fahrzeugdiebstahl Kamen, Diebstahl
 //{"coords": [], "date": "2026-01-20"} // der Zeit vom, Diebstahl
 {"coords": [9.2844, 51.045], "date": "2026-01-20"}, // Borken, Raub
+{"coords": [9.6333, 51.65], "date": "2026-01-20"}, // Einbruchdiebstahl Uslar, Einbruch
+{"coords": [9.1167, 54.0833], "date": "2026-01-20"}, // Nindorf, Diebstähle
+{"coords": [7.6167, 50.4], "date": "2026-01-20"}, // Social Media Vallendar, Einbrüche
+{"coords": [6.4333, 51.2], "date": "2026-01-20"}, // Mönchengladbach, gestohlen

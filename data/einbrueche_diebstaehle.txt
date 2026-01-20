@@ -8025,3 +8025,6 @@
 //{"coords": [], "date": "2026-01-20"} // Einfamilienhaus Nister, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-20"}, // Einbruch Aalen, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2026-01-20"}, // Vereinsheim Wesel, Einbruch
+{"coords": [7.85, 51.6], "date": "2026-01-20"}, // Pelkum, Einbruch
+//{"coords": [], "date": "2026-01-20"} // POL-PDNR, Einbruch
+//{"coords": [], "date": "2026-01-20"} // Ortschaften, Diebstähle

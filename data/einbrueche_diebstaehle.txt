@@ -8160,3 +8160,4 @@
 {"coords": [7.7806, 53.5769], "date": "2026-01-20"}, // Wittmund, aufbruch
 {"coords": [10.7667, 51.5667], "date": "2026-01-20"}, // Dieben Ilfeld, Diebstahl
 {"coords": [10.75, 51.5333], "date": "2026-01-20"}, // Zeugen Niedersachswerfen, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-01-20"}, // Verkehrsunfälle Reutlingen, Einbruch

@@ -8084,3 +8084,8 @@
 {"coords": [6.1667, 51.6833], "date": "2026-01-20"}, // Goch, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-01-20"}, // Reutlingen, Diebstahl
 //{"coords": [], "date": "2026-01-20"} // Kein Ort gefunden, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-01-20"}, // Ludwigsburg, Diebstahl
+{"coords": [9.1167, 50.85], "date": "2026-01-20"}, // Polizeidirektion Neustadt, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-20"}, // Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-20"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-20"}, // Taten Osnabrück, Diebstahl

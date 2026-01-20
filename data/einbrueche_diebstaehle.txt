@@ -8155,3 +8155,8 @@
 {"coords": [6.6393, 49.7556], "date": "2026-01-20"}, // Trier, Einbruch
 {"coords": [6.6393, 49.7556], "date": "2026-01-20"}, // Martinus Trier, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-01-20"}, // Giessen, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-01-20"}, // Kupferkabeldiebstahl Augsburg, Diebstahl
+{"coords": [10.6639, 51.5867], "date": "2026-01-20"}, // Diebstahls Ellrich, Einbrecher
+{"coords": [7.7806, 53.5769], "date": "2026-01-20"}, // Wittmund, aufbruch
+{"coords": [10.7667, 51.5667], "date": "2026-01-20"}, // Dieben Ilfeld, Diebstahl
+{"coords": [10.75, 51.5333], "date": "2026-01-20"}, // Zeugen Niedersachswerfen, Diebstahl

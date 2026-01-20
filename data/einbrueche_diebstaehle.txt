@@ -8122,3 +8122,13 @@
 {"coords": [9.1919, 48.8975], "date": "2026-01-20"}, // Ludwigsburg, gestohlen
 //{"coords": [], "date": "2026-01-20"} // Benshausen, Einbruch
 //{"coords": [], "date": "2026-01-20"} // Weyer, Einbruch
+{"coords": [6.5906, 51.7317], "date": "2026-01-20"}, // Hamminkeln, Einbrüche
+{"coords": [7.1, 51.5167], "date": "2026-01-20"}, // Zeugen Gelsenkirchen, Raub
+//{"coords": [], "date": "2026-01-20"} // Höhe, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2026-01-20"}, // Uhren Zweibrücken, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-01-20"}, // Wilhelmshaven, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-20"}, // Zeugen Freiburg, Einbruch
+//{"coords": [], "date": "2026-01-20"} // Bergisch Gladbach, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-20"}, // Giessen, Einbruch
+{"coords": [6.9194, 51.9944], "date": "2026-01-20"}, // Stadtlohn, eingebrochen
+{"coords": [7.0042, 51.9542], "date": "2026-01-20"}, // Gescher, eingebrochen

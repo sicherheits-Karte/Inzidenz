@@ -8089,3 +8089,13 @@
 {"coords": [9.1919, 48.8975], "date": "2026-01-20"}, // Ludwigsburg, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-01-20"}, // Wohnhaus Ludwigsburg, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-01-20"}, // Taten Osnabrück, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-01-20"}, // Zeugen Münster, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-01-20"}, // Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-01-20"}, // Lippe, eingebrochen
+{"coords": [8.6822, 50.1106], "date": "2026-01-20"}, // Dieb Frankfurt, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-01-20"}, // Rettungshubschraubers Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-01-20"}, // Fahrräder Frankfurt, Dieb
+{"coords": [9.2108, 49.1425], "date": "2026-01-20"}, // Landkreis Heilbronn, Diebstahl
+//{"coords": [], "date": "2026-01-20"} // Kreis, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-01-20"}, // Frankfurt, Raub
+{"coords": [8.4311, 49.3194], "date": "2026-01-20"}, // Speyer, Einbruch

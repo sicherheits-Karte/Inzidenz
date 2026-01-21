@@ -8192,3 +8192,12 @@
 {"coords": [10.0, 51.7064], "date": "2026-01-21"}, // Auto Northeim, Diebstahl
 {"coords": [10.6866, 53.8655], "date": "2026-01-21"}, // Hafen Lübeck, Raub
 {"coords": [10.0, 51.7064], "date": "2026-01-21"}, // Versuchter Einbruch Northeim, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2026-01-21"}, // Auto Trier, Diebstahl
+{"coords": [9.9937, 53.5511], "date": "2026-01-21"}, // Stellingen Hamburg, Raub
+{"coords": [7.0116, 51.4556], "date": "2026-01-21"}, // Zeugenaufruf Essen, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-01-21"}, // Bochum, Einbruch
+{"coords": [8.0, 53.5333], "date": "2026-01-21"}, // Schortens Schortens, Diebstahl
+//{"coords": [], "date": "2026-01-21"} // Trifels, Raub
+{"coords": [8.6833, 52.15], "date": "2026-01-21"}, // Herford, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-01-21"}, // Lippe, Diebstahl
+{"coords": [6.3319, 51.5194], "date": "2026-01-21"}, // Geldern, Einbruch

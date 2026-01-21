@@ -8289,3 +8289,4 @@
 {"coords": [11.5862, 50.9271], "date": "2026-01-21"}, // Hungriger Einbrecher Jena, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-01-21"}, // Wiesbaden, Dieb
 {"coords": [9.5, 51.3167], "date": "2026-01-21"}, // Kassel, aufbrüche
+{"coords": [7.82, 47.99], "date": "2026-01-21"}, // Untersuchungshaft Freiburg, Diebstahl

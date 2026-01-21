@@ -8254,3 +8254,11 @@
 {"coords": [12.0333, 49.8667], "date": "2026-01-21"}, // Haus Borken, Einbruch
 {"coords": [9.2844, 51.045], "date": "2026-01-21"}, // Borken, Einbruch
 //{"coords": [], "date": "2026-01-21"} // Bauwagen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-21"}, // Recklinghausen, Einbruch
+//{"coords": [], "date": "2026-01-21"} // Kreis, gestohlen
+{"coords": [6.85, 49.3], "date": "2026-01-21"}, // Bad Schwalbach, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-21"}, // Gelegenheit Bielefeld, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-01-21"}, // Limburg, Raub
+{"coords": [6.3917, 51.2556], "date": "2026-01-21"}, // Polizei Viersen, Diebstähle
+{"coords": [9.2167, 48.0833], "date": "2026-01-21"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-21"}, // Zeugenaufruf Mannheim, Dieb

@@ -8245,3 +8245,12 @@
 {"coords": [7.2162, 51.4818], "date": "2026-01-21"}, // Bochum, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-01-21"}, // Erfurt, eingebrochen
 //{"coords": [], "date": "2026-01-21"} // Kreis, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-01-21"}, // Dieb Wuppertal, Dieb
+{"coords": [8.4661, 49.4878], "date": "2026-01-21"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [7.2167, 52.2], "date": "2026-01-21"}, // Grundschule Ochtrup, Einbruch
+{"coords": [8.375, 49.3833], "date": "2026-01-21"}, // Schifferstadt, Einbruch
+//{"coords": [], "date": "2026-01-21"} // Mutterstadt, Einbruch
+{"coords": [6.7, 51.8333], "date": "2026-01-21"}, // Zeugen Rhede, klau
+{"coords": [12.0333, 49.8667], "date": "2026-01-21"}, // Haus Borken, Einbruch
+{"coords": [9.2844, 51.045], "date": "2026-01-21"}, // Borken, Einbruch
+//{"coords": [], "date": "2026-01-21"} // Bauwagen, Einbruch

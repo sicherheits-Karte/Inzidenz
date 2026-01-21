@@ -8262,3 +8262,14 @@
 {"coords": [6.3917, 51.2556], "date": "2026-01-21"}, // Polizei Viersen, Diebstähle
 {"coords": [9.2167, 48.0833], "date": "2026-01-21"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-01-21"}, // Zeugenaufruf Mannheim, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-01-21"}, // Giessen, Einbrüche
+{"coords": [6.9194, 51.9944], "date": "2026-01-21"}, // Stadtlohn, entwendet
+{"coords": [7.0982, 50.7374], "date": "2026-01-21"}, // Bonn, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-01-21"}, // Mitte, Dieb
+{"coords": [6.7623, 51.4344], "date": "2026-01-21"}, // Festnahme Duisburg, Diebstahl
+{"coords": [8.225, 51.9625], "date": "2026-01-21"}, // Harsewinkel Gütersloh, Einbruch
+{"coords": [7.6667, 51.5833], "date": "2026-01-21"}, // Gesamtschule Kamen, Blasinstrumente entwendet Folgemeldung vom, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-21"}, // Bielefeld, Diebstahl
+{"coords": [6.4208, 51.3653], "date": "2026-01-21"}, // Kempen, Dieb
+{"coords": [6.7623, 51.4344], "date": "2026-01-21"}, // Anzeige Duisburg, aufbruch
+{"coords": [6.5492, 51.2631], "date": "2026-01-21"}, // Willich, Einbruch

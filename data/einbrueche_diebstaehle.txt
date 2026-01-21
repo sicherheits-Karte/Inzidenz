@@ -8165,3 +8165,5 @@
 {"coords": [10.6403, 52.1292], "date": "2026-01-20"}, // Wittmar, entwendet
 {"coords": [6.4333, 51.2], "date": "2026-01-20"}, // Mann Mönchengladbach, Raub
 {"coords": [7.9833, 51.95], "date": "2026-01-21"}, // Warendorf, entwendet
+{"coords": [7.0116, 51.4556], "date": "2026-01-21"}, // Untersuchungshaft Essen, entwendet
+{"coords": [6.5167, 51.4833], "date": "2026-01-21"}, // Lintfort, Einbruch

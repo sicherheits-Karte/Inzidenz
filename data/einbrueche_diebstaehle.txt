@@ -8179,3 +8179,10 @@
 {"coords": [9.9916, 48.3984], "date": "2026-01-21"}, // Ulm, Einbrecher
 {"coords": [10.0831, 52.6247], "date": "2026-01-21"}, // Gewässer Celle, eingebrochen
 {"coords": [6.6178, 51.6589], "date": "2026-01-21"}, // Gewahrsam Wesel, Einbruch
+{"coords": [8.5833, 49.8667], "date": "2026-01-21"}, // Griesheim, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-01-21"}, // Zeugenaufruf Hildesheim, aufbruch
+{"coords": [8.65, 49.3], "date": "2026-01-21"}, // Walldorf, Diebstahl
+{"coords": [10.4508, 50.7211], "date": "2026-01-21"}, // Schmalkalden, entwendet
+{"coords": [7.7, 51.375], "date": "2026-01-21"}, // Pkw Iserlohn, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-01-21"}, // Gaststätte Gummersbach, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-01-21"}, // Einbrüche Lüdenscheid, Einbrüche

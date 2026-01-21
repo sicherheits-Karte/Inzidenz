@@ -8234,3 +8234,6 @@
 //{"coords": [], "date": "2026-01-21"} // Kreis, geklaut
 {"coords": [7.7156, 52.2778], "date": "2026-01-21"}, // Wohnhaus Ibbenbüren, Einbruch
 {"coords": [8.7667, 50.1], "date": "2026-01-21"}, // Kreis Offenbach, Einbruch
+{"coords": [13.0819, 54.3092], "date": "2026-01-21"}, // Stralsund, Diebstahl
+//{"coords": [], "date": "2026-01-21"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-01-21"}, // Vechta, Diebstahl

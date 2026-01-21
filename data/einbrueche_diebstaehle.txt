@@ -8186,3 +8186,9 @@
 {"coords": [7.7, 51.375], "date": "2026-01-21"}, // Pkw Iserlohn, Einbruch
 {"coords": [7.5667, 51.0833], "date": "2026-01-21"}, // Gaststätte Gummersbach, Einbruch
 {"coords": [7.6333, 51.2167], "date": "2026-01-21"}, // Einbrüche Lüdenscheid, Einbrüche
+//{"coords": [], "date": "2026-01-21"} // Kein Ort gefunden, Raub
+{"coords": [10.5267, 52.2689], "date": "2026-01-21"}, // Ladenschluss Braunschweig, Raub
+{"coords": [7.5833, 52.2972], "date": "2026-01-21"}, // Bäckerei Hörstel, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-01-21"}, // Auto Northeim, Diebstahl
+{"coords": [10.6866, 53.8655], "date": "2026-01-21"}, // Hafen Lübeck, Raub
+{"coords": [10.0, 51.7064], "date": "2026-01-21"}, // Versuchter Einbruch Northeim, Einbruch

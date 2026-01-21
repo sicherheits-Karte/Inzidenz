@@ -8201,3 +8201,9 @@
 {"coords": [8.6833, 52.15], "date": "2026-01-21"}, // Herford, Diebstahl
 {"coords": [8.8667, 51.9333], "date": "2026-01-21"}, // Lippe, Diebstahl
 {"coords": [6.3319, 51.5194], "date": "2026-01-21"}, // Geldern, Einbruch
+{"coords": [7.9667, 53.4167], "date": "2026-01-21"}, // Zetel Zetel, Einbruch
+//{"coords": [], "date": "2026-01-21"} // Geschäft Landstuhl, Einbruch
+{"coords": [11.1917, 53.4289], "date": "2026-01-21"}, // Hinweise Hagenow, Diebstahl
+{"coords": [7.9036, 51.1264], "date": "2026-01-21"}, // Attendorn, eingebrochen
+{"coords": [9.5, 51.3167], "date": "2026-01-21"}, // Täter Kassel, gestohlen
+//{"coords": [], "date": "2026-01-21"} // dem Kreisgebiet, Einbrüche

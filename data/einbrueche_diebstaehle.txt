@@ -8243,3 +8243,5 @@
 {"coords": [6.7872, 50.6606], "date": "2026-01-21"}, // Kasse Euskirchen, Diebstahl
 {"coords": [6.6528, 50.5931], "date": "2026-01-21"}, // Mechernich, entwendet
 {"coords": [7.2162, 51.4818], "date": "2026-01-21"}, // Bochum, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-01-21"}, // Erfurt, eingebrochen
+//{"coords": [], "date": "2026-01-21"} // Kreis, Diebstahl

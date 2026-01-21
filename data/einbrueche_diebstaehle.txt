@@ -8282,3 +8282,10 @@
 {"coords": [8.6833, 50.5833], "date": "2026-01-21"}, // Giessen, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-01-21"}, // Festnahme Giessen, Dieb
 {"coords": [6.8, 51.0], "date": "2026-01-21"}, // Zeugensuche Pulheim, gestohlen
+{"coords": [10.4, 53.25], "date": "2026-01-21"}, // Biogasanlagen Lüneburg, Einbruch
+//{"coords": [], "date": "2026-01-21"} // Höhe, gestohlen
+{"coords": [8.4414, 50.0919], "date": "2026-01-21"}, // Hofheim, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-01-21"}, // Hamburg, Raub
+{"coords": [11.5862, 50.9271], "date": "2026-01-21"}, // Hungriger Einbrecher Jena, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-01-21"}, // Wiesbaden, Dieb
+{"coords": [9.5, 51.3167], "date": "2026-01-21"}, // Kassel, aufbrüche

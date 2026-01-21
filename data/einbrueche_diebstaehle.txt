@@ -8207,3 +8207,11 @@
 {"coords": [7.9036, 51.1264], "date": "2026-01-21"}, // Attendorn, eingebrochen
 {"coords": [9.5, 51.3167], "date": "2026-01-21"}, // Täter Kassel, gestohlen
 //{"coords": [], "date": "2026-01-21"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.6167, 49.6833], "date": "2026-01-21"}, // Bensheim, aufbruch
+{"coords": [8.6372, 49.6419], "date": "2026-01-21"}, // Zeugen Heppenheim, Einbrecher
+{"coords": [9.1919, 48.8975], "date": "2026-01-21"}, // Ludwigsburg, Einbruch
+{"coords": [8.4725, 49.5981], "date": "2026-01-21"}, // Lampertheim, eingebrochen
+{"coords": [8.875, 53.05], "date": "2026-01-21"}, // Osterholz, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-01-21"}, // Fulda, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-21"}, // Freiburg, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-01-21"}, // Raubdelikt Reutlingen, Einbrüche

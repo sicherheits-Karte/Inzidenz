@@ -8290,3 +8290,6 @@
 {"coords": [8.24, 50.0822], "date": "2026-01-21"}, // Wiesbaden, Dieb
 {"coords": [9.5, 51.3167], "date": "2026-01-21"}, // Kassel, aufbrüche
 {"coords": [7.82, 47.99], "date": "2026-01-21"}, // Untersuchungshaft Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-01-21"}, // Freiburg, Räuber
+{"coords": [10.7753, 49.7544], "date": "2026-01-21"}, // Zeugen Mühlhausen, Räuber
+//{"coords": [], "date": "2026-01-21"} // Rhein, Einbruch

@@ -8175,3 +8175,6 @@
 {"coords": [8.8494, 51.4611], "date": "2026-01-21"}, // Westheim Marsberg, Einbruch
 //{"coords": [], "date": "2026-01-21"} // Einfamilienhaus Ense, Einbrecher
 {"coords": [7.9139, 51.5528], "date": "2026-01-21"}, // Einfamilienhaus Werl, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-01-21"}, // Juwelier Mainz, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-21"}, // Ulm, Einbrecher
+{"coords": [10.0831, 52.6247], "date": "2026-01-21"}, // Gewässer Celle, eingebrochen

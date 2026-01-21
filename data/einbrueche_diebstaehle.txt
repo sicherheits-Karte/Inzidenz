@@ -8167,3 +8167,11 @@
 {"coords": [7.9833, 51.95], "date": "2026-01-21"}, // Warendorf, entwendet
 {"coords": [7.0116, 51.4556], "date": "2026-01-21"}, // Untersuchungshaft Essen, entwendet
 {"coords": [6.5167, 51.4833], "date": "2026-01-21"}, // Lintfort, Einbruch
+//{"coords": [], "date": "2026-01-21"} // Weimarer Land, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-01-21"}, // Süßer Raub Jena, Dieb
+{"coords": [11.5862, 50.9271], "date": "2026-01-21"}, // Schuleinbruch Jena, Einbruch
+//{"coords": [], "date": "2026-01-21"} // Bergisch Gladbach, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-01-21"}, // Zeugen Moers, gestohlen
+{"coords": [8.8494, 51.4611], "date": "2026-01-21"}, // Westheim Marsberg, Einbruch
+//{"coords": [], "date": "2026-01-21"} // Einfamilienhaus Ense, Einbrecher
+{"coords": [7.9139, 51.5528], "date": "2026-01-21"}, // Einfamilienhaus Werl, Einbruch

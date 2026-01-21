@@ -8178,3 +8178,4 @@
 {"coords": [8.2711, 50.0], "date": "2026-01-21"}, // Juwelier Mainz, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-01-21"}, // Ulm, Einbrecher
 {"coords": [10.0831, 52.6247], "date": "2026-01-21"}, // Gewässer Celle, eingebrochen
+{"coords": [6.6178, 51.6589], "date": "2026-01-21"}, // Gewahrsam Wesel, Einbruch

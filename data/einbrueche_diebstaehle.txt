@@ -8237,3 +8237,9 @@
 {"coords": [13.0819, 54.3092], "date": "2026-01-21"}, // Stralsund, Diebstahl
 //{"coords": [], "date": "2026-01-21"} // Kein Ort gefunden, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2026-01-21"}, // Vechta, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-01-21"}, // Bielefeld, Raub
+{"coords": [7.9167, 51.5833], "date": "2026-01-21"}, // Hövel, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-01-21"}, // Emden, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-01-21"}, // Kasse Euskirchen, Diebstahl
+{"coords": [6.6528, 50.5931], "date": "2026-01-21"}, // Mechernich, entwendet
+{"coords": [7.2162, 51.4818], "date": "2026-01-21"}, // Bochum, Raub

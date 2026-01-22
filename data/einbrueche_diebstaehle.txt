@@ -8361,3 +8361,8 @@
 {"coords": [8.4111, 49.9917], "date": "2026-01-22"}, // Rüsselsheim, Diebstahl
 {"coords": [8.6167, 49.6833], "date": "2026-01-22"}, // Bewohnerin Bensheim, Einbrüche
 {"coords": [8.3708, 52.6078], "date": "2026-01-22"}, // Diepholz, Einbruch
+//{"coords": [], "date": "2026-01-22"} // Sankt Augustin, gestohlen
+{"coords": [10.7956, 51.5019], "date": "2026-01-22"}, // Nordhausen, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-01-22"}, // Ladendiebstahl Mühlhausen, Diebstahl
+{"coords": [7.3392, 51.3197], "date": "2026-01-22"}, // Gevelsberg, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-01-22"}, // Wirkung Dortmund, Einbruch

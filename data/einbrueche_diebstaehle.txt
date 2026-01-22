@@ -8416,3 +8416,4 @@
 {"coords": [10.7753, 49.7544], "date": "2026-01-22"}, // Mühlhausen, Einbruch
 //{"coords": [], "date": "2026-01-22"} // Zeugen Schönau, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-01-22"}, // Bad Schwalbach, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-01-22"}, // Bahnhofshalle Bad Salzdetfurth Hildesheim, entwendet

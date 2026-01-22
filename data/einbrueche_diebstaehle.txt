@@ -8324,3 +8324,9 @@
 //{"coords": [], "date": "2026-01-22"} // Bäckerei Recke, Einbruch
 //{"coords": [], "date": "2026-01-22"} // Rhein, Dieb
 {"coords": [7.5336, 52.1728], "date": "2026-01-22"}, // Einfamilienhaus Emsdetten, Einbruch
+{"coords": [7.6736, 51.2972], "date": "2026-01-22"}, // Altena, Einbrecher
+{"coords": [7.6333, 51.6667], "date": "2026-01-22"}, // Fleischerei Werne, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-22"}, // Mitte, Raub
+{"coords": [7.0982, 50.7374], "date": "2026-01-22"}, // Bonn, Einbruch
+{"coords": [8.8592, 52.1653], "date": "2026-01-22"}, // Rettungsgeräte Vlotho, Diebstahl
+//{"coords": [], "date": "2026-01-22"} // dem Kreisgebiet, Einbrüche

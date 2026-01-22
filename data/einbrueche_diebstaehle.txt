@@ -8389,3 +8389,11 @@
 {"coords": [8.4661, 49.4878], "date": "2026-01-22"}, // Zeugenaufruf Mannheim, entwendet
 {"coords": [8.6833, 50.5833], "date": "2026-01-22"}, // Wetzlarer Altstadt Giessen, Einbrüche
 {"coords": [8.8678, 49.9228], "date": "2026-01-22"}, // Münster, aufbrüche
+{"coords": [8.8333, 48.0667], "date": "2026-01-22"}, // Trossingen, aufbruch
+{"coords": [13.2611, 53.5569], "date": "2026-01-22"}, // Neubrandenburg, Räuber
+{"coords": [8.6944, 49.4092], "date": "2026-01-22"}, // Zeugenaufruf Heidelberg, entwendet
+//{"coords": [], "date": "2026-01-22"} // Einfamilienhäuser Tönisvorst, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-22"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-22"}, // Giessen, Dieb
+//{"coords": [], "date": "2026-01-22"} // Kreis, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-01-22"}, // Kaiserslautern, stahl

@@ -8371,3 +8371,4 @@
 {"coords": [6.3214, 50.8447], "date": "2026-01-22"}, // Gewerbegebiet Langerwehe, Einbruch
 {"coords": [10.5464, 52.4886], "date": "2026-01-22"}, // Gifhorn, Diebstahl
 {"coords": [9.5, 51.3167], "date": "2026-01-22"}, // Kassel, geklaut
+{"coords": [10.725, 50.7056], "date": "2026-01-22"}, // Oberhof, Diebstahl

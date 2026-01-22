@@ -8418,3 +8418,4 @@
 {"coords": [6.85, 49.3], "date": "2026-01-22"}, // Bad Schwalbach, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-01-22"}, // Bahnhofshalle Bad Salzdetfurth Hildesheim, entwendet
 {"coords": [10.4278, 51.9042], "date": "2026-01-22"}, // Goslar, Einbruch
+//{"coords": [], "date": "2026-01-22"} // Bornhofen, Diebstahl

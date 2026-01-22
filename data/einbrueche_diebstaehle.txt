@@ -8366,3 +8366,6 @@
 {"coords": [10.7753, 49.7544], "date": "2026-01-22"}, // Ladendiebstahl Mühlhausen, Diebstahl
 {"coords": [7.3392, 51.3197], "date": "2026-01-22"}, // Gevelsberg, Einbruch
 {"coords": [7.4653, 51.5136], "date": "2026-01-22"}, // Wirkung Dortmund, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-01-22"}, // Wuppertal, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-22"}, // Recklinghausen, Diebstahl
+{"coords": [6.3214, 50.8447], "date": "2026-01-22"}, // Gewerbegebiet Langerwehe, Einbruch

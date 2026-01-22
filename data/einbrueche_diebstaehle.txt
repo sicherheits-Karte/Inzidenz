@@ -8311,3 +8311,12 @@
 {"coords": [10.1228, 54.3233], "date": "2026-01-22"}, // Kiel, Einbrüche
 {"coords": [7.1833, 50.9], "date": "2026-01-22"}, // Rösrath, entwendet
 //{"coords": [], "date": "2026-01-22"} // Leichlingen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-22"}, // Ulm, Einbruch
+{"coords": [6.4333, 51.8333], "date": "2026-01-22"}, // Emmerich, Einbruch
+{"coords": [10.0831, 52.6247], "date": "2026-01-22"}, // Wohnhaus Celle, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-01-22"}, // Warendorf, gestohlen
+{"coords": [7.4667, 52.3667], "date": "2026-01-22"}, // Spelle, Einbruch
+{"coords": [7.8333, 51.7], "date": "2026-01-22"}, // Heessen, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-01-22"}, // Ulm, Dieb
+//{"coords": [], "date": "2026-01-22"} // Weimarer Land, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-01-22"}, // Diebischer Pöbler Jena, Dieb

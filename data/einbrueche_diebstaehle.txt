@@ -8372,3 +8372,12 @@
 {"coords": [10.5464, 52.4886], "date": "2026-01-22"}, // Gifhorn, Diebstahl
 {"coords": [9.5, 51.3167], "date": "2026-01-22"}, // Kassel, geklaut
 {"coords": [10.725, 50.7056], "date": "2026-01-22"}, // Oberhof, Diebstahl
+{"coords": [7.9447, 48.4731], "date": "2026-01-22"}, // Offenburg, Einbruch
+//{"coords": [], "date": "2026-01-22"} // Kreis, Einbrecher
+{"coords": [6.9194, 51.9944], "date": "2026-01-22"}, // Stadtlohn, Dieb
+{"coords": [6.8761, 50.8778], "date": "2026-01-22"}, // Hürth, Einbruch
+//{"coords": [], "date": "2026-01-22"} // Untersuchungshaft Ispringen, Raub
+{"coords": [10.0831, 52.6247], "date": "2026-01-22"}, // Celle, Diebstahl
+{"coords": [9.9092, 53.7306], "date": "2026-01-22"}, // Wohnungseinbruchdiebstahl Quickborn, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-22"}, // Bargeld Gelsenkirchen, entwendet
+{"coords": [10.4, 53.25], "date": "2026-01-22"}, // Lüneburg, gestohlen

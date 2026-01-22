@@ -8351,3 +8351,13 @@
 //{"coords": [], "date": "2026-01-22"} // Handwerker-Fahrzeug gesucht mehr, Diebstahl
 //{"coords": [], "date": "2026-01-22"} // sicheres Zuhause, Einbruch
 //{"coords": [], "date": "2026-01-22"} // Altstadt, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-01-22"}, // Landkreis Heilbronn, Einbrüche
+{"coords": [8.5833, 53.55], "date": "2026-01-22"}, // Mitte, eingebrochen
+//{"coords": [], "date": "2026-01-22"} // Folge Neu Wulmstorf, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-01-22"}, // Fotofahndung Essen, gestohlen
+{"coords": [8.5331, 52.021], "date": "2026-01-22"}, // Bielefeld, Dieb
+{"coords": [9.36, 52.1039], "date": "2026-01-22"}, // Einbruch Hameln, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-01-22"}, // Munitionsfund Heidekreis, Diebstahl
+{"coords": [8.4111, 49.9917], "date": "2026-01-22"}, // Rüsselsheim, Diebstahl
+{"coords": [8.6167, 49.6833], "date": "2026-01-22"}, // Bewohnerin Bensheim, Einbrüche
+{"coords": [8.3708, 52.6078], "date": "2026-01-22"}, // Diepholz, Einbruch

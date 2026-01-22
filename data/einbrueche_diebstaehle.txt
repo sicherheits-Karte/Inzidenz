@@ -8320,3 +8320,7 @@
 {"coords": [9.9916, 48.3984], "date": "2026-01-22"}, // Ulm, Dieb
 //{"coords": [], "date": "2026-01-22"} // Weimarer Land, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2026-01-22"}, // Diebischer Pöbler Jena, Dieb
+{"coords": [7.4333, 52.2833], "date": "2026-01-22"}, // Rheine, Diebstähle
+//{"coords": [], "date": "2026-01-22"} // Bäckerei Recke, Einbruch
+//{"coords": [], "date": "2026-01-22"} // Rhein, Dieb
+{"coords": [7.5336, 52.1728], "date": "2026-01-22"}, // Einfamilienhaus Emsdetten, Einbruch

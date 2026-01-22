@@ -8397,3 +8397,10 @@
 {"coords": [8.6833, 50.5833], "date": "2026-01-22"}, // Giessen, Dieb
 //{"coords": [], "date": "2026-01-22"} // Kreis, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2026-01-22"}, // Kaiserslautern, stahl
+{"coords": [8.8678, 49.9228], "date": "2026-01-22"}, // Tatverdächtige Münster, Raub
+{"coords": [8.4414, 50.0919], "date": "2026-01-22"}, // Hofheim, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-22"}, // Riedweg Recklinghausen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-22"}, // Recklinghausen, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-01-22"}, // Ludwigshafen, gestohlen
+{"coords": [10.8978, 48.3705], "date": "2026-01-22"}, // Taschendiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-01-22"}, // Augsburg, Dieb

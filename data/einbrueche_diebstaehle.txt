@@ -8306,3 +8306,6 @@
 {"coords": [7.1675, 51.9436], "date": "2026-01-22"}, // Coesfeld, Dieb
 {"coords": [9.36, 52.1039], "date": "2026-01-22"}, // Hameln, Diebstahl
 {"coords": [8.1092, 51.5711], "date": "2026-01-22"}, // Soest, Raub
+{"coords": [8.2146, 53.1434], "date": "2026-01-22"}, // Oldenburg, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-22"}, // Darmstadt, Einbruch
+{"coords": [10.1228, 54.3233], "date": "2026-01-22"}, // Kiel, Einbrüche

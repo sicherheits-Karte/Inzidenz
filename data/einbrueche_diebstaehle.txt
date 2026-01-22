@@ -8340,3 +8340,14 @@
 {"coords": [12.4333, 50.985], "date": "2026-01-22"}, // Altenburg, Diebstahl
 {"coords": [7.75, 51.3833], "date": "2026-01-22"}, // Hemer, Dieb
 //{"coords": [], "date": "2026-01-22"} // Bad Oeynhausen, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-01-22"}, // Lippe, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-01-22"}, // Zeugenaufruf Frankfurt, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-01-22"}, // Auseinandersetzung Reutlingen, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2026-01-22"}, // Lippe, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-22"}, // Ludwigsburg, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-01-22"}, // Dortmund, Raub
+{"coords": [9.6775, 50.5528], "date": "2026-01-22"}, // Grabschmuck Fulda, Diebstahl
+{"coords": [9.3833, 50.6333], "date": "2026-01-22"}, // Wechselfallenschwindel Vogelsbergkreis, aufbruch
+//{"coords": [], "date": "2026-01-22"} // Handwerker-Fahrzeug gesucht mehr, Diebstahl
+//{"coords": [], "date": "2026-01-22"} // sicheres Zuhause, Einbruch
+//{"coords": [], "date": "2026-01-22"} // Altstadt, Diebstahl

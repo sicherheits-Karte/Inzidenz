@@ -8409,3 +8409,10 @@
 {"coords": [7.0116, 51.4556], "date": "2026-01-22"}, // Essen, Einbrecher
 {"coords": [11.4012, 53.6355], "date": "2026-01-22"}, // Schwerin Schwerin, Diebstahl
 {"coords": [8.3833, 51.9], "date": "2026-01-22"}, // Menschen Gütersloh, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-01-22"}, // Stadtteil Süd Ludwigshafen, Einbrüche
+{"coords": [8.4353, 49.4811], "date": "2026-01-22"}, // Ludwigshafen, Einbruch
+{"coords": [8.4333, 49.4333], "date": "2026-01-22"}, // Gartenstadt Ludwigshafen, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-01-22"}, // Wiesbaden, eingebrochen
+{"coords": [10.7753, 49.7544], "date": "2026-01-22"}, // Mühlhausen, Einbruch
+//{"coords": [], "date": "2026-01-22"} // Zeugen Schönau, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-01-22"}, // Bad Schwalbach, Einbruch

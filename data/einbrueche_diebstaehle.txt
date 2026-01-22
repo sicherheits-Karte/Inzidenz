@@ -8330,3 +8330,13 @@
 {"coords": [7.0982, 50.7374], "date": "2026-01-22"}, // Bonn, Einbruch
 {"coords": [8.8592, 52.1653], "date": "2026-01-22"}, // Rettungsgeräte Vlotho, Diebstahl
 //{"coords": [], "date": "2026-01-22"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.4653, 51.5136], "date": "2026-01-22"}, // Zeugenhinweise Dortmund, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-22"}, // Mitte, Dieb
+{"coords": [12.0799, 50.8772], "date": "2026-01-22"}, // Gera, Diebstahl
+{"coords": [8.9167, 52.3], "date": "2026-01-22"}, // Schmuck Minden, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-01-22"}, // Greiz, Diebstahl
+{"coords": [7.6889, 51.5347], "date": "2026-01-22"}, // Königsborn Unna, Einbruch
+{"coords": [10.9887, 49.4771], "date": "2026-01-22"}, // Fürth, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-01-22"}, // Altenburg, Diebstahl
+{"coords": [7.75, 51.3833], "date": "2026-01-22"}, // Hemer, Dieb
+//{"coords": [], "date": "2026-01-22"} // Bad Oeynhausen, Einbruch

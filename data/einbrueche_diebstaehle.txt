@@ -8381,3 +8381,11 @@
 {"coords": [9.9092, 53.7306], "date": "2026-01-22"}, // Wohnungseinbruchdiebstahl Quickborn, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-01-22"}, // Bargeld Gelsenkirchen, entwendet
 {"coords": [10.4, 53.25], "date": "2026-01-22"}, // Lüneburg, gestohlen
+{"coords": [6.9889, 51.8944], "date": "2026-01-22"}, // Zeugen Velen, Einbruch
+//{"coords": [], "date": "2026-01-22"} // Zeugen Bad Driburg, Einbrüche
+//{"coords": [], "date": "2026-01-22"} // Höhe, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-22"}, // Gelsenkirchen, Diebstahl
+{"coords": [7.5833, 52.2972], "date": "2026-01-22"}, // Friseursalon Hörstel, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-22"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [8.6833, 50.5833], "date": "2026-01-22"}, // Wetzlarer Altstadt Giessen, Einbrüche
+{"coords": [8.8678, 49.9228], "date": "2026-01-22"}, // Münster, aufbrüche

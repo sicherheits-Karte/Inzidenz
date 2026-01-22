@@ -8297,3 +8297,6 @@
 {"coords": [6.8889, 49.9858], "date": "2026-01-22"}, // Scooters Wittlich, Diebstahl
 {"coords": [12.1764, 53.7944], "date": "2026-01-22"}, // Güstrow Güstrow, entwendet
 {"coords": [7.9833, 51.95], "date": "2026-01-22"}, // Fabrikationshalle Warendorf, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-22"}, // Diebstahl Aalen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-01-22"}, // Fahrweise Aalen, Einbruch
+{"coords": [6.6, 51.55], "date": "2026-01-22"}, // Rheinberg, entwendet

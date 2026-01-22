@@ -8300,3 +8300,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-22"}, // Diebstahl Aalen, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-01-22"}, // Fahrweise Aalen, Einbruch
 {"coords": [6.6, 51.55], "date": "2026-01-22"}, // Rheinberg, entwendet
+//{"coords": [], "date": "2026-01-22"} // Delecke, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-01-22"}, // Darmstadt, Einbrecher
+{"coords": [7.1675, 51.9436], "date": "2026-01-22"}, // Einbruch Coesfeld, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-22"}, // Coesfeld, Dieb
+{"coords": [9.36, 52.1039], "date": "2026-01-22"}, // Hameln, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2026-01-22"}, // Soest, Raub

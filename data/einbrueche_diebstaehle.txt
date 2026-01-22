@@ -8295,3 +8295,5 @@
 //{"coords": [], "date": "2026-01-21"} // Rhein, Einbruch
 {"coords": [7.3333, 50.6833], "date": "2026-01-22"}, // Asbach, entwendung
 {"coords": [6.8889, 49.9858], "date": "2026-01-22"}, // Scooters Wittlich, Diebstahl
+{"coords": [12.1764, 53.7944], "date": "2026-01-22"}, // Güstrow Güstrow, entwendet
+{"coords": [7.9833, 51.95], "date": "2026-01-22"}, // Fabrikationshalle Warendorf, Einbruch

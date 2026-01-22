@@ -8293,3 +8293,4 @@
 {"coords": [7.82, 47.99], "date": "2026-01-21"}, // Freiburg, Räuber
 {"coords": [10.7753, 49.7544], "date": "2026-01-21"}, // Zeugen Mühlhausen, Räuber
 //{"coords": [], "date": "2026-01-21"} // Rhein, Einbruch
+{"coords": [7.3333, 50.6833], "date": "2026-01-22"}, // Asbach, entwendung

@@ -8529,3 +8529,13 @@
 {"coords": [9.2108, 49.1425], "date": "2026-01-23"}, // Heilbronn, gestohlen
 {"coords": [7.82, 47.99], "date": "2026-01-23"}, // Autowerkstatt Freiburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-01-23"}, // Freiburg, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-01-23"}, // Fensterscheibe Hofheim, Einbrecher
+{"coords": [8.24, 50.0822], "date": "2026-01-23"}, // Wiesbaden, Raub
+{"coords": [11.5164, 51.0264], "date": "2026-01-23"}, // Apolda, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-01-23"}, // Apolda, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-01-23"}, // Giessen, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-01-23"}, // Giessen, Einbrecher
+{"coords": [6.5875, 51.0883], "date": "2026-01-23"}, // Grevenbroich, gestohlen
+{"coords": [6.8, 51.0], "date": "2026-01-23"}, // Transportern Pulheim, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2026-01-23"}, // Hannover, stehlen
+{"coords": [9.9158, 51.5413], "date": "2026-01-23"}, // Göttingen, Einbruch

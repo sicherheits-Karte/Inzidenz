@@ -8466,3 +8466,8 @@
 {"coords": [9.9916, 48.3984], "date": "2026-01-23"}, // Ulm, Diebstahl
 //{"coords": [], "date": "2026-01-23"} // Emst, Diebstahl
 {"coords": [8.8075, 53.075], "date": "2026-01-23"}, // Bremen, Raub
+{"coords": [10.775, 52.1439], "date": "2026-01-23"}, // Schöppenstedt, Diebstahl
+{"coords": [8.1272, 49.2839], "date": "2026-01-23"}, // Tankstelle Edenkoben, Raub
+{"coords": [9.6536, 53.7547], "date": "2026-01-23"}, // Einfamilienhaus Elmshorn, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-01-23"}, // Lingen, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2026-01-23"}, // Bäckerei Papenburg, Raub

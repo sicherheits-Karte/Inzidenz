@@ -8421,3 +8421,12 @@
 //{"coords": [], "date": "2026-01-22"} // Bornhofen, Diebstahl
 //{"coords": [], "date": "2026-01-23"} // Kein Ort gefunden, Diebstahl
 {"coords": [7.4653, 51.5136], "date": "2026-01-23"}, // Dortmund, gestohlen
+{"coords": [11.5862, 50.9271], "date": "2026-01-23"}, // Jena, Diebstahl
+{"coords": [7.85, 51.6333], "date": "2026-01-23"}, // Rhynern, Einbruch
+{"coords": [8.5861, 52.1983], "date": "2026-01-23"}, // Bünde, Diebstahl
+{"coords": [7.8333, 51.7], "date": "2026-01-23"}, // Heessen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-23"}, // Unfallflucht Aalen, Einbruch
+{"coords": [9.0817, 52.1906], "date": "2026-01-23"}, // Rinteln, Diebstahl
+//{"coords": [], "date": "2026-01-23"} // Bad Bergzabern, gestohlen
+{"coords": [12.4333, 50.985], "date": "2026-01-23"}, // Altenburg, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-01-23"}, // Kraftstoff Aalen, Diebstahl

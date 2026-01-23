@@ -8420,3 +8420,4 @@
 {"coords": [10.4278, 51.9042], "date": "2026-01-22"}, // Goslar, Einbruch
 //{"coords": [], "date": "2026-01-22"} // Bornhofen, Diebstahl
 //{"coords": [], "date": "2026-01-23"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-01-23"}, // Dortmund, gestohlen

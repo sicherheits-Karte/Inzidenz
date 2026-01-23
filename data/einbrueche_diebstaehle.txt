@@ -8499,3 +8499,12 @@
 //{"coords": [], "date": "2026-01-23"} // Wohnhaus Sögel, Einbruch
 //{"coords": [], "date": "2026-01-23"} // Wohnhaus Wippingen, Einbruch
 {"coords": [7.2417, 52.7922], "date": "2026-01-23"}, // Haren, Raub
+{"coords": [10.7956, 51.5019], "date": "2026-01-23"}, // Zeugen Nordhausen, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-01-23"}, // Mühlhausen, Diebstahl
+//{"coords": [], "date": "2026-01-23"} // Buddys Wallscheid, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-01-23"}, // Heppens Wilhelmshaven, Einbruch
+//{"coords": [], "date": "2026-01-23"} // Einbruch Bad Frankenhausen, Einbruch
+{"coords": [7.2056, 50.8014], "date": "2026-01-23"}, // Siegburg, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-01-23"}, // Sicherheitsdienst Ludwigsburg, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-01-23"}, // Zeugenaufruf Cuxhaven, aufbruch
+//{"coords": [], "date": "2026-01-23"} // Kreis, Einbrecher

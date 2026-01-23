@@ -8430,3 +8430,8 @@
 //{"coords": [], "date": "2026-01-23"} // Bad Bergzabern, gestohlen
 {"coords": [12.4333, 50.985], "date": "2026-01-23"}, // Altenburg, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-01-23"}, // Kraftstoff Aalen, Diebstahl
+//{"coords": [], "date": "2026-01-23"} // Pixel stellt Einbrecher und zieht ihn am Arm aus einem Schrank mehr, Einbrecher
+{"coords": [8.05, 51.6], "date": "2026-01-23"}, // Obsthof Welver, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-01-23"}, // Zeugen Dinslaken, aufbruch
+{"coords": [7.3333, 51.4333], "date": "2026-01-23"}, // Räubern Witten, Raub
+//{"coords": [], "date": "2026-01-23"} // Weimarer Land, Einbruch

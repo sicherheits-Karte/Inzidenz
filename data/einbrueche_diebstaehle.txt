@@ -8449,3 +8449,6 @@
 {"coords": [8.6944, 49.4092], "date": "2026-01-23"}, // Zeugenaufruf Heidelberg, gestohlen
 {"coords": [7.0982, 50.7374], "date": "2026-01-23"}, // Hinweise Bonn, Diebstahl
 //{"coords": [], "date": "2026-01-23"} // Einfamilienhaus BAD DÜRKHEIM, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-01-23"}, // Essen, Räuber
+{"coords": [9.1919, 48.8975], "date": "2026-01-23"}, // Ludwigsburg, Dieb
+{"coords": [9.8372, 54.4714], "date": "2026-01-23"}, // Eckernförde, Raub

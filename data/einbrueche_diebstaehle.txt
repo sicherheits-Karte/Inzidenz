@@ -8484,3 +8484,13 @@
 {"coords": [7.7, 51.375], "date": "2026-01-23"}, // Metzger Iserlohn, Einbruch
 //{"coords": [], "date": "2026-01-23"} // Kein Ort gefunden, Räuber
 {"coords": [10.5267, 52.2689], "date": "2026-01-23"}, // Unterschlagung Braunschweig, Dieb
+{"coords": [8.3833, 51.9], "date": "2026-01-23"}, // Grenzweg Gütersloh, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-01-23"}, // Zeugen Wuppertal, Raub
+{"coords": [8.6514, 49.8728], "date": "2026-01-23"}, // Jährigen Darmstadt, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-01-23"}, // Recklinghausen, Dieb
+{"coords": [8.4043, 49.014], "date": "2026-01-23"}, // Haft Karlsruhe, Diebstahl
+//{"coords": [], "date": "2026-01-23"} // Fitnessstudio Dudenhofen, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-01-23"}, // Täterfestnahme Speyer, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-01-23"}, // Fußgängerzone Speyer, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-01-23"}, // Einbruch Reutlingen, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-01-23"}, // Hinweise Herne, Diebstahl

@@ -8546,3 +8546,4 @@
 {"coords": [7.2, 51.6167], "date": "2026-01-23"}, // Recklinghausen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-01-23"}, // Zeugen Freiburg, eingebrochen
 {"coords": [7.4653, 51.5136], "date": "2026-01-23"}, // Einbrecherinnen Dortmund, Einbrecher
+//{"coords": [], "date": "2026-01-23"} // Rhein, Diebstahl

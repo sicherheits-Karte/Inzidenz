@@ -8539,3 +8539,7 @@
 {"coords": [6.8, 51.0], "date": "2026-01-23"}, // Transportern Pulheim, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2026-01-23"}, // Hannover, stehlen
 {"coords": [9.9158, 51.5413], "date": "2026-01-23"}, // Göttingen, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-23"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2026-01-23"}, // Festnahmen Offenburg, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-01-23"}, // Haft Ulm, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-01-23"}, // Mehrparteienhaus Bonn, Einbruch

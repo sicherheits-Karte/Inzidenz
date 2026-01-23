@@ -8440,3 +8440,8 @@
 {"coords": [7.2064, 53.5958], "date": "2026-01-23"}, // Geseker Norden Geseke, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-01-23"}, // Einfamilienhaus Coesfeld, Einbruch
 //{"coords": [], "date": "2026-01-23"} // Bergisch Gladbach, aufbruch
+{"coords": [7.9167, 52.2833], "date": "2026-01-23"}, // Beute Lotte, Einbruch
+//{"coords": [], "date": "2026-01-23"} // Bergisch Gladbach, Diebstahl
+{"coords": [7.7156, 52.2778], "date": "2026-01-23"}, // Schmuck Ibbenbüren, Einbruch
+{"coords": [7.1833, 50.9], "date": "2026-01-23"}, // Rösrath, Diebstahl
+//{"coords": [], "date": "2026-01-23"} // Bergisch Gladbach, Einbruch

@@ -8419,3 +8419,4 @@
 {"coords": [9.95, 52.15], "date": "2026-01-22"}, // Bahnhofshalle Bad Salzdetfurth Hildesheim, entwendet
 {"coords": [10.4278, 51.9042], "date": "2026-01-22"}, // Goslar, Einbruch
 //{"coords": [], "date": "2026-01-22"} // Bornhofen, Diebstahl
+//{"coords": [], "date": "2026-01-23"} // Kein Ort gefunden, Diebstahl

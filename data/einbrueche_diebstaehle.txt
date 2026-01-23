@@ -8452,3 +8452,6 @@
 {"coords": [7.0116, 51.4556], "date": "2026-01-23"}, // Essen, Räuber
 {"coords": [9.1919, 48.8975], "date": "2026-01-23"}, // Ludwigsburg, Dieb
 {"coords": [9.8372, 54.4714], "date": "2026-01-23"}, // Eckernförde, Raub
+{"coords": [8.4043, 49.014], "date": "2026-01-23"}, // Einfamilienhaus Karlsruhe, Einbruch
+{"coords": [10.7542, 50.5106], "date": "2026-01-23"}, // Schleusingen, Einbruch
+{"coords": [7.2, 50.8333], "date": "2026-01-23"}, // Feuerwehrhaus Lohmar, Einbruch

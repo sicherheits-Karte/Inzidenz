@@ -8471,3 +8471,16 @@
 {"coords": [9.6536, 53.7547], "date": "2026-01-23"}, // Einfamilienhaus Elmshorn, Einbruch
 {"coords": [7.3194, 52.5236], "date": "2026-01-23"}, // Lingen, Einbruch
 {"coords": [7.4044, 53.0772], "date": "2026-01-23"}, // Bäckerei Papenburg, Raub
+{"coords": [9.4764, 53.6008], "date": "2026-01-23"}, // Wiepenkathen Stade, Dieb
+{"coords": [9.8, 53.6592], "date": "2026-01-23"}, // Haftbefehl Pinneberg, Raub
+{"coords": [9.9937, 53.5511], "date": "2026-01-23"}, // Poppenbüttel Hamburg, entwendet
+{"coords": [10.75, 53.7], "date": "2026-01-23"}, // Ratzeburg, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-01-23"}, // Emden, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-23"}, // Beute Bielefeld, Einbrecher
+{"coords": [9.1919, 48.8975], "date": "2026-01-23"}, // Erdgeschosswohnung Ludwigsburg, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-23"}, // Bielefeld, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-01-23"}, // Rotenburg, entwendet
+{"coords": [7.6333, 51.1], "date": "2026-01-23"}, // Meinerzhagen, eingebrochen
+{"coords": [7.7, 51.375], "date": "2026-01-23"}, // Metzger Iserlohn, Einbruch
+//{"coords": [], "date": "2026-01-23"} // Kein Ort gefunden, Räuber
+{"coords": [10.5267, 52.2689], "date": "2026-01-23"}, // Unterschlagung Braunschweig, Dieb

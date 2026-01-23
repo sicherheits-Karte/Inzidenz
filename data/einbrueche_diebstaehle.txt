@@ -8513,3 +8513,5 @@
 //{"coords": [], "date": "2026-01-23"} // Kreis, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2026-01-23"}, // Zeugen Münster, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2026-01-23"}, // Handwerkern Münster, entwendet
+{"coords": [8.3667, 49.9833], "date": "2026-01-23"}, // Gustavsburg, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-23"}, // Ludwigshafen, Diebstahl

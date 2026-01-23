@@ -8494,3 +8494,8 @@
 {"coords": [8.4311, 49.3194], "date": "2026-01-23"}, // Fußgängerzone Speyer, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-01-23"}, // Einbruch Reutlingen, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2026-01-23"}, // Hinweise Herne, Diebstahl
+//{"coords": [], "date": "2026-01-23"} // Zeugen Aldenhoven, Einbruch
+//{"coords": [], "date": "2026-01-23"} // der zurückliegenden Nacht in vier Firmentransporter eingedrungen sind und daraus diverse Werkzeuge entwendet haben, ermittelt nun die Kriminalpolizei. Nach bisherigen Erkenntnissen verschafften sich der oder die unbekannten Täter im Verlauf der zurückliegenden Nacht Zutritt zu dem Firmengelände in der Ortschaft, entwendet
+//{"coords": [], "date": "2026-01-23"} // Wohnhaus Sögel, Einbruch
+//{"coords": [], "date": "2026-01-23"} // Wohnhaus Wippingen, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-01-23"}, // Haren, Raub

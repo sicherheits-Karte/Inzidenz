@@ -8435,3 +8435,8 @@
 {"coords": [6.75, 51.5833], "date": "2026-01-23"}, // Zeugen Dinslaken, aufbruch
 {"coords": [7.3333, 51.4333], "date": "2026-01-23"}, // Räubern Witten, Raub
 //{"coords": [], "date": "2026-01-23"} // Weimarer Land, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-23"}, // Ulm, Einbruch
+{"coords": [7.6158, 50.8767], "date": "2026-01-23"}, // Waldbröl Waldbröl, Einbruch
+{"coords": [7.2064, 53.5958], "date": "2026-01-23"}, // Geseker Norden Geseke, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-23"}, // Einfamilienhaus Coesfeld, Einbruch
+//{"coords": [], "date": "2026-01-23"} // Bergisch Gladbach, aufbruch

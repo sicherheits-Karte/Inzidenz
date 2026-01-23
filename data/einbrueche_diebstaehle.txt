@@ -8519,3 +8519,13 @@
 //{"coords": [], "date": "2026-01-23"} // Birgelen, Einbrüche
 //{"coords": [], "date": "2026-01-23"} // Wildenrath, Einbruch
 {"coords": [10.3333, 52.15], "date": "2026-01-23"}, // Salzgitter, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-23"}, // Freiburg, Raub
+{"coords": [6.25, 51.2167], "date": "2026-01-23"}, // Brüggen, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-01-23"}, // Metallschrott Bocholt, entwendet
+//{"coords": [], "date": "2026-01-23"} // Großkarlbach, Einbruch
+{"coords": [9.0264, 52.6417], "date": "2026-01-23"}, // Dieseldiebstahl Pennigsehl, Diebstahl
+//{"coords": [], "date": "2026-01-23"} // Kreis, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2026-01-23"}, // Harleshausen Kassel, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-01-23"}, // Heilbronn, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-01-23"}, // Autowerkstatt Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-23"}, // Freiburg, entwendet

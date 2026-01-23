@@ -8508,3 +8508,8 @@
 {"coords": [9.1919, 48.8975], "date": "2026-01-23"}, // Sicherheitsdienst Ludwigsburg, Diebstahl
 {"coords": [8.6944, 53.8619], "date": "2026-01-23"}, // Zeugenaufruf Cuxhaven, aufbruch
 //{"coords": [], "date": "2026-01-23"} // Kreis, Einbrecher
+//{"coords": [], "date": "2026-01-23"} // Dahlum, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-23"}, // Bargeld Gevelsberg, Einbruch
+//{"coords": [], "date": "2026-01-23"} // Kreis, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-01-23"}, // Zeugen Münster, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-01-23"}, // Handwerkern Münster, entwendet

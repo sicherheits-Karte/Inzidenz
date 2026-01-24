@@ -8563,3 +8563,5 @@
 //{"coords": [], "date": "2026-01-24"} // Kreis, aufbruch
 //{"coords": [], "date": "2026-01-24"} // Kellen, Einbruch
 {"coords": [9.8333, 53.95], "date": "2026-01-24"}, // Esserstraße Hagen, Raub
+{"coords": [7.4547, 53.2311], "date": "2026-01-24"}, // Leer, Einbruch
+//{"coords": [], "date": "2026-01-24"} // Heslach, Einbruch

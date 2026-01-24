@@ -8565,3 +8565,5 @@
 {"coords": [9.8333, 53.95], "date": "2026-01-24"}, // Esserstraße Hagen, Raub
 {"coords": [7.4547, 53.2311], "date": "2026-01-24"}, // Leer, Einbruch
 //{"coords": [], "date": "2026-01-24"} // Heslach, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-01-24"}, // Hofheim, Einbruch
+//{"coords": [], "date": "2026-01-24"} // Kreis, Raub

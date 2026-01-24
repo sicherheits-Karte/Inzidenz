@@ -8568,3 +8568,5 @@
 {"coords": [8.4414, 50.0919], "date": "2026-01-24"}, // Hofheim, Einbruch
 //{"coords": [], "date": "2026-01-24"} // Kreis, Raub
 //{"coords": [], "date": "2026-01-24"} // der Autobahn ab, entwendet
+{"coords": [7.7689, 49.4447], "date": "2026-01-24"}, // Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2026-01-24"} // Metzgerei Straßenhaus, Einbruch

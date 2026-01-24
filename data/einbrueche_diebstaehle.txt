@@ -8575,3 +8575,5 @@
 {"coords": [9.2167, 48.4833], "date": "2026-01-24"}, // Reutlingen, Einbrüche
 {"coords": [10.0936, 48.8372], "date": "2026-01-24"}, // Firmengebäude Aalen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-24"}, // Einbrüche Aalen, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2026-01-24"}, // Körperverletzung Aalen, Einbruch
+//{"coords": [], "date": "2026-01-24"} // Wartburgkreis, aufbruch

@@ -8555,3 +8555,7 @@
 {"coords": [7.6889, 51.5347], "date": "2026-01-24"}, // Mehrfamilienhauses Unna, Einbruch
 {"coords": [7.6667, 51.5833], "date": "2026-01-24"}, // Städtisches Gymnasium Kamen Kamen, Einbruch
 //{"coords": [], "date": "2026-01-24"} // Bad, Diebstahl
+{"coords": [8.0, 51.45], "date": "2026-01-24"}, // Wohnung Arnsberg, Einbruch
+{"coords": [7.2431, 51.3464], "date": "2026-01-24"}, // Feuerwehr Sprockhövel, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-24"}, // Mehrfamilienhauses Gevelsberg, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-01-24"}, // Pkw Frankenthal, entwendet

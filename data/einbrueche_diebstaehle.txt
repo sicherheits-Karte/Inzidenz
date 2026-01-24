@@ -8561,3 +8561,5 @@
 {"coords": [8.35, 49.5333], "date": "2026-01-24"}, // Pkw Frankenthal, entwendet
 {"coords": [8.15, 49.4667], "date": "2026-01-24"}, // Weinstraße, Diebstahl
 //{"coords": [], "date": "2026-01-24"} // Kreis, aufbruch
+//{"coords": [], "date": "2026-01-24"} // Kellen, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-01-24"}, // Esserstraße Hagen, Raub

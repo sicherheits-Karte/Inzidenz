@@ -8560,3 +8560,4 @@
 {"coords": [7.3392, 51.3197], "date": "2026-01-24"}, // Mehrfamilienhauses Gevelsberg, Einbruch
 {"coords": [8.35, 49.5333], "date": "2026-01-24"}, // Pkw Frankenthal, entwendet
 {"coords": [8.15, 49.4667], "date": "2026-01-24"}, // Weinstraße, Diebstahl
+//{"coords": [], "date": "2026-01-24"} // Kreis, aufbruch

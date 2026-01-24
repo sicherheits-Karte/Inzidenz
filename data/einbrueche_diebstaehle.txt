@@ -8578,3 +8578,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-24"}, // Körperverletzung Aalen, Einbruch
 //{"coords": [], "date": "2026-01-24"} // Wartburgkreis, aufbruch
 {"coords": [10.7667, 51.4], "date": "2026-01-24"}, // Kleinfurra, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-01-24"}, // Einfamilienhaus Limburg, Einbruch

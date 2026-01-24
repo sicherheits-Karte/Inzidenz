@@ -8552,3 +8552,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-23"}, // Auseinandersetzung Aalen, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-01-23"}, // Aalen, Raub
 {"coords": [8.7917, 51.9917], "date": "2026-01-24"}, // hilfloser Lage befindet. Die Suchmaßnahmen werden durch einen Polizeihubschrauber unterstützt. Die Person wird wie folgt, Raub
+{"coords": [7.6889, 51.5347], "date": "2026-01-24"}, // Mehrfamilienhauses Unna, Einbruch

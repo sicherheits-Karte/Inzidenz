@@ -8570,3 +8570,6 @@
 //{"coords": [], "date": "2026-01-24"} // der Autobahn ab, entwendet
 {"coords": [7.7689, 49.4447], "date": "2026-01-24"}, // Kaiserslautern, Diebstahl
 //{"coords": [], "date": "2026-01-24"} // Metzgerei Straßenhaus, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-01-24"}, // Osterholz, Einbruch
+{"coords": [10.7292, 50.4258], "date": "2026-01-24"}, // Trickbetrüger Hildburghausen, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-01-24"}, // Reutlingen, Einbrüche

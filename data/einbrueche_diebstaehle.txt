@@ -8597,3 +8597,4 @@
 //{"coords": [], "date": "2026-01-25"} // Gückingen, Einbruch
 {"coords": [10.5333, 49.0667], "date": "2026-01-25"}, // Rosengarten Aalen, Einbrüche
 {"coords": [12.0333, 49.8667], "date": "2026-01-25"}, // der Boßdorfstraße das Fenster zum Wohnzimmer auf und gelangten so in das Wohnhaus. Die Täter verließen das Haus ohne Diebesgut. Buchholz i.d.N, Einbruch
+//{"coords": [], "date": "2026-01-25"} // Versuchter Einbruch Lieser, Einbruch

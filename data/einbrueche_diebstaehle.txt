@@ -8603,3 +8603,5 @@
 //{"coords": [], "date": "2026-01-25"} // Kein Ort gefunden, Raub
 {"coords": [9.95, 52.15], "date": "2026-01-25"}, // Vereinsheim Hildesheim, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-01-25"}, // Limburg, Einbrecher
+{"coords": [7.2333, 49.2833], "date": "2026-01-25"}, // Kirkel Kirkel, Einbruch
+{"coords": [10.5464, 52.4886], "date": "2026-01-25"}, // Gifhorn, Diebstahl

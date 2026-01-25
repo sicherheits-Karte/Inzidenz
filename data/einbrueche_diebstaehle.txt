@@ -8591,3 +8591,5 @@
 {"coords": [7.0083, 52.075], "date": "2026-01-25"}, // Ahaus, eingebrochen
 {"coords": [10.7753, 49.7544], "date": "2026-01-25"}, // Zeugen Mühlhausen, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-01-25"}, // Zeugen Osnabrück, aufbruch
+//{"coords": [], "date": "2026-01-25"} // Einfamilienhaus mehr, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-25"}, // Osnabrück, entwendet

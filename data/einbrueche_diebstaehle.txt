@@ -8607,3 +8607,4 @@
 {"coords": [10.5464, 52.4886], "date": "2026-01-25"}, // Gifhorn, Diebstahl
 //{"coords": [], "date": "2026-01-25"} // Carlsberg Carlsberg, Diebstähle
 {"coords": [8.8431, 49.8978], "date": "2026-01-25"}, // Dieburg, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-01-25"}, // Limburg, Einbruch

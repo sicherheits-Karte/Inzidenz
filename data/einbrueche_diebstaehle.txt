@@ -8601,3 +8601,5 @@
 {"coords": [10.5722, 51.4403], "date": "2026-01-25"}, // Bleicherode, entwendet
 {"coords": [7.2, 51.6167], "date": "2026-01-25"}, // Recklinghausen, Raub
 //{"coords": [], "date": "2026-01-25"} // Kein Ort gefunden, Raub
+{"coords": [9.95, 52.15], "date": "2026-01-25"}, // Vereinsheim Hildesheim, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-01-25"}, // Limburg, Einbrecher

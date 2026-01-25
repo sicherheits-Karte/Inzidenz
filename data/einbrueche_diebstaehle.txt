@@ -8593,3 +8593,4 @@
 {"coords": [8.0472, 52.2799], "date": "2026-01-25"}, // Zeugen Osnabrück, aufbruch
 //{"coords": [], "date": "2026-01-25"} // Einfamilienhaus mehr, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-01-25"}, // Osnabrück, entwendet
+//{"coords": [], "date": "2026-01-25"} // Kirchplatz, entwendet

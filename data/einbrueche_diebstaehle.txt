@@ -8712,3 +8712,7 @@
 {"coords": [7.8667, 48.35], "date": "2026-01-26"}, // Wohnung Lahr, Einbruch
 {"coords": [13.0406, 54.1111], "date": "2026-01-26"}, // Holzdiebstahl Grimmen, Diebstahl
 {"coords": [7.1508, 51.2562], "date": "2026-01-26"}, // Wuppertal, Einbruch
+//{"coords": [], "date": "2026-01-26"} // bislang unbekannter Täter bei einer, entwendet
+{"coords": [7.8667, 51.2167], "date": "2026-01-26"}, // Plettenberg, entwendet
+//{"coords": [], "date": "2026-01-26"} // Ramstadt, Einbruch
+{"coords": [10.5464, 52.4886], "date": "2026-01-26"}, // Gifhorn, Diebstahl

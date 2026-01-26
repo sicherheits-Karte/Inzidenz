@@ -8705,3 +8705,10 @@
 {"coords": [8.8742, 48.7306], "date": "2026-01-26"}, // Öschelbronn, Dieb
 {"coords": [7.1508, 51.2562], "date": "2026-01-26"}, // Wuppertal, Raub
 {"coords": [9.1753, 47.6633], "date": "2026-01-26"}, // Konstanz, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2026-01-26"}, // Mönchengladbach, gestohlen
+//{"coords": [], "date": "2026-01-26"} // Kreisgebiet mehr, Einbrüche
+{"coords": [8.2146, 53.1434], "date": "2026-01-26"}, // Wintereinbruchs Oldenburg, Einbruch
+{"coords": [9.36, 52.1039], "date": "2026-01-26"}, // Hameln, Einbruch
+{"coords": [7.8667, 48.35], "date": "2026-01-26"}, // Wohnung Lahr, Einbruch
+{"coords": [13.0406, 54.1111], "date": "2026-01-26"}, // Holzdiebstahl Grimmen, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-01-26"}, // Wuppertal, Einbruch

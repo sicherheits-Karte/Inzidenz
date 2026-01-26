@@ -8660,3 +8660,8 @@
 {"coords": [8.2146, 53.1434], "date": "2026-01-26"}, // Oldenburg, Einbruch
 {"coords": [6.6833, 51.2], "date": "2026-01-26"}, // Dieb Neuss, Dieb
 {"coords": [8.6372, 49.6419], "date": "2026-01-26"}, // Heppenheim, entwendet
+{"coords": [8.8667, 51.9333], "date": "2026-01-26"}, // Lippe, gestohlen
+//{"coords": [], "date": "2026-01-26"} // Kreis, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2026-01-26"}, // Lippe, entwendet
+//{"coords": [], "date": "2026-01-26"} // Wankum, Diebstähle
+{"coords": [6.7735, 51.2277], "date": "2026-01-26"}, // Düsseldorf, Raub

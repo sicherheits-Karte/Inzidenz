@@ -8760,3 +8760,6 @@
 {"coords": [7.4653, 51.5136], "date": "2026-01-26"}, // Untersuchungshaftbefehl Dortmund, Einbrecher
 {"coords": [10.8978, 48.3705], "date": "2026-01-26"}, // Einbruch Augsburg, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-01-26"}, // Trickdiebstahl Augsburg, Diebstahl
+//{"coords": [], "date": "2026-01-26"} // Höhe, Dieb
+{"coords": [6.85, 49.3], "date": "2026-01-26"}, // Bad Schwalbach, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-01-26"}, // Rotenburg, Einbruch

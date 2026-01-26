@@ -8623,3 +8623,6 @@
 {"coords": [12.0799, 50.8772], "date": "2026-01-26"}, // Gera, Diebstahl
 {"coords": [12.1997, 50.6544], "date": "2026-01-26"}, // Greiz, Einbruch
 {"coords": [12.1997, 50.6544], "date": "2026-01-26"}, // Baucontainer Greiz, Einbruch
+//{"coords": [], "date": "2026-01-26"} // Höingen, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-01-26"}, // Hinweise Bonn, eingebrochen
+//{"coords": [], "date": "2026-01-26"} // Esbeck, Einbruch

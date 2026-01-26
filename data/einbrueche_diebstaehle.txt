@@ -8716,3 +8716,14 @@
 {"coords": [7.8667, 51.2167], "date": "2026-01-26"}, // Plettenberg, entwendet
 //{"coords": [], "date": "2026-01-26"} // Ramstadt, Einbruch
 {"coords": [10.5464, 52.4886], "date": "2026-01-26"}, // Gifhorn, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-01-26"}, // Zeugenaufruf Essen, Raub
+{"coords": [6.9603, 50.9375], "date": "2026-01-26"}, // Weiden Köln, Raub
+{"coords": [8.4043, 49.014], "date": "2026-01-26"}, // Erpressung Karlsruhe, Räuber
+{"coords": [8.6944, 49.4092], "date": "2026-01-26"}, // Zeugenaufruf Heidelberg, Dieb
+{"coords": [10.0, 53.7833], "date": "2026-01-26"}, // Ulzburg, Einbruch
+{"coords": [8.6667, 52.2833], "date": "2026-01-26"}, // Einfamilienhaus Hüllhorst, Einbruch
+{"coords": [10.8717, 49.715], "date": "2026-01-26"}, // Aisch, Einbruch
+//{"coords": [], "date": "2026-01-26"} // Firmenautos ein, Dieb
+//{"coords": [], "date": "2026-01-26"} // Buschhütten, Einbrüche
+{"coords": [8.7167, 49.9167], "date": "2026-01-26"}, // Messel, Einbrecher
+{"coords": [9.7167, 53.7], "date": "2026-01-26"}, // Tornesch Kreis Pinneberg, Einbrüche

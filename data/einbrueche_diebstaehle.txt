@@ -8677,3 +8677,16 @@
 {"coords": [8.6944, 53.8619], "date": "2026-01-26"}, // Benzindiebstahl Cuxhaven, Einbruch
 {"coords": [7.0667, 52.1], "date": "2026-01-26"}, // Lagerhalle Heek, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-01-26"}, // Zeugenaufruf Delmenhorst, Einbruch
+{"coords": [8.8731, 51.275], "date": "2026-01-26"}, // Fahrradgeschäft Korbach, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-01-26"}, // Zeugen Kassel, Raub
+{"coords": [8.705, 48.895], "date": "2026-01-26"}, // Zeugen Pforzheim, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-01-26"}, // Bremen, Raub
+{"coords": [7.5658, 51.4458], "date": "2026-01-26"}, // Schwerte, Diebstahl
+{"coords": [7.6333, 51.6667], "date": "2026-01-26"}, // Werne, entwendet
+{"coords": [6.1667, 51.6833], "date": "2026-01-26"}, // Goch, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-26"}, // Ludwigsburg, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-01-26"}, // Ludwigsburg, Einbruch
+{"coords": [7.0, 51.8333], "date": "2026-01-26"}, // Zeugen Reken, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-01-26"}, // Zeugen Ludwigsburg, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-01-26"}, // Ludwigsburg, Raub
+{"coords": [6.6153, 51.8367], "date": "2026-01-26"}, // Firmengelände Bocholt, Einbrecher

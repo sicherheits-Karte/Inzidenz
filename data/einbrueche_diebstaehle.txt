@@ -8742,3 +8742,13 @@
 //{"coords": [], "date": "2026-01-26"} // dem Kreisgebiet, Einbrüche
 //{"coords": [], "date": "2026-01-26"} // Hagenburg Hagenburg, Einbruch
 //{"coords": [], "date": "2026-01-26"} // stellten sie mehrere teils vermummte Personen an einem Sattelzug mit geöffneter Heckportaltür fest. Beim Erkennen der Polizei flüchteten die Täter mit einem Sprinter sowie einem Pkw. Im, Diebstähle
+//{"coords": [], "date": "2026-01-26"} // Shisha-Bar, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-01-26"}, // Nürnberg, entwendet
+//{"coords": [], "date": "2026-01-26"} // Weilerswist Weilerswist, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-01-26"}, // Coesfeld, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2026-01-26"}, // Nienburg, Diebstahl
+//{"coords": [], "date": "2026-01-26"} // Kreis, Einbruch
+{"coords": [8.8386, 48.9511], "date": "2026-01-26"}, // Schwerer Raub Mühlacker, Raub
+//{"coords": [], "date": "2026-01-26"} // Schaden Werther, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2026-01-26"}, // Zigarettenautomaten Eschwege, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-01-26"}, // Baustelle Mühlhausen, Dieb

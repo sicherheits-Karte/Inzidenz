@@ -8629,3 +8629,16 @@
 //{"coords": [], "date": "2026-01-26"} // Restaurant Bad Sassendorf, Einbruch
 {"coords": [12.0333, 49.8667], "date": "2026-01-26"}, // Haus Coesfeld, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-01-26"}, // Firma Coesfeld, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-26"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [6.6, 51.55], "date": "2026-01-26"}, // Hinweise Rheinberg, Einbruch
+{"coords": [8.3667, 49.9833], "date": "2026-01-26"}, // Gustavsburg, Einbrüche
+{"coords": [8.4353, 49.4811], "date": "2026-01-26"}, // Ludwigshafen, Diebstahl
+{"coords": [10.4508, 50.7211], "date": "2026-01-26"}, // Bäckereifiliale Schmalkalden, Einbruch
+{"coords": [8.5333, 50.0667], "date": "2026-01-26"}, // Kelsterbach, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-01-26"}, // Erfurt Erfurt, Einbrecher
+//{"coords": [], "date": "2026-01-26"} // Büren, Einbruch
+//{"coords": [], "date": "2026-01-26"} // Kellerwohnung Kirchborchen, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-01-26"}, // Einfamilienhaus Warendorf, Einbruch
+//{"coords": [], "date": "2026-01-26"} // Wettringen, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-01-26"}, // Paderborn, Einbruch
+{"coords": [8.7, 51.7667], "date": "2026-01-26"}, // Elsen, Einbrüche

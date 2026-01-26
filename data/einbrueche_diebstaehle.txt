@@ -8733,3 +8733,12 @@
 //{"coords": [], "date": "2026-01-26"} // Wendel, entwendet
 {"coords": [7.6333, 51.2167], "date": "2026-01-26"}, // Shop Lüdenscheid, Einbrüche
 {"coords": [7.4653, 51.5136], "date": "2026-01-26"}, // Dortmund, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-01-26"}, // Lüneburg, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-01-26"}, // Recklinghausen, Einbrüche
+{"coords": [10.7865, 52.4226], "date": "2026-01-26"}, // Haftbefehl Wolfsburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-26"}, // Autowerkstatt Freiburg, Einbruch
+{"coords": [6.0839, 50.7753], "date": "2026-01-26"}, // Aachen, Raub
+{"coords": [7.82, 47.99], "date": "2026-01-26"}, // Zeugen Freiburg, Einbruch
+//{"coords": [], "date": "2026-01-26"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2026-01-26"} // Hagenburg Hagenburg, Einbruch
+//{"coords": [], "date": "2026-01-26"} // stellten sie mehrere teils vermummte Personen an einem Sattelzug mit geöffneter Heckportaltür fest. Beim Erkennen der Polizei flüchteten die Täter mit einem Sprinter sowie einem Pkw. Im, Diebstähle

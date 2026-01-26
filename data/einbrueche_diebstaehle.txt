@@ -8752,3 +8752,11 @@
 //{"coords": [], "date": "2026-01-26"} // Schaden Werther, Diebstahl
 {"coords": [10.0528, 51.1889], "date": "2026-01-26"}, // Zigarettenautomaten Eschwege, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2026-01-26"}, // Baustelle Mühlhausen, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-01-26"}, // Art Kaiserslautern, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-01-26"}, // Coesfeld, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-01-26"}, // Coesfeld, gestohlen
+{"coords": [9.984, 54.0714], "date": "2026-01-26"}, // Neumünster Neumünster, Raub
+{"coords": [7.1508, 51.2562], "date": "2026-01-26"}, // Zeugen Wuppertal, Raub
+{"coords": [7.4653, 51.5136], "date": "2026-01-26"}, // Untersuchungshaftbefehl Dortmund, Einbrecher
+{"coords": [10.8978, 48.3705], "date": "2026-01-26"}, // Einbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-01-26"}, // Trickdiebstahl Augsburg, Diebstahl

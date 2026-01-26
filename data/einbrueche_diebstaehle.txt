@@ -8690,3 +8690,11 @@
 {"coords": [9.1919, 48.8975], "date": "2026-01-26"}, // Zeugen Ludwigsburg, Raub
 {"coords": [9.1919, 48.8975], "date": "2026-01-26"}, // Ludwigsburg, Raub
 {"coords": [6.6153, 51.8367], "date": "2026-01-26"}, // Firmengelände Bocholt, Einbrecher
+{"coords": [8.5833, 49.8667], "date": "2026-01-26"}, // Griesheim, Einbrecher
+{"coords": [8.2833, 51.35], "date": "2026-01-26"}, // Meschede Meschede, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-01-26"}, // Polizei Wuppertal Wuppertal, Diebstahl
+{"coords": [7.7833, 51.35], "date": "2026-01-26"}, // Gerätehaus Neuenrade, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-01-26"}, // Zeugen Gütersloh, Raub
+{"coords": [8.5331, 52.021], "date": "2026-01-26"}, // Bielefeld, entwendet
+{"coords": [7.2, 50.8333], "date": "2026-01-26"}, // Lohmar, aufbrüche
+{"coords": [8.5833, 53.55], "date": "2026-01-26"}, // Mitte, Raub

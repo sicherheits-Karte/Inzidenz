@@ -8727,3 +8727,9 @@
 //{"coords": [], "date": "2026-01-26"} // Buschhütten, Einbrüche
 {"coords": [8.7167, 49.9167], "date": "2026-01-26"}, // Messel, Einbrecher
 {"coords": [9.7167, 53.7], "date": "2026-01-26"}, // Tornesch Kreis Pinneberg, Einbrüche
+//{"coords": [], "date": "2026-01-26"} // Kreis, Dieb
+//{"coords": [], "date": "2026-01-26"} // Zigarettenautomaten Jünkerath, aufbruch
+{"coords": [8.7667, 50.1], "date": "2026-01-26"}, // Kreis Offenbach, Einbrecher
+//{"coords": [], "date": "2026-01-26"} // Wendel, entwendet
+{"coords": [7.6333, 51.2167], "date": "2026-01-26"}, // Shop Lüdenscheid, Einbrüche
+{"coords": [7.4653, 51.5136], "date": "2026-01-26"}, // Dortmund, Einbruch

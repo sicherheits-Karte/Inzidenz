@@ -8665,3 +8665,15 @@
 {"coords": [8.8667, 51.9333], "date": "2026-01-26"}, // Lippe, entwendet
 //{"coords": [], "date": "2026-01-26"} // Wankum, Diebstähle
 {"coords": [6.7735, 51.2277], "date": "2026-01-26"}, // Düsseldorf, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-01-26"}, // Bochum, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-01-26"}, // Nürnberg, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-26"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.7167, 49.9167], "date": "2026-01-26"}, // Messel, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-01-26"}, // Gaststätte Cuxhaven, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-26"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [9.5831, 52.8619], "date": "2026-01-26"}, // Walsrode, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-26"}, // Zeugen Freiburg, entwendet
+{"coords": [6.1667, 51.6833], "date": "2026-01-26"}, // Goch, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-01-26"}, // Benzindiebstahl Cuxhaven, Einbruch
+{"coords": [7.0667, 52.1], "date": "2026-01-26"}, // Lagerhalle Heek, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-01-26"}, // Zeugenaufruf Delmenhorst, Einbruch

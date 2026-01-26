@@ -8763,3 +8763,12 @@
 //{"coords": [], "date": "2026-01-26"} // Höhe, Dieb
 {"coords": [6.85, 49.3], "date": "2026-01-26"}, // Bad Schwalbach, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2026-01-26"}, // Rotenburg, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-01-26"}, // Reutlingen, Raub
+{"coords": [9.3833, 50.6333], "date": "2026-01-26"}, // Autobahnparkplatz Vogelsbergkreis, Einbruch
+{"coords": [10.5722, 51.4403], "date": "2026-01-26"}, // Einsatz Bleicherode, Raub
+{"coords": [9.6775, 50.5528], "date": "2026-01-26"}, // Einrichtung Fulda, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-26"}, // Giessen, Einbrecher
+{"coords": [10.7753, 49.7544], "date": "2026-01-26"}, // Mühlhausen, entwendet
+{"coords": [8.6833, 50.5833], "date": "2026-01-26"}, // Giessen, Einbruch
+//{"coords": [], "date": "2026-01-26"} // Bad Dürrheim, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-01-26"}, // Hofheim, Einbrüche

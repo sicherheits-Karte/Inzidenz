@@ -8609,3 +8609,4 @@
 {"coords": [8.8431, 49.8978], "date": "2026-01-25"}, // Dieburg, Dieb
 {"coords": [8.0667, 50.3833], "date": "2026-01-25"}, // Limburg, Einbruch
 //{"coords": [], "date": "2026-01-25"} // Nachtragsmeldung Gückingen, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2026-01-26"}, // Polizeidirektion Trier POL-PDTR, Diebstahl

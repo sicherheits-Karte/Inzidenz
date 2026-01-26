@@ -8650,3 +8650,13 @@
 {"coords": [8.4311, 49.3194], "date": "2026-01-26"}, // Speyer, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-01-26"}, // Coesfeld, Diebstahl
 {"coords": [8.4142, 49.9308], "date": "2026-01-26"}, // Trebur, Einbrüche
+//{"coords": [], "date": "2026-01-26"} // Dokument mehr, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-26"}, // Kirchenweinbergstraße Ludwigsburg, Einbruch
+{"coords": [10.5167, 49.6167], "date": "2026-01-26"}, // Einfamilienhaus Langenfeld, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-01-26"}, // Diepholz, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-26"}, // Gevelsberg, Einbruch
+{"coords": [7.35, 52.15], "date": "2026-01-26"}, // Steinfurt, Diebstahl
+{"coords": [7.2431, 51.3464], "date": "2026-01-26"}, // Sprockhövel, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-01-26"}, // Oldenburg, Einbruch
+{"coords": [6.6833, 51.2], "date": "2026-01-26"}, // Dieb Neuss, Dieb
+{"coords": [8.6372, 49.6419], "date": "2026-01-26"}, // Heppenheim, entwendet

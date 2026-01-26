@@ -8626,3 +8626,6 @@
 //{"coords": [], "date": "2026-01-26"} // Höingen, Dieb
 {"coords": [7.0982, 50.7374], "date": "2026-01-26"}, // Hinweise Bonn, eingebrochen
 //{"coords": [], "date": "2026-01-26"} // Esbeck, Einbruch
+//{"coords": [], "date": "2026-01-26"} // Restaurant Bad Sassendorf, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2026-01-26"}, // Haus Coesfeld, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-26"}, // Firma Coesfeld, Einbruch

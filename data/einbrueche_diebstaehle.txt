@@ -8611,3 +8611,4 @@
 //{"coords": [], "date": "2026-01-25"} // Nachtragsmeldung Gückingen, Einbruch
 {"coords": [6.6393, 49.7556], "date": "2026-01-26"}, // Polizeidirektion Trier POL-PDTR, Diebstahl
 {"coords": [8.7667, 50.1], "date": "2026-01-26"}, // Tatverdächtigen Offenbach, Raub
+{"coords": [7.8208, 51.6803], "date": "2026-01-26"}, // Hamm, Einbruch

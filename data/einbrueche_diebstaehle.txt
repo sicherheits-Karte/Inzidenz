@@ -8920,3 +8920,4 @@
 {"coords": [7.82, 47.99], "date": "2026-01-27"}, // Tag Freiburg, Diebstahl
 {"coords": [9.9158, 51.5413], "date": "2026-01-27"}, // Göttingen, Einbruch
 {"coords": [6.1353, 51.7875], "date": "2026-01-27"}, // Zeugen Kleve, Einbruch
+//{"coords": [], "date": "2026-01-27"} // Kreis, Raub

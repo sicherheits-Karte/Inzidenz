@@ -8796,3 +8796,4 @@
 {"coords": [7.5, 51.4167], "date": "2026-01-27"}, // Garenfeld, Einbrecher
 {"coords": [8.1092, 51.5711], "date": "2026-01-27"}, // Mehrfamilienhaus Soest, Einbruch
 {"coords": [7.4333, 51.35], "date": "2026-01-27"}, // Haspe, Diebstähle
+//{"coords": [], "date": "2026-01-27"} // dem Kreisgebiet, Einbrüche

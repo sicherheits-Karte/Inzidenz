@@ -8888,3 +8888,7 @@
 {"coords": [10.9887, 49.4771], "date": "2026-01-27"}, // Fürth, gestohlen
 //{"coords": [], "date": "2026-01-27"} // Griethausen, Diebstahl
 {"coords": [8.8731, 51.275], "date": "2026-01-27"}, // Bekleidungsgeschäft Korbach, Einbrecher
+{"coords": [7.1675, 51.9436], "date": "2026-01-27"}, // Sporthalle Coesfeld, Einbruch
+{"coords": [6.0167, 51.7917], "date": "2026-01-27"}, // Kranenburg, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-01-27"}, // Hinweise Köln, entwendet
+{"coords": [7.82, 47.99], "date": "2026-01-27"}, // Zeugen Freiburg, Einbruch

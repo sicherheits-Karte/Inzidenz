@@ -8785,3 +8785,7 @@
 {"coords": [12.1997, 50.6544], "date": "2026-01-27"}, // Greiz, entwendet
 //{"coords": [], "date": "2026-01-27"} // Georgsdorf, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-01-27"}, // Raubtaten Delmenhorst, Raub
+{"coords": [7.75, 51.6333], "date": "2026-01-27"}, // Herringen, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2026-01-27"}, // Goch, entwendet
+{"coords": [6.6833, 51.6167], "date": "2026-01-27"}, // Zeugensuche Voerde, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-01-27"}, // Juweliergeschäft Dinslaken, Einbruch

@@ -8877,3 +8877,14 @@
 {"coords": [9.6775, 50.5528], "date": "2026-01-27"}, // Fulda, entwendet
 {"coords": [9.9916, 48.3984], "date": "2026-01-27"}, // Ulm, Dieb
 {"coords": [8.2036, 48.8572], "date": "2026-01-27"}, // Rastatt, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-27"}, // Hinweise Osnabrück, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-01-27"}, // Kaiserslautern, Dieb
+{"coords": [8.3708, 52.6078], "date": "2026-01-27"}, // Diepholz, Raub
+{"coords": [8.5331, 52.021], "date": "2026-01-27"}, // Bielefeld, Diebstahl
+//{"coords": [], "date": "2026-01-27"} // Kork, entwendet
+{"coords": [6.5667, 51.0], "date": "2026-01-27"}, // Einbrüchen Bedburg, Einbrüche
+{"coords": [6.7735, 51.2277], "date": "2026-01-27"}, // Ermittlungsrichter Düsseldorf, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-01-27"}, // Kassel, Dieb
+{"coords": [10.9887, 49.4771], "date": "2026-01-27"}, // Fürth, gestohlen
+//{"coords": [], "date": "2026-01-27"} // Griethausen, Diebstahl
+{"coords": [8.8731, 51.275], "date": "2026-01-27"}, // Bekleidungsgeschäft Korbach, Einbrecher

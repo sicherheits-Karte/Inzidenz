@@ -8857,3 +8857,10 @@
 //{"coords": [], "date": "2026-01-27"} // Kreis, Einbruch
 //{"coords": [], "date": "2026-01-27"} // Sterholz, Einbruch
 {"coords": [10.0528, 51.1889], "date": "2026-01-27"}, // Anrufe Eschwege, eingebrochen
+{"coords": [9.4108, 53.1111], "date": "2026-01-27"}, // Landkreis Rotenburg, Einbruch
+{"coords": [6.2333, 50.7833], "date": "2026-01-27"}, // Stolberg, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-01-27"}, // Fotofahndung Essen, stehlen
+{"coords": [8.6944, 49.4092], "date": "2026-01-27"}, // Zeugenaufruf Heidelberg, Dieb
+{"coords": [8.6944, 53.8619], "date": "2026-01-27"}, // Einbrüche Cuxhaven, Einbrüche
+{"coords": [8.2146, 53.1434], "date": "2026-01-27"}, // Oldenburger Bekleidungsgeschäft Oldenburg, Raub
+{"coords": [8.9167, 52.3], "date": "2026-01-27"}, // Ladendieb Minden, Diebstahl

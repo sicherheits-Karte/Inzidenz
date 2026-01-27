@@ -8874,3 +8874,5 @@
 {"coords": [7.3392, 51.3197], "date": "2026-01-27"}, // Beute Gevelsberg, Raub
 //{"coords": [], "date": "2026-01-27"} // Tuttlingen, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-01-27"}, // Doppelhaushälfte Coesfeld, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-01-27"}, // Fulda, entwendet
+{"coords": [9.9916, 48.3984], "date": "2026-01-27"}, // Ulm, Dieb

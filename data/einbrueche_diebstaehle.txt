@@ -8892,3 +8892,16 @@
 {"coords": [6.0167, 51.7917], "date": "2026-01-27"}, // Kranenburg, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-01-27"}, // Hinweise Köln, entwendet
 {"coords": [7.82, 47.99], "date": "2026-01-27"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-27"}, // Giessen, Raub
+//{"coords": [], "date": "2026-01-27"} // der Georgenstraße zu betrügen. Der Mann gab sich während des Anrufs als Kriminalpolizist aus. Er teilte der Frau mit, dass Diebe im Stadtgebiet unterwegs seien und er ihr Geld sichern müsste. Die Frau war skeptisch und informierte die Polizei. Es kam hier zu keinem finanziellen Nachteil, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-01-27"}, // Erfurt, Einbrecher
+{"coords": [11.0299, 50.9848], "date": "2026-01-27"}, // Gaststätte Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-27"}, // Autokennzeichen Erfurt, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-01-27"}, // Kilo Kupferkabel Erfurt, Dieb
+{"coords": [9.3806, 51.775], "date": "2026-01-27"}, // Zeugen Höxter, Dieb
+{"coords": [9.8372, 54.4714], "date": "2026-01-27"}, // Eckernförde, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-01-27"}, // Erpressung Offenbach, Räuber
+//{"coords": [], "date": "2026-01-27"} // Bad Cannstatt, Dieb
+{"coords": [7.4836, 53.4711], "date": "2026-01-27"}, // Parkplatz Landkreis Aurich, Diebstahl
+{"coords": [9.984, 54.0714], "date": "2026-01-27"}, // Neumünster, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-27"}, // Coesfeld, gestohlen

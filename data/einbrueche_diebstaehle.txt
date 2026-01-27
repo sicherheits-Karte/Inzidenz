@@ -8805,3 +8805,14 @@
 {"coords": [8.15, 49.4667], "date": "2026-01-27"}, // Weinstraße, Einbrecher
 {"coords": [8.8075, 53.075], "date": "2026-01-27"}, // Haft-- Bremen, Einbruch
 {"coords": [10.0528, 51.1889], "date": "2026-01-27"}, // Eschwege, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-01-27"}, // Mitte Kamen, Einbruch
+{"coords": [11.3406, 50.7206], "date": "2026-01-27"}, // Rudolstadt, entwendet
+{"coords": [8.8667, 51.9333], "date": "2026-01-27"}, // Lippe, gestohlen
+{"coords": [9.5164, 53.925], "date": "2026-01-27"}, // Itzehoe, Einbruch
+{"coords": [11.1667, 50.35], "date": "2026-01-27"}, // Sonneberg, Diebstahl
+{"coords": [8.6833, 52.15], "date": "2026-01-27"}, // Werkzeuge Herford, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-01-27"}, // Landkreis Heilbronn, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-01-27"}, // Heilbronn, Diebstahl
+{"coords": [10.9583, 51.2292], "date": "2026-01-27"}, // Greußen, entwendet
+{"coords": [7.1667, 50.8167], "date": "2026-01-27"}, // Kindertagesstätte Troisdorf, Einbruch
+{"coords": [10.4508, 50.7211], "date": "2026-01-27"}, // Schmalkalden, eingebrochen

@@ -8789,3 +8789,10 @@
 {"coords": [6.1667, 51.6833], "date": "2026-01-27"}, // Goch, entwendet
 {"coords": [6.6833, 51.6167], "date": "2026-01-27"}, // Zeugensuche Voerde, Einbruch
 {"coords": [6.75, 51.5833], "date": "2026-01-27"}, // Juweliergeschäft Dinslaken, Einbruch
+//{"coords": [], "date": "2026-01-27"} // Weimarer Land, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-01-27"}, // Herzhafter Diebstahl Jena, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-01-27"}, // Zeit Jena, Einbruch
+{"coords": [7.9139, 51.5528], "date": "2026-01-27"}, // Einfamilienhaus Werl, Einbruch
+{"coords": [7.5, 51.4167], "date": "2026-01-27"}, // Garenfeld, Einbrecher
+{"coords": [8.1092, 51.5711], "date": "2026-01-27"}, // Mehrfamilienhaus Soest, Einbruch
+{"coords": [7.4333, 51.35], "date": "2026-01-27"}, // Haspe, Diebstähle

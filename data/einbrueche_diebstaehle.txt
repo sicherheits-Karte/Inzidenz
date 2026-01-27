@@ -8797,3 +8797,11 @@
 {"coords": [8.1092, 51.5711], "date": "2026-01-27"}, // Mehrfamilienhaus Soest, Einbruch
 {"coords": [7.4333, 51.35], "date": "2026-01-27"}, // Haspe, Diebstähle
 //{"coords": [], "date": "2026-01-27"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.3667, 54.6167], "date": "2026-01-27"}, // Tankstelle Eggebek, Raub
+{"coords": [10.15, 52.5333], "date": "2026-01-27"}, // Wathlingen, entwendet
+{"coords": [10.0, 51.7064], "date": "2026-01-27"}, // Northeim, stehlen
+{"coords": [7.8667, 50.7833], "date": "2026-01-27"}, // Betzdorf, Einbruch
+{"coords": [8.15, 49.4667], "date": "2026-01-27"}, // Weinstraße, Diebstahl
+{"coords": [8.15, 49.4667], "date": "2026-01-27"}, // Weinstraße, Einbrecher
+{"coords": [8.8075, 53.075], "date": "2026-01-27"}, // Haft-- Bremen, Einbruch
+{"coords": [10.0528, 51.1889], "date": "2026-01-27"}, // Eschwege, entwendet

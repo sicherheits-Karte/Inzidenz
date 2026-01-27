@@ -8915,3 +8915,5 @@
 {"coords": [9.5194, 51.9767], "date": "2026-01-27"}, // Transporter Bodenwerder, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-01-27"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-01-27"}, // Handtaschendiebstahl Augsburg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-01-27"}, // Transporter Hofheim, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-01-27"}, // Giessen, Einbrecher

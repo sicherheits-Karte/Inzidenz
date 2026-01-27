@@ -8864,3 +8864,13 @@
 {"coords": [8.6944, 53.8619], "date": "2026-01-27"}, // Einbrüche Cuxhaven, Einbrüche
 {"coords": [8.2146, 53.1434], "date": "2026-01-27"}, // Oldenburger Bekleidungsgeschäft Oldenburg, Raub
 {"coords": [8.9167, 52.3], "date": "2026-01-27"}, // Ladendieb Minden, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-01-27"}, // Coesfeld, entwendet
+{"coords": [11.1, 48.7167], "date": "2026-01-27"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-01-27"}, // Speyer, Dieb
+{"coords": [7.1508, 51.2562], "date": "2026-01-27"}, // Wuppertal Wuppertal, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-27"}, // Einbrüche Coesfeld, Einbrüche
+{"coords": [7.3328, 49.6133], "date": "2026-01-27"}, // Transporter Baumholder, Diebstahl
+{"coords": [8.6333, 50.25], "date": "2026-01-27"}, // Friedrichsdorf Gütersloh, Einbrüche
+{"coords": [7.3392, 51.3197], "date": "2026-01-27"}, // Beute Gevelsberg, Raub
+//{"coords": [], "date": "2026-01-27"} // Tuttlingen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-01-27"}, // Doppelhaushälfte Coesfeld, Einbruch

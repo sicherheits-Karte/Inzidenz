@@ -8905,3 +8905,13 @@
 {"coords": [7.4836, 53.4711], "date": "2026-01-27"}, // Parkplatz Landkreis Aurich, Diebstahl
 {"coords": [9.984, 54.0714], "date": "2026-01-27"}, // Neumünster, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-01-27"}, // Coesfeld, gestohlen
+{"coords": [7.1667, 50.8167], "date": "2026-01-27"}, // Troisdorf, gestohlen
+{"coords": [8.6372, 49.6419], "date": "2026-01-27"}, // Heppenheim, gestohlen
+{"coords": [8.24, 50.0822], "date": "2026-01-27"}, // Wiesbaden, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-01-27"}, // Mönchengladbach, Raub
+{"coords": [9.95, 52.15], "date": "2026-01-27"}, // Untersuchungshaft Hildesheim, Einbruch
+{"coords": [10.6866, 53.8655], "date": "2026-01-27"}, // Zeugen Lübeck, Raub
+//{"coords": [], "date": "2026-01-27"} // Lagerhalle Freckenfeld, Einbruch
+{"coords": [9.5194, 51.9767], "date": "2026-01-27"}, // Transporter Bodenwerder, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-01-27"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-01-27"}, // Handtaschendiebstahl Augsburg, Diebstahl

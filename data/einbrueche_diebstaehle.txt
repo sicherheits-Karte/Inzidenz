@@ -8876,3 +8876,4 @@
 {"coords": [7.1675, 51.9436], "date": "2026-01-27"}, // Doppelhaushälfte Coesfeld, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2026-01-27"}, // Fulda, entwendet
 {"coords": [9.9916, 48.3984], "date": "2026-01-27"}, // Ulm, Dieb
+{"coords": [8.2036, 48.8572], "date": "2026-01-27"}, // Rastatt, Einbruch

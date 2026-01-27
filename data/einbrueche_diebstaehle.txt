@@ -8846,3 +8846,14 @@
 {"coords": [8.0, 53.5333], "date": "2026-01-27"}, // Schortens Schortens, Diebstahl
 //{"coords": [], "date": "2026-01-27"} // Neu, Diebstähle
 //{"coords": [], "date": "2026-01-27"} // Holzwickede, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-01-27"}, // Kassel, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-27"}, // Vorfall Osnabrück, Diebstahl
+//{"coords": [], "date": "2026-01-27"} // Kein Ort gefunden, Dieb
+{"coords": [7.4333, 51.35], "date": "2026-01-27"}, // Haspe, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2026-01-27"}, // Landkreis Aurich, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-01-27"}, // Emden, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-27"}, // Zeugenaufruf Mannheim, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-01-27"}, // Jugendliche Münster, Diebstahl
+//{"coords": [], "date": "2026-01-27"} // Kreis, Einbruch
+//{"coords": [], "date": "2026-01-27"} // Sterholz, Einbruch
+{"coords": [10.0528, 51.1889], "date": "2026-01-27"}, // Anrufe Eschwege, eingebrochen

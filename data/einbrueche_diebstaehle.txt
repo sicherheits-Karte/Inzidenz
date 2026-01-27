@@ -8921,3 +8921,4 @@
 {"coords": [9.9158, 51.5413], "date": "2026-01-27"}, // Göttingen, Einbruch
 {"coords": [6.1353, 51.7875], "date": "2026-01-27"}, // Zeugen Kleve, Einbruch
 //{"coords": [], "date": "2026-01-27"} // Kreis, Raub
+{"coords": [10.7956, 51.5019], "date": "2026-01-27"}, // Nordhausen, Diebstahl

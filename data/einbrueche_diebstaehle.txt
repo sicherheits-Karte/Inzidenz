@@ -8840,3 +8840,9 @@
 {"coords": [7.9667, 53.4167], "date": "2026-01-27"}, // Zetel Zetel, Einbruch
 {"coords": [7.7, 51.375], "date": "2026-01-27"}, // Steuer Iserlohn, Dieb
 {"coords": [7.4653, 51.5136], "date": "2026-01-27"}, // Supermarkt Dortmund, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-01-27"}, // Zeugensuche Frankfurt, gestohlen
+//{"coords": [], "date": "2026-01-27"} // Altstadt, Diebstahl
+{"coords": [6.4833, 50.8], "date": "2026-01-27"}, // Zeugen Düren, Einbruch
+{"coords": [8.0, 53.5333], "date": "2026-01-27"}, // Schortens Schortens, Diebstahl
+//{"coords": [], "date": "2026-01-27"} // Neu, Diebstähle
+//{"coords": [], "date": "2026-01-27"} // Holzwickede, Einbruch

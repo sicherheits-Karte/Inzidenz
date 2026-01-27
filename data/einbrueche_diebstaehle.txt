@@ -8775,3 +8775,5 @@
 {"coords": [8.24, 50.0822], "date": "2026-01-26"}, // Wiesbaden, Einbrüche
 //{"coords": [], "date": "2026-01-26"} // Niederneisen, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-01-27"}, // Container Wittlich, Einbruch
+{"coords": [7.1861, 49.6583], "date": "2026-01-27"}, // Achtstraße Birkenfeld, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-01-27"}, // Wohnungseinbruchsdiebstahl Wittlich, Einbruch

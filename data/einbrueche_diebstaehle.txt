@@ -8825,3 +8825,18 @@
 //{"coords": [], "date": "2026-01-27"} // Bad Münstereifel, entwendet
 //{"coords": [], "date": "2026-01-27"} // Kirche Hellenthal, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2026-01-27"}, // Jährigen Darmstadt, Diebstahl
+//{"coords": [], "date": "2026-01-27"} // Kierspe, Einbrüche
+{"coords": [8.4353, 49.4811], "date": "2026-01-27"}, // Ludwigshafen, Einbrüche
+{"coords": [8.35, 49.5333], "date": "2026-01-27"}, // Frankenthal, Einbruch
+{"coords": [7.6, 50.3], "date": "2026-01-27"}, // Kupferkabel Lahnstein, Diebstahl
+//{"coords": [], "date": "2026-01-27"} // Rohbau Kierspe, Einbruch
+{"coords": [7.6333, 51.1], "date": "2026-01-27"}, // Sachbeschädigung Meinerzhagen, Einbruch
+{"coords": [9.2167, 48.5167], "date": "2026-01-27"}, // Mittelstadt, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-01-27"}, // Hinweise Osnabrück, Einbruch
+//{"coords": [], "date": "2026-01-27"} // Bürbach, Einbrüche
+//{"coords": [], "date": "2026-01-27"} // Jugenheim, Raub
+{"coords": [8.8075, 53.075], "date": "2026-01-27"}, // Tat-- Bremen, aufbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-27"}, // Rucksack Bielefeld, Dieb
+{"coords": [7.9667, 53.4167], "date": "2026-01-27"}, // Zetel Zetel, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-01-27"}, // Steuer Iserlohn, Dieb
+{"coords": [7.4653, 51.5136], "date": "2026-01-27"}, // Supermarkt Dortmund, Raub

@@ -8936,3 +8936,5 @@
 //{"coords": [], "date": "2026-01-28"} // Zeugenhinweise Vettelschoß, entwendet
 {"coords": [8.6372, 49.6419], "date": "2026-01-28"}, // Heppenheim, entwendet
 //{"coords": [], "date": "2026-01-28"} // Kein Ort gefunden, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-01-28"}, // Sonstiges Aalen, Einbruch
+{"coords": [12.1833, 54.15], "date": "2026-01-28"}, // Nienhagen, entwendet

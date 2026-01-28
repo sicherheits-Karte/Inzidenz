@@ -9021,3 +9021,5 @@
 {"coords": [7.1675, 51.9436], "date": "2026-01-28"}, // Einbruch Coesfeld, Einbruch
 {"coords": [9.5, 51.3167], "date": "2026-01-28"}, // Tat Kassel, Diebstahl
 {"coords": [13.0819, 54.3092], "date": "2026-01-28"}, // Stralsund, Dieb
+{"coords": [9.732, 52.3759], "date": "2026-01-28"}, // Diebesgut Hannover, Dieb
+{"coords": [7.2056, 50.8014], "date": "2026-01-28"}, // Kundenberatung Siegburg, gestohlen

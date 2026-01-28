@@ -9009,3 +9009,15 @@
 {"coords": [8.5331, 52.021], "date": "2026-01-28"}, // Einfamilienhaus Bielefeld, Einbruch
 {"coords": [6.3667, 51.4833], "date": "2026-01-28"}, // Nieukerk, Diebstahl
 {"coords": [10.7865, 52.4226], "date": "2026-01-28"}, // Zeugen Wolfsburg, Raub
+//{"coords": [], "date": "2026-01-28"} // Vereinsheim Diepenau, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-01-28"}, // Hildesheimer Oststadt Hildesheim, Einbrüche
+{"coords": [7.1508, 51.2562], "date": "2026-01-28"}, // Wuppertal, eingebrochen
+{"coords": [8.6822, 50.1106], "date": "2026-01-28"}, // Frankfurt, Einbrecher
+{"coords": [8.4661, 49.4878], "date": "2026-01-28"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [6.5139, 51.1917], "date": "2026-01-28"}, // Zeugen Korschenbroich, Dieb
+{"coords": [8.9167, 52.3], "date": "2026-01-28"}, // Minden, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-01-28"}, // Versuchter Einbruch Coesfeld, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-28"}, // Mitte, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-01-28"}, // Einbruch Coesfeld, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-01-28"}, // Tat Kassel, Diebstahl
+{"coords": [13.0819, 54.3092], "date": "2026-01-28"}, // Stralsund, Dieb

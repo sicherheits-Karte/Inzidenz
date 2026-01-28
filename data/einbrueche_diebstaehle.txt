@@ -8925,3 +8925,7 @@
 {"coords": [8.9167, 50.1333], "date": "2026-01-28"}, // Trinkgeldkassen Hanau, Einbruch
 {"coords": [8.0, 51.3333], "date": "2026-01-28"}, // Amecke Sundern, Einbruch
 {"coords": [9.8333, 53.95], "date": "2026-01-28"}, // Diebstahls Hagen, Einbruch
+{"coords": [7.6014, 52.6853], "date": "2026-01-28"}, // Andruper Straße Herzlake, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-01-28"}, // Binsenstraße Nordhorn, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-01-28"}, // Recklinghausen, Raub
+{"coords": [6.6, 51.55], "date": "2026-01-28"}, // Hinweise Rheinberg, Diebstahl

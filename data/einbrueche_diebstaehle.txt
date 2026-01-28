@@ -8958,3 +8958,14 @@
 {"coords": [7.3392, 51.3197], "date": "2026-01-28"}, // Gevelsberg, Einbruch
 {"coords": [7.7156, 52.2778], "date": "2026-01-28"}, // Mehrfamilienhaus Ibbenbüren, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2026-01-28"}, // Münzen Gevelsberg, Einbruch
+{"coords": [9.8667, 53.65], "date": "2026-01-28"}, // Ellerbek, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-28"}, // Erfurter Kleingartenanlagen Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-28"}, // Diebstahl Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-01-28"}, // Erfurt, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-01-28"}, // Zeugenaufruf Delmenhorst, Einbruch
+//{"coords": [], "date": "2026-01-28"} // POL-PDNR, Diebstahl
+{"coords": [7.6889, 51.5347], "date": "2026-01-28"}, // Mehrfamilienhaus Unna, Einbruch
+{"coords": [7.0, 51.8333], "date": "2026-01-28"}, // Verbrauchermarkt Reken, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-01-28"}, // Kellereinbrüche Cuxhaven, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2026-01-28"}, // Lippe, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2026-01-28"}, // Lippe, Einbruch

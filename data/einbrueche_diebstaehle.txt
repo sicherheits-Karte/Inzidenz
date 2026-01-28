@@ -8973,3 +8973,15 @@
 {"coords": [7.7, 51.375], "date": "2026-01-28"}, // Park Iserlohn, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-01-28"}, // Erfurter Altstadt Erfurt, Einbruch
 {"coords": [7.6667, 51.5833], "date": "2026-01-28"}, // Kamen, Einbruch
+{"coords": [10.3333, 52.15], "date": "2026-01-28"}, // Salzgitter, entwendet
+{"coords": [8.3708, 52.6078], "date": "2026-01-28"}, // Diepholz, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-01-28"}, // Nürnberg, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-01-28"}, // Bergungseinsatz Reutlingen, Einbruch
+{"coords": [6.9194, 51.9944], "date": "2026-01-28"}, // Kupferfallrohres Stadtlohn, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-01-28"}, // Karlsruhe, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-01-28"}, // Ulm, Diebstahl
+{"coords": [9.4108, 53.1111], "date": "2026-01-28"}, // Rotenburg, Raub
+{"coords": [9.2411, 51.5692], "date": "2026-01-28"}, // Zeugen Borgentreich, Einbrüche
+{"coords": [7.8667, 51.2167], "date": "2026-01-28"}, // Firma Plettenberg, Einbruch
+{"coords": [7.6333, 51.1], "date": "2026-01-28"}, // Meinerzhagen, gestohlen
+//{"coords": [], "date": "2026-01-28"} // dem Kreisgebiet, Einbrüche

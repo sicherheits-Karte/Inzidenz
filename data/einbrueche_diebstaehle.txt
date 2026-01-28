@@ -8929,3 +8929,10 @@
 {"coords": [7.0667, 52.4333], "date": "2026-01-28"}, // Binsenstraße Nordhorn, Diebstahl
 {"coords": [7.2, 51.6167], "date": "2026-01-28"}, // Recklinghausen, Raub
 {"coords": [6.6, 51.55], "date": "2026-01-28"}, // Hinweise Rheinberg, Diebstahl
+{"coords": [8.65, 49.3], "date": "2026-01-28"}, // Walldorf, aufbruch
+{"coords": [12.4333, 50.985], "date": "2026-01-28"}, // Altenburg, entwendet
+{"coords": [8.4942, 49.8342], "date": "2026-01-28"}, // Riedstadt, Einbrecher
+{"coords": [10.75, 53.7], "date": "2026-01-28"}, // Ratzeburg, Einbruch
+//{"coords": [], "date": "2026-01-28"} // Zeugenhinweise Vettelschoß, entwendet
+{"coords": [8.6372, 49.6419], "date": "2026-01-28"}, // Heppenheim, entwendet
+//{"coords": [], "date": "2026-01-28"} // Kein Ort gefunden, Diebstahl

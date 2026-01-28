@@ -9008,3 +9008,4 @@
 {"coords": [6.3583, 50.9222], "date": "2026-01-28"}, // Hinweise Jülich, Einbruch
 {"coords": [8.5331, 52.021], "date": "2026-01-28"}, // Einfamilienhaus Bielefeld, Einbruch
 {"coords": [6.3667, 51.4833], "date": "2026-01-28"}, // Nieukerk, Diebstahl
+{"coords": [10.7865, 52.4226], "date": "2026-01-28"}, // Zeugen Wolfsburg, Raub

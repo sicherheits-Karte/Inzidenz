@@ -8939,3 +8939,11 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-28"}, // Sonstiges Aalen, Einbruch
 {"coords": [12.1833, 54.15], "date": "2026-01-28"}, // Nienhagen, entwendet
 {"coords": [9.0492, 52.2603], "date": "2026-01-28"}, // Bückeburg, entwendet
+{"coords": [7.2061, 53.3669], "date": "2026-01-28"}, // Emden, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-28"}, // Lembergweg Ludwigsburg, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2026-01-28"}, // Haus Zweibrücken, Einbruch
+{"coords": [7.6, 49.2], "date": "2026-01-28"}, // Pirmasens, Einbruch
+{"coords": [7.215, 51.1397], "date": "2026-01-28"}, // Wermelskirchen, Einbruch
+//{"coords": [], "date": "2026-01-28"} // Zusenhofen, Diebstahl
+//{"coords": [], "date": "2026-01-28"} // Tabakladen Bergisch Gladbach, Einbruch
+{"coords": [8.1333, 48.7], "date": "2026-01-28"}, // Bühl, Einbruch

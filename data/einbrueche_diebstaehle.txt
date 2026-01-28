@@ -8947,3 +8947,14 @@
 //{"coords": [], "date": "2026-01-28"} // Zusenhofen, Diebstahl
 //{"coords": [], "date": "2026-01-28"} // Tabakladen Bergisch Gladbach, Einbruch
 {"coords": [8.1333, 48.7], "date": "2026-01-28"}, // Bühl, Einbruch
+//{"coords": [], "date": "2026-01-28"} // Pfalzgrafenweiler, Dieb
+{"coords": [8.5861, 52.1983], "date": "2026-01-28"}, // Bünde, entwendet
+{"coords": [8.6833, 52.15], "date": "2026-01-28"}, // Herford, Dieb
+{"coords": [7.4333, 52.2833], "date": "2026-01-28"}, // Kfz Rheine, Diebstähle
+{"coords": [11.5928, 50.6933], "date": "2026-01-28"}, // Einrichtung Pößneck, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-01-28"}, // Ferienwohnung Wilhelmshaven, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-28"}, // Schmuck Gevelsberg, Einbruch
+{"coords": [7.7, 52.2], "date": "2026-01-28"}, // Wohnhaus Ladbergen, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-28"}, // Gevelsberg, Einbruch
+{"coords": [7.7156, 52.2778], "date": "2026-01-28"}, // Mehrfamilienhaus Ibbenbüren, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-01-28"}, // Münzen Gevelsberg, Einbruch

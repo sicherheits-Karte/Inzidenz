@@ -8922,3 +8922,6 @@
 {"coords": [6.1353, 51.7875], "date": "2026-01-27"}, // Zeugen Kleve, Einbruch
 //{"coords": [], "date": "2026-01-27"} // Kreis, Raub
 {"coords": [10.7956, 51.5019], "date": "2026-01-27"}, // Nordhausen, Diebstahl
+{"coords": [8.9167, 50.1333], "date": "2026-01-28"}, // Trinkgeldkassen Hanau, Einbruch
+{"coords": [8.0, 51.3333], "date": "2026-01-28"}, // Amecke Sundern, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-01-28"}, // Diebstahls Hagen, Einbruch

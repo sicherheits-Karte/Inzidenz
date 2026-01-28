@@ -9045,3 +9045,4 @@
 //{"coords": [], "date": "2026-01-28"} // Tatverdächtigen Tönisvorst, Diebstahl
 {"coords": [7.6333, 51.2167], "date": "2026-01-28"}, // Polizei Lüdenscheid, gestohlen
 //{"coords": [], "date": "2026-01-28"} // Siebenfachunfall verwickelt, geklaut
+{"coords": [8.7667, 50.1], "date": "2026-01-28"}, // Bar Offenbach, Einbruch

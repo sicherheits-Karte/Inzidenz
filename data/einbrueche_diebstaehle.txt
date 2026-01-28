@@ -8985,3 +8985,11 @@
 {"coords": [7.8667, 51.2167], "date": "2026-01-28"}, // Firma Plettenberg, Einbruch
 {"coords": [7.6333, 51.1], "date": "2026-01-28"}, // Meinerzhagen, gestohlen
 //{"coords": [], "date": "2026-01-28"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2026-01-28"}, // Nordhausen, Einbrecher
+//{"coords": [], "date": "2026-01-28"} // Bäckerei Kalbach, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-01-28"}, // Einfamilienhaus Vogelsbergkreis, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-01-28"}, // Landkreis Heilbronn, Einbruch
+//{"coords": [], "date": "2026-01-28"} // Salchendorf, Diebstahl
+//{"coords": [], "date": "2026-01-28"} // Auto gestohlen mehr, gestohlen
+{"coords": [7.4333, 51.35], "date": "2026-01-28"}, // Haspe, Diebstahl
+//{"coords": [], "date": "2026-01-28"} // Oberschelden, entwendet

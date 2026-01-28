@@ -9047,3 +9047,5 @@
 //{"coords": [], "date": "2026-01-28"} // Siebenfachunfall verwickelt, geklaut
 {"coords": [8.7667, 50.1], "date": "2026-01-28"}, // Bar Offenbach, Einbruch
 {"coords": [10.7865, 52.4226], "date": "2026-01-28"}, // Zeugen Wolfsburg, Einbruch
+//{"coords": [], "date": "2026-01-28"} // Bingerbrück Bingen, Raub
+{"coords": [8.0167, 49.6667], "date": "2026-01-28"}, // Falsche Polizeibeamte Kirchheimbolanden, Einbrüche

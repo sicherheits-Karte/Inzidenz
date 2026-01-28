@@ -9029,3 +9029,16 @@
 {"coords": [8.4414, 50.0919], "date": "2026-01-28"}, // Baustelle Hofheim, Dieb
 {"coords": [8.6833, 50.5833], "date": "2026-01-28"}, // Giessen, Einbrecher
 {"coords": [10.135, 51.3783], "date": "2026-01-28"}, // Wert Heilbad Heiligenstadt, Dieb
+{"coords": [8.2146, 53.1434], "date": "2026-01-28"}, // Erpressung Oldenburg, Räuber
+//{"coords": [], "date": "2026-01-28"} // Miesau Grabschmuck entwendet. Wie der Anzeigenerstatter gegenüber der Polizei mitteilte, hatten die Täter unter anderem eine Grabschale entwendet. Insgesamt entstand ein Schaden in Höhe von circa, gestohlen
+{"coords": [8.3708, 52.6078], "date": "2026-01-28"}, // Diepholz, Raub
+{"coords": [6.85, 49.3], "date": "2026-01-28"}, // Bad Schwalbach, Einbrecher
+{"coords": [7.6667, 51.5833], "date": "2026-01-28"}, // Kamen, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-01-28"}, // Ludwigshafen, Einbruch
+{"coords": [6.9667, 51.2333], "date": "2026-01-28"}, // Mettmann, eingebrochen
+{"coords": [9.7167, 53.7], "date": "2026-01-28"}, // Zeugen Tornesch, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-28"}, // Komplexe Ermittlungen Gelsenkirchen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-01-28"}, // Ludwigshafen, Dieb
+{"coords": [8.4353, 49.4811], "date": "2026-01-28"}, // Ludwigshafen, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-01-28"}, // Zeugen Freiburg, Einbruch
+{"coords": [7.0, 50.7333], "date": "2026-01-28"}, // Tätern Alfter, Raub

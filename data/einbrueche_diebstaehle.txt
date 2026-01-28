@@ -8969,3 +8969,7 @@
 {"coords": [8.6944, 53.8619], "date": "2026-01-28"}, // Kellereinbrüche Cuxhaven, Einbrüche
 {"coords": [8.8667, 51.9333], "date": "2026-01-28"}, // Lippe, Einbrüche
 {"coords": [8.8667, 51.9333], "date": "2026-01-28"}, // Lippe, Einbruch
+//{"coords": [], "date": "2026-01-28"} // Ramstadt, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-01-28"}, // Park Iserlohn, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-01-28"}, // Erfurter Altstadt Erfurt, Einbruch
+{"coords": [7.6667, 51.5833], "date": "2026-01-28"}, // Kamen, Einbruch

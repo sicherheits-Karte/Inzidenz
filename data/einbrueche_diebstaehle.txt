@@ -8993,3 +8993,14 @@
 //{"coords": [], "date": "2026-01-28"} // Auto gestohlen mehr, gestohlen
 {"coords": [7.4333, 51.35], "date": "2026-01-28"}, // Haspe, Diebstahl
 //{"coords": [], "date": "2026-01-28"} // Oberschelden, entwendet
+{"coords": [8.8403, 47.7592], "date": "2026-01-28"}, // Singen, Diebstahl
+{"coords": [8.35, 51.6667], "date": "2026-01-28"}, // Parfümdieb Lippstadt, Dieb
+//{"coords": [], "date": "2026-01-28"} // Kreis, Einbruch
+{"coords": [10.7333, 50.65], "date": "2026-01-28"}, // Mehlis, geklaut
+{"coords": [8.7167, 50.9], "date": "2026-01-28"}, // Geldabhebung Wetter, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-01-28"}, // Kreis Offenbach, Dieb
+{"coords": [8.2869, 52.7303], "date": "2026-01-28"}, // Vechta, Einbruch
+{"coords": [7.2667, 49.35], "date": "2026-01-28"}, // Bexbach Bexbach, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-01-28"}, // Vechta, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-01-28"}, // Autos Northeim, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-01-28"}, // Wohnung Euskirchen, Raub

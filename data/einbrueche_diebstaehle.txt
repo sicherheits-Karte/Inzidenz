@@ -9049,3 +9049,4 @@
 {"coords": [10.7865, 52.4226], "date": "2026-01-28"}, // Zeugen Wolfsburg, Einbruch
 //{"coords": [], "date": "2026-01-28"} // Bingerbrück Bingen, Raub
 {"coords": [8.0167, 49.6667], "date": "2026-01-28"}, // Falsche Polizeibeamte Kirchheimbolanden, Einbrüche
+{"coords": [7.1861, 49.6583], "date": "2026-01-28"}, // Birkenfeld mehr, Diebstahl

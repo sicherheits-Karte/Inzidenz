@@ -9005,3 +9005,6 @@
 {"coords": [10.0, 51.7064], "date": "2026-01-28"}, // Autos Northeim, Diebstahl
 {"coords": [6.7872, 50.6606], "date": "2026-01-28"}, // Wohnung Euskirchen, Raub
 {"coords": [7.0116, 51.4556], "date": "2026-01-28"}, // Fotofahndung Essen, entwendet
+{"coords": [6.3583, 50.9222], "date": "2026-01-28"}, // Hinweise Jülich, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-01-28"}, // Einfamilienhaus Bielefeld, Einbruch
+{"coords": [6.3667, 51.4833], "date": "2026-01-28"}, // Nieukerk, Diebstahl

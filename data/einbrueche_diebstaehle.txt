@@ -8938,3 +8938,4 @@
 //{"coords": [], "date": "2026-01-28"} // Kein Ort gefunden, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-01-28"}, // Sonstiges Aalen, Einbruch
 {"coords": [12.1833, 54.15], "date": "2026-01-28"}, // Nienhagen, entwendet
+{"coords": [9.0492, 52.2603], "date": "2026-01-28"}, // Bückeburg, entwendet

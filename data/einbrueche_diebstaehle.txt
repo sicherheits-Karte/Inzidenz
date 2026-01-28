@@ -9050,3 +9050,4 @@
 //{"coords": [], "date": "2026-01-28"} // Bingerbrück Bingen, Raub
 {"coords": [8.0167, 49.6667], "date": "2026-01-28"}, // Falsche Polizeibeamte Kirchheimbolanden, Einbrüche
 {"coords": [7.1861, 49.6583], "date": "2026-01-28"}, // Birkenfeld mehr, Diebstahl
+{"coords": [8.4333, 49.4333], "date": "2026-01-28"}, // Gartenstadt, Raub

@@ -9104,3 +9104,16 @@
 {"coords": [8.4661, 49.4878], "date": "2026-01-29"}, // Zeugenaufruf Mannheim, entwendet
 {"coords": [9.732, 52.3759], "date": "2026-01-29"}, // Hannover, Raub
 //{"coords": [], "date": "2026-01-29"} // Zeugen Inden, Einbrüche
+//{"coords": [], "date": "2026-01-29"} // Kraftwagen mehr, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2026-01-29"}, // Zeugensuche Moers, eingebrochen
+{"coords": [9.6333, 51.65], "date": "2026-01-29"}, // Schneeschiebern Uslar, Diebstahl
+//{"coords": [], "date": "2026-01-29"} // Litzelstetten, stahl
+{"coords": [7.2, 51.6167], "date": "2026-01-29"}, // Dieb Recklinghausen, Dieb
+//{"coords": [], "date": "2026-01-29"} // Kreis, entwendet
+//{"coords": [], "date": "2026-01-29"} // Kein Ort gefunden, entwendet
+{"coords": [8.2146, 53.1434], "date": "2026-01-29"}, // Wiefelstede Oldenburg, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-01-29"}, // Mitte, stahl
+{"coords": [8.5331, 52.021], "date": "2026-01-29"}, // Haft Bielefeld, Dieb
+{"coords": [7.0083, 52.075], "date": "2026-01-29"}, // Ahaus, Dieb
+{"coords": [7.0083, 52.075], "date": "2026-01-29"}, // Gebäude Ahaus, Einbruch
+{"coords": [7.8153, 48.5708], "date": "2026-01-29"}, // Ladendieb Kehl, Diebstahl

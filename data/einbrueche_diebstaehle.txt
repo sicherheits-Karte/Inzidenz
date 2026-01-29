@@ -9157,3 +9157,9 @@
 {"coords": [7.2, 51.6167], "date": "2026-01-29"}, // Hinweise Recklinghausen, Einbruch
 {"coords": [8.2711, 50.0], "date": "2026-01-29"}, // Innenstadt Mainz, Diebstähle
 //{"coords": [], "date": "2026-01-29"} // Trifels, Raub
+{"coords": [8.5806, 50.7681], "date": "2026-01-29"}, // Gladenbach Giessen, Dieb
+{"coords": [10.8978, 48.3705], "date": "2026-01-29"}, // Körperverletzung Augsburg, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-01-29"}, // Unfälle Aalen, Diebstahl
+//{"coords": [], "date": "2026-01-29"} // der Zeit vom, entwendet
+{"coords": [9.9916, 48.3984], "date": "2026-01-29"}, // Polizeipräsidium Schwaben Südwest Ulm, entwendet
+{"coords": [8.6944, 49.4092], "date": "2026-01-29"}, // Heidelberg, entwendet

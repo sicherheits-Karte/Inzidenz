@@ -9170,3 +9170,4 @@
 {"coords": [10.7753, 49.7544], "date": "2026-01-29"}, // Mühlhausen, Dieb
 {"coords": [10.0936, 48.8372], "date": "2026-01-29"}, // Essingen Aalen, entwendet
 //{"coords": [], "date": "2026-01-29"} // Versuchter Wohnungseinbruch Niederahr, Einbruch
+{"coords": [6.4333, 50.2], "date": "2026-01-29"}, // Prüm, Einbruch

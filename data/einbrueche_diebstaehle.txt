@@ -9057,3 +9057,8 @@
 {"coords": [12.4333, 50.985], "date": "2026-01-29"}, // Altenburg, Einbrüche
 //{"coords": [], "date": "2026-01-29"} // Kues, Einbruch
 {"coords": [8.8333, 50.2], "date": "2026-01-29"}, // Ladendiebe Schöneck, Dieb
+//{"coords": [], "date": "2026-01-29"} // Bergisch Gladbach, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-01-29"}, // Räuberischer Diebstahl Lippstadt, Diebstahl
+{"coords": [8.4833, 52.1333], "date": "2026-01-29"}, // Spenge, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-01-29"}, // Herford, Dieb
+//{"coords": [], "date": "2026-01-29"} // Weimarer Land, Einbruch

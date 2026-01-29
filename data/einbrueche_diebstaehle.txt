@@ -9082,3 +9082,15 @@
 {"coords": [8.5847, 53.5469], "date": "2026-01-29"}, // Bremerhaven, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-01-29"}, // Bielefeld, entwendet
 {"coords": [11.0299, 50.9848], "date": "2026-01-29"}, // Kirche Erfurt, Einbruch
+{"coords": [7.3778, 51.0194], "date": "2026-01-29"}, // Lindlar, Einbruch
+//{"coords": [], "date": "2026-01-29"} // Wohnhaus, Einbruch
+{"coords": [9.35, 53.2417], "date": "2026-01-29"}, // Elsdorf, entwendet
+{"coords": [7.1856, 51.3994], "date": "2026-01-29"}, // Innenstadtbereich Hattingen, entwendet
+{"coords": [7.7689, 49.4447], "date": "2026-01-29"}, // Kaiserslautern, eingebrochen
+{"coords": [6.9769, 50.8236], "date": "2026-01-29"}, // Zeugensuche Wesseling, entwendet
+{"coords": [6.6833, 51.2], "date": "2026-01-29"}, // Neuss, Raub
+{"coords": [10.0528, 51.1889], "date": "2026-01-29"}, // Eschwege, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-01-29"}, // Wohngebäude Fulda, Einbruch
+//{"coords": [], "date": "2026-01-29"} // Zigarettenautomaten Bleialf, Diebstahl
+{"coords": [7.5314, 52.5536], "date": "2026-01-29"}, // Lengerich, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-01-29"}, // Täterbeschreibung Ludwigshafen, Raub

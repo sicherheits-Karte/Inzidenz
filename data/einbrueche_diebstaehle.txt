@@ -9070,3 +9070,15 @@
 {"coords": [8.5833, 49.8667], "date": "2026-01-29"}, // Griesheim, Einbrecher
 {"coords": [7.2839, 50.9328], "date": "2026-01-29"}, // Overath, Diebstahl
 {"coords": [7.6889, 51.5347], "date": "2026-01-29"}, // Unna, Einbruch
+{"coords": [10.4833, 50.6167], "date": "2026-01-29"}, // Kühndorf, Einbruch
+{"coords": [8.2036, 48.8572], "date": "2026-01-29"}, // Rastatt, Einbruch
+{"coords": [9.8833, 53.3333], "date": "2026-01-29"}, // Führerschein Buchholz, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-01-29"}, // Versuchter Autoaufbruch Kaiserslautern, aufbruch
+{"coords": [10.6944, 50.6111], "date": "2026-01-29"}, // Werkstattbereich Suhl, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-01-29"}, // Geschäft Kaiserslautern, Einbruch
+{"coords": [10.7292, 50.4258], "date": "2026-01-29"}, // Hildburghausen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-01-29"}, // Gymnasium Bielefeld, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-01-29"}, // Untersuchungshaft Bonn, eingebrochen
+{"coords": [8.5847, 53.5469], "date": "2026-01-29"}, // Bremerhaven, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-01-29"}, // Bielefeld, entwendet
+{"coords": [11.0299, 50.9848], "date": "2026-01-29"}, // Kirche Erfurt, Einbruch

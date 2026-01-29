@@ -9146,3 +9146,14 @@
 {"coords": [9.4108, 53.1111], "date": "2026-01-29"}, // Bäckerei Hersfeld Rotenburg, Einbruch
 //{"coords": [], "date": "2026-01-29"} // Bargeld Bad Langensalza, Einbrüche
 {"coords": [6.9603, 50.9375], "date": "2026-01-29"}, // Betrug Köln, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-01-29"}, // Giessen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-01-29"}, // Ulm, Einbrecher
+//{"coords": [], "date": "2026-01-29"} // Dieseldiebstahl Arbeitsmaschine Straßenmeisterei Büdlich, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-01-29"}, // Bad Schwalbach, Einbrecher
+{"coords": [8.6822, 50.1106], "date": "2026-01-29"}, // Frankfurt, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-01-29"}, // Limburg, Raub
+//{"coords": [], "date": "2026-01-29"} // Haft, Einbrecher
+{"coords": [8.5847, 53.5469], "date": "2026-01-29"}, // Schockanrufen Bremerhaven, Raub
+{"coords": [7.2, 51.6167], "date": "2026-01-29"}, // Hinweise Recklinghausen, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-01-29"}, // Innenstadt Mainz, Diebstähle
+//{"coords": [], "date": "2026-01-29"} // Trifels, Raub

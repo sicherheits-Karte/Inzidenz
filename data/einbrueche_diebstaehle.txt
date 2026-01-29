@@ -9063,3 +9063,10 @@
 {"coords": [8.6833, 52.15], "date": "2026-01-29"}, // Herford, Dieb
 //{"coords": [], "date": "2026-01-29"} // Weimarer Land, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-29"}, // Diebstähle Aalen, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-01-29"}, // Folge Mannheim, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-01-29"}, // Mehrfamilienhaus Coesfeld, Einbrecher
+//{"coords": [], "date": "2026-01-29"} // Pfalzdorf, Einbruch
+//{"coords": [], "date": "2026-01-29"} // Zeugen Uedem, entwendet
+{"coords": [8.5833, 49.8667], "date": "2026-01-29"}, // Griesheim, Einbrecher
+{"coords": [7.2839, 50.9328], "date": "2026-01-29"}, // Overath, Diebstahl
+{"coords": [7.6889, 51.5347], "date": "2026-01-29"}, // Unna, Einbruch

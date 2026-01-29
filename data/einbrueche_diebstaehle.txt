@@ -9128,3 +9128,11 @@
 {"coords": [8.6139, 49.7236], "date": "2026-01-29"}, // Spielplatz Zwingenberg, Einbruch
 //{"coords": [], "date": "2026-01-29"} // Kein Ort gefunden, Dieb
 //{"coords": [], "date": "2026-01-29"} // Dahlbruch, Einbrecher
+{"coords": [8.8667, 51.9333], "date": "2026-01-29"}, // Lippe, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2026-01-29"}, // Goslar, Diebstahl
+//{"coords": [], "date": "2026-01-29"} // Wassenberg, entwendet
+//{"coords": [], "date": "2026-01-29"} // Schafhausen, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-01-29"}, // Ludwigshafen, Einbrüche
+//{"coords": [], "date": "2026-01-29"} // Fahrzeugbereich mehr, Diebstähle
+//{"coords": [], "date": "2026-01-29"} // Husen, Raub
+//{"coords": [], "date": "2026-01-29"} // Winnekendonk, Diebstahl

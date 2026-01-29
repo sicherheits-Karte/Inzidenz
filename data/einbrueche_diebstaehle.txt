@@ -9117,3 +9117,14 @@
 {"coords": [7.0083, 52.075], "date": "2026-01-29"}, // Ahaus, Dieb
 {"coords": [7.0083, 52.075], "date": "2026-01-29"}, // Gebäude Ahaus, Einbruch
 {"coords": [7.8153, 48.5708], "date": "2026-01-29"}, // Ladendieb Kehl, Diebstahl
+{"coords": [7.4333, 52.2833], "date": "2026-01-29"}, // Haft Rheine, Diebstähle
+//{"coords": [], "date": "2026-01-29"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-01-29"}, // Vollstreckungsbeamte Frankfurt, Diebstahl
+//{"coords": [], "date": "2026-01-29"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-01-29"}, // Steuer Heilbronn, Einbruch
+{"coords": [7.2833, 50.7833], "date": "2026-01-29"}, // Hennef, Diebstahl
+//{"coords": [], "date": "2026-01-29"} // Lehre, Einbruch
+//{"coords": [], "date": "2026-01-29"} // Einfamilienhaus BAD DÜRKHEIM, Einbruch
+{"coords": [8.6139, 49.7236], "date": "2026-01-29"}, // Spielplatz Zwingenberg, Einbruch
+//{"coords": [], "date": "2026-01-29"} // Kein Ort gefunden, Dieb
+//{"coords": [], "date": "2026-01-29"} // Dahlbruch, Einbrecher

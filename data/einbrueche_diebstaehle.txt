@@ -9136,3 +9136,13 @@
 //{"coords": [], "date": "2026-01-29"} // Fahrzeugbereich mehr, Diebstähle
 //{"coords": [], "date": "2026-01-29"} // Husen, Raub
 //{"coords": [], "date": "2026-01-29"} // Winnekendonk, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-01-29"}, // Zeugen Münster, eingebrochen
+{"coords": [7.7689, 49.4447], "date": "2026-01-29"}, // Kaiserslautern, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-01-29"}, // Haftrichter Köln, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-01-29"}, // Kaiserslautern, Dieb
+{"coords": [6.9603, 50.9375], "date": "2026-01-29"}, // Zusammenhänge Köln, Raub
+{"coords": [7.82, 47.99], "date": "2026-01-29"}, // Zeugen Freiburg, Einbruch
+{"coords": [9.5694, 54.5153], "date": "2026-01-29"}, // Einbrechers Schleswig, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-01-29"}, // Bäckerei Hersfeld Rotenburg, Einbruch
+//{"coords": [], "date": "2026-01-29"} // Bargeld Bad Langensalza, Einbrüche
+{"coords": [6.9603, 50.9375], "date": "2026-01-29"}, // Betrug Köln, Diebstahl

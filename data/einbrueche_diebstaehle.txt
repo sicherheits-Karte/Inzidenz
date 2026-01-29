@@ -9053,3 +9053,7 @@
 {"coords": [8.4333, 49.4333], "date": "2026-01-28"}, // Gartenstadt, Raub
 //{"coords": [], "date": "2026-01-29"} // Tageswohnungseinbruch Bergweiler, Einbruch
 {"coords": [8.6667, 49.9667], "date": "2026-01-29"}, // Spielkonsole Egelsbach, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-01-29"}, // Mitte, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-01-29"}, // Altenburg, Einbrüche
+//{"coords": [], "date": "2026-01-29"} // Kues, Einbruch
+{"coords": [8.8333, 50.2], "date": "2026-01-29"}, // Ladendiebe Schöneck, Dieb

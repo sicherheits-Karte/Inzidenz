@@ -9062,3 +9062,4 @@
 {"coords": [8.4833, 52.1333], "date": "2026-01-29"}, // Spenge, Einbruch
 {"coords": [8.6833, 52.15], "date": "2026-01-29"}, // Herford, Dieb
 //{"coords": [], "date": "2026-01-29"} // Weimarer Land, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-29"}, // Diebstähle Aalen, Diebstahl

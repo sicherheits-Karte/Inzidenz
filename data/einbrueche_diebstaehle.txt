@@ -9277,3 +9277,11 @@
 {"coords": [7.3333, 51.4333], "date": "2026-01-30"}, // Witten, Einbruch
 //{"coords": [], "date": "2026-01-30"} // Kerken, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2026-01-30"}, // Hannover, Einbruch
+//{"coords": [], "date": "2026-01-30"} // unbewohntem Wohnhaus, eingebrochen
+{"coords": [8.8667, 51.9333], "date": "2026-01-30"}, // Lippe, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-01-30"}, // Ulm, gestohlen
+{"coords": [10.4333, 51.3667], "date": "2026-01-30"}, // Niederorschel, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-01-30"}, // Recklinghausen, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-01-30"}, // Mitte, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2026-01-30"}, // Heidekreis, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Stammheim, Raub

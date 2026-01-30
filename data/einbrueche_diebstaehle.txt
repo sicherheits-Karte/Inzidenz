@@ -9289,3 +9289,5 @@
 {"coords": [9.1333, 48.8], "date": "2026-01-30"}, // Feuerbach, Dieb
 {"coords": [8.4043, 49.014], "date": "2026-01-30"}, // Daxlanden Karlsruhe, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-01-30"}, // Einsatz Freiburg, Raub
+{"coords": [8.4661, 49.4878], "date": "2026-01-30"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-01-30"}, // Essingen Aalen, Raub

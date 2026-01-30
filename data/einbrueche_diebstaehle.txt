@@ -9204,3 +9204,20 @@
 {"coords": [6.2667, 50.9833], "date": "2026-01-30"}, // Zeugen Linnich, Einbruch
 //{"coords": [], "date": "2026-01-30"} // Merzenich, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-01-30"}, // Ulm, Einbrecher
+{"coords": [6.75, 51.5833], "date": "2026-01-30"}, // Zeugen Dinslaken, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Schalksmühle, gestohlen
+{"coords": [7.6333, 51.2167], "date": "2026-01-30"}, // Lüdenscheid, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-01-30"}, // Verkehrskontrolle Heilbronn, Einbrüche
+{"coords": [7.7, 51.375], "date": "2026-01-30"}, // Kofferraum Iserlohn, Diebstahl
+{"coords": [7.75, 51.3833], "date": "2026-01-30"}, // Hemer, Dieb
+{"coords": [7.4981, 51.1861], "date": "2026-01-30"}, // Kabeldiebstahl Halver, Diebstahl
+{"coords": [9.3833, 50.6333], "date": "2026-01-30"}, // Vogelsbergkreis, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-01-30"}, // Zeugen Osnabrück, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-01-30"}, // Neckarweihingen Ludwigsburg, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-01-30"}, // Wohnungseinbruch Mainz, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Kreis, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Bodenheimer Weingüter Bodenheim, Einbrüche
+{"coords": [9.1167, 50.85], "date": "2026-01-30"}, // Neustadt, Diebstähle
+{"coords": [8.7075, 49.0369], "date": "2026-01-30"}, // Bretten Karlsruhe, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-01-30"}, // Zeugen Bochum, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-01-30"}, // Fulda, Einbrüche

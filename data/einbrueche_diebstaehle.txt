@@ -9175,3 +9175,9 @@
 //{"coords": [], "date": "2026-01-30"} // Lindenstraße Werlte, Einbruch
 {"coords": [6.8833, 52.5], "date": "2026-01-30"}, // Uelsen, Diebstahl
 {"coords": [7.2333, 52.3167], "date": "2026-01-30"}, // Euregiostraße Schüttorf, Diebstahl
+//{"coords": [], "date": "2026-01-30"} // Wiehagen, Einbruch
+{"coords": [10.235, 52.7347], "date": "2026-01-30"}, // Eschede in der Rebberlaher Straße zu einem versuchten PKW-Diebstahl in einer Garage. Der unbekannte Täter gelangte zunächst durch eine Seitentür in die Garage und konnte den dort abgestellten BMW öffnen. Bei dem anschließenden Versuch das Garagentor mit Gewalt zu, Diebstahl
+{"coords": [7.75, 51.6333], "date": "2026-01-30"}, // Herringen, Einbruch
+{"coords": [8.1667, 51.6833], "date": "2026-01-30"}, // Zeugen Lippetal, Einbruch
+{"coords": [8.6925, 52.1986], "date": "2026-01-30"}, // Löhne, entwendet
+{"coords": [12.1997, 50.6544], "date": "2026-01-30"}, // Greiz, Diebstahl

@@ -9191,3 +9191,8 @@
 {"coords": [7.9833, 51.95], "date": "2026-01-30"}, // Einfamilienhaus Warendorf, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-01-30"}, // Doppelhaushälfte Warendorf, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-01-30"}, // Aalen, Einbruch
+{"coords": [6.9889, 51.8944], "date": "2026-01-30"}, // Wohnhaus Velen, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-01-30"}, // Uhr Düsseldorf, Raub
+//{"coords": [], "date": "2026-01-30"} // oder mehrere unbekannte Personen beabsichtigten Fallrohre von einem Wohnhaus in der Straße, Diebstahl
+//{"coords": [], "date": "2026-01-30"} // Diebstählen Enzkreis, Diebstähle
+{"coords": [7.8508, 51.0281], "date": "2026-01-30"}, // Olpe, eingebrochen

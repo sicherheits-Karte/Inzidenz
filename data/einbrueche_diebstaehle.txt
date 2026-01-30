@@ -9256,3 +9256,12 @@
 {"coords": [7.1, 51.5167], "date": "2026-01-30"}, // Zeugen Gelsenkirchen, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-01-30"}, // Erfurt, Dieb
 {"coords": [11.1167, 51.1667], "date": "2026-01-30"}, // Landkreis Sömmerda Landkreis Sömmerda, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-01-30"}, // Keller Hofheim, Einbruch
+{"coords": [6.7739, 50.8142], "date": "2026-01-30"}, // Zeugensuche Erftstadt, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-01-30"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [9.1, 48.8], "date": "2026-01-30"}, // Weilimdorf, eingebrochen
+{"coords": [8.0722, 49.5608], "date": "2026-01-30"}, // Tageseinnahmen Eisenberg, Diebstahl
+//{"coords": [], "date": "2026-01-30"} // Dieben Wüstheuterode, Diebstahl
+//{"coords": [], "date": "2026-01-30"} // Kierspe, gestohlen
+{"coords": [10.3243, 50.9746], "date": "2026-01-30"}, // der Wintersteiner Straße gewaltsam geöffnet. Aus dem Automaten wurden Zigarettenschachteln und Bargeld in unbekannter Menge entwendet. Die Polizei Eisenach sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben. Hinweise werden unter der Telefonnummer, entwendet
+//{"coords": [], "date": "2026-01-30"} // Höhe, Diebstahl

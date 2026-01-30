@@ -9171,3 +9171,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-29"}, // Essingen Aalen, entwendet
 //{"coords": [], "date": "2026-01-29"} // Versuchter Wohnungseinbruch Niederahr, Einbruch
 {"coords": [6.4333, 50.2], "date": "2026-01-29"}, // Prüm, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-01-30"}, // Mitte, Einbruch

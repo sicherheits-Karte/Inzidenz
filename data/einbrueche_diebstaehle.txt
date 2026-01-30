@@ -9285,3 +9285,5 @@
 {"coords": [8.5833, 53.55], "date": "2026-01-30"}, // Mitte, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2026-01-30"}, // Heidekreis, Einbruch
 //{"coords": [], "date": "2026-01-30"} // Stammheim, Raub
+{"coords": [8.6944, 49.4092], "date": "2026-01-30"}, // Zeugenaufruf Heidelberg, entwendet
+{"coords": [9.1333, 48.8], "date": "2026-01-30"}, // Feuerbach, Dieb

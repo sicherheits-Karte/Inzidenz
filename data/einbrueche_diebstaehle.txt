@@ -9181,3 +9181,13 @@
 {"coords": [8.1667, 51.6833], "date": "2026-01-30"}, // Zeugen Lippetal, Einbruch
 {"coords": [8.6925, 52.1986], "date": "2026-01-30"}, // Löhne, entwendet
 {"coords": [12.1997, 50.6544], "date": "2026-01-30"}, // Greiz, Diebstahl
+//{"coords": [], "date": "2026-01-30"} // Kein Ort gefunden, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-01-30"}, // Doppelhaushälfte Coesfeld, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-01-30"}, // Seniorin Recklinghausen, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-01-30"}, // Darmstadt, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-01-30"}, // Einbruch Coesfeld, Einbruch
+{"coords": [7.45, 51.4], "date": "2026-01-30"}, // Täterhinweise Herdecke, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Fahrzeug rückwärts zum Eingangsbereich der Tankstelle in der Mühl-straße fährt. Zwei offensichtlich untalentierte Täter machten sich an der Eingangstür zu schaffen und verließen die, Einbrecher
+{"coords": [7.9833, 51.95], "date": "2026-01-30"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-01-30"}, // Doppelhaushälfte Warendorf, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-01-30"}, // Aalen, Einbruch

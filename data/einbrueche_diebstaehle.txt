@@ -9172,3 +9172,6 @@
 //{"coords": [], "date": "2026-01-29"} // Versuchter Wohnungseinbruch Niederahr, Einbruch
 {"coords": [6.4333, 50.2], "date": "2026-01-29"}, // Prüm, Einbruch
 {"coords": [8.5833, 53.55], "date": "2026-01-30"}, // Mitte, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Lindenstraße Werlte, Einbruch
+{"coords": [6.8833, 52.5], "date": "2026-01-30"}, // Uelsen, Diebstahl
+{"coords": [7.2333, 52.3167], "date": "2026-01-30"}, // Euregiostraße Schüttorf, Diebstahl

@@ -9287,3 +9287,5 @@
 //{"coords": [], "date": "2026-01-30"} // Stammheim, Raub
 {"coords": [8.6944, 49.4092], "date": "2026-01-30"}, // Zeugenaufruf Heidelberg, entwendet
 {"coords": [9.1333, 48.8], "date": "2026-01-30"}, // Feuerbach, Dieb
+{"coords": [8.4043, 49.014], "date": "2026-01-30"}, // Daxlanden Karlsruhe, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-01-30"}, // Einsatz Freiburg, Raub

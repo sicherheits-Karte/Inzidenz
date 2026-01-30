@@ -9196,3 +9196,7 @@
 //{"coords": [], "date": "2026-01-30"} // oder mehrere unbekannte Personen beabsichtigten Fallrohre von einem Wohnhaus in der Straße, Diebstahl
 //{"coords": [], "date": "2026-01-30"} // Diebstählen Enzkreis, Diebstähle
 {"coords": [7.8508, 51.0281], "date": "2026-01-30"}, // Olpe, eingebrochen
+//{"coords": [], "date": "2026-01-30"} // Kreis, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-01-30"}, // Ulm, Einbruch
+{"coords": [7.8667, 51.2167], "date": "2026-01-30"}, // Plettenberg, Diebstahl
+{"coords": [7.1833, 50.9], "date": "2026-01-30"}, // Rösrath, Diebstähle

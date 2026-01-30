@@ -9265,3 +9265,15 @@
 //{"coords": [], "date": "2026-01-30"} // Kierspe, gestohlen
 {"coords": [10.3243, 50.9746], "date": "2026-01-30"}, // der Wintersteiner Straße gewaltsam geöffnet. Aus dem Automaten wurden Zigarettenschachteln und Bargeld in unbekannter Menge entwendet. Die Polizei Eisenach sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben. Hinweise werden unter der Telefonnummer, entwendet
 //{"coords": [], "date": "2026-01-30"} // Höhe, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-01-30"}, // Raubüberfall Freiburg, Raub
+{"coords": [7.2, 51.6167], "date": "2026-01-30"}, // Recklinghausen, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-01-30"}, // Zeugen Darmstadt, Einbrecher
+{"coords": [6.9769, 50.8236], "date": "2026-01-30"}, // Wesseling, eingebrochen
+{"coords": [6.4667, 51.8333], "date": "2026-01-30"}, // Einfamilienhaus Isselburg, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-01-30"}, // Wohnhaus Bocholt, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-01-30"}, // Bocholt, Dieb
+{"coords": [7.8153, 48.5708], "date": "2026-01-30"}, // Kehl, aufbrüche
+{"coords": [6.7735, 51.2277], "date": "2026-01-30"}, // Düsseldorf, Diebstahl
+{"coords": [7.3333, 51.4333], "date": "2026-01-30"}, // Witten, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Kerken, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2026-01-30"}, // Hannover, Einbruch

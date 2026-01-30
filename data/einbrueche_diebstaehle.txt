@@ -9221,3 +9221,14 @@
 {"coords": [8.7075, 49.0369], "date": "2026-01-30"}, // Bretten Karlsruhe, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-01-30"}, // Zeugen Bochum, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2026-01-30"}, // Fulda, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2026-01-30"}, // Verkehrsunfälle Reutlingen, Einbrüche
+{"coords": [6.8761, 50.8778], "date": "2026-01-30"}, // Hürth, entwendet
+{"coords": [7.1508, 51.2562], "date": "2026-01-30"}, // Barmen Wuppertal, Raub
+//{"coords": [], "date": "2026-01-30"} // Kein Ort gefunden, Räuber
+{"coords": [9.9937, 53.5511], "date": "2026-01-30"}, // Wilstorf Hamburg, Raub
+{"coords": [7.2061, 53.3669], "date": "2026-01-30"}, // Emden, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Hallenberg, Einbruch
+{"coords": [8.5786, 49.5383], "date": "2026-01-30"}, // Viernheim, Dieb
+//{"coords": [], "date": "2026-01-30"} // Zeugen Schermbeck, Einbrecher
+{"coords": [9.8372, 54.4714], "date": "2026-01-30"}, // Eckernförde, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Süd, Raub

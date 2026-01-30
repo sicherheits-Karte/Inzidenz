@@ -9232,3 +9232,11 @@
 //{"coords": [], "date": "2026-01-30"} // Zeugen Schermbeck, Einbrecher
 {"coords": [9.8372, 54.4714], "date": "2026-01-30"}, // Eckernförde, Einbruch
 //{"coords": [], "date": "2026-01-30"} // Süd, Raub
+{"coords": [8.4661, 49.4878], "date": "2026-01-30"}, // Zeugenaufruf Mannheim, aufbruch
+{"coords": [8.7667, 50.1], "date": "2026-01-30"}, // Kreis Offenbach, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-01-30"}, // Speyer, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-01-30"}, // Ludwigshafen, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Hinweise Bad Neuenahr, Einbruch
+{"coords": [7.95, 50.9333], "date": "2026-01-30"}, // Kreuztal, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Weidenau, Einbruch
+//{"coords": [], "date": "2026-01-30"} // Beverstedt, Diebstahl

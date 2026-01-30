@@ -9250,3 +9250,9 @@
 //{"coords": [], "date": "2026-01-30"} // Süchteln, entwendet
 {"coords": [7.2162, 51.4818], "date": "2026-01-30"}, // Tätern Bochum, Einbruch
 {"coords": [10.0528, 51.1889], "date": "2026-01-30"}, // Eschwege, gestohlen
+{"coords": [7.5336, 52.1728], "date": "2026-01-30"}, // Juweliergeschäft Emsdetten, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-01-30"}, // Frankfurt, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-01-30"}, // Diebstahl Aalen, aufbruch
+{"coords": [7.1, 51.5167], "date": "2026-01-30"}, // Zeugen Gelsenkirchen, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-01-30"}, // Erfurt, Dieb
+{"coords": [11.1167, 51.1667], "date": "2026-01-30"}, // Landkreis Sömmerda Landkreis Sömmerda, Einbruch

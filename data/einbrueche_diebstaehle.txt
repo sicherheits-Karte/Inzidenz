@@ -9291,3 +9291,4 @@
 {"coords": [7.82, 47.99], "date": "2026-01-30"}, // Einsatz Freiburg, Raub
 {"coords": [8.4661, 49.4878], "date": "2026-01-30"}, // Zeugenaufruf Mannheim, entwendet
 {"coords": [10.0936, 48.8372], "date": "2026-01-30"}, // Essingen Aalen, Raub
+{"coords": [9.95, 52.15], "date": "2026-01-30"}, // Regenfallrohren Hildesheim, Diebstahl

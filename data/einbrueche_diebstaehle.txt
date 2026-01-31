@@ -9328,3 +9328,4 @@
 //{"coords": [], "date": "2026-01-31"} // Wolfstein, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-01-31"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-01-31"}, // Haarpflege Erfurt, Einbrecher
+{"coords": [7.4667, 49.8167], "date": "2026-01-31"}, // Kirn, Einbruch

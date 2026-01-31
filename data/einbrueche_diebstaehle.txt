@@ -9330,3 +9330,4 @@
 {"coords": [11.0299, 50.9848], "date": "2026-01-31"}, // Haarpflege Erfurt, Einbrecher
 {"coords": [7.4667, 49.8167], "date": "2026-01-31"}, // Kirn, Einbruch
 {"coords": [11.4012, 53.6355], "date": "2026-01-31"}, // Schweriner Marienplatz Schwerin, klau
+//{"coords": [], "date": "2026-01-31"} // Melsbach, Einbruch

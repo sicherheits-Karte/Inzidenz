@@ -9306,3 +9306,9 @@
 {"coords": [7.3392, 51.3197], "date": "2026-01-31"}, // Einfamilienhaus Gevelsberg, Einbruch
 {"coords": [9.1753, 47.6633], "date": "2026-01-31"}, // Konstanz, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-01-31"}, // Freiburg, Diebstahl
+{"coords": [7.6333, 51.6667], "date": "2026-01-31"}, // Schombergerweg Werne, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2026-01-31"}, // Bergkamen, entwendet
+{"coords": [7.5658, 51.4458], "date": "2026-01-31"}, // Schwerte, Einbruch
+//{"coords": [], "date": "2026-01-31"} // Hauptstraße Holzwickede, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2026-01-31"}, // Unna, Dieb
+{"coords": [10.9147, 50.6856], "date": "2026-01-31"}, // Ilmenau, entwendet

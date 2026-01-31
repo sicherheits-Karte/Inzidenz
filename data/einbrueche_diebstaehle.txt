@@ -9304,3 +9304,4 @@
 {"coords": [7.3625, 51.2981], "date": "2026-01-31"}, // Grundschule Ennepetal, Einbruch
 {"coords": [7.45, 51.4], "date": "2026-01-31"}, // Einfamilienhaus Herdecke, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2026-01-31"}, // Einfamilienhaus Gevelsberg, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-01-31"}, // Konstanz, Einbruch

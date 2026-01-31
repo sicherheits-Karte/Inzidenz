@@ -9324,3 +9324,4 @@
 {"coords": [8.4353, 49.4811], "date": "2026-01-31"}, // Einkaufszentrum Ludwigshafen, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-01-31"}, // Erpressung Reutlingen, Räuber
 {"coords": [10.7753, 49.7544], "date": "2026-01-31"}, // Mühlhausen, Diebstahl
+//{"coords": [], "date": "2026-01-31"} // Weilerswist, Diebstahl

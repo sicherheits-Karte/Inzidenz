@@ -9326,3 +9326,4 @@
 {"coords": [10.7753, 49.7544], "date": "2026-01-31"}, // Mühlhausen, Diebstahl
 //{"coords": [], "date": "2026-01-31"} // Weilerswist, Diebstahl
 //{"coords": [], "date": "2026-01-31"} // Wolfstein, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-01-31"}, // Zeugenaufruf Hildesheim, Diebstahl

@@ -9320,3 +9320,4 @@
 {"coords": [11.5862, 50.9271], "date": "2026-01-31"}, // Jena, Diebstahl
 {"coords": [9.6106, 47.7828], "date": "2026-01-31"}, // Landkreis Ravensburg Ravensburg, entwendet
 {"coords": [7.2061, 53.3669], "date": "2026-01-31"}, // Emden, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-01-31"}, // Delmenhorst, Einbruch

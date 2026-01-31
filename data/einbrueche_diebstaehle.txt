@@ -9293,3 +9293,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-01-30"}, // Essingen Aalen, Raub
 {"coords": [9.95, 52.15], "date": "2026-01-30"}, // Regenfallrohren Hildesheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-01-31"}, // Zeugenaufruf- Hildesheim, Diebstahl
+{"coords": [10.7333, 50.65], "date": "2026-01-31"}, // Mehlis, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2026-01-31"}, // Diebstahl Suhl, Diebstahl
+//{"coords": [], "date": "2026-01-31"} // Verkaufshütte Groß Berßen, Einbruch
+//{"coords": [], "date": "2026-01-31"} // Blumengeschäft Werlte, Einbruch
+//{"coords": [], "date": "2026-01-31"} // Wohnwagens Werlte, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-01-31"}, // Zeugen Haselünne, Räuber

@@ -9312,3 +9312,8 @@
 //{"coords": [], "date": "2026-01-31"} // Hauptstraße Holzwickede, Einbruch
 {"coords": [7.6889, 51.5347], "date": "2026-01-31"}, // Unna, Dieb
 {"coords": [10.9147, 50.6856], "date": "2026-01-31"}, // Ilmenau, entwendet
+{"coords": [8.35, 49.5333], "date": "2026-01-31"}, // Unfallflucht Frankenthal, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-01-31"}, // Wohnungseinbruch Speyer, Einbruch
+//{"coords": [], "date": "2026-01-31"} // Dudenhofen, Einbrüche
+{"coords": [7.6667, 51.5833], "date": "2026-01-31"}, // Bonhoefferstraße Kamen, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2026-01-31"}, // Hebbelstraße Unna, Einbruch

@@ -9369,3 +9369,9 @@
 {"coords": [7.0333, 52.2167], "date": "2026-02-01"}, // Gronau, entwendet
 {"coords": [6.6153, 51.8367], "date": "2026-02-01"}, // Bocholt, Dieb
 //{"coords": [], "date": "2026-02-01"} // Polizeidirektion Hochtaunus, Einbrüche
+{"coords": [11.3592, 50.6486], "date": "2026-02-01"}, // Saalfeld, entwendet
+{"coords": [6.8333, 52.0333], "date": "2026-02-01"}, // Spielhalle Vreden, Einbruch
+{"coords": [7.0, 51.8333], "date": "2026-02-01"}, // Einfamilienhaus Reken, Einbruch
+//{"coords": [], "date": "2026-02-01"} // Tauber, Einbrüche
+{"coords": [11.1556, 49.5333], "date": "2026-02-01"}, // Heroldsberg, Einbrecher
+{"coords": [8.0472, 52.2799], "date": "2026-02-01"}, // Zeugen Osnabrück, Einbruch

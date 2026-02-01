@@ -9336,3 +9336,12 @@
 {"coords": [9.8833, 53.3333], "date": "2026-02-01"}, // Buchholz, Einbrüche
 //{"coords": [], "date": "2026-02-01"} // Mitfahrerparkplatz Niederzissen Niederzissen, aufbrüche
 {"coords": [9.95, 52.15], "date": "2026-02-01"}, // Präventionstipps Hildesheim, entwendet
+{"coords": [8.7917, 51.9917], "date": "2026-02-01"}, // Lage- Ladendiebstahl Lippe, Diebstahl
+{"coords": [6.5667, 51.0], "date": "2026-02-01"}, // Bedburg, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-02-01"}, // Mehrfamilienhaus Lippe, Einbruch
+{"coords": [6.8139, 50.9147], "date": "2026-02-01"}, // Tat Frechen, Dieb
+//{"coords": [], "date": "2026-02-01"} // Mutterstadt, Einbruch
+//{"coords": [], "date": "2026-02-01"} // Hinweise Bad Tennstedt, Diebstahl
+{"coords": [7.4842, 52.6742], "date": "2026-02-01"}, // Zeugen Haselünne, Einbruch
+//{"coords": [], "date": "2026-02-01"} // Zeugen Ringe, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-02-01"}, // Speyer, Einbruch

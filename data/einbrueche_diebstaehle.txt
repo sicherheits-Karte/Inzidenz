@@ -9332,3 +9332,5 @@
 {"coords": [11.4012, 53.6355], "date": "2026-01-31"}, // Schweriner Marienplatz Schwerin, klau
 //{"coords": [], "date": "2026-01-31"} // Melsbach, Einbruch
 //{"coords": [], "date": "2026-02-01"} // bislang unbekannter Täter in Breitenheim an mindestens drei unverschlossenen Fahrzeugen zu schaffen. In der Hauptstraße wurden hierbei aus einem blauen Opel eine zweistellige Summe Bargeld entwendet. In der Straße, Dieb
+//{"coords": [], "date": "2026-02-01"} // Müschenbach, Diebstahl
+{"coords": [9.8833, 53.3333], "date": "2026-02-01"}, // Buchholz, Einbrüche

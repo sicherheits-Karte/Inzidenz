@@ -9351,3 +9351,8 @@
 {"coords": [9.5083, 49.9833], "date": "2026-02-01"}, // Rechtenbach, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2026-02-01"}, // Einbeck, Diebstahl
 {"coords": [6.7872, 50.6606], "date": "2026-02-01"}, // Euskirchen, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2026-02-01"}, // Einfamilienhaus Salzgitter, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-02-01"}, // Hofheim, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-02-01"}, // Mitte, Diebstahl
+//{"coords": [], "date": "2026-02-01"} // Kreis, stahl
+{"coords": [11.3239, 50.9795], "date": "2026-02-01"}, // Weimar, entwendet

@@ -9381,3 +9381,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-02-01"}, // Sachbeschädigung Reutlingen, Einbrüche
 {"coords": [7.4653, 51.5136], "date": "2026-02-01"}, // Einrichtung Dortmund, Einbruch
 //{"coords": [], "date": "2026-02-01"} // Gelsenkirchener Kennzeichen Kleinmaischeid, Diebstahl
+//{"coords": [], "date": "2026-02-01"} // Ingbert, klau

@@ -9382,3 +9382,4 @@
 {"coords": [7.4653, 51.5136], "date": "2026-02-01"}, // Einrichtung Dortmund, Einbruch
 //{"coords": [], "date": "2026-02-01"} // Gelsenkirchener Kennzeichen Kleinmaischeid, Diebstahl
 //{"coords": [], "date": "2026-02-01"} // Ingbert, klau
+{"coords": [7.6333, 50.5667], "date": "2026-02-01"}, // Puderbach Puderbach, Einbruch

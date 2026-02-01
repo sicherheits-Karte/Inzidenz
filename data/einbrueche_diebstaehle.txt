@@ -9334,3 +9334,5 @@
 //{"coords": [], "date": "2026-02-01"} // bislang unbekannter Täter in Breitenheim an mindestens drei unverschlossenen Fahrzeugen zu schaffen. In der Hauptstraße wurden hierbei aus einem blauen Opel eine zweistellige Summe Bargeld entwendet. In der Straße, Dieb
 //{"coords": [], "date": "2026-02-01"} // Müschenbach, Diebstahl
 {"coords": [9.8833, 53.3333], "date": "2026-02-01"}, // Buchholz, Einbrüche
+//{"coords": [], "date": "2026-02-01"} // Mitfahrerparkplatz Niederzissen Niederzissen, aufbrüche
+{"coords": [9.95, 52.15], "date": "2026-02-01"}, // Präventionstipps Hildesheim, entwendet

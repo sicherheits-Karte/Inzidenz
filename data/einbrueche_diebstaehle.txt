@@ -9345,3 +9345,6 @@
 {"coords": [7.4842, 52.6742], "date": "2026-02-01"}, // Zeugen Haselünne, Einbruch
 //{"coords": [], "date": "2026-02-01"} // Zeugen Ringe, Diebstahl
 {"coords": [8.4311, 49.3194], "date": "2026-02-01"}, // Speyer, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-02-01"}, // Einfamilienhaus Gevelsberg, Einbruch
+{"coords": [11.35, 47.9667], "date": "2026-02-01"}, // Spielautomaten Berg, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2026-02-01"}, // Mehrfamilienhaus Hattingen, Einbruch

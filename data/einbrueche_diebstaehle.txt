@@ -9348,3 +9348,6 @@
 {"coords": [7.3392, 51.3197], "date": "2026-02-01"}, // Einfamilienhaus Gevelsberg, Einbruch
 {"coords": [11.35, 47.9667], "date": "2026-02-01"}, // Spielautomaten Berg, Einbruch
 {"coords": [7.1856, 51.3994], "date": "2026-02-01"}, // Mehrfamilienhaus Hattingen, Einbruch
+{"coords": [9.5083, 49.9833], "date": "2026-02-01"}, // Rechtenbach, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-02-01"}, // Einbeck, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-02-01"}, // Euskirchen, Diebstahl

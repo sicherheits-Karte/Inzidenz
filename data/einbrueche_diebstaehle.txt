@@ -9375,3 +9375,5 @@
 //{"coords": [], "date": "2026-02-01"} // Tauber, Einbrüche
 {"coords": [11.1556, 49.5333], "date": "2026-02-01"}, // Heroldsberg, Einbrecher
 {"coords": [8.0472, 52.2799], "date": "2026-02-01"}, // Zeugen Osnabrück, Einbruch
+//{"coords": [], "date": "2026-02-01"} // Kleinanzeigen Dirmstein, Diebstahl
+{"coords": [8.1361, 53.3969], "date": "2026-02-01"}, // Polizei Varel Varel, Einbruch

@@ -9453,3 +9453,10 @@
 {"coords": [10.5464, 52.4886], "date": "2026-02-02"}, // Gamsen Gifhorn, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-02-02"}, // Vechta, Diebstahl
 {"coords": [12.0333, 49.8667], "date": "2026-02-02"}, // Haus Vogelsbergkreis, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-02-02"}, // Beute Weimar, Einbrecher
+{"coords": [9.9092, 53.7306], "date": "2026-02-02"}, // Einfamilienhaus Quickborn, Einbruch
+{"coords": [7.8, 51.4333], "date": "2026-02-02"}, // Menden, eingebrochen
+{"coords": [7.7, 51.375], "date": "2026-02-02"}, // Blick Iserlohn, aufbruch
+{"coords": [7.75, 51.3833], "date": "2026-02-02"}, // Einbruch Hemer, Einbruch
+{"coords": [7.4981, 51.1861], "date": "2026-02-02"}, // Zeitungsbrand Halver, Diebstahl
+{"coords": [11.5928, 50.6933], "date": "2026-02-02"}, // Einbruch Pößneck, Einbruch

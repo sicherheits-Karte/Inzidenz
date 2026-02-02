@@ -9460,3 +9460,6 @@
 {"coords": [7.75, 51.3833], "date": "2026-02-02"}, // Einbruch Hemer, Einbruch
 {"coords": [7.4981, 51.1861], "date": "2026-02-02"}, // Zeitungsbrand Halver, Diebstahl
 {"coords": [11.5928, 50.6933], "date": "2026-02-02"}, // Einbruch Pößneck, Einbruch
+//{"coords": [], "date": "2026-02-02"} // Einfamilienhaus Bad Segeberg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-02-02"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [8.8667, 48.5667], "date": "2026-02-02"}, // Gäu, eingebrochen

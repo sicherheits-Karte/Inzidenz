@@ -9402,3 +9402,13 @@
 {"coords": [12.1997, 50.6544], "date": "2026-02-02"}, // Greiz, entwendet
 {"coords": [12.1997, 50.6544], "date": "2026-02-02"}, // Greiz, Diebstahl
 {"coords": [7.2908, 52.6906], "date": "2026-02-02"}, // Zeugen Meppen, Einbruch
+{"coords": [8.7403, 48.7142], "date": "2026-02-02"}, // Calw, aufbrüche
+{"coords": [8.4111, 49.9917], "date": "2026-02-02"}, // Rüsselsheim, entwendet
+{"coords": [7.7156, 52.2778], "date": "2026-02-02"}, // Bäckerei Ibbenbüren, Einbruch
+{"coords": [7.6158, 50.8767], "date": "2026-02-02"}, // Waldbröl, gestohlen
+//{"coords": [], "date": "2026-02-02"} // oder mehrere unbekannte Personen drangen gewaltsam in eine Kindertagesstätte in der Straße, Diebstahl
+{"coords": [8.4333, 51.6167], "date": "2026-02-02"}, // Steinhausen, Einbruch
+//{"coords": [], "date": "2026-02-02"} // Bad König, Einbruch
+{"coords": [10.9887, 49.4771], "date": "2026-02-02"}, // Fürth, Einbrüche
+{"coords": [8.705, 48.895], "date": "2026-02-02"}, // Pforzheim, gestohlen
+{"coords": [8.5786, 49.5383], "date": "2026-02-02"}, // Gaststätte Viernheim, Einbruch

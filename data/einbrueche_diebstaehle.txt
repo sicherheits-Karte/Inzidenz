@@ -9390,3 +9390,15 @@
 {"coords": [9.1611, 52.8458], "date": "2026-02-02"}, // Firmenfahrzeuge Hilgermissen, Einbruch
 //{"coords": [], "date": "2026-02-02"} // Salmünster, Einbruch
 {"coords": [8.6667, 49.9667], "date": "2026-02-02"}, // Egelsbach, Einbruch
+{"coords": [7.0, 51.8333], "date": "2026-02-02"}, // Wohnhaus Reken, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-02"}, // Erfurt, Einbruch
+{"coords": [8.2833, 51.35], "date": "2026-02-02"}, // Meschede Meschede, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-02-02"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-02-02"}, // Wohnungseinbruch Lippstadt, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-02-02"}, // Herdringen Arnsberg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-02"}, // Trunkenheitsfahrt Aalen, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-02-02"}, // Mehrfamilienhaus Nordhausen, Einbrecher
+{"coords": [10.7956, 51.5019], "date": "2026-02-02"}, // Nordhausen Nordhausen, Einbrüche
+{"coords": [12.1997, 50.6544], "date": "2026-02-02"}, // Greiz, entwendet
+{"coords": [12.1997, 50.6544], "date": "2026-02-02"}, // Greiz, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-02-02"}, // Zeugen Meppen, Einbruch

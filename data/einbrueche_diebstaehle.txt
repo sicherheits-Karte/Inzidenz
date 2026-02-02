@@ -9494,3 +9494,14 @@
 //{"coords": [], "date": "2026-02-02"} // Süchteln, Einbruch
 {"coords": [6.2833, 51.3167], "date": "2026-02-02"}, // Nettetal, Diebstahl
 {"coords": [10.8, 53.4833], "date": "2026-02-02"}, // Kfz Greven, Diebstahl
+//{"coords": [], "date": "2026-02-02"} // Kreis, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-02-02"}, // Giessen, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-02-02"}, // Wiesbaden, gestohlen
+{"coords": [8.8678, 49.9228], "date": "2026-02-02"}, // Münster, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-02-02"}, // Frontalzusammenstoß Limburg, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-02-02"}, // Firmengelände Erfurt, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-02-02"}, // Landkreis Heilbronn, Einbrüche
+//{"coords": [], "date": "2026-02-02"} // Engen, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-02-02"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-02-02"}, // Hofheim, Einbrecher
+//{"coords": [], "date": "2026-02-02"} // Höhe, Einbruch

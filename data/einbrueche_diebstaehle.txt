@@ -9473,3 +9473,13 @@
 //{"coords": [], "date": "2026-02-02"} // Beeck, Diebstahl
 //{"coords": [], "date": "2026-02-02"} // Grebben, gestohlen
 {"coords": [8.5333, 48.0667], "date": "2026-02-02"}, // Schwenningen, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-02-02"}, // Einbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-02-02"}, // Zigarettenautomaten Augsburg, aufbruch
+//{"coords": [], "date": "2026-02-02"} // Zeugen Schöppingen, Raub
+{"coords": [7.9019, 53.5736], "date": "2026-02-02"}, // Jever, Diebstahl
+//{"coords": [], "date": "2026-02-02"} // Metalldiebstahl Rheinzabern, Diebstahl
+//{"coords": [], "date": "2026-02-02"} // Appen, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-02-02"}, // Heilbronn, aufbruch
+{"coords": [8.5331, 52.021], "date": "2026-02-02"}, // Bielefeld, gestohlen
+{"coords": [8.4661, 49.4878], "date": "2026-02-02"}, // Zeugenaufruf Mannheim, eingebrochen
+{"coords": [13.3833, 54.1167], "date": "2026-02-02"}, // Kfz Neuenkirchen, Diebstähle

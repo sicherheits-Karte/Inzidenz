@@ -9505,3 +9505,9 @@
 {"coords": [7.82, 47.99], "date": "2026-02-02"}, // Zeugen Freiburg, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-02-02"}, // Hofheim, Einbrecher
 //{"coords": [], "date": "2026-02-02"} // Höhe, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-02-02"}, // Zeugensuche Freiburg, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-02-02"}, // Einfamilienhaus Reutlingen, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2026-02-02"}, // Zeugen Goch, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-02-02"}, // Ludwigshafen, stahl
+{"coords": [10.7753, 49.7544], "date": "2026-02-02"}, // Mühlhausen, entwendet
+{"coords": [8.6833, 50.5833], "date": "2026-02-02"}, // Giessen, aufbrüche

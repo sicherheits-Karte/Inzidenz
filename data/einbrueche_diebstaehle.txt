@@ -9425,3 +9425,15 @@
 {"coords": [10.0831, 52.6247], "date": "2026-02-02"}, // Celle, entwendet
 {"coords": [7.9833, 51.95], "date": "2026-02-02"}, // Lager Warendorf, Einbruch
 {"coords": [11.3592, 50.6486], "date": "2026-02-02"}, // Telefon Saalfeld, Einbrüche
+{"coords": [9.9937, 53.5511], "date": "2026-02-02"}, // Nord Hamburg, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-02-02"}, // Ludwigsburg, entwendet
+{"coords": [8.6306, 53.05], "date": "2026-02-02"}, // Delmenhorst, Einbruch
+{"coords": [10.5833, 49.3], "date": "2026-02-02"}, // Ansbach, Einbrüche
+{"coords": [8.705, 48.895], "date": "2026-02-02"}, // Diebes Pforzheim, Diebstahl
+{"coords": [8.3658, 49.6306], "date": "2026-02-02"}, // Hinweise Worms, Einbruch
+{"coords": [7.45, 51.4333], "date": "2026-02-02"}, // Vorhalle, gestohlen
+{"coords": [8.8386, 48.9511], "date": "2026-02-02"}, // Zeugen Mühlacker, Einbruch
+{"coords": [6.6833, 51.2], "date": "2026-02-02"}, // Kreis Neuss, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-02-02"}, // Recklinghausen, Raub
+{"coords": [6.6833, 51.6167], "date": "2026-02-02"}, // Hinweise Voerde, Einbrüche
+{"coords": [7.1675, 51.9436], "date": "2026-02-02"}, // Coesfeld, entwendet

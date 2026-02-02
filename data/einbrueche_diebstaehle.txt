@@ -9483,3 +9483,14 @@
 {"coords": [8.5331, 52.021], "date": "2026-02-02"}, // Bielefeld, gestohlen
 {"coords": [8.4661, 49.4878], "date": "2026-02-02"}, // Zeugenaufruf Mannheim, eingebrochen
 {"coords": [13.3833, 54.1167], "date": "2026-02-02"}, // Kfz Neuenkirchen, Diebstähle
+//{"coords": [], "date": "2026-02-02"} // Auto auf einem Waldparkplatz aufgebrochen. Der Besitzer stellte seinen blauen Ford Focus um kurz nach, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-02-02"}, // Wilhelmshaven Wilhelmshaven, Einbruch
+{"coords": [8.1361, 53.3969], "date": "2026-02-02"}, // Varel Varel, Räuber
+{"coords": [8.4043, 49.014], "date": "2026-02-02"}, // Zeugen Karlsruhe, Raub
+{"coords": [9.5, 51.3167], "date": "2026-02-02"}, // Zeugen Kassel, Einbruch
+//{"coords": [], "date": "2026-02-02"} // Kreis, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-02-02"}, // Einbruch Coesfeld, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-02-02"}, // Hinweise Viersen, Einbruch
+//{"coords": [], "date": "2026-02-02"} // Süchteln, Einbruch
+{"coords": [6.2833, 51.3167], "date": "2026-02-02"}, // Nettetal, Diebstahl
+{"coords": [10.8, 53.4833], "date": "2026-02-02"}, // Kfz Greven, Diebstahl

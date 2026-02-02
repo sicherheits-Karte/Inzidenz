@@ -9412,3 +9412,16 @@
 {"coords": [10.9887, 49.4771], "date": "2026-02-02"}, // Fürth, Einbrüche
 {"coords": [8.705, 48.895], "date": "2026-02-02"}, // Pforzheim, gestohlen
 {"coords": [8.5786, 49.5383], "date": "2026-02-02"}, // Gaststätte Viernheim, Einbruch
+{"coords": [9.1828, 48.7756], "date": "2026-02-02"}, // Stuttgart Reutlingen, Einbrecher
+//{"coords": [], "date": "2026-02-02"} // Wohnungseinbruchdiebstahl Erwitte, Einbruch
+{"coords": [13.3833, 54.1167], "date": "2026-02-02"}, // Hausbewohner Neuenkirchen, eingebrochen
+//{"coords": [], "date": "2026-02-02"} // Hinweise Kieselbronn, Einbrecher
+//{"coords": [], "date": "2026-02-02"} // Einfamilienhaus Laer, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-02-02"}, // Zeugen Paderborn, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-02"}, // Sonstiges Aalen, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-02-02"}, // Paderborn, Diebstähle
+//{"coords": [], "date": "2026-02-02"} // BMW entwendet, entwendet
+{"coords": [9.9916, 48.3984], "date": "2026-02-02"}, // Ulm, Einbruch
+{"coords": [10.0831, 52.6247], "date": "2026-02-02"}, // Celle, entwendet
+{"coords": [7.9833, 51.95], "date": "2026-02-02"}, // Lager Warendorf, Einbruch
+{"coords": [11.3592, 50.6486], "date": "2026-02-02"}, // Telefon Saalfeld, Einbrüche

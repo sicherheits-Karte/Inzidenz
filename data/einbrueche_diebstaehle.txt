@@ -9437,3 +9437,19 @@
 {"coords": [7.2, 51.6167], "date": "2026-02-02"}, // Recklinghausen, Raub
 {"coords": [6.6833, 51.6167], "date": "2026-02-02"}, // Hinweise Voerde, Einbrüche
 {"coords": [7.1675, 51.9436], "date": "2026-02-02"}, // Coesfeld, entwendet
+{"coords": [7.1, 51.5167], "date": "2026-02-02"}, // Gelsenkirchen, Räuber
+{"coords": [8.8667, 51.9333], "date": "2026-02-02"}, // Lippe, Einbrecher
+{"coords": [8.8667, 51.9333], "date": "2026-02-02"}, // Lippe, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-02-02"}, // Wolfsburg, Raub
+{"coords": [8.5331, 52.021], "date": "2026-02-02"}, // Bielefeld, Raub
+{"coords": [6.2167, 51.5333], "date": "2026-02-02"}, // Veert, Einbruch
+//{"coords": [], "date": "2026-02-02"} // Goldscheuer, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-02-02"}, // Triberger Straße Ludwigsburg, Einbruch
+{"coords": [6.3583, 50.9222], "date": "2026-02-02"}, // Jülich, Dieb
+{"coords": [6.4247, 51.0067], "date": "2026-02-02"}, // Hinweise Titz, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-02-02"}, // Wohnungstür Düren, Einbruch
+{"coords": [6.5617, 51.3317], "date": "2026-02-02"}, // Zeugen Krefeld, Raub
+{"coords": [9.9937, 53.5511], "date": "2026-02-02"}, // Zuführung Hamburg, Raub
+{"coords": [10.5464, 52.4886], "date": "2026-02-02"}, // Gamsen Gifhorn, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-02-02"}, // Vechta, Diebstahl
+{"coords": [12.0333, 49.8667], "date": "2026-02-02"}, // Haus Vogelsbergkreis, Einbruch

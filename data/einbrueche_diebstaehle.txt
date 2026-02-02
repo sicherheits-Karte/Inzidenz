@@ -9463,3 +9463,13 @@
 //{"coords": [], "date": "2026-02-02"} // Einfamilienhaus Bad Segeberg, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-02-02"}, // Wohnhaus Ludwigsburg, Einbruch
 {"coords": [8.8667, 48.5667], "date": "2026-02-02"}, // Gäu, eingebrochen
+{"coords": [8.6514, 49.8728], "date": "2026-02-02"}, // Darmstadt, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2026-02-02"}, // Diebstähle Nürnberg, Diebstähle
+{"coords": [11.4012, 53.6355], "date": "2026-02-02"}, // Schweriner Weststadt Schwerin, Einbrüche
+{"coords": [7.2061, 53.3669], "date": "2026-02-02"}, // Emden, Diebstahl
+//{"coords": [], "date": "2026-02-02"} // Baal, gestohlen
+//{"coords": [], "date": "2026-02-02"} // Baal, entwendet
+//{"coords": [], "date": "2026-02-02"} // Rödgen, aufbrüche
+//{"coords": [], "date": "2026-02-02"} // Beeck, Diebstahl
+//{"coords": [], "date": "2026-02-02"} // Grebben, gestohlen
+{"coords": [8.5333, 48.0667], "date": "2026-02-02"}, // Schwenningen, Einbruch

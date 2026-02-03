@@ -9539,3 +9539,12 @@
 {"coords": [8.4725, 49.5981], "date": "2026-02-03"}, // Lampertheim, Einbrüche
 {"coords": [7.3333, 50.6833], "date": "2026-02-03"}, // Asbach, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-02-03"}, // Diebstahl Aalen, Diebstahl
+{"coords": [9.1292, 52.2675], "date": "2026-02-03"}, // Obernkirchen, Einbruch
+{"coords": [8.8592, 52.1653], "date": "2026-02-03"}, // Vlotho, Diebstahl
+{"coords": [8.6833, 52.15], "date": "2026-02-03"}, // Bargeld Herford, Diebstahl
+{"coords": [6.5617, 51.3317], "date": "2026-02-03"}, // Krefeld, Raub
+//{"coords": [], "date": "2026-02-03"} // Bergisch Gladbach, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-02-03"}, // Düsseldorf, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-02-03"}, // Zeugen Münster, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-02-03"}, // Automatenaufbruch Heilbronn, aufbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-03"}, // Coesfeld, entwendet

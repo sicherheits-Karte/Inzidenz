@@ -9627,3 +9627,5 @@
 {"coords": [7.82, 47.99], "date": "2026-02-03"}, // Freiburg, Einbruch
 {"coords": [8.5786, 49.5383], "date": "2026-02-03"}, // Viernheim, Einbruch
 {"coords": [7.5658, 51.4458], "date": "2026-02-03"}, // Autohändlers Schwerte, Einbruch
+//{"coords": [], "date": "2026-02-03"} // Kreis, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-02-03"}, // Versuchter Auto Diebstahl Wiesbaden, Diebstahl

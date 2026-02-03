@@ -9599,3 +9599,7 @@
 {"coords": [11.3239, 50.9795], "date": "2026-02-03"}, // Weimar, entwendet
 {"coords": [11.3239, 50.9795], "date": "2026-02-03"}, // Weimar West Weimar, Einbrüche
 {"coords": [7.8153, 48.5708], "date": "2026-02-03"}, // Einbruchsdiebstahl Kehl, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-02-03"}, // Strafverfahren Duisburg, gestohlen
+{"coords": [10.8978, 48.3705], "date": "2026-02-03"}, // Autodiebstahl Augsburg, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-02-03"}, // Warendorf, Diebstahl
+//{"coords": [], "date": "2026-02-03"} // Baal, Diebstahl

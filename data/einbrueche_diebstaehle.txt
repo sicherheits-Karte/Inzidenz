@@ -9581,3 +9581,14 @@
 //{"coords": [], "date": "2026-02-03"} // Wohnung Streufdorf, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-02-03"}, // Zeugen Bochum, Raub
 //{"coords": [], "date": "2026-02-03"} // LKW-Fahrer hatte dort seine nächtliche Pause eingelegt und war plötzlich von Geräuschen geweckt worden. Er konnte noch zwei männliche Personen sehen, die von, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-02-03"}, // Mönchengladbach, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-02-03"}, // Ludwigshafen, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-02-03"}, // Zeugen Münster, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-02-03"}, // Ludwigshafen, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-02-03"}, // Ludwigshafen, gestohlen
+{"coords": [8.2869, 52.7303], "date": "2026-02-03"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2026-02-03"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-03"}, // Ludwigshafen, Einbruch
+{"coords": [7.2056, 50.8014], "date": "2026-02-03"}, // Siegburg, Dieb
+{"coords": [10.0075, 53.7064], "date": "2026-02-03"}, // Norderstedt, Einbruch
+//{"coords": [], "date": "2026-02-03"} // Supermarkt, Einbruch

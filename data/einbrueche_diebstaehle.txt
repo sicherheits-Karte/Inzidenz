@@ -9609,3 +9609,10 @@
 {"coords": [7.1675, 51.9436], "date": "2026-02-03"}, // Coesfeld, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-02-03"}, // Einbrüche Giessen, Einbrüche
 {"coords": [7.82, 47.99], "date": "2026-02-03"}, // Freiburg, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-02-03"}, // Münster, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-02-03"}, // Meppen, Raub
+{"coords": [7.6889, 51.5347], "date": "2026-02-03"}, // Erdgeschosswohnung Unna, Einbruch
+{"coords": [8.6231, 52.3061], "date": "2026-02-03"}, // Lübbecke, entwendet
+{"coords": [6.7623, 51.4344], "date": "2026-02-03"}, // Zeugensuche Duisburg, Diebstahl
+{"coords": [8.8333, 48.0667], "date": "2026-02-03"}, // Trossingen, aufbruch
+{"coords": [7.4653, 51.5136], "date": "2026-02-03"}, // Zeugen Dortmund, Raub

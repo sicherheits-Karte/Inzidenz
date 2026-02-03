@@ -9514,3 +9514,7 @@
 {"coords": [11.7, 53.8], "date": "2026-02-02"}, // Warin, eingebrochen
 //{"coords": [], "date": "2026-02-02"} // Bad Gandersheim, Diebstahl
 {"coords": [8.705, 48.895], "date": "2026-02-03"}, // Sachschaden Pforzheim, Raub
+{"coords": [6.8889, 49.9858], "date": "2026-02-03"}, // Taschendiebstahl Wittlich, Diebstahl
+{"coords": [7.1333, 50.6167], "date": "2026-02-03"}, // Wachtberg, Einbruch
+//{"coords": [], "date": "2026-02-03"} // Merzweiler, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-02-03"}, // Verkehrsunfall Aalen, Einbruch

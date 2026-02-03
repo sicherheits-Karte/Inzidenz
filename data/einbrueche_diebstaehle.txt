@@ -9560,3 +9560,13 @@
 {"coords": [8.6514, 49.8728], "date": "2026-02-03"}, // Darmstadt, Einbrecher
 //{"coords": [], "date": "2026-02-03"} // Visier Weiterstadt, Einbrecher
 {"coords": [7.3625, 51.2981], "date": "2026-02-03"}, // Ennepetal, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-03"}, // Ulm, Einbrecher
+{"coords": [8.2711, 50.0], "date": "2026-02-03"}, // Mainz, entwendet
+{"coords": [8.3833, 51.9], "date": "2026-02-03"}, // Kupferstraße Gütersloh, Einbruch
+//{"coords": [], "date": "2026-02-03"} // Kreis, entwendet
+{"coords": [9.4764, 53.6008], "date": "2026-02-03"}, // Zeugen Stade, Raub
+//{"coords": [], "date": "2026-02-03"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.8386, 48.9511], "date": "2026-02-03"}, // Zeugen Mühlacker, Dieb
+{"coords": [8.5331, 52.021], "date": "2026-02-03"}, // Keller Bielefeld, Einbrecher
+{"coords": [9.6775, 50.5528], "date": "2026-02-03"}, // Fulda, entwendet
+{"coords": [8.4128, 48.4678], "date": "2026-02-03"}, // Zeugen Freudenstadt, Einbruch

@@ -9570,3 +9570,14 @@
 {"coords": [8.5331, 52.021], "date": "2026-02-03"}, // Keller Bielefeld, Einbrecher
 {"coords": [9.6775, 50.5528], "date": "2026-02-03"}, // Fulda, entwendet
 {"coords": [8.4128, 48.4678], "date": "2026-02-03"}, // Zeugen Freudenstadt, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-02-03"}, // Kaiserslautern, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-02-03"}, // Kaiserslautern, stahl
+{"coords": [7.1, 51.5167], "date": "2026-02-03"}, // Gelsenkirchen, Raub
+{"coords": [8.6944, 49.4092], "date": "2026-02-03"}, // Zeugenaufruf Heidelberg, entwendet
+//{"coords": [], "date": "2026-02-03"} // Kreis, Diebstähle
+{"coords": [6.8889, 49.9858], "date": "2026-02-03"}, // Wittlich Wittlich, Einbruch
+//{"coords": [], "date": "2026-02-03"} // Trassem Trassem, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-02-03"}, // Zeugenaufruf Mannheim, Dieb
+//{"coords": [], "date": "2026-02-03"} // Wohnung Streufdorf, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-02-03"}, // Zeugen Bochum, Raub
+//{"coords": [], "date": "2026-02-03"} // LKW-Fahrer hatte dort seine nächtliche Pause eingelegt und war plötzlich von Geräuschen geweckt worden. Er konnte noch zwei männliche Personen sehen, die von, Einbruch

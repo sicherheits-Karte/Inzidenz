@@ -9592,3 +9592,10 @@
 {"coords": [7.2056, 50.8014], "date": "2026-02-03"}, // Siegburg, Dieb
 {"coords": [10.0075, 53.7064], "date": "2026-02-03"}, // Norderstedt, Einbruch
 //{"coords": [], "date": "2026-02-03"} // Supermarkt, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-03"}, // Coesfeld, Dieb
+//{"coords": [], "date": "2026-02-03"} // POL-EL, gestohlen
+{"coords": [7.2197, 51.5428], "date": "2026-02-03"}, // Herne, Raub
+//{"coords": [], "date": "2026-02-03"} // Schmuck Bönningstedt, Einbrüche
+{"coords": [11.3239, 50.9795], "date": "2026-02-03"}, // Weimar, entwendet
+{"coords": [11.3239, 50.9795], "date": "2026-02-03"}, // Weimar West Weimar, Einbrüche
+{"coords": [7.8153, 48.5708], "date": "2026-02-03"}, // Einbruchsdiebstahl Kehl, Einbruch

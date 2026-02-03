@@ -9513,3 +9513,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-02-02"}, // Giessen, aufbrüche
 {"coords": [11.7, 53.8], "date": "2026-02-02"}, // Warin, eingebrochen
 //{"coords": [], "date": "2026-02-02"} // Bad Gandersheim, Diebstahl
+{"coords": [8.705, 48.895], "date": "2026-02-03"}, // Sachschaden Pforzheim, Raub

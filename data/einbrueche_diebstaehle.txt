@@ -9616,3 +9616,14 @@
 {"coords": [6.7623, 51.4344], "date": "2026-02-03"}, // Zeugensuche Duisburg, Diebstahl
 {"coords": [8.8333, 48.0667], "date": "2026-02-03"}, // Trossingen, aufbruch
 {"coords": [7.4653, 51.5136], "date": "2026-02-03"}, // Zeugen Dortmund, Raub
+{"coords": [7.82, 47.99], "date": "2026-02-03"}, // Gartengrundstück Freiburg, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-02-03"}, // Unwesen Limburg, gestohlen
+{"coords": [6.85, 49.3], "date": "2026-02-03"}, // Geld Bad Schwalbach, Einbrecher
+{"coords": [8.4414, 50.0919], "date": "2026-02-03"}, // Hofheim, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-03"}, // Giessen, Dieb
+//{"coords": [], "date": "2026-02-03"} // Höhe, gestohlen
+{"coords": [8.4833, 49.9167], "date": "2026-02-03"}, // Gerau, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-03"}, // Ulm, Raub
+{"coords": [7.82, 47.99], "date": "2026-02-03"}, // Freiburg, Einbruch
+{"coords": [8.5786, 49.5383], "date": "2026-02-03"}, // Viernheim, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2026-02-03"}, // Autohändlers Schwerte, Einbruch

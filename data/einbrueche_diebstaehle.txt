@@ -9714,3 +9714,7 @@
 {"coords": [8.6833, 50.5833], "date": "2026-02-04"}, // Autohaus Giessen, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-02-04"}, // Bürgerhaus Wehrda Giessen, Einbrecher
 {"coords": [8.6833, 50.5833], "date": "2026-02-04"}, // Giessen, Einbrecher
+{"coords": [8.4414, 50.0919], "date": "2026-02-04"}, // Auto Hofheim, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-02-04"}, // Bäckerei Wiesbaden, gestohlen
+{"coords": [11.1167, 51.1667], "date": "2026-02-04"}, // Bäckereifiliale Landkreis Sömmerda, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-04"}, // Hyundai Erfurt, Diebstahl

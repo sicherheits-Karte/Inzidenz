@@ -9651,3 +9651,5 @@
 {"coords": [8.5333, 50.0667], "date": "2026-02-04"}, // Kelsterbach, gestohlen
 {"coords": [8.76, 49.6233], "date": "2026-02-04"}, // Rimbach, Einbrüche
 //{"coords": [], "date": "2026-02-04"} // Scheidingen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-04"}, // Tageswohnungseinbruch Coesfeld, Einbruch
+{"coords": [7.5667, 51.0167], "date": "2026-02-04"}, // Einfamilienhaus Wiehl, Einbruch

@@ -9700,3 +9700,9 @@
 {"coords": [7.4836, 53.4711], "date": "2026-02-04"}, // Landkreis Aurich, Diebstahl
 {"coords": [7.2, 51.6167], "date": "2026-02-04"}, // Sauerkampstraße Recklinghausen, Einbruch
 {"coords": [6.5492, 51.2631], "date": "2026-02-04"}, // Hinweise Willich, Raub
+{"coords": [8.8431, 49.8978], "date": "2026-02-04"}, // Unfallflucht Dieburg, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-02-04"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [6.6667, 50.7], "date": "2026-02-04"}, // Zülpich, Raub
+{"coords": [7.82, 47.99], "date": "2026-02-04"}, // Schützenhaus Freiburg, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-02-04"}, // Gartenparzelle Northeim, Einbruch
+{"coords": [10.1228, 54.3233], "date": "2026-02-04"}, // Kiel, Raub

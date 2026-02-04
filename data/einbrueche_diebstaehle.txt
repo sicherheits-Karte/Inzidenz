@@ -9673,3 +9673,11 @@
 {"coords": [10.8333, 51.1167], "date": "2026-02-04"}, // Herbsleben, Einbruch
 //{"coords": [], "date": "2026-02-04"} // Krankenhaus Neu Wulmstorf, Einbruch
 //{"coords": [], "date": "2026-02-04"} // Automobilhandel Kirchhundem, Einbruch
+//{"coords": [], "date": "2026-02-04"} // Bergisch Gladbach, entwendet
+{"coords": [7.82, 47.99], "date": "2026-02-04"}, // Zeugen Freiburg, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-02-04"}, // Heilbronn, Dieb
+//{"coords": [], "date": "2026-02-04"} // Sögel, Einbruch
+{"coords": [10.2333, 49.5333], "date": "2026-02-04"}, // Uffenheim, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-02-04"}, // Paketdieb Gelsenkirchen, Dieb
+{"coords": [7.0, 51.8333], "date": "2026-02-04"}, // Reken, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-02-04"}, // Lingen, Einbruch

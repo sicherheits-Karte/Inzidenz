@@ -9642,3 +9642,12 @@
 {"coords": [10.0936, 48.8372], "date": "2026-02-04"}, // Verkehrsunfälle Aalen, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-02-04"}, // Brände Aalen, Einbruch
 {"coords": [7.8333, 51.7], "date": "2026-02-04"}, // Heessen, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-02-04"}, // Ulm, Dieb
+{"coords": [12.4333, 50.985], "date": "2026-02-04"}, // Altenburg, Diebstahl
+{"coords": [8.8494, 52.4569], "date": "2026-02-04"}, // Warmsen, Einbruch
+{"coords": [7.5336, 52.1728], "date": "2026-02-04"}, // Emsdetten, entwendet
+{"coords": [7.9833, 51.95], "date": "2026-02-04"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-02-04"}, // Baustellengeräten Warendorf, Diebstähle
+{"coords": [8.5333, 50.0667], "date": "2026-02-04"}, // Kelsterbach, gestohlen
+{"coords": [8.76, 49.6233], "date": "2026-02-04"}, // Rimbach, Einbrüche
+//{"coords": [], "date": "2026-02-04"} // Scheidingen, Einbruch

@@ -9684,3 +9684,11 @@
 //{"coords": [], "date": "2026-02-04"} // Ost, Raub
 {"coords": [8.6514, 49.8728], "date": "2026-02-04"}, // Unterarm Darmstadt, Diebstahl
 //{"coords": [], "date": "2026-02-04"} // Zeugen Bad Driburg, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-02-04"}, // Fahrzeug Fulda, Diebstahl
+{"coords": [7.9667, 53.4167], "date": "2026-02-04"}, // Zetel Zetel, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-02-04"}, // Herne, Einbruch
+{"coords": [6.315, 51.0794], "date": "2026-02-04"}, // Mehrfamilienhaus Erkelenz, Einbruch
+{"coords": [13.1667, 50.65], "date": "2026-02-04"}, // Marienberg, Einbruch
+//{"coords": [], "date": "2026-02-04"} // Porselen, entwendet
+{"coords": [9.7194, 53.9522], "date": "2026-02-04"}, // Kellinghusen, Dieb
+{"coords": [7.3333, 51.4333], "date": "2026-02-04"}, // Hinweise Witten, Einbruch

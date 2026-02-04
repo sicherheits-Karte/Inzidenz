@@ -9632,3 +9632,13 @@
 {"coords": [8.6806, 49.9894], "date": "2026-02-04"}, // Langen, aufbruch
 {"coords": [8.8333, 48.0667], "date": "2026-02-04"}, // Trossingen, aufbruch
 //{"coords": [], "date": "2026-02-04"} // Bekond, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-02-04"}, // Discounter Warendorf, Einbruch
+{"coords": [9.0333, 50.15], "date": "2026-02-04"}, // Rodenbach, Raub
+//{"coords": [], "date": "2026-02-04"} // Einecke, Einbruch
+//{"coords": [], "date": "2026-02-04"} // Klotingen, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-02-04"}, // Jena, entwendet
+{"coords": [8.2833, 51.35], "date": "2026-02-04"}, // Versuchter Einbruch Am Gaswerk Meschede, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-04"}, // Küchenbrand Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-04"}, // Verkehrsunfälle Aalen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-02-04"}, // Brände Aalen, Einbruch
+{"coords": [7.8333, 51.7], "date": "2026-02-04"}, // Heessen, Diebstahl

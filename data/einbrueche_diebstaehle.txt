@@ -9653,3 +9653,10 @@
 //{"coords": [], "date": "2026-02-04"} // Scheidingen, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-02-04"}, // Tageswohnungseinbruch Coesfeld, Einbruch
 {"coords": [7.5667, 51.0167], "date": "2026-02-04"}, // Einfamilienhaus Wiehl, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-02-04"}, // Vechta, entwendet
+//{"coords": [], "date": "2026-02-04"} // Ichenheim, Einbruch
+{"coords": [8.6333, 52.2], "date": "2026-02-04"}, // Gewahrsam Kirchlengern, Diebstahl
+{"coords": [8.7667, 51.7167], "date": "2026-02-04"}, // Zeugen Paderborn, Einbruch
+//{"coords": [], "date": "2026-02-04"} // Arztpraxis Inden, Einbruch
+//{"coords": [], "date": "2026-02-04"} // Zeugen Heimbach, Einbruch
+//{"coords": [], "date": "2026-02-04"} // Kein Ort gefunden, Diebstahl

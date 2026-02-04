@@ -9660,3 +9660,9 @@
 //{"coords": [], "date": "2026-02-04"} // Arztpraxis Inden, Einbruch
 //{"coords": [], "date": "2026-02-04"} // Zeugen Heimbach, Einbruch
 //{"coords": [], "date": "2026-02-04"} // Kein Ort gefunden, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-02-04"}, // Alleenstraße Ludwigsburg, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-02-04"}, // Ermittlungsrichter Düsseldorf, Diebstahl
+{"coords": [9.2167, 48.5167], "date": "2026-02-04"}, // Mittelstadt, Dieb
+{"coords": [7.1, 51.5167], "date": "2026-02-04"}, // Gelsenkirchen, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-02-04"}, // Postplatz Forum Aalen, Einbruch
+{"coords": [10.4508, 50.7211], "date": "2026-02-04"}, // Schmalkalden, Diebstahl

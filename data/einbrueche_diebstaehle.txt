@@ -9630,3 +9630,5 @@
 //{"coords": [], "date": "2026-02-03"} // Kreis, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2026-02-03"}, // Versuchter Auto Diebstahl Wiesbaden, Diebstahl
 {"coords": [8.6806, 49.9894], "date": "2026-02-04"}, // Langen, aufbruch
+{"coords": [8.8333, 48.0667], "date": "2026-02-04"}, // Trossingen, aufbruch
+//{"coords": [], "date": "2026-02-04"} // Bekond, Diebstahl

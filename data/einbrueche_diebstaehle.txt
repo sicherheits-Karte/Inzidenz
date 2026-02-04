@@ -9706,3 +9706,11 @@
 {"coords": [7.82, 47.99], "date": "2026-02-04"}, // Schützenhaus Freiburg, Einbruch
 {"coords": [10.0, 51.7064], "date": "2026-02-04"}, // Gartenparzelle Northeim, Einbruch
 {"coords": [10.1228, 54.3233], "date": "2026-02-04"}, // Kiel, Raub
+//{"coords": [], "date": "2026-02-04"} // Höhe, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-02-04"}, // Bad Schwalbach, gestohlen
+{"coords": [7.7689, 49.4447], "date": "2026-02-04"}, // Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2026-02-04"} // Versuchter Automatenaufbruch Müsch, aufbruch
+{"coords": [10.7956, 51.5019], "date": "2026-02-04"}, // Keller Nordhausen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-04"}, // Autohaus Giessen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-04"}, // Bürgerhaus Wehrda Giessen, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-02-04"}, // Giessen, Einbrecher

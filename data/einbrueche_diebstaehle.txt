@@ -9629,3 +9629,4 @@
 {"coords": [7.5658, 51.4458], "date": "2026-02-03"}, // Autohändlers Schwerte, Einbruch
 //{"coords": [], "date": "2026-02-03"} // Kreis, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2026-02-03"}, // Versuchter Auto Diebstahl Wiesbaden, Diebstahl
+{"coords": [8.6806, 49.9894], "date": "2026-02-04"}, // Langen, aufbruch

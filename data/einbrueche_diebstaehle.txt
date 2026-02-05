@@ -9832,3 +9832,8 @@
 //{"coords": [], "date": "2026-02-05"} // Häuser Bad Frankenhausen, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-02-05"}, // Nordhausen, Dieb
 {"coords": [8.0667, 50.3833], "date": "2026-02-05"}, // Limburg, gestohlen
+//{"coords": [], "date": "2026-02-05"} // Kaldenkirchen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-05"}, // Schlägerei Giessen, Dieb
+{"coords": [7.0333, 52.2167], "date": "2026-02-05"}, // Rohbau Gronau, Einbruch
+{"coords": [7.0083, 52.075], "date": "2026-02-05"}, // Ahaus, Einbrecher
+{"coords": [7.2162, 51.4818], "date": "2026-02-05"}, // Bochum, Einbruch

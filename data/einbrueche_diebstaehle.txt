@@ -9733,3 +9733,12 @@
 {"coords": [7.3194, 52.5236], "date": "2026-02-05"}, // Lingen, Einbruch
 //{"coords": [], "date": "2026-02-05"} // Freren, Einbruch
 {"coords": [12.4333, 50.985], "date": "2026-02-05"}, // Altenburg, Diebstahl
+{"coords": [8.45, 50.0167], "date": "2026-02-05"}, // Raunheim, Einbrüche
+{"coords": [7.6667, 51.5833], "date": "2026-02-05"}, // Südkamen Kamen, Einbruch
+//{"coords": [], "date": "2026-02-05"} // Gonsenheim, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-02-05"}, // Gera, Dieb
+{"coords": [13.3878, 54.0931], "date": "2026-02-05"}, // Zeugen Greifswald, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-02-05"}, // Ulm, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-05"}, // Ulm, Dieb
+{"coords": [9.5036, 53.4539], "date": "2026-02-05"}, // Harsefeld Stade, Einbrüche
+{"coords": [9.0492, 52.2603], "date": "2026-02-05"}, // Bückeburg, Diebstahl

@@ -9824,3 +9824,11 @@
 {"coords": [8.5331, 52.021], "date": "2026-02-05"}, // Kasse Bielefeld, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-02-05"}, // Essingen Aalen, Raub
 {"coords": [7.1675, 51.9436], "date": "2026-02-05"}, // Coesfeld, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-02-05"}, // Einfamilienhaus Freiburg, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2026-02-05"}, // Haft Offenburg, Raub
+{"coords": [7.9833, 51.95], "date": "2026-02-05"}, // Warendorf, Raub
+{"coords": [9.7678, 53.7892], "date": "2026-02-05"}, // Kontrolldruck Barmstedt, Diebstähle
+//{"coords": [], "date": "2026-02-05"} // Bad Langensalza, Diebstahl
+//{"coords": [], "date": "2026-02-05"} // Häuser Bad Frankenhausen, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-02-05"}, // Nordhausen, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-02-05"}, // Limburg, gestohlen

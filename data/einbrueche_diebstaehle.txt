@@ -9810,3 +9810,17 @@
 {"coords": [9.4108, 53.1111], "date": "2026-02-05"}, // Werk Hersfeld Rotenburg, Dieb
 {"coords": [9.6775, 50.5528], "date": "2026-02-05"}, // Fulda, entwendet
 {"coords": [10.4278, 51.9042], "date": "2026-02-05"}, // Goslar, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-02-05"}, // Lüneburg, gestohlen
+//{"coords": [], "date": "2026-02-05"} // Zeugen Issum, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-05"}, // Schaufensterscheibe Giessen, eingebrochen
+{"coords": [8.6833, 50.5833], "date": "2026-02-05"}, // Giessen, Einbrecher
+//{"coords": [], "date": "2026-02-05"} // Kreis, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-02-05"}, // Geldbeutels Kaiserslautern, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-02-05"}, // Kreis Offenbach, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-02-05"}, // Giessen, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-02-05"}, // Gelsenkirchen, Diebstahl
+{"coords": [9.6106, 47.7828], "date": "2026-02-05"}, // Landkreis Ravensburg Landkreis Ravensburg, eingebrochen
+{"coords": [9.4, 47.7833], "date": "2026-02-05"}, // Bodenseekreis Bodenseekreis, eingebrochen
+{"coords": [8.5331, 52.021], "date": "2026-02-05"}, // Kasse Bielefeld, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-02-05"}, // Essingen Aalen, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-02-05"}, // Coesfeld, gestohlen

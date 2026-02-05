@@ -9767,3 +9767,16 @@
 //{"coords": [], "date": "2026-02-05"} // Zeugenhinweise Bad Liebenzell, Einbruch
 {"coords": [9.8372, 54.4714], "date": "2026-02-05"}, // Eckernförde, Einbruch
 //{"coords": [], "date": "2026-02-05"} // Bullenhausen, gestohlen
+{"coords": [8.6514, 49.8728], "date": "2026-02-05"}, // Darmstadt, Dieb
+{"coords": [9.2108, 49.1425], "date": "2026-02-05"}, // Bäckerei Heilbronn, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-02-05"}, // Stunde Bielefeld, Dieb
+{"coords": [7.3625, 51.2981], "date": "2026-02-05"}, // Individualnummern Ennepetal, Einbruch
+{"coords": [6.9769, 50.8236], "date": "2026-02-05"}, // Zeugensuche Wesseling, entwendet
+{"coords": [7.1508, 51.2562], "date": "2026-02-05"}, // Bergstraße Wuppertal, entwendet
+{"coords": [7.4139, 50.9889], "date": "2026-02-05"}, // Engelskirchen, stahl
+{"coords": [8.3708, 52.6078], "date": "2026-02-05"}, // Diepholz, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-02-05"}, // Fälschung Bielefeld, Diebstahl
+//{"coords": [], "date": "2026-02-05"} // Oppenheim Oppenheim, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-02-05"}, // Weisenau Mainz, Raub
+{"coords": [8.2711, 50.0], "date": "2026-02-05"}, // Geschädigte Mainz, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-02-05"}, // Diebestour Mainz, Dieb

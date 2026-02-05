@@ -9798,3 +9798,15 @@
 {"coords": [8.0739, 48.6311], "date": "2026-02-05"}, // Folgen Achern, Diebstahl
 {"coords": [6.7623, 51.4344], "date": "2026-02-05"}, // Duisburg, Raub
 {"coords": [9.732, 52.3759], "date": "2026-02-05"}, // Hannover, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-02-05"}, // Autodiebe Recklinghausen, Diebstähle
+{"coords": [7.18, 49.3439], "date": "2026-02-05"}, // Ladendiebstählen Neunkirchen, Diebstähle
+{"coords": [9.9916, 48.3984], "date": "2026-02-05"}, // Ulm, stahl
+{"coords": [8.6822, 50.1106], "date": "2026-02-05"}, // Person Frankfurt, Raub
+{"coords": [8.6514, 49.8728], "date": "2026-02-05"}, // Untersuchungshaft Darmstadt, gestohlen
+//{"coords": [], "date": "2026-02-05"} // Kein Ort gefunden, entwendet
+//{"coords": [], "date": "2026-02-05"} // Verkehrskontrolle aufgefunden mehr, gestohlen
+{"coords": [10.1228, 54.3233], "date": "2026-02-05"}, // Kiel, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-02-05"}, // Vogelsbergkreis, entwendet
+{"coords": [9.4108, 53.1111], "date": "2026-02-05"}, // Werk Hersfeld Rotenburg, Dieb
+{"coords": [9.6775, 50.5528], "date": "2026-02-05"}, // Fulda, entwendet
+{"coords": [10.4278, 51.9042], "date": "2026-02-05"}, // Goslar, Einbruch

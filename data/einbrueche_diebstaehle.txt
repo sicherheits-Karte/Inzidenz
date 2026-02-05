@@ -9791,3 +9791,10 @@
 {"coords": [6.8761, 50.8778], "date": "2026-02-05"}, // Hürth, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-02-05"}, // Widerstand Reutlingen, Einbrüche
 {"coords": [9.1, 48.8], "date": "2026-02-05"}, // Weilimdorf, eingebrochen
+{"coords": [8.1092, 51.5711], "date": "2026-02-05"}, // Ladendiebinnen Kreis Soest, Dieb
+{"coords": [6.6264, 51.4519], "date": "2026-02-05"}, // Moers, Einbrüche
+{"coords": [7.2162, 51.4818], "date": "2026-02-05"}, // Zeugen Bochum, Raub
+{"coords": [6.6153, 51.8367], "date": "2026-02-05"}, // Bocholt, klau
+{"coords": [8.0739, 48.6311], "date": "2026-02-05"}, // Folgen Achern, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2026-02-05"}, // Duisburg, Raub
+{"coords": [9.732, 52.3759], "date": "2026-02-05"}, // Hannover, entwendet

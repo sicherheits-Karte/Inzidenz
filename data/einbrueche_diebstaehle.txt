@@ -9742,3 +9742,17 @@
 {"coords": [9.9916, 48.3984], "date": "2026-02-05"}, // Ulm, Dieb
 {"coords": [9.5036, 53.4539], "date": "2026-02-05"}, // Harsefeld Stade, Einbrüche
 {"coords": [9.0492, 52.2603], "date": "2026-02-05"}, // Bückeburg, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-02-05"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [7.4017, 50.4397], "date": "2026-02-05"}, // Zeugenaufruf Andernach, aufbrüche
+{"coords": [8.8678, 49.9228], "date": "2026-02-05"}, // Münster, Einbruch
+{"coords": [10.7333, 50.65], "date": "2026-02-05"}, // Mehlis, Diebstahl
+{"coords": [7.9733, 51.1681], "date": "2026-02-05"}, // Finnentrop, gestohlen
+{"coords": [9.35, 52.3333], "date": "2026-02-05"}, // Gerlinger Firma Wenden, Einbruch
+{"coords": [7.6333, 51.1], "date": "2026-02-05"}, // Meinerzhagen, entwendet
+{"coords": [7.8667, 51.3333], "date": "2026-02-05"}, // Balve, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-02-05"}, // Ulm, Diebstahl
+{"coords": [11.1, 48.7167], "date": "2026-02-05"}, // Zeugen Oberhausen, Raub
+{"coords": [7.6333, 51.6667], "date": "2026-02-05"}, // Werne, entwendet
+{"coords": [6.4333, 51.2], "date": "2026-02-05"}, // Mönchengladbach, gestohlen
+//{"coords": [], "date": "2026-02-05"} // Kein Ort gefunden, Dieb
+{"coords": [8.0472, 52.2799], "date": "2026-02-05"}, // Zeugen Osnabrück, Einbruch

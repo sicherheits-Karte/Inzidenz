@@ -9756,3 +9756,14 @@
 {"coords": [6.4333, 51.2], "date": "2026-02-05"}, // Mönchengladbach, gestohlen
 //{"coords": [], "date": "2026-02-05"} // Kein Ort gefunden, Dieb
 {"coords": [8.0472, 52.2799], "date": "2026-02-05"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.7, 50.0167], "date": "2026-02-05"}, // Hinweise Dreieich, Raub
+{"coords": [7.9531, 50.7778], "date": "2026-02-05"}, // Herdorf Betzdorf, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-05"}, // Markt Coesfeld, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-02-05"}, // Verletztem Heilbronn, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-02-05"}, // Speyer, Einbruch
+{"coords": [6.9019, 50.8331], "date": "2026-02-05"}, // Gabelstapler Brühl, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-02-05"}, // Recklinghausen, Raub
+{"coords": [8.5331, 52.021], "date": "2026-02-05"}, // Bielefeld, gestohlen
+//{"coords": [], "date": "2026-02-05"} // Zeugenhinweise Bad Liebenzell, Einbruch
+{"coords": [9.8372, 54.4714], "date": "2026-02-05"}, // Eckernförde, Einbruch
+//{"coords": [], "date": "2026-02-05"} // Bullenhausen, gestohlen

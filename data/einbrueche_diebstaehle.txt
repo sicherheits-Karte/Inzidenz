@@ -9718,3 +9718,5 @@
 {"coords": [8.24, 50.0822], "date": "2026-02-04"}, // Bäckerei Wiesbaden, gestohlen
 {"coords": [11.1167, 51.1667], "date": "2026-02-04"}, // Bäckereifiliale Landkreis Sömmerda, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-02-04"}, // Hyundai Erfurt, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-02-05"}, // Unfallflucht Aalen, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-02-05"}, // Tageswohnungseinbruch Bonn, Einbruch

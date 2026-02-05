@@ -9720,3 +9720,16 @@
 {"coords": [11.0299, 50.9848], "date": "2026-02-04"}, // Hyundai Erfurt, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-02-05"}, // Unfallflucht Aalen, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2026-02-05"}, // Tageswohnungseinbruch Bonn, Einbruch
+{"coords": [7.1833, 50.9], "date": "2026-02-05"}, // Rösrath, Diebstähle
+{"coords": [8.8431, 49.8978], "date": "2026-02-05"}, // Dieburg, Einbrüche
+//{"coords": [], "date": "2026-02-05"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2026-02-05"}, // Einbrecher Warendorf, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-02-05"}, // Sachbeschdädigung Aalen, Einbruch
+//{"coords": [], "date": "2026-02-05"} // Wehringhausen, entwendet
+{"coords": [7.5336, 52.1728], "date": "2026-02-05"}, // Wohnhaus Emsdetten, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-02-05"}, // Warendorf, Einbruch
+{"coords": [6.6717, 51.2614], "date": "2026-02-05"}, // Meerbusch, Diebstahl
+//{"coords": [], "date": "2026-02-05"} // Friedhof Oberdreis, Diebstähle
+{"coords": [7.3194, 52.5236], "date": "2026-02-05"}, // Lingen, Einbruch
+//{"coords": [], "date": "2026-02-05"} // Freren, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-02-05"}, // Altenburg, Diebstahl

@@ -9837,3 +9837,4 @@
 {"coords": [7.0333, 52.2167], "date": "2026-02-05"}, // Rohbau Gronau, Einbruch
 {"coords": [7.0083, 52.075], "date": "2026-02-05"}, // Ahaus, Einbrecher
 {"coords": [7.2162, 51.4818], "date": "2026-02-05"}, // Bochum, Einbruch
+//{"coords": [], "date": "2026-02-05"} // Umfeld, Diebstähle

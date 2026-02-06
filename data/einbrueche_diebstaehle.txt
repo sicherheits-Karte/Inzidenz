@@ -9929,3 +9929,7 @@
 {"coords": [7.2, 51.6167], "date": "2026-02-06"}, // Hinweise Recklinghausen, Einbrüche
 {"coords": [8.5833, 53.55], "date": "2026-02-06"}, // Mitte, eingebrochen
 //{"coords": [], "date": "2026-02-06"} // Kreis, Einbrüche
+{"coords": [8.6944, 49.4092], "date": "2026-02-06"}, // Zeugenaufruf Heidelberg, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-02-06"}, // Kellerraum Wiesbaden, Einbruch
+{"coords": [7.8231, 50.64], "date": "2026-02-06"}, // Zeugenhinweise Hachenburg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-02-06"}, // Leichtverletzten Hofheim, Einbruch

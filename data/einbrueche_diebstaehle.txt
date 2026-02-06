@@ -9926,3 +9926,6 @@
 //{"coords": [], "date": "2026-02-06"} // Haft Boizenburg, Räuber
 {"coords": [10.8978, 48.3705], "date": "2026-02-06"}, // Einbruch Augsburg, Einbruch
 //{"coords": [], "date": "2026-02-06"} // A2 Forum, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-02-06"}, // Hinweise Recklinghausen, Einbrüche
+{"coords": [8.5833, 53.55], "date": "2026-02-06"}, // Mitte, eingebrochen
+//{"coords": [], "date": "2026-02-06"} // Kreis, Einbrüche

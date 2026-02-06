@@ -9875,3 +9875,13 @@
 {"coords": [11.0299, 50.9848], "date": "2026-02-06"}, // Erfurt, entwendet
 {"coords": [9.0492, 52.2603], "date": "2026-02-06"}, // Einfamilienhaus Bückeburg, Einbruch
 //{"coords": [], "date": "2026-02-06"} // Schloß Neuhaus, Diebstahl
+{"coords": [8.0667, 49.9867], "date": "2026-02-06"}, // Ingelheim Ingelheim, Einbruch
+{"coords": [6.9889, 51.8944], "date": "2026-02-06"}, // Kupfer Velen, eingebrochen
+{"coords": [7.0, 52.05], "date": "2026-02-06"}, // Legden, einbrechen
+{"coords": [8.4353, 49.4811], "date": "2026-02-06"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-06"}, // Ludwigshafen, Diebstähle
+{"coords": [9.3667, 51.6667], "date": "2026-02-06"}, // Zeugen Beverungen, Raub
+{"coords": [8.4167, 49.4], "date": "2026-02-06"}, // Limburgerhof, Einbrüche
+{"coords": [9.9937, 53.5511], "date": "2026-02-06"}, // Langenhorn Hamburg, Raub
+{"coords": [8.5331, 52.021], "date": "2026-02-06"}, // Bielefeld, Raub
+{"coords": [7.3333, 51.4333], "date": "2026-02-06"}, // Tatverdächtige Witten, Diebstahl

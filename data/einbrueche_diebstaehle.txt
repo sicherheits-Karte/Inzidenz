@@ -9848,3 +9848,10 @@
 {"coords": [11.3239, 50.9795], "date": "2026-02-06"}, // Weimar Weimar, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2026-02-06"}, // Jena, Dieb
 {"coords": [10.0936, 48.8372], "date": "2026-02-06"}, // Fahrrädern Aalen, Diebstahl
+{"coords": [7.1658, 50.1472], "date": "2026-02-06"}, // Cochem, Diebstahl
+//{"coords": [], "date": "2026-02-06"} // Büroräume BAD DÜRKHEIM, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-02-06"}, // Zeugen Oldenburg, Diebstahl
+//{"coords": [], "date": "2026-02-06"} // Elektrotechnikfirma Werlte, Einbruch
+{"coords": [7.1333, 52.5333], "date": "2026-02-06"}, // Scheune Wietmarschen, Einbruch
+{"coords": [7.1333, 52.5333], "date": "2026-02-06"}, // Bauunternehmen Wietmarschen, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-02-06"}, // Diebstahl Moers, Diebstahl

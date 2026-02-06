@@ -9910,3 +9910,13 @@
 {"coords": [7.1333, 52.5333], "date": "2026-02-06"}, // Pkw Wietmarschen, Diebstahl
 {"coords": [9.6775, 50.5528], "date": "2026-02-06"}, // Fulda, Einbrüche
 {"coords": [8.4833, 48.0], "date": "2026-02-06"}, // Bräunlingen, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-02-06"}, // Versuchter Einbruch Coesfeld, Einbruch
+{"coords": [10.6833, 49.2833], "date": "2026-02-06"}, // Zeugen Lichtenau, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-02-06"}, // Kassel, Einbrecher
+{"coords": [7.3333, 51.4333], "date": "2026-02-06"}, // Witten, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-02-06"}, // Hinweise Mönchengladbach, gestohlen
+{"coords": [10.4278, 51.9042], "date": "2026-02-06"}, // Goslar, Einbruch
+//{"coords": [], "date": "2026-02-06"} // Moorshoven, gestohlen
+//{"coords": [], "date": "2026-02-06"} // Beeck, Einbruch
+//{"coords": [], "date": "2026-02-06"} // Boscheln, Einbruch
+//{"coords": [], "date": "2026-02-06"} // Grebben, Einbruch

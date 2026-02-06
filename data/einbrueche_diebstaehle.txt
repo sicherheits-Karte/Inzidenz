@@ -9920,3 +9920,9 @@
 //{"coords": [], "date": "2026-02-06"} // Beeck, Einbruch
 //{"coords": [], "date": "2026-02-06"} // Boscheln, Einbruch
 //{"coords": [], "date": "2026-02-06"} // Grebben, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-02-06"}, // Ratzeburg, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-02-06"}, // Gleisbett Nordhausen, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-02-06"}, // Giessen, Dieb
+//{"coords": [], "date": "2026-02-06"} // Haft Boizenburg, Räuber
+{"coords": [10.8978, 48.3705], "date": "2026-02-06"}, // Einbruch Augsburg, Einbruch
+//{"coords": [], "date": "2026-02-06"} // A2 Forum, Einbruch

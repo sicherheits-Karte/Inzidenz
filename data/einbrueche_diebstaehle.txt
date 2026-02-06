@@ -9840,3 +9840,4 @@
 //{"coords": [], "date": "2026-02-05"} // Umfeld, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-02-05"}, // Taschendiebstahl Hildesheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-02-05"}, // Mahlum Hildesheim, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-02-06"}, // Rüttelplatte Wittlich, Diebstahl

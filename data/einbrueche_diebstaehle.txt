@@ -9896,3 +9896,9 @@
 {"coords": [8.5833, 53.55], "date": "2026-02-06"}, // Mitte, Dieb
 //{"coords": [], "date": "2026-02-06"} // Straße, aufbruch
 {"coords": [9.2167, 48.4833], "date": "2026-02-06"}, // Betrugsdelikt Reutlingen, Einbrüche
+{"coords": [7.2061, 53.3669], "date": "2026-02-06"}, // Emden, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-02-06"}, // Speyer, Einbrüche
+{"coords": [8.8386, 48.9511], "date": "2026-02-06"}, // Zeugen Mühlacker, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-02-06"}, // Viersen, gestohlen
+//{"coords": [], "date": "2026-02-06"} // Herzogenrath, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-02-06"}, // Festnahme Essen, Diebstahl

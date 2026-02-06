@@ -9855,3 +9855,15 @@
 {"coords": [7.1333, 52.5333], "date": "2026-02-06"}, // Scheune Wietmarschen, Einbruch
 {"coords": [7.1333, 52.5333], "date": "2026-02-06"}, // Bauunternehmen Wietmarschen, Einbruch
 {"coords": [6.6264, 51.4519], "date": "2026-02-06"}, // Diebstahl Moers, Diebstahl
+{"coords": [6.4833, 50.8], "date": "2026-02-06"}, // Düren, entwendet
+//{"coords": [], "date": "2026-02-06"} // Kein Ort gefunden, gestohlen
+{"coords": [8.7667, 51.7167], "date": "2026-02-06"}, // Paderborn, Einbruch
+//{"coords": [], "date": "2026-02-06"} // Schloß Neuhaus, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-06"}, // Ulm, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-02-06"}, // Büroräume Warendorf, Einbruch
+{"coords": [7.6158, 50.8767], "date": "2026-02-06"}, // Waldbröl, Einbrecher
+{"coords": [7.9833, 51.95], "date": "2026-02-06"}, // Supermarkt Warendorf, Diebstahl
+{"coords": [6.7583, 51.6417], "date": "2026-02-06"}, // Lebensmittelgeschäft Hünxe, Einbruch
+//{"coords": [], "date": "2026-02-06"} // Hochschulviertel, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-06"}, // Ulm, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-02-06"}, // Diepholz, Einbruch

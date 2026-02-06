@@ -9841,3 +9841,10 @@
 {"coords": [9.95, 52.15], "date": "2026-02-05"}, // Taschendiebstahl Hildesheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-02-05"}, // Mahlum Hildesheim, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-02-06"}, // Rüttelplatte Wittlich, Diebstahl
+{"coords": [7.2931, 51.2861], "date": "2026-02-06"}, // Geschäft Schwelm, Raub
+{"coords": [7.9833, 51.95], "date": "2026-02-06"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-02-06"}, // Kettensägen Soest, eingebrochen
+{"coords": [12.4333, 50.985], "date": "2026-02-06"}, // Altenburg, entwendet
+{"coords": [11.3239, 50.9795], "date": "2026-02-06"}, // Weimar Weimar, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-02-06"}, // Jena, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-02-06"}, // Fahrrädern Aalen, Diebstahl

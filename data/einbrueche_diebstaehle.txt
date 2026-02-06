@@ -9902,3 +9902,11 @@
 {"coords": [6.3917, 51.2556], "date": "2026-02-06"}, // Viersen, gestohlen
 //{"coords": [], "date": "2026-02-06"} // Herzogenrath, Diebstahl
 {"coords": [7.0116, 51.4556], "date": "2026-02-06"}, // Festnahme Essen, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-02-06"}, // Mehrfamilienhaus Euskirchen, Einbrüche
+//{"coords": [], "date": "2026-02-06"} // unverschlossenem Auto, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-02-06"}, // Kaiserslautern, Dieb
+{"coords": [7.3667, 50.9333], "date": "2026-02-06"}, // Tankstellenraub Much, Raub
+{"coords": [8.8731, 51.275], "date": "2026-02-06"}, // Korbach, stehlen
+{"coords": [7.1333, 52.5333], "date": "2026-02-06"}, // Pkw Wietmarschen, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-02-06"}, // Fulda, Einbrüche
+{"coords": [8.4833, 48.0], "date": "2026-02-06"}, // Bräunlingen, Dieb

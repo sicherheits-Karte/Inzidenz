@@ -9934,3 +9934,4 @@
 {"coords": [7.8231, 50.64], "date": "2026-02-06"}, // Zeugenhinweise Hachenburg, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-02-06"}, // Leichtverletzten Hofheim, Einbruch
 //{"coords": [], "date": "2026-02-06"} // Kein Ort gefunden, entwendet
+{"coords": [9.4108, 53.1111], "date": "2026-02-06"}, // Rotenburg, Diebstahl

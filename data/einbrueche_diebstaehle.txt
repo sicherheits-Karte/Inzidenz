@@ -9885,3 +9885,14 @@
 {"coords": [9.9937, 53.5511], "date": "2026-02-06"}, // Langenhorn Hamburg, Raub
 {"coords": [8.5331, 52.021], "date": "2026-02-06"}, // Bielefeld, Raub
 {"coords": [7.3333, 51.4333], "date": "2026-02-06"}, // Tatverdächtige Witten, Diebstahl
+{"coords": [7.7, 51.375], "date": "2026-02-06"}, // Innenstadt Iserlohn, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-02-06"}, // Dieseldiebstahl Lüdenscheid, Einbrüche
+{"coords": [7.6333, 51.1], "date": "2026-02-06"}, // Kleiderdiebstahl Meinerzhagen, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-02-06"}, // Heilbronn, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-02-06"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2026-02-06"}, // Balkon Bremerhaven, Einbruch
+//{"coords": [], "date": "2026-02-06"} // Kein Ort gefunden, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2026-02-06"}, // Salzgitter, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-02-06"}, // Mitte, Dieb
+//{"coords": [], "date": "2026-02-06"} // Straße, aufbruch
+{"coords": [9.2167, 48.4833], "date": "2026-02-06"}, // Betrugsdelikt Reutlingen, Einbrüche

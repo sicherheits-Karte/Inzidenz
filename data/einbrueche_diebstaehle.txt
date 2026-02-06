@@ -9867,3 +9867,11 @@
 //{"coords": [], "date": "2026-02-06"} // Hochschulviertel, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-02-06"}, // Ulm, Diebstahl
 {"coords": [8.3708, 52.6078], "date": "2026-02-06"}, // Diepholz, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-02-06"}, // Freiburg, Einbruch
+//{"coords": [], "date": "2026-02-06"} // Niederkrüchten, Einbrecher
+//{"coords": [], "date": "2026-02-06"} // dem Kreisgebiet, Einbrüche
+{"coords": [11.0767, 49.4521], "date": "2026-02-06"}, // Tatverdächtiger Nürnberg, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2026-02-06"}, // Landkreis Harburg, Diebstähle
+{"coords": [11.0299, 50.9848], "date": "2026-02-06"}, // Erfurt, entwendet
+{"coords": [9.0492, 52.2603], "date": "2026-02-06"}, // Einfamilienhaus Bückeburg, Einbruch
+//{"coords": [], "date": "2026-02-06"} // Schloß Neuhaus, Diebstahl

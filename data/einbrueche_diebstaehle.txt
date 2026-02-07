@@ -9956,3 +9956,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-02-07"}, // Einbruch Reutlingen, Einbruch
 {"coords": [6.85, 49.9333], "date": "2026-02-07"}, // Taschendiebstahl Salmtal, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2026-02-07"}, // Verkehrsunfallflucht Limburg, Einbruch
+{"coords": [7.9272, 53.2569], "date": "2026-02-07"}, // Westerstede Oldenburg, Raub

@@ -9959,3 +9959,4 @@
 {"coords": [7.9272, 53.2569], "date": "2026-02-07"}, // Westerstede Oldenburg, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-02-07"}, // Erfurt, Dieb
 {"coords": [10.0936, 48.8372], "date": "2026-02-07"}, // Einbruch Aalen, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2026-02-07"}, // Seehafen Papenburg Papenburg, Einbruch

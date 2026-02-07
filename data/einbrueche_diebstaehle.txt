@@ -9946,3 +9946,4 @@
 {"coords": [10.4167, 50.55], "date": "2026-02-07"}, // mehreren Einkaufsmärkten in Meiningen, Schmalkalden, Bad Liebenstein und Suhl zu Handtaschendiebstählen. Hierbei wurden die Bestohlenen durch eine Person zu einem Artikel des Marktes befragt. Wärend der Befragte sich den Artikel genauer anschaute nutzte der Dieb oder ein zweiter Täter diese kurze Zeit der Ablenkung und entwendete in dieser Zeit den Geldbeutel, Diebstähle
 //{"coords": [], "date": "2026-02-07"} // der Siemensstraße, Diebstahl
 //{"coords": [], "date": "2026-02-07"} // Bauty Salon Bad Bentheim, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2026-02-07"}, // Unna, entwendet

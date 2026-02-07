@@ -9947,3 +9947,5 @@
 //{"coords": [], "date": "2026-02-07"} // der Siemensstraße, Diebstahl
 //{"coords": [], "date": "2026-02-07"} // Bauty Salon Bad Bentheim, Einbruch
 {"coords": [7.6889, 51.5347], "date": "2026-02-07"}, // Unna, entwendet
+{"coords": [7.3778, 51.0194], "date": "2026-02-07"}, // Einsatz Lindlar, Raub
+{"coords": [8.8494, 51.4611], "date": "2026-02-07"}, // Lagerhalle Marsberg, Einbruch

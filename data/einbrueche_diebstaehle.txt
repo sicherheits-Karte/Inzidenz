@@ -9943,3 +9943,5 @@
 {"coords": [7.2931, 51.2861], "date": "2026-02-07"}, // Schwelm, Einbruch
 {"coords": [7.45, 51.4], "date": "2026-02-07"}, // Hubschrauber Herdecke, Einbruch
 {"coords": [8.5833, 51.3833], "date": "2026-02-07"}, // Brilon Brilon, Einbruch
+{"coords": [10.4167, 50.55], "date": "2026-02-07"}, // mehreren Einkaufsmärkten in Meiningen, Schmalkalden, Bad Liebenstein und Suhl zu Handtaschendiebstählen. Hierbei wurden die Bestohlenen durch eine Person zu einem Artikel des Marktes befragt. Wärend der Befragte sich den Artikel genauer anschaute nutzte der Dieb oder ein zweiter Täter diese kurze Zeit der Ablenkung und entwendete in dieser Zeit den Geldbeutel, Diebstähle
+//{"coords": [], "date": "2026-02-07"} // der Siemensstraße, Diebstahl

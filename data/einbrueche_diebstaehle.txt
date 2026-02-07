@@ -9939,3 +9939,7 @@
 {"coords": [9.1919, 48.8975], "date": "2026-02-07"}, // Wohnhaus Ludwigsburg, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2026-02-07"}, // Aktuelle Warnmeldung Einbeck, Einbrecher
 {"coords": [8.0, 51.3333], "date": "2026-02-07"}, // Sundern Sundern, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-02-07"}, // Vechta, Diebstahl
+{"coords": [7.2931, 51.2861], "date": "2026-02-07"}, // Schwelm, Einbruch
+{"coords": [7.45, 51.4], "date": "2026-02-07"}, // Hubschrauber Herdecke, Einbruch
+{"coords": [8.5833, 51.3833], "date": "2026-02-07"}, // Brilon Brilon, Einbruch

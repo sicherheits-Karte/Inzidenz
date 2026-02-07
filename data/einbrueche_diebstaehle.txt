@@ -9957,3 +9957,5 @@
 {"coords": [6.85, 49.9333], "date": "2026-02-07"}, // Taschendiebstahl Salmtal, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2026-02-07"}, // Verkehrsunfallflucht Limburg, Einbruch
 {"coords": [7.9272, 53.2569], "date": "2026-02-07"}, // Westerstede Oldenburg, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-02-07"}, // Erfurt, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-02-07"}, // Einbruch Aalen, Einbruch

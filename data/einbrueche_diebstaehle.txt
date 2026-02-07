@@ -9936,3 +9936,5 @@
 //{"coords": [], "date": "2026-02-06"} // Kein Ort gefunden, entwendet
 {"coords": [9.4108, 53.1111], "date": "2026-02-06"}, // Rotenburg, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-02-06"}, // Aalen, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-02-07"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-02-07"}, // Aktuelle Warnmeldung Einbeck, Einbrecher

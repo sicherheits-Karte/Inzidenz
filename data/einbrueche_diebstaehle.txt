@@ -9950,3 +9950,6 @@
 {"coords": [7.3778, 51.0194], "date": "2026-02-07"}, // Einsatz Lindlar, Raub
 {"coords": [8.8494, 51.4611], "date": "2026-02-07"}, // Lagerhalle Marsberg, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-02-07"}, // Zeugenaufruf Freiburg, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-02-07"}, // Osterholz, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-02-07"}, // Bremen, Raub
+//{"coords": [], "date": "2026-02-07"} // Hinweise Bad Dürkheim, Diebstahl

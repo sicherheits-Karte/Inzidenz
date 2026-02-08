@@ -9978,3 +9978,13 @@
 {"coords": [7.4667, 52.3667], "date": "2026-02-08"}, // Fahrzeugteilen Spelle, Diebstahl
 {"coords": [7.4547, 53.2311], "date": "2026-02-08"}, // Leer, Einbruch
 //{"coords": [], "date": "2026-02-08"} // Sprötau, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2026-02-08"}, // Gartengrundstück Apolda, Einbruch
+//{"coords": [], "date": "2026-02-08"} // Neubergsweg, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-02-08"}, // Bad Salzuflen Lippe, entwendet
+//{"coords": [], "date": "2026-02-08"} // Bergweg, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-02-08"}, // Pivitsheide Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-02-08"}, // Hohenhausen Lippe, Einbruch
+{"coords": [8.15, 49.4667], "date": "2026-02-08"}, // Weinstraße, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-02-08"}, // Voßheide Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-02-08"}, // Kachtenhausen Lippe, Einbruch
+//{"coords": [], "date": "2026-02-08"} // Iversheim, Diebstahl

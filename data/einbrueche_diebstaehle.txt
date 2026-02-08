@@ -10021,3 +10021,5 @@
 //{"coords": [], "date": "2026-02-08"} // Höhe, Einbruch
 {"coords": [10.6833, 48.7833], "date": "2026-02-08"}, // Uhr Landkreis Harburg, Einbruch
 {"coords": [8.6944, 53.8619], "date": "2026-02-08"}, // Verkehrsdelikte Cuxhaven, Einbruch
+{"coords": [7.0833, 49.5167], "date": "2026-02-08"}, // Oberthal Oberthal, Diebstahl
+//{"coords": [], "date": "2026-02-08"} // Gärten Altenburger Land, Einbruch

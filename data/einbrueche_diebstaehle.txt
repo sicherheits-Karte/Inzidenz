@@ -10008,3 +10008,12 @@
 {"coords": [11.0767, 49.4521], "date": "2026-02-08"}, // Gaststätte Nürnberg, Einbruch
 {"coords": [11.0911, 49.245], "date": "2026-02-08"}, // Roth, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-02-08"}, // Einbrüche Aalen, Einbrüche
+//{"coords": [], "date": "2026-02-08"} // Ramsdorf, entwendet
+{"coords": [7.0, 51.8333], "date": "2026-02-08"}, // Reken, entwendet
+//{"coords": [], "date": "2026-02-08"} // Erle, entwendet
+//{"coords": [], "date": "2026-02-08"} // Lünten, Einbruch
+{"coords": [6.8333, 52.0333], "date": "2026-02-08"}, // Bänkstegge Vreden, Einbruch
+{"coords": [6.4667, 51.8333], "date": "2026-02-08"}, // Isselburg, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-02-08"}, // Einbrüche Reutlingen, Einbrüche
+{"coords": [7.6333, 51.6167], "date": "2026-02-08"}, // Reihenendhaus Bergkamen, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-02-08"}, // Osterholz-- Bremen, Raub

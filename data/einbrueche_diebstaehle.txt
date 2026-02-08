@@ -9988,3 +9988,8 @@
 {"coords": [8.8667, 51.9333], "date": "2026-02-08"}, // Voßheide Lippe, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-02-08"}, // Kachtenhausen Lippe, Einbruch
 //{"coords": [], "date": "2026-02-08"} // Iversheim, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-02-08"}, // Betriebserlaubnis Wiesbaden, eingebrochen
+{"coords": [7.2197, 51.5428], "date": "2026-02-08"}, // Herne, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-02-08"}, // Taschendiebstahl Serie Speyer, Diebstahl
+{"coords": [8.0, 51.45], "date": "2026-02-08"}, // Handy Arnsberg, entwendet
+{"coords": [9.1753, 47.6633], "date": "2026-02-08"}, // Konstanz, Einbruch

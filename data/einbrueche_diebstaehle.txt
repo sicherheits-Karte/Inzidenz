@@ -9998,3 +9998,9 @@
 {"coords": [9.8333, 53.95], "date": "2026-02-08"}, // Apotheke Hagen, Diebstahl
 {"coords": [8.35, 49.5333], "date": "2026-02-08"}, // Kleingartenanlage Frankenthal, Einbruch
 //{"coords": [], "date": "2026-02-08"} // Bäckerei Krayenberggemeinde, Einbruch
+{"coords": [11.012, 49.5897], "date": "2026-02-08"}, // Erlangen, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2026-02-08"}, // Tageszeit Bergkamen, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-02-08"}, // Nürnberg, Einbrecher
+{"coords": [7.7806, 53.5769], "date": "2026-02-08"}, // Wittmund, gestohlen
+//{"coords": [], "date": "2026-02-08"} // Morsbach, Einbrecher
+{"coords": [7.4139, 50.9889], "date": "2026-02-08"}, // Engelskirchen, gestohlen

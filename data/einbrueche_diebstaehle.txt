@@ -10027,3 +10027,4 @@
 {"coords": [8.8075, 53.075], "date": "2026-02-08"}, // Bremen, Raub
 {"coords": [8.6306, 53.05], "date": "2026-02-08"}, // Delmenhorst, Raub
 {"coords": [10.4278, 51.9042], "date": "2026-02-08"}, // Goslar, Einbruch
+//{"coords": [], "date": "2026-02-08"} // Diebstahl von der Solaranlage in Ringleben im Kyffhäuserkreis gemeldet. Während der Ermittlungen vor Ort wurde bekannt bzw. festgestellt, dass der oder die unbekannten Täter bereits in der Nacht vom, Diebstahl

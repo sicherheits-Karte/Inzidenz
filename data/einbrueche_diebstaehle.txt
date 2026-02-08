@@ -10023,3 +10023,7 @@
 {"coords": [8.6944, 53.8619], "date": "2026-02-08"}, // Verkehrsdelikte Cuxhaven, Einbruch
 {"coords": [7.0833, 49.5167], "date": "2026-02-08"}, // Oberthal Oberthal, Diebstahl
 //{"coords": [], "date": "2026-02-08"} // Gärten Altenburger Land, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-02-08"}, // Ladendiebstahl Hofheim, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-02-08"}, // Bremen, Raub
+{"coords": [8.6306, 53.05], "date": "2026-02-08"}, // Delmenhorst, Raub
+{"coords": [10.4278, 51.9042], "date": "2026-02-08"}, // Goslar, Einbruch

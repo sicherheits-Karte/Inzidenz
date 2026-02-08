@@ -10033,3 +10033,4 @@
 //{"coords": [], "date": "2026-02-08"} // Motorradfahrer Piesport, klau
 {"coords": [6.9333, 51.8333], "date": "2026-02-08"}, // Heiden Heiden, Raub
 {"coords": [9.8833, 53.3333], "date": "2026-02-08"}, // Buchholz, Einbruch
+{"coords": [8.5667, 49.65], "date": "2026-02-08"}, // Lorsch, Räuber

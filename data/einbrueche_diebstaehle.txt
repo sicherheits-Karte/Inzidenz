@@ -10032,3 +10032,4 @@
 {"coords": [9.4456, 51.8281], "date": "2026-02-08"}, // Holzminden, gestohlen
 //{"coords": [], "date": "2026-02-08"} // Motorradfahrer Piesport, klau
 {"coords": [6.9333, 51.8333], "date": "2026-02-08"}, // Heiden Heiden, Raub
+{"coords": [9.8833, 53.3333], "date": "2026-02-08"}, // Buchholz, Einbruch

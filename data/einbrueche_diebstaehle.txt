@@ -10017,3 +10017,7 @@
 {"coords": [9.2167, 48.4833], "date": "2026-02-08"}, // Einbrüche Reutlingen, Einbrüche
 {"coords": [7.6333, 51.6167], "date": "2026-02-08"}, // Reihenendhaus Bergkamen, Einbruch
 {"coords": [8.875, 53.05], "date": "2026-02-08"}, // Osterholz-- Bremen, Raub
+//{"coords": [], "date": "2026-02-08"} // Gärten Alenburger Land, Einbruch
+//{"coords": [], "date": "2026-02-08"} // Höhe, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2026-02-08"}, // Uhr Landkreis Harburg, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-02-08"}, // Verkehrsdelikte Cuxhaven, Einbruch

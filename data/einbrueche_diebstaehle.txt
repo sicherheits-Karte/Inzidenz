@@ -10030,3 +10030,5 @@
 //{"coords": [], "date": "2026-02-08"} // Diebstahl von der Solaranlage in Ringleben im Kyffhäuserkreis gemeldet. Während der Ermittlungen vor Ort wurde bekannt bzw. festgestellt, dass der oder die unbekannten Täter bereits in der Nacht vom, Diebstahl
 {"coords": [7.825, 50.4358], "date": "2026-02-08"}, // Montabaur, Diebstahl
 {"coords": [9.4456, 51.8281], "date": "2026-02-08"}, // Holzminden, gestohlen
+//{"coords": [], "date": "2026-02-08"} // Motorradfahrer Piesport, klau
+{"coords": [6.9333, 51.8333], "date": "2026-02-08"}, // Heiden Heiden, Raub

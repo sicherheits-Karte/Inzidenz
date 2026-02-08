@@ -9968,3 +9968,13 @@
 {"coords": [8.6514, 49.8728], "date": "2026-02-08"}, // Ausgang Gemarkung Darmstadt, Dieb
 {"coords": [7.1856, 51.3994], "date": "2026-02-08"}, // Hattingen, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-02-08"}, // Bismarck Gelsenkirchen, Räuber
+{"coords": [11.3239, 50.9795], "date": "2026-02-08"}, // Abwesenheit Weimar, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2026-02-08"}, // Landau, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-02-08"}, // Zeugen Gera, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-02-08"}, // Firmeneinbrüche Schönau Nordhausen, Einbrüche
+{"coords": [12.1997, 50.6544], "date": "2026-02-08"}, // Kfz Greiz, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2026-02-08"}, // Versuchter Einbruch Nordhorn, Einbruch
+{"coords": [7.2333, 52.3167], "date": "2026-02-08"}, // Friseursalon Schüttorf, Einbruch
+{"coords": [7.4667, 52.3667], "date": "2026-02-08"}, // Fahrzeugteilen Spelle, Diebstahl
+{"coords": [7.4547, 53.2311], "date": "2026-02-08"}, // Leer, Einbruch
+//{"coords": [], "date": "2026-02-08"} // Sprötau, Diebstahl

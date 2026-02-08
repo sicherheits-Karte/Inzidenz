@@ -9993,3 +9993,8 @@
 {"coords": [8.4311, 49.3194], "date": "2026-02-08"}, // Taschendiebstahl Serie Speyer, Diebstahl
 {"coords": [8.0, 51.45], "date": "2026-02-08"}, // Handy Arnsberg, entwendet
 {"coords": [9.1753, 47.6633], "date": "2026-02-08"}, // Konstanz, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-02-08"}, // Zeugen Osnabrück, Einbrüche
+//{"coords": [], "date": "2026-02-08"} // Kutenholz erbeuten Schmuck, Unbekannte entwenden zwei Außenbordmotoren aus Buxtehuder Garage mehr, Einbrecher
+{"coords": [9.8333, 53.95], "date": "2026-02-08"}, // Apotheke Hagen, Diebstahl
+{"coords": [8.35, 49.5333], "date": "2026-02-08"}, // Kleingartenanlage Frankenthal, Einbruch
+//{"coords": [], "date": "2026-02-08"} // Bäckerei Krayenberggemeinde, Einbruch

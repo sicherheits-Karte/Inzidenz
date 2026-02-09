@@ -10051,3 +10051,14 @@
 //{"coords": [], "date": "2026-02-09"} // Kein Ort gefunden, gestohlen
 {"coords": [8.0, 51.3333], "date": "2026-02-09"}, // Sundern Sundern, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-02-09"}, // Sonstiges Aalen, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2026-02-09"}, // Warendorf, Einbruch
+{"coords": [10.0831, 52.6247], "date": "2026-02-09"}, // Tennishalle- Stadt Celle, Einbruch
+{"coords": [8.5786, 49.5383], "date": "2026-02-09"}, // Beute Viernheim, Dieb
+{"coords": [6.45, 51.6583], "date": "2026-02-09"}, // Einbrüchen Xanten, Einbrüche
+//{"coords": [], "date": "2026-02-09"} // Kreisgebiet mehr, Einbrüche
+{"coords": [7.35, 52.15], "date": "2026-02-09"}, // Steinfurt, Einbruch
+{"coords": [7.5833, 52.2972], "date": "2026-02-09"}, // Hörstel, Einbruch
+{"coords": [10.8, 53.4833], "date": "2026-02-09"}, // Greven, Dieb
+{"coords": [9.95, 52.15], "date": "2026-02-09"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-02-09"}, // Ludwigshafen, Einbrüche
+{"coords": [7.0116, 51.4556], "date": "2026-02-09"}, // Essen, Einbrecher

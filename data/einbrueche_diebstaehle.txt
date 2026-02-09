@@ -10062,3 +10062,15 @@
 {"coords": [9.95, 52.15], "date": "2026-02-09"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-02-09"}, // Ludwigshafen, Einbrüche
 {"coords": [7.0116, 51.4556], "date": "2026-02-09"}, // Essen, Einbrecher
+{"coords": [7.1675, 51.9436], "date": "2026-02-09"}, // Mehrfamilienhaus Coesfeld, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Ladenschluss Bergisch Gladbach, Raub
+{"coords": [7.2, 51.6167], "date": "2026-02-09"}, // Ladendiebe Recklinghausen, Dieb
+{"coords": [6.3667, 51.4833], "date": "2026-02-09"}, // Nieukerk, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-02-09"}, // Diepholz, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Olm, Diebstahl
+{"coords": [12.35, 49.1833], "date": "2026-02-09"}, // Reichenbach, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-02-09"}, // Bochum, aufbrechen
+{"coords": [7.1508, 51.2562], "date": "2026-02-09"}, // Wuppertal, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-02-09"}, // Zeugenhinweise Bochum, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-02-09"}, // Coesfeld, gestohlen
+//{"coords": [], "date": "2026-02-09"} // Gompertshausen, Raub

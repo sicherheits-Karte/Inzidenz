@@ -10037,3 +10037,17 @@
 {"coords": [11.0299, 50.9848], "date": "2026-02-09"}, // Erfurt, Diebstahl
 {"coords": [7.8231, 50.64], "date": "2026-02-09"}, // Minigolfanlage Hachenburg Hachenburg, Einbruch
 //{"coords": [], "date": "2026-02-09"} // Kreis, eingebrochen
+//{"coords": [], "date": "2026-02-09"} // der Straße, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2026-02-09"}, // Soest, gestohlen
+//{"coords": [], "date": "2026-02-09"} // Bergisch Gladbach, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Leichlingen, entwendet
+{"coords": [12.4333, 50.985], "date": "2026-02-09"}, // Altenburg, Diebstahl
+//{"coords": [], "date": "2026-02-09"} // Bretzenheim, Einbrecher
+{"coords": [8.705, 48.895], "date": "2026-02-09"}, // Wohnung Pforzheim, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Einfamilienhaus, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-09"}, // Bistro Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-09"}, // Erfurter Innenstadt Erfurt, Einbruch
+{"coords": [10.0528, 51.1889], "date": "2026-02-09"}, // Einkaufsmarkt Eschwege, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Kein Ort gefunden, gestohlen
+{"coords": [8.0, 51.3333], "date": "2026-02-09"}, // Sundern Sundern, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-09"}, // Sonstiges Aalen, Einbrüche

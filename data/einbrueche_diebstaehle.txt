@@ -10085,3 +10085,12 @@
 {"coords": [8.1361, 53.3969], "date": "2026-02-09"}, // Varel, Diebstahl
 {"coords": [9.5, 51.3167], "date": "2026-02-09"}, // Kassel, Raub
 {"coords": [8.4311, 49.3194], "date": "2026-02-09"}, // Speyer, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-02-09"}, // Herford, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-02-09"}, // Türen Kaiserslautern, Einbrecher
+{"coords": [7.8333, 51.7], "date": "2026-02-09"}, // Heessen, Einbruch
+{"coords": [9.15, 53.7667], "date": "2026-02-09"}, // Oberndorf, Raub
+{"coords": [9.6333, 51.65], "date": "2026-02-09"}, // Einbruch Uslar, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-02-09"}, // Kaiserslautern, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-02-09"}, // Recklinghausen, Raub
+{"coords": [8.6925, 52.1986], "date": "2026-02-09"}, // Löhne, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-02-09"}, // Gefährliche Körperverletzung Fulda, Einbruch

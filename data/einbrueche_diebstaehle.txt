@@ -10110,3 +10110,15 @@
 {"coords": [8.3833, 51.9], "date": "2026-02-09"}, // Gütersloh Gütersloh, Einbrüche
 {"coords": [8.8386, 48.9511], "date": "2026-02-09"}, // Mühlacker, entwendet
 {"coords": [9.0, 50.7333], "date": "2026-02-09"}, // Homberg, entwendet
+//{"coords": [], "date": "2026-02-09"} // Stadtgebiet, eingebrochen
+//{"coords": [], "date": "2026-02-09"} // der Zeit vom, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Kein Ort gefunden, Raub
+{"coords": [6.6178, 51.6589], "date": "2026-02-09"}, // Lottogeschäft Wesel, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-02-09"}, // Wohnhaus Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Höhe, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-02-09"}, // Nordhausen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-02-09"}, // Hinweise Recklinghausen, Einbrüche
+{"coords": [6.9603, 50.9375], "date": "2026-02-09"}, // Vermummten Köln, Raub
+{"coords": [6.5492, 51.2631], "date": "2026-02-09"}, // Willich, gestohlen
+{"coords": [6.3917, 51.2556], "date": "2026-02-09"}, // Viersen, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-02-09"}, // Mühlhausen, Diebstahl

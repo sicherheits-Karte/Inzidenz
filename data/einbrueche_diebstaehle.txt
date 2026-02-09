@@ -10036,3 +10036,4 @@
 {"coords": [8.5667, 49.65], "date": "2026-02-08"}, // Lorsch, Räuber
 {"coords": [11.0299, 50.9848], "date": "2026-02-09"}, // Erfurt, Diebstahl
 {"coords": [7.8231, 50.64], "date": "2026-02-09"}, // Minigolfanlage Hachenburg Hachenburg, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Kreis, eingebrochen

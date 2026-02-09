@@ -10129,3 +10129,15 @@
 {"coords": [8.705, 48.895], "date": "2026-02-09"}, // Zeugen Pforzheim, Einbruch
 {"coords": [7.7806, 53.5769], "date": "2026-02-09"}, // Landkreis Wittmund, Diebstahl
 //{"coords": [], "date": "2026-02-09"} // Kein Ort gefunden, Einbruch
+//{"coords": [], "date": "2026-02-09"} // Eck, eingebrochen
+{"coords": [8.6833, 50.5833], "date": "2026-02-09"}, // Kita Giessen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-09"}, // Mithilfe Giessen, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2026-02-09"}, // Trickdiebstahl Reutlingen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-09"}, // Giessen, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-02-09"}, // Bad Schwalbach, Einbruch
+{"coords": [6.9889, 51.8944], "date": "2026-02-09"}, // Lagerhallen Velen, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-02-09"}, // Gronau, entwendet
+{"coords": [6.6153, 51.8367], "date": "2026-02-09"}, // Büros Bocholt, Einbrecher
+//{"coords": [], "date": "2026-02-09"} // Kreis, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-02-09"}, // Kreis Offenbach, eingebrochen
+{"coords": [8.24, 50.0822], "date": "2026-02-09"}, // Geschwindigkeitskontrollen Wiesbaden, Einbruch

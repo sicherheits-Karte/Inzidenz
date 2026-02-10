@@ -10193,3 +10193,14 @@
 {"coords": [7.7689, 49.4447], "date": "2026-02-10"}, // Kaiserslautern, Diebstahl
 //{"coords": [], "date": "2026-02-10"} // Kreis Dithmarschen, Diebstähle
 {"coords": [8.6944, 53.8619], "date": "2026-02-10"}, // Zeugenaufruf Cuxhaven, Raub
+{"coords": [9.4367, 54.7819], "date": "2026-02-10"}, // Flensburg, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-02-10"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-02-10"}, // Lippe, Dieb
+{"coords": [8.8667, 51.9333], "date": "2026-02-10"}, // Lippe, eingebrochen
+{"coords": [8.8667, 51.9333], "date": "2026-02-10"}, // Lippe, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2026-02-10"}, // Euskirchen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-02-10"}, // Bargeld Bielefeld, Einbrecher
+{"coords": [11.4012, 53.6355], "date": "2026-02-10"}, // Schwerin, eingebrochen
+{"coords": [10.45, 52.1667], "date": "2026-02-10"}, // Thiede, Einbruch
+//{"coords": [], "date": "2026-02-10"} // Kreis, eingebrochen
+{"coords": [6.1353, 51.7875], "date": "2026-02-10"}, // Kreis Kleve, Diebstähle

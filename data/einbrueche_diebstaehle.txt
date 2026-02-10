@@ -10169,3 +10169,12 @@
 {"coords": [8.5833, 51.3833], "date": "2026-02-10"}, // Bahnhofstraße Brilon, Einbruch
 //{"coords": [], "date": "2026-02-10"} // Einfamilienhaus BAD DÜRKHEIM, Einbruch
 {"coords": [8.7667, 51.7167], "date": "2026-02-10"}, // Zeugen Paderborn, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-02-10"}, // Zeugen Herford, Dieb
+{"coords": [8.705, 48.895], "date": "2026-02-10"}, // Zeugen Pforzheim, Einbruch
+//{"coords": [], "date": "2026-02-10"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.65, 49.3], "date": "2026-02-10"}, // Industriegebiet Walldorf, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-02-10"}, // Recklinghausen, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-02-10"}, // Ludwigsburg, gestohlen
+{"coords": [8.2869, 52.7303], "date": "2026-02-10"}, // Vechta, Diebstahl
+{"coords": [7.4333, 52.2833], "date": "2026-02-10"}, // Werkstatt Rheine, Einbruch
+{"coords": [7.35, 52.15], "date": "2026-02-10"}, // Steinfurt, gestohlen

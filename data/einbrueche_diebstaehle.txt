@@ -10144,3 +10144,8 @@
 {"coords": [9.95, 52.15], "date": "2026-02-10"}, // Zeugenaufruf- Hildesheim, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-02-10"}, // Flucht Wittlich, klau
 {"coords": [7.1167, 49.8167], "date": "2026-02-10"}, // Tankstelle Morbach Morbach, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-02-10"}, // Zeugenaufruf Delmenhorst, Diebstahl
+//{"coords": [], "date": "2026-02-10"} // Einfamilienhaus, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-02-10"}, // Gera, entwendet
+{"coords": [12.4333, 50.985], "date": "2026-02-10"}, // Altenburg, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-02-10"}, // Sonstiges Aalen, Einbruch

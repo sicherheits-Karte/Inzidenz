@@ -10204,3 +10204,13 @@
 {"coords": [10.45, 52.1667], "date": "2026-02-10"}, // Thiede, Einbruch
 //{"coords": [], "date": "2026-02-10"} // Kreis, eingebrochen
 {"coords": [6.1353, 51.7875], "date": "2026-02-10"}, // Kreis Kleve, Diebstähle
+//{"coords": [], "date": "2026-02-10"} // Kreis, geklaut
+{"coords": [7.82, 47.99], "date": "2026-02-10"}, // Zeugensuche Freiburg, Diebstahl
+//{"coords": [], "date": "2026-02-10"} // Hilfarth, gestohlen
+{"coords": [6.315, 51.0794], "date": "2026-02-10"}, // Erkelenz, eingebrochen
+{"coords": [6.0961, 51.0631], "date": "2026-02-10"}, // Zeugensuche Heinsberg, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-02-10"}, // Kreis Offenbach, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-02-10"}, // Bielefeld, Diebstahl
+//{"coords": [], "date": "2026-02-10"} // Bad Honnef, Raub
+{"coords": [6.4333, 51.2], "date": "2026-02-10"}, // Mönchengladbach, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-02-10"}, // Raub Recklinghausen, Einbrüche

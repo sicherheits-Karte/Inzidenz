@@ -10214,3 +10214,13 @@
 //{"coords": [], "date": "2026-02-10"} // Bad Honnef, Raub
 {"coords": [6.4333, 51.2], "date": "2026-02-10"}, // Mönchengladbach, Diebstahl
 {"coords": [7.2, 51.6167], "date": "2026-02-10"}, // Raub Recklinghausen, Einbrüche
+{"coords": [8.3708, 52.6078], "date": "2026-02-10"}, // Diepholz, Raub
+{"coords": [8.4661, 49.4878], "date": "2026-02-10"}, // Zeugenaufruf Mannheim, Einbrecher
+{"coords": [8.4661, 49.4878], "date": "2026-02-10"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-02-10"}, // Hofheim, Dieb
+{"coords": [6.9603, 50.9375], "date": "2026-02-10"}, // Köln, eigentumsdelikt
+{"coords": [8.6822, 50.1106], "date": "2026-02-10"}, // Zeugenaufruf Frankfurt, Raub
+//{"coords": [], "date": "2026-02-10"} // Zeugen Fußgönheim, Einbrüche
+//{"coords": [], "date": "2026-02-10"} // der Straße Am Bahnhof wurden im Zeitraum vom, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-02-10"}, // Fotofahndung Essen, gestohlen
+{"coords": [6.9097, 49.4111], "date": "2026-02-10"}, // Lebach Lebach, Diebstahl

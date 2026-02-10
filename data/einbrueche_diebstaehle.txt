@@ -10178,3 +10178,18 @@
 {"coords": [8.2869, 52.7303], "date": "2026-02-10"}, // Vechta, Diebstahl
 {"coords": [7.4333, 52.2833], "date": "2026-02-10"}, // Werkstatt Rheine, Einbruch
 {"coords": [7.35, 52.15], "date": "2026-02-10"}, // Steinfurt, gestohlen
+//{"coords": [], "date": "2026-02-10"} // Friedelsheim, Einbruch
+//{"coords": [], "date": "2026-02-10"} // Rönne, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-10"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-10"}, // Ludwigshafen, Dieb
+{"coords": [8.4353, 49.4811], "date": "2026-02-10"}, // Kellerabteil Ludwigshafen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-02-10"}, // Ludwigshafen, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-02-10"}, // Ludwigshafen, aufbruch
+//{"coords": [], "date": "2026-02-10"} // Zeugenhinweise Sankt Augustin, Diebstähle
+{"coords": [8.6514, 49.8728], "date": "2026-02-10"}, // Darmstadt, Diebstahl
+//{"coords": [], "date": "2026-02-10"} // Kreis, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-02-10"}, // Heilbronn, Einbruch
+{"coords": [7.2056, 50.8014], "date": "2026-02-10"}, // Siegburg, entwendet
+{"coords": [7.7689, 49.4447], "date": "2026-02-10"}, // Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2026-02-10"} // Kreis Dithmarschen, Diebstähle
+{"coords": [8.6944, 53.8619], "date": "2026-02-10"}, // Zeugenaufruf Cuxhaven, Raub

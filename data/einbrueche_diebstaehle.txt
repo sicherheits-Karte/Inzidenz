@@ -10158,3 +10158,14 @@
 {"coords": [7.8208, 51.6803], "date": "2026-02-10"}, // Büroräume Hamm, Einbrüche
 {"coords": [9.9916, 48.3984], "date": "2026-02-10"}, // Ulm, gestohlen
 {"coords": [8.6306, 53.05], "date": "2026-02-10"}, // Delmenhorst, Diebstahl
+{"coords": [8.6372, 49.6419], "date": "2026-02-10"}, // Einbrecher Heppenheim, Einbrecher
+{"coords": [8.9519, 49.9667], "date": "2026-02-10"}, // Babenhausen, Einbruch
+//{"coords": [], "date": "2026-02-10"} // Firmengelände Büren, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-10"}, // Darmstadt, Dieb
+{"coords": [7.2667, 51.05], "date": "2026-02-10"}, // Kürten, aufbruch
+{"coords": [6.7735, 51.2277], "date": "2026-02-10"}, // Präventionstipps Düsseldorf, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-02-10"}, // Jackentasche Einbeck, Diebstahl
+{"coords": [6.55, 51.4667], "date": "2026-02-10"}, // Vluyn, Diebstahl
+{"coords": [8.5833, 51.3833], "date": "2026-02-10"}, // Bahnhofstraße Brilon, Einbruch
+//{"coords": [], "date": "2026-02-10"} // Einfamilienhaus BAD DÜRKHEIM, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-02-10"}, // Zeugen Paderborn, Einbruch

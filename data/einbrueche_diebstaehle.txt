@@ -10241,3 +10241,9 @@
 {"coords": [8.9167, 52.3], "date": "2026-02-10"}, // Minden, gestohlen
 //{"coords": [], "date": "2026-02-10"} // Firma ein, eingebrochen
 {"coords": [6.85, 49.3], "date": "2026-02-10"}, // Visier Bad Schwalbach, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-02-10"}, // Vollstreckungsbeamte Reutlingen, Einbruch
+//{"coords": [], "date": "2026-02-10"} // Höhe, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-02-10"}, // Taten Hannover, hab und gut
+{"coords": [7.1675, 51.9436], "date": "2026-02-10"}, // Imbiss Coesfeld, Einbruch
+//{"coords": [], "date": "2026-02-10"} // Pastow, Einbrüche
+{"coords": [7.4836, 53.4711], "date": "2026-02-10"}, // Landkreis Aurich, gestohlen

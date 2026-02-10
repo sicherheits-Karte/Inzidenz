@@ -10224,3 +10224,20 @@
 //{"coords": [], "date": "2026-02-10"} // der Straße Am Bahnhof wurden im Zeitraum vom, Diebstahl
 {"coords": [7.0116, 51.4556], "date": "2026-02-10"}, // Fotofahndung Essen, gestohlen
 {"coords": [6.9097, 49.4111], "date": "2026-02-10"}, // Lebach Lebach, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-02-10"}, // Coesfeld, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-02-10"}, // Kleve, Diebstahl
+//{"coords": [], "date": "2026-02-10"} // Kirchengebäude Albersweiler, Einbruch
+{"coords": [9.984, 54.0714], "date": "2026-02-10"}, // Neumünster Neumünster, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-02-10"}, // Limburg, Einbruch
+//{"coords": [], "date": "2026-02-10"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-02-10"}, // Festnahme Giessen, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-02-10"}, // Frankenthal, Dieb
+{"coords": [10.6866, 53.8655], "date": "2026-02-10"}, // Lübeck, entwendet
+{"coords": [7.2064, 53.5958], "date": "2026-02-10"}, // Norden, Einbrüche
+{"coords": [9.6106, 47.7828], "date": "2026-02-10"}, // Landkreis Ravensburg, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-02-10"}, // Senior Bielefeld, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-02-10"}, // Ulm, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-02-10"}, // Zeugen Meppen, Raub
+{"coords": [8.9167, 52.3], "date": "2026-02-10"}, // Minden, gestohlen
+//{"coords": [], "date": "2026-02-10"} // Firma ein, eingebrochen
+{"coords": [6.85, 49.3], "date": "2026-02-10"}, // Visier Bad Schwalbach, Einbruch

@@ -10142,3 +10142,5 @@
 {"coords": [8.7667, 50.1], "date": "2026-02-09"}, // Kreis Offenbach, eingebrochen
 {"coords": [8.24, 50.0822], "date": "2026-02-09"}, // Geschwindigkeitskontrollen Wiesbaden, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-02-10"}, // Zeugenaufruf- Hildesheim, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-02-10"}, // Flucht Wittlich, klau
+{"coords": [7.1167, 49.8167], "date": "2026-02-10"}, // Tankstelle Morbach Morbach, Einbruch

@@ -10270,3 +10270,12 @@
 {"coords": [10.7183, 50.9489], "date": "2026-02-11"}, // Trickbetrügern Gotha, entwendet
 {"coords": [10.3243, 50.9746], "date": "2026-02-11"}, // ertappt Eisenach, Dieb
 //{"coords": [], "date": "2026-02-11"} // der Bahnhofstraße kontrolliert. Im Rahmen der Verkehrskontrolle gab der Fahrzeugführer zu, Betäubungsmittel konsumiert zu haben. Eine Blutentnahme zu Beweiszwecken wurde angeordnet. Bei der Überprüfung des E-Scooters wurde außerdem festgestellt, dass dieser gestohlen wurde. Der E-Scooter wurde zur Eigentumssicherung sichergestellt. Es wurden entsprechende Verfahren gegen den, gestohlen
+{"coords": [8.4833, 52.1333], "date": "2026-02-11"}, // Zeugen Spenge, Einbruch
+{"coords": [8.6925, 52.1986], "date": "2026-02-11"}, // Diesel Löhne, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-02-11"}, // Delmenhorst, Einbruch
+{"coords": [7.5336, 52.1728], "date": "2026-02-11"}, // Emsdetten, Einbruch
+//{"coords": [], "date": "2026-02-11"} // Kreis, Raub
+{"coords": [11.5862, 50.9271], "date": "2026-02-11"}, // Jena, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-02-11"}, // Flaschenwurf Jena, Diebstahl
+{"coords": [10.6833, 49.2833], "date": "2026-02-11"}, // Zeugen Lichtenau, Einbrüche
+//{"coords": [], "date": "2026-02-11"} // Weimarer Land, Diebstahl

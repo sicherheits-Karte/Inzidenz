@@ -10334,3 +10334,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-02-11"}, // Verkehrsunfälle Reutlingen, Einbruch
 //{"coords": [], "date": "2026-02-11"} // Tunnelbaustelle Bad Bergzabern, Diebstahl
 //{"coords": [], "date": "2026-02-11"} // Betrügern Ellerstadt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-11"}, // Aalen, Raub

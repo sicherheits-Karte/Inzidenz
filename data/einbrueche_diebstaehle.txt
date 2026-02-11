@@ -10316,3 +10316,13 @@
 {"coords": [6.9603, 50.9375], "date": "2026-02-11"}, // Köln, Einbruch
 {"coords": [8.1667, 48.7833], "date": "2026-02-11"}, // Vimbuch, Einbruch
 {"coords": [8.7667, 50.1], "date": "2026-02-11"}, // Kreis Offenbach, gestohlen
+{"coords": [8.3833, 51.9], "date": "2026-02-11"}, // Bielefelder Straße Gütersloh, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-02-11"}, // Gestürzter Radfahrer Aalen, Einbruch
+{"coords": [8.5333, 50.0833], "date": "2026-02-11"}, // Höchst, Einbrüche
+//{"coords": [], "date": "2026-02-11"} // Kreis, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-02-11"}, // Innenstadt Karlsruhe, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-02-11"}, // Zeugenaufruf Cuxhaven, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-02-11"}, // Haft Giessen, Diebstahl
+//{"coords": [], "date": "2026-02-11"} // Gartenparzelle, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-02-11"}, // Gelsenkirchen, eingebrochen
+{"coords": [8.6944, 49.4092], "date": "2026-02-11"}, // Zeugenaufruf Heidelberg, Einbrüche

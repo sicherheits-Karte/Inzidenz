@@ -10289,3 +10289,10 @@
 {"coords": [6.7735, 51.2277], "date": "2026-02-11"}, // Ermittlungsrichter Düsseldorf, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-02-11"}, // Ludwigshafen, Einbrüche
 {"coords": [10.7865, 52.4226], "date": "2026-02-11"}, // Zeugen Wolfsburg, Raub
+{"coords": [8.8403, 47.7592], "date": "2026-02-11"}, // Singen, Dieb
+{"coords": [8.2417, 48.7994], "date": "2026-02-11"}, // Baden, Einbruch
+//{"coords": [], "date": "2026-02-11"} // Schwalmtal, Diebstahl
+//{"coords": [], "date": "2026-02-11"} // Kenn, Diebstähle
+{"coords": [10.0936, 48.8372], "date": "2026-02-11"}, // Haft Aalen, Raub
+//{"coords": [], "date": "2026-02-11"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.2061, 53.3669], "date": "2026-02-11"}, // Emden, Diebstahl

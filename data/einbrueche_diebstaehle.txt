@@ -10296,3 +10296,16 @@
 {"coords": [10.0936, 48.8372], "date": "2026-02-11"}, // Haft Aalen, Raub
 //{"coords": [], "date": "2026-02-11"} // dem Kreisgebiet, Einbrüche
 {"coords": [7.2061, 53.3669], "date": "2026-02-11"}, // Emden, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-02-11"}, // Vechta, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-02-11"}, // Vechta, entwendet
+{"coords": [9.3833, 50.6333], "date": "2026-02-11"}, // Vogelsbergkreis, entwendet
+{"coords": [11.5419, 49.7564], "date": "2026-02-11"}, // Pegnitz, Räuber
+{"coords": [8.3708, 52.6078], "date": "2026-02-11"}, // Diepholz, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-02-11"}, // Herne, Einbrüche
+{"coords": [9.9333, 52.9667], "date": "2026-02-11"}, // Heidekreis, gestohlen
+{"coords": [6.4833, 50.8], "date": "2026-02-11"}, // Hinweise Düren, entwendet
+{"coords": [6.3214, 50.8447], "date": "2026-02-11"}, // Zeugen Langerwehe, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2026-02-11"}, // Polizei Kassel, Dieb
+//{"coords": [], "date": "2026-02-11"} // Werksgelände Kruft, Einbruch
+//{"coords": [], "date": "2026-02-11"} // Winterberg Winterberg, Diebstahl
+{"coords": [10.0075, 53.7064], "date": "2026-02-11"}, // Zeugen Norderstedt, Einbruch

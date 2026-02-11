@@ -10279,3 +10279,13 @@
 {"coords": [11.5862, 50.9271], "date": "2026-02-11"}, // Flaschenwurf Jena, Diebstahl
 {"coords": [10.6833, 49.2833], "date": "2026-02-11"}, // Zeugen Lichtenau, Einbrüche
 //{"coords": [], "date": "2026-02-11"} // Weimarer Land, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2026-02-11"}, // Nürnberg, Dieb
+{"coords": [9.95, 52.15], "date": "2026-02-11"}, // Hildesheim, Einbrüche
+{"coords": [8.0472, 52.2799], "date": "2026-02-11"}, // Schnittblumen Osnabrück, Einbruch
+//{"coords": [], "date": "2026-02-11"} // Bretzenheim, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-02-11"}, // Mainzer Stadtgebiet Mainz, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-02-11"}, // Zeugen Oldenburg, Diebstahl
+{"coords": [7.1856, 51.3994], "date": "2026-02-11"}, // Hattingen, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-02-11"}, // Ermittlungsrichter Düsseldorf, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-11"}, // Ludwigshafen, Einbrüche
+{"coords": [10.7865, 52.4226], "date": "2026-02-11"}, // Zeugen Wolfsburg, Raub

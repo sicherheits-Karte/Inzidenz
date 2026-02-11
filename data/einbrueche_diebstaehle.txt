@@ -10250,3 +10250,5 @@
 {"coords": [8.4661, 49.4878], "date": "2026-02-10"}, // Zeugenaufruf Mannheim, entwendet
 {"coords": [8.24, 50.0822], "date": "2026-02-10"}, // Seniorin Wiesbaden, Dieb
 //{"coords": [], "date": "2026-02-10"} // Elzerath, Diebstähle
+{"coords": [8.4833, 49.9167], "date": "2026-02-11"}, // Gerau, Einbruch
+{"coords": [7.2064, 53.5958], "date": "2026-02-11"}, // Erfurter Norden Erfurt, Einbruch

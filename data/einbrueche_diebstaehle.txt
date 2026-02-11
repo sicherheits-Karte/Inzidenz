@@ -10263,3 +10263,10 @@
 {"coords": [10.45, 51.15], "date": "2026-02-11"}, // Scheune Niederdorla, Einbruch
 {"coords": [12.0799, 50.8772], "date": "2026-02-11"}, // Gera, Dieb
 {"coords": [12.0799, 50.8772], "date": "2026-02-11"}, // Gera, Einbruch
+//{"coords": [], "date": "2026-02-11"} // Bischheim, Raub
+{"coords": [10.2167, 50.7], "date": "2026-02-11"}, // Roßdorf, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-02-11"}, // Diebstähle Lüdenscheid, Einbruch
+{"coords": [7.6333, 51.1], "date": "2026-02-11"}, // Vereinsheim Meinerzhagen, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-02-11"}, // Trickbetrügern Gotha, entwendet
+{"coords": [10.3243, 50.9746], "date": "2026-02-11"}, // ertappt Eisenach, Dieb
+//{"coords": [], "date": "2026-02-11"} // der Bahnhofstraße kontrolliert. Im Rahmen der Verkehrskontrolle gab der Fahrzeugführer zu, Betäubungsmittel konsumiert zu haben. Eine Blutentnahme zu Beweiszwecken wurde angeordnet. Bei der Überprüfung des E-Scooters wurde außerdem festgestellt, dass dieser gestohlen wurde. Der E-Scooter wurde zur Eigentumssicherung sichergestellt. Es wurden entsprechende Verfahren gegen den, gestohlen

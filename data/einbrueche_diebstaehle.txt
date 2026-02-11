@@ -10333,3 +10333,4 @@
 {"coords": [7.8231, 50.64], "date": "2026-02-11"}, // Hachenburg, Einbrüche
 {"coords": [9.2167, 48.4833], "date": "2026-02-11"}, // Verkehrsunfälle Reutlingen, Einbruch
 //{"coords": [], "date": "2026-02-11"} // Tunnelbaustelle Bad Bergzabern, Diebstahl
+//{"coords": [], "date": "2026-02-11"} // Betrügern Ellerstadt, Einbruch

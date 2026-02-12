@@ -10427,3 +10427,11 @@
 //{"coords": [], "date": "2026-02-12"} // Bad Dürkheim, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-02-12"}, // Nordhausen, Dieb
 //{"coords": [], "date": "2026-02-12"} // Kein Ort gefunden, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-02-12"}, // Schule Reutlingen, Einbrüche
+//{"coords": [], "date": "2026-02-12"} // Bad Dürrheim, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-12"}, // Giessen, Dieb
+{"coords": [8.4414, 50.0919], "date": "2026-02-12"}, // Hofheim, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-12"}, // Ulm, gestohlen
+{"coords": [8.24, 50.0822], "date": "2026-02-12"}, // Wiesbaden, Einbruch
+//{"coords": [], "date": "2026-02-12"} // Höhe, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-02-12"}, // Giessen, Einbruch

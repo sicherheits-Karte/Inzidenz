@@ -10438,3 +10438,4 @@
 {"coords": [10.75, 51.5333], "date": "2026-02-12"}, // Sachschaden Niedersachswerfen, Einbrecher
 {"coords": [10.7956, 51.5019], "date": "2026-02-12"}, // Kabel Nordhausen, Dieb
 //{"coords": [], "date": "2026-02-12"} // Fahrzeug Bad Langensalza, Diebstahl
+//{"coords": [], "date": "2026-02-12"} // Kues, gestohlen

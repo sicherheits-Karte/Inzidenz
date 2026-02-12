@@ -10368,3 +10368,16 @@
 {"coords": [8.875, 53.05], "date": "2026-02-12"}, // Osterholz, Einbruch
 {"coords": [8.6833, 52.15], "date": "2026-02-12"}, // Eingangstür Herford, Einbruch
 {"coords": [8.8592, 52.1653], "date": "2026-02-12"}, // Zeugen Vlotho, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-12"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [7.1667, 50.8167], "date": "2026-02-12"}, // Troisdorf, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-02-12"}, // Hinweise Osnabrück, Raub
+{"coords": [6.3667, 51.85], "date": "2026-02-12"}, // Hüthum, Diebstahl
+//{"coords": [], "date": "2026-02-12"} // Kreis, Diebstahl
+{"coords": [6.45, 51.6583], "date": "2026-02-12"}, // Xanten, Diebstahl
+//{"coords": [], "date": "2026-02-12"} // Beethovenweg Selm, Einbrüche
+//{"coords": [], "date": "2026-02-12"} // Seniorin Kaarst, Raub
+{"coords": [8.4043, 49.014], "date": "2026-02-12"}, // Zeugen Karlsruhe, Raub
+{"coords": [10.4508, 50.7211], "date": "2026-02-12"}, // Schmalkalden, Diebstahl
+{"coords": [8.5333, 48.0667], "date": "2026-02-12"}, // Schwenningen, Diebstähle
+{"coords": [8.5333, 48.0667], "date": "2026-02-12"}, // Schwenningen, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-02-12"}, // Diepholz, Einbruch

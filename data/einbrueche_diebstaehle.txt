@@ -10349,3 +10349,13 @@
 {"coords": [10.0936, 48.8372], "date": "2026-02-12"}, // Schockanruf Aalen, Einbruch
 {"coords": [6.7623, 51.4344], "date": "2026-02-12"}, // Zeugen Duisburg, stahl
 //{"coords": [], "date": "2026-02-12"} // Weimarer Land, Dieb
+{"coords": [8.0472, 52.2799], "date": "2026-02-12"}, // Hinweise Osnabrück, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-02-12"}, // Friseursalon Heilbronn, Einbruch
+//{"coords": [], "date": "2026-02-12"} // Oberschopfheim, Einbruch
+//{"coords": [], "date": "2026-02-12"} // Kein Ort gefunden, Einbrecher
+//{"coords": [], "date": "2026-02-12"} // Radevormwald Radevormwald, Diebstahl
+{"coords": [7.6158, 50.8767], "date": "2026-02-12"}, // Waldbröl, Einbrecher
+//{"coords": [], "date": "2026-02-12"} // Beute Morsbach, Diebstahl
+//{"coords": [], "date": "2026-02-12"} // Versuchter Einbruch Sinzheim, Einbruch
+//{"coords": [], "date": "2026-02-12"} // Zeugen Heeßen, aufbruch
+{"coords": [7.6736, 51.2972], "date": "2026-02-12"}, // Altena, Diebstahl

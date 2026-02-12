@@ -10381,3 +10381,15 @@
 {"coords": [8.5333, 48.0667], "date": "2026-02-12"}, // Schwenningen, Diebstähle
 {"coords": [8.5333, 48.0667], "date": "2026-02-12"}, // Schwenningen, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-02-12"}, // Diepholz, Einbruch
+{"coords": [6.3319, 51.5194], "date": "2026-02-12"}, // Geldern, Diebstahl
+{"coords": [6.8333, 52.0333], "date": "2026-02-12"}, // Einfamilienhaus Vreden, Einbruch
+{"coords": [7.95, 50.9333], "date": "2026-02-12"}, // Kreuztal- Eichen, Diebstähle
+{"coords": [7.0667, 52.1], "date": "2026-02-12"}, // Heek, Dieb
+{"coords": [7.0333, 52.2167], "date": "2026-02-12"}, // Mobiltelefone Gronau, Dieb
+{"coords": [7.0042, 51.9542], "date": "2026-02-12"}, // Einfamilienhaus Gescher, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-02-12"}, // Bremen, Raub
+{"coords": [7.0083, 52.075], "date": "2026-02-12"}, // Ahaus, Dieb
+//{"coords": [], "date": "2026-02-12"} // Nütterden, Diebstähle
+{"coords": [6.7623, 51.4344], "date": "2026-02-12"}, // Auto Duisburg, stehlen
+//{"coords": [], "date": "2026-02-12"} // Windeck, gestohlen
+{"coords": [7.1667, 50.8167], "date": "2026-02-12"}, // Troisdorf, Diebstähle

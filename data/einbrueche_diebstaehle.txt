@@ -10408,3 +10408,14 @@
 {"coords": [7.7806, 53.5769], "date": "2026-02-12"}, // Landkreis Wittmund, Diebstahl
 //{"coords": [], "date": "2026-02-12"} // Süsterseel, entwendet
 {"coords": [7.4836, 53.4711], "date": "2026-02-12"}, // Verletzten Landkreis Aurich, Diebstahl
+//{"coords": [], "date": "2026-02-12"} // Kreis, Einbruch
+{"coords": [11.4333, 50.65], "date": "2026-02-12"}, // Hinweise Unterwellenborn, stahl
+{"coords": [7.2, 51.6167], "date": "2026-02-12"}, // Hinweise Recklinghausen, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2026-02-12"}, // Aalen, Diebstahl
+//{"coords": [], "date": "2026-02-12"} // Bad Kreuznach, aufbrüche
+{"coords": [9.0, 50.7333], "date": "2026-02-12"}, // Zeugen Homberg, Dieb
+{"coords": [8.2146, 53.1434], "date": "2026-02-12"}, // Oldenburg, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-02-12"}, // Flucht Wolfsburg, Diebstahl
+{"coords": [7.3208, 49.6922], "date": "2026-02-12"}, // Oberstein, Einbruch
+{"coords": [10.0075, 53.7064], "date": "2026-02-12"}, // Wohnungseinbruchdiebstahl Norderstedt, Einbruch
+//{"coords": [], "date": "2026-02-12"} // dem Kreisgebiet, Einbrüche

@@ -10398,3 +10398,13 @@
 {"coords": [9.6333, 51.65], "date": "2026-02-12"}, // Scooters Uslar, Diebstahl
 {"coords": [10.0528, 51.1889], "date": "2026-02-12"}, // Meißner Eschwege, Raub
 {"coords": [7.7689, 49.4447], "date": "2026-02-12"}, // Pikanter Ladendiebstahl Kaiserslautern, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-02-12"}, // Täterfestnahme Frankfurt, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-02-12"}, // Widerstand Frankfurt, Diebstahl
+{"coords": [11.9833, 49.4833], "date": "2026-02-12"}, // Freudenberg- Bühl, klau
+{"coords": [7.7689, 49.4447], "date": "2026-02-12"}, // Fahrzeug Kaiserslautern, Diebstahl
+{"coords": [9.3833, 50.6333], "date": "2026-02-12"}, // Wohnhäuser Vogelsbergkreis, Einbrüche
+{"coords": [13.7731, 54.0531], "date": "2026-02-12"}, // Wolgaster Innenstadt Wolgast, Einbruch
+//{"coords": [], "date": "2026-02-12"} // der vergangenen Nacht entwendeten zwei Deutsche Baumaterial im Wert von, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2026-02-12"}, // Landkreis Wittmund, Diebstahl
+//{"coords": [], "date": "2026-02-12"} // Süsterseel, entwendet
+{"coords": [7.4836, 53.4711], "date": "2026-02-12"}, // Verletzten Landkreis Aurich, Diebstahl

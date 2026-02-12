@@ -10338,3 +10338,14 @@
 {"coords": [7.3167, 52.8667], "date": "2026-02-12"}, // Zeugen Lathen, Einbruch
 {"coords": [7.4044, 53.0772], "date": "2026-02-12"}, // Papenburg, Einbruch
 {"coords": [7.3167, 52.3333], "date": "2026-02-12"}, // Emsbüren, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2026-02-12"}, // Am Getrudenweg Rheine, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-12"}, // Darmstadt, gestohlen
+{"coords": [10.8, 53.4833], "date": "2026-02-12"}, // Greven, gestohlen
+{"coords": [7.1833, 50.9], "date": "2026-02-12"}, // Rösrath, Einbruch
+{"coords": [7.5336, 52.1728], "date": "2026-02-12"}, // Schmuck Emsdetten, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-02-12"}, // Gera, Einbruch
+//{"coords": [], "date": "2026-02-12"} // Leichlingen, eingebrochen
+{"coords": [12.1997, 50.6544], "date": "2026-02-12"}, // Greiz, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-02-12"}, // Schockanruf Aalen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-02-12"}, // Zeugen Duisburg, stahl
+//{"coords": [], "date": "2026-02-12"} // Weimarer Land, Dieb

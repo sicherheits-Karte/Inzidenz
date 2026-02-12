@@ -10359,3 +10359,12 @@
 //{"coords": [], "date": "2026-02-12"} // Versuchter Einbruch Sinzheim, Einbruch
 //{"coords": [], "date": "2026-02-12"} // Zeugen Heeßen, aufbruch
 {"coords": [7.6736, 51.2972], "date": "2026-02-12"}, // Altena, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-02-12"}, // Erfurter Kindertagesstätte Erfurt, Einbruch
+//{"coords": [], "date": "2026-02-12"} // Villingendorf, Einbruch
+//{"coords": [], "date": "2026-02-12"} // Iffezheim, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-02-12"}, // Rotenburg, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2026-02-12"}, // Duisburg, Raub
+{"coords": [8.7403, 48.7142], "date": "2026-02-12"}, // Baustelle Calw, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-02-12"}, // Osterholz, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-02-12"}, // Eingangstür Herford, Einbruch
+{"coords": [8.8592, 52.1653], "date": "2026-02-12"}, // Zeugen Vlotho, Einbruch

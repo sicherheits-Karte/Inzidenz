@@ -10442,3 +10442,13 @@
 {"coords": [10.0936, 48.8372], "date": "2026-02-13"}, // Versuchter Einbruch Aalen, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2026-02-13"}, // Jena, hab und gut
 {"coords": [6.8889, 49.9858], "date": "2026-02-13"}, // Taschendiebstahl Wittlich, Diebstahl
+{"coords": [10.2414, 53.6758], "date": "2026-02-13"}, // Ahrensburg Ratzeburg, Einbruch
+//{"coords": [], "date": "2026-02-13"} // Nachtspaziergang überrascht, Dieb
+//{"coords": [], "date": "2026-02-13"} // Geldautomaten, Diebstähle
+//{"coords": [], "date": "2026-02-13"} // Erwitte, entwendet
+//{"coords": [], "date": "2026-02-13"} // Erpolzheim, Einbrüche
+{"coords": [9.95, 52.15], "date": "2026-02-13"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-02-13"}, // Altmetall Einbeck, Diebstahl
+//{"coords": [], "date": "2026-02-13"} // Zeugen Hilkenbrook, Diebstahl
+{"coords": [7.2417, 52.7922], "date": "2026-02-13"}, // Haren, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-02-13"}, // Offenbach, Einbruch

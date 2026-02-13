@@ -10479,3 +10479,10 @@
 {"coords": [10.7753, 49.7544], "date": "2026-02-13"}, // Diebstahls Mühlhausen, Diebstahl
 {"coords": [7.1508, 51.2562], "date": "2026-02-13"}, // Wuppertal, Dieb
 {"coords": [8.3667, 50.0], "date": "2026-02-13"}, // Zeugenaufruf Bischofsheim, stehlen
+{"coords": [8.6944, 53.8619], "date": "2026-02-13"}, // Zeugenaufruf Cuxhaven, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-02-13"}, // Gebrauchtwagenhandel Gelsenkirchen, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-02-13"}, // Scooter Diebstahl Heilbronn, Diebstahl
+{"coords": [10.5833, 49.3], "date": "2026-02-13"}, // Ansbach, Einbruch
+//{"coords": [], "date": "2026-02-13"} // Kein Ort gefunden, Einbrecher
+{"coords": [7.3333, 51.4333], "date": "2026-02-13"}, // Witten, Einbruch
+//{"coords": [], "date": "2026-02-13"} // Zeugen Pfalzgrafenweiler, Einbruch

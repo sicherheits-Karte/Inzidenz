@@ -10542,3 +10542,4 @@
 {"coords": [8.3708, 52.6078], "date": "2026-02-13"}, // Diepholz, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-02-13"}, // Gartenkolonie Hildesheim, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-02-13"}, // Sonnenkamp Hildesheim, Einbruch
+{"coords": [10.8708, 51.3697], "date": "2026-02-13"}, // Klinikum Sondershausen, stahl

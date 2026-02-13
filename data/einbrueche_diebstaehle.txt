@@ -10538,3 +10538,4 @@
 {"coords": [7.9667, 48.6833], "date": "2026-02-13"}, // Nachtragsmeldung Rheinau, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-02-13"}, // Reutlingen, Einbruch
 {"coords": [6.6594, 50.2228], "date": "2026-02-13"}, // Kennzeichendiebstahl Gerolstein, Diebstahl
+{"coords": [8.1128, 49.1994], "date": "2026-02-13"}, // Landau, Einbruch

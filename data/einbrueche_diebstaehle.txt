@@ -10535,3 +10535,5 @@
 {"coords": [8.24, 50.0822], "date": "2026-02-13"}, // Verkehrsunfall Wiesbaden, Einbrüche
 {"coords": [6.2833, 51.3167], "date": "2026-02-13"}, // Schmuck Nettetal, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-02-13"}, // Fahrzeugen Ludwigsburg, Diebstähle
+{"coords": [7.9667, 48.6833], "date": "2026-02-13"}, // Nachtragsmeldung Rheinau, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-02-13"}, // Reutlingen, Einbruch

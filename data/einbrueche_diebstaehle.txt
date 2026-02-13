@@ -10462,3 +10462,9 @@
 {"coords": [6.6264, 51.4519], "date": "2026-02-13"}, // Moers, entwendet
 {"coords": [8.6514, 49.8728], "date": "2026-02-13"}, // Darmstadt, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2026-02-13"}, // Darmstadt, Einbrecher
+//{"coords": [], "date": "2026-02-13"} // Schmölln, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-02-13"}, // Ulm, Dieb
+{"coords": [9.0492, 52.2603], "date": "2026-02-13"}, // Zeugen Bückeburg, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-02-13"}, // Euskirchen, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-02-13"}, // Northeim, Einbruch
+{"coords": [8.8431, 49.8978], "date": "2026-02-13"}, // Plan Dieburg, Dieb

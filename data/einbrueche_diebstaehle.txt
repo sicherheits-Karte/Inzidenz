@@ -10534,3 +10534,4 @@
 //{"coords": [], "date": "2026-02-13"} // Außenlager Bad Frankenhausen, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-02-13"}, // Verkehrsunfall Wiesbaden, Einbrüche
 {"coords": [6.2833, 51.3167], "date": "2026-02-13"}, // Schmuck Nettetal, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-02-13"}, // Fahrzeugen Ludwigsburg, Diebstähle

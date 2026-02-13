@@ -10439,3 +10439,6 @@
 {"coords": [10.7956, 51.5019], "date": "2026-02-12"}, // Kabel Nordhausen, Dieb
 //{"coords": [], "date": "2026-02-12"} // Fahrzeug Bad Langensalza, Diebstahl
 //{"coords": [], "date": "2026-02-12"} // Kues, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-02-13"}, // Versuchter Einbruch Aalen, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-02-13"}, // Jena, hab und gut
+{"coords": [6.8889, 49.9858], "date": "2026-02-13"}, // Taschendiebstahl Wittlich, Diebstahl

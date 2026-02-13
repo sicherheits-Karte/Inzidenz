@@ -10468,3 +10468,14 @@
 {"coords": [6.7872, 50.6606], "date": "2026-02-13"}, // Euskirchen, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-02-13"}, // Northeim, Einbruch
 {"coords": [8.8431, 49.8978], "date": "2026-02-13"}, // Plan Dieburg, Dieb
+{"coords": [8.6944, 49.4092], "date": "2026-02-13"}, // Zeugenaufruf Heidelberg, entwendet
+{"coords": [7.2833, 50.7833], "date": "2026-02-13"}, // Einfamilienhaus Hennef, Einbruch
+{"coords": [8.45, 49.95], "date": "2026-02-13"}, // Kellerwohnung Nauheim, Einbruch
+//{"coords": [], "date": "2026-02-13"} // Sankt Augustin, geklaut
+{"coords": [7.9833, 51.95], "date": "2026-02-13"}, // Geschäftsräume Warendorf, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-02-13"}, // Nürnberg, Dieb
+{"coords": [8.0, 51.45], "date": "2026-02-13"}, // Arnsberg, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-02-13"}, // Ludwigsburg, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-02-13"}, // Diebstahls Mühlhausen, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-02-13"}, // Wuppertal, Dieb
+{"coords": [8.3667, 50.0], "date": "2026-02-13"}, // Zeugenaufruf Bischofsheim, stehlen

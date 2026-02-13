@@ -10530,3 +10530,7 @@
 {"coords": [8.5331, 52.021], "date": "2026-02-13"}, // Terrassentür Bielefeld, Einbruch
 {"coords": [9.1333, 48.8], "date": "2026-02-13"}, // Feuerbach, Dieb
 {"coords": [8.6833, 50.5833], "date": "2026-02-13"}, // Steuer Giessen, Einbrecher
+{"coords": [9.2108, 49.1425], "date": "2026-02-13"}, // Polizeipräsidiums Heilbronn Heilbronn, stehlen
+//{"coords": [], "date": "2026-02-13"} // Außenlager Bad Frankenhausen, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-02-13"}, // Verkehrsunfall Wiesbaden, Einbrüche
+{"coords": [6.2833, 51.3167], "date": "2026-02-13"}, // Schmuck Nettetal, Einbruch

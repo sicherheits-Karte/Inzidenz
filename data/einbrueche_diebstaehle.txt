@@ -10539,3 +10539,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-02-13"}, // Reutlingen, Einbruch
 {"coords": [6.6594, 50.2228], "date": "2026-02-13"}, // Kennzeichendiebstahl Gerolstein, Diebstahl
 {"coords": [8.1128, 49.1994], "date": "2026-02-13"}, // Landau, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-02-13"}, // Diepholz, Einbruch

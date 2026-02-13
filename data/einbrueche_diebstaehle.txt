@@ -10492,3 +10492,13 @@
 {"coords": [10.7183, 50.9489], "date": "2026-02-13"}, // Gotha, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2026-02-13"}, // Fulda, entwendet
 {"coords": [8.3708, 52.6078], "date": "2026-02-13"}, // Diepholz, Diebstahl
+{"coords": [6.8139, 50.9147], "date": "2026-02-13"}, // Frechen, Einbrüche
+{"coords": [9.4108, 53.1111], "date": "2026-02-13"}, // Einbruchserie Rotenburg, Einbruch
+{"coords": [7.2064, 53.5958], "date": "2026-02-13"}, // Neusser Norden, Einbrecher
+{"coords": [8.5847, 53.5469], "date": "2026-02-13"}, // Auto Bremerhaven, Dieb
+{"coords": [8.5331, 52.021], "date": "2026-02-13"}, // Bielefeld, Diebstahl
+{"coords": [6.6528, 50.5931], "date": "2026-02-13"}, // Werkstatt Mechernich, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-02-13"}, // Wuppertal, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-02-13"}, // Kreis Offenbach, Einbrecher
+{"coords": [9.4, 48.6833], "date": "2026-02-13"}, // Neuhausen, Diebstahl
+{"coords": [8.8, 48.05], "date": "2026-02-13"}, // Wurmlingen, eingebrochen

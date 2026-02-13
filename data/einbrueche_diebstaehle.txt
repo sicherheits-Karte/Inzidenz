@@ -10502,3 +10502,11 @@
 {"coords": [8.7667, 50.1], "date": "2026-02-13"}, // Kreis Offenbach, Einbrecher
 {"coords": [9.4, 48.6833], "date": "2026-02-13"}, // Neuhausen, Diebstahl
 {"coords": [8.8, 48.05], "date": "2026-02-13"}, // Wurmlingen, eingebrochen
+//{"coords": [], "date": "2026-02-13"} // Hotel Wassenberg, Einbruch
+//{"coords": [], "date": "2026-02-13"} // Lindern, Dieb
+//{"coords": [], "date": "2026-02-13"} // Tüddern, entwendet
+{"coords": [6.0961, 51.0631], "date": "2026-02-13"}, // Tageswohnungseinbruch Heinsberg, Einbruch
+//{"coords": [], "date": "2026-02-13"} // Birgden, Einbruch
+//{"coords": [], "date": "2026-02-13"} // Kein Ort gefunden, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-02-13"}, // Bielefeld, Dieb
+//{"coords": [], "date": "2026-02-13"} // Pkw Bad Rappenau, Diebstahl

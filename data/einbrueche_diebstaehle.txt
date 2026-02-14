@@ -10560,3 +10560,4 @@
 {"coords": [8.8075, 53.075], "date": "2026-02-14"}, // Zeugen-- Bremen, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-02-14"}, // Ganderkesee Delmenhorst, Einbruch
 {"coords": [8.4639, 53.1167], "date": "2026-02-14"}, // Hude Delmenhorst, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2026-02-14"}, // Wittmund, Diebstahl

@@ -10566,3 +10566,5 @@
 {"coords": [8.1128, 49.1994], "date": "2026-02-14"}, // Fahrraddiebstahl Landau, Diebstahl
 {"coords": [8.6822, 50.1106], "date": "2026-02-14"}, // Zeugensuche Frankfurt, Raub
 {"coords": [8.4311, 49.3194], "date": "2026-02-14"}, // Sachbeschädigung Speyer, Raub
+{"coords": [9.95, 52.15], "date": "2026-02-14"}, // Alfeld Hildesheim, Diebstahl
+{"coords": [10.4278, 51.9042], "date": "2026-02-14"}, // Goslar, Diebstahl

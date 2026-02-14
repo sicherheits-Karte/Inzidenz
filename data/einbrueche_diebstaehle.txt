@@ -10546,3 +10546,5 @@
 {"coords": [7.82, 47.99], "date": "2026-02-14"}, // Freiburg, Diebstahl
 {"coords": [7.0, 49.9667], "date": "2026-02-14"}, // Monzel, klau
 {"coords": [7.2197, 51.5428], "date": "2026-02-14"}, // Zeugen Herne, Raub
+{"coords": [7.6, 49.2], "date": "2026-02-14"}, // Pirmasens, gestohlen
+{"coords": [7.4547, 53.2311], "date": "2026-02-14"}, // Leer, Einbruch

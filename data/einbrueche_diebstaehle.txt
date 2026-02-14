@@ -10561,3 +10561,5 @@
 {"coords": [8.6306, 53.05], "date": "2026-02-14"}, // Ganderkesee Delmenhorst, Einbruch
 {"coords": [8.4639, 53.1167], "date": "2026-02-14"}, // Hude Delmenhorst, Einbruch
 {"coords": [7.7806, 53.5769], "date": "2026-02-14"}, // Wittmund, Diebstahl
+{"coords": [7.0, 49.2333], "date": "2026-02-14"}, // Saarbrücken, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-02-14"}, // Tätlicher Angriff Reutlingen, Einbrüche

@@ -10556,3 +10556,4 @@
 {"coords": [8.4389, 49.4889], "date": "2026-02-14"}, // Hemshof, Einbruch
 {"coords": [8.3583, 49.4972], "date": "2026-02-14"}, // Oggersheim, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-02-14"}, // Wohnung Mannheim, Einbruch
+//{"coords": [], "date": "2026-02-14"} // ein Einfamilienhaus eingebrochen und entwendeten Bargeld in fünfstelliger Höhe sowie Schmuck. Nach bisherigen Ermittlungen verschaffte sich der unbekannte Täter zwischen, Einbruch

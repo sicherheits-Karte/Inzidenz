@@ -10563,3 +10563,6 @@
 {"coords": [7.7806, 53.5769], "date": "2026-02-14"}, // Wittmund, Diebstahl
 {"coords": [7.0, 49.2333], "date": "2026-02-14"}, // Saarbrücken, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-02-14"}, // Tätlicher Angriff Reutlingen, Einbrüche
+{"coords": [8.1128, 49.1994], "date": "2026-02-14"}, // Fahrraddiebstahl Landau, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-02-14"}, // Zeugensuche Frankfurt, Raub
+{"coords": [8.4311, 49.3194], "date": "2026-02-14"}, // Sachbeschädigung Speyer, Raub

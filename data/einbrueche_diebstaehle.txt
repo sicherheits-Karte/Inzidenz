@@ -10574,3 +10574,4 @@
 //{"coords": [], "date": "2026-02-14"} // Rhein, Einbrüche
 {"coords": [10.95, 50.8333], "date": "2026-02-14"}, // Arnstadt, entwendet
 {"coords": [10.9147, 50.6856], "date": "2026-02-14"}, // Ilmenau, Dieb
+//{"coords": [], "date": "2026-02-15"} // Brückrachdorf, entwendet

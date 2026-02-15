@@ -10646,3 +10646,4 @@
 //{"coords": [], "date": "2026-02-15"} // Höhe, Einbrüche
 {"coords": [8.8667, 51.9333], "date": "2026-02-15"}, // Lippe, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-02-15"}, // Lippe, Diebstahl
+{"coords": [8.8431, 49.8978], "date": "2026-02-15"}, // Dieburg, Dieb

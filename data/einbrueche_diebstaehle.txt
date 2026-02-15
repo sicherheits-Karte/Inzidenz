@@ -10640,3 +10640,5 @@
 {"coords": [10.0936, 48.8372], "date": "2026-02-15"}, // Aalen, Einbrüche
 {"coords": [7.1, 51.5167], "date": "2026-02-15"}, // Gelsenkirchen, Raub
 {"coords": [10.6833, 48.7833], "date": "2026-02-15"}, // Harburg, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-02-15"}, // Limburg, Einbruch
+//{"coords": [], "date": "2026-02-15"} // Kein Ort gefunden, Dieb

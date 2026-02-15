@@ -10648,3 +10648,4 @@
 {"coords": [8.8667, 51.9333], "date": "2026-02-15"}, // Lippe, Diebstahl
 {"coords": [8.8431, 49.8978], "date": "2026-02-15"}, // Dieburg, Dieb
 {"coords": [9.95, 52.15], "date": "2026-02-15"}, // Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-02-15"} // Elektrowerkzeugen Piesport, Diebstahl

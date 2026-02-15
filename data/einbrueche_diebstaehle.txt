@@ -10649,3 +10649,4 @@
 {"coords": [8.8431, 49.8978], "date": "2026-02-15"}, // Dieburg, Dieb
 {"coords": [9.95, 52.15], "date": "2026-02-15"}, // Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-02-15"} // Elektrowerkzeugen Piesport, Diebstahl
+{"coords": [7.0333, 50.8167], "date": "2026-02-15"}, // Karnevalswagen Niederkassel, Raub

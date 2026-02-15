@@ -10592,3 +10592,4 @@
 {"coords": [10.6944, 50.6111], "date": "2026-02-15"}, // Kellereinbruch Suhl, Einbruch
 {"coords": [8.375, 49.3833], "date": "2026-02-15"}, // Schifferstadt, Diebstähle
 {"coords": [7.2061, 53.3669], "date": "2026-02-15"}, // Emden, Diebstahl
+{"coords": [6.4833, 50.8], "date": "2026-02-15"}, // Wohnungseinbrüchen Düren Langerwehe, Einbrüche

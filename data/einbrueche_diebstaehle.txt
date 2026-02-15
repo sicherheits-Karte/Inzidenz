@@ -10637,3 +10637,4 @@
 {"coords": [8.0472, 52.2799], "date": "2026-02-15"}, // Zeugen Osnabrück, Raub
 {"coords": [6.6153, 51.8367], "date": "2026-02-15"}, // Wagen Bocholt, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-02-15"}, // Kleingartenanlage Augsburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-15"}, // Aalen, Einbrüche

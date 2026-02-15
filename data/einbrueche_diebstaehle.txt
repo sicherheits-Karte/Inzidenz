@@ -10638,3 +10638,5 @@
 {"coords": [6.6153, 51.8367], "date": "2026-02-15"}, // Wagen Bocholt, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-02-15"}, // Kleingartenanlage Augsburg, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-02-15"}, // Aalen, Einbrüche
+{"coords": [7.1, 51.5167], "date": "2026-02-15"}, // Gelsenkirchen, Raub
+{"coords": [10.6833, 48.7833], "date": "2026-02-15"}, // Harburg, Raub

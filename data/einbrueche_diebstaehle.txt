@@ -10626,3 +10626,14 @@
 {"coords": [7.9833, 51.95], "date": "2026-02-15"}, // Kleingartenanlage Warendorf, Einbruch
 {"coords": [8.6822, 50.1106], "date": "2026-02-15"}, // Einbrüchen Frankfurt, Einbrüche
 {"coords": [9.2167, 48.4833], "date": "2026-02-15"}, // Reutlingen, Einbrüche
+{"coords": [10.4, 53.25], "date": "2026-02-15"}, // Lüneburg, Einbruch
+//{"coords": [], "date": "2026-02-15"} // Verbindung mit Winterglätte, Dieb
+{"coords": [6.9889, 51.8944], "date": "2026-02-15"}, // Velen, Einbruch
+//{"coords": [], "date": "2026-02-15"} // Kein Ort gefunden, Raub
+{"coords": [6.9889, 51.8944], "date": "2026-02-15"}, // Velen, eingebrochen
+{"coords": [6.8333, 51.7833], "date": "2026-02-15"}, // Raesfeld, Dieb
+{"coords": [10.8978, 48.3705], "date": "2026-02-15"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [7.0333, 52.2167], "date": "2026-02-15"}, // Gronau, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-02-15"}, // Zeugen Osnabrück, Raub
+{"coords": [6.6153, 51.8367], "date": "2026-02-15"}, // Wagen Bocholt, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-02-15"}, // Kleingartenanlage Augsburg, Einbruch

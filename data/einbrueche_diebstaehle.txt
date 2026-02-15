@@ -10595,3 +10595,5 @@
 {"coords": [6.4833, 50.8], "date": "2026-02-15"}, // Wohnungseinbrüchen Düren Langerwehe, Einbrüche
 //{"coords": [], "date": "2026-02-15"} // Wohnhaus Bad Windsheim, Einbruch
 {"coords": [11.1667, 50.35], "date": "2026-02-15"}, // Sonneberg, gestohlen
+{"coords": [8.1128, 49.1994], "date": "2026-02-15"}, // Packstation Landau, aufbruch
+//{"coords": [], "date": "2026-02-15"} // Wohnungseinbruch Bad Langensalza, Einbruch

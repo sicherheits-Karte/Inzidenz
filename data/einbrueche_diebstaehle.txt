@@ -10603,3 +10603,8 @@
 {"coords": [11.0299, 50.9848], "date": "2026-02-15"}, // Krämpfervorstadt Erfurt, Einbruch
 //{"coords": [], "date": "2026-02-15"} // Kall, entwendet
 {"coords": [8.4414, 50.0919], "date": "2026-02-15"}, // Hofheim, Einbruch
+//{"coords": [], "date": "2026-02-15"} // Höhe, Einbruch
+//{"coords": [], "date": "2026-02-15"} // Straße, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-02-15"}, // Stade, Einbrecher
+{"coords": [7.1861, 49.6583], "date": "2026-02-15"}, // Kfz Birkenfeld, aufbruch
+//{"coords": [], "date": "2026-02-15"} // Straftaten Eichsfeldkreis, entwendet

@@ -10597,3 +10597,9 @@
 {"coords": [11.1667, 50.35], "date": "2026-02-15"}, // Sonneberg, gestohlen
 {"coords": [8.1128, 49.1994], "date": "2026-02-15"}, // Packstation Landau, aufbruch
 //{"coords": [], "date": "2026-02-15"} // Wohnungseinbruch Bad Langensalza, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-15"}, // Raubdelikt Erfurt, entwendet
+{"coords": [6.75, 50.4167], "date": "2026-02-15"}, // Tageswohnungseinbruch Esch, Einbruch
+//{"coords": [], "date": "2026-02-15"} // Bouderath, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-15"}, // Krämpfervorstadt Erfurt, Einbruch
+//{"coords": [], "date": "2026-02-15"} // Kall, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-02-15"}, // Hofheim, Einbruch

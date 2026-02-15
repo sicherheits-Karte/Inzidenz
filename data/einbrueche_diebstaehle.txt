@@ -10616,3 +10616,7 @@
 {"coords": [12.1997, 50.6544], "date": "2026-02-15"}, // Krankenhaus Greiz, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2026-02-15"}, // Bochum, Dieb
 {"coords": [11.5862, 50.9271], "date": "2026-02-15"}, // Jena, Einbrecher
+{"coords": [7.9833, 51.95], "date": "2026-02-15"}, // Spielhalle Warendorf, Einbruch
+{"coords": [7.4614, 50.4286], "date": "2026-02-15"}, // Neuwied, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-02-15"}, // Einbrüche Wiesbaden, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-02-15"}, // Zeugen Osnabrück, Einbruch

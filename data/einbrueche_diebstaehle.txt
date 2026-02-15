@@ -10586,3 +10586,9 @@
 {"coords": [10.4167, 50.55], "date": "2026-02-15"}, // Kellerverschlag Meiningen, Diebstahl
 {"coords": [7.3392, 51.3197], "date": "2026-02-15"}, // Gevelsberg, Einbruch
 {"coords": [7.2931, 51.2861], "date": "2026-02-15"}, // Schwelm, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-02-15"}, // Hinweise Mannheim, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2026-02-15"}, // Suhl, entwendet
+{"coords": [10.6944, 50.6111], "date": "2026-02-15"}, // Wanderhütte Suhl, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2026-02-15"}, // Kellereinbruch Suhl, Einbruch
+{"coords": [8.375, 49.3833], "date": "2026-02-15"}, // Schifferstadt, Diebstähle
+{"coords": [7.2061, 53.3669], "date": "2026-02-15"}, // Emden, Diebstahl

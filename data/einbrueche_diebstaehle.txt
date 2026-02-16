@@ -10653,3 +10653,4 @@
 {"coords": [10.95, 50.8333], "date": "2026-02-16"}, // Zeugenaufruf Arnstadt, aufbruch
 //{"coords": [], "date": "2026-02-16"} // Riechheim, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-02-16"}, // Freiburg, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Langenselbold, Einbruch

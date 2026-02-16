@@ -10732,3 +10732,15 @@
 {"coords": [13.2333, 50.8], "date": "2026-02-16"}, // Eppendorf Hamburg, Raub
 {"coords": [9.6106, 47.7828], "date": "2026-02-16"}, // Landkreis Ravensburg Landkreis Ravensburg, gestohlen
 {"coords": [11.0106, 52.2278], "date": "2026-02-16"}, // Helmstedt, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Rhein, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Schwabenheim, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Stadtgebiet Bad Kreuznach Bad Kreuznach, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-02-16"}, // Freiburg Freiburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-02-16"}, // Zeugen Freiburg, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Bad Oeynhausen, aufbrüche
+{"coords": [8.3708, 52.6078], "date": "2026-02-16"}, // Diepholz, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-16"}, // Giessen, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2026-02-16"}, // Limburg, Einbrecher
+{"coords": [8.4661, 49.4878], "date": "2026-02-16"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-16"}, // Fahndung Darmstadt, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-02-16"}, // Gütersloh, Einbruch

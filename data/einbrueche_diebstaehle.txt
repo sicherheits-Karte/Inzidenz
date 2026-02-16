@@ -10727,3 +10727,8 @@
 {"coords": [8.2711, 50.0], "date": "2026-02-16"}, // Hinweise Mainz- Stadtgebiet, Einbrüche
 //{"coords": [], "date": "2026-02-16"} // Rommerskirchen, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-02-16"}, // Zeugenaufruf Gütersloh, Einbruch
+{"coords": [7.7833, 51.35], "date": "2026-02-16"}, // Metalldiebstahl Neuenrade, Diebstahl
+//{"coords": [], "date": "2026-02-16"} // dem Kreisgebiet, Einbrüche
+{"coords": [13.2333, 50.8], "date": "2026-02-16"}, // Eppendorf Hamburg, Raub
+{"coords": [9.6106, 47.7828], "date": "2026-02-16"}, // Landkreis Ravensburg Landkreis Ravensburg, gestohlen
+{"coords": [11.0106, 52.2278], "date": "2026-02-16"}, // Helmstedt, Einbruch

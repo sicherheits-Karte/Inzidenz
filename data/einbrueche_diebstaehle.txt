@@ -10756,3 +10756,6 @@
 {"coords": [7.82, 47.99], "date": "2026-02-16"}, // Zeugensuche Freiburg, aufbruch
 {"coords": [6.85, 49.3], "date": "2026-02-16"}, // Einbruch Bad Schwalbach, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-02-16"}, // Baustelle Freiburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-02-16"}, // Gebüsch Giessen, Dieb
+//{"coords": [], "date": "2026-02-16"} // Main, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-02-16"}, // Cölbe Giessen, Einbruch

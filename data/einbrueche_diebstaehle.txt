@@ -10650,3 +10650,6 @@
 {"coords": [9.95, 52.15], "date": "2026-02-15"}, // Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-02-15"} // Elektrowerkzeugen Piesport, Diebstahl
 {"coords": [7.0333, 50.8167], "date": "2026-02-15"}, // Karnevalswagen Niederkassel, Raub
+{"coords": [10.95, 50.8333], "date": "2026-02-16"}, // Zeugenaufruf Arnstadt, aufbruch
+//{"coords": [], "date": "2026-02-16"} // Riechheim, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-02-16"}, // Freiburg, Einbruch

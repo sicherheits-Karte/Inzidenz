@@ -10667,3 +10667,7 @@
 //{"coords": [], "date": "2026-02-16"} // Parteibüro Erwitte, Einbruch
 //{"coords": [], "date": "2026-02-16"} // Bad Sassendorf Bad Sassendorf, Einbruch
 //{"coords": [], "date": "2026-02-16"} // Gartenlaube Lucka, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-02-16"}, // Goldschmuck Offenbach, Dieb
+{"coords": [7.6, 50.45], "date": "2026-02-16"}, // Isenburg, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-02-16"}, // Lippstadt Lippstadt, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-02-16"}, // Einfamilienhaus Warendorf, Einbruch

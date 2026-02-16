@@ -10655,3 +10655,15 @@
 {"coords": [7.82, 47.99], "date": "2026-02-16"}, // Freiburg, Einbruch
 //{"coords": [], "date": "2026-02-16"} // Langenselbold, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-02-16"}, // Verkehrsunfall Aalen, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-02-16"}, // Arnsberg, entwendet
+{"coords": [7.35, 52.15], "date": "2026-02-16"}, // Computerbetrug Steinfurt, Diebstahl
+{"coords": [8.5786, 49.5383], "date": "2026-02-16"}, // Viernheim, gestohlen
+{"coords": [8.5667, 49.65], "date": "2026-02-16"}, // Lorsch, Einbruch
+{"coords": [8.0, 51.3333], "date": "2026-02-16"}, // Sundern Sundern, Einbruch
+{"coords": [8.7069, 51.1972], "date": "2026-02-16"}, // Doppelhaushälfte Medebach, Einbruch
+{"coords": [8.3658, 49.6306], "date": "2026-02-16"}, // Worms, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-02-16"}, // Einbruch Aalen, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-02-16"}, // Soest, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Parteibüro Erwitte, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Bad Sassendorf Bad Sassendorf, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Gartenlaube Lucka, Einbruch

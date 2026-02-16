@@ -10752,3 +10752,7 @@
 {"coords": [8.6833, 50.5833], "date": "2026-02-16"}, // Giessen, Einbruch
 {"coords": [7.2, 51.6167], "date": "2026-02-16"}, // Recklinghausen, Einbrüche
 {"coords": [8.5331, 52.021], "date": "2026-02-16"}, // Bielefeld, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-02-16"}, // Reutlingen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-02-16"}, // Zeugensuche Freiburg, aufbruch
+{"coords": [6.85, 49.3], "date": "2026-02-16"}, // Einbruch Bad Schwalbach, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-02-16"}, // Baustelle Freiburg, Diebstahl

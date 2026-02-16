@@ -10671,3 +10671,13 @@
 {"coords": [7.6, 50.45], "date": "2026-02-16"}, // Isenburg, Einbruch
 {"coords": [8.35, 51.6667], "date": "2026-02-16"}, // Lippstadt Lippstadt, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-02-16"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [7.85, 51.6333], "date": "2026-02-16"}, // Rhynern, Einbruch
+{"coords": [10.3194, 49.0703], "date": "2026-02-16"}, // Dinkelsbühl, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Dokument mehr, Einbruch
+{"coords": [10.2167, 50.7], "date": "2026-02-16"}, // Roßdorf, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-02-16"}, // Recklinghausen, Diebstahl
+//{"coords": [], "date": "2026-02-16"} // Zeugen Waldachtal, Einbruch
+{"coords": [8.6925, 52.1986], "date": "2026-02-16"}, // Löhne, Einbrüche
+{"coords": [8.6333, 52.2], "date": "2026-02-16"}, // Werkzeuge Kirchlengern, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Kein Ort gefunden, entwendet
+{"coords": [8.2869, 52.7303], "date": "2026-02-16"}, // Vechta, Einbruch

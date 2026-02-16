@@ -10681,3 +10681,16 @@
 {"coords": [8.6333, 52.2], "date": "2026-02-16"}, // Werkzeuge Kirchlengern, Einbruch
 //{"coords": [], "date": "2026-02-16"} // Kein Ort gefunden, entwendet
 {"coords": [8.2869, 52.7303], "date": "2026-02-16"}, // Vechta, Einbruch
+{"coords": [13.3833, 54.1167], "date": "2026-02-16"}, // Wohnhaus Neuenkirchen, Einbruch
+{"coords": [6.4333, 51.8333], "date": "2026-02-16"}, // Emmerich, Einbruch
+{"coords": [7.7156, 52.2778], "date": "2026-02-16"}, // Wohnhaus Ibbenbüren, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Reichswalde, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Materborn, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Reichswalde, entwendet
+//{"coords": [], "date": "2026-02-16"} // Kirche eingebrochen mehr, eingebrochen
+{"coords": [7.5833, 52.2972], "date": "2026-02-16"}, // Kupferrohren Hörstel, Diebstahl
+{"coords": [8.7917, 51.9917], "date": "2026-02-16"}, // der Lage zu einer Insel im See schwimmen. Von dort wurden sie kurze Zeit später von der Feuerwehr gerettet. Die, eingebrochen
+//{"coords": [], "date": "2026-02-16"} // ein Krankenhaus gebracht, Raub
+//{"coords": [], "date": "2026-02-16"} // der Zeit vom, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-02-16"}, // Zeugen Hildesheim, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Euro Schaden Seebad Bansin, Einbruch

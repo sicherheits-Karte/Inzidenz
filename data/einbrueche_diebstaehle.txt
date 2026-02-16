@@ -10694,3 +10694,13 @@
 //{"coords": [], "date": "2026-02-16"} // der Zeit vom, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-02-16"}, // Zeugen Hildesheim, Einbruch
 //{"coords": [], "date": "2026-02-16"} // Euro Schaden Seebad Bansin, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-16"}, // Zeugen Darmstadt, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Weiterstadt, gestohlen
+//{"coords": [], "date": "2026-02-16"} // zwei Häuser ein, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-02-16"}, // Pflanzencenter Kleve, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Warbeyen, entwendet
+{"coords": [6.6167, 51.75], "date": "2026-02-16"}, // Bargeld Rees, Einbruch
+//{"coords": [], "date": "2026-02-16"} // Kellen, entwendet
+{"coords": [10.0528, 51.1889], "date": "2026-02-16"}, // Eschwege, gestohlen
+{"coords": [7.1675, 51.9436], "date": "2026-02-16"}, // Dieselkraftstoff Coesfeld, Diebstahl
+{"coords": [6.85, 49.8167], "date": "2026-02-16"}, // Greimerath, Einbrüche

@@ -10787,3 +10787,14 @@
 {"coords": [10.0, 51.7064], "date": "2026-02-17"}, // Northeim, Dieb
 //{"coords": [], "date": "2026-02-17"} // Lucka, Diebstahl
 //{"coords": [], "date": "2026-02-17"} // Neuwagen mehr, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-02-17"}, // Uhren Bielefeld, Einbrecher
+{"coords": [8.2869, 52.7303], "date": "2026-02-17"}, // Vechta, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-02-17"}, // Sachschaden Kaiserslautern, eingebrochen
+{"coords": [10.5833, 49.9833], "date": "2026-02-17"}, // Sand, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-02-17"}, // Bochum, Einbruch
+{"coords": [12.0991, 54.0924], "date": "2026-02-17"}, // Täter Rostock, Diebstahl
+{"coords": [7.5833, 51.3667], "date": "2026-02-17"}, // Hohenlimburg, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-17"}, // Ludwigshafen, entwendet
+{"coords": [8.0, 53.5333], "date": "2026-02-17"}, // Schortens Schortens, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-17"}, // Ludwigshafen, Einbruch
+{"coords": [7.3625, 51.2981], "date": "2026-02-17"}, // Individualnummern Ennepetal, Einbruch

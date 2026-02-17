@@ -10772,3 +10772,11 @@
 {"coords": [7.6333, 51.1], "date": "2026-02-17"}, // Schule Meinerzhagen, Einbruch
 {"coords": [6.95, 52.5833], "date": "2026-02-17"}, // Zeugen Hoogstede, Diebstahl
 {"coords": [7.2908, 52.6906], "date": "2026-02-17"}, // Zeugen Meppen, Einbruch
+//{"coords": [], "date": "2026-02-17"} // Kein Ort gefunden, Diebstahl
+{"coords": [10.955, 52.1381], "date": "2026-02-17"}, // Zeugen Schöningen, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-02-17"}, // Darmstadt, Raub
+{"coords": [10.7183, 50.9489], "date": "2026-02-17"}, // Gotha, Diebstahl
+{"coords": [7.7, 51.375], "date": "2026-02-17"}, // Iserlohn, Einbruch
+{"coords": [6.4333, 51.8333], "date": "2026-02-17"}, // Emmerich, Einbruch
+//{"coords": [], "date": "2026-02-17"} // Kellen, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-02-17"}, // Hinweise Wesel, Diebstahl

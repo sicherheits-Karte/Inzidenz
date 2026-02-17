@@ -10858,3 +10858,4 @@
 {"coords": [10.3333, 52.15], "date": "2026-02-17"}, // Salzgitter, Einbruch
 {"coords": [11.1, 48.7167], "date": "2026-02-17"}, // Oberhausen, Raub
 {"coords": [10.0831, 52.6247], "date": "2026-02-17"}, // Untersuchungshaft Celle, Diebstahl
+{"coords": [7.1861, 49.6583], "date": "2026-02-17"}, // Birkenfeld Birkenfeld, Diebstahl

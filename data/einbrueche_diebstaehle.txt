@@ -10835,3 +10835,9 @@
 {"coords": [10.4508, 50.7211], "date": "2026-02-17"}, // Schmalkalden, entwendet
 {"coords": [7.3167, 52.8667], "date": "2026-02-17"}, // Lathen, Diebstähle
 {"coords": [8.5847, 53.5469], "date": "2026-02-17"}, // Werkzeug Bremerhaven, Dieb
+{"coords": [13.0819, 54.3092], "date": "2026-02-17"}, // Stralsund, Einbruch
+{"coords": [7.18, 49.3439], "date": "2026-02-17"}, // Neunkirchen, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-17"}, // Darmstadt, aufbruch
+{"coords": [7.4653, 51.5136], "date": "2026-02-17"}, // Dortmund, gestohlen
+{"coords": [8.1667, 51.6833], "date": "2026-02-17"}, // Lippetal, Raub
+//{"coords": [], "date": "2026-02-17"} // Porta Westfalica, entwendet

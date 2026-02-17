@@ -10818,3 +10818,12 @@
 //{"coords": [], "date": "2026-02-17"} // Deißlingen, Einbruch
 {"coords": [8.0, 51.3333], "date": "2026-02-17"}, // Mehrfamilienhaus Sundern, Einbruch
 //{"coords": [], "date": "2026-02-17"} // Schandelah, Einbruch
+//{"coords": [], "date": "2026-02-17"} // Großbüllesheim, gestohlen
+{"coords": [6.7872, 50.6606], "date": "2026-02-17"}, // Fahrzeugen Kreis Euskirchen, Diebstähle
+{"coords": [10.0075, 53.7064], "date": "2026-02-17"}, // Zeugen Norderstedt, entwendet
+{"coords": [12.0991, 54.0924], "date": "2026-02-17"}, // Polizeipräsidium Rostock, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-02-17"}, // Personenschaden Wiesbaden, Einbrüche
+//{"coords": [], "date": "2026-02-17"} // Kein Ort gefunden, Einbruch
+{"coords": [8.4725, 49.5981], "date": "2026-02-17"}, // Täter Lampertheim, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-02-17"}, // Speyer, Einbruch
+{"coords": [7.8667, 48.35], "date": "2026-02-17"}, // Lahr, Einbruch

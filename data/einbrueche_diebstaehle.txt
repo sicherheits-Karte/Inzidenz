@@ -10780,3 +10780,10 @@
 {"coords": [6.4333, 51.8333], "date": "2026-02-17"}, // Emmerich, Einbruch
 //{"coords": [], "date": "2026-02-17"} // Kellen, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2026-02-17"}, // Hinweise Wesel, Diebstahl
+//{"coords": [], "date": "2026-02-17"} // der Zeit vom, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-02-17"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-02-17"}, // Urlaubs Bielefeld, Einbruch
+{"coords": [8.2794, 49.1983], "date": "2026-02-17"}, // Bellheim, entwendet
+{"coords": [10.0, 51.7064], "date": "2026-02-17"}, // Northeim, Dieb
+//{"coords": [], "date": "2026-02-17"} // Lucka, Diebstahl
+//{"coords": [], "date": "2026-02-17"} // Neuwagen mehr, Diebstahl

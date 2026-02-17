@@ -10851,3 +10851,9 @@
 {"coords": [9.2108, 49.1425], "date": "2026-02-17"}, // Heilbronn, Einbrecher
 {"coords": [7.5658, 51.4458], "date": "2026-02-17"}, // Schwerte, entwendet
 {"coords": [6.5617, 51.3317], "date": "2026-02-17"}, // Krefeld, Diebstahl
+{"coords": [7.0028, 50.7631], "date": "2026-02-17"}, // Bornheim, Einbruch
+{"coords": [9.5083, 49.9833], "date": "2026-02-17"}, // Rechtenbach, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-02-17"}, // Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2026-02-17"}, // Wochenende Freiburg, Einbrüche
+{"coords": [10.3333, 52.15], "date": "2026-02-17"}, // Salzgitter, Einbruch
+{"coords": [11.1, 48.7167], "date": "2026-02-17"}, // Oberhausen, Raub

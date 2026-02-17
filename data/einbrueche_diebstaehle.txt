@@ -10841,3 +10841,13 @@
 {"coords": [7.4653, 51.5136], "date": "2026-02-17"}, // Dortmund, gestohlen
 {"coords": [8.1667, 51.6833], "date": "2026-02-17"}, // Lippetal, Raub
 //{"coords": [], "date": "2026-02-17"} // Porta Westfalica, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-02-17"}, // Hofheim, Einbrecher
+{"coords": [10.5369, 52.1622], "date": "2026-02-17"}, // Wolfenbüttel, Diebstahl
+{"coords": [12.6, 54.3], "date": "2026-02-17"}, // Automaten Groß Lüdershagen, aufbruch
+{"coords": [10.75, 53.7], "date": "2026-02-17"}, // Aufbruch Ratzeburg, aufbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-17"}, // Giessen, aufbruch
+//{"coords": [], "date": "2026-02-17"} // Dittersdorf, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-02-17"}, // Recklinghausen, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-02-17"}, // Heilbronn, Einbrecher
+{"coords": [7.5658, 51.4458], "date": "2026-02-17"}, // Schwerte, entwendet
+{"coords": [6.5617, 51.3317], "date": "2026-02-17"}, // Krefeld, Diebstahl

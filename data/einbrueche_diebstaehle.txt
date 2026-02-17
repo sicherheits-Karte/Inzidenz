@@ -10761,3 +10761,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-02-16"}, // Cölbe Giessen, Einbruch
 {"coords": [10.5833, 49.9833], "date": "2026-02-16"}, // Sand, Einbruch
 //{"coords": [], "date": "2026-02-16"} // Langermorgenpfad, Einbruch
+{"coords": [6.4333, 50.2], "date": "2026-02-17"}, // Prüm Prüm, Diebstahl

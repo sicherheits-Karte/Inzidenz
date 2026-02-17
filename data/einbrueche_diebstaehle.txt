@@ -10807,3 +10807,14 @@
 //{"coords": [], "date": "2026-02-17"} // Bad Laasphe, Raub
 {"coords": [7.6333, 51.6167], "date": "2026-02-17"}, // Bergkamen, entwendet
 {"coords": [8.5331, 52.021], "date": "2026-02-17"}, // Hofläden Bielefeld, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-02-17"}, // Hersfeld Rotenburg, entwendet
+{"coords": [9.3833, 50.6333], "date": "2026-02-17"}, // Einkaufsmarkt Vogelsbergkreis, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-02-17"}, // Landkreis Fulda Fulda, Diebstähle
+{"coords": [8.8678, 49.9228], "date": "2026-02-17"}, // Zeugen Münster, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-02-17"}, // Fastnachtsveranstaltung Fulda, entwendet
+{"coords": [6.7623, 51.4344], "date": "2026-02-17"}, // Zeugensuche Duisburg, Raub
+//{"coords": [], "date": "2026-02-17"} // Höhe Toppenstedt kam es am, gestohlen
+{"coords": [8.0, 51.45], "date": "2026-02-17"}, // Erdgeschosswohnung Arnsberg, Einbruch
+//{"coords": [], "date": "2026-02-17"} // Deißlingen, Einbruch
+{"coords": [8.0, 51.3333], "date": "2026-02-17"}, // Mehrfamilienhaus Sundern, Einbruch
+//{"coords": [], "date": "2026-02-17"} // Schandelah, Einbruch

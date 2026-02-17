@@ -10798,3 +10798,12 @@
 {"coords": [8.0, 53.5333], "date": "2026-02-17"}, // Schortens Schortens, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-02-17"}, // Ludwigshafen, Einbruch
 {"coords": [7.3625, 51.2981], "date": "2026-02-17"}, // Individualnummern Ennepetal, Einbruch
+//{"coords": [], "date": "2026-02-17"} // Zeugenaufruf Kleinsteinhausen, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-02-17"}, // Emden, Diebstahl
+{"coords": [6.8333, 51.7833], "date": "2026-02-17"}, // Raesfeld, entwendet
+{"coords": [7.0333, 52.2167], "date": "2026-02-17"}, // Gronau, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-02-17"}, // Reutlingen, Einbrüche
+{"coords": [7.0083, 52.075], "date": "2026-02-17"}, // Verbrauchermarkt Ahaus, Einbruch
+//{"coords": [], "date": "2026-02-17"} // Bad Laasphe, Raub
+{"coords": [7.6333, 51.6167], "date": "2026-02-17"}, // Bergkamen, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-02-17"}, // Hofläden Bielefeld, Einbruch

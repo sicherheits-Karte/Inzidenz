@@ -10857,3 +10857,4 @@
 {"coords": [7.82, 47.99], "date": "2026-02-17"}, // Wochenende Freiburg, Einbrüche
 {"coords": [10.3333, 52.15], "date": "2026-02-17"}, // Salzgitter, Einbruch
 {"coords": [11.1, 48.7167], "date": "2026-02-17"}, // Oberhausen, Raub
+{"coords": [10.0831, 52.6247], "date": "2026-02-17"}, // Untersuchungshaft Celle, Diebstahl

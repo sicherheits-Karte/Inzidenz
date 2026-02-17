@@ -10762,3 +10762,13 @@
 {"coords": [10.5833, 49.9833], "date": "2026-02-16"}, // Sand, Einbruch
 //{"coords": [], "date": "2026-02-16"} // Langermorgenpfad, Einbruch
 {"coords": [6.4333, 50.2], "date": "2026-02-17"}, // Prüm Prüm, Diebstahl
+{"coords": [6.7583, 51.6417], "date": "2026-02-17"}, // Hinweise Hünxe, Dieb
+{"coords": [6.6178, 51.6589], "date": "2026-02-17"}, // Hinweise Wesel, Raub
+{"coords": [7.9833, 51.95], "date": "2026-02-17"}, // Warendorf, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-02-17"}, // Kraftstoffdiebstahl Aalen, Diebstahl
+{"coords": [6.6833, 51.6167], "date": "2026-02-17"}, // Diebstahl Voerde, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-02-17"}, // Osterholz, Einbruch
+{"coords": [9.35, 52.3333], "date": "2026-02-17"}, // Garage Wenden, Einbruch
+{"coords": [7.6333, 51.1], "date": "2026-02-17"}, // Schule Meinerzhagen, Einbruch
+{"coords": [6.95, 52.5833], "date": "2026-02-17"}, // Zeugen Hoogstede, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-02-17"}, // Zeugen Meppen, Einbruch

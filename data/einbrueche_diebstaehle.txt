@@ -10827,3 +10827,11 @@
 {"coords": [8.4725, 49.5981], "date": "2026-02-17"}, // Täter Lampertheim, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2026-02-17"}, // Speyer, Einbruch
 {"coords": [7.8667, 48.35], "date": "2026-02-17"}, // Lahr, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-02-17"}, // Mannheim, Einbrecher
+{"coords": [7.1, 51.5167], "date": "2026-02-17"}, // Gelsenkirchen, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-02-17"}, // Körperverletzung Heilbronn, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-17"}, // Aalen, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-02-17"}, // Recklinghausen, gestohlen
+{"coords": [10.4508, 50.7211], "date": "2026-02-17"}, // Schmalkalden, entwendet
+{"coords": [7.3167, 52.8667], "date": "2026-02-17"}, // Lathen, Diebstähle
+{"coords": [8.5847, 53.5469], "date": "2026-02-17"}, // Werkzeug Bremerhaven, Dieb

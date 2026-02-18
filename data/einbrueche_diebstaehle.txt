@@ -10887,3 +10887,8 @@
 {"coords": [12.4333, 50.985], "date": "2026-02-18"}, // Altenburg, entwendet
 {"coords": [8.6, 51.6833], "date": "2026-02-18"}, // Zeugen Salzkotten, Diebstahl
 {"coords": [7.7, 51.375], "date": "2026-02-18"}, // Taschendiebe Iserlohn, Einbruch
+//{"coords": [], "date": "2026-02-18"} // Einbruch Rülzheim, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2026-02-18"}, // Doppelhaushälfte Bergkamen, Einbruch
+{"coords": [9.3806, 51.775], "date": "2026-02-18"}, // Hinweise Höxter, Raub
+{"coords": [9.55, 49.3167], "date": "2026-02-18"}, // Windparkgelände Hohenlohekreis, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-02-18"}, // Darmstadt, gestohlen

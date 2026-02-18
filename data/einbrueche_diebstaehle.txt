@@ -10963,3 +10963,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-02-18"}, // Giessen, Einbrüche
 {"coords": [8.4661, 49.4878], "date": "2026-02-18"}, // Zeugenaufruf Mannheim, Einbrüche
 {"coords": [7.6, 50.45], "date": "2026-02-18"}, // Isenburg, stehlen
+{"coords": [9.1919, 48.8975], "date": "2026-02-18"}, // Raubüberfall Ludwigsburg, Raub

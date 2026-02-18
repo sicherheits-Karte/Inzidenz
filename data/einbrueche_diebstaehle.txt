@@ -10910,3 +10910,10 @@
 {"coords": [13.0819, 54.3092], "date": "2026-02-18"}, // Stralsund Stralsund, Raub
 {"coords": [10.5333, 51.4167], "date": "2026-02-18"}, // Kellereinbruch Sollstedt, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-02-18"}, // Ulm, Dieb
+//{"coords": [], "date": "2026-02-18"} // Wettringen, Einbruch
+//{"coords": [], "date": "2026-02-18"} // Altenberge, Einbruch
+//{"coords": [], "date": "2026-02-18"} // Selgetsweiler, Dieb
+{"coords": [8.8075, 53.075], "date": "2026-02-18"}, // Bremen, Dieb
+{"coords": [6.8333, 51.7833], "date": "2026-02-18"}, // Einfamilienhaus Raesfeld, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-02-18"}, // Wohnhaus Gronau, Einbruch
+//{"coords": [], "date": "2026-02-18"} // Kein Ort gefunden, Diebstahl

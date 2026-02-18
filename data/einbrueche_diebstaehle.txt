@@ -10922,3 +10922,14 @@
 {"coords": [9.3833, 50.6333], "date": "2026-02-18"}, // Schaukelstuhl Vogelsbergkreis, Diebstahl
 {"coords": [9.6775, 50.5528], "date": "2026-02-18"}, // Tankstelle Fulda, Einbruch
 {"coords": [9.3806, 51.775], "date": "2026-02-18"}, // Höxter, stahl
+{"coords": [6.4208, 51.3653], "date": "2026-02-18"}, // Hinweise Kempen, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-02-18"}, // Verfolgung Mannheim, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-02-18"}, // Autodiebstahl Dortmund, Diebstahl
+//{"coords": [], "date": "2026-02-18"} // Bad Berleburg, Diebstahl
+{"coords": [11.1917, 53.8642], "date": "2026-02-18"}, // Grevesmühlen, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-02-18"}, // Ludwigsburg, aufbruch
+{"coords": [9.4764, 53.6008], "date": "2026-02-18"}, // Stade, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-02-18"}, // Container Aalen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-02-18"}, // Raddiebstahl Ludwigsburg, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-02-18"}, // Düsseldorf, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-02-18"}, // Baumaschinen Frankfurt, Diebstahl

@@ -10892,3 +10892,13 @@
 {"coords": [9.3806, 51.775], "date": "2026-02-18"}, // Hinweise Höxter, Raub
 {"coords": [9.55, 49.3167], "date": "2026-02-18"}, // Windparkgelände Hohenlohekreis, Diebstahl
 {"coords": [8.6514, 49.8728], "date": "2026-02-18"}, // Darmstadt, gestohlen
+{"coords": [7.25, 52.6167], "date": "2026-02-18"}, // Geeste, Diebstahl
+//{"coords": [], "date": "2026-02-18"} // Hellweg Bönen, Einbruch
+{"coords": [10.5267, 52.2689], "date": "2026-02-18"}, // Lamme Braunschweig, Einbrüche
+//{"coords": [], "date": "2026-02-18"} // Stadtgebiet, eingebrochen
+{"coords": [9.4, 48.6833], "date": "2026-02-18"}, // Zeugen Neuhausen, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-02-18"}, // Heilbronn, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-02-18"}, // Straße Wilhelmshaven, Diebstahl
+{"coords": [10.6833, 48.7833], "date": "2026-02-18"}, // Landkreis Harburg, gestohlen
+{"coords": [7.0982, 50.7374], "date": "2026-02-18"}, // Bonn, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-02-18"}, // Zeugenaufruf Mannheim, entwendet

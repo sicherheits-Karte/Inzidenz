@@ -10917,3 +10917,8 @@
 {"coords": [6.8333, 51.7833], "date": "2026-02-18"}, // Einfamilienhaus Raesfeld, Einbruch
 {"coords": [7.0333, 52.2167], "date": "2026-02-18"}, // Wohnhaus Gronau, Einbruch
 //{"coords": [], "date": "2026-02-18"} // Kein Ort gefunden, Diebstahl
+{"coords": [6.6717, 51.2614], "date": "2026-02-18"}, // Meerbusch, entwendet
+//{"coords": [], "date": "2026-02-18"} // Bad Hersfeld, entwendet
+{"coords": [9.3833, 50.6333], "date": "2026-02-18"}, // Schaukelstuhl Vogelsbergkreis, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-02-18"}, // Tankstelle Fulda, Einbruch
+{"coords": [9.3806, 51.775], "date": "2026-02-18"}, // Höxter, stahl

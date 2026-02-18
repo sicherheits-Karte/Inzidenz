@@ -10957,3 +10957,8 @@
 {"coords": [10.8978, 48.3705], "date": "2026-02-18"}, // Einbruch Augsburg, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-02-18"}, // Trickdiebstahl Augsburg, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-02-18"}, // Giessen, Einbrecher
+{"coords": [8.4353, 49.4811], "date": "2026-02-18"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-18"}, // Ludwigshafen, Dieb
+{"coords": [8.4353, 49.4811], "date": "2026-02-18"}, // Ludwigshafen, stahl
+{"coords": [8.6833, 50.5833], "date": "2026-02-18"}, // Giessen, Einbrüche
+{"coords": [8.4661, 49.4878], "date": "2026-02-18"}, // Zeugenaufruf Mannheim, Einbrüche

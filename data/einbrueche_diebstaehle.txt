@@ -10859,3 +10859,6 @@
 {"coords": [11.1, 48.7167], "date": "2026-02-17"}, // Oberhausen, Raub
 {"coords": [10.0831, 52.6247], "date": "2026-02-17"}, // Untersuchungshaft Celle, Diebstahl
 {"coords": [7.1861, 49.6583], "date": "2026-02-17"}, // Birkenfeld Birkenfeld, Diebstahl
+{"coords": [7.75, 51.6333], "date": "2026-02-18"}, // Herringen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-18"}, // Diebstahl Aalen, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-02-18"}, // Offenbach, Einbruch

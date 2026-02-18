@@ -10902,3 +10902,11 @@
 {"coords": [10.6833, 48.7833], "date": "2026-02-18"}, // Landkreis Harburg, gestohlen
 {"coords": [7.0982, 50.7374], "date": "2026-02-18"}, // Bonn, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-02-18"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-02-18"}, // Balkon Reutlingen, Einbrüche
+{"coords": [8.0667, 51.1167], "date": "2026-02-18"}, // Grevenbrück Lennestadt, Diebstahl
+{"coords": [7.8508, 51.0281], "date": "2026-02-18"}, // Olpe, Diebstahl
+{"coords": [7.1667, 50.8167], "date": "2026-02-18"}, // Taten Troisdorf, Dieb
+//{"coords": [], "date": "2026-02-18"} // Sankt Augustin, Einbruch
+{"coords": [13.0819, 54.3092], "date": "2026-02-18"}, // Stralsund Stralsund, Raub
+{"coords": [10.5333, 51.4167], "date": "2026-02-18"}, // Kellereinbruch Sollstedt, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-18"}, // Ulm, Dieb

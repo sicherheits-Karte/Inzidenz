@@ -10945,3 +10945,15 @@
 {"coords": [8.4414, 50.0919], "date": "2026-02-18"}, // Motorrad Hofheim, Einbrüche
 //{"coords": [], "date": "2026-02-18"} // Mehrparteienhaus in Stotel, Raub
 //{"coords": [], "date": "2026-02-18"} // Bergisch Gladbach, Raub
+{"coords": [10.75, 53.7], "date": "2026-02-18"}, // Ratzeburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-02-18"}, // Täterfestnahme Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-02-18"}, // Dieseldiebstahl Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-02-18"}, // Wohnhaus Freiburg, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-02-18"}, // Cuxhaven, Diebstahl
+{"coords": [8.1667, 49.5667], "date": "2026-02-18"}, // Grünstadt, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-02-18"}, // Köln, Raub
+{"coords": [11.4012, 53.6355], "date": "2026-02-18"}, // Tat Schwerin, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-02-18"}, // Einbruch Wiesbaden, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-02-18"}, // Einbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-02-18"}, // Trickdiebstahl Augsburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-02-18"}, // Giessen, Einbrecher

@@ -10933,3 +10933,15 @@
 {"coords": [9.1919, 48.8975], "date": "2026-02-18"}, // Raddiebstahl Ludwigsburg, Diebstahl
 {"coords": [6.7735, 51.2277], "date": "2026-02-18"}, // Düsseldorf, Einbruch
 {"coords": [8.6822, 50.1106], "date": "2026-02-18"}, // Baumaschinen Frankfurt, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2026-02-18"}, // Pkw Bocholt, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-02-18"}, // Bocholt, gestohlen
+{"coords": [10.7183, 50.9489], "date": "2026-02-18"}, // Gotha, entwendet
+{"coords": [7.2061, 53.3669], "date": "2026-02-18"}, // Emden, Diebstahl
+//{"coords": [], "date": "2026-02-18"} // Kein Ort gefunden, stehlen
+{"coords": [6.8319, 50.1981], "date": "2026-02-18"}, // Spendensammlerinnen Daun, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-02-18"}, // Hinweise Recklinghausen, Einbrüche
+{"coords": [10.0528, 51.1889], "date": "2026-02-18"}, // Eschwege, Einbruch
+//{"coords": [], "date": "2026-02-18"} // Rüdesheim, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-02-18"}, // Motorrad Hofheim, Einbrüche
+//{"coords": [], "date": "2026-02-18"} // Mehrparteienhaus in Stotel, Raub
+//{"coords": [], "date": "2026-02-18"} // Bergisch Gladbach, Raub

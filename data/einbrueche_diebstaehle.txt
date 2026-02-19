@@ -11044,3 +11044,14 @@
 {"coords": [7.2061, 53.3669], "date": "2026-02-19"}, // Emden, Einbruch
 {"coords": [7.8667, 48.35], "date": "2026-02-19"}, // Wohnungseinbruch Lahr, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-02-19"}, // Festnahmen Erfurt, Raub
+{"coords": [7.0, 51.8333], "date": "2026-02-19"}, // Reken, eingebrochen
+//{"coords": [], "date": "2026-02-19"} // Pluwig mehr, Diebstahl
+{"coords": [6.8333, 51.7833], "date": "2026-02-19"}, // Firmentransporter Raesfeld, Einbruch
+{"coords": [8.8556, 48.0778], "date": "2026-02-19"}, // Spaichingen, Einbruch
+//{"coords": [], "date": "2026-02-19"} // Möggingen, Diebstahl
+//{"coords": [], "date": "2026-02-19"} // Reichenau, Räuber
+{"coords": [7.2, 51.6167], "date": "2026-02-19"}, // Ladendiebstahl Recklinghausen, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2026-02-19"}, // Gladbacher Innenstadt Mönchengladbach, Raub
+{"coords": [10.4278, 51.9042], "date": "2026-02-19"}, // Trickdiebstahl Goslar, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-02-19"}, // Essen, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-02-19"}, // Hinweise Bochum, entwendet

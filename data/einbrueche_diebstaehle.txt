@@ -11012,3 +11012,21 @@
 {"coords": [8.6514, 49.8728], "date": "2026-02-19"}, // Promille Darmstadt, Einbrecher
 {"coords": [9.2167, 48.5167], "date": "2026-02-19"}, // Mittelstadt, Einbruch
 {"coords": [8.1075, 53.5219], "date": "2026-02-19"}, // Verbrauchermarkt Wilhelmshaven, Diebstahl
+{"coords": [7.4333, 52.2833], "date": "2026-02-19"}, // Rheine, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-02-19"}, // Zeugen Düsseldorf, Raub
+{"coords": [6.2333, 51.5833], "date": "2026-02-19"}, // Zeugen Kevelaer, entwendet
+{"coords": [6.1353, 51.7875], "date": "2026-02-19"}, // Kleve, entwendet
+//{"coords": [], "date": "2026-02-19"} // Weidenau, entwendet
+//{"coords": [], "date": "2026-02-19"} // Diebstahls Hövels, Diebstahl
+{"coords": [10.0831, 52.6247], "date": "2026-02-19"}, // City Celle, Einbrüche
+//{"coords": [], "date": "2026-02-19"} // Kreis, Einbrecher
+{"coords": [9.8425, 53.6333], "date": "2026-02-19"}, // Morgenstunden Halstenbek, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-02-19"}, // Zeugen Düren, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-02-19"}, // Hinweise Düren, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-02-19"}, // Fotofahndung Essen, Dieb
+{"coords": [9.95, 52.15], "date": "2026-02-19"}, // Ochtersum Hildesheim, Raub
+{"coords": [9.55, 49.3167], "date": "2026-02-19"}, // Hohenlohekreis, gestohlen
+{"coords": [8.6306, 53.05], "date": "2026-02-19"}, // Einsatz Delmenhorst, Raub
+{"coords": [7.3778, 51.0194], "date": "2026-02-19"}, // Lindlar, gestohlen
+{"coords": [7.5667, 51.0833], "date": "2026-02-19"}, // Gummersbach, Dieb
+{"coords": [8.0472, 52.2799], "date": "2026-02-19"}, // Zeugen Osnabrück, Einbrüche

@@ -11063,3 +11063,12 @@
 {"coords": [7.2, 50.8333], "date": "2026-02-19"}, // Zeugenhinweise Lohmar, Einbruch
 {"coords": [7.4653, 51.5136], "date": "2026-02-19"}, // Dortmunder Innenstadt Dortmund, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-02-19"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-02-19"}, // Frankfurt, Einbrecher
+//{"coords": [], "date": "2026-02-19"} // Metternich, Dieb
+//{"coords": [], "date": "2026-02-19"} // Lommersum, Diebstahl
+//{"coords": [], "date": "2026-02-19"} // Horchheim, Diebstähle
+{"coords": [6.7872, 50.6606], "date": "2026-02-19"}, // Einbrüche Euskirchen, Einbrüche
+{"coords": [9.9158, 51.5413], "date": "2026-02-19"}, // Göttingen, Einbrecher
+{"coords": [9.4108, 53.1111], "date": "2026-02-19"}, // Einkaufsmarkt Hersfeld Rotenburg, Dieb
+{"coords": [6.7623, 51.4344], "date": "2026-02-19"}, // Zeugensuche Duisburg, Raub
+{"coords": [10.5267, 52.2689], "date": "2026-02-19"}, // Messer Braunschweig, Räuber

@@ -10987,3 +10987,10 @@
 //{"coords": [], "date": "2026-02-19"} // der Nacht vom, Diebstahl
 //{"coords": [], "date": "2026-02-19"} // Ense, Einbruch
 {"coords": [8.1092, 51.5711], "date": "2026-02-19"}, // Soest, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-02-19"}, // Osterholz, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-02-19"}, // Nordhausen Nordhausen, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-02-19"}, // Kleve, Diebstahl
+//{"coords": [], "date": "2026-02-19"} // Weimarer Land, Diebstahl
+//{"coords": [], "date": "2026-02-19"} // Wohnhaus Stempeda, Einbruch
+//{"coords": [], "date": "2026-02-19"} // Firmenfahrzeug Ispringen, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-02-19"}, // Tageswohnungseinbruch Dortmund, Einbruch

@@ -11099,3 +11099,4 @@
 {"coords": [9.95, 52.15], "date": "2026-02-19"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2026-02-19"}, // Mühlhausen, entwendet
 {"coords": [7.8667, 48.35], "date": "2026-02-19"}, // Einbrecher Lahr, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-02-19"}, // Stadtgebiet Delmenhorst Delmenhorst, Einbruch

@@ -10966,3 +10966,4 @@
 {"coords": [9.1919, 48.8975], "date": "2026-02-18"}, // Raubüberfall Ludwigsburg, Raub
 {"coords": [8.6306, 53.05], "date": "2026-02-18"}, // Einsatz Delmenhorst, Raub
 {"coords": [9.95, 52.15], "date": "2026-02-18"}, // Einfamilienhaus Hildesheim, Einbruch
+//{"coords": [], "date": "2026-02-19"} // Gartenhütte Thalhausen, Einbruch

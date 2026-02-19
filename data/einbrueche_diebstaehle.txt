@@ -11072,3 +11072,14 @@
 {"coords": [9.4108, 53.1111], "date": "2026-02-19"}, // Einkaufsmarkt Hersfeld Rotenburg, Dieb
 {"coords": [6.7623, 51.4344], "date": "2026-02-19"}, // Zeugensuche Duisburg, Raub
 {"coords": [10.5267, 52.2689], "date": "2026-02-19"}, // Messer Braunschweig, Räuber
+//{"coords": [], "date": "2026-02-19"} // Höhe, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-19"}, // Giessen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-19"}, // Giessen, eingebrochen
+{"coords": [8.24, 50.0822], "date": "2026-02-19"}, // Wiesbaden, stehlen
+{"coords": [8.6833, 50.5833], "date": "2026-02-19"}, // Giessen, Einbrecher
+{"coords": [9.1919, 48.8975], "date": "2026-02-19"}, // Gaststätte Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-02-19"}, // Pkw Ludwigsburg, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-02-19"}, // Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2026-02-19"}, // Haft Freiburg, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-02-19"}, // Bielefeld, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-02-19"}, // Zeugen Freiburg, Einbruch

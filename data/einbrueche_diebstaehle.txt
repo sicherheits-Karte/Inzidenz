@@ -10994,3 +10994,21 @@
 //{"coords": [], "date": "2026-02-19"} // Wohnhaus Stempeda, Einbruch
 //{"coords": [], "date": "2026-02-19"} // Firmenfahrzeug Ispringen, Diebstahl
 {"coords": [7.4653, 51.5136], "date": "2026-02-19"}, // Tageswohnungseinbruch Dortmund, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-02-19"}, // Präventionshinweise Wilhelmshaven, Diebstahl
+{"coords": [8.6925, 52.1986], "date": "2026-02-19"}, // Tatverdächtige Löhne, Einbruch
+{"coords": [8.5578, 52.1392], "date": "2026-02-19"}, // Enger, Diebstahl
+//{"coords": [], "date": "2026-02-19"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-02-19"} // Autodieb Leichlingen, Dieb
+{"coords": [8.1075, 53.5219], "date": "2026-02-19"}, // Werftstraße Wilhelmshaven, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-02-19"}, // Versuchter Einbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2026-02-19"} // Friedhof Gauersheim, Diebstahl
+{"coords": [10.6833, 48.7833], "date": "2026-02-19"}, // Landkreis Harburg, Diebstahl
+{"coords": [13.9167, 53.875], "date": "2026-02-19"}, // Baumaschinen Usedom, Dieb
+{"coords": [8.3708, 52.6078], "date": "2026-02-19"}, // Diepholz, Einbrüche
+{"coords": [13.4333, 54.4333], "date": "2026-02-19"}, // Rügen, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-02-19"}, // Delmenhorst, Diebstahl
+{"coords": [8.0667, 51.1167], "date": "2026-02-19"}, // Maumke Lennestadt, Einbruch
+{"coords": [7.9036, 51.1264], "date": "2026-02-19"}, // Attendorn Attendorn, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-19"}, // Promille Darmstadt, Einbrecher
+{"coords": [9.2167, 48.5167], "date": "2026-02-19"}, // Mittelstadt, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-02-19"}, // Verbrauchermarkt Wilhelmshaven, Diebstahl

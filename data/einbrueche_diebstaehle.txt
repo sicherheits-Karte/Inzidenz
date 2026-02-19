@@ -10974,3 +10974,16 @@
 {"coords": [10.0936, 48.8372], "date": "2026-02-19"}, // Aalen, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-02-19"}, // Kran Erfurt, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-02-19"}, // Einkaufen Northeim, entwendet
+{"coords": [8.35, 51.6667], "date": "2026-02-19"}, // Lippstadt, Diebstahl
+//{"coords": [], "date": "2026-02-19"} // Bönen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-19"}, // Diebstahl Aalen, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-02-19"}, // Altenburg, entwendet
+{"coords": [12.0799, 50.8772], "date": "2026-02-19"}, // Gera, Einbruch
+{"coords": [9.2167, 48.5167], "date": "2026-02-19"}, // Mittelstadt, aufbruch
+//{"coords": [], "date": "2026-02-19"} // Folgen Kierspe, Diebstahl
+{"coords": [8.1667, 51.6833], "date": "2026-02-19"}, // Zeugen Lippetal, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-02-19"}, // Einbrecher-- Bremen, Einbrecher
+{"coords": [8.35, 51.6667], "date": "2026-02-19"}, // Arztpraxis Lippstadt, Einbruch
+//{"coords": [], "date": "2026-02-19"} // der Nacht vom, Diebstahl
+//{"coords": [], "date": "2026-02-19"} // Ense, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-02-19"}, // Soest, Diebstahl

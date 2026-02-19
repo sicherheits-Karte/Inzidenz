@@ -11030,3 +11030,17 @@
 {"coords": [7.3778, 51.0194], "date": "2026-02-19"}, // Lindlar, gestohlen
 {"coords": [7.5667, 51.0833], "date": "2026-02-19"}, // Gummersbach, Dieb
 {"coords": [8.0472, 52.2799], "date": "2026-02-19"}, // Zeugen Osnabrück, Einbrüche
+{"coords": [6.7583, 51.6417], "date": "2026-02-19"}, // Waschanlage Hünxe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-02-19"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-02-19"}, // Lippe, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-02-19"}, // Innenstadt Bochum, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-19"}, // Erfurt, Dieb
+//{"coords": [], "date": "2026-02-19"} // Kupferdachrinnen Friedewald, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-02-19"}, // Trunkenheitsfahrt Reutlingen, Einbrüche
+{"coords": [9.9916, 48.3984], "date": "2026-02-19"}, // Ulm, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-02-19"}, // Hinweise Homberg, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-02-19"}, // Pkw Fulda, Diebstahl
+{"coords": [8.0739, 48.6311], "date": "2026-02-19"}, // Zeugenaufruf Achern, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-02-19"}, // Emden, Einbruch
+{"coords": [7.8667, 48.35], "date": "2026-02-19"}, // Wohnungseinbruch Lahr, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-19"}, // Festnahmen Erfurt, Raub

@@ -11055,3 +11055,11 @@
 {"coords": [10.4278, 51.9042], "date": "2026-02-19"}, // Trickdiebstahl Goslar, Diebstahl
 {"coords": [7.0116, 51.4556], "date": "2026-02-19"}, // Essen, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-02-19"}, // Hinweise Bochum, entwendet
+{"coords": [9.2222, 48.7189], "date": "2026-02-19"}, // Birkach, eingebrochen
+{"coords": [8.5331, 52.021], "date": "2026-02-19"}, // Bielefeld, Dieb
+{"coords": [8.2146, 53.1434], "date": "2026-02-19"}, // Oldenburg, aufbrüche
+{"coords": [7.3167, 52.3333], "date": "2026-02-19"}, // Büroräume Emsbüren, Einbruch
+{"coords": [7.6014, 52.6853], "date": "2026-02-19"}, // Kulturbahnhof Herzlake, Einbruch
+{"coords": [7.2, 50.8333], "date": "2026-02-19"}, // Zeugenhinweise Lohmar, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-02-19"}, // Dortmunder Innenstadt Dortmund, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-02-19"}, // Zeugen Osnabrück, Einbruch

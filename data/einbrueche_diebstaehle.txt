@@ -11083,3 +11083,14 @@
 {"coords": [7.82, 47.99], "date": "2026-02-19"}, // Haft Freiburg, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-02-19"}, // Bielefeld, gestohlen
 {"coords": [7.82, 47.99], "date": "2026-02-19"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-02-19"}, // Versuchtes Raubdelikt Frankenthal, Raub
+{"coords": [7.4836, 53.4711], "date": "2026-02-19"}, // Unfall Landkreis Aurich, Dieb
+{"coords": [7.82, 47.99], "date": "2026-02-19"}, // Freiburg, Diebstahl
+{"coords": [9.1464, 51.4889], "date": "2026-02-19"}, // Zeugen Warburg, Diebstahl
+//{"coords": [], "date": "2026-02-19"} // Döttesfeld Döttesfeld, Diebstahl
+{"coords": [12.7667, 53.95], "date": "2026-02-19"}, // Finkenthal, eingebrochen
+{"coords": [11.35, 47.9667], "date": "2026-02-19"}, // Einfamilienhaus Berg, Einbruch
+//{"coords": [], "date": "2026-02-19"} // Polizei Porta Westfalica, aufbruch
+{"coords": [7.4836, 53.4711], "date": "2026-02-19"}, // Polizeibeamte Landkreis Aurich, Einbrüche
+{"coords": [12.0333, 49.8667], "date": "2026-02-19"}, // Haus Hürth, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-02-19"}, // Kriminalpolizei Ratzeburg, Einbrüche

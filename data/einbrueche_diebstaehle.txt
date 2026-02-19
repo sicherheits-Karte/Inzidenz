@@ -11094,3 +11094,8 @@
 {"coords": [7.4836, 53.4711], "date": "2026-02-19"}, // Polizeibeamte Landkreis Aurich, Einbrüche
 {"coords": [12.0333, 49.8667], "date": "2026-02-19"}, // Haus Hürth, Einbruch
 {"coords": [10.75, 53.7], "date": "2026-02-19"}, // Kriminalpolizei Ratzeburg, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2026-02-19"}, // Frauenberg Nordhausen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-02-19"}, // Reutlingen, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-02-19"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-02-19"}, // Mühlhausen, entwendet
+{"coords": [7.8667, 48.35], "date": "2026-02-19"}, // Einbrecher Lahr, Einbruch

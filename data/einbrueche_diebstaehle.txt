@@ -11184,3 +11184,9 @@
 {"coords": [6.85, 49.3], "date": "2026-02-20"}, // Verletzten Bad Schwalbach, Dieb
 {"coords": [7.3608, 49.2492], "date": "2026-02-20"}, // Zweibrücken, Diebstahl
 {"coords": [8.6514, 49.8728], "date": "2026-02-20"}, // Darmstadt, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-20"}, // Apotheke Giessen, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-02-20"}, // Schule Hildesheim, Einbruch
+//{"coords": [], "date": "2026-02-20"} // Kreis, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-02-20"}, // Zeugen Ludwigsburg, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-02-20"}, // Bielefeld, Diebstahl
+//{"coords": [], "date": "2026-02-20"} // Kein Ort gefunden, gestohlen

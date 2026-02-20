@@ -11171,3 +11171,16 @@
 {"coords": [8.4478, 49.3722], "date": "2026-02-20"}, // Otterstadt, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-02-20"}, // Ludwigshafen, Einbruch
 {"coords": [8.5331, 52.021], "date": "2026-02-20"}, // Fensterscheiben Bielefeld, Einbrüche
+{"coords": [8.3833, 51.9], "date": "2026-02-20"}, // Gütersloh, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-20"}, // Giessen, geklaut
+{"coords": [8.6833, 50.5833], "date": "2026-02-20"}, // Giessen, Einbrecher
+{"coords": [8.4414, 50.0919], "date": "2026-02-20"}, // Hofheim, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-02-20"}, // Herne, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-02-20"}, // Bonn, Raub
+//{"coords": [], "date": "2026-02-20"} // Höhe, Einbrecher
+{"coords": [9.4, 47.7833], "date": "2026-02-20"}, // Bodenseekreis Bodenseekreis, Diebstahl
+{"coords": [9.4144, 51.2519], "date": "2026-02-20"}, // Bereich Baunatal Kassel, Raub
+{"coords": [9.2167, 48.0833], "date": "2026-02-20"}, // Landkreis Sigmaringen Landkreis Sigmaringen, eingebrochen
+{"coords": [6.85, 49.3], "date": "2026-02-20"}, // Verletzten Bad Schwalbach, Dieb
+{"coords": [7.3608, 49.2492], "date": "2026-02-20"}, // Zweibrücken, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-02-20"}, // Darmstadt, Einbruch

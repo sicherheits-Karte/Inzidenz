@@ -11102,3 +11102,6 @@
 {"coords": [8.6306, 53.05], "date": "2026-02-19"}, // Stadtgebiet Delmenhorst Delmenhorst, Einbruch
 //{"coords": [], "date": "2026-02-19"} // der Zeit von ca, Diebstahl
 //{"coords": [], "date": "2026-02-20"} // Hargesheim Hargesheim, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-20"}, // Unfallflucht Aalen, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-02-20"}, // Physiotheapiepraxis Erfurt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-20"}, // Verkehrsunfälle Aalen, Einbruch

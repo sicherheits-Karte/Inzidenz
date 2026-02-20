@@ -11141,3 +11141,10 @@
 {"coords": [8.2711, 50.0], "date": "2026-02-20"}, // Mainz, gestohlen
 {"coords": [8.2711, 50.0], "date": "2026-02-20"}, // Mainz, Raub
 {"coords": [8.2869, 52.7303], "date": "2026-02-20"}, // Vechta, Einbruch
+{"coords": [8.8731, 51.275], "date": "2026-02-20"}, // Korbach, gestohlen
+{"coords": [9.2844, 51.045], "date": "2026-02-20"}, // Firmenhalle Borken, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-02-20"}, // Hildesheim, Einbrecher
+{"coords": [6.9603, 50.9375], "date": "2026-02-20"}, // Tatverdächtigen Köln, Dieb
+{"coords": [9.6536, 53.7547], "date": "2026-02-20"}, // Zeugen Elmshorn, Einbruch
+//{"coords": [], "date": "2026-02-20"} // Haft, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-02-20"}, // Einfamilienhaus Wesel, Einbruch

@@ -11105,3 +11105,7 @@
 {"coords": [10.0936, 48.8372], "date": "2026-02-20"}, // Unfallflucht Aalen, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-02-20"}, // Physiotheapiepraxis Erfurt, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-02-20"}, // Verkehrsunfälle Aalen, Einbruch
+//{"coords": [], "date": "2026-02-20"} // Kein Ort gefunden, stehlen
+//{"coords": [], "date": "2026-02-20"} // Firmenbulli Wickede, Diebstahl
+{"coords": [7.1667, 50.8167], "date": "2026-02-20"}, // Troisdorf, entwendet
+{"coords": [7.8333, 51.7], "date": "2026-02-20"}, // Heessen, Einbruch

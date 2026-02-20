@@ -11123,3 +11123,15 @@
 {"coords": [8.65, 49.3], "date": "2026-02-20"}, // Walldorf, gestohlen
 {"coords": [8.8667, 51.9333], "date": "2026-02-20"}, // Lippe, Einbrecher
 {"coords": [8.8667, 51.9333], "date": "2026-02-20"}, // Lippe, Einbruch
+//{"coords": [], "date": "2026-02-20"} // Wehringhausen, Dieb
+{"coords": [7.0833, 51.1667], "date": "2026-02-20"}, // Solingen Wuppertal, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-02-20"}, // Lippe, Diebstahl
+{"coords": [8.2833, 51.35], "date": "2026-02-20"}, // Lagerhalle Meschede, Einbruch
+{"coords": [8.2833, 51.35], "date": "2026-02-20"}, // Einfamilienhaus Meschede, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-02-20"}, // Heidekreis, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-20"}, // Autodiebstahl Coesfeld, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-02-20"}, // Organisationen Fulda, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-02-20"}, // Kaiserslautern, Dieb
+//{"coords": [], "date": "2026-02-20"} // Weimarer Land, Dieb
+{"coords": [8.3708, 52.6078], "date": "2026-02-20"}, // Diepholz, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-02-20"}, // Wohnungseinbruchdiebstahl Coesfeld, Einbruch

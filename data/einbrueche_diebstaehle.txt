@@ -11161,3 +11161,13 @@
 {"coords": [9.9158, 51.5413], "date": "2026-02-20"}, // Hinweise Göttingen, Einbruch
 {"coords": [10.0, 51.7064], "date": "2026-02-20"}, // Northeim, Einbrecher
 {"coords": [10.135, 51.3783], "date": "2026-02-20"}, // Mehrfamilienhaus Heilbad Heiligenstadt, Einbruch
+{"coords": [8.4333, 51.8083], "date": "2026-02-20"}, // Rietberg Gütersloh, Einbruch
+{"coords": [11.8269, 53.7122], "date": "2026-02-20"}, // Sternberg, Einbruch
+{"coords": [12.9833, 54.2167], "date": "2026-02-20"}, // Steinhagen Gütersloh, Einbruch
+//{"coords": [], "date": "2026-02-20"} // Lövenich, eingebrochen
+{"coords": [6.0961, 51.0631], "date": "2026-02-20"}, // Heinsberg, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-02-20"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4167, 49.4], "date": "2026-02-20"}, // Limburgerhof, Einbruch
+{"coords": [8.4478, 49.3722], "date": "2026-02-20"}, // Otterstadt, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-02-20"}, // Ludwigshafen, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-02-20"}, // Fensterscheiben Bielefeld, Einbrüche

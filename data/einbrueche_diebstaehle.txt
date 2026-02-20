@@ -11148,3 +11148,10 @@
 {"coords": [9.6536, 53.7547], "date": "2026-02-20"}, // Zeugen Elmshorn, Einbruch
 //{"coords": [], "date": "2026-02-20"} // Haft, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2026-02-20"}, // Einfamilienhaus Wesel, Einbruch
+//{"coords": [], "date": "2026-02-20"} // Wahlwies, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-02-20"}, // Verkehrsunfälle Reutlingen, Einbrüche
+{"coords": [9.9158, 51.5413], "date": "2026-02-20"}, // Göttingen, Dieb
+//{"coords": [], "date": "2026-02-20"} // Kreis, Diebstahl
+{"coords": [8.375, 49.3833], "date": "2026-02-20"}, // Ladendiebstahl Schifferstadt, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-02-20"}, // Kreis Offenbach, Einbruch
+//{"coords": [], "date": "2026-02-20"} // Bad Laasphe, entwendet

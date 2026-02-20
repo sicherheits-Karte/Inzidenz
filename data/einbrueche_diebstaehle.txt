@@ -11190,3 +11190,9 @@
 {"coords": [9.1919, 48.8975], "date": "2026-02-20"}, // Zeugen Ludwigsburg, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-02-20"}, // Bielefeld, Diebstahl
 //{"coords": [], "date": "2026-02-20"} // Kein Ort gefunden, gestohlen
+{"coords": [6.7623, 51.4344], "date": "2026-02-20"}, // Zeugensuche Duisburg, Raub
+{"coords": [7.0, 49.2333], "date": "2026-02-20"}, // Saarbrücken, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-02-20"}, // Zeugen Freiburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-02-20"}, // Zeugen Freiburg, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-02-20"}, // Nordhausen, entwendet
+//{"coords": [], "date": "2026-02-20"} // West, eingebrochen

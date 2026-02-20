@@ -11201,3 +11201,5 @@
 {"coords": [7.1675, 51.9436], "date": "2026-02-20"}, // Friseursalon Coesfeld, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-02-20"}, // Kraftfahrern Erfurt, Raub
 {"coords": [7.6, 50.45], "date": "2026-02-20"}, // Isenburg, Raub
+//{"coords": [], "date": "2026-02-20"} // Einkaufen Annweiler, Diebstahl
+//{"coords": [], "date": "2026-02-20"} // Greene Bad Gandersheim, Diebstahl

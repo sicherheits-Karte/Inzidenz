@@ -11135,3 +11135,9 @@
 //{"coords": [], "date": "2026-02-20"} // Weimarer Land, Dieb
 {"coords": [8.3708, 52.6078], "date": "2026-02-20"}, // Diepholz, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2026-02-20"}, // Wohnungseinbruchdiebstahl Coesfeld, Einbruch
+//{"coords": [], "date": "2026-02-20"} // Meckelfeld, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-02-20"}, // Lingen, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-02-20"}, // Mainz, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-02-20"}, // Mainz, gestohlen
+{"coords": [8.2711, 50.0], "date": "2026-02-20"}, // Mainz, Raub
+{"coords": [8.2869, 52.7303], "date": "2026-02-20"}, // Vechta, Einbruch

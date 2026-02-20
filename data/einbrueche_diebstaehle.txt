@@ -11101,3 +11101,4 @@
 {"coords": [7.8667, 48.35], "date": "2026-02-19"}, // Einbrecher Lahr, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-02-19"}, // Stadtgebiet Delmenhorst Delmenhorst, Einbruch
 //{"coords": [], "date": "2026-02-19"} // der Zeit von ca, Diebstahl
+//{"coords": [], "date": "2026-02-20"} // Hargesheim Hargesheim, Einbruch

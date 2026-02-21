@@ -11225,3 +11225,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-02-21"}, // Reutlingen, Einbrüche
 {"coords": [10.0936, 48.8372], "date": "2026-02-21"}, // Aalen, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-02-21"}, // Diepholz, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-02-21"}, // Zeugen Bochum, Raub

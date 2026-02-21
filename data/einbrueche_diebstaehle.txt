@@ -11221,3 +11221,4 @@
 {"coords": [7.3392, 51.3197], "date": "2026-02-21"}, // Gevelsberg, aufbrüche
 {"coords": [7.3194, 52.5236], "date": "2026-02-21"}, // Geschäftshaus Lingen, Einbruch
 {"coords": [7.6333, 50.5667], "date": "2026-02-21"}, // Motorrads Puderbach, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-02-21"}, // Vechta, Diebstahl

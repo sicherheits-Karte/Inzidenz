@@ -11205,3 +11205,6 @@
 //{"coords": [], "date": "2026-02-20"} // Greene Bad Gandersheim, Diebstahl
 //{"coords": [], "date": "2026-02-20"} // Irsch Irsch, Einbruch
 //{"coords": [], "date": "2026-02-21"} // Bad Salzig, gestohlen
+//{"coords": [], "date": "2026-02-21"} // Zeugenaufruf Kleinsteinhausen, Einbruch
+//{"coords": [], "date": "2026-02-21"} // Contwig, Diebstahl
+//{"coords": [], "date": "2026-02-21"} // Contwig, eingebrochen

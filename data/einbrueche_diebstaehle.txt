@@ -11215,3 +11215,8 @@
 {"coords": [7.4842, 52.6742], "date": "2026-02-21"}, // Wohnhaus Haselünne, Einbruch
 {"coords": [7.25, 52.6167], "date": "2026-02-21"}, // Wohnhaus Geeste, Einbruch
 {"coords": [7.3194, 52.5236], "date": "2026-02-21"}, // Bauunternehmen Lingen, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-02-21"}, // Gefängnis Frankenthal, entwendet
+{"coords": [8.35, 49.5333], "date": "2026-02-21"}, // Frankenthal, gestohlen
+{"coords": [8.35, 49.5333], "date": "2026-02-21"}, // Senior Frankenthal, Diebstahl
+{"coords": [7.3392, 51.3197], "date": "2026-02-21"}, // Gevelsberg, aufbrüche
+{"coords": [7.3194, 52.5236], "date": "2026-02-21"}, // Geschäftshaus Lingen, Einbruch

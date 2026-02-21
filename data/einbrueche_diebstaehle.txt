@@ -11210,3 +11210,5 @@
 //{"coords": [], "date": "2026-02-21"} // Contwig, eingebrochen
 {"coords": [8.4414, 50.0919], "date": "2026-02-21"}, // Straßenverkehr Hofheim, Einbrüche
 {"coords": [11.5862, 50.9271], "date": "2026-02-21"}, // Jena, Dieb
+{"coords": [9.8333, 53.95], "date": "2026-02-21"}, // Hinweise Hagen, Diebstahl
+{"coords": [8.0, 51.45], "date": "2026-02-21"}, // Tatverdächtigen Arnsberg, Diebstahl

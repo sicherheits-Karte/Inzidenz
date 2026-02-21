@@ -11208,3 +11208,5 @@
 //{"coords": [], "date": "2026-02-21"} // Zeugenaufruf Kleinsteinhausen, Einbruch
 //{"coords": [], "date": "2026-02-21"} // Contwig, Diebstahl
 //{"coords": [], "date": "2026-02-21"} // Contwig, eingebrochen
+{"coords": [8.4414, 50.0919], "date": "2026-02-21"}, // Straßenverkehr Hofheim, Einbrüche
+{"coords": [11.5862, 50.9271], "date": "2026-02-21"}, // Jena, Dieb

@@ -11212,3 +11212,6 @@
 {"coords": [11.5862, 50.9271], "date": "2026-02-21"}, // Jena, Dieb
 {"coords": [9.8333, 53.95], "date": "2026-02-21"}, // Hinweise Hagen, Diebstahl
 {"coords": [8.0, 51.45], "date": "2026-02-21"}, // Tatverdächtigen Arnsberg, Diebstahl
+{"coords": [7.4842, 52.6742], "date": "2026-02-21"}, // Wohnhaus Haselünne, Einbruch
+{"coords": [7.25, 52.6167], "date": "2026-02-21"}, // Wohnhaus Geeste, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-02-21"}, // Bauunternehmen Lingen, Einbruch

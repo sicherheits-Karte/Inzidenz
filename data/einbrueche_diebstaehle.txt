@@ -11228,3 +11228,4 @@
 {"coords": [7.2162, 51.4818], "date": "2026-02-21"}, // Zeugen Bochum, Raub
 {"coords": [7.3333, 49.3167], "date": "2026-02-21"}, // Homburg Homburg, Raub
 {"coords": [7.2, 51.6167], "date": "2026-02-21"}, // Recklinghausen, Raub
+{"coords": [8.6306, 53.05], "date": "2026-02-21"}, // Delmenhorst, Einbruch

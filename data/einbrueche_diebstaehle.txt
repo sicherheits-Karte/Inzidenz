@@ -11278,3 +11278,4 @@
 //{"coords": [], "date": "2026-02-22"} // Bad Salzungen, geklaut
 //{"coords": [], "date": "2026-02-22"} // See, aufbrüche
 {"coords": [9.95, 52.15], "date": "2026-02-22"}, // Harsum Hildesheim, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-02-22"}, // Mannheim, Raub

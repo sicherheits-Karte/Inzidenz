@@ -11269,3 +11269,7 @@
 {"coords": [10.6833, 48.7833], "date": "2026-02-22"}, // Harburg, Einbrüche
 {"coords": [10.7956, 51.5019], "date": "2026-02-22"}, // Baustelle Nordhausen, Einbrecher
 {"coords": [10.7956, 51.5019], "date": "2026-02-22"}, // Nordhausen, Einbruch
+{"coords": [10.4167, 51.1667], "date": "2026-02-22"}, // Zeugenaufruf Oberdorla, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-02-22"}, // Zeugenaufruf Mühlhausen, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-02-22"}, // Wohnung Warendorf, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-02-22"}, // Augsburg, Dieb

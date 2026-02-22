@@ -11254,3 +11254,5 @@
 {"coords": [7.5667, 51.0833], "date": "2026-02-22"}, // Werkstatt Gummersbach, Einbruch
 {"coords": [7.0333, 52.2167], "date": "2026-02-22"}, // Gronau, eingebrochen
 {"coords": [7.0, 51.8333], "date": "2026-02-22"}, // Wohnhaus Reken, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-02-22"}, // Weimar, Einbruch
+//{"coords": [], "date": "2026-02-22"} // Friesenheim, Einbruch

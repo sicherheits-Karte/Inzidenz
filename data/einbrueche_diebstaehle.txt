@@ -11256,3 +11256,4 @@
 {"coords": [7.0, 51.8333], "date": "2026-02-22"}, // Wohnhaus Reken, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2026-02-22"}, // Weimar, Einbruch
 //{"coords": [], "date": "2026-02-22"} // Friesenheim, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-02-22"}, // Zeugen Bochum, Einbrüche

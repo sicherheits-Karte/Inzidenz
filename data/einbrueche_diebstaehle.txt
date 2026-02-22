@@ -11267,3 +11267,5 @@
 {"coords": [10.4, 53.25], "date": "2026-02-22"}, // Lüneburg, Diebstahl
 {"coords": [8.3708, 52.6078], "date": "2026-02-22"}, // Diepholz, Einbruch
 {"coords": [10.6833, 48.7833], "date": "2026-02-22"}, // Harburg, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2026-02-22"}, // Baustelle Nordhausen, Einbrecher
+{"coords": [10.7956, 51.5019], "date": "2026-02-22"}, // Nordhausen, Einbruch

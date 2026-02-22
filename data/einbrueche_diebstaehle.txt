@@ -11233,3 +11233,8 @@
 {"coords": [10.7183, 50.9489], "date": "2026-02-22"}, // Landkreis Gotha, Dieb
 {"coords": [7.3608, 49.2492], "date": "2026-02-22"}, // Zweibrücken, Einbruch
 //{"coords": [], "date": "2026-02-22"} // Bergstraße, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2026-02-22"}, // Einfamilienhaus Bergkamen, Einbruch
+//{"coords": [], "date": "2026-02-22"} // Kreis, Einbruch
+{"coords": [7.8231, 50.64], "date": "2026-02-22"}, // Hachenburg, Einbruch
+//{"coords": [], "date": "2026-02-22"} // Lohne, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-02-22"}, // Soest, Einbruch

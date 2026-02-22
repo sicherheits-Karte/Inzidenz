@@ -11245,3 +11245,4 @@
 {"coords": [7.3194, 52.5236], "date": "2026-02-22"}, // Wohnhaus Lingen, Einbruch
 //{"coords": [], "date": "2026-02-22"} // Festnahme Weilerswist, Diebstahl
 //{"coords": [], "date": "2026-02-22"} // Großbüllesheim, Einbruch
+//{"coords": [], "date": "2026-02-22"} // Mutterstadt Mutterstadt, Einbruch

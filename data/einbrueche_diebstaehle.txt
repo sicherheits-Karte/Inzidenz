@@ -11231,3 +11231,5 @@
 {"coords": [8.6306, 53.05], "date": "2026-02-21"}, // Delmenhorst, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-02-21"}, // Erfurt, Einbrüche
 {"coords": [10.7183, 50.9489], "date": "2026-02-22"}, // Landkreis Gotha, Dieb
+{"coords": [7.3608, 49.2492], "date": "2026-02-22"}, // Zweibrücken, Einbruch
+//{"coords": [], "date": "2026-02-22"} // Bergstraße, Einbruch

@@ -11274,3 +11274,4 @@
 {"coords": [7.9833, 51.95], "date": "2026-02-22"}, // Wohnung Warendorf, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-02-22"}, // Augsburg, Dieb
 {"coords": [10.6944, 50.6111], "date": "2026-02-22"}, // Suhl, Dieb
+{"coords": [7.1861, 49.6583], "date": "2026-02-22"}, // Wahlplakate Birkenfeld, Diebstahl

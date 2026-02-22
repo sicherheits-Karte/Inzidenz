@@ -11264,3 +11264,5 @@
 {"coords": [8.0472, 52.2799], "date": "2026-02-22"}, // Tag Osnabrück, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-02-22"}, // Einbruch Reutlingen, Einbruch
 //{"coords": [], "date": "2026-02-22"} // Verden, Diebstahl
+{"coords": [10.4, 53.25], "date": "2026-02-22"}, // Lüneburg, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-02-22"}, // Diepholz, Einbruch

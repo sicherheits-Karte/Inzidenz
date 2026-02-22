@@ -11246,3 +11246,4 @@
 //{"coords": [], "date": "2026-02-22"} // Festnahme Weilerswist, Diebstahl
 //{"coords": [], "date": "2026-02-22"} // Großbüllesheim, Einbruch
 //{"coords": [], "date": "2026-02-22"} // Mutterstadt Mutterstadt, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-02-22"}, // Vechta, Diebstahl

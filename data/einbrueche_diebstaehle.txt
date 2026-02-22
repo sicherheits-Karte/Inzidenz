@@ -11262,3 +11262,5 @@
 {"coords": [8.0472, 52.2799], "date": "2026-02-22"}, // Zeugen Osnabrück, Dieb
 {"coords": [8.0472, 52.2799], "date": "2026-02-22"}, // Einbrechern Osnabrück, Einbrecher
 {"coords": [8.0472, 52.2799], "date": "2026-02-22"}, // Tag Osnabrück, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-02-22"}, // Einbruch Reutlingen, Einbruch
+//{"coords": [], "date": "2026-02-22"} // Verden, Diebstahl

@@ -11247,3 +11247,10 @@
 //{"coords": [], "date": "2026-02-22"} // Großbüllesheim, Einbruch
 //{"coords": [], "date": "2026-02-22"} // Mutterstadt Mutterstadt, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-02-22"}, // Vechta, Diebstahl
+{"coords": [7.8211, 49.6306], "date": "2026-02-22"}, // Autohaus Rockenhausen, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-02-22"}, // Zeulenroda Greiz, Diebstahl
+{"coords": [7.5667, 51.0167], "date": "2026-02-22"}, // Wiehl, gestohlen
+{"coords": [7.3778, 51.0194], "date": "2026-02-22"}, // Lindlar, gestohlen
+{"coords": [7.5667, 51.0833], "date": "2026-02-22"}, // Werkstatt Gummersbach, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-02-22"}, // Gronau, eingebrochen
+{"coords": [7.0, 51.8333], "date": "2026-02-22"}, // Wohnhaus Reken, Einbruch

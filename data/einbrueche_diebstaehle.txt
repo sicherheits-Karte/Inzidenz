@@ -11280,3 +11280,5 @@
 {"coords": [9.95, 52.15], "date": "2026-02-22"}, // Harsum Hildesheim, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-02-22"}, // Mannheim, Raub
 {"coords": [6.4333, 51.2], "date": "2026-02-23"}, // Mönchengladbach, Raub
+{"coords": [9.5, 51.3167], "date": "2026-02-23"}, // Tankstelle Kassel, Einbruch
+{"coords": [7.7333, 49.3333], "date": "2026-02-23"}, // Steinalben, gestohlen

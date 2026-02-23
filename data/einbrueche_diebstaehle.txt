@@ -11335,3 +11335,11 @@
 //{"coords": [], "date": "2026-02-23"} // Armbanduhren Bergisch Gladbach, Diebstahl
 {"coords": [7.5336, 52.1728], "date": "2026-02-23"}, // Einfamilienhaus Emsdetten, Einbruch
 //{"coords": [], "date": "2026-02-23"} // Uentrop, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-23"}, // Jährigen Darmstadt, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-02-23"}, // Überholmanöver Heilbronn, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2026-02-23"}, // Werkstatt Bielefeld, Einbrüche
+{"coords": [6.8833, 52.5], "date": "2026-02-23"}, // Uelsen, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-02-23"}, // Neuss, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-02-23"}, // Schmuck Euskirchen, Diebstahl
+//{"coords": [], "date": "2026-02-23"} // Metternich, Diebstahl
+{"coords": [6.6528, 50.5931], "date": "2026-02-23"}, // Mechernich, Raub

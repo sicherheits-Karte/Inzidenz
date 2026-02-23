@@ -11284,3 +11284,7 @@
 {"coords": [7.7333, 49.3333], "date": "2026-02-23"}, // Steinalben, gestohlen
 {"coords": [8.7758, 50.0106], "date": "2026-02-23"}, // Dietzenbach, gestohlen
 {"coords": [8.7667, 50.1], "date": "2026-02-23"}, // Einbruch Offenbach, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-02-23"}, // Zeugen Osnabrück, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-23"}, // Ulm, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2026-02-23"}, // Einbrüche Aalen, Einbruch
+{"coords": [8.7758, 50.0106], "date": "2026-02-23"}, // Unbekannte Dietzenbach, Einbruch

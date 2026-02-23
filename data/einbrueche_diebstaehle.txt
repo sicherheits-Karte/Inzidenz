@@ -11282,3 +11282,5 @@
 {"coords": [6.4333, 51.2], "date": "2026-02-23"}, // Mönchengladbach, Raub
 {"coords": [9.5, 51.3167], "date": "2026-02-23"}, // Tankstelle Kassel, Einbruch
 {"coords": [7.7333, 49.3333], "date": "2026-02-23"}, // Steinalben, gestohlen
+{"coords": [8.7758, 50.0106], "date": "2026-02-23"}, // Dietzenbach, gestohlen
+{"coords": [8.7667, 50.1], "date": "2026-02-23"}, // Einbruch Offenbach, Einbruch

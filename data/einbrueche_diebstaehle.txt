@@ -11304,3 +11304,19 @@
 {"coords": [7.4653, 51.5136], "date": "2026-02-23"}, // Dortmund, Einbrecher
 {"coords": [10.7956, 51.5019], "date": "2026-02-23"}, // Wohnung Nordhausen, Einbruch
 {"coords": [10.7753, 49.7544], "date": "2026-02-23"}, // Mühlhausen, geklaut
+{"coords": [8.4833, 49.9167], "date": "2026-02-23"}, // Gerau, Einbruch
+{"coords": [8.6, 51.6833], "date": "2026-02-23"}, // Zeugen Salzkotten, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Anreppen, Einbrecher
+{"coords": [8.4111, 49.9917], "date": "2026-02-23"}, // Rüsselsheim, Einbruch
+{"coords": [8.7167, 50.9], "date": "2026-02-23"}, // Tätern Wetter, Einbruch
+{"coords": [7.8, 51.4333], "date": "2026-02-23"}, // Betrüger Menden, Dieb
+{"coords": [7.7, 51.375], "date": "2026-02-23"}, // Betrug Iserlohn, Einbruch
+{"coords": [7.4981, 51.1861], "date": "2026-02-23"}, // Halver, gestohlen
+{"coords": [7.6333, 51.2167], "date": "2026-02-23"}, // Diebstahl Lüdenscheid, Einbrüche
+{"coords": [7.8208, 51.6803], "date": "2026-02-23"}, // Hamm, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Garage Kierspe, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-02-23"}, // Wohnhaus Warendorf, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Schalksmühle, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-02-23"}, // Einbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Falscher Spediteur Plttenberg, Einbrüche
+//{"coords": [], "date": "2026-02-23"} // Kreis, Diebstahl

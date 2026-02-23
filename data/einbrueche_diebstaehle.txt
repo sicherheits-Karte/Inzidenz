@@ -11296,3 +11296,11 @@
 //{"coords": [], "date": "2026-02-23"} // Bad Sassendorf, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2026-02-23"}, // Einfamilienhaus Jena, Einbruch
 {"coords": [8.875, 53.05], "date": "2026-02-23"}, // Osterholz, entwendet
+//{"coords": [], "date": "2026-02-23"} // Bergisch Gladbach, Einbrüche
+{"coords": [7.3625, 51.2981], "date": "2026-02-23"}, // Ennepetal, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-02-23"}, // Hinweise Homberg, Einbruch
+//{"coords": [], "date": "2026-02-23"} // ZDF-Sendung, Raub
+//{"coords": [], "date": "2026-02-23"} // Keller, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-02-23"}, // Dortmund, Einbrecher
+{"coords": [10.7956, 51.5019], "date": "2026-02-23"}, // Wohnung Nordhausen, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-02-23"}, // Mühlhausen, geklaut

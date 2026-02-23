@@ -11368,3 +11368,13 @@
 //{"coords": [], "date": "2026-02-23"} // Rhein, Einbruch
 {"coords": [8.4043, 49.014], "date": "2026-02-23"}, // Belohnung Karlsruhe, Raub
 {"coords": [8.5847, 53.5469], "date": "2026-02-23"}, // Räuber Bremerhaven, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-02-23"}, // Kontrolle Limburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-02-23"}, // Ludwigsburg, Einbrüche
+{"coords": [8.24, 50.0822], "date": "2026-02-23"}, // Wiesbaden, Einbrüche
+{"coords": [13.0431, 53.905], "date": "2026-02-23"}, // Bibliothek Demmin, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-02-23"}, // Hofheim, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-02-23"}, // Einfamilienhaus Ludwigsburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-23"}, // Giessen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-02-23"}, // Erfurt, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-23"}, // Coesfeld, gestohlen
+{"coords": [8.6514, 49.8728], "date": "2026-02-23"}, // Plan Darmstadt, Einbrüche

@@ -11355,3 +11355,16 @@
 {"coords": [6.1333, 50.9333], "date": "2026-02-23"}, // Palenberg, entwendet
 //{"coords": [], "date": "2026-02-23"} // Scherpenseel, entwendet
 //{"coords": [], "date": "2026-02-23"} // Pkw Geilenkirchen, Diebstähle
+{"coords": [10.0936, 48.8372], "date": "2026-02-23"}, // Feuerwehreinsatz Aalen, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-02-23"}, // Supermarkt Osnabrück, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-02-23"}, // Oldesloer Bahnhof Ratzeburg, entwendet
+{"coords": [9.732, 52.3759], "date": "2026-02-23"}, // Hannover, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-02-23"}, // Coesfeld, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-02-23"}, // Recklinghausen, Einbrüche
+{"coords": [9.9333, 52.9667], "date": "2026-02-23"}, // Einbruch Heidekreis, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2026-02-23"}, // Bensheim, entwendet
+{"coords": [9.0556, 48.52], "date": "2026-02-23"}, // Tübingen Reutlingen, Einbrüche
+{"coords": [6.5617, 51.3317], "date": "2026-02-23"}, // Krefeld Krefeld, entwendet
+//{"coords": [], "date": "2026-02-23"} // Rhein, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-02-23"}, // Belohnung Karlsruhe, Raub
+{"coords": [8.5847, 53.5469], "date": "2026-02-23"}, // Räuber Bremerhaven, Raub

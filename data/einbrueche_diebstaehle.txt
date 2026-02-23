@@ -11378,3 +11378,14 @@
 {"coords": [11.0299, 50.9848], "date": "2026-02-23"}, // Erfurt, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-02-23"}, // Coesfeld, gestohlen
 {"coords": [8.6514, 49.8728], "date": "2026-02-23"}, // Plan Darmstadt, Einbrüche
+{"coords": [9.732, 52.3759], "date": "2026-02-23"}, // Zeugen Hannover, Raub
+{"coords": [6.3917, 51.2556], "date": "2026-02-23"}, // Einfamilienhaus Viersen, Einbruch
+{"coords": [6.4208, 51.3653], "date": "2026-02-23"}, // Einfamilienhaus Kempen, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Waldniel, Einbruch
+{"coords": [6.4208, 51.3653], "date": "2026-02-23"}, // Kempen, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Kein Ort gefunden, gestohlen
+{"coords": [8.6833, 50.5833], "date": "2026-02-23"}, // Giessen, geklaut
+{"coords": [8.2417, 48.7994], "date": "2026-02-23"}, // Baden, Raub
+{"coords": [10.7667, 51.5667], "date": "2026-02-23"}, // Schulgebäude Ilfeld, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-02-23"}, // Spritztour Mühlhausen, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Bad Frankenhausen, Einbrecher

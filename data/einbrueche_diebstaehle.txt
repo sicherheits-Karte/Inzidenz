@@ -11343,3 +11343,15 @@
 {"coords": [6.7872, 50.6606], "date": "2026-02-23"}, // Schmuck Euskirchen, Diebstahl
 //{"coords": [], "date": "2026-02-23"} // Metternich, Diebstahl
 {"coords": [6.6528, 50.5931], "date": "2026-02-23"}, // Mechernich, Raub
+{"coords": [8.5331, 52.021], "date": "2026-02-23"}, // Brackwede Bielefeld, Diebstähle
+{"coords": [6.7623, 51.4344], "date": "2026-02-23"}, // Zeugensuche Duisburg, Einbrüche
+//{"coords": [], "date": "2026-02-23"} // die abgestellten Rettungswagen eingedrungen war. Ersten Überprüfungen zufolge, schauten die Eindringlinge in die installierten Medizinschränke, gestohlen
+{"coords": [8.6822, 50.1106], "date": "2026-02-23"}, // Motorroller Frankfurt, gestohlen
+{"coords": [8.6822, 50.1106], "date": "2026-02-23"}, // Zeugenaufruf Frankfurt, Einbruch
+//{"coords": [], "date": "2026-02-23"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2026-02-23"} // Hilfarth, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Beeckerheide, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Kuckum, Einbruch
+{"coords": [6.1333, 50.9333], "date": "2026-02-23"}, // Palenberg, entwendet
+//{"coords": [], "date": "2026-02-23"} // Scherpenseel, entwendet
+//{"coords": [], "date": "2026-02-23"} // Pkw Geilenkirchen, Diebstähle

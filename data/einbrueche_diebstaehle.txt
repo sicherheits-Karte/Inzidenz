@@ -11288,3 +11288,11 @@
 {"coords": [9.9916, 48.3984], "date": "2026-02-23"}, // Ulm, Einbrüche
 {"coords": [10.0936, 48.8372], "date": "2026-02-23"}, // Einbrüche Aalen, Einbruch
 {"coords": [8.7758, 50.0106], "date": "2026-02-23"}, // Unbekannte Dietzenbach, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Dokument mehr, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-23"}, // Einbrüche Coesfeld, Einbrüche
+//{"coords": [], "date": "2026-02-23"} // Bad Sassendorf Bad Sassendorf, aufbrüche
+{"coords": [8.5333, 48.0667], "date": "2026-02-23"}, // Schwenningen, Raub
+{"coords": [12.1997, 50.6544], "date": "2026-02-23"}, // Greiz, Diebstahl
+//{"coords": [], "date": "2026-02-23"} // Bad Sassendorf, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-02-23"}, // Einfamilienhaus Jena, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-02-23"}, // Osterholz, entwendet

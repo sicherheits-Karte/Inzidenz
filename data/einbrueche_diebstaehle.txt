@@ -11320,3 +11320,10 @@
 {"coords": [7.1675, 51.9436], "date": "2026-02-23"}, // Einbruch Coesfeld, Einbruch
 //{"coords": [], "date": "2026-02-23"} // Falscher Spediteur Plttenberg, Einbrüche
 //{"coords": [], "date": "2026-02-23"} // Kreis, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-02-23"}, // Lippe, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-02-23"}, // Bus Fulda, Einbrecher
+//{"coords": [], "date": "2026-02-23"} // Meckenheim, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-02-23"}, // Vechta, entwendet
+//{"coords": [], "date": "2026-02-23"} // Weyhausen, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-02-23"}, // Innenstadt Bielefeld, Einbruch
+//{"coords": [], "date": "2026-02-23"} // Zeugen Sögel, aufbruch

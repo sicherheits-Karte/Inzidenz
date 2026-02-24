@@ -11471,3 +11471,11 @@
 //{"coords": [], "date": "2026-02-24"} // Bad Oeynhausen, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-02-24"}, // Restaurant Limburg, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-02-24"}, // Verletzten Bad Schwalbach, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-02-24"}, // Unfälle Reutlingen, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-02-24"}, // Erfurt Erfurt, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-02-24"}, // Erfurt, Dieb
+//{"coords": [], "date": "2026-02-24"} // Bad Cannstatt, eingebrochen
+{"coords": [11.0299, 50.9848], "date": "2026-02-24"}, // Erfurt, Einbrecher
+{"coords": [9.3833, 50.6333], "date": "2026-02-24"}, // Vogelsbergkreis, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2026-02-24"}, // Zeugenaufruf Heidelberg, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-02-24"}, // Giessen, Einbruch

@@ -11389,3 +11389,11 @@
 {"coords": [10.7667, 51.5667], "date": "2026-02-23"}, // Schulgebäude Ilfeld, Einbruch
 {"coords": [10.7753, 49.7544], "date": "2026-02-23"}, // Spritztour Mühlhausen, Einbruch
 //{"coords": [], "date": "2026-02-23"} // Bad Frankenhausen, Einbrecher
+{"coords": [8.3333, 51.4833], "date": "2026-02-24"}, // Belecke, Dieb
+{"coords": [10.75, 53.7], "date": "2026-02-24"}, // Abwasserbetrieb Ratzeburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-24"}, // Sachbeschädigungen Aalen, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-02-24"}, // Bonn, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2026-02-24"}, // Hinweise Nordhorn, Einbruch
+//{"coords": [], "date": "2026-02-24"} // Hinweise Georgsdorf, Einbruch
+//{"coords": [], "date": "2026-02-24"} // eines Einkaufsmarktes in der Hans-Franck-Straße. Nach bisherigen Erkenntnissen bat ein bislang unbekannter Mann die Angestellte an der Kasse im Rahmen eines Bezahlvorgangs, einen Geldbetrag zu wechseln. Während des Wechselvorgangs sorgte der, Diebstahl
+{"coords": [9.984, 54.0714], "date": "2026-02-24"}, // Neumünster, Einbruch

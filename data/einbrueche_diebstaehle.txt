@@ -11397,3 +11397,13 @@
 //{"coords": [], "date": "2026-02-24"} // Hinweise Georgsdorf, Einbruch
 //{"coords": [], "date": "2026-02-24"} // eines Einkaufsmarktes in der Hans-Franck-Straße. Nach bisherigen Erkenntnissen bat ein bislang unbekannter Mann die Angestellte an der Kasse im Rahmen eines Bezahlvorgangs, einen Geldbetrag zu wechseln. Während des Wechselvorgangs sorgte der, Diebstahl
 {"coords": [9.984, 54.0714], "date": "2026-02-24"}, // Neumünster, Einbruch
+//{"coords": [], "date": "2026-02-24"} // Weimaerer Land, Einbrecher
+//{"coords": [], "date": "2026-02-24"} // Kreis, Diebstähle
+{"coords": [6.6833, 51.6167], "date": "2026-02-24"}, // Wohnungseinbruchsdiebstahl Voerde, Einbruch
+{"coords": [7.8333, 51.7], "date": "2026-02-24"}, // Heessen, Einbrecher
+{"coords": [7.9833, 51.95], "date": "2026-02-24"}, // Warendorf, Diebstahl
+//{"coords": [], "date": "2026-02-24"} // Roxheim, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-02-24"}, // Parfümerie Gütersloh, Diebstahl
+{"coords": [8.0722, 49.5608], "date": "2026-02-24"}, // Lkw Eisenberg, Diebstahl
+{"coords": [8.0, 51.3333], "date": "2026-02-24"}, // Sundern Sundern, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-02-24"}, // Lippe, Diebstahl

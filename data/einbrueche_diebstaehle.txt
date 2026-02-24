@@ -11407,3 +11407,13 @@
 {"coords": [8.0722, 49.5608], "date": "2026-02-24"}, // Lkw Eisenberg, Diebstahl
 {"coords": [8.0, 51.3333], "date": "2026-02-24"}, // Sundern Sundern, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-02-24"}, // Lippe, Diebstahl
+{"coords": [7.8, 51.4333], "date": "2026-02-24"}, // Notrufe Menden, Einbrecher
+{"coords": [7.6333, 51.6167], "date": "2026-02-24"}, // Bergkamen, entwendet
+{"coords": [8.5333, 50.0667], "date": "2026-02-24"}, // Kelsterbach, entwendet
+{"coords": [9.9916, 48.3984], "date": "2026-02-24"}, // Ulm, stahl
+//{"coords": [], "date": "2026-02-24"} // Friedhof Merkelbach, Diebstahl
+//{"coords": [], "date": "2026-02-24"} // Winzenheim, Einbruch
+//{"coords": [], "date": "2026-02-24"} // Nenndorf, Einbrecher
+{"coords": [7.2162, 51.4818], "date": "2026-02-24"}, // Zeugen Bochum, Raub
+{"coords": [8.1075, 53.5219], "date": "2026-02-24"}, // Rüderstraße Wilhelmshaven, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-02-24"}, // Einbruch Jena, Einbruch

@@ -11436,3 +11436,14 @@
 {"coords": [11.0767, 49.4521], "date": "2026-02-24"}, // Nürnberg, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-02-24"}, // Pixeler Straße Gütersloh, Einbruch
 {"coords": [6.8761, 50.8778], "date": "2026-02-24"}, // Hürth, entwendet
+{"coords": [10.7333, 51.2833], "date": "2026-02-24"}, // Ebeleben, Dieb
+{"coords": [7.2, 50.8333], "date": "2026-02-24"}, // Zeugenhinweise Lohmar, Einbruch
+//{"coords": [], "date": "2026-02-24"} // Bad Cannstattt, Dieb
+{"coords": [8.3708, 52.6078], "date": "2026-02-24"}, // Diepholz, gestohlen
+{"coords": [7.0333, 52.2167], "date": "2026-02-24"}, // Pkw Gronau, Diebstahl
+{"coords": [6.8139, 50.9147], "date": "2026-02-24"}, // Zeugensuche Frechen, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-02-24"}, // Pkw Heilbronn, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-02-24"}, // Delmenhorst, Diebstahl
+//{"coords": [], "date": "2026-02-24"} // Kreis, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-02-24"}, // Zeugensuche Duisburg, klau
+{"coords": [9.2167, 48.4833], "date": "2026-02-24"}, // Verkehrsunfall Reutlingen, Einbrüche

@@ -11417,3 +11417,9 @@
 {"coords": [7.2162, 51.4818], "date": "2026-02-24"}, // Zeugen Bochum, Raub
 {"coords": [8.1075, 53.5219], "date": "2026-02-24"}, // Rüderstraße Wilhelmshaven, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2026-02-24"}, // Einbruch Jena, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-02-24"}, // Gera, entwendet
+{"coords": [7.3778, 51.0194], "date": "2026-02-24"}, // Lindlar, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-02-24"}, // Schulen Lüdenscheid, Einbruch
+//{"coords": [], "date": "2026-02-24"} // Einfamilienhaus Bad Segeberg, Einbruch
+{"coords": [6.3333, 51.6667], "date": "2026-02-24"}, // Wetten, Einbruch
+{"coords": [6.4333, 51.8333], "date": "2026-02-24"}, // Emmerich, Einbruch

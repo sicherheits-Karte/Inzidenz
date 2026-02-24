@@ -11479,3 +11479,4 @@
 {"coords": [9.3833, 50.6333], "date": "2026-02-24"}, // Vogelsbergkreis, Einbruch
 {"coords": [8.6944, 49.4092], "date": "2026-02-24"}, // Zeugenaufruf Heidelberg, Einbrüche
 {"coords": [8.6833, 50.5833], "date": "2026-02-24"}, // Giessen, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-02-24"}, // Vechta, Raub

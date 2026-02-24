@@ -11460,3 +11460,14 @@
 {"coords": [8.4353, 49.4811], "date": "2026-02-24"}, // Ludwigshafen, gestohlen
 {"coords": [7.2, 51.6167], "date": "2026-02-24"}, // Betrugsmasche Recklinghausen, Dieb
 {"coords": [7.0982, 50.7374], "date": "2026-02-24"}, // Rollerdiebstahl Bonn, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-02-24"}, // Giessen, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-02-24"}, // Zeugen Freiburg, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-02-24"}, // Zeugensuche Freiburg, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-02-24"}, // Duisburg, Raub
+{"coords": [13.0431, 53.905], "date": "2026-02-24"}, // Werkzeug Demmin, eingebrochen
+{"coords": [11.1, 48.7167], "date": "2026-02-24"}, // Werkstatteinbruch Oberhausen, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-02-24"}, // Hofheim, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-02-24"}, // Hinweise Karlsruhe, Einbruch
+//{"coords": [], "date": "2026-02-24"} // Bad Oeynhausen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-02-24"}, // Restaurant Limburg, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-02-24"}, // Verletzten Bad Schwalbach, Einbruch

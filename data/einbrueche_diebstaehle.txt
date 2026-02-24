@@ -11423,3 +11423,16 @@
 //{"coords": [], "date": "2026-02-24"} // Einfamilienhaus Bad Segeberg, Einbruch
 {"coords": [6.3333, 51.6667], "date": "2026-02-24"}, // Wetten, Einbruch
 {"coords": [6.4333, 51.8333], "date": "2026-02-24"}, // Emmerich, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-02-24"}, // Baustelle Hildesheim, gestohlen
+//{"coords": [], "date": "2026-02-24"} // Winternheim, Diebstähle
+{"coords": [8.2711, 50.0], "date": "2026-02-24"}, // Gonsenheim Mainz, Dieb
+{"coords": [8.5331, 52.021], "date": "2026-02-24"}, // Jöllenbeck Bielefeld, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-02-24"}, // Armband Hildesheim, Dieb
+{"coords": [8.6514, 49.8728], "date": "2026-02-24"}, // Zeugen Darmstadt, Einbruch
+{"coords": [12.1764, 53.7944], "date": "2026-02-24"}, // Güstrower Einfamilienhaus Güstrow, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2026-02-24"}, // Suhl, geklaut
+{"coords": [7.9447, 48.4731], "date": "2026-02-24"}, // Offenburg, Diebstahl
+{"coords": [6.3778, 51.6083], "date": "2026-02-24"}, // Sonsbeck, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2026-02-24"}, // Nürnberg, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-02-24"}, // Pixeler Straße Gütersloh, Einbruch
+{"coords": [6.8761, 50.8778], "date": "2026-02-24"}, // Hürth, entwendet

@@ -11508,3 +11508,13 @@
 {"coords": [10.5833, 50.55], "date": "2026-02-25"}, // Oberstadt, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-02-25"}, // Sachbeschädigung Aalen, Diebstahl
 {"coords": [10.0831, 52.6247], "date": "2026-02-25"}, // Celle, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-02-25"}, // Zigarettenfach Mühlhausen, Dieb
+{"coords": [7.3392, 51.3197], "date": "2026-02-25"}, // Fahrzeuginsassen Gevelsberg, Diebstahl
+//{"coords": [], "date": "2026-02-25"} // Neulingen, eingebrochen
+{"coords": [8.2036, 48.8572], "date": "2026-02-25"}, // Rastatt, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-02-25"}, // Zeugen Osnabrück, Einbruch
+{"coords": [9.4833, 53.7833], "date": "2026-02-25"}, // Werkstatteinbruch Herzhorn, Einbruch
+{"coords": [9.5164, 53.925], "date": "2026-02-25"}, // Handtasche Itzehoe, Raub
+{"coords": [7.4653, 51.5136], "date": "2026-02-25"}, // Mithilfe Dortmund, klau
+{"coords": [8.6925, 52.1986], "date": "2026-02-25"}, // Scooter Löhne, Diebstahl
+//{"coords": [], "date": "2026-02-25"} // Merzenich, Diebstähle

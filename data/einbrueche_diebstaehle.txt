@@ -11481,3 +11481,7 @@
 {"coords": [8.6833, 50.5833], "date": "2026-02-24"}, // Giessen, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-02-24"}, // Vechta, Raub
 {"coords": [8.4661, 49.4878], "date": "2026-02-24"}, // Mannheim, gestohlen
+{"coords": [7.6736, 51.2972], "date": "2026-02-25"}, // Krankenhaus Altena, Einbruch
+{"coords": [7.4981, 51.1861], "date": "2026-02-25"}, // Taschendiebe Halver, Dieb
+{"coords": [7.6333, 51.2167], "date": "2026-02-25"}, // Betrug Lüdenscheid, Einbrüche
+{"coords": [6.8889, 49.9858], "date": "2026-02-25"}, // Fahrzeug Wittlich, Diebstahl

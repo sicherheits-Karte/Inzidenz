@@ -11549,3 +11549,14 @@
 {"coords": [8.4043, 49.014], "date": "2026-02-25"}, // Zeugen Karlsruhe, Einbruch
 {"coords": [7.4614, 50.4286], "date": "2026-02-25"}, // Gierend Neuwied, Einbruch
 //{"coords": [], "date": "2026-02-25"} // Husen, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-02-25"}, // Lüneburg, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-02-25"}, // Ulm, Diebstähle
+//{"coords": [], "date": "2026-02-25"} // Schafhausen, Diebstähle
+{"coords": [9.1919, 48.8975], "date": "2026-02-25"}, // Ludwigsburg, entwendet
+//{"coords": [], "date": "2026-02-25"} // Tatverdächtigen Heusenstamm, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-02-25"}, // Kaiserslautern, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-02-25"}, // Euskirchen, Raub
+//{"coords": [], "date": "2026-02-25"} // Hähnlein, gestohlen
+//{"coords": [], "date": "2026-02-25"} // leerstehendes Wohnhaus Mackenbach, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-02-25"}, // Zeugenaufruf Essen, stehlen
+//{"coords": [], "date": "2026-02-25"} // Herzogenrath, Raub

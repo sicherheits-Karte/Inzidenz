@@ -11485,3 +11485,13 @@
 {"coords": [7.4981, 51.1861], "date": "2026-02-25"}, // Taschendiebe Halver, Dieb
 {"coords": [7.6333, 51.2167], "date": "2026-02-25"}, // Betrug Lüdenscheid, Einbrüche
 {"coords": [6.8889, 49.9858], "date": "2026-02-25"}, // Fahrzeug Wittlich, Diebstahl
+{"coords": [7.5, 52.4333], "date": "2026-02-25"}, // Hinweise Beesten, entwendet
+//{"coords": [], "date": "2026-02-25"} // Börger, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-02-25"}, // Mitte, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-02-25"}, // Untersuchungshaft Dortmund, Raub
+{"coords": [7.9139, 51.5528], "date": "2026-02-25"}, // Werl, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2026-02-25"}, // Greiz, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-02-25"}, // Altenburg, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-02-25"}, // Altenburg, entwendet
+{"coords": [8.1092, 51.5711], "date": "2026-02-25"}, // Ampen Soest, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-02-25"}, // Osterholz, eingebrochen

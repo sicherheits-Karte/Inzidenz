@@ -11541,3 +11541,11 @@
 {"coords": [7.9447, 48.4731], "date": "2026-02-25"}, // Offenburg, gestohlen
 //{"coords": [], "date": "2026-02-25"} // Schützenhaus Wipperdorf, Einbrecher
 {"coords": [13.3878, 54.0931], "date": "2026-02-25"}, // Greifswalder Einkaufszentrum Greifswald, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-02-25"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2026-02-25"} // Bretzenheim, Diebstahl
+{"coords": [7.2667, 49.35], "date": "2026-02-25"}, // Bexbach Bexbach, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-02-25"}, // Zeugenhinweise Bochum, entwendet
+{"coords": [7.1, 51.5167], "date": "2026-02-25"}, // Gelsenkirchen, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-02-25"}, // Zeugen Karlsruhe, Einbruch
+{"coords": [7.4614, 50.4286], "date": "2026-02-25"}, // Gierend Neuwied, Einbruch
+//{"coords": [], "date": "2026-02-25"} // Husen, Einbruch

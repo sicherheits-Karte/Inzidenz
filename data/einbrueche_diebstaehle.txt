@@ -11533,3 +11533,11 @@
 {"coords": [10.4667, 50.5167], "date": "2026-02-25"}, // Kripo Einhausen, entwendet
 {"coords": [8.8667, 51.9333], "date": "2026-02-25"}, // Lippe, Einbruch
 {"coords": [6.4667, 51.8333], "date": "2026-02-25"}, // Isselburg, eingebrochen
+{"coords": [9.36, 52.1039], "date": "2026-02-25"}, // Zeugen Hameln, Raub
+{"coords": [7.2211, 50.3275], "date": "2026-02-25"}, // Zeugenaufruf Mayen, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-02-25"}, // Haftrichter Düsseldorf, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-02-25"}, // Sachbeschädigung Heilbronn, Einbruch
+{"coords": [9.55, 49.3167], "date": "2026-02-25"}, // Einbruch Hohenlohekreis, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2026-02-25"}, // Offenburg, gestohlen
+//{"coords": [], "date": "2026-02-25"} // Schützenhaus Wipperdorf, Einbrecher
+{"coords": [13.3878, 54.0931], "date": "2026-02-25"}, // Greifswalder Einkaufszentrum Greifswald, Einbruch

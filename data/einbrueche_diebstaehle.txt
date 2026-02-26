@@ -11644,3 +11644,9 @@
 //{"coords": [], "date": "2026-02-26"} // Fell, Einbrüche
 //{"coords": [], "date": "2026-02-26"} // der Zeit vom, entwendet
 //{"coords": [], "date": "2026-02-26"} // Jugenheim, Einbrecher
+{"coords": [7.1986, 51.1789], "date": "2026-02-26"}, // Remscheid Wuppertal, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-02-26"}, // Huttenheim Karlsruhe, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2026-02-26"}, // Landau, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-02-26"}, // Jackentasche Bielefeld, Dieb
+{"coords": [6.8761, 50.8778], "date": "2026-02-26"}, // Zeugensuche Hürth, Einbruch
+//{"coords": [], "date": "2026-02-26"} // der Zeit vom, Diebstahl

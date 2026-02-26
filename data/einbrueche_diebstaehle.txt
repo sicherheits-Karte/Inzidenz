@@ -11622,3 +11622,7 @@
 {"coords": [8.8075, 53.075], "date": "2026-02-26"}, // Ausflug-- Bremen, Einbrecher
 {"coords": [7.0667, 52.4333], "date": "2026-02-26"}, // Nordhorn, Diebstahl
 {"coords": [7.5336, 52.1728], "date": "2026-02-26"}, // In Hollingen Emsdetten, Einbrüche
+{"coords": [8.5333, 50.0667], "date": "2026-02-26"}, // Kelsterbach, Dieb
+{"coords": [7.45, 51.4], "date": "2026-02-26"}, // Ort Herdecke, Einbruch
+//{"coords": [], "date": "2026-02-26"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2026-02-26"} // unterschiedliche Richtungen. Ein aufmerksamer, Diebstahl

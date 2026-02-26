@@ -11683,3 +11683,6 @@
 {"coords": [7.82, 47.99], "date": "2026-02-26"}, // Schmuckgeschäft Freiburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-02-26"}, // Brombach Freiburg, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2026-02-26"}, // Gotha, entwendet
+//{"coords": [], "date": "2026-02-26"} // den vergangenen Tagen haben Unbekannte auf dem Friedhof Grabschmuck gestohlen. Von einer Ruhestätte wurden eine Laterne sowie ein Blumentopf mit Blumen entwendet. Weil Diebstahl auf Friedhöfen wiederholt vorkommt, bittet die Polizei Friedhofsbesucher wachsam zu sein, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-02-26"}, // Wilhelmshaven, Räuber
+{"coords": [8.4661, 49.4878], "date": "2026-02-26"}, // Zeugenaufruf Mannheim, entwendet

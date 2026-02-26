@@ -11611,3 +11611,14 @@
 {"coords": [7.3, 53.0], "date": "2026-02-26"}, // Zeugen Heede, Einbruch
 //{"coords": [], "date": "2026-02-26"} // Georgsdorf, Einbruch
 {"coords": [8.0, 51.45], "date": "2026-02-26"}, // Müschede Arnsberg, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2026-02-26"}, // Werkzeuge Goch, Einbruch
+//{"coords": [], "date": "2026-02-26"} // Hartefeld, entwendet
+{"coords": [6.1353, 51.7875], "date": "2026-02-26"}, // Kupferkabel Kleve, entwendet
+//{"coords": [], "date": "2026-02-26"} // Oermten, Diebstahl
+{"coords": [6.4333, 51.8333], "date": "2026-02-26"}, // Emmerich, Einbruch
+{"coords": [8.65, 49.3], "date": "2026-02-26"}, // Walldorf, Einbrecher
+{"coords": [8.15, 49.4667], "date": "2026-02-26"}, // einem Supermarkt in der Weinstraße in Wachenheim zu einem Diebstahl eines Geldbeutels. Bislang unbekannte Täter entwendeten während des Einkaufs einen roten Ledergeldbeutel. In dem Geldbeutel befanden sich neben Bargeld auch persönliche Dokumente sowie eine EC- und eine, Diebstahl
+{"coords": [8.4833, 49.9167], "date": "2026-02-26"}, // Gerau, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-02-26"}, // Ausflug-- Bremen, Einbrecher
+{"coords": [7.0667, 52.4333], "date": "2026-02-26"}, // Nordhorn, Diebstahl
+{"coords": [7.5336, 52.1728], "date": "2026-02-26"}, // In Hollingen Emsdetten, Einbrüche

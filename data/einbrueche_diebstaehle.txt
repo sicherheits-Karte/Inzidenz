@@ -11688,3 +11688,4 @@
 {"coords": [8.4661, 49.4878], "date": "2026-02-26"}, // Zeugenaufruf Mannheim, entwendet
 //{"coords": [], "date": "2026-02-26"} // Lützensömmern, Dieb
 //{"coords": [], "date": "2026-02-26"} // Wörrstadt, Diebstahl
+{"coords": [8.3658, 49.6306], "date": "2026-02-26"}, // Worms Worms, hab und gut

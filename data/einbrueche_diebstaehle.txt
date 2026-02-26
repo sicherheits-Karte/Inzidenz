@@ -11595,3 +11595,4 @@
 {"coords": [8.4661, 49.4878], "date": "2026-02-25"}, // Zeugenaufruf Mannheim, entwendet
 //{"coords": [], "date": "2026-02-25"} // Hann. Münden mehr, Raub
 {"coords": [6.7735, 51.2277], "date": "2026-02-25"}, // Sperrungen Düsseldorf, Raub
+{"coords": [7.2, 51.6167], "date": "2026-02-26"}, // Recklinghausen, Einbruch

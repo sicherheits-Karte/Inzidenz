@@ -11650,3 +11650,12 @@
 {"coords": [8.5331, 52.021], "date": "2026-02-26"}, // Jackentasche Bielefeld, Dieb
 {"coords": [6.8761, 50.8778], "date": "2026-02-26"}, // Zeugensuche Hürth, Einbruch
 //{"coords": [], "date": "2026-02-26"} // der Zeit vom, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-02-26"}, // Ladendiebs Bielefeld, Dieb
+{"coords": [6.315, 51.0794], "date": "2026-02-26"}, // Erkelenz, Raub
+{"coords": [6.315, 51.0794], "date": "2026-02-26"}, // Tageswohnungseinbruch Erkelenz, Einbruch
+{"coords": [6.315, 51.0794], "date": "2026-02-26"}, // Erkelenz, gestohlen
+//{"coords": [], "date": "2026-02-26"} // Geilenkirchen, stahl
+//{"coords": [], "date": "2026-02-26"} // Waldenrath, entwendet
+{"coords": [10.4278, 51.9042], "date": "2026-02-26"}, // Goslar, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-02-26"}, // Kaiserslautern, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-02-26"}, // Gelsenkirchen, Raub

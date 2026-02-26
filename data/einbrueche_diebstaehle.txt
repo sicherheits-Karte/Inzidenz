@@ -11668,3 +11668,9 @@
 {"coords": [8.4353, 49.4811], "date": "2026-02-26"}, // Untersuchungshaft Ludwigshafen, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2026-02-26"}, // Heidekreis, Einbrecher
 //{"coords": [], "date": "2026-02-26"} // Gottmadingen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-02-26"}, // Ludwigshafen, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-02-26"}, // Bankfiliale Ludwigshafen, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-02-26"}, // Giessen, Einbruch
+{"coords": [10.25, 52.6167], "date": "2026-02-26"}, // Lachendorf Lachendorf, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-26"}, // Einfamilienhaus Ludwigshafen, Einbruch
+//{"coords": [], "date": "2026-02-26"} // Kein Ort gefunden, Einbrecher

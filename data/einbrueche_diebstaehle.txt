@@ -11601,3 +11601,13 @@
 {"coords": [9.8333, 53.95], "date": "2026-02-26"}, // Tatverdächtigen Hagen, Diebstahl
 {"coords": [6.1353, 51.7875], "date": "2026-02-26"}, // Kleve, Diebstahl
 //{"coords": [], "date": "2026-02-26"} // Tageswohnungseinbruch Rivenich, Einbruch
+{"coords": [7.45, 51.4333], "date": "2026-02-26"}, // Vorhalle, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-02-26"}, // Körperverletzung Aalen, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-02-26"}, // Kellereinbruch Soest, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-02-26"}, // Uhren Bonn, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-26"}, // Unfälle Aalen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-02-26"}, // Zeugen Lingen, Einbruch
+{"coords": [6.45, 51.6583], "date": "2026-02-26"}, // Hinweise Xanten, entwendet
+{"coords": [7.3, 53.0], "date": "2026-02-26"}, // Zeugen Heede, Einbruch
+//{"coords": [], "date": "2026-02-26"} // Georgsdorf, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-02-26"}, // Müschede Arnsberg, Einbruch

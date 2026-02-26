@@ -11687,3 +11687,4 @@
 {"coords": [8.1075, 53.5219], "date": "2026-02-26"}, // Wilhelmshaven, Räuber
 {"coords": [8.4661, 49.4878], "date": "2026-02-26"}, // Zeugenaufruf Mannheim, entwendet
 //{"coords": [], "date": "2026-02-26"} // Lützensömmern, Dieb
+//{"coords": [], "date": "2026-02-26"} // Wörrstadt, Diebstahl

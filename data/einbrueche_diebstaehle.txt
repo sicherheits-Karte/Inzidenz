@@ -11626,3 +11626,13 @@
 {"coords": [7.45, 51.4], "date": "2026-02-26"}, // Ort Herdecke, Einbruch
 //{"coords": [], "date": "2026-02-26"} // Kein Ort gefunden, Diebstahl
 //{"coords": [], "date": "2026-02-26"} // unterschiedliche Richtungen. Ein aufmerksamer, Diebstahl
+{"coords": [7.1861, 49.6583], "date": "2026-02-26"}, // Hinweise Birkenfeld, entwendet
+{"coords": [8.6833, 52.15], "date": "2026-02-26"}, // Zeugen Herford, entwendet
+{"coords": [7.0083, 52.075], "date": "2026-02-26"}, // Einfamilienhaus Ahaus, Einbruch
+//{"coords": [], "date": "2026-02-26"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.4667, 53.95], "date": "2026-02-26"}, // Ladendiebstahl Hessisch Oldendorf, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-02-26"}, // Hinweise Homberg, Einbrüche
+{"coords": [7.2, 50.8333], "date": "2026-02-26"}, // Zeugenhinweise Lohmar, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-02-26"}, // Zeugenaufruf Delmenhorst, Einbruch
+{"coords": [10.0219, 50.8278], "date": "2026-02-26"}, // Auto Vacha, Diebstahl
+{"coords": [11.4333, 51.3], "date": "2026-02-26"}, // Roßleben, geklaut

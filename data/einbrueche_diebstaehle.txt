@@ -11598,3 +11598,6 @@
 {"coords": [7.2, 51.6167], "date": "2026-02-26"}, // Recklinghausen, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2026-02-26"}, // Herne, Raub
 {"coords": [8.0833, 50.8167], "date": "2026-02-26"}, // Michelbach, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2026-02-26"}, // Tatverdächtigen Hagen, Diebstahl
+{"coords": [6.1353, 51.7875], "date": "2026-02-26"}, // Kleve, Diebstahl
+//{"coords": [], "date": "2026-02-26"} // Tageswohnungseinbruch Rivenich, Einbruch

@@ -11674,3 +11674,12 @@
 {"coords": [10.25, 52.6167], "date": "2026-02-26"}, // Lachendorf Lachendorf, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-02-26"}, // Einfamilienhaus Ludwigshafen, Einbruch
 //{"coords": [], "date": "2026-02-26"} // Kein Ort gefunden, Einbrecher
+{"coords": [8.6372, 49.6419], "date": "2026-02-26"}, // Zeugen Heppenheim, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-02-26"}, // Gewinnversprechen Giessen, Dieb
+{"coords": [6.9603, 50.9375], "date": "2026-02-26"}, // Köln, Einbrecher
+{"coords": [10.8667, 49.4667], "date": "2026-02-26"}, // Horbach Cadolzburg, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-02-26"}, // Rastanlage Limburg, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-02-26"}, // Wiesbaden, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-02-26"}, // Schmuckgeschäft Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-02-26"}, // Brombach Freiburg, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-02-26"}, // Gotha, entwendet

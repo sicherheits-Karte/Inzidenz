@@ -11736,3 +11736,8 @@
 {"coords": [9.7833, 54.6333], "date": "2026-02-27"}, // Süderbrarup, Räuber
 {"coords": [8.6833, 52.15], "date": "2026-02-27"}, // Schneidewerkzeug Herford, Diebstahl
 {"coords": [6.6833, 51.6167], "date": "2026-02-27"}, // Hinweise Voerde, eingebrochen
+{"coords": [7.5833, 51.3667], "date": "2026-02-27"}, // Hohenlimburg, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-02-27"}, // Hassel Gelsenkirchen, Dieb
+{"coords": [8.6514, 49.8728], "date": "2026-02-27"}, // Zeugen Darmstadt, Einbrecher
+{"coords": [9.2108, 49.1425], "date": "2026-02-27"}, // Landkreis Heilbronn, Einbrüche
+{"coords": [8.875, 53.05], "date": "2026-02-27"}, // Osterholz, Einbruch

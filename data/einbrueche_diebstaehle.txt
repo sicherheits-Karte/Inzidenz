@@ -11768,3 +11768,11 @@
 {"coords": [8.7667, 50.1], "date": "2026-02-27"}, // Kreis Offenbach, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2026-02-27"}, // Kaiserslautern, entwendet
 {"coords": [8.1092, 51.5711], "date": "2026-02-27"}, // Soest, Raub
+{"coords": [7.7806, 53.5769], "date": "2026-02-27"}, // Landkreis Wittmund, Einbruch
+//{"coords": [], "date": "2026-02-27"} // Brachelen, stahl
+//{"coords": [], "date": "2026-02-27"} // Ratheim, Diebstahl
+{"coords": [6.0961, 51.0631], "date": "2026-02-27"}, // Kfz Heinsberg, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-02-27"}, // Industriestraße Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-02-27"} // Bad Salzungen, aufbrüche
+{"coords": [10.4, 53.25], "date": "2026-02-27"}, // Lüneburg, Räuber
+{"coords": [7.5833, 52.2972], "date": "2026-02-27"}, // Bäckerei Hörstel, Einbruch

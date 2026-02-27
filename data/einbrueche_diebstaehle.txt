@@ -11741,3 +11741,11 @@
 {"coords": [8.6514, 49.8728], "date": "2026-02-27"}, // Zeugen Darmstadt, Einbrecher
 {"coords": [9.2108, 49.1425], "date": "2026-02-27"}, // Landkreis Heilbronn, Einbrüche
 {"coords": [8.875, 53.05], "date": "2026-02-27"}, // Osterholz, Einbruch
+{"coords": [11.3, 51.3667], "date": "2026-02-27"}, // Zeugen Artern, Räuber
+{"coords": [8.4353, 49.4811], "date": "2026-02-27"}, // Ludwigshafen, Einbrecher
+{"coords": [7.2061, 53.3669], "date": "2026-02-27"}, // Emden, Diebstahl
+//{"coords": [], "date": "2026-02-27"} // Schwabenheimer Weg, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-02-27"}, // Betrugsdelikt Reutlingen, Einbruch
+{"coords": [9.1464, 51.4889], "date": "2026-02-27"}, // Warburg, Diebstahl
+//{"coords": [], "date": "2026-02-27"} // Kassebruch, entwendet
+{"coords": [8.0472, 52.2799], "date": "2026-02-27"}, // Zeugen Osnabrück, Diebstahl

@@ -11689,3 +11689,12 @@
 //{"coords": [], "date": "2026-02-26"} // Lützensömmern, Dieb
 //{"coords": [], "date": "2026-02-26"} // Wörrstadt, Diebstahl
 {"coords": [8.3658, 49.6306], "date": "2026-02-26"}, // Worms Worms, hab und gut
+{"coords": [12.0799, 50.8772], "date": "2026-02-27"}, // Gera, entwendet
+//{"coords": [], "date": "2026-02-27"} // Birkenhügel, Einbruch
+{"coords": [10.0831, 52.6247], "date": "2026-02-27"}, // Celle, Diebstahl
+{"coords": [8.6167, 49.6833], "date": "2026-02-27"}, // Zeugen Bensheim, Einbruch
+{"coords": [7.6458, 50.6878], "date": "2026-02-27"}, // Einbruchsdiebstahl Altenkirchen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-02-27"}, // Widerstand Aalen, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-02-27"}, // Weimar, Dieb
+{"coords": [11.5862, 50.9271], "date": "2026-02-27"}, // Jena, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-02-27"}, // Jena, Dieb

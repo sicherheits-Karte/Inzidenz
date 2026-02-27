@@ -11776,3 +11776,13 @@
 //{"coords": [], "date": "2026-02-27"} // Bad Salzungen, aufbrüche
 {"coords": [10.4, 53.25], "date": "2026-02-27"}, // Lüneburg, Räuber
 {"coords": [7.5833, 52.2972], "date": "2026-02-27"}, // Bäckerei Hörstel, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-02-27"}, // Haft Giessen, geklaut
+{"coords": [8.6833, 50.5833], "date": "2026-02-27"}, // Giessen, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-02-27"}, // Kostenlose Fahrradcodierungen Wiesbaden, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2026-02-27"}, // Computerbetrug Euskirchen, Diebstahl
+//{"coords": [], "date": "2026-02-27"} // Wendel, Einbrüche
+{"coords": [6.3917, 51.2556], "date": "2026-02-27"}, // Viersen, Raub
+{"coords": [6.7739, 50.8142], "date": "2026-02-27"}, // Polizeikontrolle Erftstadt, gestohlen
+{"coords": [7.95, 50.9333], "date": "2026-02-27"}, // Kreuztal, Diebstähle
+{"coords": [8.6833, 50.5833], "date": "2026-02-27"}, // Schmuck Giessen, Einbrecher
+//{"coords": [], "date": "2026-02-27"} // Netphen, entwendet

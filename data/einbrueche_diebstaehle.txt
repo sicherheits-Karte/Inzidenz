@@ -11698,3 +11698,15 @@
 {"coords": [11.3239, 50.9795], "date": "2026-02-27"}, // Weimar, Dieb
 {"coords": [11.5862, 50.9271], "date": "2026-02-27"}, // Jena, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2026-02-27"}, // Jena, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-02-27"}, // Untersuchungshaft Ludwigsburg, Raub
+{"coords": [8.6306, 53.05], "date": "2026-02-27"}, // Zeugenaufruf Delmenhorst, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-02-27"}, // Gera, Diebstahl
+//{"coords": [], "date": "2026-02-27"} // Bergisch Gladbach, gestohlen
+{"coords": [8.5833, 51.3833], "date": "2026-02-27"}, // Reiterhof Brilon, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-02-27"}, // Einfamilienhaus Arnsberg, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-02-27"}, // Delmenhorst, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-02-27"}, // Hinweise Homberg, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-02-27"}, // Ludwigsburg, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-02-27"}, // Altenburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-02-27"}, // Unfälle Aalen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-02-27"}, // Unfallflucht Aalen, Einbruch

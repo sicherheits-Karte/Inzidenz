@@ -11749,3 +11749,9 @@
 {"coords": [9.1464, 51.4889], "date": "2026-02-27"}, // Warburg, Diebstahl
 //{"coords": [], "date": "2026-02-27"} // Kassebruch, entwendet
 {"coords": [8.0472, 52.2799], "date": "2026-02-27"}, // Zeugen Osnabrück, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-02-27"}, // Tatverdächtigen Bochum, Raub
+{"coords": [8.5331, 52.021], "date": "2026-02-27"}, // Ketten Bielefeld, stehlen
+{"coords": [8.6822, 50.1106], "date": "2026-02-27"}, // Bahnhofsviertel Frankfurt, entwendet
+{"coords": [7.9833, 51.95], "date": "2026-02-27"}, // Wohnhaus Warendorf, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-27"}, // Darmstadt, Dieb
+{"coords": [6.6153, 51.8367], "date": "2026-02-27"}, // Einfamilienhaus Bocholt, Einbruch

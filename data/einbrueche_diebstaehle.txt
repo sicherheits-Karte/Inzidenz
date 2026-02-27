@@ -11710,3 +11710,18 @@
 {"coords": [12.4333, 50.985], "date": "2026-02-27"}, // Altenburg, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-02-27"}, // Unfälle Aalen, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-02-27"}, // Unfallflucht Aalen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-02-27"}, // Coesfeld, Dieb
+{"coords": [6.0839, 50.7753], "date": "2026-02-27"}, // Aachen, Raub
+{"coords": [8.3708, 52.6078], "date": "2026-02-27"}, // Diepholz, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-02-27"}, // Zeugen Münster, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-02-27"}, // Darmstadt, Raub
+{"coords": [12.5667, 54.15], "date": "2026-02-27"}, // Marlow, Raub
+{"coords": [8.6514, 49.8728], "date": "2026-02-27"}, // Darmstadt, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-27"}, // Ulm, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-02-27"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-02-27"}, // Lippe, Einbruch
+{"coords": [7.95, 53.65], "date": "2026-02-27"}, // Wangerland Wangerland, Diebstahl
+{"coords": [10.5267, 52.2689], "date": "2026-02-27"}, // Wohnung Braunschweig, Diebstahl
+//{"coords": [], "date": "2026-02-27"} // Pfarrbüro Schapen, Einbruch
+{"coords": [7.4139, 50.9889], "date": "2026-02-27"}, // Engelskirchen, stahl
+{"coords": [7.4, 51.1167], "date": "2026-02-27"}, // Wipperfürth, Diebstahl

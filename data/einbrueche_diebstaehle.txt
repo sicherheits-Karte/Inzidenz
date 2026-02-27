@@ -11725,3 +11725,14 @@
 //{"coords": [], "date": "2026-02-27"} // Pfarrbüro Schapen, Einbruch
 {"coords": [7.4139, 50.9889], "date": "2026-02-27"}, // Engelskirchen, stahl
 {"coords": [7.4, 51.1167], "date": "2026-02-27"}, // Wipperfürth, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-02-27"}, // Schwerpunkteinsatz Neuss, aufbruch
+{"coords": [8.1075, 53.5219], "date": "2026-02-27"}, // Prenzlauer Straße Wilhelmshaven, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-02-27"}, // Rotenburg, entwendet
+{"coords": [9.6775, 50.5528], "date": "2026-02-27"}, // Fulda, entwendet
+//{"coords": [], "date": "2026-02-27"} // Kierspe, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-02-27"}, // Diebstahl Iserlohn, Einbruch
+{"coords": [7.7833, 51.35], "date": "2026-02-27"}, // Neuenrade, Einbrecher
+{"coords": [8.6833, 52.15], "date": "2026-02-27"}, // Herford, Einbruch
+{"coords": [9.7833, 54.6333], "date": "2026-02-27"}, // Süderbrarup, Räuber
+{"coords": [8.6833, 52.15], "date": "2026-02-27"}, // Schneidewerkzeug Herford, Diebstahl
+{"coords": [6.6833, 51.6167], "date": "2026-02-27"}, // Hinweise Voerde, eingebrochen

@@ -11793,3 +11793,6 @@
 {"coords": [10.7956, 51.5019], "date": "2026-02-27"}, // Büroräume Nordhausen, Einbrecher
 {"coords": [9.2081, 52.3242], "date": "2026-02-27"}, // Stadthagen, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-02-27"}, // Werkstatt Ludwigshafen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-02-27"}, // Recklinghausen, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-02-27"}, // Zeugen Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-02-27"}, // Zeugen Freiburg, Einbruch

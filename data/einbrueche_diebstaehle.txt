@@ -11786,3 +11786,10 @@
 {"coords": [7.95, 50.9333], "date": "2026-02-27"}, // Kreuztal, Diebstähle
 {"coords": [8.6833, 50.5833], "date": "2026-02-27"}, // Schmuck Giessen, Einbrecher
 //{"coords": [], "date": "2026-02-27"} // Netphen, entwendet
+//{"coords": [], "date": "2026-02-27"} // Kreis, Dieb
+{"coords": [6.7623, 51.4344], "date": "2026-02-27"}, // Zeugen Duisburg, gestohlen
+//{"coords": [], "date": "2026-02-27"} // Höhe, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-02-27"}, // Zeugen Kaiserslautern, gestohlen
+{"coords": [10.7956, 51.5019], "date": "2026-02-27"}, // Büroräume Nordhausen, Einbrecher
+{"coords": [9.2081, 52.3242], "date": "2026-02-27"}, // Stadthagen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-02-27"}, // Werkstatt Ludwigshafen, Einbruch

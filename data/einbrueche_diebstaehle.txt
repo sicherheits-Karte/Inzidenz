@@ -11813,3 +11813,6 @@
 {"coords": [7.2908, 52.6906], "date": "2026-02-28"}, // Sachschaden Meppen, Diebstahl
 {"coords": [7.3194, 52.5236], "date": "2026-02-28"}, // Lingen, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-02-28"}, // Parfum Ulm, Dieb
+//{"coords": [], "date": "2026-02-28"} // Gerätehaus Bad Gandersheim, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-02-28"}, // Präventionstipps Mannheim, Diebstähle
+//{"coords": [], "date": "2026-02-28"} // Weißenwasserkirche Bad Gandersheim, Diebstahl

@@ -11826,3 +11826,5 @@
 {"coords": [8.705, 48.895], "date": "2026-02-28"}, // Person Pforzheim, Raub
 //{"coords": [], "date": "2026-02-28"} // Wied Ortsteil Bertenau, Einbruch
 {"coords": [7.825, 50.4358], "date": "2026-02-28"}, // Montabaur, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2026-02-28"}, // Ladendieb Trier, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-02-28"}, // Kupferwanne Limburg, Einbruch

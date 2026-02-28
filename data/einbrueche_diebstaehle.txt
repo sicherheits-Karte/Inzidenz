@@ -11831,3 +11831,4 @@
 {"coords": [8.4414, 50.0919], "date": "2026-02-28"}, // Grabvase Hofheim, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-02-28"}, // Pkw Northeim, entwendung
 {"coords": [6.6393, 49.7556], "date": "2026-02-28"}, // Trier, Dieb
+//{"coords": [], "date": "2026-02-28"} // einem Geschäft im Stralsunder Stadtteil Grünhufe Kopfhörer entwendet zu haben. Nachdem der Jugendliche durch einen Ladendetektiv gestellt wurde, gingen beide zunächst einige Meter gemeinsam weiter. Im weiteren Verlauf schlug der Tatverdächtige dem Ladendetektiv einmal mit der Faust ins Gesicht. Der Ladendetektiv wurde dabei leicht, Diebstahl

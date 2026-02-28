@@ -11812,3 +11812,4 @@
 {"coords": [6.8833, 52.5], "date": "2026-02-28"}, // Wohncontainer Uelsen, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2026-02-28"}, // Sachschaden Meppen, Diebstahl
 {"coords": [7.3194, 52.5236], "date": "2026-02-28"}, // Lingen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-02-28"}, // Parfum Ulm, Dieb

@@ -11807,3 +11807,8 @@
 //{"coords": [], "date": "2026-02-28"} // Mosel, Einbruch
 {"coords": [7.1856, 51.3994], "date": "2026-02-28"}, // Hattingen, Einbruch
 {"coords": [7.6333, 51.6667], "date": "2026-02-28"}, // Werne, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-02-28"}, // Gelsenkirchener Altstadt Gelsenkirchen, Raub
+{"coords": [7.3167, 52.3333], "date": "2026-02-28"}, // Euro Schaden Emsbüren, Diebstahl
+{"coords": [6.8833, 52.5], "date": "2026-02-28"}, // Wohncontainer Uelsen, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-02-28"}, // Sachschaden Meppen, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-02-28"}, // Lingen, Einbruch

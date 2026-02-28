@@ -11806,3 +11806,4 @@
 {"coords": [10.9147, 50.6856], "date": "2026-02-28"}, // derzeit Unbekannter eine etwa zwei Meter große Plüsch-Giraffe aus einer Bar in der Weimarer Straße in Ilmenau. Nachdem der Dieb zunächst in der Bar mit dem, Dieb
 //{"coords": [], "date": "2026-02-28"} // Mosel, Einbruch
 {"coords": [7.1856, 51.3994], "date": "2026-02-28"}, // Hattingen, Einbruch
+{"coords": [7.6333, 51.6667], "date": "2026-02-28"}, // Werne, Einbruch

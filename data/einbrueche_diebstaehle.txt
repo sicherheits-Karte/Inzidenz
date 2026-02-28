@@ -11817,3 +11817,4 @@
 {"coords": [8.4661, 49.4878], "date": "2026-02-28"}, // Präventionstipps Mannheim, Diebstähle
 //{"coords": [], "date": "2026-02-28"} // Weißenwasserkirche Bad Gandersheim, Diebstahl
 {"coords": [8.2146, 53.1434], "date": "2026-02-28"}, // Harreweg Oldenburg- Kreyenbrück Oldenburg, Einbruch
+{"coords": [11.9, 49.95], "date": "2026-02-28"}, // Apensen in Brand, Einbrecher

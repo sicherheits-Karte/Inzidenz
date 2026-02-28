@@ -11821,3 +11821,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-02-28"}, // Einbruch Reutlingen, Einbruch
 {"coords": [11.3592, 50.6486], "date": "2026-02-28"}, // Saalfeld, klau
 {"coords": [10.0936, 48.8372], "date": "2026-02-28"}, // Einbruch Aalen, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2026-02-28"}, // Wittmund, Einbruch

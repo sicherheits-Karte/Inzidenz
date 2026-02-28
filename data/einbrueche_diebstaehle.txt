@@ -11830,3 +11830,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-02-28"}, // Kupferwanne Limburg, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-02-28"}, // Grabvase Hofheim, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-02-28"}, // Pkw Northeim, entwendung
+{"coords": [6.6393, 49.7556], "date": "2026-02-28"}, // Trier, Dieb

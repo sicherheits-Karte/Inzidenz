@@ -11824,3 +11824,5 @@
 {"coords": [7.7806, 53.5769], "date": "2026-02-28"}, // Wittmund, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2026-02-28"}, // Zeugen Kaiserslautern, Diebstahl
 {"coords": [8.705, 48.895], "date": "2026-02-28"}, // Person Pforzheim, Raub
+//{"coords": [], "date": "2026-02-28"} // Wied Ortsteil Bertenau, Einbruch
+{"coords": [7.825, 50.4358], "date": "2026-02-28"}, // Montabaur, Einbruch

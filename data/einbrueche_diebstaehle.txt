@@ -11818,3 +11818,4 @@
 //{"coords": [], "date": "2026-02-28"} // Weißenwasserkirche Bad Gandersheim, Diebstahl
 {"coords": [8.2146, 53.1434], "date": "2026-02-28"}, // Harreweg Oldenburg- Kreyenbrück Oldenburg, Einbruch
 {"coords": [11.9, 49.95], "date": "2026-02-28"}, // Apensen in Brand, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-02-28"}, // Einbruch Reutlingen, Einbruch

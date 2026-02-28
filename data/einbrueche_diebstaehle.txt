@@ -11800,3 +11800,8 @@
 {"coords": [7.9447, 48.4731], "date": "2026-02-27"}, // Offenburg, Diebstahl
 //{"coords": [], "date": "2026-02-27"} // Ingbert, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-02-28"}, // Mannheim, Raub
+//{"coords": [], "date": "2026-02-28"} // der Farbe blau-gelb im Wert von ca, Diebstahl
+//{"coords": [], "date": "2026-02-28"} // einer festgenommenen Diebesbande aufgefunden wurden, Dieb
+{"coords": [9.95, 52.15], "date": "2026-02-28"}, // Wertsachen Hildesheim, entwendet
+{"coords": [10.9147, 50.6856], "date": "2026-02-28"}, // derzeit Unbekannter eine etwa zwei Meter große Plüsch-Giraffe aus einer Bar in der Weimarer Straße in Ilmenau. Nachdem der Dieb zunächst in der Bar mit dem, Dieb
+//{"coords": [], "date": "2026-02-28"} // Mosel, Einbruch

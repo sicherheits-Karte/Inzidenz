@@ -11893,3 +11893,4 @@
 {"coords": [10.7183, 50.9489], "date": "2026-03-01"}, // Landkreis Gotha, Dieb
 {"coords": [10.7956, 51.5019], "date": "2026-03-01"}, // Tage Nordhausen, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-03-01"}, // Limburg, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-03-01"}, // Einfamilienhaus Hildesheim, Einbruch

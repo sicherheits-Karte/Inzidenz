@@ -11881,3 +11881,9 @@
 //{"coords": [], "date": "2026-03-01"} // Supermarkt, Einbruch
 {"coords": [7.3333, 49.3167], "date": "2026-03-01"}, // Fahrzeug Homburg, Diebstahl
 {"coords": [8.875, 53.05], "date": "2026-03-01"}, // Osterholz, eingebrochen
+{"coords": [8.1128, 49.1994], "date": "2026-03-01"}, // Zigarettenautomat Landau, Diebstahl
+{"coords": [10.95, 50.8333], "date": "2026-03-01"}, // Arnstadt, Diebstahl
+//{"coords": [], "date": "2026-03-01"} // Straßenverkehr Schöppingen, Raub
+{"coords": [10.95, 50.8333], "date": "2026-03-01"}, // Zeugenaufruf Arnstadt, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-03-01"}, // Lagerhalle Gronau, Einbruch
+//{"coords": [], "date": "2026-03-01"} // Maria Veen, Einbruch

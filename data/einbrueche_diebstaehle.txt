@@ -11849,3 +11849,10 @@
 {"coords": [11.5862, 50.9271], "date": "2026-03-01"}, // Einfamilienhaus Jena, Einbruch
 {"coords": [9.8333, 53.95], "date": "2026-03-01"}, // Emster Straße Hagen, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-03-01"}, // Telekommunikationsgeschäft Warendorf, Einbruch
+//{"coords": [], "date": "2026-03-01"} // den Straßenverkehr Kröppen, gestohlen
+{"coords": [7.3625, 51.2981], "date": "2026-03-01"}, // Ennepetal, entwendet
+{"coords": [8.35, 51.6667], "date": "2026-03-01"}, // Einfamilienhaus Lippstadt, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-01"}, // Emden, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2026-03-01"}, // Schule Greiz, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-03-01"}, // Reifen Meppen, Diebstahl
+{"coords": [7.45, 51.4], "date": "2026-03-01"}, // Gasthaus Herdecke, Einbruch

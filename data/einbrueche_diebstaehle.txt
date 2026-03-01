@@ -11871,3 +11871,4 @@
 {"coords": [7.5667, 51.0833], "date": "2026-03-01"}, // Gaststätte Gummersbach, Einbruch
 //{"coords": [], "date": "2026-03-01"} // Schlüsselbund Radevormwald, Einbrecher
 //{"coords": [], "date": "2026-03-01"} // Radevormwald, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-03-01"}, // Kaiserslautern, Diebstahl

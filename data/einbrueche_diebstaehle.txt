@@ -11857,3 +11857,6 @@
 {"coords": [7.2908, 52.6906], "date": "2026-03-01"}, // Reifen Meppen, Diebstahl
 {"coords": [7.45, 51.4], "date": "2026-03-01"}, // Gasthaus Herdecke, Einbruch
 {"coords": [11.1167, 51.1667], "date": "2026-03-01"}, // Sömmerda Sömmerda, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-03-01"}, // Weimar, entwendet
+{"coords": [7.3608, 49.2492], "date": "2026-03-01"}, // Zweibrücken, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-03-01"}, // Tennisclub Gera, Einbruch

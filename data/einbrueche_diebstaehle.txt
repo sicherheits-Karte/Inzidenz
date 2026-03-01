@@ -11875,3 +11875,7 @@
 {"coords": [10.8708, 51.3697], "date": "2026-03-01"}, // Kennzeichentafel Sondershausen, Diebstahl
 {"coords": [11.0767, 49.4521], "date": "2026-03-01"}, // Nürnberg, Diebstahl
 {"coords": [6.8333, 49.25], "date": "2026-03-01"}, // Völklingen Völklingen, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-03-01"}, // Altenburg, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-03-01"}, // Aalen, Einbruch
+//{"coords": [], "date": "2026-03-01"} // Höhe, Einbrüche
+//{"coords": [], "date": "2026-03-01"} // Supermarkt, Einbruch

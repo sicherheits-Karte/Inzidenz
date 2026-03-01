@@ -11897,3 +11897,4 @@
 {"coords": [9.8667, 51.8167], "date": "2026-03-01"}, // Gartenlaube Einbeck, Einbruch
 //{"coords": [], "date": "2026-03-01"} // Friedhof Bogel, Diebstahl
 {"coords": [13.9833, 51.2833], "date": "2026-03-01"}, // Neukirch, Diebstahl
+//{"coords": [], "date": "2026-03-01"} // nördlicher Fahrtrichtung zu einem Verkehrsunfall zwischen einem Motorrad und einem Pkw, Raub

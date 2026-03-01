@@ -11856,3 +11856,4 @@
 {"coords": [12.1997, 50.6544], "date": "2026-03-01"}, // Schule Greiz, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2026-03-01"}, // Reifen Meppen, Diebstahl
 {"coords": [7.45, 51.4], "date": "2026-03-01"}, // Gasthaus Herdecke, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-03-01"}, // Sömmerda Sömmerda, Diebstahl

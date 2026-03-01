@@ -11838,3 +11838,14 @@
 {"coords": [8.8667, 51.9333], "date": "2026-03-01"}, // Friedhof Lippe, Diebstähle
 {"coords": [7.2211, 50.3275], "date": "2026-03-01"}, // Mayen, Dieb
 {"coords": [7.9833, 51.95], "date": "2026-03-01"}, // Warendorf, Einbruch
+{"coords": [10.7292, 50.4258], "date": "2026-03-01"}, // Einbruch Hildburghausen, Einbruch
+{"coords": [10.1167, 50.7167], "date": "2026-03-01"}, // Dermbach, Diebstahl
+{"coords": [8.15, 49.4667], "date": "2026-03-01"}, // Weinstraße, Diebstahl
+//{"coords": [], "date": "2026-03-01"} // Bad Langensalza, Diebstahl
+//{"coords": [], "date": "2026-03-01"} // Thüringen, Einbrüche
+{"coords": [11.5164, 51.0264], "date": "2026-03-01"}, // Räuberischer Diebstahl Apolda, Diebstahl
+//{"coords": [], "date": "2026-03-01"} // Thüringen, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-03-01"}, // Handtaschendiebstahl Apolda, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-03-01"}, // Einfamilienhaus Jena, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-03-01"}, // Emster Straße Hagen, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-03-01"}, // Telekommunikationsgeschäft Warendorf, Einbruch

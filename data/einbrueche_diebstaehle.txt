@@ -11880,3 +11880,4 @@
 //{"coords": [], "date": "2026-03-01"} // Höhe, Einbrüche
 //{"coords": [], "date": "2026-03-01"} // Supermarkt, Einbruch
 {"coords": [7.3333, 49.3167], "date": "2026-03-01"}, // Fahrzeug Homburg, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-03-01"}, // Osterholz, eingebrochen

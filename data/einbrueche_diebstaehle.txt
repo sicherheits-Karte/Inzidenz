@@ -11834,3 +11834,7 @@
 //{"coords": [], "date": "2026-02-28"} // einem Geschäft im Stralsunder Stadtteil Grünhufe Kopfhörer entwendet zu haben. Nachdem der Jugendliche durch einen Ladendetektiv gestellt wurde, gingen beide zunächst einige Meter gemeinsam weiter. Im weiteren Verlauf schlug der Tatverdächtige dem Ladendetektiv einmal mit der Faust ins Gesicht. Der Ladendetektiv wurde dabei leicht, Diebstahl
 //{"coords": [], "date": "2026-03-01"} // Wurzbach, Diebstähle
 {"coords": [7.2197, 51.5428], "date": "2026-03-01"}, // Herne, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-03-01"}, // Bäckerei Ludwigsburg, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-03-01"}, // Friedhof Lippe, Diebstähle
+{"coords": [7.2211, 50.3275], "date": "2026-03-01"}, // Mayen, Dieb
+{"coords": [7.9833, 51.95], "date": "2026-03-01"}, // Warendorf, Einbruch

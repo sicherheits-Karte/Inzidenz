@@ -11863,3 +11863,11 @@
 {"coords": [8.1361, 53.3969], "date": "2026-03-01"}, // Varel, entwendet
 {"coords": [8.6822, 50.1106], "date": "2026-03-01"}, // Modus Operandi Frankfurt, Diebstähle
 //{"coords": [], "date": "2026-03-01"} // Rotterheide, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-03-01"}, // Northeim Northeim, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-03-01"}, // Beute Bochum, Raub
+{"coords": [8.2869, 52.7303], "date": "2026-03-01"}, // Vechta, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-03-01"}, // Bad Schwalbach, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-03-01"}, // Einbrecher Gummersbach, eingebrochen
+{"coords": [7.5667, 51.0833], "date": "2026-03-01"}, // Gaststätte Gummersbach, Einbruch
+//{"coords": [], "date": "2026-03-01"} // Schlüsselbund Radevormwald, Einbrecher
+//{"coords": [], "date": "2026-03-01"} // Radevormwald, Dieb

@@ -11861,3 +11861,5 @@
 {"coords": [7.3608, 49.2492], "date": "2026-03-01"}, // Zweibrücken, Diebstahl
 {"coords": [12.0799, 50.8772], "date": "2026-03-01"}, // Tennisclub Gera, Einbruch
 {"coords": [8.1361, 53.3969], "date": "2026-03-01"}, // Varel, entwendet
+{"coords": [8.6822, 50.1106], "date": "2026-03-01"}, // Modus Operandi Frankfurt, Diebstähle
+//{"coords": [], "date": "2026-03-01"} // Rotterheide, Diebstahl

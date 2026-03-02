@@ -11926,3 +11926,17 @@
 {"coords": [9.2108, 49.1425], "date": "2026-03-02"}, // Bankfiliale Heilbronn, Einbruch
 {"coords": [8.9056, 52.3364], "date": "2026-03-02"}, // Altenhagen gestohlen mehr, gestohlen
 {"coords": [8.9944, 49.6561], "date": "2026-03-02"}, // Erbach, Einbruch
+{"coords": [9.55, 49.3167], "date": "2026-03-02"}, // Unfälle Hohenlohekreis, Einbruch
+//{"coords": [], "date": "2026-03-02"} // Kierspe, geklaut
+//{"coords": [], "date": "2026-03-02"} // Kreis, Einbruch
+{"coords": [9.1, 48.8], "date": "2026-03-02"}, // Weilimdorf, Raub
+{"coords": [7.6333, 51.05], "date": "2026-03-02"}, // Bergneustadt, Diebstähle
+{"coords": [7.8667, 51.3333], "date": "2026-03-02"}, // Diebstahl Balve, Diebstahl
+{"coords": [7.4, 51.1167], "date": "2026-03-02"}, // Einfamilienhaus Wipperfürth, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-03-02"}, // Osterholz, Einbruch
+{"coords": [10.7292, 50.4258], "date": "2026-03-02"}, // Schuppeneinbruch Hildburghausen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-03-02"}, // Ulm, Raub
+{"coords": [7.9036, 51.1264], "date": "2026-03-02"}, // Attendorn, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-03-02"}, // Ulm, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-03-02"}, // Diebstahl Iserlohn, Einbruch
+{"coords": [7.8508, 51.0281], "date": "2026-03-02"}, // Olpe, Diebstahl

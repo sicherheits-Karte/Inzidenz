@@ -11972,3 +11972,11 @@
 {"coords": [6.5492, 51.2631], "date": "2026-03-02"}, // Diebstahl Willich, Diebstahl
 {"coords": [6.4208, 51.3653], "date": "2026-03-02"}, // Kempen, Einbruch
 {"coords": [6.3475, 51.2742], "date": "2026-03-02"}, // Dülken, Einbruch
+//{"coords": [], "date": "2026-03-02"} // Dokument mehr, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-03-02"}, // Neubaugebiet Gütersloh, Einbrüche
+{"coords": [10.0075, 53.7064], "date": "2026-03-02"}, // Zeugenhinweise Norderstedt, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2026-03-02"}, // Nordhausen, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-03-02"}, // Einbruch Heidekreis, Einbruch
+{"coords": [6.7583, 51.6417], "date": "2026-03-02"}, // Hinweise Hünxe, Raub
+{"coords": [8.3833, 51.9], "date": "2026-03-02"}, // Telekommunikationsgeschäft Gütersloh, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-03-02"}, // Rheda Gütersloh, Einbruch

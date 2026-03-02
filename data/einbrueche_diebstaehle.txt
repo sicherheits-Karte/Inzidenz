@@ -11980,3 +11980,9 @@
 {"coords": [6.7583, 51.6417], "date": "2026-03-02"}, // Hinweise Hünxe, Raub
 {"coords": [8.3833, 51.9], "date": "2026-03-02"}, // Telekommunikationsgeschäft Gütersloh, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-03-02"}, // Rheda Gütersloh, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-03-02"}, // Gütersloh, gestohlen
+{"coords": [8.0, 51.3333], "date": "2026-03-02"}, // Lebensmittelgeschäft Sundern, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-02"}, // Giessen, Einbrecher
+{"coords": [9.9333, 52.9667], "date": "2026-03-02"}, // Rastplätzen Heidekreis, Dieb
+{"coords": [8.7667, 50.1], "date": "2026-03-02"}, // Offenbach, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-03-02"}, // Haft Köln, Dieb

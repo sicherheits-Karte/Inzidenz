@@ -11902,3 +11902,4 @@
 {"coords": [9.5, 51.3167], "date": "2026-03-01"}, // Wabern Kassel, Raub
 {"coords": [8.7667, 50.1], "date": "2026-03-02"}, // Offenbach, Raub
 {"coords": [8.9167, 50.1833], "date": "2026-03-02"}, // Wohnhausbrand Bruchköbel, Dieb
+{"coords": [7.8208, 51.6803], "date": "2026-03-02"}, // Hamm, Einbruch

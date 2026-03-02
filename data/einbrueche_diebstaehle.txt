@@ -11940,3 +11940,16 @@
 {"coords": [9.9916, 48.3984], "date": "2026-03-02"}, // Ulm, Einbrecher
 {"coords": [7.7, 51.375], "date": "2026-03-02"}, // Diebstahl Iserlohn, Einbruch
 {"coords": [7.8508, 51.0281], "date": "2026-03-02"}, // Olpe, Diebstahl
+//{"coords": [], "date": "2026-03-02"} // Zeugen Inden, Einbrüche
+//{"coords": [], "date": "2026-03-02"} // Kein Ort gefunden, Raub
+{"coords": [8.35, 51.6667], "date": "2026-03-02"}, // Bürogebäude Lippstadt, Einbruch
+//{"coords": [], "date": "2026-03-02"} // Vrees, Diebstahl
+//{"coords": [], "date": "2026-03-02"} // Aschendorf, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-03-02"}, // Darmstadt, entwendet
+//{"coords": [], "date": "2026-03-02"} // Süd, Raub
+//{"coords": [], "date": "2026-03-02"} // Ost, Raub
+{"coords": [6.9769, 50.8236], "date": "2026-03-02"}, // Mehrere Leichtverletzte Wesseling, Dieb
+//{"coords": [], "date": "2026-03-02"} // Uedem, Einbruch
+//{"coords": [], "date": "2026-03-02"} // Goldscheuer, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-03-02"}, // Haft-- Bremen, eingebrochen
+{"coords": [8.5331, 52.021], "date": "2026-03-02"}, // Bielefeld, Raub

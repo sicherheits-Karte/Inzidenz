@@ -11912,3 +11912,10 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-02"}, // Diebstähle Aalen, Diebstähle
 //{"coords": [], "date": "2026-03-02"} // Fahrzeug. Fortfolgend überschlug sich der Motorradfahrer und kam anschließend auf der Fahrbahn zum Liegen. Der, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-03-02"}, // Verkehrsunfälle Aalen, Einbrüche
+//{"coords": [], "date": "2026-03-02"} // der Zeit zwischen dem, entwendet
+{"coords": [8.35, 51.6667], "date": "2026-03-02"}, // Lippstadt, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-03-02"}, // Delmenhorst, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-02"}, // Verkehrsunfälle Aalen, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2026-03-02"}, // Rüsselsheim, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2026-03-02"}, // Rüsselsheim, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-03-02"}, // Delmenhorst, Einbruch

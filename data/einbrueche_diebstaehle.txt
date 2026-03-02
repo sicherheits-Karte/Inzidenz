@@ -11964,3 +11964,11 @@
 {"coords": [12.0333, 49.8667], "date": "2026-03-02"}, // ein Mehrfamilienhaus in der Hauptstraße einzubrechen. Einer Mieterin waren gegen Mittag Einbruchsspuren an der Haustür aufgefallen, weswegen sie die Polizei verständigte. Nach ihren Angaben war die Tür am Morgen noch unbeschädigt. Ersten Erkenntnissen zufolge, schafften die Täter es nicht, in das Haus einzudringen. Die Höhe des, Einbruch
 {"coords": [10.5267, 52.2689], "date": "2026-03-02"}, // Verkehrsunfall Braunschweig, entwendet
 {"coords": [7.4836, 53.4711], "date": "2026-03-02"}, // Landkreis Aurich, Dieb
+{"coords": [6.7735, 51.2277], "date": "2026-03-02"}, // Düsseldorf, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-02"}, // Recklinghausen, Raub
+{"coords": [8.2667, 49.05], "date": "2026-03-02"}, // Pfefferspray Wörth, Raub
+//{"coords": [], "date": "2026-03-02"} // Kein Ort gefunden, gestohlen
+{"coords": [8.8731, 51.275], "date": "2026-03-02"}, // Wohnhaus Korbach, Einbrecher
+{"coords": [6.5492, 51.2631], "date": "2026-03-02"}, // Diebstahl Willich, Diebstahl
+{"coords": [6.4208, 51.3653], "date": "2026-03-02"}, // Kempen, Einbruch
+{"coords": [6.3475, 51.2742], "date": "2026-03-02"}, // Dülken, Einbruch

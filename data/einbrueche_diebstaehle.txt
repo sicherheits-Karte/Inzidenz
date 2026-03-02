@@ -11903,3 +11903,12 @@
 {"coords": [8.7667, 50.1], "date": "2026-03-02"}, // Offenbach, Raub
 {"coords": [8.9167, 50.1833], "date": "2026-03-02"}, // Wohnhausbrand Bruchköbel, Dieb
 {"coords": [7.8208, 51.6803], "date": "2026-03-02"}, // Hamm, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-03-02"}, // Reutlingen, Raub
+{"coords": [7.5833, 51.3667], "date": "2026-03-02"}, // Hohenlimburg, Diebstähle
+{"coords": [12.0333, 49.8667], "date": "2026-03-02"}, // Haus Coesfeld, Einbruch
+{"coords": [6.3778, 51.6083], "date": "2026-03-02"}, // Hinweise Sonsbeck, Einbruch
+{"coords": [6.5167, 51.4833], "date": "2026-03-02"}, // Lintfort, Einbruch
+//{"coords": [], "date": "2026-03-02"} // Delecke, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-03-02"}, // Diebstähle Aalen, Diebstähle
+//{"coords": [], "date": "2026-03-02"} // Fahrzeug. Fortfolgend überschlug sich der Motorradfahrer und kam anschließend auf der Fahrbahn zum Liegen. Der, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-03-02"}, // Verkehrsunfälle Aalen, Einbrüche

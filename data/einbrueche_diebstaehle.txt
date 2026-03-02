@@ -11960,3 +11960,7 @@
 //{"coords": [], "date": "2026-03-02"} // Weilerswist, Diebstahl
 {"coords": [10.0528, 51.1889], "date": "2026-03-02"}, // Einbrüche Eschwege, Einbruch
 {"coords": [6.7872, 50.6606], "date": "2026-03-02"}, // Kreisgebiet Kreis Euskirchen, Einbrüche
+//{"coords": [], "date": "2026-03-02"} // Winsen, Dieb
+{"coords": [12.0333, 49.8667], "date": "2026-03-02"}, // ein Mehrfamilienhaus in der Hauptstraße einzubrechen. Einer Mieterin waren gegen Mittag Einbruchsspuren an der Haustür aufgefallen, weswegen sie die Polizei verständigte. Nach ihren Angaben war die Tür am Morgen noch unbeschädigt. Ersten Erkenntnissen zufolge, schafften die Täter es nicht, in das Haus einzudringen. Die Höhe des, Einbruch
+{"coords": [10.5267, 52.2689], "date": "2026-03-02"}, // Verkehrsunfall Braunschweig, entwendet
+{"coords": [7.4836, 53.4711], "date": "2026-03-02"}, // Landkreis Aurich, Dieb

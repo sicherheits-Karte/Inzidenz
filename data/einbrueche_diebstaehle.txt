@@ -12006,3 +12006,5 @@
 {"coords": [8.24, 50.0822], "date": "2026-03-02"}, // Einbrüche Wiesbaden, Einbruch
 {"coords": [11.9833, 48.3167], "date": "2026-03-02"}, // Bockhorn, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-03-02"}, // Alten Kurpark Hofheim, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-02"}, // Giessen, Dieb
+{"coords": [7.2, 51.6167], "date": "2026-03-02"}, // Recklinghausen, Einbrüche

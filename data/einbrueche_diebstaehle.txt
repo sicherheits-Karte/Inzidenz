@@ -11919,3 +11919,10 @@
 {"coords": [8.4111, 49.9917], "date": "2026-03-02"}, // Rüsselsheim, Einbruch
 {"coords": [8.4111, 49.9917], "date": "2026-03-02"}, // Rüsselsheim, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-03-02"}, // Delmenhorst, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-02"}, // Vechta, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-03-02"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.2833, 48.8333], "date": "2026-03-02"}, // Versuchter Einbruch Bischweier, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-03-02"}, // Mitte, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-03-02"}, // Bankfiliale Heilbronn, Einbruch
+{"coords": [8.9056, 52.3364], "date": "2026-03-02"}, // Altenhagen gestohlen mehr, gestohlen
+{"coords": [8.9944, 49.6561], "date": "2026-03-02"}, // Erbach, Einbruch

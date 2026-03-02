@@ -11999,3 +11999,10 @@
 {"coords": [7.9833, 51.95], "date": "2026-03-02"}, // Betrieb Warendorf, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2026-03-02"}, // Darmstadt, Raub
 {"coords": [7.65, 52.4167], "date": "2026-03-02"}, // Hopsten, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-03-02"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-02"}, // Goerdelerplatz Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-02"}, // Fahrraddiebstahl Ludwigshafen, Diebstahl
+{"coords": [8.3219, 54.9078], "date": "2026-03-02"}, // Sylt, Diebstähle
+{"coords": [8.24, 50.0822], "date": "2026-03-02"}, // Einbrüche Wiesbaden, Einbruch
+{"coords": [11.9833, 48.3167], "date": "2026-03-02"}, // Bockhorn, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-03-02"}, // Alten Kurpark Hofheim, Einbruch

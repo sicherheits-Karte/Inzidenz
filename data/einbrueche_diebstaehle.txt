@@ -11953,3 +11953,10 @@
 //{"coords": [], "date": "2026-03-02"} // Goldscheuer, Einbruch
 {"coords": [8.8075, 53.075], "date": "2026-03-02"}, // Haft-- Bremen, eingebrochen
 {"coords": [8.5331, 52.021], "date": "2026-03-02"}, // Bielefeld, Raub
+{"coords": [9.4764, 53.6008], "date": "2026-03-02"}, // Zeugen Stade, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-03-02"}, // Täterinnen Bielefeld, stahl
+{"coords": [11.5862, 50.9271], "date": "2026-03-02"}, // Paradiespark Jena, Raub
+{"coords": [9.8333, 53.95], "date": "2026-03-02"}, // Hagen, entwendet
+//{"coords": [], "date": "2026-03-02"} // Weilerswist, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2026-03-02"}, // Einbrüche Eschwege, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2026-03-02"}, // Kreisgebiet Kreis Euskirchen, Einbrüche

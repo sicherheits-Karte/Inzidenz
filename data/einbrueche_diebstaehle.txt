@@ -12008,3 +12008,5 @@
 {"coords": [8.4414, 50.0919], "date": "2026-03-02"}, // Alten Kurpark Hofheim, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-03-02"}, // Giessen, Dieb
 {"coords": [7.2, 51.6167], "date": "2026-03-02"}, // Recklinghausen, Einbrüche
+{"coords": [9.4792, 47.6542], "date": "2026-03-02"}, // Friedrichshafen, Dieb
+//{"coords": [], "date": "2026-03-02"} // Oberdürenbach, Diebstahl

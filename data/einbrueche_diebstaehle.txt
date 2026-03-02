@@ -11986,3 +11986,16 @@
 {"coords": [9.9333, 52.9667], "date": "2026-03-02"}, // Rastplätzen Heidekreis, Dieb
 {"coords": [8.7667, 50.1], "date": "2026-03-02"}, // Offenbach, Diebstahl
 {"coords": [6.9603, 50.9375], "date": "2026-03-02"}, // Haft Köln, Dieb
+{"coords": [10.75, 51.5333], "date": "2026-03-02"}, // Pflegeeinrichtung Niedersachswerfen, Einbruch
+{"coords": [9.6553, 54.0858], "date": "2026-03-02"}, // Hohenwestedt, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-02"}, // Gaststätte Freiburg, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-03-02"}, // Mühlhausen, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-03-02"}, // Kindergarten Freiburg, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-03-02"}, // Motorradunfälle Bad Schwalbach, Einbruch
+{"coords": [10.5464, 52.4886], "date": "2026-03-02"}, // Gifhorn, Raub
+{"coords": [11.1667, 50.35], "date": "2026-03-02"}, // Sonneberg, Diebstähle
+{"coords": [6.6833, 51.2], "date": "2026-03-02"}, // Neuss, Einbrecher
+{"coords": [9.5, 51.3167], "date": "2026-03-02"}, // Kassel, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2026-03-02"}, // Betrieb Warendorf, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-03-02"}, // Darmstadt, Raub
+{"coords": [7.65, 52.4167], "date": "2026-03-02"}, // Hopsten, gestohlen

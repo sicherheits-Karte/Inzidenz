@@ -12050,3 +12050,13 @@
 {"coords": [9.1919, 48.8975], "date": "2026-03-03"}, // Gaststätte Ludwigsburg, Einbruch
 {"coords": [8.4043, 49.014], "date": "2026-03-03"}, // Karlsruhe, Einbruch
 {"coords": [9.4764, 53.6008], "date": "2026-03-03"}, // Zeugen Stade, entwendet
+{"coords": [6.1667, 51.6833], "date": "2026-03-03"}, // Goch, entwendet
+//{"coords": [], "date": "2026-03-03"} // Uhr Neu Wulmstorf, Einbruch
+{"coords": [8.35, 49.1], "date": "2026-03-03"}, // Werkzeugdiebstahl Leimersheim, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-03-03"}, // Versuchtes Raubdelikt Nähe Rheinufer Mainz, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-03-03"}, // Zeugen Mainz, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-03-03"}, // Mainz mehr, Einbruch
+//{"coords": [], "date": "2026-03-03"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.0667, 52.4333], "date": "2026-03-03"}, // Zeugen Nordhorn, Raub
+{"coords": [8.8731, 51.275], "date": "2026-03-03"}, // Hinweise Korbach, gestohlen
+{"coords": [7.0667, 52.4333], "date": "2026-03-03"}, // Fahrrad Nordhorn, Raub

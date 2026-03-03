@@ -12041,3 +12041,12 @@
 {"coords": [8.4833, 52.1333], "date": "2026-03-03"}, // Zeugen Spenge, Einbruch
 //{"coords": [], "date": "2026-03-03"} // Dieselkraftstoff Altenbeuthen, stehlen
 {"coords": [11.8103, 50.5786], "date": "2026-03-03"}, // Geschäft Schleiz, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Ramstadt, eingebrochen
+{"coords": [7.2162, 51.4818], "date": "2026-03-03"}, // Auto Bochum, Raub
+{"coords": [11.0767, 49.4521], "date": "2026-03-03"}, // Nürnberg, Raub
+{"coords": [11.6833, 50.5333], "date": "2026-03-03"}, // Saalhausen Lennestadt, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-03-03"}, // Hinweise Bochum, Raub
+{"coords": [10.5267, 52.2689], "date": "2026-03-03"}, // Schule Braunschweig, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-03"}, // Gaststätte Ludwigsburg, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-03-03"}, // Karlsruhe, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-03-03"}, // Zeugen Stade, entwendet

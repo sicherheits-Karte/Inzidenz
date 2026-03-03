@@ -12013,3 +12013,9 @@
 {"coords": [10.5833, 50.55], "date": "2026-03-03"}, // Mainzer Oberstadt Mainz, Raub
 {"coords": [6.8889, 49.9858], "date": "2026-03-03"}, // Kennzeichendiebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2026-03-03"} // Noviand, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-03-03"}, // Mobiltelefon Bochum, Raub
+{"coords": [7.7, 51.375], "date": "2026-03-03"}, // Büro Iserlohn, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-03-03"}, // Ladendiebstahl Lüdenscheid, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-03-03"}, // Fotofahndung Essen, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-03-03"}, // Diebstähle Aalen, Diebstahl
+{"coords": [9.8833, 53.3333], "date": "2026-03-03"}, // Baustelle Buchholz, Einbrecher

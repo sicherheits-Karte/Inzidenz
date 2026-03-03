@@ -12070,3 +12070,14 @@
 {"coords": [6.7623, 51.4344], "date": "2026-03-03"}, // Duisburg, eingebrochen
 {"coords": [8.4661, 49.4878], "date": "2026-03-03"}, // Zeugenaufruf Mannheim, Diebstahl
 {"coords": [8.6944, 49.4092], "date": "2026-03-03"}, // Zeugenaufruf Heidelberg, entwendet
+{"coords": [7.4333, 52.4167], "date": "2026-03-03"}, // Zeugen Lünne, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-03-03"}, // Lingen, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-03-03"}, // Wuppertal, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-03-03"}, // Lippe, entwendet
+{"coords": [6.85, 52.6167], "date": "2026-03-03"}, // Zeugen Emlichheim, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-03-03"}, // Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-03-03"}, // Lippe, Diebstahl
+{"coords": [7.6014, 52.6853], "date": "2026-03-03"}, // Herzlake, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Aulfingen, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Hilzingen, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-03-03"}, // Zeugen Nordhorn, Diebstahl

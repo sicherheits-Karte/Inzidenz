@@ -12120,3 +12120,8 @@
 {"coords": [7.5658, 51.4458], "date": "2026-03-03"}, // Betrug Schwerte, entwendet
 {"coords": [7.82, 47.99], "date": "2026-03-03"}, // Hinweise Freiburg, Diebstahl
 {"coords": [6.25, 51.35], "date": "2026-03-03"}, // Lobberich, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-03-03"}, // Vorfahrtsmissachtung Reutlingen, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-03-03"}, // Hannover, Räuber
+{"coords": [10.7956, 51.5019], "date": "2026-03-03"}, // Nordhausen, gestohlen
+{"coords": [7.7689, 49.4447], "date": "2026-03-03"}, // Kaiserslautern, stahl
+//{"coords": [], "date": "2026-03-03"} // Wahlplakaten Altlay, Diebstahl

@@ -12011,3 +12011,5 @@
 {"coords": [9.4792, 47.6542], "date": "2026-03-02"}, // Friedrichshafen, Dieb
 //{"coords": [], "date": "2026-03-02"} // Oberdürenbach, Diebstahl
 {"coords": [10.5833, 50.55], "date": "2026-03-03"}, // Mainzer Oberstadt Mainz, Raub
+{"coords": [6.8889, 49.9858], "date": "2026-03-03"}, // Kennzeichendiebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2026-03-03"} // Noviand, Diebstahl

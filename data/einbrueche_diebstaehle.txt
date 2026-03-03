@@ -12029,3 +12029,15 @@
 {"coords": [8.3667, 49.9833], "date": "2026-03-03"}, // Gustavsburg, Einbrecher
 {"coords": [7.5667, 51.0833], "date": "2026-03-03"}, // Gummersbach, gestohlen
 {"coords": [7.5667, 51.0167], "date": "2026-03-03"}, // Wiehl, gestohlen
+//{"coords": [], "date": "2026-03-03"} // Zeugen Büren, Einbruch
+{"coords": [10.0075, 53.7064], "date": "2026-03-03"}, // Zeugen Norderstedt, Diebstahl
+{"coords": [8.6333, 51.7167], "date": "2026-03-03"}, // Boke, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Zeugen Altenbeken, Einbrüche
+{"coords": [8.5833, 51.3833], "date": "2026-03-03"}, // Tabakgeschäft Brilon, Einbruch
+{"coords": [7.5336, 52.1728], "date": "2026-03-03"}, // Einfamilienhäuser Emsdetten, Einbrüche
+{"coords": [9.9916, 48.3984], "date": "2026-03-03"}, // Ulm, aufbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-03"}, // Ludwigsburg, gestohlen
+{"coords": [6.6393, 49.7556], "date": "2026-03-03"}, // Körperverletzung Trier, Raub
+{"coords": [8.4833, 52.1333], "date": "2026-03-03"}, // Zeugen Spenge, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Dieselkraftstoff Altenbeuthen, stehlen
+{"coords": [11.8103, 50.5786], "date": "2026-03-03"}, // Geschäft Schleiz, Einbruch

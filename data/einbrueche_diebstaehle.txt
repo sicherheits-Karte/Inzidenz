@@ -12084,3 +12084,12 @@
 {"coords": [9.8372, 54.4714], "date": "2026-03-03"}, // Eckernförde, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2026-03-03"}, // Einsatz Düsseldorf, Raub
 {"coords": [8.5331, 52.021], "date": "2026-03-03"}, // Imbiss Bielefeld, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-03-03"}, // Gotha, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2026-03-03"}, // Tatverdächtige Mönchengladbach, Raub
+{"coords": [6.8333, 51.7833], "date": "2026-03-03"}, // Firmengelände Raesfeld, Einbrüche
+//{"coords": [], "date": "2026-03-03"} // Kreis, geklaut
+{"coords": [8.7667, 50.1], "date": "2026-03-03"}, // Kreis Offenbach, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-03-03"}, // Einfamilienhaus Vogelsbergkreis, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2026-03-03"}, // Goslar, Einbrüche
+{"coords": [6.1, 51.1], "date": "2026-03-03"}, // Kirchhoven, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Oberbruch, gestohlen

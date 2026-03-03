@@ -12081,3 +12081,6 @@
 //{"coords": [], "date": "2026-03-03"} // Aulfingen, Einbruch
 //{"coords": [], "date": "2026-03-03"} // Hilzingen, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2026-03-03"}, // Zeugen Nordhorn, Diebstahl
+{"coords": [9.8372, 54.4714], "date": "2026-03-03"}, // Eckernförde, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-03-03"}, // Einsatz Düsseldorf, Raub
+{"coords": [8.5331, 52.021], "date": "2026-03-03"}, // Imbiss Bielefeld, Einbruch

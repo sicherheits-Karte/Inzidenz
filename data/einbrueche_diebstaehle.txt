@@ -12060,3 +12060,13 @@
 {"coords": [7.0667, 52.4333], "date": "2026-03-03"}, // Zeugen Nordhorn, Raub
 {"coords": [8.8731, 51.275], "date": "2026-03-03"}, // Hinweise Korbach, gestohlen
 {"coords": [7.0667, 52.4333], "date": "2026-03-03"}, // Fahrrad Nordhorn, Raub
+{"coords": [7.2056, 50.8014], "date": "2026-03-03"}, // Seniorin Siegburg, Diebstahl
+{"coords": [9.8425, 53.6333], "date": "2026-03-03"}, // Halstenbek, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Kreis, gestohlen
+{"coords": [8.3833, 51.9], "date": "2026-03-03"}, // Sürenheide Gütersloh, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-03-03"}, // Darmstadt, eingebrochen
+{"coords": [8.8678, 49.9228], "date": "2026-03-03"}, // Zeugen Münster, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Wechselgeld Mettingen, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2026-03-03"}, // Duisburg, eingebrochen
+{"coords": [8.4661, 49.4878], "date": "2026-03-03"}, // Zeugenaufruf Mannheim, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2026-03-03"}, // Zeugenaufruf Heidelberg, entwendet

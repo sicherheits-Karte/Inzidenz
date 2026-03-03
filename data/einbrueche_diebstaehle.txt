@@ -12113,3 +12113,10 @@
 //{"coords": [], "date": "2026-03-03"} // Schwarzwald, Dieb
 //{"coords": [], "date": "2026-03-03"} // befanden sich diverse hochwertige Werkzeuge, auf die es die Diebe scheinbar abgesehen hatten. Der entstandene Schaden beläuft sich auf mindestens, Diebstahl
 {"coords": [9.6264, 51.8828], "date": "2026-03-03"}, // Stadtoldendorf, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-03-03"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.2417, 48.7994], "date": "2026-03-03"}, // Baden, Raub
+{"coords": [7.2061, 53.3669], "date": "2026-03-03"}, // Emden, aufbruch
+{"coords": [7.9447, 48.4731], "date": "2026-03-03"}, // Hinweise Offenburg, Diebstahl
+{"coords": [7.5658, 51.4458], "date": "2026-03-03"}, // Betrug Schwerte, entwendet
+{"coords": [7.82, 47.99], "date": "2026-03-03"}, // Hinweise Freiburg, Diebstahl
+{"coords": [6.25, 51.35], "date": "2026-03-03"}, // Lobberich, Diebstahl

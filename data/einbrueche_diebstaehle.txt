@@ -12101,3 +12101,15 @@
 {"coords": [6.8761, 50.8778], "date": "2026-03-03"}, // Hürth, gestohlen
 {"coords": [10.0936, 48.8372], "date": "2026-03-03"}, // Verkehrsunfälle Aalen, Diebstahl
 //{"coords": [], "date": "2026-03-03"} // Nord, eingebrochen
+{"coords": [6.4208, 51.3653], "date": "2026-03-03"}, // Friedhof Kempen, Diebstahl
+//{"coords": [], "date": "2026-03-03"} // Dackenheim, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Kallstadt, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-03-03"}, // Einbrüche Wiesbaden, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-03-03"}, // Giessen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-03-03"}, // Limburg, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-03-03"}, // Zeugen Kaiserslautern, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-03-03"}, // Bad Schwalbach, Dieb
+//{"coords": [], "date": "2026-03-03"} // Höhe, Diebstahl
+//{"coords": [], "date": "2026-03-03"} // Schwarzwald, Dieb
+//{"coords": [], "date": "2026-03-03"} // befanden sich diverse hochwertige Werkzeuge, auf die es die Diebe scheinbar abgesehen hatten. Der entstandene Schaden beläuft sich auf mindestens, Diebstahl
+{"coords": [9.6264, 51.8828], "date": "2026-03-03"}, // Stadtoldendorf, Diebstahl

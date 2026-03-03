@@ -12019,3 +12019,7 @@
 {"coords": [7.0116, 51.4556], "date": "2026-03-03"}, // Fotofahndung Essen, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-03-03"}, // Diebstähle Aalen, Diebstahl
 {"coords": [9.8833, 53.3333], "date": "2026-03-03"}, // Baustelle Buchholz, Einbrecher
+//{"coords": [], "date": "2026-03-03"} // Rottmar, Raub
+//{"coords": [], "date": "2026-03-03"} // Bergisch Gladbach, Einbruch
+//{"coords": [], "date": "2026-03-03"} // Eilpe, Diebstahl
+//{"coords": [], "date": "2026-03-03"} // Bad Langensalza, Einbruch

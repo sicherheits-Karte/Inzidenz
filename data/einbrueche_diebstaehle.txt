@@ -12023,3 +12023,9 @@
 //{"coords": [], "date": "2026-03-03"} // Bergisch Gladbach, Einbruch
 //{"coords": [], "date": "2026-03-03"} // Eilpe, Diebstahl
 //{"coords": [], "date": "2026-03-03"} // Bad Langensalza, Einbruch
+{"coords": [8.4833, 49.75], "date": "2026-03-03"}, // Krimineller Masche Gernsheim, Diebstahl
+//{"coords": [], "date": "2026-03-03"} // der Zeit vom, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-03-03"}, // Ulm, Diebstahl
+{"coords": [8.3667, 49.9833], "date": "2026-03-03"}, // Gustavsburg, Einbrecher
+{"coords": [7.5667, 51.0833], "date": "2026-03-03"}, // Gummersbach, gestohlen
+{"coords": [7.5667, 51.0167], "date": "2026-03-03"}, // Wiehl, gestohlen

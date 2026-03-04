@@ -12149,3 +12149,10 @@
 {"coords": [6.6833, 51.6167], "date": "2026-03-04"}, // Zeugen Voerde, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-03-04"}, // Zeugen Osnabrück, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2026-03-04"}, // Bäckerei Coesfeld, Raub
+{"coords": [8.875, 53.05], "date": "2026-03-04"}, // Osterholz, entwendet
+{"coords": [7.5667, 51.0167], "date": "2026-03-04"}, // Scooter Wiehl, aufbrüche
+//{"coords": [], "date": "2026-03-04"} // Tiefenbronn, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-03-04"}, // Tresor Bielefeld, Einbrecher
+{"coords": [11.3239, 50.9795], "date": "2026-03-04"}, // Tat Weimar, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-04"}, // Recklinghausen, Diebstahl
+{"coords": [8.0, 51.45], "date": "2026-03-04"}, // Bergheim Arnsberg, Einbruch

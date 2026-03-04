@@ -12243,3 +12243,4 @@
 {"coords": [8.4353, 49.4811], "date": "2026-03-04"}, // Ludwigshafen, Diebstahl
 {"coords": [9.1333, 48.8], "date": "2026-03-04"}, // Feuerbach, gestohlen
 {"coords": [10.8978, 48.3705], "date": "2026-03-04"}, // Einbrüchen Augsburg, Einbrüche
+{"coords": [9.95, 52.15], "date": "2026-03-04"}, // Schmuck Hildesheim, entwendet

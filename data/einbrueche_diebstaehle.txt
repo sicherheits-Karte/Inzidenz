@@ -12206,3 +12206,5 @@
 //{"coords": [], "date": "2026-03-04"} // Einfamilienhaus Weilerswist, Einbruch
 {"coords": [11.9833, 48.3167], "date": "2026-03-04"}, // Bockhorn Bockhorn, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2026-03-04"}, // Mitte, Diebstahl
+//{"coords": [], "date": "2026-03-04"} // Rödgen, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-03-04"}, // Einbruch Erfurt, Einbruch

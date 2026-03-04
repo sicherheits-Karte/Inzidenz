@@ -12175,3 +12175,15 @@
 {"coords": [8.2869, 52.7303], "date": "2026-03-04"}, // Vechta, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2026-03-04"}, // Herne, Raub
 {"coords": [7.0042, 51.9542], "date": "2026-03-04"}, // Lagerhalle Gescher, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-03-04"}, // Haselünne, Einbruch
+//{"coords": [], "date": "2026-03-04"} // Vrees, Einbruch
+{"coords": [7.3167, 52.8667], "date": "2026-03-04"}, // Lathen, Einbruch
+{"coords": [9.1681, 48.8319], "date": "2026-03-04"}, // Zuffenhausen, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-03-04"}, // Ludwigshafen, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-03-04"}, // Ludwigshafen, Raub
+//{"coords": [], "date": "2026-03-04"} // Einbrecher Mutterstadt, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-03-04"}, // Diepholz, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-03-04"}, // Wettbüro Reutlingen, aufbruch
+//{"coords": [], "date": "2026-03-04"} // Erzhausen, Einbrecher
+//{"coords": [], "date": "2026-03-04"} // Gierschnach, Diebstähle
+{"coords": [8.705, 48.895], "date": "2026-03-04"}, // Zeugenhinweise Pforzheim, Dieb

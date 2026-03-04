@@ -12198,3 +12198,11 @@
 {"coords": [7.9447, 48.4731], "date": "2026-03-04"}, // Offenburg, Diebstahl
 //{"coords": [], "date": "2026-03-04"} // Schwarzwald, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2026-03-04"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2026-03-04"} // Schmiedefeld, eingebrochen
+{"coords": [11.1, 48.7167], "date": "2026-03-04"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-03-04"}, // Karlsruhe, Raub
+{"coords": [8.8731, 51.275], "date": "2026-03-04"}, // Wohnhäuser Korbach, Einbruch
+{"coords": [8.1361, 53.3969], "date": "2026-03-04"}, // Varel Varel, Diebstahl
+//{"coords": [], "date": "2026-03-04"} // Einfamilienhaus Weilerswist, Einbruch
+{"coords": [11.9833, 48.3167], "date": "2026-03-04"}, // Bockhorn Bockhorn, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-03-04"}, // Mitte, Diebstahl

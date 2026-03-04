@@ -12240,3 +12240,4 @@
 {"coords": [7.4836, 53.4711], "date": "2026-03-04"}, // Landkreis Aurich, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-04"}, // Unfallflucht Aalen, Diebstahl
 {"coords": [9.2081, 52.3242], "date": "2026-03-04"}, // Zeugenaufruf Stadthagen, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-03-04"}, // Ludwigshafen, Diebstahl

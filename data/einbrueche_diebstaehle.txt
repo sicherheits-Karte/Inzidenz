@@ -12128,3 +12128,4 @@
 //{"coords": [], "date": "2026-03-03"} // Zubehör Großmehlra, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2026-03-04"}, // Bochum, Raub
 //{"coords": [], "date": "2026-03-04"} // Bad Ems, Einbruch
+{"coords": [8.8517, 50.0717], "date": "2026-03-04"}, // Obertshausen, Raub

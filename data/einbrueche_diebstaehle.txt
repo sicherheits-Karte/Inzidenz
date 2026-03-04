@@ -12165,3 +12165,13 @@
 {"coords": [7.6333, 51.2167], "date": "2026-03-04"}, // Folgen Lüdenscheid, Diebstahl
 {"coords": [7.7, 51.375], "date": "2026-03-04"}, // Einbrüche Iserlohn, Einbrüche
 {"coords": [9.1919, 48.8975], "date": "2026-03-04"}, // Ludwigsburg, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-03-04"}, // Freiburg, Raub
+{"coords": [8.6306, 53.05], "date": "2026-03-04"}, // Zeugenaufruf Delmenhorst, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-03-04"}, // Bretzenheim Mainz, Einbruch
+//{"coords": [], "date": "2026-03-04"} // Einfamilienhaus, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-03-04"}, // Bielefeld, Dieb
+{"coords": [8.6306, 53.05], "date": "2026-03-04"}, // Delmenhorst, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-03-04"}, // Motorrad Neuss, Dieb
+{"coords": [8.2869, 52.7303], "date": "2026-03-04"}, // Vechta, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-03-04"}, // Herne, Raub
+{"coords": [7.0042, 51.9542], "date": "2026-03-04"}, // Lagerhalle Gescher, Einbruch

@@ -12208,3 +12208,18 @@
 {"coords": [8.5833, 53.55], "date": "2026-03-04"}, // Mitte, Diebstahl
 //{"coords": [], "date": "2026-03-04"} // Rödgen, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-03-04"}, // Einbruch Erfurt, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-03-04"}, // Einbrüche Wiesbaden, Einbrüche
+{"coords": [8.6514, 49.8728], "date": "2026-03-04"}, // Zeugen Darmstadt, Einbruch
+{"coords": [9.2167, 48.0833], "date": "2026-03-04"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Diebstahl
+//{"coords": [], "date": "2026-03-04"} // Höhe, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-03-04"}, // Limburg, Dieb
+{"coords": [6.85, 49.3], "date": "2026-03-04"}, // Bad Schwalbach, Dieb
+{"coords": [7.82, 47.99], "date": "2026-03-04"}, // Mofas Freiburg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-03-04"}, // Hofheim, Einbruch
+//{"coords": [], "date": "2026-03-04"} // Tiefgarage gestohlen, gestohlen
+//{"coords": [], "date": "2026-03-04"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.4661, 49.4878], "date": "2026-03-04"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [7.0333, 52.2167], "date": "2026-03-04"}, // Gronau, eingebrochen
+{"coords": [8.6822, 50.1106], "date": "2026-03-04"}, // Totenruhe Frankfurt, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-03-04"}, // Frankfurt, Einbrecher
+{"coords": [8.8075, 53.075], "date": "2026-03-04"}, // Bremen, Einbruch

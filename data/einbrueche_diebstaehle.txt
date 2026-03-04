@@ -12187,3 +12187,14 @@
 //{"coords": [], "date": "2026-03-04"} // Erzhausen, Einbrecher
 //{"coords": [], "date": "2026-03-04"} // Gierschnach, Diebstähle
 {"coords": [8.705, 48.895], "date": "2026-03-04"}, // Zeugenhinweise Pforzheim, Dieb
+//{"coords": [], "date": "2026-03-04"} // Friseursalon Neuhofen, Einbruch
+{"coords": [11.9833, 49.4833], "date": "2026-03-04"}, // Freudenberg, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-03-04"}, // Lippe, Einbrecher
+{"coords": [8.8667, 51.9333], "date": "2026-03-04"}, // Lippe, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2026-03-04"}, // Landau, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-03-04"}, // Lippe, Dieb
+{"coords": [8.0786, 48.5322], "date": "2026-03-04"}, // Oberkirch, Diebstahl
+//{"coords": [], "date": "2026-03-04"} // Kreis, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2026-03-04"}, // Offenburg, Diebstahl
+//{"coords": [], "date": "2026-03-04"} // Schwarzwald, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-03-04"}, // Vechta, Diebstahl

@@ -12126,3 +12126,4 @@
 {"coords": [7.7689, 49.4447], "date": "2026-03-03"}, // Kaiserslautern, stahl
 //{"coords": [], "date": "2026-03-03"} // Wahlplakaten Altlay, Diebstahl
 //{"coords": [], "date": "2026-03-03"} // Zubehör Großmehlra, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-03-04"}, // Bochum, Raub

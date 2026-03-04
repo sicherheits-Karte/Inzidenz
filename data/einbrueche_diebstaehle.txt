@@ -12129,3 +12129,14 @@
 {"coords": [7.2162, 51.4818], "date": "2026-03-04"}, // Bochum, Raub
 //{"coords": [], "date": "2026-03-04"} // Bad Ems, Einbruch
 {"coords": [8.8517, 50.0717], "date": "2026-03-04"}, // Obertshausen, Raub
+//{"coords": [], "date": "2026-03-04"} // Einsatz Oberzent, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-03-04"}, // Bonn, eingebrochen
+{"coords": [7.6458, 50.6878], "date": "2026-03-04"}, // Werkstatt Altenkirchen, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-03-04"}, // Lippstadt, Dieb
+{"coords": [8.9056, 52.3364], "date": "2026-03-04"}, // Altenhagen gesucht mehr, Diebstahl
+{"coords": [8.4153, 49.6917], "date": "2026-03-04"}, // Zeugen Biblis, stahl
+{"coords": [7.6458, 50.6878], "date": "2026-03-04"}, // Einbruchsdiebstahl Altenkirchen, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-03-04"}, // Kupferschienen Moers, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-04"}, // Kraftstoff Aalen, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-03-04"}, // Northeim, Diebstahl
+//{"coords": [], "date": "2026-03-04"} // Baggerlöffel Bausendorf, Diebstahl

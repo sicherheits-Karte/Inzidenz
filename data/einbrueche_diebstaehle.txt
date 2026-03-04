@@ -12223,3 +12223,12 @@
 {"coords": [8.6822, 50.1106], "date": "2026-03-04"}, // Totenruhe Frankfurt, Diebstahl
 {"coords": [8.6822, 50.1106], "date": "2026-03-04"}, // Frankfurt, Einbrecher
 {"coords": [8.8075, 53.075], "date": "2026-03-04"}, // Bremen, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-03-04"}, // Köln, Raub
+//{"coords": [], "date": "2026-03-04"} // Kein Ort gefunden, Einbrecher
+{"coords": [10.0528, 51.1889], "date": "2026-03-04"}, // Eschwege, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-03-04"}, // Zeugenaufruf Frankfurt, Raub
+{"coords": [9.4108, 53.1111], "date": "2026-03-04"}, // Rotenburg, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-04"}, // Emden, Einbruch
+//{"coords": [], "date": "2026-03-04"} // Kreis, eingebrochen
+//{"coords": [], "date": "2026-03-04"} // Aulfingen, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-03-04"}, // Zeugen Dortmund, Raub

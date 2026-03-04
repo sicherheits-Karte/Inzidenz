@@ -12140,3 +12140,8 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-04"}, // Kraftstoff Aalen, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-03-04"}, // Northeim, Diebstahl
 //{"coords": [], "date": "2026-03-04"} // Baggerlöffel Bausendorf, Diebstahl
+{"coords": [9.9158, 51.5413], "date": "2026-03-04"}, // Göttingen, Diebstähle
+{"coords": [8.705, 48.895], "date": "2026-03-04"}, // Zeugen Pforzheim, eingebrochen
+{"coords": [8.15, 51.7], "date": "2026-03-04"}, // Herzfeld, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-03-04"}, // Zeugen Homberg, Einbruch
+//{"coords": [], "date": "2026-03-04"} // Friedhof Helmenzen, Diebstahl

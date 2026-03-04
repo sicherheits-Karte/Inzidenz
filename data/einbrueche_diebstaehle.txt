@@ -12232,3 +12232,10 @@
 //{"coords": [], "date": "2026-03-04"} // Kreis, eingebrochen
 //{"coords": [], "date": "2026-03-04"} // Aulfingen, Einbruch
 {"coords": [7.4653, 51.5136], "date": "2026-03-04"}, // Zeugen Dortmund, Raub
+{"coords": [8.4311, 49.3194], "date": "2026-03-04"}, // Taschendiebstahl Postgalerie Speyer, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-03-04"}, // Restaurant Speyer, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-03-04"}, // Nordhausen, entwendet
+{"coords": [8.4311, 49.3194], "date": "2026-03-04"}, // Speyer, Diebstahl
+{"coords": [10.8708, 51.3697], "date": "2026-03-04"}, // Sondershausen, Einbrecher
+{"coords": [7.4836, 53.4711], "date": "2026-03-04"}, // Landkreis Aurich, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-04"}, // Unfallflucht Aalen, Diebstahl

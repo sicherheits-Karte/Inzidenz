@@ -12271,3 +12271,10 @@
 //{"coords": [], "date": "2026-03-05"} // der Wanderslebener Straße geparkt war. Die Tatzeit liegt zwischen gestern, entwendet
 {"coords": [8.9056, 52.3364], "date": "2026-03-05"}, // Altenhagen, entwendet
 {"coords": [7.1856, 51.3994], "date": "2026-03-05"}, // Abend Hattingen, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-03-05"}, // Ulm, Einbrecher
+//{"coords": [], "date": "2026-03-05"} // Dettmannsdorf, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-05"}, // Recklinghausen, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-03-05"}, // Wohnung Fulda, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-05"}, // Recklinghausen, gestohlen
+{"coords": [7.1, 51.5167], "date": "2026-03-05"}, // Gelsenkirchen, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-03-05"}, // Diepholz, Einbruch

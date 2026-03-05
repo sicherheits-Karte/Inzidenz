@@ -12324,3 +12324,13 @@
 //{"coords": [], "date": "2026-03-05"} // Hinweise Kollig, Diebstahl
 {"coords": [7.9667, 53.4167], "date": "2026-03-05"}, // Zetel Zetel, Diebstahl
 {"coords": [7.1508, 51.2562], "date": "2026-03-05"}, // Polizei Wuppertal Wuppertal, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2026-03-05"}, // Recklinghausen, Raub
+{"coords": [7.9833, 51.95], "date": "2026-03-05"}, // Warendorf, Raub
+{"coords": [11.7667, 51.8333], "date": "2026-03-05"}, // Lebensmittelgeschäft Nienburg, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-03-05"}, // Ludwigsburg, Dieb
+{"coords": [8.6514, 49.8728], "date": "2026-03-05"}, // Darmstadt, Einbrecher
+{"coords": [7.9833, 51.95], "date": "2026-03-05"}, // Warendorf, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-03-05"}, // Kaiserslautern, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-05"}, // Zeugen Freiburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-03-05"}, // Giessen, Diebstahl
+//{"coords": [], "date": "2026-03-05"} // zwei sichergestellten Fahrrädern gesucht mehr, Diebstähle

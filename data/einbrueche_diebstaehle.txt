@@ -12304,3 +12304,9 @@
 {"coords": [8.6944, 49.4092], "date": "2026-03-05"}, // Heidelberg, Raub
 {"coords": [8.8731, 51.275], "date": "2026-03-05"}, // Erfolg Korbach, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2026-03-05"}, // Ermittlungsrichter Düsseldorf, Diebstahl
+{"coords": [7.95, 50.9333], "date": "2026-03-05"}, // Kreuztal, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-03-05"}, // Festnahme Köln, Dieb
+{"coords": [8.4661, 49.4878], "date": "2026-03-05"}, // Zeugenaufruf Mannheim, Einbrüche
+{"coords": [10.6583, 51.2464], "date": "2026-03-05"}, // Lagerhalle Schlotheim, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-03-05"}, // Kraftstoffdiebstahl Freiburg, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2026-03-05"}, // Einbrüche Eschwege, Einbruch

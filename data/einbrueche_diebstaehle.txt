@@ -12249,3 +12249,13 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-05"}, // Wohnungseinbruch Aalen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-03-05"}, // Freiburg, Raub
 {"coords": [11.5862, 50.9271], "date": "2026-03-05"}, // Euro Warenwert Jena, Diebstahl
+{"coords": [8.8494, 51.4611], "date": "2026-03-05"}, // Fußballverein Marsberg, Einbruch
+//{"coords": [], "date": "2026-03-05"} // Altstadt, Raub
+{"coords": [9.8833, 53.3333], "date": "2026-03-05"}, // Tageswohnungseinbruch Buchholz, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-03-05"}, // Northeim, Diebstahl
+{"coords": [8.2146, 53.1434], "date": "2026-03-05"}, // Hinweise Oldenburg, Einbrüche
+{"coords": [12.4333, 50.985], "date": "2026-03-05"}, // Altenburg, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-03-05"}, // Altenburg, entwendet
+{"coords": [7.7667, 51.2833], "date": "2026-03-05"}, // Werdohl, gestohlen
+{"coords": [8.1092, 51.5711], "date": "2026-03-05"}, // Kellerraum Soest, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-05"}, // Emden, Einbruch

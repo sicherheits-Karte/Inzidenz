@@ -12353,3 +12353,4 @@
 //{"coords": [], "date": "2026-03-05"} // Vaihingen, Dieb
 {"coords": [6.25, 51.2167], "date": "2026-03-05"}, // Hinweise Brüggen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-03-05"}, // Einsatz Freiburg, Raub
+//{"coords": [], "date": "2026-03-05"} // Bargeld Rodgau, Dieb

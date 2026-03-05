@@ -12355,3 +12355,4 @@
 {"coords": [7.82, 47.99], "date": "2026-03-05"}, // Einsatz Freiburg, Raub
 //{"coords": [], "date": "2026-03-05"} // Bargeld Rodgau, Dieb
 {"coords": [7.825, 50.4358], "date": "2026-03-05"}, // Einfamilienhaus Montabaur, Einbruch
+//{"coords": [], "date": "2026-03-05"} // Kein Ort gefunden, Einbruch

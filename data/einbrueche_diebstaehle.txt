@@ -12319,3 +12319,8 @@
 {"coords": [8.7667, 50.1], "date": "2026-03-05"}, // Kreis Offenbach, Einbruch
 {"coords": [6.4333, 51.2], "date": "2026-03-05"}, // Zeugen Mönchengladbach, Diebstahl
 //{"coords": [], "date": "2026-03-05"} // Kreis, Einbrüche
+{"coords": [7.3194, 52.5236], "date": "2026-03-05"}, // Zeugen Lingen, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-05"}, // Diebstähle Recklinghausen, Einbrüche
+//{"coords": [], "date": "2026-03-05"} // Hinweise Kollig, Diebstahl
+{"coords": [7.9667, 53.4167], "date": "2026-03-05"}, // Zetel Zetel, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-03-05"}, // Polizei Wuppertal Wuppertal, Einbrecher

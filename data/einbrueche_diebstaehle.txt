@@ -12345,3 +12345,11 @@
 {"coords": [8.5331, 52.021], "date": "2026-03-05"}, // Bielefeld, Einbrecher
 {"coords": [9.984, 54.0714], "date": "2026-03-05"}, // Neumünster Neumünster, Diebstahl
 {"coords": [7.65, 52.1833], "date": "2026-03-05"}, // Kraftstoffdiebstahl Saerbeck, Diebstahl
+//{"coords": [], "date": "2026-03-05"} // Verkehrsunfall schwer verletzt, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-03-05"}, // Unfall Giessen, Diebstahl
+{"coords": [7.4614, 50.4286], "date": "2026-03-05"}, // Verkehrsunfallflucht Neuwied, Raub
+{"coords": [6.2833, 51.3167], "date": "2026-03-05"}, // Garten Nettetal, Diebstahl
+//{"coords": [], "date": "2026-03-05"} // Waldniel, Dieb
+//{"coords": [], "date": "2026-03-05"} // Vaihingen, Dieb
+{"coords": [6.25, 51.2167], "date": "2026-03-05"}, // Hinweise Brüggen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-05"}, // Einsatz Freiburg, Raub

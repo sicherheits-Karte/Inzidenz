@@ -12259,3 +12259,15 @@
 {"coords": [7.7667, 51.2833], "date": "2026-03-05"}, // Werdohl, gestohlen
 {"coords": [8.1092, 51.5711], "date": "2026-03-05"}, // Kellerraum Soest, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2026-03-05"}, // Emden, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-03-05"}, // Verkehrsunfall Heilbronn, Diebstahl
+{"coords": [7.8139, 52.2194], "date": "2026-03-05"}, // Büroräume Tecklenburg, Einbruch
+{"coords": [9.55, 49.3167], "date": "2026-03-05"}, // Verkehrsunfall Hohenlohekreis, Diebstahl
+{"coords": [8.7667, 51.7167], "date": "2026-03-05"}, // Paderborn, Einbruch
+{"coords": [7.35, 52.15], "date": "2026-03-05"}, // Praxisräume Steinfurt, Einbruch
+//{"coords": [], "date": "2026-03-05"} // Mahlberg, Einbrecher
+{"coords": [10.0, 51.7064], "date": "2026-03-05"}, // Northeim, entwendet
+{"coords": [7.2167, 52.2], "date": "2026-03-05"}, // Einbruch Ochtrup, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-03-05"}, // Untersuchungshaft Düsseldorf, Einbrecher
+//{"coords": [], "date": "2026-03-05"} // der Wanderslebener Straße geparkt war. Die Tatzeit liegt zwischen gestern, entwendet
+{"coords": [8.9056, 52.3364], "date": "2026-03-05"}, // Altenhagen, entwendet
+{"coords": [7.1856, 51.3994], "date": "2026-03-05"}, // Abend Hattingen, Raub

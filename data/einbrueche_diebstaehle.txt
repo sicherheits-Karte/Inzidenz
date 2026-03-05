@@ -12296,3 +12296,11 @@
 {"coords": [10.0831, 52.6247], "date": "2026-03-05"}, // Wohnhaus Celle, Einbruch
 {"coords": [6.95, 52.5833], "date": "2026-03-05"}, // Hoogstede, Einbruch
 {"coords": [9.5667, 53.2], "date": "2026-03-05"}, // Lauenbrück gesucht, Einbruch
+//{"coords": [], "date": "2026-03-05"} // Kerken, Diebstahl
+//{"coords": [], "date": "2026-03-05"} // Reihenhaus Mutterstadt, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-03-05"}, // Gelsenkirchen, Einbrüche
+{"coords": [7.1667, 50.8167], "date": "2026-03-05"}, // Hinweise Troisdorf, Raub
+//{"coords": [], "date": "2026-03-05"} // Forstmaschine Piesport, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2026-03-05"}, // Heidelberg, Raub
+{"coords": [8.8731, 51.275], "date": "2026-03-05"}, // Erfolg Korbach, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-03-05"}, // Ermittlungsrichter Düsseldorf, Diebstahl

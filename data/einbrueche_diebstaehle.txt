@@ -12334,3 +12334,14 @@
 {"coords": [7.82, 47.99], "date": "2026-03-05"}, // Zeugen Freiburg, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-03-05"}, // Giessen, Diebstahl
 //{"coords": [], "date": "2026-03-05"} // zwei sichergestellten Fahrrädern gesucht mehr, Diebstähle
+{"coords": [7.8833, 49.5667], "date": "2026-03-05"}, // einem Discounter in der Industriestraße beim Ladendiebstahl erwischt worden. Der Mann wollte den Kassenbereich mit einem mit Lebensmitteln gefüllten Rucksack passieren, ohne zu bezahlen. Als er daraufhin von Mitarbeitern angesprochen wurde, flüchtete er fußläufig in Richtung Winnweiler. Bei der Flucht ließ er seinen Rucksack mitsamt den gestohlenen Lebensmitteln fallen. Durch eine, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-03-05"}, // Zeugenhinweise Karlsruhe, klau
+{"coords": [8.4414, 50.0919], "date": "2026-03-05"}, // Hofheim, Einbrecher
+{"coords": [9.4764, 53.6008], "date": "2026-03-05"}, // Stade, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-03-05"}, // Giessen, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-03-05"}, // Unfall Aalen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-03-05"}, // Ludwigshafen, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-03-05"}, // Transporter Ludwigshafen, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-03-05"}, // Bielefeld, Einbrecher
+{"coords": [9.984, 54.0714], "date": "2026-03-05"}, // Neumünster Neumünster, Diebstahl
+{"coords": [7.65, 52.1833], "date": "2026-03-05"}, // Kraftstoffdiebstahl Saerbeck, Diebstahl

@@ -12367,3 +12367,10 @@
 {"coords": [9.6989, 53.4769], "date": "2026-03-06"}, // Buxtehude Stade, Einbrecher
 {"coords": [7.6333, 51.1], "date": "2026-03-06"}, // Einbrüche Meinerzhagen, Einbrüche
 {"coords": [12.0991, 54.0924], "date": "2026-03-06"}, // Untersuchungshaft Rostock, Raub
+{"coords": [7.6736, 51.2972], "date": "2026-03-06"}, // Altena, Dieb
+//{"coords": [], "date": "2026-03-06"} // der Wirtsgasse entwendeten ein oder mehrere bislang Unbekannte unter anderem Werkzeuge der Marke, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-03-06"}, // Gotha, entwendet
+{"coords": [9.9916, 48.3984], "date": "2026-03-06"}, // Ulm, Einbrecher
+{"coords": [8.5861, 52.1983], "date": "2026-03-06"}, // Bünde, Diebstahl
+{"coords": [7.5833, 52.2972], "date": "2026-03-06"}, // Hörstel, geklaut
+//{"coords": [], "date": "2026-03-06"} // Lustheide Bergisch Gladbach, Einbruch

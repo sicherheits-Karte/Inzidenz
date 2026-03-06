@@ -12449,3 +12449,11 @@
 //{"coords": [], "date": "2026-03-06"} // Zeugen Boltenhagen, Einbrüche
 {"coords": [6.8761, 50.8778], "date": "2026-03-06"}, // Diebesgut Hürth, Dieb
 //{"coords": [], "date": "2026-03-06"} // Kreis, stahl
+{"coords": [10.5369, 52.1622], "date": "2026-03-06"}, // Landkreis Wolfenbüttel, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-03-06"}, // Bielefeld, gestohlen
+//{"coords": [], "date": "2026-03-06"} // Haft gebracht, Dieb
+{"coords": [8.4043, 49.014], "date": "2026-03-06"}, // Karlsruhe, entwendet
+{"coords": [8.5847, 53.5469], "date": "2026-03-06"}, // Ladendetektive Bremerhaven, Dieb
+{"coords": [7.1, 51.5167], "date": "2026-03-06"}, // Zeugen Gelsenkirchen, Raub
+{"coords": [6.7623, 51.4344], "date": "2026-03-06"}, // Zeugensuche Duisburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-03-06"}, // Haft Freiburg, Räuber

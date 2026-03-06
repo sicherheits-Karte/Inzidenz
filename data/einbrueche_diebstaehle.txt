@@ -12464,3 +12464,4 @@
 {"coords": [8.5786, 49.5383], "date": "2026-03-06"}, // Zeugen Viernheim, gestohlen
 {"coords": [8.4592, 49.6436], "date": "2026-03-06"}, // Bürstadt, Einbrecher
 {"coords": [8.8833, 49.7833], "date": "2026-03-06"}, // Crumbach, Raub
+{"coords": [7.82, 47.99], "date": "2026-03-06"}, // Zeugen Freiburg, Raub

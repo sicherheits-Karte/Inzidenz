@@ -12427,3 +12427,6 @@
 {"coords": [9.1919, 48.8975], "date": "2026-03-06"}, // Diebstahl Ludwigsburg, Diebstahl
 {"coords": [8.8403, 47.7592], "date": "2026-03-06"}, // Singen, entwendet
 {"coords": [13.2611, 53.5569], "date": "2026-03-06"}, // Neubrandenburg, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2026-03-06"}, // Apolda Apolda, Diebstahl
+//{"coords": [], "date": "2026-03-06"} // Netphen, Diebstahl
+{"coords": [8.0483, 50.8742], "date": "2026-03-06"}, // Deuz, aufbruch

@@ -12430,3 +12430,12 @@
 {"coords": [11.5164, 51.0264], "date": "2026-03-06"}, // Apolda Apolda, Diebstahl
 //{"coords": [], "date": "2026-03-06"} // Netphen, Diebstahl
 {"coords": [8.0483, 50.8742], "date": "2026-03-06"}, // Deuz, aufbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-06"}, // Fahrmanöver Giessen, eingebrochen
+{"coords": [8.4661, 49.4878], "date": "2026-03-06"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-03-06"}, // Frankfurt, Diebstähle
+//{"coords": [], "date": "2026-03-06"} // Kreis, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-03-06"}, // Kraftfahrzeug Frankfurt, Diebstahl
+//{"coords": [], "date": "2026-03-06"} // Kein Ort gefunden, Räuber
+{"coords": [9.9916, 48.3984], "date": "2026-03-06"}, // Ulm, Dieb
+{"coords": [8.6822, 50.1106], "date": "2026-03-06"}, // Messer Frankfurt, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-03-06"}, // Ludwigshafen, entwendet

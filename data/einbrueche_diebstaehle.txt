@@ -12457,3 +12457,7 @@
 {"coords": [7.1, 51.5167], "date": "2026-03-06"}, // Zeugen Gelsenkirchen, Raub
 {"coords": [6.7623, 51.4344], "date": "2026-03-06"}, // Zeugensuche Duisburg, Raub
 {"coords": [7.82, 47.99], "date": "2026-03-06"}, // Haft Freiburg, Räuber
+{"coords": [11.4667, 53.6333], "date": "2026-03-06"}, // Wilhelmsburg Hamburg, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-03-06"}, // Zeugenaufruf Mannheim, Dieb
+{"coords": [9.984, 54.0714], "date": "2026-03-06"}, // Neumünster, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-03-06"}, // Bielefeld, eingebrochen

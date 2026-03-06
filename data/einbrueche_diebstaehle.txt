@@ -12415,3 +12415,11 @@
 {"coords": [7.2061, 53.3669], "date": "2026-03-06"}, // Emden, Einbruch
 {"coords": [7.3167, 52.3333], "date": "2026-03-06"}, // Emsbüren, stahl
 //{"coords": [], "date": "2026-03-06"} // Altwied, aufbruch
+//{"coords": [], "date": "2026-03-06"} // Donaueschingen, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-03-06"}, // Verkehrsunfälle Heilbronn, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-03-06"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-03-06"}, // Lippe, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-03-06"}, // Pkw Reutlingen, Einbruch
+{"coords": [8.7236, 48.5522], "date": "2026-03-06"}, // Nagold, eingebrochen
+{"coords": [8.5847, 53.5469], "date": "2026-03-06"}, // Bremerhaven, gestohlen
+//{"coords": [], "date": "2026-03-06"} // Kein Ort gefunden, gestohlen

@@ -12374,3 +12374,8 @@
 {"coords": [8.5861, 52.1983], "date": "2026-03-06"}, // Bünde, Diebstahl
 {"coords": [7.5833, 52.2972], "date": "2026-03-06"}, // Hörstel, geklaut
 //{"coords": [], "date": "2026-03-06"} // Lustheide Bergisch Gladbach, Einbruch
+{"coords": [8.8494, 51.4611], "date": "2026-03-06"}, // Einfamilienhaus Marsberg, Einbruch
+{"coords": [7.6667, 50.55], "date": "2026-03-06"}, // Dierdorf Dierdorf, Diebstahl
+{"coords": [8.4592, 49.6436], "date": "2026-03-06"}, // Geld Bürstadt, Einbruch
+{"coords": [7.4614, 50.4286], "date": "2026-03-06"}, // Zeugenaufruf Einbruch Neuwied, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-03-06"}, // Gefahr Gelsenkirchen, klau

@@ -12401,3 +12401,17 @@
 {"coords": [9.1919, 48.8975], "date": "2026-03-06"}, // Haft Ludwigsburg, Einbrüche
 {"coords": [7.4139, 50.9889], "date": "2026-03-06"}, // Elektrofahrrad Engelskirchen, Dieb
 {"coords": [7.3778, 51.0194], "date": "2026-03-06"}, // Lindlar, gestohlen
+//{"coords": [], "date": "2026-03-06"} // Bad Cannstatt, stehlen
+{"coords": [7.3333, 51.4333], "date": "2026-03-06"}, // Hinweise Witten, Einbruch
+{"coords": [12.4833, 53.45], "date": "2026-03-06"}, // Penkow, gestohlen
+{"coords": [9.9333, 52.9667], "date": "2026-03-06"}, // Heidekreis, entwendet
+{"coords": [8.2146, 53.1434], "date": "2026-03-06"}, // Zeugen Oldenburg, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-03-06"}, // Zeugen Oldenburg, Diebstahl
+{"coords": [10.6833, 48.7833], "date": "2026-03-06"}, // Überholmanöver Landkreis Harburg, Einbrüche
+{"coords": [7.9447, 48.4731], "date": "2026-03-06"}, // Präventionshinweise Offenburg, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-03-06"}, // Bielefeld, Diebstahl
+{"coords": [9.8372, 54.4714], "date": "2026-03-06"}, // Eckernförde, Einbruch
+{"coords": [10.4508, 50.7211], "date": "2026-03-06"}, // Schmalkalden, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-06"}, // Emden, Einbruch
+{"coords": [7.3167, 52.3333], "date": "2026-03-06"}, // Emsbüren, stahl
+//{"coords": [], "date": "2026-03-06"} // Altwied, aufbruch

@@ -12358,3 +12358,12 @@
 //{"coords": [], "date": "2026-03-05"} // Kein Ort gefunden, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2026-03-06"}, // Herne, Raub
 {"coords": [8.9056, 52.3364], "date": "2026-03-06"}, // Altenhagen, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2026-03-06"}, // Greiz, entwendet
+{"coords": [12.1997, 50.6544], "date": "2026-03-06"}, // Greiz, Diebstahl
+{"coords": [7.3333, 51.4333], "date": "2026-03-06"}, // Hinweise Witten, entwendet
+{"coords": [6.6394, 50.8064], "date": "2026-03-06"}, // Zeugen Nörvenich, Einbruch
+//{"coords": [], "date": "2026-03-06"} // Zeugen Ostseebad Prerow, Diebstahl
+{"coords": [6.4833, 50.8], "date": "2026-03-06"}, // Gürzenich Düren, Einbruch
+{"coords": [9.6989, 53.4769], "date": "2026-03-06"}, // Buxtehude Stade, Einbrecher
+{"coords": [7.6333, 51.1], "date": "2026-03-06"}, // Einbrüche Meinerzhagen, Einbrüche
+{"coords": [12.0991, 54.0924], "date": "2026-03-06"}, // Untersuchungshaft Rostock, Raub

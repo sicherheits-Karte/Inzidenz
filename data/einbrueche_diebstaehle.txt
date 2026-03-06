@@ -12423,3 +12423,7 @@
 {"coords": [8.7236, 48.5522], "date": "2026-03-06"}, // Nagold, eingebrochen
 {"coords": [8.5847, 53.5469], "date": "2026-03-06"}, // Bremerhaven, gestohlen
 //{"coords": [], "date": "2026-03-06"} // Kein Ort gefunden, gestohlen
+{"coords": [7.0083, 52.075], "date": "2026-03-06"}, // Ahaus, eingebrochen
+{"coords": [9.1919, 48.8975], "date": "2026-03-06"}, // Diebstahl Ludwigsburg, Diebstahl
+{"coords": [8.8403, 47.7592], "date": "2026-03-06"}, // Singen, entwendet
+{"coords": [13.2611, 53.5569], "date": "2026-03-06"}, // Neubrandenburg, Diebstahl

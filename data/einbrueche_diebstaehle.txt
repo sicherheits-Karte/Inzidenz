@@ -12461,3 +12461,6 @@
 {"coords": [8.4661, 49.4878], "date": "2026-03-06"}, // Zeugenaufruf Mannheim, Dieb
 {"coords": [9.984, 54.0714], "date": "2026-03-06"}, // Neumünster, Einbruch
 {"coords": [8.5331, 52.021], "date": "2026-03-06"}, // Bielefeld, eingebrochen
+{"coords": [8.5786, 49.5383], "date": "2026-03-06"}, // Zeugen Viernheim, gestohlen
+{"coords": [8.4592, 49.6436], "date": "2026-03-06"}, // Bürstadt, Einbrecher
+{"coords": [8.8833, 49.7833], "date": "2026-03-06"}, // Crumbach, Raub

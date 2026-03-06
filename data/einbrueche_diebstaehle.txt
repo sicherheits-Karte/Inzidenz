@@ -12379,3 +12379,12 @@
 {"coords": [8.4592, 49.6436], "date": "2026-03-06"}, // Geld Bürstadt, Einbruch
 {"coords": [7.4614, 50.4286], "date": "2026-03-06"}, // Zeugenaufruf Einbruch Neuwied, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-03-06"}, // Gefahr Gelsenkirchen, klau
+{"coords": [8.7667, 50.1], "date": "2026-03-06"}, // Kreis Offenbach, Dieb
+{"coords": [8.2869, 52.7303], "date": "2026-03-06"}, // Vechta, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-03-06"}, // Weimar, Diebstähle
+//{"coords": [], "date": "2026-03-06"} // Holzland, entwendet
+{"coords": [11.5862, 50.9271], "date": "2026-03-06"}, // Jena, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-03-06"}, // Innenstadt Wilhelmshaven, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-03-06"}, // Weimar, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2026-03-06"}, // Duisburg, Raub
+{"coords": [7.1, 51.5167], "date": "2026-03-06"}, // Gelsenkirchen, Raub

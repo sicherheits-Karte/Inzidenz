@@ -12388,3 +12388,16 @@
 {"coords": [11.3239, 50.9795], "date": "2026-03-06"}, // Weimar, Diebstahl
 {"coords": [6.7623, 51.4344], "date": "2026-03-06"}, // Duisburg, Raub
 {"coords": [7.1, 51.5167], "date": "2026-03-06"}, // Gelsenkirchen, Raub
+{"coords": [8.3667, 49.2167], "date": "2026-03-06"}, // Fahrradgeschäft Germersheim, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-03-06"}, // Zeugenaufruf Cuxhaven, Einbruch
+//{"coords": [], "date": "2026-03-06"} // Sankt Augustin, gestohlen
+{"coords": [7.0333, 50.8167], "date": "2026-03-06"}, // Garten Niederkassel, Einbruch
+{"coords": [8.3667, 50.0], "date": "2026-03-06"}, // Bischofsheim, gestohlen
+//{"coords": [], "date": "2026-03-06"} // Weiterstadt, Einbruch
+//{"coords": [], "date": "2026-03-06"} // Bretzenheim, Diebstahl
+//{"coords": [], "date": "2026-03-06"} // Ingbert, Einbruch
+{"coords": [13.0819, 54.3092], "date": "2026-03-06"}, // Stralsund, Dieb
+{"coords": [11.0767, 49.4521], "date": "2026-03-06"}, // Nürnberg, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2026-03-06"}, // Haft Ludwigsburg, Einbrüche
+{"coords": [7.4139, 50.9889], "date": "2026-03-06"}, // Elektrofahrrad Engelskirchen, Dieb
+{"coords": [7.3778, 51.0194], "date": "2026-03-06"}, // Lindlar, gestohlen

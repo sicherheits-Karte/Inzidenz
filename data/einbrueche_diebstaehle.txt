@@ -12357,3 +12357,4 @@
 {"coords": [7.825, 50.4358], "date": "2026-03-05"}, // Einfamilienhaus Montabaur, Einbruch
 //{"coords": [], "date": "2026-03-05"} // Kein Ort gefunden, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2026-03-06"}, // Herne, Raub
+{"coords": [8.9056, 52.3364], "date": "2026-03-06"}, // Altenhagen, Diebstahl

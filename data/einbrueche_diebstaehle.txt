@@ -12481,3 +12481,4 @@
 {"coords": [8.2869, 52.7303], "date": "2026-03-07"}, // Vechta, Einbruch
 {"coords": [10.0, 51.7064], "date": "2026-03-07"}, // Schmuck Northeim, stehlen
 {"coords": [10.0, 51.7064], "date": "2026-03-07"}, // Northeim, Dieb
+{"coords": [10.7865, 52.4226], "date": "2026-03-07"}, // Zeugen Wolfsburg, Raub

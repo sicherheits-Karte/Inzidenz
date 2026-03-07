@@ -12482,3 +12482,4 @@
 {"coords": [10.0, 51.7064], "date": "2026-03-07"}, // Schmuck Northeim, stehlen
 {"coords": [10.0, 51.7064], "date": "2026-03-07"}, // Northeim, Dieb
 {"coords": [10.7865, 52.4226], "date": "2026-03-07"}, // Zeugen Wolfsburg, Raub
+{"coords": [8.4414, 50.0919], "date": "2026-03-07"}, // Hofheim, Dieb

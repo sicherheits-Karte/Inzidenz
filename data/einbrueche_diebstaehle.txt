@@ -12466,3 +12466,5 @@
 {"coords": [8.8833, 49.7833], "date": "2026-03-06"}, // Crumbach, Raub
 {"coords": [7.82, 47.99], "date": "2026-03-06"}, // Zeugen Freiburg, Raub
 {"coords": [7.1, 51.5167], "date": "2026-03-07"}, // Gelsenkirchen, Raub
+{"coords": [7.45, 51.4], "date": "2026-03-07"}, // Herdecke, Einbruch
+//{"coords": [], "date": "2026-03-07"} // Einbruch in die Eckbach-Sporthalle in Großniedesheim gemeldet. An der Sporthalle werden derzeit Umbaumaßnahmen durchgeführt. Ein Mitarbeiter der Baufirma hatte die Halle am späten Abend des Vortages ordnungsgemäß verschlossen. Bei der Rückkehr am heutigen Morgen, Einbruch

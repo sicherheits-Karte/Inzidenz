@@ -12478,3 +12478,4 @@
 //{"coords": [], "date": "2026-03-07"} // Pfalz, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-03-07"}, // Rüttelplatte Wittlich, Diebstahl
 {"coords": [8.9906, 49.4661], "date": "2026-03-07"}, // Eberbach, gestohlen
+{"coords": [8.2869, 52.7303], "date": "2026-03-07"}, // Vechta, Einbruch

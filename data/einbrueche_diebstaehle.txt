@@ -12474,3 +12474,7 @@
 {"coords": [7.4842, 52.6742], "date": "2026-03-07"}, // Haselünne, Einbruch
 //{"coords": [], "date": "2026-03-07"} // Zeugen Neulehe, Diebstahl
 //{"coords": [], "date": "2026-03-07"} // Bad Bentheim, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-03-07"}, // Einfamilienhaus Wittlich, Einbruch
+//{"coords": [], "date": "2026-03-07"} // Pfalz, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-03-07"}, // Rüttelplatte Wittlich, Diebstahl
+{"coords": [8.9906, 49.4661], "date": "2026-03-07"}, // Eberbach, gestohlen

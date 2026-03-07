@@ -12468,3 +12468,9 @@
 {"coords": [7.1, 51.5167], "date": "2026-03-07"}, // Gelsenkirchen, Raub
 {"coords": [7.45, 51.4], "date": "2026-03-07"}, // Herdecke, Einbruch
 //{"coords": [], "date": "2026-03-07"} // Einbruch in die Eckbach-Sporthalle in Großniedesheim gemeldet. An der Sporthalle werden derzeit Umbaumaßnahmen durchgeführt. Ein Mitarbeiter der Baufirma hatte die Halle am späten Abend des Vortages ordnungsgemäß verschlossen. Bei der Rückkehr am heutigen Morgen, Einbruch
+//{"coords": [], "date": "2026-03-07"} // Arbeitsmaschinen Vrees, Diebstahl
+{"coords": [7.4667, 52.3667], "date": "2026-03-07"}, // Wohnhaus Spelle, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-03-07"}, // Wohnung Nordhorn, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-03-07"}, // Haselünne, Einbruch
+//{"coords": [], "date": "2026-03-07"} // Zeugen Neulehe, Diebstahl
+//{"coords": [], "date": "2026-03-07"} // Bad Bentheim, Einbruch

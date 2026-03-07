@@ -12487,3 +12487,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-03-07"}, // Polizeibeamte Reutlingen, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-03-07"}, // Beute Nordhausen, Einbruch
 {"coords": [9.9333, 52.9667], "date": "2026-03-07"}, // Heidekreis, Raub
+{"coords": [9.5, 51.3167], "date": "2026-03-07"}, // Unshausen Kassel, Raub

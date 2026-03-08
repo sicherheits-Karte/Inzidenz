@@ -12536,3 +12536,4 @@
 //{"coords": [], "date": "2026-03-08"} // zwei Jugendlichen beraubt und mit Pfefferspray angegriffen, Raub
 //{"coords": [], "date": "2026-03-08"} // Höhe, Einbrecher
 {"coords": [6.6153, 51.8367], "date": "2026-03-08"}, // Altenheim Bocholt, eingebrochen
+//{"coords": [], "date": "2026-03-08"} // Pfalz, Diebstahl

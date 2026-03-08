@@ -12488,3 +12488,5 @@
 {"coords": [10.7956, 51.5019], "date": "2026-03-07"}, // Beute Nordhausen, Einbruch
 {"coords": [9.9333, 52.9667], "date": "2026-03-07"}, // Heidekreis, Raub
 {"coords": [9.5, 51.3167], "date": "2026-03-07"}, // Unshausen Kassel, Raub
+{"coords": [9.95, 52.15], "date": "2026-03-08"}, // Lamspringer Umspannwerk Hildesheim, Einbruch
+{"coords": [6.7833, 50.3167], "date": "2026-03-08"}, // Parkscheinautomaten Nohn, aufbruch

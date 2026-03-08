@@ -12538,3 +12538,6 @@
 {"coords": [6.6153, 51.8367], "date": "2026-03-08"}, // Altenheim Bocholt, eingebrochen
 //{"coords": [], "date": "2026-03-08"} // Pfalz, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-03-08"}, // Straßenbahn Augsburg, Diebstahl
+//{"coords": [], "date": "2026-03-08"} // Feuerwehr Teistungen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-03-08"}, // Limburg, Raub
+{"coords": [8.4661, 49.4878], "date": "2026-03-08"}, // Mannheim, Raub

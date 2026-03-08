@@ -12546,3 +12546,4 @@
 //{"coords": [], "date": "2026-03-08"} // Konz, Einbruch
 //{"coords": [], "date": "2026-03-08"} // Einfamilienhaus Plütscheid, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-03-08"}, // Zeugenaufruf Erfurt, Diebstahl
+{"coords": [7.0, 49.9667], "date": "2026-03-08"}, // Monzel, klau

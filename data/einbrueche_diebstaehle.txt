@@ -12511,3 +12511,4 @@
 {"coords": [11.3239, 50.9795], "date": "2026-03-08"}, // Weimar, Einbruch
 {"coords": [6.9667, 51.2333], "date": "2026-03-08"}, // Polizei Mettmann POL-ME, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2026-03-08"}, // Heidekreis, Einbruch
+//{"coords": [], "date": "2026-03-08"} // den frühen Morgenstunden wurde durch Anwohner ein lauter Knall festgestellt. In der Folge kann durch die Polizei festgestellt werden, dass zwei bislang unbekannte Täter versucht hatten durch Aufsprengen des Zigarettenautomaten an den Inhalt zu gelangen. Dies gelang ihnen allerdings nicht, der Automat löste sich aus der, Diebstahl

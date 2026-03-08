@@ -12509,3 +12509,5 @@
 //{"coords": [], "date": "2026-03-08"} // Schalkau, entwendet
 {"coords": [7.2333, 52.3167], "date": "2026-03-08"}, // Einfamilienhäusern Schüttorf, Einbrüche
 {"coords": [11.3239, 50.9795], "date": "2026-03-08"}, // Weimar, Einbruch
+{"coords": [6.9667, 51.2333], "date": "2026-03-08"}, // Polizei Mettmann POL-ME, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2026-03-08"}, // Heidekreis, Einbruch

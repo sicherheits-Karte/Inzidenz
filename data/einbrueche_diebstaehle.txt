@@ -12537,3 +12537,4 @@
 //{"coords": [], "date": "2026-03-08"} // Höhe, Einbrecher
 {"coords": [6.6153, 51.8367], "date": "2026-03-08"}, // Altenheim Bocholt, eingebrochen
 //{"coords": [], "date": "2026-03-08"} // Pfalz, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-03-08"}, // Straßenbahn Augsburg, Diebstahl

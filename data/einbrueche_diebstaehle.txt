@@ -12544,3 +12544,5 @@
 //{"coords": [], "date": "2026-03-08"} // Vereinsheim Kirchohmfeld, Einbruch
 {"coords": [7.7736, 51.0236], "date": "2026-03-08"}, // Person Drolshagen, Raub
 //{"coords": [], "date": "2026-03-08"} // Konz, Einbruch
+//{"coords": [], "date": "2026-03-08"} // Einfamilienhaus Plütscheid, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-03-08"}, // Zeugenaufruf Erfurt, Diebstahl

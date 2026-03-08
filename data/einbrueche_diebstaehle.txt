@@ -12499,3 +12499,10 @@
 {"coords": [7.1, 51.5167], "date": "2026-03-08"}, // Diebstahl Gelsenkirchen, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-03-08"}, // Northeim, entwendet
 {"coords": [7.2061, 53.3669], "date": "2026-03-08"}, // Emden, Einbruch
+{"coords": [7.4667, 52.3667], "date": "2026-03-08"}, // Einfamilienhaus Spelle, Einbruch
+{"coords": [7.3167, 52.3333], "date": "2026-03-08"}, // Einfamilienhaus Emsbüren, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-03-08"}, // Hofheim, Einbruch
+//{"coords": [], "date": "2026-03-08"} // Friesenheim, entwendet
+{"coords": [6.8139, 50.9147], "date": "2026-03-08"}, // Festnahme Frechen, Dieb
+{"coords": [7.1, 51.5167], "date": "2026-03-08"}, // Weißen Riesen Gelsenkirchen, Raub
+{"coords": [9.4108, 53.1111], "date": "2026-03-08"}, // Polizei Rotenburg, Einbruch

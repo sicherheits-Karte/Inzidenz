@@ -12531,3 +12531,8 @@
 {"coords": [6.8889, 49.9858], "date": "2026-03-08"}, // Fahrzeug Wittlich, Diebstahl
 {"coords": [6.6153, 51.8367], "date": "2026-03-08"}, // Hinweise Bocholt, Einbruch
 {"coords": [7.0083, 52.075], "date": "2026-03-08"}, // Ahaus, Einbruch
+{"coords": [7.0, 51.8333], "date": "2026-03-08"}, // Zeugen Reken, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-03-08"}, // Fotofahndung Essen, entwendet
+//{"coords": [], "date": "2026-03-08"} // zwei Jugendlichen beraubt und mit Pfefferspray angegriffen, Raub
+//{"coords": [], "date": "2026-03-08"} // Höhe, Einbrecher
+{"coords": [6.6153, 51.8367], "date": "2026-03-08"}, // Altenheim Bocholt, eingebrochen

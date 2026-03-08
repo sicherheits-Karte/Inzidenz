@@ -12529,3 +12529,5 @@
 {"coords": [6.8889, 49.9858], "date": "2026-03-08"}, // Einfamilienhaus Wittlich, Einbruch
 //{"coords": [], "date": "2026-03-08"} // Werkzeug Altrich, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-03-08"}, // Fahrzeug Wittlich, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2026-03-08"}, // Hinweise Bocholt, Einbruch
+{"coords": [7.0083, 52.075], "date": "2026-03-08"}, // Ahaus, Einbruch

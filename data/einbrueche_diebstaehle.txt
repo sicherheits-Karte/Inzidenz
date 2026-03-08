@@ -12512,3 +12512,8 @@
 {"coords": [6.9667, 51.2333], "date": "2026-03-08"}, // Polizei Mettmann POL-ME, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2026-03-08"}, // Heidekreis, Einbruch
 //{"coords": [], "date": "2026-03-08"} // den frühen Morgenstunden wurde durch Anwohner ein lauter Knall festgestellt. In der Folge kann durch die Polizei festgestellt werden, dass zwei bislang unbekannte Täter versucht hatten durch Aufsprengen des Zigarettenautomaten an den Inhalt zu gelangen. Dies gelang ihnen allerdings nicht, der Automat löste sich aus der, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-03-08"}, // Bahn Frankfurt, Räuber
+{"coords": [9.1753, 47.6633], "date": "2026-03-08"}, // Konstanz, entwendet
+{"coords": [8.2869, 52.7303], "date": "2026-03-08"}, // Vechta, Einbruch
+{"coords": [7.4614, 50.4286], "date": "2026-03-08"}, // Fahrradgeschäft Neuwied, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-03-08"}, // Wiesbaden, Einbruch

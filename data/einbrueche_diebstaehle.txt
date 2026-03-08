@@ -12541,3 +12541,4 @@
 //{"coords": [], "date": "2026-03-08"} // Feuerwehr Teistungen, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-03-08"}, // Limburg, Raub
 {"coords": [8.4661, 49.4878], "date": "2026-03-08"}, // Mannheim, Raub
+//{"coords": [], "date": "2026-03-08"} // Vereinsheim Kirchohmfeld, Einbruch

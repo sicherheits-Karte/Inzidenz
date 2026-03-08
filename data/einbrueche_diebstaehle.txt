@@ -12543,3 +12543,4 @@
 {"coords": [8.4661, 49.4878], "date": "2026-03-08"}, // Mannheim, Raub
 //{"coords": [], "date": "2026-03-08"} // Vereinsheim Kirchohmfeld, Einbruch
 {"coords": [7.7736, 51.0236], "date": "2026-03-08"}, // Person Drolshagen, Raub
+//{"coords": [], "date": "2026-03-08"} // Konz, Einbruch

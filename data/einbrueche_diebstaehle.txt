@@ -12490,3 +12490,4 @@
 {"coords": [9.5, 51.3167], "date": "2026-03-07"}, // Unshausen Kassel, Raub
 {"coords": [9.95, 52.15], "date": "2026-03-08"}, // Lamspringer Umspannwerk Hildesheim, Einbruch
 {"coords": [6.7833, 50.3167], "date": "2026-03-08"}, // Parkscheinautomaten Nohn, aufbruch
+{"coords": [9.95, 52.15], "date": "2026-03-08"}, // Arztpraxis Hildesheim, Einbrecher

@@ -12506,3 +12506,6 @@
 {"coords": [6.8139, 50.9147], "date": "2026-03-08"}, // Festnahme Frechen, Dieb
 {"coords": [7.1, 51.5167], "date": "2026-03-08"}, // Weißen Riesen Gelsenkirchen, Raub
 {"coords": [9.4108, 53.1111], "date": "2026-03-08"}, // Polizei Rotenburg, Einbruch
+//{"coords": [], "date": "2026-03-08"} // Schalkau, entwendet
+{"coords": [7.2333, 52.3167], "date": "2026-03-08"}, // Einfamilienhäusern Schüttorf, Einbrüche
+{"coords": [11.3239, 50.9795], "date": "2026-03-08"}, // Weimar, Einbruch

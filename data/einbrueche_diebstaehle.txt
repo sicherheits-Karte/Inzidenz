@@ -12493,3 +12493,9 @@
 {"coords": [9.95, 52.15], "date": "2026-03-08"}, // Arztpraxis Hildesheim, Einbrecher
 {"coords": [9.8333, 53.95], "date": "2026-03-08"}, // Volmegalerie Hagen, Diebstahl
 {"coords": [8.8667, 51.9333], "date": "2026-03-08"}, // Wohnungseinbruch Lippe, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-03-08"}, // Verhängnis Apolda, Dieb
+{"coords": [11.5164, 51.0264], "date": "2026-03-08"}, // Unwesen Apolda, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-03-08"}, // Keller Apolda, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-03-08"}, // Diebstahl Gelsenkirchen, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-03-08"}, // Northeim, entwendet
+{"coords": [7.2061, 53.3669], "date": "2026-03-08"}, // Emden, Einbruch

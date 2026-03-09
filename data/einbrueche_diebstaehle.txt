@@ -12621,3 +12621,10 @@
 {"coords": [8.5331, 52.021], "date": "2026-03-09"}, // Restaurant Bielefeld, Einbruch
 {"coords": [10.4, 53.25], "date": "2026-03-09"}, // Lüneburg, Einbruch
 {"coords": [7.75, 51.6333], "date": "2026-03-09"}, // Herringen, Dieb
+{"coords": [10.8978, 48.3705], "date": "2026-03-09"}, // Sachbeschädigung Augsburg, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-03-09"}, // Northeim, gestohlen
+{"coords": [9.2108, 49.1425], "date": "2026-03-09"}, // Heilbronn, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-03-09"}, // Oldenburg, Einbruch
+{"coords": [10.3167, 51.4], "date": "2026-03-09"}, // Lkw Leinefelde, Dieb
+{"coords": [8.6822, 50.1106], "date": "2026-03-09"}, // Jährigen Frankfurt, Raub
+{"coords": [10.4278, 51.9042], "date": "2026-03-09"}, // Täterfestnahme Goslar, Einbruch

@@ -12639,3 +12639,12 @@
 {"coords": [9.1919, 48.8975], "date": "2026-03-09"}, // Ludwigsburg, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-03-09"}, // Fahrzeug Ludwigsburg, entwendet
 //{"coords": [], "date": "2026-03-09"} // Heimsheim, aufbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-09"}, // Recklinghausen, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-03-09"}, // Heilbronn, gestohlen
+{"coords": [8.6833, 50.5833], "date": "2026-03-09"}, // Autoaufbrüche Giessen, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-03-09"}, // Trickdiebes Freiburg, Dieb
+{"coords": [9.5, 51.3167], "date": "2026-03-09"}, // Zeugenhinweise Kassel, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-03-09"}, // Gaststätte Freiburg, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-03-09"}, // Zeugen Osnabrück, Dieb
+{"coords": [7.82, 47.99], "date": "2026-03-09"}, // Genossenschaft Freiburg, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-03-09"}, // Stade, Diebstahl

@@ -12558,3 +12558,7 @@
 {"coords": [8.15, 51.7], "date": "2026-03-09"}, // Herzfeld, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-09"}, // Verkehrsunfall Aalen, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2026-03-09"}, // Versuchter Einbruch Coesfeld, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-03-09"}, // Ausweisdokumente Herford, Einbruch
+{"coords": [7.95, 51.4833], "date": "2026-03-09"}, // Neheim Arnsberg, Einbruch
+//{"coords": [], "date": "2026-03-09"} // Einfamilienhaus Wahlrod, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-09"}, // Brände Aalen, Einbruch

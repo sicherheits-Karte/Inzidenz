@@ -12548,3 +12548,6 @@
 {"coords": [11.0299, 50.9848], "date": "2026-03-08"}, // Zeugenaufruf Erfurt, Diebstahl
 {"coords": [7.0, 49.9667], "date": "2026-03-08"}, // Monzel, klau
 {"coords": [9.4764, 53.6008], "date": "2026-03-08"}, // Stade, Raub
+{"coords": [7.75, 51.3833], "date": "2026-03-09"}, // Jährigen Hemer, Raub
+{"coords": [6.9486, 49.6561], "date": "2026-03-09"}, // Tageswohnungseinbruch Hermeskeil, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-03-09"}, // Zweifamilienhaus Wittlich, Einbruch

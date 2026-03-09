@@ -12562,3 +12562,14 @@
 {"coords": [7.95, 51.4833], "date": "2026-03-09"}, // Neheim Arnsberg, Einbruch
 //{"coords": [], "date": "2026-03-09"} // Einfamilienhaus Wahlrod, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-09"}, // Brände Aalen, Einbruch
+{"coords": [7.7156, 52.2778], "date": "2026-03-09"}, // Schaden Ibbenbüren, entwendet
+{"coords": [7.5833, 52.2972], "date": "2026-03-09"}, // Hörstel, gestohlen
+{"coords": [8.5833, 49.8667], "date": "2026-03-09"}, // Griesheim, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-03-09"}, // Darmstadt, Einbrecher
+{"coords": [8.65, 49.3], "date": "2026-03-09"}, // Walldorf, aufbruch
+{"coords": [8.65, 49.3], "date": "2026-03-09"}, // Walldorf, Einbrecher
+{"coords": [8.6514, 49.8728], "date": "2026-03-09"}, // Darmstadt, gestohlen
+{"coords": [6.6264, 51.4519], "date": "2026-03-09"}, // Zeugen Moers, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-03-09"}, // Zeugenhinweise Moers, aufbruch
+{"coords": [8.4833, 49.9167], "date": "2026-03-09"}, // Gerau, Einbrecher
+{"coords": [6.6264, 51.4519], "date": "2026-03-09"}, // Transporters Moers, aufbruch

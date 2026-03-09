@@ -12648,3 +12648,10 @@
 {"coords": [8.0472, 52.2799], "date": "2026-03-09"}, // Zeugen Osnabrück, Dieb
 {"coords": [7.82, 47.99], "date": "2026-03-09"}, // Genossenschaft Freiburg, Einbruch
 {"coords": [9.4764, 53.6008], "date": "2026-03-09"}, // Stade, Diebstahl
+{"coords": [8.7708, 50.8086], "date": "2026-03-09"}, // Farbschmierereien Marburg Giessen, Einbrüche
+{"coords": [7.2, 51.6167], "date": "2026-03-09"}, // Recklinghausen, Einbrüche
+//{"coords": [], "date": "2026-03-09"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2026-03-09"} // Kein Ort gefunden, gestohlen
+{"coords": [8.35, 49.5333], "date": "2026-03-09"}, // Frankenthal, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-03-09"}, // Darmstadt, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-03-09"}, // Hinweise Köln, Einbrecher

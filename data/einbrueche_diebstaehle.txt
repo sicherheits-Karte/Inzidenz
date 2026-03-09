@@ -12551,3 +12551,10 @@
 {"coords": [7.75, 51.3833], "date": "2026-03-09"}, // Jährigen Hemer, Raub
 {"coords": [6.9486, 49.6561], "date": "2026-03-09"}, // Tageswohnungseinbruch Hermeskeil, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-03-09"}, // Zweifamilienhaus Wittlich, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-09"}, // Coesfeld, gestohlen
+{"coords": [6.5167, 51.4833], "date": "2026-03-09"}, // Lintfort, Diebstahl
+{"coords": [9.5036, 53.4539], "date": "2026-03-09"}, // Harsefeld entwendet, entwendet
+{"coords": [8.0, 51.3333], "date": "2026-03-09"}, // Allendorf Sundern, Einbruch
+{"coords": [8.15, 51.7], "date": "2026-03-09"}, // Herzfeld, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-09"}, // Verkehrsunfall Aalen, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-03-09"}, // Versuchter Einbruch Coesfeld, Einbruch

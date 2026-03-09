@@ -12597,3 +12597,16 @@
 {"coords": [7.82, 47.99], "date": "2026-03-09"}, // Zeugen Freiburg, entwendet
 {"coords": [7.35, 52.15], "date": "2026-03-09"}, // Steinfurt, entwendet
 //{"coords": [], "date": "2026-03-09"} // Einfamilienhaus Lienen, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-03-09"}, // Gelsenkirchen, Diebstahl
+{"coords": [7.8, 51.4333], "date": "2026-03-09"}, // Realschule Menden, Einbruch
+{"coords": [7.75, 51.3833], "date": "2026-03-09"}, // Zahnarztpraxis Hemer, Einbruch
+{"coords": [9.36, 52.1039], "date": "2026-03-09"}, // Zeugen Hameln, entwendet
+{"coords": [7.7, 51.375], "date": "2026-03-09"}, // Autohändler Iserlohn, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-09"}, // Vechta, Raub
+{"coords": [8.705, 48.895], "date": "2026-03-09"}, // Dame Pforzheim, Raub
+{"coords": [6.6, 51.55], "date": "2026-03-09"}, // Polizei Rheinberg, Diebstähle
+//{"coords": [], "date": "2026-03-09"} // Gonsenheim, Raub
+{"coords": [7.0982, 50.7374], "date": "2026-03-09"}, // Tätern Bonn, Raub
+{"coords": [6.4833, 50.8], "date": "2026-03-09"}, // Düren, Einbruch
+{"coords": [6.3214, 50.8447], "date": "2026-03-09"}, // Kindergarten Langerwehe, Einbruch
+{"coords": [6.3583, 50.9222], "date": "2026-03-09"}, // Zeugen Jülich, Diebstähle

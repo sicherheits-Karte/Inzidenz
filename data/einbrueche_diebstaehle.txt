@@ -12628,3 +12628,14 @@
 {"coords": [10.3167, 51.4], "date": "2026-03-09"}, // Lkw Leinefelde, Dieb
 {"coords": [8.6822, 50.1106], "date": "2026-03-09"}, // Jährigen Frankfurt, Raub
 {"coords": [10.4278, 51.9042], "date": "2026-03-09"}, // Täterfestnahme Goslar, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-03-09"}, // Widerstand Hofheim, Dieb
+{"coords": [6.85, 49.3], "date": "2026-03-09"}, // Motorradfahrende Bad Schwalbach, Einbrecher
+{"coords": [6.0839, 50.7753], "date": "2026-03-09"}, // Aachen, Diebstahl
+{"coords": [6.4667, 51.8333], "date": "2026-03-09"}, // Hinweise Isselburg, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-03-09"}, // Schulgebäude Limburg, gestohlen
+{"coords": [8.24, 50.0822], "date": "2026-03-09"}, // Wiesbaden, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-09"}, // Recklinghausen, Raub
+//{"coords": [], "date": "2026-03-09"} // Höhe, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-09"}, // Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-09"}, // Fahrzeug Ludwigsburg, entwendet
+//{"coords": [], "date": "2026-03-09"} // Heimsheim, aufbruch

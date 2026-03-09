@@ -12610,3 +12610,14 @@
 {"coords": [6.4833, 50.8], "date": "2026-03-09"}, // Düren, Einbruch
 {"coords": [6.3214, 50.8447], "date": "2026-03-09"}, // Kindergarten Langerwehe, Einbruch
 {"coords": [6.3583, 50.9222], "date": "2026-03-09"}, // Zeugen Jülich, Diebstähle
+//{"coords": [], "date": "2026-03-09"} // Myhl, gestohlen
+//{"coords": [], "date": "2026-03-09"} // Ratheim, Raub
+//{"coords": [], "date": "2026-03-09"} // Ratheim, entwendet
+//{"coords": [], "date": "2026-03-09"} // Hetzerath, Einbruch
+{"coords": [6.315, 51.0794], "date": "2026-03-09"}, // Erkelenz, gestohlen
+//{"coords": [], "date": "2026-03-09"} // Prummern, gestohlen
+//{"coords": [], "date": "2026-03-09"} // Gangelt, entwendet
+//{"coords": [], "date": "2026-03-09"} // Dremmen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-03-09"}, // Restaurant Bielefeld, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-03-09"}, // Lüneburg, Einbruch
+{"coords": [7.75, 51.6333], "date": "2026-03-09"}, // Herringen, Dieb

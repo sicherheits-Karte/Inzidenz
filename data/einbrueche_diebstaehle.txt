@@ -12573,3 +12573,11 @@
 {"coords": [6.6264, 51.4519], "date": "2026-03-09"}, // Zeugenhinweise Moers, aufbruch
 {"coords": [8.4833, 49.9167], "date": "2026-03-09"}, // Gerau, Einbrecher
 {"coords": [6.6264, 51.4519], "date": "2026-03-09"}, // Transporters Moers, aufbruch
+{"coords": [7.9833, 51.95], "date": "2026-03-09"}, // Werkstatt Warendorf, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-03-09"}, // Zeugenaufruf Nürnberg, Einbruch
+//{"coords": [], "date": "2026-03-09"} // Dokument mehr, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-03-09"}, // Wohnungstür Gütersloh, Raub
+{"coords": [8.3667, 49.9833], "date": "2026-03-09"}, // Gustavsburg, Einbrecher
+{"coords": [8.0472, 52.2799], "date": "2026-03-09"}, // Hinweise Osnabrück, Einbrecher
+{"coords": [7.4842, 52.6742], "date": "2026-03-09"}, // Haselünne, Diebstahl
+{"coords": [7.4842, 52.6742], "date": "2026-03-09"}, // Haselünne, Dieb

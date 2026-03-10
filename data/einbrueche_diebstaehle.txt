@@ -12776,3 +12776,7 @@
 {"coords": [9.1919, 48.8975], "date": "2026-03-10"}, // Renault Ludwigsburg, Diebstahl
 {"coords": [10.6583, 51.2464], "date": "2026-03-10"}, // Schlotheim, Einbrecher
 {"coords": [8.0667, 50.3833], "date": "2026-03-10"}, // Limburg, Dieb
+//{"coords": [], "date": "2026-03-10"} // Vrees, Diebstahl
+{"coords": [8.35, 49.5333], "date": "2026-03-10"}, // Frankenthal, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-03-10"}, // Polizeipräsidiums Heilbronn Mosbach, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2026-03-10"}, // Reutlingen, Dieb

@@ -12673,3 +12673,19 @@
 {"coords": [7.1675, 51.9436], "date": "2026-03-10"}, // Aufbruch Coesfeld, aufbruch
 {"coords": [7.9833, 51.95], "date": "2026-03-10"}, // Warendorf, Einbruch
 {"coords": [8.5833, 53.55], "date": "2026-03-10"}, // Mitte, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-03-10"}, // Geldbörse Einbeck, Diebstahl
+{"coords": [7.5667, 51.0167], "date": "2026-03-10"}, // Wiehl, gestohlen
+{"coords": [8.0, 51.45], "date": "2026-03-10"}, // Einfamilienhaus Arnsberg, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-03-10"}, // Firma Arnsberg, Einbruch
+{"coords": [6.2333, 51.5833], "date": "2026-03-10"}, // Zeugen Kevelaer, entwendet
+{"coords": [6.1333, 51.8667], "date": "2026-03-10"}, // Elten, entwendet
+{"coords": [10.0075, 53.7064], "date": "2026-03-10"}, // Zeugen Norderstedt, Einbruch
+//{"coords": [], "date": "2026-03-10"} // Niederntudorf, Einbruch
+{"coords": [9.0492, 52.2603], "date": "2026-03-10"}, // Fahrraddiebstahl Bückeburg, Diebstahl
+{"coords": [8.0142, 53.4969], "date": "2026-03-10"}, // Sande, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-03-10"}, // Ulm, Einbrecher
+{"coords": [8.4833, 49.75], "date": "2026-03-10"}, // Gernsheim, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-03-10"}, // Gotha, entwendet
+{"coords": [10.95, 50.8333], "date": "2026-03-10"}, // Baustelle Arnstadt, Diebstahl
+//{"coords": [], "date": "2026-03-10"} // der Zeit vom, Diebstahl
+{"coords": [8.6372, 49.6419], "date": "2026-03-10"}, // Heppenheim, gestohlen

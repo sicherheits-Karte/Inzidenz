@@ -12767,3 +12767,12 @@
 {"coords": [6.7739, 50.8142], "date": "2026-03-10"}, // Zeugensuche Erftstadt, entwendet
 {"coords": [8.4661, 49.4878], "date": "2026-03-10"}, // Zeugenaufruf Mannheim, gestohlen
 //{"coords": [], "date": "2026-03-10"} // Kreis, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-03-10"}, // Giessen, Einbruch
+//{"coords": [], "date": "2026-03-10"} // Kein Ort gefunden, Einbruch
+//{"coords": [], "date": "2026-03-10"} // Firmenwagen Altenberge, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-03-10"}, // Exhibitionistische Handlung Hofheim, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-10"}, // Kita Giessen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-10"}, // Hydraulikbagger Ludwigsburg, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-03-10"}, // Renault Ludwigsburg, Diebstahl
+{"coords": [10.6583, 51.2464], "date": "2026-03-10"}, // Schlotheim, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2026-03-10"}, // Limburg, Dieb

@@ -12689,3 +12689,5 @@
 {"coords": [10.95, 50.8333], "date": "2026-03-10"}, // Baustelle Arnstadt, Diebstahl
 //{"coords": [], "date": "2026-03-10"} // der Zeit vom, Diebstahl
 {"coords": [8.6372, 49.6419], "date": "2026-03-10"}, // Heppenheim, gestohlen
+{"coords": [10.0, 51.7064], "date": "2026-03-10"}, // Northeim, Diebstahl
+{"coords": [7.6331, 52.9928], "date": "2026-03-10"}, // Poststraße Esterwegen, Raub

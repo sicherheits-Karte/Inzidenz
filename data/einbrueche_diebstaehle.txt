@@ -12734,3 +12734,9 @@
 {"coords": [11.0299, 50.9848], "date": "2026-03-10"}, // Schule Erfurt, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-03-10"}, // Erdgeschosswohnung Erfurt, Einbruch
 //{"coords": [], "date": "2026-03-10"} // Engen, Einbruch
+//{"coords": [], "date": "2026-03-10"} // Husen, Einbruch
+{"coords": [6.2819, 51.1417], "date": "2026-03-10"}, // Wegberg, gestohlen
+{"coords": [6.2819, 51.1417], "date": "2026-03-10"}, // Wegberg, entwendet
+{"coords": [6.315, 51.0794], "date": "2026-03-10"}, // Kindergarten Erkelenz, Einbruch
+//{"coords": [], "date": "2026-03-10"} // Geilenkirchen, gestohlen
+{"coords": [8.7667, 50.1], "date": "2026-03-10"}, // Kreis Offenbach, Diebstahl

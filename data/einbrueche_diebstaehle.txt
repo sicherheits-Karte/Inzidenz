@@ -12691,3 +12691,9 @@
 {"coords": [8.6372, 49.6419], "date": "2026-03-10"}, // Heppenheim, gestohlen
 {"coords": [10.0, 51.7064], "date": "2026-03-10"}, // Northeim, Diebstahl
 {"coords": [7.6331, 52.9928], "date": "2026-03-10"}, // Poststraße Esterwegen, Raub
+{"coords": [7.2197, 51.5428], "date": "2026-03-10"}, // Herne, Einbrecher
+//{"coords": [], "date": "2026-03-10"} // Weimarer Land, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-03-10"}, // Dammstraße Gütersloh, Einbruch
+{"coords": [7.2056, 50.8014], "date": "2026-03-10"}, // Taschendiebstahl Siegburg, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-03-10"}, // Einbruch Ratzeburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-10"}, // Einrichtung Ludwigsburg, Einbruch

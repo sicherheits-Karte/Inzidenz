@@ -12755,3 +12755,15 @@
 {"coords": [10.3167, 51.4], "date": "2026-03-10"}, // Täter Leinefelde, Raub
 //{"coords": [], "date": "2026-03-10"} // Allmenhausen, gestohlen
 {"coords": [7.82, 47.99], "date": "2026-03-10"}, // Tattoo Studio Freiburg, Einbruch
+{"coords": [7.0667, 52.1], "date": "2026-03-10"}, // Werkhalle Heek, eingebrochen
+{"coords": [8.24, 50.0822], "date": "2026-03-10"}, // Gaststätte Wiesbaden, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-03-10"}, // Mönchengladbach, entwendet
+{"coords": [9.0511, 54.4761], "date": "2026-03-10"}, // Handtaschendiebstahl Husum, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-10"}, // Festnahme Recklinghausen, Diebstahl
+//{"coords": [], "date": "2026-03-10"} // Kleinsteinhausen, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-10"}, // Recklinghausen, Dieb
+//{"coords": [], "date": "2026-03-10"} // Polizeipräsidium Südhessen POL-DA, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-03-10"}, // Giessen, eingebrochen
+{"coords": [6.7739, 50.8142], "date": "2026-03-10"}, // Zeugensuche Erftstadt, entwendet
+{"coords": [8.4661, 49.4878], "date": "2026-03-10"}, // Zeugenaufruf Mannheim, gestohlen
+//{"coords": [], "date": "2026-03-10"} // Kreis, Diebstahl

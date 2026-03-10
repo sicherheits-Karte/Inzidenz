@@ -12655,3 +12655,11 @@
 {"coords": [8.35, 49.5333], "date": "2026-03-09"}, // Frankenthal, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2026-03-09"}, // Darmstadt, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-03-09"}, // Hinweise Köln, Einbrecher
+{"coords": [7.3194, 52.5236], "date": "2026-03-10"}, // Wohnhaus Lingen, Einbruch
+{"coords": [10.95, 50.8333], "date": "2026-03-10"}, // Arnstadt, entwendet
+{"coords": [7.3194, 52.5236], "date": "2026-03-10"}, // Einfamilienhaus Lingen, Einbruch
+{"coords": [7.3481, 52.3236], "date": "2026-03-10"}, // Einfamilienhaus Salzbergen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-03-10"}, // Lingen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-10"}, // Versuchter Automatenaufbruch Aalen, aufbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-10"}, // Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-10"}, // Lebensmittelladen Aalen, Raub

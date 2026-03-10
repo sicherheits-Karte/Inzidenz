@@ -12697,3 +12697,17 @@
 {"coords": [7.2056, 50.8014], "date": "2026-03-10"}, // Taschendiebstahl Siegburg, Diebstahl
 {"coords": [10.75, 53.7], "date": "2026-03-10"}, // Einbruch Ratzeburg, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-03-10"}, // Einrichtung Ludwigsburg, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-03-10"}, // Osterholz, Einbruch
+//{"coords": [], "date": "2026-03-10"} // Kreis, Einbruch
+{"coords": [11.1917, 53.4289], "date": "2026-03-10"}, // Hagenower Spielothek Hagenow, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-03-10"}, // Raub Gütersloh, Raub
+//{"coords": [], "date": "2026-03-10"} // Zeugen Bad Pyrmont, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-03-10"}, // Viersener Fußgängerzone Viersen, Diebstähle
+{"coords": [6.4208, 51.3653], "date": "2026-03-10"}, // Kempen, gestohlen
+{"coords": [6.4208, 51.3653], "date": "2026-03-10"}, // Kempen, Einbruch
+{"coords": [10.5267, 52.2689], "date": "2026-03-10"}, // Schülers Braunschweig, Raub
+{"coords": [6.4333, 51.25], "date": "2026-03-10"}, // Neersen, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-03-10"}, // Hinweise Viersen, Raub
+{"coords": [7.95, 50.9333], "date": "2026-03-10"}, // Kreuztal, entwendet
+//{"coords": [], "date": "2026-03-10"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2026-03-10"}, // Reutlingen, Einbrecher

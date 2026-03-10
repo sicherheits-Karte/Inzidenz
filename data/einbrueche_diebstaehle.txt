@@ -12781,3 +12781,4 @@
 {"coords": [9.2108, 49.1425], "date": "2026-03-10"}, // Polizeipräsidiums Heilbronn Mosbach, Einbrüche
 {"coords": [9.2167, 48.4833], "date": "2026-03-10"}, // Reutlingen, Dieb
 //{"coords": [], "date": "2026-03-10"} // Weiersbach, Diebstahl
+//{"coords": [], "date": "2026-03-10"} // Kreis, Raub

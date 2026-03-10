@@ -12711,3 +12711,14 @@
 {"coords": [7.95, 50.9333], "date": "2026-03-10"}, // Kreuztal, entwendet
 //{"coords": [], "date": "2026-03-10"} // dem Kreisgebiet, Einbrüche
 {"coords": [9.2167, 48.4833], "date": "2026-03-10"}, // Reutlingen, Einbrecher
+{"coords": [9.9333, 52.9667], "date": "2026-03-10"}, // Unfall Heidekreis, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-10"}, // Vechta, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-03-10"}, // Mehrfamilienhaus Karlsruhe, Einbruch
+//{"coords": [], "date": "2026-03-10"} // Geldautomaten Bad Münstereifel, Diebstahl
+{"coords": [6.6528, 50.5931], "date": "2026-03-10"}, // Baustellenanhängers Mechernich, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-03-10"}, // Haft-- Bremen, Raub
+//{"coords": [], "date": "2026-03-10"} // Sevelen, Diebstähle
+{"coords": [8.3833, 51.9], "date": "2026-03-10"}, // Gütersloh, Einbruch
+//{"coords": [], "date": "2026-03-10"} // Emmerthal, gestohlen
+{"coords": [12.1764, 53.7944], "date": "2026-03-10"}, // eigener Wohnung zum Opfer einer Raubstraftat Güstrow, Raub
+{"coords": [8.3833, 51.9], "date": "2026-03-10"}, // Gütersloh, Einbrecher

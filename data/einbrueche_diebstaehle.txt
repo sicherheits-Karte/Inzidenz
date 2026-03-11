@@ -12807,3 +12807,10 @@
 {"coords": [10.7183, 50.9489], "date": "2026-03-11"}, // Gotha, Diebstahl
 {"coords": [10.7956, 51.5019], "date": "2026-03-11"}, // Nordhausen, Dieb
 //{"coords": [], "date": "2026-03-11"} // Kyffhäuserland, Dieb
+{"coords": [10.75, 53.7], "date": "2026-03-11"}, // Ratzeburg, Einbruch
+//{"coords": [], "date": "2026-03-11"} // Weimarer Land, gestohlen
+{"coords": [8.5331, 52.021], "date": "2026-03-11"}, // Whisky Bielefeld, Diebstahl
+//{"coords": [], "date": "2026-03-11"} // Holzland, Dieb
+//{"coords": [], "date": "2026-03-11"} // Kein Ort gefunden, Raub
+{"coords": [7.6333, 51.2167], "date": "2026-03-11"}, // Lüdenscheid, gestohlen
+{"coords": [9.9916, 48.3984], "date": "2026-03-11"}, // Ulm, Raub

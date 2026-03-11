@@ -12872,3 +12872,13 @@
 {"coords": [11.55, 51.1167], "date": "2026-03-11"}, // Junge Eckartsberga, Raub
 {"coords": [9.5083, 49.9833], "date": "2026-03-11"}, // Rechtenbach, Diebstahl
 {"coords": [9.5, 51.3167], "date": "2026-03-11"}, // Kassel, Diebstähle
+{"coords": [6.9667, 51.2333], "date": "2026-03-11"}, // Polizei Mettmann POL-ME, gestohlen
+{"coords": [8.0142, 53.4969], "date": "2026-03-11"}, // Sande, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-03-11"}, // Einbrüche Coesfeld, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-03-11"}, // Schulgebäude Ludwigsburg, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-11"}, // Recklinghausen, Einbrüche
+{"coords": [8.6372, 49.6419], "date": "2026-03-11"}, // Heppenheim, Diebstahl
+{"coords": [7.4836, 53.4711], "date": "2026-03-11"}, // Farbschmierereien Landkreis Aurich, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-11"}, // Giessen, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-03-11"}, // Einbruch Aalen, Einbruch
+{"coords": [8.9833, 50.1667], "date": "2026-03-11"}, // Zeugen Erlensee, Diebstahl

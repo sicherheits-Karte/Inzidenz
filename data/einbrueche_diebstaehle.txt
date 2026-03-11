@@ -12784,3 +12784,5 @@
 //{"coords": [], "date": "2026-03-10"} // Kreis, Raub
 {"coords": [8.7917, 51.9917], "date": "2026-03-10"}, // hilfloser Lage befand, sind abgeschlossen. Die Person konnte kurz vor, Raub
 //{"coords": [], "date": "2026-03-11"} // Jünkerath, Diebstähle
+//{"coords": [], "date": "2026-03-11"} // Wohnmobil Bergisch Gladbach, gestohlen
+{"coords": [7.15, 50.0], "date": "2026-03-11"}, // Personenschaden Klausen, klau

@@ -12822,3 +12822,13 @@
 {"coords": [7.6667, 51.5833], "date": "2026-03-11"}, // Einfamilienhaus Kamen, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-03-11"}, // Diepholz, Einbruch
 {"coords": [10.3333, 52.15], "date": "2026-03-11"}, // Salzgitter, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-03-11"}, // Gelsenkirchen, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-03-11"}, // Lippe, Einbruch
+{"coords": [7.0667, 52.1], "date": "2026-03-11"}, // Lagerhalle Heek, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-03-11"}, // Gronau, eingebrochen
+{"coords": [7.0333, 52.2167], "date": "2026-03-11"}, // Gronau, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-03-11"}, // Landkreis Heilbronn, aufbruch
+{"coords": [9.2167, 48.4833], "date": "2026-03-11"}, // Reutlingen, Einbrüche
+{"coords": [8.5833, 53.55], "date": "2026-03-11"}, // Mitte, Diebstahl
+{"coords": [10.7333, 50.65], "date": "2026-03-11"}, // Mehlis, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-03-11"}, // Zeugen Osnabrück, Raub

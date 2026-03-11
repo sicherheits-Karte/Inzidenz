@@ -12892,3 +12892,5 @@
 //{"coords": [], "date": "2026-03-11"} // Kein Ort gefunden, entwendet
 {"coords": [9.2167, 48.4833], "date": "2026-03-11"}, // Raubdelikt Reutlingen, Einbruch
 //{"coords": [], "date": "2026-03-11"} // Feuerwehrgerätehaus Kaltohmfeld, Einbrecher
+//{"coords": [], "date": "2026-03-11"} // Schotten, Raub
+{"coords": [8.9519, 49.9667], "date": "2026-03-11"}, // Babenhausen, entwendet

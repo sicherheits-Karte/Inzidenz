@@ -12814,3 +12814,11 @@
 //{"coords": [], "date": "2026-03-11"} // Kein Ort gefunden, Raub
 {"coords": [7.6333, 51.2167], "date": "2026-03-11"}, // Lüdenscheid, gestohlen
 {"coords": [9.9916, 48.3984], "date": "2026-03-11"}, // Ulm, Raub
+{"coords": [7.45, 51.4], "date": "2026-03-11"}, // Herdecke, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-11"}, // Vechta, Einbruch
+//{"coords": [], "date": "2026-03-11"} // Bürbach, Einbrecher
+//{"coords": [], "date": "2026-03-11"} // Kindergarten BAD DÜRKHEIM, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-03-11"}, // Delmenhorst, Diebstahl
+{"coords": [7.6667, 51.5833], "date": "2026-03-11"}, // Einfamilienhaus Kamen, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-03-11"}, // Diepholz, Einbruch
+{"coords": [10.3333, 52.15], "date": "2026-03-11"}, // Salzgitter, Diebstahl

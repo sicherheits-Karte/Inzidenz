@@ -12796,3 +12796,14 @@
 {"coords": [8.2711, 50.0], "date": "2026-03-11"}, // Präventionsveranstaltung Mainz, Einbruch
 {"coords": [8.7333, 49.5833], "date": "2026-03-11"}, // Mörlenbach, stehlen
 {"coords": [7.2417, 52.7922], "date": "2026-03-11"}, // Haren, entwendet
+{"coords": [10.955, 52.1381], "date": "2026-03-11"}, // Tieflöffel Schöningen, Diebstahl
+{"coords": [7.35, 52.15], "date": "2026-03-11"}, // Steinfurt, entwendet
+{"coords": [8.8678, 49.9228], "date": "2026-03-11"}, // Münster, Einbruch
+{"coords": [10.95, 50.8333], "date": "2026-03-11"}, // Arnstadt, entwendet
+{"coords": [10.95, 50.8333], "date": "2026-03-11"}, // Fahrzeug Arnstadt, Diebstahl
+//{"coords": [], "date": "2026-03-11"} // der Zeit zwischen, entwendet
+//{"coords": [], "date": "2026-03-11"} // der Straße, entwendet
+{"coords": [7.3778, 51.0194], "date": "2026-03-11"}, // Lindlar, gestohlen
+{"coords": [10.7183, 50.9489], "date": "2026-03-11"}, // Gotha, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-03-11"}, // Nordhausen, Dieb
+//{"coords": [], "date": "2026-03-11"} // Kyffhäuserland, Dieb

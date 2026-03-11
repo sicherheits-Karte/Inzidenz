@@ -12853,3 +12853,9 @@
 {"coords": [10.0, 51.7064], "date": "2026-03-11"}, // Sattelauflieger Northeim, Diebstahl
 {"coords": [9.9916, 48.3984], "date": "2026-03-11"}, // Ulm, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-03-11"}, // Auto Northeim, Diebstahl
+{"coords": [9.4108, 53.1111], "date": "2026-03-11"}, // Rotenburg, Einbruch
+{"coords": [12.1764, 53.7944], "date": "2026-03-11"}, // eigener Wohnung zum Opfer einer Raubstraftat Güstrow, Raub
+{"coords": [10.4278, 51.9042], "date": "2026-03-11"}, // Goslar, Diebstahl
+//{"coords": [], "date": "2026-03-11"} // Hilfarth, Einbrecher
+//{"coords": [], "date": "2026-03-11"} // Dalheim, Einbruch
+//{"coords": [], "date": "2026-03-11"} // Klinkum, entwendet

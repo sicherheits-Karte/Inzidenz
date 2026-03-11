@@ -12859,3 +12859,16 @@
 //{"coords": [], "date": "2026-03-11"} // Hilfarth, Einbrecher
 //{"coords": [], "date": "2026-03-11"} // Dalheim, Einbruch
 //{"coords": [], "date": "2026-03-11"} // Klinkum, entwendet
+{"coords": [8.8678, 49.9228], "date": "2026-03-11"}, // Einbruchschutz Münster, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-03-11"}, // Diebesguts Frankfurt, Diebstahl
+{"coords": [10.4, 53.25], "date": "2026-03-11"}, // Lüneburg, Diebstahl
+//{"coords": [], "date": "2026-03-11"} // Personenschaden Niefern, Raub
+{"coords": [9.9333, 52.9667], "date": "2026-03-11"}, // Hinweise Heidekreis, Diebstähle
+{"coords": [9.2167, 48.0833], "date": "2026-03-11"}, // Landkreis Sigmaringen Landkreis Sigmaringen, eingebrochen
+{"coords": [8.24, 50.0822], "date": "2026-03-11"}, // Einbrüche Wiesbaden, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-03-11"}, // Kindergarten Ludwigsburg, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-03-11"}, // Wilhelmshaven, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-03-11"}, // Tag Gütersloh, Einbruch
+{"coords": [11.55, 51.1167], "date": "2026-03-11"}, // Junge Eckartsberga, Raub
+{"coords": [9.5083, 49.9833], "date": "2026-03-11"}, // Rechtenbach, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2026-03-11"}, // Kassel, Diebstähle

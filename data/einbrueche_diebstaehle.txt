@@ -12792,3 +12792,7 @@
 {"coords": [8.1092, 51.5711], "date": "2026-03-11"}, // Rastplatz Soester Börde Süd Soest, Diebstahl
 {"coords": [8.3667, 51.45], "date": "2026-03-11"}, // Warstein, Diebstahl
 //{"coords": [], "date": "2026-03-11"} // Kupferkessel Lochum, Diebstahl
+{"coords": [8.2146, 53.1434], "date": "2026-03-11"}, // Oldenburg, aufbruch
+{"coords": [8.2711, 50.0], "date": "2026-03-11"}, // Präventionsveranstaltung Mainz, Einbruch
+{"coords": [8.7333, 49.5833], "date": "2026-03-11"}, // Mörlenbach, stehlen
+{"coords": [7.2417, 52.7922], "date": "2026-03-11"}, // Haren, entwendet

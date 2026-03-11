@@ -12842,3 +12842,14 @@
 {"coords": [9.55, 49.3167], "date": "2026-03-11"}, // Diebstähle Hohenlohekreis, Diebstähle
 {"coords": [7.1861, 49.6583], "date": "2026-03-11"}, // Kupferkabel Birkenfeld, Diebstahl
 {"coords": [8.8667, 51.9333], "date": "2026-03-11"}, // Lippe, entwendet
+//{"coords": [], "date": "2026-03-11"} // Villingen, Einbruch
+{"coords": [11.5167, 53.5333], "date": "2026-03-11"}, // Banzkow Banzkow, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-03-11"}, // Osnabrück, Diebstahl
+//{"coords": [], "date": "2026-03-11"} // Polizei Porta Westfalica, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-03-11"}, // Zeugen Münster, entwendet
+{"coords": [6.6178, 51.6589], "date": "2026-03-11"}, // Diebstahl Wesel, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-03-11"}, // Darmstadt, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-03-11"}, // Hildesheim, entwendet
+{"coords": [10.0, 51.7064], "date": "2026-03-11"}, // Sattelauflieger Northeim, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-03-11"}, // Ulm, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-03-11"}, // Auto Northeim, Diebstahl

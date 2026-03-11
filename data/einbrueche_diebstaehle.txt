@@ -12889,3 +12889,6 @@
 {"coords": [10.1228, 54.3233], "date": "2026-03-11"}, // Kiel, Raub
 {"coords": [9.5, 51.3167], "date": "2026-03-11"}, // Kassel, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2026-03-11"}, // Emden, Einbruch
+//{"coords": [], "date": "2026-03-11"} // Kein Ort gefunden, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-03-11"}, // Raubdelikt Reutlingen, Einbruch
+//{"coords": [], "date": "2026-03-11"} // Feuerwehrgerätehaus Kaltohmfeld, Einbrecher

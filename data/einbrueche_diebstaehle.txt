@@ -12882,3 +12882,10 @@
 {"coords": [8.6833, 50.5833], "date": "2026-03-11"}, // Giessen, Dieb
 {"coords": [10.0936, 48.8372], "date": "2026-03-11"}, // Einbruch Aalen, Einbruch
 {"coords": [8.9833, 50.1667], "date": "2026-03-11"}, // Zeugen Erlensee, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-11"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4833, 48.0], "date": "2026-03-11"}, // Bräunlingen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-03-11"}, // Zusammenstoß Limburg, Dieb
+{"coords": [8.4414, 50.0919], "date": "2026-03-11"}, // Hofheim, entwendet
+{"coords": [10.1228, 54.3233], "date": "2026-03-11"}, // Kiel, Raub
+{"coords": [9.5, 51.3167], "date": "2026-03-11"}, // Kassel, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-11"}, // Emden, Einbruch

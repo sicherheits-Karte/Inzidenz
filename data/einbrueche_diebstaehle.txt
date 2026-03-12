@@ -12900,3 +12900,13 @@
 //{"coords": [], "date": "2026-03-12"} // Kein Ort gefunden, gestohlen
 {"coords": [12.0799, 50.8772], "date": "2026-03-12"}, // Gera, Diebstahl
 {"coords": [12.4333, 50.985], "date": "2026-03-12"}, // Altenburg, entwendet
+//{"coords": [], "date": "2026-03-12"} // Scooter Bad Münder, Raub
+{"coords": [8.4222, 53.3417], "date": "2026-03-12"}, // Ovelgönne Delmenhorst, entwendet
+{"coords": [7.3194, 52.5236], "date": "2026-03-12"}, // Wohnhaus Lingen, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-03-12"}, // Lebensmittelgeschäft Meppen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-12"}, // Beleidigung Aalen, Diebstahl
+{"coords": [8.6833, 52.15], "date": "2026-03-12"}, // Fahrzeug Herford, Diebstahl
+{"coords": [7.4044, 53.0772], "date": "2026-03-12"}, // Restaurant Papenburg, Einbruch
+{"coords": [8.5861, 52.1983], "date": "2026-03-12"}, // Seniorin Bünde, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-03-12"}, // Gebäude Meppen, Einbruch
+{"coords": [6.6, 51.55], "date": "2026-03-12"}, // Hinweise Rheinberg, Einbruch

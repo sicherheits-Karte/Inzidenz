@@ -12926,3 +12926,8 @@
 {"coords": [7.1675, 51.9436], "date": "2026-03-12"}, // Einbruch Coesfeld, Einbruch
 //{"coords": [], "date": "2026-03-12"} // Nachtragsmeldung, gestohlen
 {"coords": [9.9916, 48.3984], "date": "2026-03-12"}, // Ulm, Einbrecher
+{"coords": [8.6514, 49.8728], "date": "2026-03-12"}, // Darmstadt, gestohlen
+{"coords": [8.875, 53.05], "date": "2026-03-12"}, // Osterholz, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2026-03-12"}, // Nordhorn, Raub
+{"coords": [8.35, 51.3167], "date": "2026-03-12"}, // Hochsauerlandkreis, Einbruch
+{"coords": [10.4333, 51.3667], "date": "2026-03-12"}, // Wohnung Niederorschel, Einbrecher

@@ -12895,3 +12895,8 @@
 //{"coords": [], "date": "2026-03-11"} // Schotten, Raub
 {"coords": [8.9519, 49.9667], "date": "2026-03-11"}, // Babenhausen, entwendet
 //{"coords": [], "date": "2026-03-11"} // Staadt, Diebstahl
+//{"coords": [], "date": "2026-03-12"} // Holzland, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-03-12"}, // Böses Erwachen Jena, Diebstahl
+//{"coords": [], "date": "2026-03-12"} // Kein Ort gefunden, gestohlen
+{"coords": [12.0799, 50.8772], "date": "2026-03-12"}, // Gera, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-03-12"}, // Altenburg, entwendet

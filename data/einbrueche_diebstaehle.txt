@@ -12992,3 +12992,7 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-12"}, // Schulraum Aalen, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-03-12"}, // Ludwigshafen, Diebstahl
 {"coords": [8.4403, 49.3953], "date": "2026-03-12"}, // Waldsee, Einbrüche
+{"coords": [8.4414, 50.0919], "date": "2026-03-12"}, // Hofheim, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-12"}, // Recklinghausen, Einbrüche
+{"coords": [8.35, 51.3167], "date": "2026-03-12"}, // Einbruchskriminalität Hochsauerlandkreis, Einbruch
+{"coords": [8.7236, 48.5522], "date": "2026-03-12"}, // Nagold, Einbrecher

@@ -12976,3 +12976,10 @@
 {"coords": [8.5331, 52.021], "date": "2026-03-12"}, // Bielefeld, Einbrecher
 //{"coords": [], "date": "2026-03-12"} // Main, Einbrecher
 //{"coords": [], "date": "2026-03-12"} // Kreis, Dieb
+{"coords": [6.6264, 51.4519], "date": "2026-03-12"}, // Moers, Einbruch
+//{"coords": [], "date": "2026-03-12"} // Nacht Amrum, Diebstahl
+{"coords": [7.0333, 52.2167], "date": "2026-03-12"}, // Gronau, entwendet
+{"coords": [9.2844, 51.045], "date": "2026-03-12"}, // Einfamilienhaus Borken, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-03-12"}, // Delmenhorst, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-03-12"}, // Köln, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-03-12"}, // Köln, Dieb

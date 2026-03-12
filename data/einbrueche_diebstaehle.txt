@@ -12922,3 +12922,7 @@
 {"coords": [8.0472, 52.2799], "date": "2026-03-12"}, // Hinweise Osnabrück, Diebstahl
 {"coords": [8.0, 53.5333], "date": "2026-03-12"}, // Straße Mühlenweg Schortens, Diebstahl
 {"coords": [7.75, 51.6333], "date": "2026-03-12"}, // Herringen, Diebstahl
+{"coords": [8.9944, 49.6561], "date": "2026-03-12"}, // Erbach, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-12"}, // Einbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2026-03-12"} // Nachtragsmeldung, gestohlen
+{"coords": [9.9916, 48.3984], "date": "2026-03-12"}, // Ulm, Einbrecher

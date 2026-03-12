@@ -12910,3 +12910,15 @@
 {"coords": [8.5861, 52.1983], "date": "2026-03-12"}, // Seniorin Bünde, Diebstahl
 {"coords": [7.2908, 52.6906], "date": "2026-03-12"}, // Gebäude Meppen, Einbruch
 {"coords": [6.6, 51.55], "date": "2026-03-12"}, // Hinweise Rheinberg, Einbruch
+//{"coords": [], "date": "2026-03-12"} // Glöbusch entwendet mehr, entwendet
+{"coords": [6.1353, 51.7875], "date": "2026-03-12"}, // Kleve, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-03-12"}, // Tankstellenraub Ratzeburg, Raub
+//{"coords": [], "date": "2026-03-12"} // Frasselt, entwendet
+{"coords": [8.2146, 53.1434], "date": "2026-03-12"}, // Zeugen Oldenburg, Raub
+{"coords": [6.2917, 51.7392], "date": "2026-03-12"}, // Kalkar, entwendet
+//{"coords": [], "date": "2026-03-12"} // Einbrecher Bergisch Gladbach, Einbruch
+{"coords": [9.4667, 53.95], "date": "2026-03-12"}, // Tankstelle Hessisch Oldendorf, Räuber
+{"coords": [9.2639, 52.0494], "date": "2026-03-12"}, // Grabschmuck Aerzen, Diebstähle
+{"coords": [8.0472, 52.2799], "date": "2026-03-12"}, // Hinweise Osnabrück, Diebstahl
+{"coords": [8.0, 53.5333], "date": "2026-03-12"}, // Straße Mühlenweg Schortens, Diebstahl
+{"coords": [7.75, 51.6333], "date": "2026-03-12"}, // Herringen, Diebstahl

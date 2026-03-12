@@ -12931,3 +12931,12 @@
 {"coords": [7.0667, 52.4333], "date": "2026-03-12"}, // Nordhorn, Raub
 {"coords": [8.35, 51.3167], "date": "2026-03-12"}, // Hochsauerlandkreis, Einbruch
 {"coords": [10.4333, 51.3667], "date": "2026-03-12"}, // Wohnung Niederorschel, Einbrecher
+{"coords": [9.6775, 50.5528], "date": "2026-03-12"}, // Snackautomat Fulda, aufbruch
+{"coords": [12.0333, 49.8667], "date": "2026-03-12"}, // Haus Freiburg, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-03-12"}, // Recklinghausen, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-03-12"}, // Seniorin Ludwigsburg, stahl
+{"coords": [9.3833, 50.6333], "date": "2026-03-12"}, // Bargeld Vogelsbergkreis, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-12"}, // Ludwigsburg, stahl
+{"coords": [9.8, 53.6592], "date": "2026-03-12"}, // Zeugenaufruf Pinneberg, Einbruch
+{"coords": [8.0739, 48.6311], "date": "2026-03-12"}, // Achern, gestohlen
+{"coords": [7.1675, 51.9436], "date": "2026-03-12"}, // Versuchter Einbruch Coesfeld, Einbruch

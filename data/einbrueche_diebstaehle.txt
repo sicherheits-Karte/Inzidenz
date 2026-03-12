@@ -12964,3 +12964,7 @@
 {"coords": [10.8978, 48.3705], "date": "2026-03-12"}, // Sachbeschädigung Augsburg, Diebstahl
 //{"coords": [], "date": "2026-03-12"} // Goldkette Letmathe, Diebstahl
 {"coords": [7.0116, 51.4556], "date": "2026-03-12"}, // Essen, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-03-12"}, // Emden, Einbruch
+{"coords": [7.18, 49.3439], "date": "2026-03-12"}, // Ladendiebstählen Neunkirchen, Diebstahl
+{"coords": [12.0991, 54.0924], "date": "2026-03-12"}, // Landkreis Rostock, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-03-12"}, // Kassel, Dieb

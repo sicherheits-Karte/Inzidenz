@@ -12983,3 +12983,12 @@
 {"coords": [8.6306, 53.05], "date": "2026-03-12"}, // Delmenhorst, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-03-12"}, // Köln, Diebstahl
 {"coords": [6.9603, 50.9375], "date": "2026-03-12"}, // Köln, Dieb
+//{"coords": [], "date": "2026-03-12"} // Höhe, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-12"}, // Getränkefachmarkt Ludwigsburg, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-03-12"}, // Wohngebiet Spitzholz Ludwigsburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-12"}, // Giessen, Einbruch
+{"coords": [8.6267, 48.1678], "date": "2026-03-12"}, // Rottweil, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-12"}, // Ludwigsburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-12"}, // Schulraum Aalen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-03-12"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4403, 49.3953], "date": "2026-03-12"}, // Waldsee, Einbrüche

@@ -13020,3 +13020,8 @@
 {"coords": [11.3239, 50.9795], "date": "2026-03-13"}, // Aufmerksamer Zeuge Weimar, gestohlen
 //{"coords": [], "date": "2026-03-13"} // Wattenscheid, Raub
 {"coords": [8.8494, 51.4611], "date": "2026-03-13"}, // Marsberg Marsberg, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-03-13"}, // Gaststättenkontrolle Heilbronn, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-03-13"}, // Tiefe Duisburg, Raub
+{"coords": [6.5167, 51.4833], "date": "2026-03-13"}, // Lintfort, entwendet
+{"coords": [8.1092, 51.5711], "date": "2026-03-13"}, // Kindertagesstätte Soest, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-13"}, // Versuchter Einbruch Coesfeld, Einbruch

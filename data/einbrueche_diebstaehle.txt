@@ -13103,3 +13103,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-13"}, // Diebstahl Aalen, Diebstahl
 //{"coords": [], "date": "2026-03-13"} // Kein Ort gefunden, Einbruch
 {"coords": [8.8678, 49.9228], "date": "2026-03-13"}, // Münster, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-03-13"}, // Hofheim, Einbruch
+{"coords": [11.1, 48.7167], "date": "2026-03-13"}, // Oberhausen, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2026-03-13"}, // Zeugenaufruf Heidelberg, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-03-13"}, // Ludwigsburg, gestohlen
+//{"coords": [], "date": "2026-03-13"} // Arnach am vergangenen Wochenende, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-03-13"}, // Wohnhaus Ludwigsburg, Einbruch

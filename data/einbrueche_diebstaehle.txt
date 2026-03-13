@@ -13109,3 +13109,4 @@
 {"coords": [9.1919, 48.8975], "date": "2026-03-13"}, // Ludwigsburg, gestohlen
 //{"coords": [], "date": "2026-03-13"} // Arnach am vergangenen Wochenende, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-03-13"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-03-13"}, // Hannover, Raub

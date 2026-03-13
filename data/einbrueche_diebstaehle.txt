@@ -13010,3 +13010,13 @@
 //{"coords": [], "date": "2026-03-13"} // Loßburg, Einbruch
 {"coords": [10.8, 53.4833], "date": "2026-03-13"}, // Phantombild Greven, Raub
 {"coords": [6.6264, 51.4519], "date": "2026-03-13"}, // Moers, Einbruch
+//{"coords": [], "date": "2026-03-13"} // Wohnung Mönsheim, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-03-13"}, // Mainz, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2026-03-13"}, // Archigymnasium Soest, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-13"}, // Unfallflucht Aalen, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-03-13"}, // Warendorf, Einbruch
+//{"coords": [], "date": "2026-03-13"} // Saale- Holzland, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-03-13"}, // Jena, Dieb
+{"coords": [11.3239, 50.9795], "date": "2026-03-13"}, // Aufmerksamer Zeuge Weimar, gestohlen
+//{"coords": [], "date": "2026-03-13"} // Wattenscheid, Raub
+{"coords": [8.8494, 51.4611], "date": "2026-03-13"}, // Marsberg Marsberg, Einbruch

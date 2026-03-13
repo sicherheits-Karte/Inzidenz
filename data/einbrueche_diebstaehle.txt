@@ -13079,3 +13079,11 @@
 {"coords": [8.35, 49.5333], "date": "2026-03-13"}, // Frankenthal, Raub
 {"coords": [6.85, 49.3], "date": "2026-03-13"}, // Bad Schwalbach, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-03-13"}, // Limburg, Einbrüche
+{"coords": [8.8386, 48.9511], "date": "2026-03-13"}, // Zeugen Mühlacker, Einbrüche
+{"coords": [8.4661, 49.4878], "date": "2026-03-13"}, // Zeugenaufruf Mannheim, Räuber
+//{"coords": [], "date": "2026-03-13"} // Höhe, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-03-13"}, // Unfall Heidekreis, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-03-13"}, // Auto Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-03-13"}, // Gartenanlage Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-03-13"}, // Erdgeschosswohnung Erfurt, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-03-13"}, // Geweihen Landkreis Sömmerda, Diebstahl

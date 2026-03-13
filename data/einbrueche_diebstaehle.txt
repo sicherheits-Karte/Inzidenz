@@ -13110,3 +13110,4 @@
 //{"coords": [], "date": "2026-03-13"} // Arnach am vergangenen Wochenende, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-03-13"}, // Wohnhaus Ludwigsburg, Einbruch
 {"coords": [9.732, 52.3759], "date": "2026-03-13"}, // Hannover, Raub
+{"coords": [12.9589, 47.7244], "date": "2026-03-13"}, // Moos, Einbruch

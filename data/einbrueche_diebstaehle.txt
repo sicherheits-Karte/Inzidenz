@@ -12996,3 +12996,4 @@
 {"coords": [7.2, 51.6167], "date": "2026-03-12"}, // Recklinghausen, Einbrüche
 {"coords": [8.35, 51.3167], "date": "2026-03-12"}, // Einbruchskriminalität Hochsauerlandkreis, Einbruch
 {"coords": [8.7236, 48.5522], "date": "2026-03-12"}, // Nagold, Einbrecher
+{"coords": [8.7167, 49.9167], "date": "2026-03-13"}, // Personenschaden Messel, Dieb

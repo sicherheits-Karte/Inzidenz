@@ -13058,3 +13058,13 @@
 //{"coords": [], "date": "2026-03-13"} // Kreis, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-03-13"}, // Diebstahl Gelsenkirchen, Diebstahl
 {"coords": [8.2711, 50.0], "date": "2026-03-13"}, // Ablenkungsmanövern Mainz- Bretzenheim, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-03-13"}, // Thema Fahrraddiebstahl Düsseldorf, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-03-13"}, // Snackautomat Homberg, Einbruch
+{"coords": [8.5, 50.55], "date": "2026-03-13"}, // Wetzlar, Aßlar und Herborn mehr, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-03-13"}, // Lippe, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-03-13"}, // Fulda, Einbruch
+//{"coords": [], "date": "2026-03-13"} // Kein Ort gefunden, Diebstahl
+{"coords": [9.0258, 48.2144], "date": "2026-03-13"}, // Albstadt Reutlingen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-03-13"}, // Gartenhütte Homberg, Einbruch
+{"coords": [8.4833, 48.0], "date": "2026-03-13"}, // Bräunlingen, Einbrüche
+//{"coords": [], "date": "2026-03-13"} // Kreis, klau

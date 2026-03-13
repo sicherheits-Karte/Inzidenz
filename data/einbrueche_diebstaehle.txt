@@ -13094,3 +13094,12 @@
 {"coords": [10.7956, 51.5019], "date": "2026-03-13"}, // Nordhausen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-13"}, // Aalen, eingebrochen
 {"coords": [9.2108, 49.1425], "date": "2026-03-13"}, // Pkw Heilbronn, Diebstähle
+{"coords": [9.1919, 48.8975], "date": "2026-03-13"}, // Lkw Ludwigsburg, Diebstahl
+{"coords": [8.6372, 49.6419], "date": "2026-03-13"}, // Diebstahl Heppenheim, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-03-13"}, // Schmuckgeschäft Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-13"}, // Freiburg, Diebstahl
+{"coords": [7.6333, 51.2167], "date": "2026-03-13"}, // Ladendiebin Lüdenscheid, Dieb
+{"coords": [8.24, 50.0822], "date": "2026-03-13"}, // Einbrüche Wiesbaden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-13"}, // Diebstahl Aalen, Diebstahl
+//{"coords": [], "date": "2026-03-13"} // Kein Ort gefunden, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-03-13"}, // Münster, Diebstahl

@@ -13112,3 +13112,4 @@
 {"coords": [9.732, 52.3759], "date": "2026-03-13"}, // Hannover, Raub
 {"coords": [12.9589, 47.7244], "date": "2026-03-13"}, // Moos, Einbruch
 {"coords": [8.2711, 50.0], "date": "2026-03-13"}, // Mainz, Einbrecher
+{"coords": [8.24, 50.0822], "date": "2026-03-13"}, // Wiesbaden, entwendet

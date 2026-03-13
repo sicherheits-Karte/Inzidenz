@@ -13068,3 +13068,11 @@
 {"coords": [9.0, 50.7333], "date": "2026-03-13"}, // Gartenhütte Homberg, Einbruch
 {"coords": [8.4833, 48.0], "date": "2026-03-13"}, // Bräunlingen, Einbrüche
 //{"coords": [], "date": "2026-03-13"} // Kreis, klau
+{"coords": [7.0116, 51.4556], "date": "2026-03-13"}, // Zeugenaufruf Essen, entwendet
+{"coords": [9.5, 51.3167], "date": "2026-03-13"}, // Kassel, Dieb
+{"coords": [8.1075, 53.5219], "date": "2026-03-13"}, // Heizungszentralanlage Wilhelmshaven, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-03-13"}, // Schmuck Euskirchen, Diebstahl
+//{"coords": [], "date": "2026-03-13"} // Rövenich, entwendet
+{"coords": [8.1092, 51.5711], "date": "2026-03-13"}, // Soest, Diebstahl
+//{"coords": [], "date": "2026-03-13"} // Hilzingen, Einbruch
+{"coords": [6.8, 51.0], "date": "2026-03-13"}, // Zeugensuche Pulheim, gestohlen

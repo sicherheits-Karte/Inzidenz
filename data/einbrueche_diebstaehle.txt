@@ -13038,3 +13038,14 @@
 //{"coords": [], "date": "2026-03-13"} // Uentrop, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-03-13"}, // Ulm, gestohlen
 {"coords": [9.2108, 49.1425], "date": "2026-03-13"}, // Einbrecher Heilbronn, Einbruch
+{"coords": [10.1167, 50.7167], "date": "2026-03-13"}, // Dermbach, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-03-13"}, // Gütersloh, Einbrüche
+//{"coords": [], "date": "2026-03-13"} // Kein Ort gefunden, Dieb
+{"coords": [10.3333, 49.1667], "date": "2026-03-13"}, // Feuchtwangen, aufbrüche
+{"coords": [8.5331, 52.021], "date": "2026-03-13"}, // Seniorin Bielefeld, Raub
+//{"coords": [], "date": "2026-03-13"} // Nordkreis Niederzier, Diebstähle
+{"coords": [7.2197, 51.5428], "date": "2026-03-13"}, // Hinweise Herne, Raub
+{"coords": [7.6333, 51.1], "date": "2026-03-13"}, // Arztpraxis Meinerzhagen, Dieb
+//{"coords": [], "date": "2026-03-13"} // Kreis, Raub
+//{"coords": [], "date": "2026-03-13"} // Kirche Scheuerfeld, Diebstahl
+//{"coords": [], "date": "2026-03-13"} // Bendestorf, gestohlen

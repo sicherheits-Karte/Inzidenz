@@ -13087,3 +13087,10 @@
 {"coords": [11.0299, 50.9848], "date": "2026-03-13"}, // Gartenanlage Erfurt, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-03-13"}, // Erdgeschosswohnung Erfurt, Einbruch
 {"coords": [11.1167, 51.1667], "date": "2026-03-13"}, // Geweihen Landkreis Sömmerda, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-13"}, // Recklinghausen, Einbrüche
+{"coords": [11.4012, 53.6355], "date": "2026-03-13"}, // Untersuchungshaft Schwerin, entwendet
+{"coords": [12.0991, 54.0924], "date": "2026-03-13"}, // Rostock, Dieb
+{"coords": [7.82, 47.99], "date": "2026-03-13"}, // Hoher Sachschaden Freiburg, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2026-03-13"}, // Nordhausen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-13"}, // Aalen, eingebrochen
+{"coords": [9.2108, 49.1425], "date": "2026-03-13"}, // Pkw Heilbronn, Diebstähle

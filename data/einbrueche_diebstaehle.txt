@@ -13025,3 +13025,16 @@
 {"coords": [6.5167, 51.4833], "date": "2026-03-13"}, // Lintfort, entwendet
 {"coords": [8.1092, 51.5711], "date": "2026-03-13"}, // Kindertagesstätte Soest, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-03-13"}, // Versuchter Einbruch Coesfeld, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-03-13"}, // Gotha, Dieb
+{"coords": [7.5667, 51.0833], "date": "2026-03-13"}, // Gummersbach, Raub
+{"coords": [7.6158, 50.8767], "date": "2026-03-13"}, // Waldbröl Waldbröl, Dieb
+{"coords": [7.2056, 50.8014], "date": "2026-03-13"}, // Geschäft Siegburg, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-03-13"}, // Dortmund, Einbrecher
+{"coords": [8.45, 50.0167], "date": "2026-03-13"}, // Visier Raunheim, Einbruch
+//{"coords": [], "date": "2026-03-13"} // Werk Porta Westfalica, Diebstahl
+{"coords": [8.3667, 50.0], "date": "2026-03-13"}, // Schmuck Bischofsheim, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-03-13"}, // Darmstadt, entwendet
+{"coords": [8.6514, 49.8728], "date": "2026-03-13"}, // Zeugen Darmstadt, Dieb
+//{"coords": [], "date": "2026-03-13"} // Uentrop, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-03-13"}, // Ulm, gestohlen
+{"coords": [9.2108, 49.1425], "date": "2026-03-13"}, // Einbrecher Heilbronn, Einbruch

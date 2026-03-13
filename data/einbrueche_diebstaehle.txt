@@ -13049,3 +13049,12 @@
 //{"coords": [], "date": "2026-03-13"} // Kreis, Raub
 //{"coords": [], "date": "2026-03-13"} // Kirche Scheuerfeld, Diebstahl
 //{"coords": [], "date": "2026-03-13"} // Bendestorf, gestohlen
+{"coords": [6.6393, 49.7556], "date": "2026-03-13"}, // Haustürgeschäften Trier, Einbrüche
+{"coords": [8.3833, 51.9], "date": "2026-03-13"}, // Pestalozziweg Gütersloh, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-03-13"}, // Kirrlach Karlsruhe, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-13"}, // Vechta, Diebstahl
+{"coords": [8.0667, 51.1167], "date": "2026-03-13"}, // Fahrraddiebe Lennestadt, Dieb
+{"coords": [7.3333, 51.4333], "date": "2026-03-13"}, // Witten, Einbruch
+//{"coords": [], "date": "2026-03-13"} // Kreis, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-03-13"}, // Diebstahl Gelsenkirchen, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-03-13"}, // Ablenkungsmanövern Mainz- Bretzenheim, Diebstahl

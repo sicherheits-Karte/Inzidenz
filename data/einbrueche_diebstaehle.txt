@@ -13076,3 +13076,6 @@
 {"coords": [8.1092, 51.5711], "date": "2026-03-13"}, // Soest, Diebstahl
 //{"coords": [], "date": "2026-03-13"} // Hilzingen, Einbruch
 {"coords": [6.8, 51.0], "date": "2026-03-13"}, // Zeugensuche Pulheim, gestohlen
+{"coords": [8.35, 49.5333], "date": "2026-03-13"}, // Frankenthal, Raub
+{"coords": [6.85, 49.3], "date": "2026-03-13"}, // Bad Schwalbach, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-03-13"}, // Limburg, Einbrüche

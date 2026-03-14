@@ -13125,3 +13125,5 @@
 {"coords": [7.3333, 52.9667], "date": "2026-03-14"}, // Dörpen, aufbrüche
 {"coords": [7.3167, 52.3333], "date": "2026-03-14"}, // Wohnhaus Emsbüren, Einbruch
 {"coords": [7.25, 52.6167], "date": "2026-03-14"}, // Eisdiele Geeste, Einbruch
+//{"coords": [], "date": "2026-03-14"} // Bäckerei Bad Nenndorf, Einbruch
+//{"coords": [], "date": "2026-03-14"} // Täter Lauenau, Einbruch

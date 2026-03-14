@@ -13143,3 +13143,4 @@
 {"coords": [8.6944, 53.8619], "date": "2026-03-14"}, // Cuxhaven Cuxhaven, Einbruch
 {"coords": [6.8319, 50.1981], "date": "2026-03-14"}, // Frau Daun, Raub
 {"coords": [8.9286, 53.2222], "date": "2026-03-14"}, // Worpswede, Dieb
+{"coords": [8.2146, 53.1434], "date": "2026-03-14"}, // Zeugenaufruf Oldenburg, Diebstahl

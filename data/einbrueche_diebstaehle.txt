@@ -13114,3 +13114,4 @@
 {"coords": [8.2711, 50.0], "date": "2026-03-13"}, // Mainz, Einbrecher
 {"coords": [8.24, 50.0822], "date": "2026-03-13"}, // Wiesbaden, entwendet
 {"coords": [8.4043, 49.014], "date": "2026-03-13"}, // Karlsruhe, entwendet
+{"coords": [7.2417, 52.7922], "date": "2026-03-14"}, // Haren, Diebstahl

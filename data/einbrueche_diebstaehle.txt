@@ -13138,3 +13138,6 @@
 {"coords": [8.2869, 52.7303], "date": "2026-03-14"}, // Vechta, entwendet
 {"coords": [7.7806, 53.5769], "date": "2026-03-14"}, // Wittmund, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-03-14"}, // Brände Reutlingen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-03-14"}, // Einbrüchen Erfurt, Einbrüche
+{"coords": [8.3708, 52.6078], "date": "2026-03-14"}, // Diepholz, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-03-14"}, // Cuxhaven Cuxhaven, Einbruch

@@ -13130,3 +13130,4 @@
 {"coords": [6.3583, 50.9222], "date": "2026-03-14"}, // Jülich, entwendet
 //{"coords": [], "date": "2026-03-14"} // Geschäft Olsberg, Einbruch
 {"coords": [8.5833, 51.3833], "date": "2026-03-14"}, // Tankstelle Brilon, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-03-14"}, // Versuchter Einbruch Aalen, Einbruch

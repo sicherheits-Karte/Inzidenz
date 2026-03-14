@@ -13145,3 +13145,4 @@
 {"coords": [8.9286, 53.2222], "date": "2026-03-14"}, // Worpswede, Dieb
 {"coords": [8.2146, 53.1434], "date": "2026-03-14"}, // Zeugenaufruf Oldenburg, Diebstahl
 {"coords": [13.3878, 54.0931], "date": "2026-03-14"}, // Greifswald gesucht, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-03-15"}, // Bochum, Raub

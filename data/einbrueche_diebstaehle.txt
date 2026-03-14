@@ -13127,3 +13127,6 @@
 {"coords": [7.25, 52.6167], "date": "2026-03-14"}, // Eisdiele Geeste, Einbruch
 //{"coords": [], "date": "2026-03-14"} // Bäckerei Bad Nenndorf, Einbruch
 //{"coords": [], "date": "2026-03-14"} // Täter Lauenau, Einbruch
+{"coords": [6.3583, 50.9222], "date": "2026-03-14"}, // Jülich, entwendet
+//{"coords": [], "date": "2026-03-14"} // Geschäft Olsberg, Einbruch
+{"coords": [8.5833, 51.3833], "date": "2026-03-14"}, // Tankstelle Brilon, Raub

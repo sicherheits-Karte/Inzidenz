@@ -13137,3 +13137,4 @@
 {"coords": [7.5792, 50.4267], "date": "2026-03-14"}, // Bendorf, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2026-03-14"}, // Vechta, entwendet
 {"coords": [7.7806, 53.5769], "date": "2026-03-14"}, // Wittmund, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-03-14"}, // Brände Reutlingen, Einbruch

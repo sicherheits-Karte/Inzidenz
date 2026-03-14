@@ -13118,3 +13118,10 @@
 {"coords": [8.2794, 49.1983], "date": "2026-03-14"}, // Tankstelle Bellheim, Einbruch
 //{"coords": [], "date": "2026-03-14"} // Kandel, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-03-14"}, // Krankenhaus Gelsenkirchen, Diebstahl
+{"coords": [7.4547, 53.2311], "date": "2026-03-14"}, // Leer, Einbruch
+//{"coords": [], "date": "2026-03-14"} // Innenstadt, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-14"}, // Fahrzeug Ludwigshafen, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-03-14"}, // Vechta, Diebstahl
+{"coords": [7.3333, 52.9667], "date": "2026-03-14"}, // Dörpen, aufbrüche
+{"coords": [7.3167, 52.3333], "date": "2026-03-14"}, // Wohnhaus Emsbüren, Einbruch
+{"coords": [7.25, 52.6167], "date": "2026-03-14"}, // Eisdiele Geeste, Einbruch

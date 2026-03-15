@@ -13200,3 +13200,5 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-15"}, // Unfall Aalen, Einbrüche
 {"coords": [8.3708, 52.6078], "date": "2026-03-15"}, // Diepholz, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2026-03-15"}, // Oldenburg, Einbrüche
+//{"coords": [], "date": "2026-03-15"} // Bad, Diebstahl
+//{"coords": [], "date": "2026-03-15"} // Kues, Einbruch

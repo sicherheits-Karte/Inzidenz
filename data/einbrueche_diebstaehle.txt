@@ -13183,3 +13183,6 @@
 {"coords": [6.6153, 51.8367], "date": "2026-03-15"}, // Einfamilienhaus Bocholt, Einbruch
 {"coords": [6.6153, 51.8367], "date": "2026-03-15"}, // Bocholt, Dieb
 //{"coords": [], "date": "2026-03-15"} // Zeugenaufruf Neuhofen, Diebstahl
+{"coords": [10.3175, 51.3153], "date": "2026-03-15"}, // Handgemenge Dingelstädt, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-03-15"}, // Verkehrsunfälle Reutlingen, Einbrüche
+{"coords": [6.85, 49.3], "date": "2026-03-15"}, // Bad Schwalbach, Einbruch

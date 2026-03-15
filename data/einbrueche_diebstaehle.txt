@@ -13207,3 +13207,4 @@
 //{"coords": [], "date": "2026-03-15"} // Verkehrsunfall. Ein, Raub
 //{"coords": [], "date": "2026-03-15"} // Löstertal, Diebstahl
 //{"coords": [], "date": "2026-03-15"} // Nunkirchen, Einbruch
+//{"coords": [], "date": "2026-03-15"} // Bosen, Diebstahl

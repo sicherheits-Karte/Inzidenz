@@ -13151,3 +13151,7 @@
 {"coords": [9.5, 51.3167], "date": "2026-03-15"}, // Remsfeld Kassel, Raub
 {"coords": [10.95, 50.8333], "date": "2026-03-15"}, // Arnstadt, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-03-15"}, // Spielhalle Hildesheim, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-03-15"}, // Kupferdieb Lippe, Dieb
+{"coords": [8.8667, 51.9333], "date": "2026-03-15"}, // Baumarkt Lippe, Einbruch
+{"coords": [7.3167, 52.3333], "date": "2026-03-15"}, // Einfamilienhäusern Emsbüren, Einbrüche
+{"coords": [7.1333, 52.5333], "date": "2026-03-15"}, // Einfamilienhaus Wietmarschen, Einbruch

@@ -13203,3 +13203,4 @@
 //{"coords": [], "date": "2026-03-15"} // Bad, Diebstahl
 //{"coords": [], "date": "2026-03-15"} // Kues, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-03-15"}, // Motorrollers Hofheim, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-03-15"}, // Spiel Gelsenkirchen, Raub

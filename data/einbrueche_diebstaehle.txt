@@ -13182,3 +13182,4 @@
 {"coords": [6.4667, 51.8333], "date": "2026-03-15"}, // Isselburg, Einbrecher
 {"coords": [6.6153, 51.8367], "date": "2026-03-15"}, // Einfamilienhaus Bocholt, Einbruch
 {"coords": [6.6153, 51.8367], "date": "2026-03-15"}, // Bocholt, Dieb
+//{"coords": [], "date": "2026-03-15"} // Zeugenaufruf Neuhofen, Diebstahl

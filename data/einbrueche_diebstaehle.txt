@@ -13175,3 +13175,10 @@
 {"coords": [7.7833, 49.1167], "date": "2026-03-15"}, // der Industriestraße in Dahn-Reichenbach zu einem Einbruchsversuch. Unbekannte Täter hatten versucht in eine dortige Lagerhalle einer Firma einzubrechen. Hierzu machten sie sich an der Zugangstür zu schaffen und schlugen eine Scheibe ein. Nach dem bisherigen Ermittlungsstand konnten die Täter keine Beute erlangen. Der geschätzte Sachschaden, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-03-15"}, // Reihenhaus Delmenhorst, Einbruch
 //{"coords": [], "date": "2026-03-15"} // Straßengraben entsorgt mehr, gestohlen
+{"coords": [7.6158, 50.8767], "date": "2026-03-15"}, // Waldbröl, gestohlen
+//{"coords": [], "date": "2026-03-15"} // Schöppingen, entwendet
+{"coords": [7.0, 51.8333], "date": "2026-03-15"}, // Reken, entwendet
+{"coords": [7.0, 51.8333], "date": "2026-03-15"}, // Reken, Dieb
+{"coords": [6.4667, 51.8333], "date": "2026-03-15"}, // Isselburg, Einbrecher
+{"coords": [6.6153, 51.8367], "date": "2026-03-15"}, // Einfamilienhaus Bocholt, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-03-15"}, // Bocholt, Dieb

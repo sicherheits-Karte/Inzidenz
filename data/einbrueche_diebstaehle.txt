@@ -13190,3 +13190,4 @@
 {"coords": [11.0767, 49.4521], "date": "2026-03-15"}, // Festnahme Nürnberg, Dieb
 {"coords": [10.95, 49.4333], "date": "2026-03-15"}, // Zirndorf, Einbruch
 {"coords": [12.06, 50.7742], "date": "2026-03-15"}, // Psychiatrie Weida, entwendet
+{"coords": [10.4, 53.25], "date": "2026-03-15"}, // Lüneburg, Einbrüche

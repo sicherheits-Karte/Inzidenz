@@ -13155,3 +13155,16 @@
 {"coords": [8.8667, 51.9333], "date": "2026-03-15"}, // Baumarkt Lippe, Einbruch
 {"coords": [7.3167, 52.3333], "date": "2026-03-15"}, // Einfamilienhäusern Emsbüren, Einbrüche
 {"coords": [7.1333, 52.5333], "date": "2026-03-15"}, // Einfamilienhaus Wietmarschen, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-15"}, // Emden, Diebstahl
+{"coords": [7.2931, 51.2861], "date": "2026-03-15"}, // Schwelm, entwendet
+{"coords": [7.1856, 51.3994], "date": "2026-03-15"}, // Einfamilienhaus Hattingen, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-15"}, // Emden, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2026-03-15"}, // Unna, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-03-15"}, // Wochenende Nordhausen, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2026-03-15"}, // Bestattungsunternehmens Schwerte, Einbruch
+{"coords": [6.6528, 50.5931], "date": "2026-03-15"}, // Mechernich, aufbruch
+{"coords": [6.6667, 50.7], "date": "2026-03-15"}, // Zülpich, Diebstahl
+//{"coords": [], "date": "2026-03-15"} // Hochstadt, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-15"}, // Vechta, Einbruch
+{"coords": [8.2833, 51.35], "date": "2026-03-15"}, // Geschäft Meschede, Einbruch
+{"coords": [10.2333, 52.3203], "date": "2026-03-15"}, // Peine, Einbruch

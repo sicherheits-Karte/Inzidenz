@@ -13191,3 +13191,12 @@
 {"coords": [10.95, 49.4333], "date": "2026-03-15"}, // Zirndorf, Einbruch
 {"coords": [12.06, 50.7742], "date": "2026-03-15"}, // Psychiatrie Weida, entwendet
 {"coords": [10.4, 53.25], "date": "2026-03-15"}, // Lüneburg, Einbrüche
+{"coords": [9.2769, 48.8092], "date": "2026-03-15"}, // Fellbach Aalen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-03-15"}, // Limburg, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-03-15"}, // Gotha, entwendet
+//{"coords": [], "date": "2026-03-15"} // E-Bike der Marke Trek mit einer Rahmen Farbe weinrot, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-03-15"}, // Einbruch Aalen, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-03-15"}, // Wilhelmshaven, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-15"}, // Unfall Aalen, Einbrüche
+{"coords": [8.3708, 52.6078], "date": "2026-03-15"}, // Diepholz, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-03-15"}, // Oldenburg, Einbrüche

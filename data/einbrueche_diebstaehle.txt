@@ -13255,3 +13255,13 @@
 {"coords": [7.0667, 52.4333], "date": "2026-03-16"}, // Nordhorn, entwendet
 {"coords": [6.7623, 51.4344], "date": "2026-03-16"}, // Zeugensuche Duisburg, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-03-16"}, // Sachbeschädigung Reutlingen, Einbrüche
+//{"coords": [], "date": "2026-03-16"} // Polizeipräsidium Südhessen POL-DA, Dieb
+{"coords": [7.95, 50.9333], "date": "2026-03-16"}, // Kreuztal, Diebstähle
+{"coords": [9.95, 52.15], "date": "2026-03-16"}, // Hildesheim, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-03-16"}, // Frankfurt, gestohlen
+{"coords": [8.5847, 53.5469], "date": "2026-03-16"}, // Zeugen Bremerhaven, Diebstahl
+{"coords": [7.2056, 50.8014], "date": "2026-03-16"}, // Zeugen Siegburg, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-03-16"}, // Polizeiinspektion Hildesheim POL-HI, Dieb
+{"coords": [6.9603, 50.9375], "date": "2026-03-16"}, // Köln, Raub
+{"coords": [8.4043, 49.014], "date": "2026-03-16"}, // Einfamilienhaus Karlsruhe, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-03-16"}, // Zeugen Düsseldorf, Raub

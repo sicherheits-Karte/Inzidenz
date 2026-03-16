@@ -13245,3 +13245,13 @@
 {"coords": [7.6333, 51.2167], "date": "2026-03-16"}, // Kabeldiebe Lüdenscheid, Einbruch
 {"coords": [9.8, 53.6592], "date": "2026-03-16"}, // Zeugen Pinneberg, Einbruch
 {"coords": [7.2, 51.6167], "date": "2026-03-16"}, // Recklinghausen, Diebstahl
+{"coords": [8.225, 51.9625], "date": "2026-03-16"}, // Harsewinkel Gütersloh, Einbruch
+//{"coords": [], "date": "2026-03-16"} // Kreis, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-03-16"}, // Northeim, geklaut
+{"coords": [8.7667, 50.1], "date": "2026-03-16"}, // Kreis Offenbach, Diebstahl
+{"coords": [10.4508, 50.7211], "date": "2026-03-16"}, // Schuppen Schmalkalden, Einbrüche
+{"coords": [6.9603, 50.9375], "date": "2026-03-16"}, // Neubrück Köln, Raub
+{"coords": [8.7403, 48.7142], "date": "2026-03-16"}, // Calw, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-03-16"}, // Nordhorn, entwendet
+{"coords": [6.7623, 51.4344], "date": "2026-03-16"}, // Zeugensuche Duisburg, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-03-16"}, // Sachbeschädigung Reutlingen, Einbrüche

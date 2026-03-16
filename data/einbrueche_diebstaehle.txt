@@ -13280,3 +13280,12 @@
 {"coords": [9.3833, 50.6333], "date": "2026-03-16"}, // Diesel Vogelsbergkreis, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-03-16"}, // Erfurt, Einbrecher
 {"coords": [6.7623, 51.4344], "date": "2026-03-16"}, // Duisburg, Einbruch
+{"coords": [8.375, 49.3833], "date": "2026-03-16"}, // Dieseldiebstahl Schifferstadt, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-03-16"}, // Wohnungseinbrüche Wiesbaden, Einbruch
+{"coords": [10.5333, 51.4167], "date": "2026-03-16"}, // Luftdruckwaffe Sollstedt, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-03-16"}, // Einbrüche Giessen, Einbrüche
+{"coords": [8.4043, 49.014], "date": "2026-03-16"}, // Wohnungseinbruchsdiebstahls Karlsruhe, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-16"}, // Giessen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-16"}, // Coesfeld, Raub
+{"coords": [6.85, 49.8167], "date": "2026-03-16"}, // Greimerath, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-03-16"}, // Wohnungseinbrüche Hofheim, Einbrüche

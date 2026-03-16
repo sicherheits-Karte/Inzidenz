@@ -13210,3 +13210,9 @@
 //{"coords": [], "date": "2026-03-15"} // Bosen, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-03-16"}, // Versuchter Tageswohnungseinbruch Hildesheim, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-03-16"}, // Keller Wittlich, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-03-16"}, // Zeugen Soest, Einbruch
+{"coords": [7.25, 52.6167], "date": "2026-03-16"}, // Eisdiele Geeste, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-16"}, // Verkehrsunfall Aalen, Einbruch
+{"coords": [7.8208, 51.6803], "date": "2026-03-16"}, // Hamm, Einbruch
+{"coords": [9.1833, 50.2], "date": "2026-03-16"}, // Gaststätte Gelnhausen, Einbruch
+{"coords": [9.5167, 50.35], "date": "2026-03-16"}, // Schaufenster Schlüchtern, Einbruch

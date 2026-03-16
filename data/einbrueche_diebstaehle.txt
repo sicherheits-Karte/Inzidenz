@@ -13265,3 +13265,10 @@
 {"coords": [6.9603, 50.9375], "date": "2026-03-16"}, // Köln, Raub
 {"coords": [8.4043, 49.014], "date": "2026-03-16"}, // Einfamilienhaus Karlsruhe, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2026-03-16"}, // Zeugen Düsseldorf, Raub
+//{"coords": [], "date": "2026-03-16"} // Kein Ort gefunden, gestohlen
+{"coords": [7.0982, 50.7374], "date": "2026-03-16"}, // Bonn, Einbruch
+//{"coords": [], "date": "2026-03-16"} // Wangen, Diebstahl
+//{"coords": [], "date": "2026-03-16"} // West, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-03-16"}, // Straßenverkehrsgefährdung Heilbronn, Einbruch
+{"coords": [7.1861, 49.6583], "date": "2026-03-16"}, // Verkehrsschild Birkenfeld Nahe, Diebstahl
+{"coords": [10.0075, 53.7064], "date": "2026-03-16"}, // Einbruchsversuch Norderstedt, Einbruch

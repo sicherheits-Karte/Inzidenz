@@ -13209,3 +13209,4 @@
 //{"coords": [], "date": "2026-03-15"} // Nunkirchen, Einbruch
 //{"coords": [], "date": "2026-03-15"} // Bosen, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-03-16"}, // Versuchter Tageswohnungseinbruch Hildesheim, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-03-16"}, // Keller Wittlich, Einbruch

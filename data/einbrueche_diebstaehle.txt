@@ -13297,3 +13297,4 @@
 {"coords": [7.1675, 51.9436], "date": "2026-03-16"}, // Coesfeld, gestohlen
 //{"coords": [], "date": "2026-03-16"} // Bikes Niederbreitbach, Diebstahl
 //{"coords": [], "date": "2026-03-16"} // Versuchter Einbruch Woldert, Einbruch
+{"coords": [13.3878, 54.0931], "date": "2026-03-16"}, // einem Supermarkt in Greifswald endet mit Körperverletzung und vorläufiger Festnahme Greifswald, Diebstahl

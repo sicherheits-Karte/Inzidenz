@@ -13272,3 +13272,11 @@
 {"coords": [9.2108, 49.1425], "date": "2026-03-16"}, // Straßenverkehrsgefährdung Heilbronn, Einbruch
 {"coords": [7.1861, 49.6583], "date": "2026-03-16"}, // Verkehrsschild Birkenfeld Nahe, Diebstahl
 {"coords": [10.0075, 53.7064], "date": "2026-03-16"}, // Einbruchsversuch Norderstedt, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-03-16"}, // Untersuchungshaft Viersen, Dieb
+{"coords": [6.3917, 51.2556], "date": "2026-03-16"}, // Viersen, Einbruch
+{"coords": [6.5833, 51.25], "date": "2026-03-16"}, // Wekeln, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-16"}, // Recklinghausen, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-03-16"}, // Ulm, Raub
+{"coords": [9.3833, 50.6333], "date": "2026-03-16"}, // Diesel Vogelsbergkreis, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-03-16"}, // Erfurt, Einbrecher
+{"coords": [6.7623, 51.4344], "date": "2026-03-16"}, // Duisburg, Einbruch

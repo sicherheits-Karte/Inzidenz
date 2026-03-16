@@ -13238,3 +13238,10 @@
 {"coords": [9.0, 50.7333], "date": "2026-03-16"}, // Hinweise Homberg, Einbruch
 {"coords": [7.5667, 51.0833], "date": "2026-03-16"}, // Gummersbach, Raub
 {"coords": [8.4942, 49.8342], "date": "2026-03-16"}, // Riedstadt, gestohlen
+{"coords": [6.7872, 50.6606], "date": "2026-03-16"}, // Handygeschäft Euskirchen, Einbruch
+//{"coords": [], "date": "2026-03-16"} // dem Zeitraum vom, Diebstahl
+{"coords": [8.8744, 50.3547], "date": "2026-03-16"}, // Reichelsheim, Einbruch
+{"coords": [7.75, 51.3833], "date": "2026-03-16"}, // Falscher Pfleger Hemer, entwendet
+{"coords": [7.6333, 51.2167], "date": "2026-03-16"}, // Kabeldiebe Lüdenscheid, Einbruch
+{"coords": [9.8, 53.6592], "date": "2026-03-16"}, // Zeugen Pinneberg, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-16"}, // Recklinghausen, Diebstahl

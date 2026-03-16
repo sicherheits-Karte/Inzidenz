@@ -13227,3 +13227,14 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-16"}, // Sonstiges Aalen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-16"}, // Aalen, Einbruch
 //{"coords": [], "date": "2026-03-16"} // Lennetal, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2026-03-16"}, // Diebstahl Moers, Diebstahl
+//{"coords": [], "date": "2026-03-16"} // ZDF-Sendung, Raub
+{"coords": [6.6178, 51.6589], "date": "2026-03-16"}, // Supermarkt Wesel, Einbruch
+{"coords": [11.8486, 53.4261], "date": "2026-03-16"}, // Parchim Parchim, Einbruch
+{"coords": [9.8833, 53.3333], "date": "2026-03-16"}, // Buchholz, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-03-16"}, // Ulm, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-03-16"}, // Osterholz, Einbruch
+{"coords": [7.3778, 51.0194], "date": "2026-03-16"}, // Tankstelle Lindlar, Raub
+{"coords": [9.0, 50.7333], "date": "2026-03-16"}, // Hinweise Homberg, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-03-16"}, // Gummersbach, Raub
+{"coords": [8.4942, 49.8342], "date": "2026-03-16"}, // Riedstadt, gestohlen

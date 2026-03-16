@@ -13216,3 +13216,14 @@
 {"coords": [7.8208, 51.6803], "date": "2026-03-16"}, // Hamm, Einbruch
 {"coords": [9.1833, 50.2], "date": "2026-03-16"}, // Gaststätte Gelnhausen, Einbruch
 {"coords": [9.5167, 50.35], "date": "2026-03-16"}, // Schaufenster Schlüchtern, Einbruch
+//{"coords": [], "date": "2026-03-16"} // Weine, Diebstahl
+//{"coords": [], "date": "2026-03-16"} // Firmengebäude, Einbruch
+{"coords": [8.0, 51.3333], "date": "2026-03-16"}, // Langscheid Sundern, Einbruch
+{"coords": [6.3778, 51.6083], "date": "2026-03-16"}, // Kiosk Sonsbeck, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-03-16"}, // Haft Bonn, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-03-16"}, // Delmenhorst, Diebstahl
+//{"coords": [], "date": "2026-03-16"} // Delecke, Einbruch
+//{"coords": [], "date": "2026-03-16"} // Einfamilienhaus Wickede, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-16"}, // Sonstiges Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-16"}, // Aalen, Einbruch
+//{"coords": [], "date": "2026-03-16"} // Lennetal, Diebstahl

@@ -13377,3 +13377,10 @@
 {"coords": [7.3333, 49.3167], "date": "2026-03-17"}, // Homburg Homburg, entwendung
 {"coords": [9.1919, 48.8975], "date": "2026-03-17"}, // Wohnungseinbruch Ludwigsburg, Einbruch
 {"coords": [6.1667, 51.6833], "date": "2026-03-17"}, // Zeugen Goch, Einbruch
+//{"coords": [], "date": "2026-03-17"} // Kupferkabel Utenbach, eingebrochen
+{"coords": [7.9833, 51.95], "date": "2026-03-17"}, // Warendorf, eingebrochen
+//{"coords": [], "date": "2026-03-17"} // Weilerswist, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-03-17"}, // Kradfahrer Aalen, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-03-17"}, // Trickbetrug Augsburg, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-17"}, // Mehrfamilienhaus Ludwigshafen, Einbruch
+{"coords": [6.5617, 51.3317], "date": "2026-03-17"}, // Krefeld, Einbrecher

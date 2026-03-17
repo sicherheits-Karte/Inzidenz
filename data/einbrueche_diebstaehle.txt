@@ -13327,3 +13327,10 @@
 {"coords": [9.9916, 48.3984], "date": "2026-03-17"}, // Ulm, Diebstähle
 {"coords": [7.2333, 52.3167], "date": "2026-03-17"}, // Schüttorf, aufbrüche
 {"coords": [7.2333, 52.3167], "date": "2026-03-17"}, // Schüttorf, Diebstahl
+{"coords": [7.5167, 51.6167], "date": "2026-03-17"}, // Lünen Dortmund, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-03-17"}, // Delmenhorst, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-03-17"}, // Duisburg, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-03-17"}, // Opfer Bochum, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-03-17"}, // Alkoholeinfluss Heilbronn, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-03-17"}, // Lüneburg, aufbrüche
+{"coords": [7.1508, 51.2562], "date": "2026-03-17"}, // Wuppertal, Diebstahl

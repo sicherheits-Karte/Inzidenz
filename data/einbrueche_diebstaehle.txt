@@ -13355,3 +13355,19 @@
 {"coords": [10.4508, 50.7211], "date": "2026-03-17"}, // Tierheim Schmalkalden, entwendet
 {"coords": [9.732, 52.3759], "date": "2026-03-17"}, // Zeugen Hannover, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-03-17"}, // Baustelle Reutlingen, Diebstahl
+{"coords": [6.1667, 51.6833], "date": "2026-03-17"}, // Goch, entwendet
+{"coords": [8.0472, 52.2799], "date": "2026-03-17"}, // Osnabrück, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-03-17"}, // Wohnung Gelsenkirchen, Raub
+//{"coords": [], "date": "2026-03-17"} // Korlingen, Einbrüche
+{"coords": [9.1828, 48.7756], "date": "2026-03-17"}, // Stuttgart- Bad Cannstatt, Dieb
+//{"coords": [], "date": "2026-03-17"} // Kues, Diebstähle
+{"coords": [6.6, 51.55], "date": "2026-03-17"}, // Rheinberg, gestohlen
+{"coords": [7.2061, 53.3669], "date": "2026-03-17"}, // Emden, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-03-17"}, // Darmstadt, Dieb
+{"coords": [9.5333, 52.6833], "date": "2026-03-17"}, // Rodewald, gestohlen
+{"coords": [6.9667, 51.2333], "date": "2026-03-17"}, // Polizei Mettmann POL-ME, Raub
+{"coords": [6.7735, 51.2277], "date": "2026-03-17"}, // Ermittlungsrichter Düsseldorf, Einbruch
+{"coords": [6.55, 51.4667], "date": "2026-03-17"}, // Vluyn, Einbruch
+{"coords": [7.3481, 52.3236], "date": "2026-03-17"}, // Pkw Salzbergen, Diebstahl
+{"coords": [8.4111, 49.9917], "date": "2026-03-17"}, // Rüsselsheim, Dieb
+//{"coords": [], "date": "2026-03-17"} // Baustelle Selm, Einbruch

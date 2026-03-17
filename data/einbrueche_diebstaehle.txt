@@ -13384,3 +13384,11 @@
 {"coords": [10.8978, 48.3705], "date": "2026-03-17"}, // Trickbetrug Augsburg, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-03-17"}, // Mehrfamilienhaus Ludwigshafen, Einbruch
 {"coords": [6.5617, 51.3317], "date": "2026-03-17"}, // Krefeld, Einbrecher
+//{"coords": [], "date": "2026-03-17"} // Schapbach, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-17"}, // Ludwigshafen, Diebstahl
+//{"coords": [], "date": "2026-03-17"} // Schröterode, entwendet
+{"coords": [7.8153, 48.5708], "date": "2026-03-17"}, // Kehl, gestohlen
+{"coords": [8.0667, 50.3833], "date": "2026-03-17"}, // Verkehrsunfälle Limburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-03-17"}, // Giessen, gestohlen
+{"coords": [8.4414, 50.0919], "date": "2026-03-17"}, // Exhibitionistische Handlung Hofheim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-03-17"}, // Kupferdiebstahl Wiesbaden, Einbrüche

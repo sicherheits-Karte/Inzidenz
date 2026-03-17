@@ -13302,3 +13302,21 @@
 {"coords": [9.95, 52.15], "date": "2026-03-17"}, // Zeugenaufruf Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-03-17"} // Waren, Räuber
 {"coords": [9.0, 50.7333], "date": "2026-03-17"}, // Hinweise Homberg, Diebstahl
+//{"coords": [], "date": "2026-03-17"} // Adelheidsdorf, Diebstahl
+//{"coords": [], "date": "2026-03-17"} // Dörenhagen, Diebstahl
+{"coords": [7.7, 51.375], "date": "2026-03-17"}, // Vandalen Iserlohn, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-03-17"}, // Wohnungseinbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2026-03-17"} // Schalksmühle, Dieb
+//{"coords": [], "date": "2026-03-17"} // Fürstenberg, Diebstahl
+//{"coords": [], "date": "2026-03-17"} // Bergisch Gladbach, gestohlen
+{"coords": [8.5833, 53.55], "date": "2026-03-17"}, // Mitte, entwendet
+{"coords": [7.6736, 51.2972], "date": "2026-03-17"}, // Auto Altena, Diebstahl
+//{"coords": [], "date": "2026-03-17"} // Bad Cannstatt, Raub
+{"coords": [7.8, 51.4333], "date": "2026-03-17"}, // Wohnung Menden, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-03-17"}, // Geschädigtenaufruf Mannheim, entwendet
+//{"coords": [], "date": "2026-03-17"} // Gorndorf, Diebstahl
+//{"coords": [], "date": "2026-03-17"} // Kreis, Diebstahl
+//{"coords": [], "date": "2026-03-17"} // Kreis, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-03-17"}, // Oldenburg, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-03-17"}, // Gera, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-03-17"}, // Unfällen Stade, Einbrecher

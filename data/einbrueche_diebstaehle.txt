@@ -13320,3 +13320,10 @@
 {"coords": [8.2146, 53.1434], "date": "2026-03-17"}, // Oldenburg, Diebstahl
 {"coords": [12.0799, 50.8772], "date": "2026-03-17"}, // Gera, Diebstahl
 {"coords": [9.4764, 53.6008], "date": "2026-03-17"}, // Unfällen Stade, Einbrecher
+{"coords": [6.8761, 50.8778], "date": "2026-03-17"}, // Wohnungseinbruch Hürth, Einbruch
+{"coords": [8.6372, 49.6419], "date": "2026-03-17"}, // Heppenheim, gestohlen
+{"coords": [8.6514, 49.8728], "date": "2026-03-17"}, // Visier Krimineller Darmstadt, entwendet
+{"coords": [10.75, 53.7], "date": "2026-03-17"}, // Ratzeburg, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-03-17"}, // Ulm, Diebstähle
+{"coords": [7.2333, 52.3167], "date": "2026-03-17"}, // Schüttorf, aufbrüche
+{"coords": [7.2333, 52.3167], "date": "2026-03-17"}, // Schüttorf, Diebstahl

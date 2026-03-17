@@ -13301,3 +13301,4 @@
 {"coords": [13.2611, 53.5569], "date": "2026-03-17"}, // Neubrandenburg Neubrandenburg, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-03-17"}, // Zeugenaufruf Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-03-17"} // Waren, Räuber
+{"coords": [9.0, 50.7333], "date": "2026-03-17"}, // Hinweise Homberg, Diebstahl

@@ -13299,3 +13299,5 @@
 //{"coords": [], "date": "2026-03-16"} // Versuchter Einbruch Woldert, Einbruch
 {"coords": [13.3878, 54.0931], "date": "2026-03-16"}, // einem Supermarkt in Greifswald endet mit Körperverletzung und vorläufiger Festnahme Greifswald, Diebstahl
 {"coords": [13.2611, 53.5569], "date": "2026-03-17"}, // Neubrandenburg Neubrandenburg, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-03-17"}, // Zeugenaufruf Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-03-17"} // Waren, Räuber

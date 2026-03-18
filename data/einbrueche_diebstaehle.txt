@@ -13452,3 +13452,12 @@
 //{"coords": [], "date": "2026-03-18"} // Kreuzlingen, Raub
 //{"coords": [], "date": "2026-03-18"} // bislang unbekannter Täter verschaffte sich in der vergangenen Nacht gleich zweimal Zutritt auf ein Firmengrundstück in der Straße, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-03-18"}, // Gotha, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-18"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-18"}, // Lebensmittelgeschäft Ludwigshafen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-03-18"}, // Täterhinweis Ludwigshafen, aufbrüche
+{"coords": [7.1675, 51.9436], "date": "2026-03-18"}, // Coesfeld, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-03-18"}, // Autohaus Coesfeld, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-18"}, // Giessen, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2026-03-18"}, // Limburg, eingebrochen
+//{"coords": [], "date": "2026-03-18"} // Höhe, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-03-18"}, // Straßenraub Freiburg, Raub

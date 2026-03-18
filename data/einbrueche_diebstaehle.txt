@@ -13416,3 +13416,12 @@
 {"coords": [7.9833, 51.95], "date": "2026-03-18"}, // Doppelhaushälfte Warendorf, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2026-03-18"}, // Parkplatz Fulda, Diebstahl
 {"coords": [6.5617, 51.3317], "date": "2026-03-18"}, // Ladendieb Krefeld, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-03-18"}, // Lippe, Dieb
+{"coords": [8.8667, 51.9333], "date": "2026-03-18"}, // Lippe, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-03-18"}, // Mainzer Altstadt Mainz- Altstadt, Diebstahl
+//{"coords": [], "date": "2026-03-18"} // Mombach, aufbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-18"}, // Hausbewohner Coesfeld, Einbrecher
+//{"coords": [], "date": "2026-03-18"} // Tiefenbronn, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-18"}, // Zeugen Freiburg, entwendet
+//{"coords": [], "date": "2026-03-18"} // Reihenhaus einzubrechen und flüchten nach Täter-Opfer-Kontakt, Einbruch
+//{"coords": [], "date": "2026-03-18"} // Kein Ort gefunden, Dieb

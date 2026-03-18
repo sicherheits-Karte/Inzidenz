@@ -13432,3 +13432,8 @@
 {"coords": [6.6528, 50.5931], "date": "2026-03-18"}, // Mechernich, entwendet
 {"coords": [7.82, 47.99], "date": "2026-03-18"}, // Zeugenaufruf Freiburg, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-03-18"}, // Präventionsangebot Bielefeld, Diebstahl
+{"coords": [8.6167, 49.6833], "date": "2026-03-18"}, // Bensheim, Dieb
+{"coords": [8.4661, 49.4878], "date": "2026-03-18"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2026-03-18"}, // Einfamilienhaus Bergkamen, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-03-18"}, // Frankfurt, Raub
+{"coords": [8.5847, 53.5469], "date": "2026-03-18"}, // Bremerhaven, Dieb

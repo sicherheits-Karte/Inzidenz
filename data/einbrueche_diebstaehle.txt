@@ -13461,3 +13461,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-03-18"}, // Limburg, eingebrochen
 //{"coords": [], "date": "2026-03-18"} // Höhe, Einbrecher
 {"coords": [7.82, 47.99], "date": "2026-03-18"}, // Straßenraub Freiburg, Raub
+//{"coords": [], "date": "2026-03-18"} // Langenorla, Einbruch

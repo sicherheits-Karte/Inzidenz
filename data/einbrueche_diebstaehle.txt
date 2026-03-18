@@ -13406,3 +13406,13 @@
 {"coords": [7.7689, 49.4447], "date": "2026-03-18"}, // Kaiserslautern, eingebrochen
 //{"coords": [], "date": "2026-03-18"} // Bekleidungsgeschäft, Einbruch
 //{"coords": [], "date": "2026-03-18"} // Tiefgarage, Diebstahl
+{"coords": [7.2431, 51.3464], "date": "2026-03-18"}, // Sprockhövel, gestohlen
+{"coords": [6.3214, 50.8447], "date": "2026-03-18"}, // Hinweise Langerwehe, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2026-03-18"}, // Präventionshinweise Nienburg, Diebstähle
+{"coords": [9.4108, 53.1111], "date": "2026-03-18"}, // Rotenburg, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-03-18"}, // Bochum, Raub
+{"coords": [8.8592, 52.1653], "date": "2026-03-18"}, // Zeugen Vlotho, Einbruch
+//{"coords": [], "date": "2026-03-18"} // Tageswohnungseinbruch Jesteburg, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-03-18"}, // Doppelhaushälfte Warendorf, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-03-18"}, // Parkplatz Fulda, Diebstahl
+{"coords": [6.5617, 51.3317], "date": "2026-03-18"}, // Ladendieb Krefeld, Diebstahl

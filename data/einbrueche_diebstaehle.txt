@@ -13392,3 +13392,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-03-17"}, // Giessen, gestohlen
 {"coords": [8.4414, 50.0919], "date": "2026-03-17"}, // Exhibitionistische Handlung Hofheim, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-03-17"}, // Kupferdiebstahl Wiesbaden, Einbrüche
+{"coords": [7.5978, 50.3597], "date": "2026-03-18"}, // Person Koblenz, Raub

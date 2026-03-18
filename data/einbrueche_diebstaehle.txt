@@ -13445,3 +13445,10 @@
 {"coords": [8.1075, 53.5219], "date": "2026-03-18"}, // Wilhelmshaven, Raub
 //{"coords": [], "date": "2026-03-18"} // Kreis, eingebrochen
 {"coords": [9.1919, 48.8975], "date": "2026-03-18"}, // Ludwigsburg, gestohlen
+//{"coords": [], "date": "2026-03-18"} // Kreis, Raub
+{"coords": [8.0167, 50.8833], "date": "2026-03-18"}, // Siegen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-03-18"}, // Anzeige Duisburg, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-03-18"}, // Zeugen Essen, Dieb
+//{"coords": [], "date": "2026-03-18"} // Kreuzlingen, Raub
+//{"coords": [], "date": "2026-03-18"} // bislang unbekannter Täter verschaffte sich in der vergangenen Nacht gleich zweimal Zutritt auf ein Firmengrundstück in der Straße, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-03-18"}, // Gotha, Diebstahl

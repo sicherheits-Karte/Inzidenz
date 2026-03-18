@@ -13398,3 +13398,11 @@
 {"coords": [12.0799, 50.8772], "date": "2026-03-18"}, // Gera, Raub
 {"coords": [6.9019, 50.8331], "date": "2026-03-18"}, // Zeugensuche Brühl, gestohlen
 //{"coords": [], "date": "2026-03-18"} // Holzland, Diebstahl
+{"coords": [7.7156, 52.2778], "date": "2026-03-18"}, // Ibbenbüren, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-03-18"}, // Diebstahl Heilbronn, Diebstahl
+{"coords": [7.6158, 50.8767], "date": "2026-03-18"}, // Balkon Waldbröl, Einbruch
+{"coords": [7.7, 50.9667], "date": "2026-03-18"}, // Reichshof, gestohlen
+{"coords": [7.0116, 51.4556], "date": "2026-03-18"}, // Fotofahndung Essen, gestohlen
+{"coords": [7.7689, 49.4447], "date": "2026-03-18"}, // Kaiserslautern, eingebrochen
+//{"coords": [], "date": "2026-03-18"} // Bekleidungsgeschäft, Einbruch
+//{"coords": [], "date": "2026-03-18"} // Tiefgarage, Diebstahl

@@ -13465,3 +13465,4 @@
 {"coords": [8.7917, 51.9917], "date": "2026-03-18"}, // einer hilflosen Lage befindet, nachdem er sich aus einer Klinik, Raub
 {"coords": [7.5, 50.5], "date": "2026-03-18"}, // Rengsdorf Rengsdorf, Einbruch
 //{"coords": [], "date": "2026-03-18"} // Zeugensuche, Raub
+{"coords": [7.3608, 49.2492], "date": "2026-03-18"}, // Streich Zweibrücken, Diebstähle

@@ -13394,3 +13394,7 @@
 {"coords": [8.24, 50.0822], "date": "2026-03-17"}, // Kupferdiebstahl Wiesbaden, Einbrüche
 {"coords": [7.5978, 50.3597], "date": "2026-03-18"}, // Person Koblenz, Raub
 //{"coords": [], "date": "2026-03-18"} // Transporters Straßenhaus, aufbruch
+{"coords": [8.0, 51.45], "date": "2026-03-18"}, // Müschede Arnsberg, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-03-18"}, // Gera, Raub
+{"coords": [6.9019, 50.8331], "date": "2026-03-18"}, // Zeugensuche Brühl, gestohlen
+//{"coords": [], "date": "2026-03-18"} // Holzland, Diebstahl

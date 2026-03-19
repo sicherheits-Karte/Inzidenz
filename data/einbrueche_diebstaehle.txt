@@ -13497,3 +13497,10 @@
 {"coords": [9.8833, 53.3333], "date": "2026-03-19"}, // Stauende Buchholz, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2026-03-19"}, // Darmstadt, Einbrecher
 {"coords": [7.2, 51.6167], "date": "2026-03-19"}, // Straßenraub Recklinghausen, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-03-19"}, // Ludwigsburg, gestohlen
+//{"coords": [], "date": "2026-03-19"} // Kein Ort gefunden, Diebstahl
+{"coords": [10.0075, 53.7064], "date": "2026-03-19"}, // Zeugen Norderstedt, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-03-19"}, // Untersuchungshaft Karlsruhe, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-03-19"}, // Hinweise Homberg, Diebstahl
+{"coords": [9.2844, 51.045], "date": "2026-03-19"}, // Borken, entwendet
+{"coords": [8.6833, 52.15], "date": "2026-03-19"}, // Herford, Einbruch

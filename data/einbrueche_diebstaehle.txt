@@ -13472,3 +13472,8 @@
 {"coords": [10.5633, 51.3072], "date": "2026-03-19"}, // Menteroda, Einbrecher
 {"coords": [9.8333, 53.95], "date": "2026-03-19"}, // Einfamilienhaus Hagen, Einbruch
 {"coords": [8.7667, 51.7167], "date": "2026-03-19"}, // Paderborn, Einbruch
+{"coords": [8.8744, 50.3547], "date": "2026-03-19"}, // Zeugen Reichelsheim, Einbruch
+{"coords": [8.4942, 49.8342], "date": "2026-03-19"}, // Schmuck Riedstadt, Einbrecher
+{"coords": [9.4667, 52.3], "date": "2026-03-19"}, // Barsinghausen, Diebstähle
+//{"coords": [], "date": "2026-03-19"} // Friedhofskapelle und Beschädigung von Grabstätten, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-19"}, // Aalen, Diebstahl

@@ -13467,3 +13467,4 @@
 //{"coords": [], "date": "2026-03-18"} // Zeugensuche, Raub
 {"coords": [7.3608, 49.2492], "date": "2026-03-18"}, // Streich Zweibrücken, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-03-18"}, // Harsum Hildesheim, Einbruch
+//{"coords": [], "date": "2026-03-19"} // POL-MA, Raub

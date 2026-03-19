@@ -13486,3 +13486,14 @@
 //{"coords": [], "date": "2026-03-19"} // Weimarer Land, Dieb
 //{"coords": [], "date": "2026-03-19"} // Holzland, entwendet
 {"coords": [12.0799, 50.8772], "date": "2026-03-19"}, // Gera, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-03-19"}, // Coesfeld, Diebstahl
+//{"coords": [], "date": "2026-03-19"} // Eckesey, Raub
+{"coords": [10.0528, 51.1889], "date": "2026-03-19"}, // Eschwege, gestohlen
+{"coords": [7.0333, 52.2167], "date": "2026-03-19"}, // Einfamilienhaus Gronau, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-03-19"}, // Ulm, Einbruch
+//{"coords": [], "date": "2026-03-19"} // Kein Ort gefunden, Dieb
+{"coords": [10.0, 51.7064], "date": "2026-03-19"}, // Northeim, gestohlen
+{"coords": [8.6306, 53.05], "date": "2026-03-19"}, // Delmenhorst Delmenhorst, Einbruch
+{"coords": [9.8833, 53.3333], "date": "2026-03-19"}, // Stauende Buchholz, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-03-19"}, // Darmstadt, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2026-03-19"}, // Straßenraub Recklinghausen, Raub

@@ -13523,3 +13523,18 @@
 {"coords": [8.7667, 50.1], "date": "2026-03-19"}, // Kreis Offenbach, geklaut
 {"coords": [8.5331, 52.021], "date": "2026-03-19"}, // Handy Bielefeld, Raub
 {"coords": [8.6514, 49.8728], "date": "2026-03-19"}, // Darmstadt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-19"}, // Sonstiges Aalen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-03-19"}, // Limburg, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-03-19"}, // Bad Schwalbach, Dieb
+{"coords": [11.4333, 51.3], "date": "2026-03-19"}, // Werkzeug Roßleben, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-03-19"}, // Aalen, Dieb
+{"coords": [8.24, 50.0822], "date": "2026-03-19"}, // Wohnung Wiesbaden, Einbruch
+{"coords": [11.3, 51.3667], "date": "2026-03-19"}, // Artern, entwendet
+{"coords": [9.7194, 53.9522], "date": "2026-03-19"}, // Kellinghusen, Diebstahl
+//{"coords": [], "date": "2026-03-19"} // Höhe, Einbruch
+//{"coords": [], "date": "2026-03-19"} // Wilnsdorf, Diebstahl
+//{"coords": [], "date": "2026-03-19"} // Wilnsdorf, gestohlen
+//{"coords": [], "date": "2026-03-19"} // Zeugenhinweise Erzhausen, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-03-19"}, // Zeugenaufruf Jena, Räuber
+{"coords": [8.3708, 52.6078], "date": "2026-03-19"}, // Verkehrsunfall Diepholz, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-03-19"}, // Schmuck Duisburg, Dieb

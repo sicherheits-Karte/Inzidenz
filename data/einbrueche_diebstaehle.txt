@@ -13556,3 +13556,6 @@
 //{"coords": [], "date": "2026-03-19"} // Villingen, Einbrüche
 {"coords": [8.6833, 50.5833], "date": "2026-03-19"}, // Giessen, Raub
 {"coords": [6.45, 51.3167], "date": "2026-03-19"}, // Tönis, Einbruch
+//{"coords": [], "date": "2026-03-19"} // Bad Cannstatt, gestohlen
+{"coords": [8.6306, 53.05], "date": "2026-03-19"}, // Delmenhorst Delmenhorst, entwendet
+{"coords": [10.4, 53.25], "date": "2026-03-19"}, // Lüneburg, Diebstahl

@@ -13517,3 +13517,9 @@
 {"coords": [8.0472, 52.2799], "date": "2026-03-19"}, // Osnabrück, Diebstahl
 {"coords": [8.0472, 52.2799], "date": "2026-03-19"}, // Zeugen Osnabrück, Einbruch
 //{"coords": [], "date": "2026-03-19"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.9833, 49.1], "date": "2026-03-19"}, // Pleinfeld, Diebstahl
+{"coords": [12.0991, 54.0924], "date": "2026-03-19"}, // Polizeipräsidium Rostock, Dieb
+//{"coords": [], "date": "2026-03-19"} // Kreis, geklaut
+{"coords": [8.7667, 50.1], "date": "2026-03-19"}, // Kreis Offenbach, geklaut
+{"coords": [8.5331, 52.021], "date": "2026-03-19"}, // Handy Bielefeld, Raub
+{"coords": [8.6514, 49.8728], "date": "2026-03-19"}, // Darmstadt, Einbruch

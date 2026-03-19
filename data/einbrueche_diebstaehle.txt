@@ -13504,3 +13504,16 @@
 {"coords": [9.0, 50.7333], "date": "2026-03-19"}, // Hinweise Homberg, Diebstahl
 {"coords": [9.2844, 51.045], "date": "2026-03-19"}, // Borken, entwendet
 {"coords": [8.6833, 52.15], "date": "2026-03-19"}, // Herford, Einbruch
+//{"coords": [], "date": "2026-03-19"} // Donaueschingen, Diebstahl
+{"coords": [6.2833, 50.8167], "date": "2026-03-19"}, // Eschweiler, Raub
+{"coords": [9.95, 52.15], "date": "2026-03-19"}, // Bäckerei Hildesheim, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-19"}, // Vechta, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-03-19"}, // Polizeipräsidiums Heilbronn Heilbronn, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-03-19"}, // Hildesheim, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-03-19"}, // Beamte Dortmund, Dieb
+{"coords": [7.4653, 51.5136], "date": "2026-03-19"}, // Untersuchungshaft Dortmund, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-03-19"}, // Köln, stehlen
+{"coords": [9.5, 51.3167], "date": "2026-03-19"}, // Sandershausen Kassel, Dieb
+{"coords": [8.0472, 52.2799], "date": "2026-03-19"}, // Osnabrück, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-03-19"}, // Zeugen Osnabrück, Einbruch
+//{"coords": [], "date": "2026-03-19"} // dem Kreisgebiet, Einbrüche

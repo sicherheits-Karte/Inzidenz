@@ -13552,3 +13552,7 @@
 //{"coords": [], "date": "2026-03-19"} // Tuttlingen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-03-19"}, // Zeugenaufruf Freiburg, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-03-19"}, // Erfurt, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-03-19"}, // Reutlingen, Einbrüche
+//{"coords": [], "date": "2026-03-19"} // Villingen, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-03-19"}, // Giessen, Raub
+{"coords": [6.45, 51.3167], "date": "2026-03-19"}, // Tönis, Einbruch

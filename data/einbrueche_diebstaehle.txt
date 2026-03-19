@@ -13538,3 +13538,17 @@
 {"coords": [11.5862, 50.9271], "date": "2026-03-19"}, // Zeugenaufruf Jena, Räuber
 {"coords": [8.3708, 52.6078], "date": "2026-03-19"}, // Verkehrsunfall Diepholz, Einbruch
 {"coords": [6.7623, 51.4344], "date": "2026-03-19"}, // Schmuck Duisburg, Dieb
+//{"coords": [], "date": "2026-03-19"} // Radolfzell, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-19"}, // Giessen, Einbruch
+//{"coords": [], "date": "2026-03-19"} // dem Ilm-Kreis wurden ungefähr, entwendet
+//{"coords": [], "date": "2026-03-19"} // Böhringen, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-03-19"}, // Hofheim, Einbrecher
+{"coords": [10.7183, 50.9489], "date": "2026-03-19"}, // Versuchter Einbruch Gotha, Einbruch
+{"coords": [9.9592, 53.8392], "date": "2026-03-19"}, // Zeugen Kaltenkirchen, Diebstahl
+{"coords": [10.25, 50.6833], "date": "2026-03-19"}, // Vogelsberg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-03-19"}, // Auto Erfurt, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-03-19"}, // Erfurt, Diebstahl
+{"coords": [7.8667, 51.2167], "date": "2026-03-19"}, // Garageneinbrüche Plettenberg, Einbrüche
+//{"coords": [], "date": "2026-03-19"} // Tuttlingen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-19"}, // Zeugenaufruf Freiburg, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-03-19"}, // Erfurt, Dieb

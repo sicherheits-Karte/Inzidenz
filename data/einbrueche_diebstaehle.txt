@@ -13477,3 +13477,12 @@
 {"coords": [9.4667, 52.3], "date": "2026-03-19"}, // Barsinghausen, Diebstähle
 //{"coords": [], "date": "2026-03-19"} // Friedhofskapelle und Beschädigung von Grabstätten, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-19"}, // Aalen, Diebstahl
+//{"coords": [], "date": "2026-03-19"} // Jugenheim, Einbruch
+//{"coords": [], "date": "2026-03-19"} // Halskette Radevormwald, Raub
+{"coords": [7.5408, 50.9056], "date": "2026-03-19"}, // Eingangstür Nümbrecht, Einbruch
+//{"coords": [], "date": "2026-03-19"} // Tag Radevormwald, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-03-19"}, // Beute Warendorf, Einbruch
+{"coords": [6.9019, 50.8331], "date": "2026-03-19"}, // Brühl, entwendet
+//{"coords": [], "date": "2026-03-19"} // Weimarer Land, Dieb
+//{"coords": [], "date": "2026-03-19"} // Holzland, entwendet
+{"coords": [12.0799, 50.8772], "date": "2026-03-19"}, // Gera, entwendet

@@ -13564,3 +13564,12 @@
 {"coords": [12.7667, 52.2], "date": "2026-03-20"}, // Brück, entwendet
 {"coords": [9.4944, 51.8583], "date": "2026-03-20"}, // Bevern, gestohlen
 //{"coords": [], "date": "2026-03-20"} // Firmengebäude Wallscheid, Einbruch
+//{"coords": [], "date": "2026-03-20"} // Weimarer Land, Diebstahl
+//{"coords": [], "date": "2026-03-20"} // Holzland, entwendet
+//{"coords": [], "date": "2026-03-20"} // Kraftstoff Eichelhardt, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-20"}, // Sonstiges Aalen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-20"}, // Baustelle Aalen, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-03-20"}, // Altenburg, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-03-20"}, // Mitte, Einbruch
+//{"coords": [], "date": "2026-03-20"} // Mettingen, Einbruch
+{"coords": [7.0028, 50.7631], "date": "2026-03-20"}, // Folgen Bornheim, Diebstahl

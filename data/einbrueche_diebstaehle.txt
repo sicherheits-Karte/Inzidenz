@@ -13616,3 +13616,12 @@
 {"coords": [8.2711, 50.0], "date": "2026-03-20"}, // Mainzer Stadtgebiet Mainz, Einbruch
 {"coords": [6.5617, 51.3317], "date": "2026-03-20"}, // Krefeld, Raub
 {"coords": [8.8678, 49.9228], "date": "2026-03-20"}, // Zeugen Münster, Raub
+{"coords": [9.4108, 53.1111], "date": "2026-03-20"}, // Rotenburg, Einbruch
+//{"coords": [], "date": "2026-03-20"} // Tegau, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-03-20"}, // Reutlingen, Raub
+{"coords": [8.8731, 51.275], "date": "2026-03-20"}, // Hinweise Korbach, Einbrüche
+{"coords": [8.705, 48.895], "date": "2026-03-20"}, // Pforzheim, aufbrüche
+{"coords": [7.82, 47.99], "date": "2026-03-20"}, // Freiburg, eingebrochen
+{"coords": [9.6775, 50.5528], "date": "2026-03-20"}, // Fulda, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-03-20"}, // Schmuck Northeim, Diebstahl
+{"coords": [10.4167, 50.55], "date": "2026-03-20"}, // Meiningen, entwendung

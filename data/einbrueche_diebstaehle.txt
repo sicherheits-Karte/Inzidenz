@@ -13563,3 +13563,4 @@
 {"coords": [8.8431, 49.8978], "date": "2026-03-19"}, // Marienstraße Dieburg, Dieb
 {"coords": [12.7667, 52.2], "date": "2026-03-20"}, // Brück, entwendet
 {"coords": [9.4944, 51.8583], "date": "2026-03-20"}, // Bevern, gestohlen
+//{"coords": [], "date": "2026-03-20"} // Firmengebäude Wallscheid, Einbruch

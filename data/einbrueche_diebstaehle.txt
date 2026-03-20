@@ -13591,3 +13591,11 @@
 //{"coords": [], "date": "2026-03-20"} // Hilbeck, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-03-20"}, // Ulm, Diebstahl
 //{"coords": [], "date": "2026-03-20"} // Schule Wilster, klau
+{"coords": [7.1986, 51.1789], "date": "2026-03-20"}, // Remscheid Wuppertal, Raub
+{"coords": [7.8667, 51.3333], "date": "2026-03-20"}, // Einbrecher Balve, Einbrecher
+{"coords": [8.2833, 51.35], "date": "2026-03-20"}, // Tankstelle Meschede, Raub
+//{"coords": [], "date": "2026-03-20"} // Zeugen Bad Lippspringe, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-03-20"}, // Paderborn, Diebstahl
+{"coords": [7.5667, 51.0833], "date": "2026-03-20"}, // Erdgeschosswohnung Gummersbach, Einbruch
+{"coords": [7.3, 51.1333], "date": "2026-03-20"}, // Schlüssel Hückeswagen, Einbruch
+{"coords": [7.4139, 50.9889], "date": "2026-03-20"}, // Engelskirchen, gestohlen

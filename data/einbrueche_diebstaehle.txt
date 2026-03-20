@@ -13625,3 +13625,14 @@
 {"coords": [9.6775, 50.5528], "date": "2026-03-20"}, // Fulda, Einbruch
 {"coords": [10.0, 51.7064], "date": "2026-03-20"}, // Schmuck Northeim, Diebstahl
 {"coords": [10.4167, 50.55], "date": "2026-03-20"}, // Meiningen, entwendung
+//{"coords": [], "date": "2026-03-20"} // Erndtebrück, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-03-20"}, // Lingen, Einbruch
+{"coords": [7.3333, 51.4333], "date": "2026-03-20"}, // Witten, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-20"}, // Recklinghausen, Dieb
+{"coords": [8.2833, 49.3667], "date": "2026-03-20"}, // Haßloch, Einbruch
+{"coords": [8.5333, 48.0667], "date": "2026-03-20"}, // Schwenningen, Einbruch
+//{"coords": [], "date": "2026-03-20"} // Donaueschingen, entwendet
+{"coords": [7.4653, 51.5136], "date": "2026-03-20"}, // Zeugen Dortmund, Raub
+{"coords": [8.15, 49.4667], "date": "2026-03-20"}, // Weinstraße, Einbruch
+{"coords": [8.0167, 50.8833], "date": "2026-03-20"}, // Siegen, Einbruch
+{"coords": [8.15, 49.4667], "date": "2026-03-20"}, // Weinstraße, Diebstahl

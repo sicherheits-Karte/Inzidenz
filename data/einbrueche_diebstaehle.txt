@@ -13672,3 +13672,4 @@
 {"coords": [11.87, 50.7356], "date": "2026-03-20"}, // Triptis, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-03-20"}, // Reutlingen, eingebrochen
 {"coords": [9.95, 52.15], "date": "2026-03-20"}, // Traktors Hildesheim, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-03-20"}, // Polizei Neuss, Einbruch

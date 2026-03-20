@@ -13675,3 +13675,4 @@
 {"coords": [6.6833, 51.2], "date": "2026-03-20"}, // Polizei Neuss, Einbruch
 {"coords": [6.6833, 51.2], "date": "2026-03-20"}, // Neuss, Einbrecher
 {"coords": [9.2108, 49.1425], "date": "2026-03-20"}, // Rettungshubschrauber Landkreis Heilbronn, Raub
+//{"coords": [], "date": "2026-03-20"} // Verwertungstat Rheinbrohl, Diebstahl

@@ -13668,3 +13668,7 @@
 {"coords": [8.3833, 51.9], "date": "2026-03-20"}, // Diebesgut Gütersloh, Dieb
 {"coords": [9.2167, 48.4833], "date": "2026-03-20"}, // Erpressung Reutlingen, Räuber
 {"coords": [6.0839, 50.7753], "date": "2026-03-20"}, // Armbanduhr Aachen, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-03-20"}, // Ludwigsburger Marktplatz Ludwigsburg, Einbruch
+{"coords": [11.87, 50.7356], "date": "2026-03-20"}, // Triptis, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-03-20"}, // Reutlingen, eingebrochen
+{"coords": [9.95, 52.15], "date": "2026-03-20"}, // Traktors Hildesheim, Diebstahl

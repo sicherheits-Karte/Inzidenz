@@ -13636,3 +13636,4 @@
 {"coords": [8.15, 49.4667], "date": "2026-03-20"}, // Weinstraße, Einbruch
 {"coords": [8.0167, 50.8833], "date": "2026-03-20"}, // Siegen, Einbruch
 {"coords": [8.15, 49.4667], "date": "2026-03-20"}, // Weinstraße, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-03-20"}, // Heilbronn, Einbruch

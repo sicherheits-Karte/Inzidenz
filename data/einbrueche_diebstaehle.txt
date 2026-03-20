@@ -13573,3 +13573,12 @@
 {"coords": [8.5833, 53.55], "date": "2026-03-20"}, // Mitte, Einbruch
 //{"coords": [], "date": "2026-03-20"} // Mettingen, Einbruch
 {"coords": [7.0028, 50.7631], "date": "2026-03-20"}, // Folgen Bornheim, Diebstahl
+{"coords": [11.1, 48.7167], "date": "2026-03-20"}, // Tankstellengebäude Oberhausen, Einbruch
+//{"coords": [], "date": "2026-03-20"} // Friseurgeschäft mehr, Einbruch
+{"coords": [6.6167, 51.75], "date": "2026-03-20"}, // Rees, Diebstahl
+//{"coords": [], "date": "2026-03-20"} // Bergisch Gladbach, Einbruch
+{"coords": [9.1492, 52.4542], "date": "2026-03-20"}, // Loccum, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-03-20"}, // Hinweise Homberg, Einbruch
+{"coords": [7.6458, 50.6878], "date": "2026-03-20"}, // Haftbefehl Altenkirchen, Diebstahl
+{"coords": [7.75, 51.6333], "date": "2026-03-20"}, // Herringen, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-03-20"}, // Mitte, entwendet

@@ -13652,3 +13652,11 @@
 //{"coords": [], "date": "2026-03-20"} // Erlach, Diebstahl
 //{"coords": [], "date": "2026-03-20"} // Einsatz Bergisch Gladbach, Raub
 //{"coords": [], "date": "2026-03-20"} // Kein Ort gefunden, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-03-20"}, // Polizeipräsidiums Aalen Ulm, Raub
+{"coords": [9.9937, 53.5511], "date": "2026-03-20"}, // Ottensen Hamburg, Einbruch
+//{"coords": [], "date": "2026-03-20"} // Höhe, Raub
+{"coords": [6.45, 51.3167], "date": "2026-03-20"}, // Tönis, Einbruch
+{"coords": [6.5492, 51.2631], "date": "2026-03-20"}, // Kraftfahrzeugen Willich, Diebstähle
+{"coords": [8.0667, 50.3833], "date": "2026-03-20"}, // Limburg, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-03-20"}, // Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-03-20"}, // Täterermittlung Freiburg, Einbrüche

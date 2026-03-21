@@ -13692,3 +13692,5 @@
 {"coords": [11.0299, 50.9848], "date": "2026-03-21"}, // Baustelle Erfurt, Diebstahl
 {"coords": [8.8075, 53.075], "date": "2026-03-21"}, // Bremen, Räuber
 //{"coords": [], "date": "2026-03-21"} // Straftaten Eichsfeldkreis, entwendet
+{"coords": [9.4, 47.7833], "date": "2026-03-21"}, // Bodenseekreis Ravensburg, Diebstähle
+{"coords": [9.2167, 48.0833], "date": "2026-03-21"}, // Landkreis Sigmaringen Ravensburg, Diebstahl

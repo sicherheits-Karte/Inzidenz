@@ -13698,3 +13698,5 @@
 {"coords": [8.1128, 49.1994], "date": "2026-03-21"}, // Landau, Diebstahl
 //{"coords": [], "date": "2026-03-21"} // Queich, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-03-21"}, // Zeugenaufruf Delmenhorst, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-03-21"}, // Reutlingen, Raub
+{"coords": [10.4278, 51.9042], "date": "2026-03-21"}, // Goslar, Einbruch

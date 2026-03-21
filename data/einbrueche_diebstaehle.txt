@@ -13682,3 +13682,7 @@
 {"coords": [7.4614, 50.4286], "date": "2026-03-21"}, // Zeugen Neuwied, Einbruch
 {"coords": [7.2931, 51.2861], "date": "2026-03-21"}, // Schwelm, Einbruch
 {"coords": [8.2667, 49.05], "date": "2026-03-21"}, // Strafverfahren Maximiliansau, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2026-03-21"}, // Nordhorn, Einbrecher
+{"coords": [6.85, 52.6167], "date": "2026-03-21"}, // Ablenkungsmasche Emlichheim, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-03-21"}, // Ludwigshafen, entwendet
+{"coords": [9.8333, 53.95], "date": "2026-03-21"}, // Düppelstraße Hagen, Einbruch

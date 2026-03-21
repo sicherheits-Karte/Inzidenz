@@ -13681,3 +13681,4 @@
 {"coords": [7.3333, 51.4333], "date": "2026-03-21"}, // Witten, Raub
 {"coords": [7.4614, 50.4286], "date": "2026-03-21"}, // Zeugen Neuwied, Einbruch
 {"coords": [7.2931, 51.2861], "date": "2026-03-21"}, // Schwelm, Einbruch
+{"coords": [8.2667, 49.05], "date": "2026-03-21"}, // Strafverfahren Maximiliansau, Diebstahl

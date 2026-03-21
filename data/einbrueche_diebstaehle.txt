@@ -13705,3 +13705,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-03-21"}, // Limburg, Diebstahl
 //{"coords": [], "date": "2026-03-21"} // Biewer, Diebstahl
 //{"coords": [], "date": "2026-03-21"} // Sachschaden Bad Langensalza, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-03-21"}, // Trickdiebstahl Wittlich, Diebstahl

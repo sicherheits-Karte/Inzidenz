@@ -13686,3 +13686,4 @@
 {"coords": [6.85, 52.6167], "date": "2026-03-21"}, // Ablenkungsmasche Emlichheim, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-03-21"}, // Ludwigshafen, entwendet
 {"coords": [9.8333, 53.95], "date": "2026-03-21"}, // Düppelstraße Hagen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-03-21"}, // Ludwigshafen, Diebstahl

@@ -13694,3 +13694,6 @@
 //{"coords": [], "date": "2026-03-21"} // Straftaten Eichsfeldkreis, entwendet
 {"coords": [9.4, 47.7833], "date": "2026-03-21"}, // Bodenseekreis Ravensburg, Diebstähle
 {"coords": [9.2167, 48.0833], "date": "2026-03-21"}, // Landkreis Sigmaringen Ravensburg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-03-21"}, // Hofheim, gestohlen
+{"coords": [8.1128, 49.1994], "date": "2026-03-21"}, // Landau, Diebstahl
+//{"coords": [], "date": "2026-03-21"} // Queich, Diebstahl

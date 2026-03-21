@@ -13678,3 +13678,4 @@
 //{"coords": [], "date": "2026-03-20"} // Verwertungstat Rheinbrohl, Diebstahl
 {"coords": [9.8578, 51.3411], "date": "2026-03-20"}, // Witzenhausen Kassel, Raub
 //{"coords": [], "date": "2026-03-21"} // Kues, gestohlen
+{"coords": [7.3333, 51.4333], "date": "2026-03-21"}, // Witten, Raub

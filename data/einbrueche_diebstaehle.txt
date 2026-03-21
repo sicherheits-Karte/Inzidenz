@@ -13701,3 +13701,6 @@
 {"coords": [9.2167, 48.4833], "date": "2026-03-21"}, // Reutlingen, Raub
 {"coords": [10.4278, 51.9042], "date": "2026-03-21"}, // Goslar, Einbruch
 {"coords": [8.6944, 53.8619], "date": "2026-03-21"}, // Automatenaufbruch Cuxhaven, Einbruch
+{"coords": [12.7833, 48.1833], "date": "2026-03-21"}, // Mehring, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-03-21"}, // Limburg, Diebstahl
+//{"coords": [], "date": "2026-03-21"} // Biewer, Diebstahl

@@ -13689,3 +13689,4 @@
 {"coords": [8.4353, 49.4811], "date": "2026-03-21"}, // Ludwigshafen, Diebstahl
 {"coords": [7.6, 49.2], "date": "2026-03-21"}, // Pirmasens, gestohlen
 {"coords": [6.85, 49.9333], "date": "2026-03-21"}, // Scooter Salmtal, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-03-21"}, // Baustelle Erfurt, Diebstahl

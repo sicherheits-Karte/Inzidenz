@@ -13744,3 +13744,4 @@
 {"coords": [6.85, 49.3], "date": "2026-03-22"}, // Bad Schwalbach, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2026-03-22"}, // Ostermarkt Wiesbaden, Diebstahl
 {"coords": [7.7806, 53.5769], "date": "2026-03-22"}, // Wittmund, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-03-22"}, // Zeugen Osnabrück, Einbruch

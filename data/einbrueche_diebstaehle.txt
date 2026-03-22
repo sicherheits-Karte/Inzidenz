@@ -13745,3 +13745,6 @@
 {"coords": [8.24, 50.0822], "date": "2026-03-22"}, // Ostermarkt Wiesbaden, Diebstahl
 {"coords": [7.7806, 53.5769], "date": "2026-03-22"}, // Wittmund, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-03-22"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-03-22"}, // Zeugen Osnabrück, Raub
+{"coords": [7.0667, 52.1], "date": "2026-03-22"}, // Heek, Dieb
+{"coords": [6.6153, 51.8367], "date": "2026-03-22"}, // Wohnhaus Bocholt, Einbruch

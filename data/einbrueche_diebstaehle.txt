@@ -13753,3 +13753,7 @@
 {"coords": [8.0472, 52.2799], "date": "2026-03-22"}, // Zeugen Osnabrück, Diebstähle
 {"coords": [9.9333, 52.9667], "date": "2026-03-22"}, // Heidekreis, entwendet
 //{"coords": [], "date": "2026-03-22"} // Polizeidirektion Hochtaunus, Einbruch
+{"coords": [8.0, 51.3333], "date": "2026-03-22"}, // Sundern, entwendet
+//{"coords": [], "date": "2026-03-22"} // Kein Ort gefunden, Dieb
+{"coords": [8.4333, 52.8944], "date": "2026-03-22"}, // Wildeshausen Delmenhorst, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2026-03-22"}, // Zeugenaufruf Nürnberg, Dieb

@@ -13765,3 +13765,5 @@
 {"coords": [7.0116, 51.4556], "date": "2026-03-22"}, // Vorläufige Festnahme Essen, stahl
 {"coords": [8.0667, 50.3833], "date": "2026-03-22"}, // Limburg, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2026-03-22"}, // Warendorf, entwendet
+{"coords": [8.3708, 52.6078], "date": "2026-03-22"}, // Diepholz, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-22"}, // Aalen, Einbruch

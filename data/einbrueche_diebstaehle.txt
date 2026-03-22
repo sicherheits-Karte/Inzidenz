@@ -13767,3 +13767,4 @@
 {"coords": [7.9833, 51.95], "date": "2026-03-22"}, // Warendorf, entwendet
 {"coords": [8.3708, 52.6078], "date": "2026-03-22"}, // Diepholz, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-22"}, // Aalen, Einbruch
+{"coords": [7.3333, 49.3167], "date": "2026-03-22"}, // Polizeistation Bad Homburg, Raub

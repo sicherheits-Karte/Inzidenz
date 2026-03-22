@@ -13712,3 +13712,5 @@
 {"coords": [7.3333, 51.4333], "date": "2026-03-22"}, // Hinweise Witten, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-03-22"}, // Gaststätten Ludwigsburg, Einbruch
 {"coords": [8.2667, 49.05], "date": "2026-03-22"}, // Wörth Wörth, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-03-22"}, // Emden, Einbruch
+//{"coords": [], "date": "2026-03-22"} // Vereinsheim Kuhardt, Einbruch

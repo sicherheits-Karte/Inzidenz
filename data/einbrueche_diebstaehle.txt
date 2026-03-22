@@ -13706,3 +13706,6 @@
 //{"coords": [], "date": "2026-03-21"} // Biewer, Diebstahl
 //{"coords": [], "date": "2026-03-21"} // Sachschaden Bad Langensalza, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-03-21"}, // Trickdiebstahl Wittlich, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-03-22"}, // Mitte, Dieb
+{"coords": [11.4972, 53.3242], "date": "2026-03-22"}, // Hinweise Ludwigslust, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-03-22"}, // Mitte, gestohlen

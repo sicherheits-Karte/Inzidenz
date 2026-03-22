@@ -13748,3 +13748,8 @@
 {"coords": [8.0472, 52.2799], "date": "2026-03-22"}, // Zeugen Osnabrück, Raub
 {"coords": [7.0667, 52.1], "date": "2026-03-22"}, // Heek, Dieb
 {"coords": [6.6153, 51.8367], "date": "2026-03-22"}, // Wohnhaus Bocholt, Einbruch
+{"coords": [12.0942, 50.6783], "date": "2026-03-22"}, // Langenwetzendorf Greiz, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-03-22"}, // Gartenanlage Greiz, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-03-22"}, // Zeugen Osnabrück, Diebstähle
+{"coords": [9.9333, 52.9667], "date": "2026-03-22"}, // Heidekreis, entwendet
+//{"coords": [], "date": "2026-03-22"} // Polizeidirektion Hochtaunus, Einbruch

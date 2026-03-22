@@ -13714,3 +13714,16 @@
 {"coords": [8.2667, 49.05], "date": "2026-03-22"}, // Wörth Wörth, Diebstahl
 {"coords": [7.2061, 53.3669], "date": "2026-03-22"}, // Emden, Einbruch
 //{"coords": [], "date": "2026-03-22"} // Vereinsheim Kuhardt, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-03-22"}, // Weimar, Raub
+//{"coords": [], "date": "2026-03-22"} // Kupferdiebe Bottendorf, Dieb
+{"coords": [11.3239, 50.9795], "date": "2026-03-22"}, // Weimar, Einbruch
+//{"coords": [], "date": "2026-03-22"} // Holzthaleben, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-22"}, // Vechta, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-03-22"}, // Gera, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-03-22"}, // Hofheim, Diebstahl
+{"coords": [11.3592, 50.6486], "date": "2026-03-22"}, // Saalfeld, Einbrüche
+{"coords": [8.4353, 49.4811], "date": "2026-03-22"}, // Rathausplatz Ludwigshafen, Diebstahl
+{"coords": [7.2333, 52.3167], "date": "2026-03-22"}, // Wohnanhänger Schüttorf, Einbruch
+{"coords": [6.85, 52.6167], "date": "2026-03-22"}, // Wohnhaus Emlichheim, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-03-22"}, // Tankstellengebäude Lingen, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-03-22"}, // Eierhütte Haselünne, Diebstahl

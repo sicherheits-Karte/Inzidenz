@@ -13762,3 +13762,5 @@
 //{"coords": [], "date": "2026-03-22"} // Winterberg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-03-22"}, // Lebensmitteldiebe Augsburg, Dieb
 {"coords": [10.8978, 48.3705], "date": "2026-03-22"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-03-22"}, // Vorläufige Festnahme Essen, stahl
+{"coords": [8.0667, 50.3833], "date": "2026-03-22"}, // Limburg, Diebstahl

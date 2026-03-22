@@ -13739,3 +13739,8 @@
 {"coords": [8.8667, 51.9333], "date": "2026-03-22"}, // Lippe, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-03-22"}, // Zeugen Gelsenkirchen, Raub
 {"coords": [7.2197, 51.5428], "date": "2026-03-22"}, // Herne, Raub
+{"coords": [7.6333, 51.05], "date": "2026-03-22"}, // Einfamilienhaus Bergneustadt, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-03-22"}, // Hagen, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-03-22"}, // Bad Schwalbach, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-03-22"}, // Ostermarkt Wiesbaden, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2026-03-22"}, // Wittmund, Einbruch

@@ -13710,3 +13710,5 @@
 {"coords": [11.4972, 53.3242], "date": "2026-03-22"}, // Hinweise Ludwigslust, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2026-03-22"}, // Mitte, gestohlen
 {"coords": [7.3333, 51.4333], "date": "2026-03-22"}, // Hinweise Witten, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-03-22"}, // Gaststätten Ludwigsburg, Einbruch
+{"coords": [8.2667, 49.05], "date": "2026-03-22"}, // Wörth Wörth, Diebstahl

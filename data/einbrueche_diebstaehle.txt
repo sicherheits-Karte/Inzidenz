@@ -13757,3 +13757,8 @@
 //{"coords": [], "date": "2026-03-22"} // Kein Ort gefunden, Dieb
 {"coords": [8.4333, 52.8944], "date": "2026-03-22"}, // Wildeshausen Delmenhorst, Diebstahl
 {"coords": [11.0767, 49.4521], "date": "2026-03-22"}, // Zeugenaufruf Nürnberg, Dieb
+//{"coords": [], "date": "2026-03-22"} // Bäckereifiliale, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-03-22"}, // Einbruch Reutlingen, Einbruch
+//{"coords": [], "date": "2026-03-22"} // Winterberg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-03-22"}, // Lebensmitteldiebe Augsburg, Dieb
+{"coords": [10.8978, 48.3705], "date": "2026-03-22"}, // Diebstahl Augsburg, Diebstahl

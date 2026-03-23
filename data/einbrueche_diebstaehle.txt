@@ -13871,3 +13871,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-03-23"}, // Vereinsheim Reutlingen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-23"}, // Seniorenwohnheimen Aalen, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-03-23"}, // Einbrüche Giessen, Einbruch
+//{"coords": [], "date": "2026-03-23"} // Kennzeichendiebstahl Windhagen, Diebstahl

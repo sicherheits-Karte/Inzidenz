@@ -13837,3 +13837,13 @@
 {"coords": [9.6536, 53.7547], "date": "2026-03-23"}, // Wohnhaus Elmshorn, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-03-23"}, // Nordhausen, Einbruch
 {"coords": [9.984, 54.0714], "date": "2026-03-23"}, // Neumünster Neumünster, Einbruch
+//{"coords": [], "date": "2026-03-23"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2026-03-23"}, // Unfallflucht Aalen, Diebstahl
+{"coords": [6.2833, 50.8167], "date": "2026-03-23"}, // Raubüberfall Eschweiler, Raub
+//{"coords": [], "date": "2026-03-23"} // Keltern, Einbruch
+{"coords": [9.2167, 48.0833], "date": "2026-03-23"}, // Landkreis Sigmaringen Landkreis Sigmaringen, entwendet
+{"coords": [8.6822, 50.1106], "date": "2026-03-23"}, // Zeugensuche Frankfurt, Raub
+//{"coords": [], "date": "2026-03-23"} // Eimbeckhausen, stehlen
+{"coords": [7.6889, 51.5347], "date": "2026-03-23"}, // Schwerverletzten Unna, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-03-23"}, // Baumarktmitarbeiterin Erfurt, stehlen
+{"coords": [11.0299, 50.9848], "date": "2026-03-23"}, // Erfurt, Dieb

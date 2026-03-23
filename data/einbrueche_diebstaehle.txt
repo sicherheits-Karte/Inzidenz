@@ -13807,3 +13807,12 @@
 //{"coords": [], "date": "2026-03-23"} // Hombach, Einbruch
 {"coords": [8.4725, 49.5981], "date": "2026-03-23"}, // Lampertheim, Einbrecher
 {"coords": [7.2, 51.6167], "date": "2026-03-23"}, // Recklinghausen, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-03-23"}, // Einfamilienhäuser Kreis Euskirchen, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-03-23"}, // Bielefeld, Dieb
+{"coords": [6.7872, 50.6606], "date": "2026-03-23"}, // Lagerraum Euskirchen, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-03-23"}, // Neuss, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-03-23"}, // Ludwigsburg, gestohlen
+{"coords": [7.2162, 51.4818], "date": "2026-03-23"}, // Zeugen Bochum, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-03-23"}, // Diebstahlsdelikt Reutlingen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-03-23"}, // Bielefeld, eingebrochen
+{"coords": [12.9833, 54.2167], "date": "2026-03-23"}, // Steinhagen Gütersloh, Einbruch

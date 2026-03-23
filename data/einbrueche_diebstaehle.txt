@@ -13774,3 +13774,16 @@
 {"coords": [7.8208, 51.6803], "date": "2026-03-23"}, // Hamm, Einbruch
 //{"coords": [], "date": "2026-03-23"} // Lüxem, stahl
 {"coords": [7.6, 50.45], "date": "2026-03-23"}, // Isenburg, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-23"}, // Hinweise Recklinghausen, Raub
+{"coords": [11.4972, 53.3242], "date": "2026-03-23"}, // Ludwigslust, Räuber
+{"coords": [12.4333, 50.985], "date": "2026-03-23"}, // Altenburg, Diebstahl
+{"coords": [9.15, 52.2167], "date": "2026-03-23"}, // Schaumburg, Diebstahl
+{"coords": [9.0492, 52.2603], "date": "2026-03-23"}, // Zeugen Bückeburg, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-03-23"}, // Getränkemarkt Meppen, Dieb
+{"coords": [9.0492, 52.2603], "date": "2026-03-23"}, // Bahnhof Bückeburg, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2026-03-23"}, // Schmuckgeschäft Moers, Einbruch
+{"coords": [8.35, 51.3167], "date": "2026-03-23"}, // Hochsauerlandkreis, Einbruch
+{"coords": [9.2081, 52.3242], "date": "2026-03-23"}, // Zeugenaufruf Stadthagen, Diebstahl
+//{"coords": [], "date": "2026-03-23"} // Ense, eingebrochen
+{"coords": [11.7667, 51.8333], "date": "2026-03-23"}, // Zeugen Nienburg, Diebstahl
+//{"coords": [], "date": "2026-03-23"} // Sportlerheim Steinrode, Einbrecher

@@ -13816,3 +13816,16 @@
 {"coords": [9.2167, 48.4833], "date": "2026-03-23"}, // Diebstahlsdelikt Reutlingen, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-03-23"}, // Bielefeld, eingebrochen
 {"coords": [12.9833, 54.2167], "date": "2026-03-23"}, // Steinhagen Gütersloh, Einbruch
+{"coords": [8.0667, 51.1167], "date": "2026-03-23"}, // Autos Lennestadt, Diebstähle
+{"coords": [8.1333, 48.7], "date": "2026-03-23"}, // Bühl, Einbruch
+//{"coords": [], "date": "2026-03-23"} // Radolfzell, Raub
+//{"coords": [], "date": "2026-03-23"} // Peterzell, Einbruch
+//{"coords": [], "date": "2026-03-23"} // Tengen, Einbruch
+//{"coords": [], "date": "2026-03-23"} // Sankt Augustin, Einbruch
+//{"coords": [], "date": "2026-03-23"} // Ringelheim, Einbrüche
+{"coords": [6.4333, 51.2], "date": "2026-03-23"}, // Zeugen Mönchengladbach, Raub
+//{"coords": [], "date": "2026-03-23"} // Lebenstedt, Einbruch
+{"coords": [9.8, 53.6592], "date": "2026-03-23"}, // Zeugen Pinneberg, Einbruch
+//{"coords": [], "date": "2026-03-23"} // Kein Ort gefunden, Diebstahl
+{"coords": [6.5617, 51.3317], "date": "2026-03-23"}, // Festnahme Krefeld, Raub
+{"coords": [7.6736, 51.2972], "date": "2026-03-23"}, // Altena, Diebstähle

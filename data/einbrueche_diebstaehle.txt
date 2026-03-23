@@ -13847,3 +13847,13 @@
 {"coords": [7.6889, 51.5347], "date": "2026-03-23"}, // Schwerverletzten Unna, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-03-23"}, // Baumarktmitarbeiterin Erfurt, stehlen
 {"coords": [11.0299, 50.9848], "date": "2026-03-23"}, // Erfurt, Dieb
+{"coords": [6.9603, 50.9375], "date": "2026-03-23"}, // Stadtteilen Köln, Diebstähle
+{"coords": [9.3833, 50.6333], "date": "2026-03-23"}, // Einbrecherduo Vogelsbergkreis, Einbrüche
+{"coords": [8.2036, 48.8572], "date": "2026-03-23"}, // Wohnungseinbruchsdiebstahl Rastatt, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-03-23"}, // Verfolgungsfahrt Hersfeld Rotenburg, Einbruch
+{"coords": [12.7628, 53.7392], "date": "2026-03-23"}, // Malchin, Einbruch
+{"coords": [7.825, 50.4358], "date": "2026-03-23"}, // Ritzhausen Montabaur, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-23"}, // Beute Coesfeld, Dieb
+{"coords": [7.1, 51.5167], "date": "2026-03-23"}, // Hüllen Gelsenkirchen, Räuber
+{"coords": [11.4012, 53.6355], "date": "2026-03-23"}, // Tatverdächtige Schwerin, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-03-23"}, // Zeugen Freiburg, Einbruch

@@ -13829,3 +13829,11 @@
 //{"coords": [], "date": "2026-03-23"} // Kein Ort gefunden, Diebstahl
 {"coords": [6.5617, 51.3317], "date": "2026-03-23"}, // Festnahme Krefeld, Raub
 {"coords": [7.6736, 51.2972], "date": "2026-03-23"}, // Altena, Diebstähle
+{"coords": [8.8667, 51.9333], "date": "2026-03-23"}, // Lippe, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-03-23"}, // Schule Gronau, Einbruch
+{"coords": [7.0833, 51.1667], "date": "2026-03-23"}, // Solingen Wuppertal, Einbrüche
+{"coords": [7.0333, 52.2167], "date": "2026-03-23"}, // Büroräume Gronau, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-03-23"}, // Bikes Wilhelmshaven, Diebstahl
+{"coords": [9.6536, 53.7547], "date": "2026-03-23"}, // Wohnhaus Elmshorn, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-03-23"}, // Nordhausen, Einbruch
+{"coords": [9.984, 54.0714], "date": "2026-03-23"}, // Neumünster Neumünster, Einbruch

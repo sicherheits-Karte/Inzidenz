@@ -13857,3 +13857,13 @@
 {"coords": [7.1, 51.5167], "date": "2026-03-23"}, // Hüllen Gelsenkirchen, Räuber
 {"coords": [11.4012, 53.6355], "date": "2026-03-23"}, // Tatverdächtige Schwerin, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-03-23"}, // Zeugen Freiburg, Einbruch
+//{"coords": [], "date": "2026-03-23"} // Höhe, Einbrüche
+{"coords": [8.6667, 50.5833], "date": "2026-03-23"}, // Einbrüche Gießen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-03-23"}, // Ludwigshafen, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-03-23"}, // Schlossbergtunnel Giessen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-23"}, // Giessen, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-03-23"}, // Geschädigtenaufruf Mannheim, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-03-23"}, // Haft Köln, Raub
+{"coords": [8.4414, 50.0919], "date": "2026-03-23"}, // Sachschaden Hofheim, gestohlen
+{"coords": [8.0667, 50.3833], "date": "2026-03-23"}, // Baum Limburg, Dieb
+{"coords": [6.1353, 51.7875], "date": "2026-03-23"}, // Riecher Kleve, gestohlen

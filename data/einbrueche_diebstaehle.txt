@@ -13769,3 +13769,8 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-22"}, // Aalen, Einbruch
 {"coords": [7.3333, 49.3167], "date": "2026-03-22"}, // Polizeistation Bad Homburg, Raub
 //{"coords": [], "date": "2026-03-23"} // Straße, Raub
+//{"coords": [], "date": "2026-03-23"} // Weimarer Land, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-03-23"}, // Aalen, Einbrüche
+{"coords": [7.8208, 51.6803], "date": "2026-03-23"}, // Hamm, Einbruch
+//{"coords": [], "date": "2026-03-23"} // Lüxem, stahl
+{"coords": [7.6, 50.45], "date": "2026-03-23"}, // Isenburg, Einbruch

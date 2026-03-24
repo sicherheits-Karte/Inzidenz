@@ -13888,3 +13888,12 @@
 {"coords": [8.3667, 49.9833], "date": "2026-03-24"}, // Gustavsburg, Einbrecher
 {"coords": [8.6306, 53.05], "date": "2026-03-24"}, // Delmenhorst, Diebstahl
 {"coords": [7.4333, 52.2833], "date": "2026-03-24"}, // Beute Rheine, gestohlen
+//{"coords": [], "date": "2026-03-24"} // Uentrop, Einbrecher
+{"coords": [8.6833, 52.15], "date": "2026-03-24"}, // Herford, eingebrochen
+{"coords": [8.6833, 52.15], "date": "2026-03-24"}, // Zeugen Herford, Diebstahl
+//{"coords": [], "date": "2026-03-24"} // Zeugen Föritztal, gestohlen
+{"coords": [8.8075, 53.075], "date": "2026-03-24"}, // Bremen, Diebstahl
+{"coords": [8.1333, 48.7], "date": "2026-03-24"}, // Bühl, Einbruch
+{"coords": [7.5408, 50.9056], "date": "2026-03-24"}, // Bargeld Nümbrecht, Einbruch
+//{"coords": [], "date": "2026-03-24"} // oder mehrere bislang unbekannte Personen mehrere Werkzeuge, darunter eine Bohrmaschine der Marke, Diebstahl
+{"coords": [10.3243, 50.9746], "date": "2026-03-24"}, // Eisenach, entwendet

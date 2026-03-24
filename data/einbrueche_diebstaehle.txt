@@ -13943,3 +13943,13 @@
 {"coords": [6.7623, 51.4344], "date": "2026-03-24"}, // Zeugensuche Duisburg, Einbruch
 {"coords": [8.6267, 48.1678], "date": "2026-03-24"}, // Rottweil, aufbruch
 {"coords": [9.6536, 53.7547], "date": "2026-03-24"}, // Einsatzkräfte Elmshorn, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-03-24"}, // Erpressung Frankfurt, Räuber
+{"coords": [6.8167, 51.1], "date": "2026-03-24"}, // Dormagen, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-03-24"}, // Gartengeräten Wilhelmshaven, Diebstahl
+{"coords": [6.6717, 51.2614], "date": "2026-03-24"}, // Fräse Meerbusch, Einbruch
+{"coords": [9.3806, 51.775], "date": "2026-03-24"}, // Haft Höxter, Dieb
+//{"coords": [], "date": "2026-03-24"} // Kreis, Einbrecher
+{"coords": [6.9603, 50.9375], "date": "2026-03-24"}, // Haftrichter Köln, Raub
+//{"coords": [], "date": "2026-03-24"} // gemeinnützigen Verein übergeben mehr, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-03-24"}, // Zeugenaufruf Mannheim, eingebrochen
+{"coords": [10.4, 53.25], "date": "2026-03-24"}, // Lüneburg, Diebstahl

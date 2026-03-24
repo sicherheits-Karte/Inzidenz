@@ -13876,3 +13876,15 @@
 {"coords": [6.8889, 49.9858], "date": "2026-03-24"}, // Ladendieb Wittlich, Dieb
 {"coords": [10.0, 51.7064], "date": "2026-03-24"}, // Northeim, Raub
 //{"coords": [], "date": "2026-03-24"} // Kennzeichendiebstahl Föhren, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-03-24"}, // Gera, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2026-03-24"}, // Greiz, gestohlen
+{"coords": [12.4333, 50.985], "date": "2026-03-24"}, // Altenburg, entwendet
+{"coords": [8.4111, 49.9917], "date": "2026-03-24"}, // Visier Krimineller Rüsselsheim, entwendet
+{"coords": [8.2711, 50.0], "date": "2026-03-24"}, // Mithilfe Mainz, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-03-24"}, // Jena, Diebstahl
+//{"coords": [], "date": "2026-03-24"} // Weimarer Land, Diebstahl
+{"coords": [7.35, 52.15], "date": "2026-03-24"}, // Steinfurt, Diebstahl
+//{"coords": [], "date": "2026-03-24"} // POL-PDNR, Diebstahl
+{"coords": [8.3667, 49.9833], "date": "2026-03-24"}, // Gustavsburg, Einbrecher
+{"coords": [8.6306, 53.05], "date": "2026-03-24"}, // Delmenhorst, Diebstahl
+{"coords": [7.4333, 52.2833], "date": "2026-03-24"}, // Beute Rheine, gestohlen

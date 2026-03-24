@@ -13911,3 +13911,16 @@
 {"coords": [8.0472, 52.2799], "date": "2026-03-24"}, // Hinweise Osnabrück, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-03-24"}, // Ludwigsburg, entwendet
 {"coords": [9.9916, 48.3984], "date": "2026-03-24"}, // Ulm, Einbrecher
+{"coords": [9.5, 51.3167], "date": "2026-03-24"}, // Kassel, Dieb
+{"coords": [10.7753, 49.7544], "date": "2026-03-24"}, // Mühlhausen, Diebstahl
+{"coords": [8.8494, 52.4569], "date": "2026-03-24"}, // Rohbau Warmsen, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2026-03-24"}, // Eschwege, Diebstahl
+{"coords": [6.2333, 51.5833], "date": "2026-03-24"}, // Kevelaer, Diebstahl
+{"coords": [8.0, 51.3333], "date": "2026-03-24"}, // Sundern Sundern, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-03-24"}, // Zeugenaufruf Essen, entwendet
+{"coords": [9.0492, 52.2603], "date": "2026-03-24"}, // Geldbörsendiebstahl Bückeburg, Diebstahl
+{"coords": [8.8742, 48.7306], "date": "2026-03-24"}, // Öschelbronn, gestohlen
+{"coords": [9.55, 49.3167], "date": "2026-03-24"}, // Unfallflucht Hohenlohekreis, Einbruch
+//{"coords": [], "date": "2026-03-24"} // Sönnern, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-03-24"}, // Einbrüche Heilbronn, Einbrüche
+{"coords": [10.0831, 52.6247], "date": "2026-03-24"}, // Celle, Diebstahl

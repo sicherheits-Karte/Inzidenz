@@ -13872,3 +13872,7 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-23"}, // Seniorenwohnheimen Aalen, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-03-23"}, // Einbrüche Giessen, Einbruch
 //{"coords": [], "date": "2026-03-23"} // Kennzeichendiebstahl Windhagen, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-03-24"}, // Northeim, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-03-24"}, // Ladendieb Wittlich, Dieb
+{"coords": [10.0, 51.7064], "date": "2026-03-24"}, // Northeim, Raub
+//{"coords": [], "date": "2026-03-24"} // Kennzeichendiebstahl Föhren, Diebstahl

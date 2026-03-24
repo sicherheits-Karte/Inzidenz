@@ -13897,3 +13897,17 @@
 {"coords": [7.5408, 50.9056], "date": "2026-03-24"}, // Bargeld Nümbrecht, Einbruch
 //{"coords": [], "date": "2026-03-24"} // oder mehrere bislang unbekannte Personen mehrere Werkzeuge, darunter eine Bohrmaschine der Marke, Diebstahl
 {"coords": [10.3243, 50.9746], "date": "2026-03-24"}, // Eisenach, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-03-24"}, // Kirche Bielefeld, Einbruch
+//{"coords": [], "date": "2026-03-24"} // Neu Wulmstorf, gestohlen
+{"coords": [8.0667, 49.9867], "date": "2026-03-24"}, // Ingelheim, Diebstahl
+{"coords": [6.9667, 51.2333], "date": "2026-03-24"}, // Polizei Mettmann POL-ME, Dieb
+//{"coords": [], "date": "2026-03-24"} // Kirche Scheuerfeld, Diebstahl
+{"coords": [9.9592, 53.8392], "date": "2026-03-24"}, // Kaltenkirchen, Einbrüche
+{"coords": [7.1508, 51.2562], "date": "2026-03-24"}, // Heckinghauser Straße Wuppertal, Raub
+{"coords": [7.82, 47.99], "date": "2026-03-24"}, // Autowerkstatt Freiburg, Einbrüche
+{"coords": [11.012, 49.5897], "date": "2026-03-24"}, // Zeugenaufruf Erlangen, entwendet
+{"coords": [8.875, 53.05], "date": "2026-03-24"}, // Osterholz, Diebstahl
+{"coords": [7.5658, 51.4458], "date": "2026-03-24"}, // Schwerte, entwendet
+{"coords": [8.0472, 52.2799], "date": "2026-03-24"}, // Hinweise Osnabrück, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-03-24"}, // Ludwigsburg, entwendet
+{"coords": [9.9916, 48.3984], "date": "2026-03-24"}, // Ulm, Einbrecher

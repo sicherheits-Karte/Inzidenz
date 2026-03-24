@@ -13934,3 +13934,12 @@
 {"coords": [8.6944, 53.8619], "date": "2026-03-24"}, // Wohnhauseinbrüche Cuxhaven, Einbruch
 {"coords": [12.0799, 50.8772], "date": "2026-03-24"}, // Gera, gestohlen
 //{"coords": [], "date": "2026-03-24"} // einem Privatgrundstück. Wie der Eigentümer der Polizei mitteilte, dürften die Diebe zwischen dem, Dieb
+{"coords": [7.0333, 50.8167], "date": "2026-03-24"}, // Hinweise Niederkassel, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-03-24"}, // Zeugenaufruf Mannheim, entwendet
+//{"coords": [], "date": "2026-03-24"} // Hinweise Sankt Augustin, Diebstahl
+{"coords": [7.45, 51.4], "date": "2026-03-24"}, // Handyzubehör Herdecke, Einbrüche
+//{"coords": [], "date": "2026-03-24"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.8978, 48.3705], "date": "2026-03-24"}, // Firmengebäude Augsburg, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2026-03-24"}, // Zeugensuche Duisburg, Einbruch
+{"coords": [8.6267, 48.1678], "date": "2026-03-24"}, // Rottweil, aufbruch
+{"coords": [9.6536, 53.7547], "date": "2026-03-24"}, // Einsatzkräfte Elmshorn, Einbruch

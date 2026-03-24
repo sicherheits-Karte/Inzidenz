@@ -13924,3 +13924,13 @@
 //{"coords": [], "date": "2026-03-24"} // Sönnern, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2026-03-24"}, // Einbrüche Heilbronn, Einbrüche
 {"coords": [10.0831, 52.6247], "date": "2026-03-24"}, // Celle, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-03-24"}, // Mehrfamilienhaus Ratzeburg, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-03-24"}, // Verkehrsunfallflucht Diepholz, Einbruch
+//{"coords": [], "date": "2026-03-24"} // Pferdetransporter mehr, Diebstahl
+//{"coords": [], "date": "2026-03-24"} // Inden, Diebstahl
+//{"coords": [], "date": "2026-03-24"} // Klinik geflogen mehr, Raub
+//{"coords": [], "date": "2026-03-24"} // der Zeit vom, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-03-24"}, // Homberg, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-03-24"}, // Wohnhauseinbrüche Cuxhaven, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-03-24"}, // Gera, gestohlen
+//{"coords": [], "date": "2026-03-24"} // einem Privatgrundstück. Wie der Eigentümer der Polizei mitteilte, dürften die Diebe zwischen dem, Dieb

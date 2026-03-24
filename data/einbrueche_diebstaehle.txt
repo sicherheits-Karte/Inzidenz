@@ -13969,3 +13969,4 @@
 //{"coords": [], "date": "2026-03-24"} // Weilerbach ihr Unwesen treiben. Die Verdächtigen haben in den vergangenen Tagen bei Anwohnern geklingelt und insbesondere nach Schmuck, Pelzen, Gemälden oder anderen Wertgegenständen gefragt. Sie bieten an, diese beispielsweise auf Flohmärkten zu verkaufen. In mindestens einem, Dieb
 {"coords": [8.24, 50.0822], "date": "2026-03-24"}, // Einbrüche Wiesbaden, Einbrüche
 {"coords": [9.2167, 48.4833], "date": "2026-03-24"}, // Reutlingen, Einbrüche
+{"coords": [8.4661, 49.4878], "date": "2026-03-24"}, // Einsatz Mannheim, Raub

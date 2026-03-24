@@ -13953,3 +13953,14 @@
 //{"coords": [], "date": "2026-03-24"} // gemeinnützigen Verein übergeben mehr, Diebstahl
 {"coords": [8.4661, 49.4878], "date": "2026-03-24"}, // Zeugenaufruf Mannheim, eingebrochen
 {"coords": [10.4, 53.25], "date": "2026-03-24"}, // Lüneburg, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2026-03-24"}, // Mönchengladbach, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-24"}, // Giessen, Einbrecher
+{"coords": [10.3333, 52.15], "date": "2026-03-24"}, // Salzgitter, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-03-24"}, // Limburg, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2026-03-24"}, // Landkreis Aurich, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-03-24"}, // Bad Schwalbach, Dieb
+{"coords": [9.4764, 53.6008], "date": "2026-03-24"}, // Stade, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-03-24"}, // Zeugen Osnabrück, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-24"}, // Unfall Aalen, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-03-24"}, // Haustür Stade, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-03-24"}, // Fotofahndung Essen, Einbrecher

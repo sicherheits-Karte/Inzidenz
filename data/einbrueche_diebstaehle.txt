@@ -14020,3 +14020,9 @@
 {"coords": [10.4167, 50.55], "date": "2026-03-25"}, // Meiningen, Dieb
 {"coords": [9.2108, 49.1425], "date": "2026-03-25"}, // Landkreis Heilbronn, Einbrüche
 {"coords": [8.3708, 52.6078], "date": "2026-03-25"}, // Frau Diepholz, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-25"}, // Diebstahl Recklinghausen, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-03-25"}, // Köln, gestohlen
+{"coords": [6.7623, 51.4344], "date": "2026-03-25"}, // Zeugensuche Duisburg, entwendet
+{"coords": [10.95, 49.4333], "date": "2026-03-25"}, // Festnahme Zirndorf, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-03-25"}, // Freiburg, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-03-25"}, // Tatverdächtiger Darmstadt, Einbruch

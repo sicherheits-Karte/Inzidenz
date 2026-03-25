@@ -14046,3 +14046,11 @@
 {"coords": [7.82, 47.99], "date": "2026-03-25"}, // Werkzeugdiebstahl Freiburg, Diebstahl
 {"coords": [10.0528, 51.1889], "date": "2026-03-25"}, // Eschwege, Diebstahl
 {"coords": [8.1075, 53.5219], "date": "2026-03-25"}, // Tageswohnungseinbruch Wilhelmshaven, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-03-25"}, // Zeugenaufruf Delmenhorst, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-03-25"} // Tönisvorst, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // der Ritterstraße kontrolliert. Zuvor versuchte er zusammen mit einem weiteren, bislang unbekannten Fahrradfahrer vor der Polizei zu flüchten. Der, aufbruch
+//{"coords": [], "date": "2026-03-25"} // Kreis, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-25"}, // Aufbrüche Coesfeld, aufbrüche
+{"coords": [6.6178, 51.6589], "date": "2026-03-25"}, // Wesel, eingebrochen
+{"coords": [8.8075, 53.075], "date": "2026-03-25"}, // Bremen, Raub

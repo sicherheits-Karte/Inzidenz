@@ -14006,3 +14006,8 @@
 //{"coords": [], "date": "2026-03-25"} // Dokument mehr, Einbruch
 {"coords": [8.0167, 50.8833], "date": "2026-03-25"}, // Siegen, Diebstahl
 //{"coords": [], "date": "2026-03-25"} // Bieberau, Einbruch
+//{"coords": [], "date": "2026-03-25"} // Kreis, entwendet
+{"coords": [6.4333, 51.8333], "date": "2026-03-25"}, // Emmerich, gestohlen
+{"coords": [8.2711, 50.0], "date": "2026-03-25"}, // Beute Mainz- Neustadt, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-03-25"}, // Polizei Mainz Mainz, Diebstahl
+{"coords": [7.2056, 50.8014], "date": "2026-03-25"}, // Siegburg, Diebstahl

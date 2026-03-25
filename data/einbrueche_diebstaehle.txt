@@ -13997,3 +13997,12 @@
 {"coords": [9.9916, 48.3984], "date": "2026-03-25"}, // Ulm, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2026-03-25"}, // Emden, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-03-25"}, // Delmenhorst, Einbruch
+//{"coords": [], "date": "2026-03-25"} // Roxheim, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-03-25"}, // Ratzeburg, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-03-25"}, // Gebäude Ludwigsburg, Einbrüche
+{"coords": [6.4333, 51.2], "date": "2026-03-25"}, // Mönchengladbach, klau
+{"coords": [8.6944, 53.8619], "date": "2026-03-25"}, // Wohnhäuser Cuxhaven, Einbruch
+{"coords": [8.3667, 50.0], "date": "2026-03-25"}, // Bischofsheim, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // Dokument mehr, Einbruch
+{"coords": [8.0167, 50.8833], "date": "2026-03-25"}, // Siegen, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // Bieberau, Einbruch

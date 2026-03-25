@@ -13972,3 +13972,8 @@
 {"coords": [8.4661, 49.4878], "date": "2026-03-24"}, // Einsatz Mannheim, Raub
 {"coords": [7.4614, 50.4286], "date": "2026-03-25"}, // Neuwied, entwendet
 {"coords": [8.6806, 49.9894], "date": "2026-03-25"}, // Inhaber Langen, Einbrecher
+{"coords": [9.95, 52.15], "date": "2026-03-25"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-03-25"}, // Mönchengladbach, Einbruch
+//{"coords": [], "date": "2026-03-25"} // Weimarer Land, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-03-25"}, // Dieseldiebstahl Northeim, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-03-25"}, // Auto Northeim, Diebstahl

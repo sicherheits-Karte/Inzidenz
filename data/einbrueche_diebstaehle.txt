@@ -14035,3 +14035,14 @@
 {"coords": [7.3194, 52.5236], "date": "2026-03-25"}, // Lingen, Räuber
 {"coords": [7.82, 47.99], "date": "2026-03-25"}, // Autowerkstatt Freiburg, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-03-25"}, // Fahrradgeschäft Ludwigsburg, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-25"}, // Versuchter Diebstahl Coesfeld, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-03-25"}, // Giessen, Einbruch
+{"coords": [10.8717, 49.715], "date": "2026-03-25"}, // Aisch, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-03-25"}, // Frauengruppe Giessen, Einbrecher
+{"coords": [10.5369, 52.1622], "date": "2026-03-25"}, // Wolfenbüttel, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // Büttelborn, Einbrecher
+{"coords": [7.4836, 53.4711], "date": "2026-03-25"}, // Auffahrunfall Landkreis Aurich, gestohlen
+{"coords": [11.9833, 48.3167], "date": "2026-03-25"}, // Zigarettenautomaten Bockhorn, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-03-25"}, // Werkzeugdiebstahl Freiburg, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2026-03-25"}, // Eschwege, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-03-25"}, // Tageswohnungseinbruch Wilhelmshaven, Einbruch

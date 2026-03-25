@@ -14011,3 +14011,12 @@
 {"coords": [8.2711, 50.0], "date": "2026-03-25"}, // Beute Mainz- Neustadt, Diebstahl
 {"coords": [8.2711, 50.0], "date": "2026-03-25"}, // Polizei Mainz Mainz, Diebstahl
 {"coords": [7.2056, 50.8014], "date": "2026-03-25"}, // Siegburg, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // Hinweise Aldenhoven, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-03-25"}, // Ulm, gestohlen
+{"coords": [9.4108, 53.1111], "date": "2026-03-25"}, // Rotenburg, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-03-25"}, // Körperverletzung Fulda, Einbruch
+//{"coords": [], "date": "2026-03-25"} // Einfamilienhaus Lentföhrden, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-03-25"}, // Ludwigshafen, Einbruch
+{"coords": [10.4167, 50.55], "date": "2026-03-25"}, // Meiningen, Dieb
+{"coords": [9.2108, 49.1425], "date": "2026-03-25"}, // Landkreis Heilbronn, Einbrüche
+{"coords": [8.3708, 52.6078], "date": "2026-03-25"}, // Frau Diepholz, Einbruch

@@ -14054,3 +14054,7 @@
 {"coords": [7.1675, 51.9436], "date": "2026-03-25"}, // Aufbrüche Coesfeld, aufbrüche
 {"coords": [6.6178, 51.6589], "date": "2026-03-25"}, // Wesel, eingebrochen
 {"coords": [8.8075, 53.075], "date": "2026-03-25"}, // Bremen, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-03-25"}, // Fahrzeugaufbruch Reutlingen, aufbruch
+{"coords": [10.7956, 51.5019], "date": "2026-03-25"}, // Nordhausen, entwendet
+{"coords": [10.7753, 49.7544], "date": "2026-03-25"}, // Baustelle Mühlhausen, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // Deich entdeckt, Einbruch

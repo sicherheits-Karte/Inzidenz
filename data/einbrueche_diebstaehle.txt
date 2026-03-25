@@ -14058,3 +14058,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-03-25"}, // Nordhausen, entwendet
 {"coords": [10.7753, 49.7544], "date": "2026-03-25"}, // Baustelle Mühlhausen, Diebstahl
 //{"coords": [], "date": "2026-03-25"} // Deich entdeckt, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-03-25"}, // Mannheim, Raub

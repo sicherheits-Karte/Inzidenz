@@ -13988,3 +13988,12 @@
 {"coords": [10.0936, 48.8372], "date": "2026-03-25"}, // Sachbeschädigung Aalen, aufbruch
 {"coords": [8.6306, 53.05], "date": "2026-03-25"}, // Delmenhorst, Diebstahl
 {"coords": [7.85, 51.6333], "date": "2026-03-25"}, // Rhynern, Diebstahl
+{"coords": [7.6458, 50.6878], "date": "2026-03-25"}, // Kleintransporters Altenkirchen, Diebstahl
+{"coords": [7.5667, 51.0833], "date": "2026-03-25"}, // Gummersbach, gestohlen
+//{"coords": [], "date": "2026-03-25"} // Morsbach, gestohlen
+{"coords": [8.6306, 53.05], "date": "2026-03-25"}, // Delmenhorst, entwendet
+{"coords": [9.1828, 48.7756], "date": "2026-03-25"}, // Stuttgart- Ost, eingebrochen
+{"coords": [12.4333, 50.985], "date": "2026-03-25"}, // Altenburg, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-03-25"}, // Ulm, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-25"}, // Emden, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-03-25"}, // Delmenhorst, Einbruch

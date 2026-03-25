@@ -14026,3 +14026,12 @@
 {"coords": [10.95, 49.4333], "date": "2026-03-25"}, // Festnahme Zirndorf, gestohlen
 {"coords": [7.82, 47.99], "date": "2026-03-25"}, // Freiburg, Diebstahl
 {"coords": [8.6514, 49.8728], "date": "2026-03-25"}, // Tatverdächtiger Darmstadt, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-03-25"}, // Wiesbaden, Einbrecher
+{"coords": [8.5847, 53.5469], "date": "2026-03-25"}, // Zeugen Bremerhaven, Raub
+{"coords": [7.2839, 50.9328], "date": "2026-03-25"}, // Overath, Dieb
+//{"coords": [], "date": "2026-03-25"} // Höhe, Dieb
+//{"coords": [], "date": "2026-03-25"} // Kummerfeld, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-03-25"}, // Waschanlage Oldenburg, aufbruch
+{"coords": [7.3194, 52.5236], "date": "2026-03-25"}, // Lingen, Räuber
+{"coords": [7.82, 47.99], "date": "2026-03-25"}, // Autowerkstatt Freiburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-03-25"}, // Fahrradgeschäft Ludwigsburg, Einbruch

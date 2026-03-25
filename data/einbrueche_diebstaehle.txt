@@ -13977,3 +13977,14 @@
 //{"coords": [], "date": "2026-03-25"} // Weimarer Land, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-03-25"}, // Dieseldiebstahl Northeim, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-03-25"}, // Auto Northeim, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // Stromkabel Hönningen, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-03-25"}, // Recklinghausen, Einbrüche
+{"coords": [6.6264, 51.4519], "date": "2026-03-25"}, // Tabakwarengeschäft Moers, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-25"}, // Sonstiges Aalen, Diebstahl
+//{"coords": [], "date": "2026-03-25"} // Boele, Dieb
+{"coords": [7.9833, 51.95], "date": "2026-03-25"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-03-25"}, // Warendorf, Einbruch
+//{"coords": [], "date": "2026-03-25"} // Nachtragsmeldung Sinzheim, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-03-25"}, // Sachbeschädigung Aalen, aufbruch
+{"coords": [8.6306, 53.05], "date": "2026-03-25"}, // Delmenhorst, Diebstahl
+{"coords": [7.85, 51.6333], "date": "2026-03-25"}, // Rhynern, Diebstahl

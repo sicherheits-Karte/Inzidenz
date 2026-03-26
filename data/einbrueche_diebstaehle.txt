@@ -14073,3 +14073,18 @@
 {"coords": [11.0299, 50.9848], "date": "2026-03-26"}, // Erfurt, Einbrecher
 //{"coords": [], "date": "2026-03-26"} // POL-PDNR, Diebstahl
 {"coords": [8.6514, 49.8728], "date": "2026-03-26"}, // Darmstadt, gestohlen
+{"coords": [7.1675, 51.9436], "date": "2026-03-26"}, // Coesfeld, Diebstahl
+//{"coords": [], "date": "2026-03-26"} // Hinweise Lindhorst, Diebstahl
+{"coords": [9.5164, 53.925], "date": "2026-03-26"}, // Raubdelikt Itzehoe, Raub
+{"coords": [8.5331, 52.021], "date": "2026-03-26"}, // Waschstraße Bielefeld, Einbruch
+{"coords": [7.75, 51.3833], "date": "2026-03-26"}, // Hemer, gestohlen
+{"coords": [7.7, 51.375], "date": "2026-03-26"}, // Arztpraxen Iserlohn, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-03-26"}, // Vandalen Lüdenscheid, Dieb
+{"coords": [9.0492, 52.2603], "date": "2026-03-26"}, // Fahrraddiebstahl Bückeburg, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-03-26"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-03-26"}, // Einbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2026-03-26"} // Kein Ort gefunden, Einbruch
+//{"coords": [], "date": "2026-03-26"} // Wewer, Diebstähle
+{"coords": [8.4311, 49.3194], "date": "2026-03-26"}, // Speyer, Dieb
+//{"coords": [], "date": "2026-03-26"} // Fröschen, Diebstahl
+{"coords": [8.5108, 51.64], "date": "2026-03-26"}, // Geseke, Diebstahl

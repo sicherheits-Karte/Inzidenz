@@ -14099,3 +14099,16 @@
 {"coords": [7.9139, 51.5528], "date": "2026-03-26"}, // Werl, aufbruch
 {"coords": [8.875, 53.05], "date": "2026-03-26"}, // Osterholz, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-03-26"}, // Firmengebäude Nordhausen, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-03-26"}, // Ratzeburg, Einbruch
+{"coords": [7.45, 51.4333], "date": "2026-03-26"}, // Vorhalle, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-03-26"}, // Reihenmittelhaus Ratzeburg, Einbruch
+//{"coords": [], "date": "2026-03-26"} // Zeugenhinweise Sankt Augustin, aufbrüche
+{"coords": [8.1075, 53.5219], "date": "2026-03-26"}, // Zoofachgeschäft Wilhelmshaven, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-03-26"}, // Jährigen Münster, Dieb
+{"coords": [6.8761, 50.8778], "date": "2026-03-26"}, // Zeugensuche Hürth, entwendet
+//{"coords": [], "date": "2026-03-26"} // Gonsenheim, Diebstahl
+{"coords": [6.7739, 50.8142], "date": "2026-03-26"}, // Zeugensuche Erftstadt, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-03-26"}, // Menschen Recklinghausen, Dieb
+//{"coords": [], "date": "2026-03-26"} // Veilsdorf, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-03-26"}, // Vechta, entwendet
+{"coords": [8.2146, 53.1434], "date": "2026-03-26"}, // Kiosk Oldenburg, Einbruch

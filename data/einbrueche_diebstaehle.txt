@@ -14146,3 +14146,4 @@
 {"coords": [7.82, 47.99], "date": "2026-03-26"}, // Zeugen Freiburg, eingebrochen
 //{"coords": [], "date": "2026-03-26"} // Schützenhauses Echte Bad Gandersheim, Einbruch
 {"coords": [8.6667, 50.5833], "date": "2026-03-26"}, // Gießen, Raub
+//{"coords": [], "date": "2026-03-26"} // Klingen, Raub

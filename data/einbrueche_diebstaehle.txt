@@ -14088,3 +14088,14 @@
 {"coords": [8.4311, 49.3194], "date": "2026-03-26"}, // Speyer, Dieb
 //{"coords": [], "date": "2026-03-26"} // Fröschen, Diebstahl
 {"coords": [8.5108, 51.64], "date": "2026-03-26"}, // Geseke, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-03-26"}, // Warendorf, Dieb
+{"coords": [8.3833, 51.9], "date": "2026-03-26"}, // Gütersloh, Diebstahl
+//{"coords": [], "date": "2026-03-26"} // Sundheim, Diebstahl
+{"coords": [10.8, 53.4833], "date": "2026-03-26"}, // Wohnungseinbruch Greven, Einbruch
+{"coords": [8.9167, 52.3], "date": "2026-03-26"}, // Reifensätze Minden, Dieb
+//{"coords": [], "date": "2026-03-26"} // Zeugen Königslutter, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-03-26"}, // Mitte, stehlen
+{"coords": [8.3833, 51.9], "date": "2026-03-26"}, // Marienstraße Gütersloh, Einbruch
+{"coords": [7.9139, 51.5528], "date": "2026-03-26"}, // Werl, aufbruch
+{"coords": [8.875, 53.05], "date": "2026-03-26"}, // Osterholz, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-03-26"}, // Firmengebäude Nordhausen, Einbruch

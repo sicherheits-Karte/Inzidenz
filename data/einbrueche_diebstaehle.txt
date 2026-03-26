@@ -14060,3 +14060,9 @@
 //{"coords": [], "date": "2026-03-25"} // Deich entdeckt, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-03-25"}, // Mannheim, Raub
 {"coords": [8.4661, 49.4878], "date": "2026-03-26"}, // Mannheim, Diebstahl
+{"coords": [6.5906, 51.7317], "date": "2026-03-26"}, // Zeugen Hamminkeln, gestohlen
+{"coords": [7.85, 51.6], "date": "2026-03-26"}, // Pelkum, Diebstahl
+//{"coords": [], "date": "2026-03-26"} // Holzland, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-03-26"}, // Ungewöhnliche Beute Jena, Dieb
+{"coords": [6.8889, 49.9858], "date": "2026-03-26"}, // Ladendieb Wittlich, Diebstahl
+//{"coords": [], "date": "2026-03-26"} // Main, Raub

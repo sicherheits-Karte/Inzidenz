@@ -14125,3 +14125,15 @@
 {"coords": [6.2194, 51.0614], "date": "2026-03-26"}, // Scooters Hückelhoven, Diebstahl
 //{"coords": [], "date": "2026-03-26"} // POL-EL, Einbruch
 {"coords": [8.5331, 52.021], "date": "2026-03-26"}, // Bielefeld, Einbrecher
+{"coords": [9.4764, 53.6008], "date": "2026-03-26"}, // Gewerbeobjekt Stade, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-03-26"}, // Wiesbaden, entwendet
+{"coords": [9.9333, 52.9667], "date": "2026-03-26"}, // Heidekreis, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-03-26"}, // Kellerräume Ludwigshafen, Einbruch
+{"coords": [9.185, 51.7175], "date": "2026-03-26"}, // Täter Brakel, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2026-03-26"}, // Landkreis Wittmund, gestohlen
+{"coords": [7.4836, 53.4711], "date": "2026-03-26"}, // Landkreis Aurich, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-26"}, // Giessen, Dieb
+{"coords": [9.4764, 53.6008], "date": "2026-03-26"}, // Stade, gestohlen
+{"coords": [6.6153, 51.8367], "date": "2026-03-26"}, // Bocholt, entwendet
+//{"coords": [], "date": "2026-03-26"} // Cornelia Klausch nach, klau
+{"coords": [6.7872, 50.6606], "date": "2026-03-26"}, // Schuhgeschäft Euskirchen, Diebstahl

@@ -14145,3 +14145,4 @@
 {"coords": [9.6775, 50.5528], "date": "2026-03-26"}, // Straßenverkehr Fulda, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-03-26"}, // Zeugen Freiburg, eingebrochen
 //{"coords": [], "date": "2026-03-26"} // Schützenhauses Echte Bad Gandersheim, Einbruch
+{"coords": [8.6667, 50.5833], "date": "2026-03-26"}, // Gießen, Raub

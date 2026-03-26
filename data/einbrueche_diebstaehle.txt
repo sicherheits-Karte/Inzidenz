@@ -14142,3 +14142,5 @@
 {"coords": [8.6833, 50.5833], "date": "2026-03-26"}, // Aufbrecher Giessen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-03-26"}, // Unfälle Aalen, Einbruch
 {"coords": [9.9158, 51.5413], "date": "2026-03-26"}, // Zeugen Göttingen, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-03-26"}, // Straßenverkehr Fulda, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-26"}, // Zeugen Freiburg, eingebrochen

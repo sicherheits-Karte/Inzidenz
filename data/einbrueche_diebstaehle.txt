@@ -14117,3 +14117,11 @@
 {"coords": [7.2908, 52.6906], "date": "2026-03-26"}, // Meppen, Raub
 {"coords": [7.0667, 52.4333], "date": "2026-03-26"}, // Nordhorn, Raub
 {"coords": [7.2908, 52.6906], "date": "2026-03-26"}, // Meppen, Einbruch
+//{"coords": [], "date": "2026-03-26"} // Kreis, Einbruch
+{"coords": [8.4833, 49.75], "date": "2026-03-26"}, // Zeugen Gernsheim, entwendet
+{"coords": [8.7667, 50.1], "date": "2026-03-26"}, // Kreis Offenbach, entwendet
+{"coords": [8.2833, 49.4667], "date": "2026-03-26"}, // Schauernheim, Einbruch
+//{"coords": [], "date": "2026-03-26"} // Doveren, entwendet
+{"coords": [6.2194, 51.0614], "date": "2026-03-26"}, // Scooters Hückelhoven, Diebstahl
+//{"coords": [], "date": "2026-03-26"} // POL-EL, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-03-26"}, // Bielefeld, Einbrecher

@@ -14189,3 +14189,10 @@
 {"coords": [8.8075, 53.075], "date": "2026-03-27"}, // Bremen, klau
 {"coords": [6.9333, 51.8333], "date": "2026-03-27"}, // Heiden, eingebrochen
 {"coords": [7.2162, 51.4818], "date": "2026-03-27"}, // Tatverdächtigen Bochum, Einbruch
+//{"coords": [], "date": "2026-03-27"} // Zeugen Weiterstadt, gestohlen
+{"coords": [7.1508, 51.2562], "date": "2026-03-27"}, // Wuppertal, Raub
+//{"coords": [], "date": "2026-03-27"} // Weidesheim, Diebstähle
+{"coords": [12.5, 50.8667], "date": "2026-03-27"}, // Schönberg, Diebstahl
+//{"coords": [], "date": "2026-03-27"} // ein Krankenhaus geflogen werden. Der, Raub
+{"coords": [7.2061, 53.3669], "date": "2026-03-27"}, // Emden, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-03-27"}, // Löchgauer Straße Ludwigsburg, Diebstahl

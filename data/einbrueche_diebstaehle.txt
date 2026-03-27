@@ -14237,3 +14237,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-03-27"}, // Giessen, Dieb
 {"coords": [7.8667, 48.35], "date": "2026-03-27"}, // Lahr, Einbruch
 {"coords": [8.1092, 51.5711], "date": "2026-03-27"}, // Soest, Diebstahl
+{"coords": [9.9692, 52.2533], "date": "2026-03-27"}, // Algermissen Hildesheim, Diebstahl

@@ -14157,3 +14157,14 @@
 //{"coords": [], "date": "2026-03-27"} // Holzland, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-03-27"}, // Sonstiges Aalen, Diebstahl
 {"coords": [10.4, 53.25], "date": "2026-03-27"}, // Lüneburg, Einbrüche
+{"coords": [9.9916, 48.3984], "date": "2026-03-27"}, // Ulm, Diebstahl
+{"coords": [6.3778, 51.6083], "date": "2026-03-27"}, // Zeugen Sonsbeck, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-03-27"}, // Freiburg, Einbruch
+//{"coords": [], "date": "2026-03-27"} // Nord, eingebrochen
+{"coords": [8.2146, 53.1434], "date": "2026-03-27"}, // Oldenburg, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-03-27"}, // Bielefeld, Einbrecher
+{"coords": [8.0472, 52.2799], "date": "2026-03-27"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.3667, 51.45], "date": "2026-03-27"}, // Geld Warstein, Einbrüche
+{"coords": [7.4139, 50.9889], "date": "2026-03-27"}, // Engelskirchen, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-03-27"}, // Bahnstraße Dinslaken, Einbrüche
+{"coords": [8.2146, 53.1434], "date": "2026-03-27"}, // Zeugen Oldenburg, Einbruch

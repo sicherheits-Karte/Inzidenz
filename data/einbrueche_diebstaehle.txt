@@ -14178,3 +14178,14 @@
 {"coords": [11.0299, 50.9848], "date": "2026-03-27"}, // Bäckerei Erfurt, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-03-27"}, // Erfurt, gestohlen
 {"coords": [11.0299, 50.9848], "date": "2026-03-27"}, // Erfurt, Diebstahl
+{"coords": [6.5875, 51.0883], "date": "2026-03-27"}, // Grevenbroich, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-27"}, // Aalen, entwendet
+{"coords": [8.3658, 49.6306], "date": "2026-03-27"}, // Worms, Einbruch
+//{"coords": [], "date": "2026-03-27"} // Kaarst, Einbrüche
+//{"coords": [], "date": "2026-03-27"} // Wohnungseinbruch Neu Wulmstorf, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-03-27"}, // Rotenburg, Diebstahl
+{"coords": [10.7292, 50.4258], "date": "2026-03-27"}, // Hildburghausen, Dieb
+{"coords": [10.1781, 51.8922], "date": "2026-03-27"}, // Seesen Goslar, Raub
+{"coords": [8.8075, 53.075], "date": "2026-03-27"}, // Bremen, klau
+{"coords": [6.9333, 51.8333], "date": "2026-03-27"}, // Heiden, eingebrochen
+{"coords": [7.2162, 51.4818], "date": "2026-03-27"}, // Tatverdächtigen Bochum, Einbruch

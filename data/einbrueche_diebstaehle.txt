@@ -14220,3 +14220,11 @@
 {"coords": [7.4836, 53.4711], "date": "2026-03-27"}, // Landkreis Aurich, Einbrüche
 {"coords": [8.1272, 49.2839], "date": "2026-03-27"}, // Polizei Edenkoben, Einbruch
 {"coords": [9.8372, 54.4714], "date": "2026-03-27"}, // Eckernförde, Diebstähle
+{"coords": [6.4208, 51.3653], "date": "2026-03-27"}, // Entdeckung Kempen, Einbruch
+//{"coords": [], "date": "2026-03-27"} // Nord, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-03-27"}, // Karlsruhe, aufbrüche
+//{"coords": [], "date": "2026-03-27"} // Boksee mehr, Raub
+{"coords": [8.24, 50.0822], "date": "2026-03-27"}, // Einbrüche Wiesbaden, Einbrüche
+{"coords": [8.0667, 50.3833], "date": "2026-03-27"}, // Limburg, gestohlen
+{"coords": [9.9158, 51.5413], "date": "2026-03-27"}, // Hinweise Göttingen, Einbrüche
+{"coords": [8.4414, 50.0919], "date": "2026-03-27"}, // Verletztem Hofheim, Einbruch

@@ -14239,3 +14239,4 @@
 {"coords": [8.1092, 51.5711], "date": "2026-03-27"}, // Soest, Diebstahl
 {"coords": [9.9692, 52.2533], "date": "2026-03-27"}, // Algermissen Hildesheim, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-03-27"}, // Ludwigsburg, gestohlen
+//{"coords": [], "date": "2026-03-27"} // Ladendiebstahl Waldrach, Diebstahl

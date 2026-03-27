@@ -14168,3 +14168,13 @@
 {"coords": [7.4139, 50.9889], "date": "2026-03-27"}, // Engelskirchen, Einbruch
 {"coords": [6.75, 51.5833], "date": "2026-03-27"}, // Bahnstraße Dinslaken, Einbrüche
 {"coords": [8.2146, 53.1434], "date": "2026-03-27"}, // Zeugen Oldenburg, Einbruch
+//{"coords": [], "date": "2026-03-27"} // Werpeloh, Diebstahl
+//{"coords": [], "date": "2026-03-27"} // Einkaufsläden, Diebstähle
+//{"coords": [], "date": "2026-03-27"} // Sögel, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-03-27"}, // Lingen, Diebstahl
+//{"coords": [], "date": "2026-03-27"} // Kein Ort gefunden, Dieb
+{"coords": [6.3214, 50.8447], "date": "2026-03-27"}, // Zeugen Langerwehe, Einbruch
+{"coords": [7.8667, 51.2167], "date": "2026-03-27"}, // Plettenberg, entwendet
+{"coords": [11.0299, 50.9848], "date": "2026-03-27"}, // Bäckerei Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-03-27"}, // Erfurt, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-03-27"}, // Erfurt, Diebstahl

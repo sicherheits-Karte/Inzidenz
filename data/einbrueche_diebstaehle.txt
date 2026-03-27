@@ -14196,3 +14196,16 @@
 //{"coords": [], "date": "2026-03-27"} // ein Krankenhaus geflogen werden. Der, Raub
 {"coords": [7.2061, 53.3669], "date": "2026-03-27"}, // Emden, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-03-27"}, // Löchgauer Straße Ludwigsburg, Diebstahl
+//{"coords": [], "date": "2026-03-27"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.775, 52.1439], "date": "2026-03-27"}, // Schöppenstedt, Einbruch
+{"coords": [12.0991, 54.0924], "date": "2026-03-27"}, // Landkreis Rostock, Diebstahl
+//{"coords": [], "date": "2026-03-27"} // Kein Ort gefunden, entwendet
+//{"coords": [], "date": "2026-03-27"} // Hallendorf, Dieb
+{"coords": [8.7667, 50.1], "date": "2026-03-27"}, // Kreis Offenbach, Einbruch
+{"coords": [10.2333, 52.3203], "date": "2026-03-27"}, // Peine, Diebstahl
+{"coords": [8.5333, 50.0667], "date": "2026-03-27"}, // Kelsterbach, hab und gut
+{"coords": [9.5, 51.3167], "date": "2026-03-27"}, // Kassel, Dieb
+//{"coords": [], "date": "2026-03-27"} // Wasserschutzpolizei Waldeck, Diebstahl
+{"coords": [12.0667, 53.6167], "date": "2026-03-27"}, // Dobbertin, gestohlen
+{"coords": [12.0991, 54.0924], "date": "2026-03-27"}, // Hinweise Rostock, Einbruch
+{"coords": [8.8556, 48.0778], "date": "2026-03-27"}, // Spaichingen, entwendet

@@ -14228,3 +14228,12 @@
 {"coords": [8.0667, 50.3833], "date": "2026-03-27"}, // Limburg, gestohlen
 {"coords": [9.9158, 51.5413], "date": "2026-03-27"}, // Hinweise Göttingen, Einbrüche
 {"coords": [8.4414, 50.0919], "date": "2026-03-27"}, // Verletztem Hofheim, Einbruch
+{"coords": [10.9887, 49.4771], "date": "2026-03-27"}, // Einsatz Fürth, Raub
+//{"coords": [], "date": "2026-03-27"} // Grabschmuck auf mehreren Friedhöfen-Zeugenaufruf mehr, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2026-03-27"}, // Zeugensuche Duisburg, Raub
+{"coords": [8.5331, 52.021], "date": "2026-03-27"}, // Bielefeld, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-03-27"}, // Darmstadt, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-03-27"}, // Trickdiebstahls Freiburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-03-27"}, // Giessen, Dieb
+{"coords": [7.8667, 48.35], "date": "2026-03-27"}, // Lahr, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-03-27"}, // Soest, Diebstahl

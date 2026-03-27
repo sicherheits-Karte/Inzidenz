@@ -14148,3 +14148,6 @@
 {"coords": [8.6667, 50.5833], "date": "2026-03-26"}, // Gießen, Raub
 //{"coords": [], "date": "2026-03-26"} // Klingen, Raub
 {"coords": [8.1128, 49.1994], "date": "2026-03-27"}, // Landau, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-03-27"}, // Einbrüche Aalen, Einbrüche
+{"coords": [12.4333, 50.985], "date": "2026-03-27"}, // Altenburg, stahl
+{"coords": [12.0799, 50.8772], "date": "2026-03-27"}, // Gera, Einbruch

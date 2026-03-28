@@ -14256,3 +14256,4 @@
 {"coords": [8.2869, 52.7303], "date": "2026-03-28"}, // Vechta, Diebstahl
 {"coords": [7.3625, 51.2981], "date": "2026-03-28"}, // Einfamilienhaus Ennepetal, Einbruch
 {"coords": [7.1856, 51.3994], "date": "2026-03-28"}, // Blumengeschäft Hattingen, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-03-28"}, // Vechta, Einbruch

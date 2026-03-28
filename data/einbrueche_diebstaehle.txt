@@ -14266,3 +14266,4 @@
 //{"coords": [], "date": "2026-03-28"} // Erlenbach, gestohlen
 {"coords": [10.0, 51.7064], "date": "2026-03-28"}, // Northeim, gestohlen
 {"coords": [8.4311, 49.3194], "date": "2026-03-28"}, // Speyer, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-03-28"}, // Osterholz, Diebstahl

@@ -14243,3 +14243,6 @@
 {"coords": [7.35, 52.15], "date": "2026-03-28"}, // Fahrer Steinfurt, Raub
 {"coords": [7.2197, 51.5428], "date": "2026-03-28"}, // Herne, Raub
 {"coords": [7.6889, 51.5347], "date": "2026-03-28"}, // Unna, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-03-28"}, // Bistro Delmenhorst, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-03-28"}, // Zeugen Karlsruhe, Raub
+//{"coords": [], "date": "2026-03-28"} // Baustelle Käshofen, Diebstahl

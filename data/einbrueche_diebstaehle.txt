@@ -14241,3 +14241,4 @@
 {"coords": [9.1919, 48.8975], "date": "2026-03-27"}, // Ludwigsburg, gestohlen
 //{"coords": [], "date": "2026-03-27"} // Ladendiebstahl Waldrach, Diebstahl
 {"coords": [7.35, 52.15], "date": "2026-03-28"}, // Fahrer Steinfurt, Raub
+{"coords": [7.2197, 51.5428], "date": "2026-03-28"}, // Herne, Raub

@@ -14246,3 +14246,8 @@
 {"coords": [8.6306, 53.05], "date": "2026-03-28"}, // Bistro Delmenhorst, Einbruch
 {"coords": [8.4043, 49.014], "date": "2026-03-28"}, // Zeugen Karlsruhe, Raub
 //{"coords": [], "date": "2026-03-28"} // Baustelle Käshofen, Diebstahl
+//{"coords": [], "date": "2026-03-28"} // Hofladen Abtweiler, Diebstahl
+//{"coords": [], "date": "2026-03-28"} // Bad Gandersheim, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-03-28"}, // Beute Lingen, Einbruch
+{"coords": [7.6014, 52.6853], "date": "2026-03-28"}, // Schule Herzlake, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-03-28"}, // Emden, Diebstahl

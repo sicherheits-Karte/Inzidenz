@@ -14274,3 +14274,4 @@
 {"coords": [8.24, 50.0822], "date": "2026-03-28"}, // Wiesbaden, Einbrecher
 {"coords": [10.7183, 50.9489], "date": "2026-03-28"}, // Landkreis Gotha, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-03-28"}, // Landkreis Gotha, aufbruch
+{"coords": [8.2711, 50.0], "date": "2026-03-28"}, // Zeugenaufruf Mainz, entwendet

@@ -14262,3 +14262,5 @@
 {"coords": [6.8889, 49.9858], "date": "2026-03-28"}, // Verwertungstat Wittlich, Diebstahl
 {"coords": [9.4764, 53.6008], "date": "2026-03-28"}, // Einbruchversuch Stade, Einbruch
 {"coords": [8.1878, 49.4092], "date": "2026-03-28"}, // Fahrzeugfelgen Deidesheim, Diebstahl
+//{"coords": [], "date": "2026-03-28"} // Straße, Diebstahl
+//{"coords": [], "date": "2026-03-28"} // Erlenbach, gestohlen

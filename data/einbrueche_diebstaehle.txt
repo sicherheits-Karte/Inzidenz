@@ -14272,3 +14272,5 @@
 {"coords": [10.9147, 50.6856], "date": "2026-03-28"}, // Ilmenau, Einbruch
 //{"coords": [], "date": "2026-03-28"} // Gehren, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2026-03-28"}, // Wiesbaden, Einbrecher
+{"coords": [10.7183, 50.9489], "date": "2026-03-28"}, // Landkreis Gotha, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-03-28"}, // Landkreis Gotha, aufbruch

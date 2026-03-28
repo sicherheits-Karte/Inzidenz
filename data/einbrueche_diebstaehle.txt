@@ -14267,3 +14267,7 @@
 {"coords": [10.0, 51.7064], "date": "2026-03-28"}, // Northeim, gestohlen
 {"coords": [8.4311, 49.3194], "date": "2026-03-28"}, // Speyer, Diebstahl
 {"coords": [8.875, 53.05], "date": "2026-03-28"}, // Osterholz, Diebstahl
+{"coords": [13.0819, 54.3092], "date": "2026-03-28"}, // Stralsund, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-03-28"}, // Gartenlaube Northeim, Einbruch
+{"coords": [10.9147, 50.6856], "date": "2026-03-28"}, // Ilmenau, Einbruch
+//{"coords": [], "date": "2026-03-28"} // Gehren, Diebstahl

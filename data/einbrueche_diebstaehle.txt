@@ -14257,3 +14257,6 @@
 {"coords": [7.3625, 51.2981], "date": "2026-03-28"}, // Einfamilienhaus Ennepetal, Einbruch
 {"coords": [7.1856, 51.3994], "date": "2026-03-28"}, // Blumengeschäft Hattingen, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-03-28"}, // Vechta, Einbruch
+{"coords": [6.8097, 50.0964], "date": "2026-03-28"}, // Wohnhaus Manderscheid, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-03-28"}, // Fahrzeug Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-03-28"}, // Verwertungstat Wittlich, Diebstahl

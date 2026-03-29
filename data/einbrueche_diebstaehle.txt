@@ -14306,3 +14306,10 @@
 //{"coords": [], "date": "2026-03-29"} // Gerätehaus Ershausen, Einbruch
 {"coords": [9.6989, 53.4769], "date": "2026-03-29"}, // Zeugin Buxtehude, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2026-03-29"}, // Wiesbaden, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-03-29"}, // Zeugenaufruf Frankfurt, Diebstahl
+{"coords": [9.0817, 52.1906], "date": "2026-03-29"}, // Rintelner Stadtgebiet Rinteln, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2026-03-29"}, // Nürnberg, Einbruch
+{"coords": [9.0817, 52.1906], "date": "2026-03-29"}, // Rintelner Industriegebiet Rinteln, Diebstahl
+//{"coords": [], "date": "2026-03-29"} // Zeugen Talheim, Einbruch
+{"coords": [9.0817, 52.1906], "date": "2026-03-29"}, // Rintelner Nordstadt Rinteln, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-03-29"}, // Handtasche Greiz, Diebstahl

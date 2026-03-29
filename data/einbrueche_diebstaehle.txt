@@ -14288,3 +14288,12 @@
 {"coords": [10.7292, 50.4258], "date": "2026-03-29"}, // Baumaschine Hildburghausen, Diebstahl
 {"coords": [7.2061, 53.3669], "date": "2026-03-29"}, // Emden, Diebstahl
 {"coords": [8.5833, 51.3833], "date": "2026-03-29"}, // Einfamilienwohnhaus Brilon, Einbruch
+{"coords": [9.2167, 48.0833], "date": "2026-03-29"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-03-29"}, // Vechta, Einbruch
+{"coords": [11.0106, 52.2278], "date": "2026-03-29"}, // Helmstedt Helmstedt, Einbruch
+{"coords": [6.7739, 50.8142], "date": "2026-03-29"}, // Erftstadt, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-03-29"}, // Baumarkt Hildesheim, Einbruch
+//{"coords": [], "date": "2026-03-29"} // Holzland, Diebstähle
+//{"coords": [], "date": "2026-03-29"} // Lauenau, Diebstahl
+//{"coords": [], "date": "2026-03-29"} // Restaurant Hohnhorst, Einbruch
+{"coords": [7.6, 49.2], "date": "2026-03-29"}, // Wasgau Husterhöhe Polizei Pirmasens, Diebstahl

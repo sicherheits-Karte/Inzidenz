@@ -14318,3 +14318,8 @@
 {"coords": [8.0472, 52.2799], "date": "2026-03-29"}, // Zeugen Osnabrück, Dieb
 {"coords": [10.7753, 49.7544], "date": "2026-03-29"}, // Ballhausen Mühlhausen, entwendet
 {"coords": [8.0667, 50.3833], "date": "2026-03-29"}, // Person Limburg, Raub
+{"coords": [10.7183, 50.9489], "date": "2026-03-29"}, // Landkreis Gotha, Diebstahl
+{"coords": [9.8833, 53.3333], "date": "2026-03-29"}, // Uhr Buchholz, Raub
+{"coords": [7.0833, 49.5167], "date": "2026-03-29"}, // Oberthal Oberthal, Diebstahl
+//{"coords": [], "date": "2026-03-29"} // zwei abgestellten Lastkraftwagen gestohlen, Diebstahl
+//{"coords": [], "date": "2026-03-29"} // Höhe, Diebstahl

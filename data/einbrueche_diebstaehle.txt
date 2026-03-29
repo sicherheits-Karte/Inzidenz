@@ -14324,3 +14324,4 @@
 //{"coords": [], "date": "2026-03-29"} // zwei abgestellten Lastkraftwagen gestohlen, Diebstahl
 //{"coords": [], "date": "2026-03-29"} // Höhe, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-03-29"}, // Hofheim, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-03-29"}, // Mitte, Einbruch

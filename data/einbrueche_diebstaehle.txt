@@ -14280,3 +14280,11 @@
 {"coords": [7.1861, 49.6583], "date": "2026-03-29"}, // Aufbruch Birkenfeld, aufbruch
 {"coords": [8.4661, 49.4878], "date": "2026-03-29"}, // Zeugenaufruf Mannheim, aufbrüche
 {"coords": [8.15, 49.4667], "date": "2026-03-29"}, // Weinstraße, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2026-03-29"}, // Mobilfunkgeschäft Euskirchen1, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-03-29"}, // Einfamilienwohnhaus Arnsberg, Einbruch
+//{"coords": [], "date": "2026-03-29"} // Weilerswist, entwendet
+{"coords": [11.3239, 50.9795], "date": "2026-03-29"}, // Weimar, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-03-29"}, // Pflegedienstmitarbeiter Mühlhausen, Diebstahl
+{"coords": [10.7292, 50.4258], "date": "2026-03-29"}, // Baumaschine Hildburghausen, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-03-29"}, // Emden, Diebstahl
+{"coords": [8.5833, 51.3833], "date": "2026-03-29"}, // Einfamilienwohnhaus Brilon, Einbruch

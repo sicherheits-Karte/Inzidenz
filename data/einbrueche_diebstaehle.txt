@@ -14313,3 +14313,4 @@
 //{"coords": [], "date": "2026-03-29"} // Zeugen Talheim, Einbruch
 {"coords": [9.0817, 52.1906], "date": "2026-03-29"}, // Rintelner Nordstadt Rinteln, Einbruch
 {"coords": [12.1997, 50.6544], "date": "2026-03-29"}, // Handtasche Greiz, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-03-29"}, // Auseinandersetzung Reutlingen, Einbrüche

@@ -14353,3 +14353,14 @@
 {"coords": [6.6833, 51.6167], "date": "2026-03-30"}, // Hinweise Voerde, Diebstahl
 {"coords": [7.45, 51.4333], "date": "2026-03-30"}, // Vorhalle, Dieb
 {"coords": [8.5833, 48.95], "date": "2026-03-30"}, // Remchingen, Einbruch
+{"coords": [8.5333, 48.0667], "date": "2026-03-30"}, // Schwenningen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-03-30"}, // Kofferraum Bielefeld, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-03-30"}, // Gelsenkirchen, entwendet
+{"coords": [8.6514, 49.8728], "date": "2026-03-30"}, // Darmstadt, Einbrecher
+{"coords": [8.4043, 49.014], "date": "2026-03-30"}, // Untersuchungshaft Karlsruhe, Diebstahl
+{"coords": [8.0167, 50.8833], "date": "2026-03-30"}, // Siegen, eingebrochen
+{"coords": [8.1917, 48.7917], "date": "2026-03-30"}, // Sandweier, aufbruch
+//{"coords": [], "date": "2026-03-30"} // Kein Ort gefunden, Dieb
+{"coords": [8.8667, 51.9333], "date": "2026-03-30"}, // Lippe, gestohlen
+{"coords": [8.8667, 51.9333], "date": "2026-03-30"}, // Lippe, Einbruch
+//{"coords": [], "date": "2026-03-30"} // Oberwolfach, aufbruch

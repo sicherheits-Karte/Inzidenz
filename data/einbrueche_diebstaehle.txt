@@ -14401,3 +14401,4 @@
 {"coords": [7.82, 47.99], "date": "2026-03-30"}, // Zeugensuche Freiburg, aufbruch
 {"coords": [10.5833, 51.2333], "date": "2026-03-30"}, // Körner, entwendet
 {"coords": [7.82, 47.99], "date": "2026-03-30"}, // Roller Freiburg, Diebstahl
+{"coords": [7.6, 50.3], "date": "2026-03-30"}, // Lahnstein Lahnstein, aufbruch

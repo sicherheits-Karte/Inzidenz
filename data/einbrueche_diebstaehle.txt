@@ -14403,3 +14403,4 @@
 {"coords": [7.82, 47.99], "date": "2026-03-30"}, // Roller Freiburg, Diebstahl
 {"coords": [7.6, 50.3], "date": "2026-03-30"}, // Lahnstein Lahnstein, aufbruch
 {"coords": [8.15, 49.4667], "date": "2026-03-30"}, // Weinstraße, Dieb
+{"coords": [7.4614, 50.4286], "date": "2026-03-31"}, // Kehrmaschine Neuwied, Einbruch

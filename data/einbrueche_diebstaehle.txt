@@ -14341,3 +14341,15 @@
 {"coords": [8.285, 51.1492], "date": "2026-03-30"}, // Weststraße Schmallenberg, Einbruch
 {"coords": [8.5833, 51.3833], "date": "2026-03-30"}, // Gropperweg Brilon, Einbruch
 //{"coords": [], "date": "2026-03-30"} // Weimarer Land, gestohlen
+{"coords": [8.2869, 52.7303], "date": "2026-03-30"}, // Vechta, Einbruch
+//{"coords": [], "date": "2026-03-30"} // Flamersheim, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-30"}, // Einbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2026-03-30"} // Weilerswist, entwendet
+{"coords": [8.6167, 49.6833], "date": "2026-03-30"}, // Zeugen Bensheim, entwendet
+{"coords": [8.7239, 49.8244], "date": "2026-03-30"}, // Zeugen Mühltal, entwendet
+//{"coords": [], "date": "2026-03-30"} // Kein Ort gefunden, Diebstahl
+{"coords": [9.8, 53.6592], "date": "2026-03-30"}, // Zeugenaufruf Pinneberg, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-03-30"}, // Wohnungseinbruchsdiebstahl Dinslaken, Einbruch
+{"coords": [6.6833, 51.6167], "date": "2026-03-30"}, // Hinweise Voerde, Diebstahl
+{"coords": [7.45, 51.4333], "date": "2026-03-30"}, // Vorhalle, Dieb
+{"coords": [8.5833, 48.95], "date": "2026-03-30"}, // Remchingen, Einbruch

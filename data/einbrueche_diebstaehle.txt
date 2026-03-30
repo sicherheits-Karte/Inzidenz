@@ -14325,3 +14325,7 @@
 //{"coords": [], "date": "2026-03-29"} // Höhe, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-03-29"}, // Hofheim, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2026-03-29"}, // Mitte, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-03-30"}, // Northeim, Diebstahl
+{"coords": [7.8208, 51.6803], "date": "2026-03-30"}, // Hamm, Einbruch
+{"coords": [7.3208, 49.6922], "date": "2026-03-30"}, // Oberstein, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-03-30"}, // Firma Wittlich, Einbruch

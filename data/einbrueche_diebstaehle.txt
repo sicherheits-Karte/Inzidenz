@@ -14393,3 +14393,10 @@
 {"coords": [8.7667, 51.7167], "date": "2026-03-30"}, // Paderborn, Diebstahl
 {"coords": [6.6833, 51.2], "date": "2026-03-30"}, // Kreis Neuss, Einbruch
 {"coords": [7.6889, 51.5347], "date": "2026-03-30"}, // Einfamilienhaus Unna, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-03-30"}, // Reutlingen, eingebrochen
+{"coords": [7.82, 47.99], "date": "2026-03-30"}, // Lebensmittelgeschäft Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-30"}, // Vereinsheim- Zeugensuche Freiburg, Einbruch
+//{"coords": [], "date": "2026-03-30"} // Eck, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-30"}, // Zeugensuche Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-03-30"}, // Zeugensuche Freiburg, aufbruch
+{"coords": [10.5833, 51.2333], "date": "2026-03-30"}, // Körner, entwendet

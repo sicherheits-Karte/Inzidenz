@@ -14376,3 +14376,14 @@
 {"coords": [6.0961, 51.0631], "date": "2026-03-30"}, // Drogeriemarkt Heinsberg, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-03-30"}, // Werkstatt Ludwigsburg, Einbruch
 {"coords": [6.3214, 50.8447], "date": "2026-03-30"}, // Hinweise Langerwehe, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-03-30"}, // Kreis Viersen, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-03-30"}, // Ortsverwaltung Haltingen Freiburg, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-03-30"}, // Zeugen Kassel, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-03-30"}, // Gartenfreunden Freiburg, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-03-30"}, // Täters Oldenburg, Diebstahl
+//{"coords": [], "date": "2026-03-30"} // Anrath, Einbruch
+{"coords": [6.5492, 51.2631], "date": "2026-03-30"}, // Willich, Einbruch
+{"coords": [7.8667, 50.6333], "date": "2026-03-30"}, // Alpenrod, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2026-03-30"}, // Lagerhallen Heidekreis, Einbruch
+//{"coords": [], "date": "2026-03-30"} // Kreis, Einbruch
+{"coords": [6.0167, 51.7917], "date": "2026-03-30"}, // Kranenburg, Diebstahl

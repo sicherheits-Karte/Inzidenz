@@ -14329,3 +14329,15 @@
 {"coords": [7.8208, 51.6803], "date": "2026-03-30"}, // Hamm, Einbruch
 {"coords": [7.3208, 49.6922], "date": "2026-03-30"}, // Oberstein, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-03-30"}, // Firma Wittlich, Einbruch
+//{"coords": [], "date": "2026-03-30"} // bislang unbekannter Täter gewaltsam einen Zigarettenautomaten, welcher sich in einem freizugänglichen Raum neben einem Einkaufmarkt in der Straße, Diebstahl
+//{"coords": [], "date": "2026-03-30"} // der Karl-Liebknecht-Straße geparktem Opel entwendeten ein oder mehrere bislang unbekannte Personen unter anderem Bargeld sowie Dekoartikel. Die Tat ereignete sich in der Zeit zwischen dem, Diebstahl
+{"coords": [10.6866, 53.8655], "date": "2026-03-30"}, // Sicherung Lübeck, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-03-30"}, // Sonstiges Aalen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-03-30"}, // Coesfeld, gestohlen
+{"coords": [8.1092, 51.5711], "date": "2026-03-30"}, // Tankstelle Soest, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-03-30"}, // Pkw Aalen, Einbruch
+{"coords": [8.8494, 51.4611], "date": "2026-03-30"}, // Westheim Marsberg, Einbruch
+//{"coords": [], "date": "2026-03-30"} // Stadionstraße Olsberg, Einbruch
+{"coords": [8.285, 51.1492], "date": "2026-03-30"}, // Weststraße Schmallenberg, Einbruch
+{"coords": [8.5833, 51.3833], "date": "2026-03-30"}, // Gropperweg Brilon, Einbruch
+//{"coords": [], "date": "2026-03-30"} // Weimarer Land, gestohlen

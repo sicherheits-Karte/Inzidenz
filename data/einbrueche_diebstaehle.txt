@@ -14387,3 +14387,9 @@
 {"coords": [9.9333, 52.9667], "date": "2026-03-30"}, // Lagerhallen Heidekreis, Einbruch
 //{"coords": [], "date": "2026-03-30"} // Kreis, Einbruch
 {"coords": [6.0167, 51.7917], "date": "2026-03-30"}, // Kranenburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-03-30"}, // Giessen, Einbrecher
+//{"coords": [], "date": "2026-03-30"} // Höhe, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-03-30"}, // Katze Giessen, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-03-30"}, // Paderborn, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-03-30"}, // Kreis Neuss, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2026-03-30"}, // Einfamilienhaus Unna, Einbruch

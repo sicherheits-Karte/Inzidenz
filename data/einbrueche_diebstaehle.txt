@@ -14461,3 +14461,13 @@
 {"coords": [10.65, 52.25], "date": "2026-03-31"}, // Cremlingen, entwendet
 {"coords": [10.5369, 52.1622], "date": "2026-03-31"}, // Wolfenbüttel, Einbruch
 {"coords": [7.4333, 51.35], "date": "2026-03-31"}, // Haspe, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-03-31"}, // Haftrichter Köln, Einbrecher
+//{"coords": [], "date": "2026-03-31"} // Netphen, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Ratheim, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Wildenrath, gestohlen
+{"coords": [10.5267, 52.2689], "date": "2026-03-31"}, // Supermärkten Braunschweig, Diebstähle
+//{"coords": [], "date": "2026-03-31"} // Kein Ort gefunden, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2026-03-31"}, // Fußballspiel Fulda, entwendet
+{"coords": [6.4833, 50.8], "date": "2026-03-31"}, // Zeugen Düren, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-03-31"}, // Zeugen Düren, Raub
+//{"coords": [], "date": "2026-03-31"} // Kiosk Leichlingen, Einbruch

@@ -14502,3 +14502,4 @@
 {"coords": [7.0982, 50.7374], "date": "2026-03-31"}, // Zeugen Bonn, Raub
 //{"coords": [], "date": "2026-03-31"} // Dokument mehr, Einbruch
 //{"coords": [], "date": "2026-03-31"} // Kreis, Raub
+{"coords": [8.15, 49.4667], "date": "2026-03-31"}, // Weinstraße, Diebstahl

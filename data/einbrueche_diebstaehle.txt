@@ -14491,3 +14491,13 @@
 {"coords": [10.8978, 48.3705], "date": "2026-03-31"}, // Einbruch Augsburg, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-03-31"}, // Lagerhalle Augsburg, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-03-31"}, // Fahrraddiebstahl Augsburg, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Gützenrath, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-03-31"}, // Verkehrsunfälle Reutlingen, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Wehingen, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Radolfzell, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-03-31"}, // Hamburger Nordwesten Hamburg, Diebstahl
+{"coords": [10.135, 51.3783], "date": "2026-03-31"}, // Baustellencontainer Heilbad Heiligenstadt, Dieb
+//{"coords": [], "date": "2026-03-31"} // Harz, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-03-31"}, // Haft Bonn, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-03-31"}, // Zeugen Bonn, Raub
+//{"coords": [], "date": "2026-03-31"} // Dokument mehr, Einbruch

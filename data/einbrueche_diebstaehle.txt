@@ -14447,3 +14447,17 @@
 //{"coords": [], "date": "2026-03-31"} // Wangen, Einbrecher
 {"coords": [7.5336, 52.1728], "date": "2026-03-31"}, // Emsdetten, Diebstahl
 {"coords": [8.6139, 49.7236], "date": "2026-03-31"}, // Zwingenberg, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Lienen, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-03-31"}, // Heilbronn, Einbrüche
+{"coords": [8.2869, 52.7303], "date": "2026-03-31"}, // Vechta, Raub
+{"coords": [7.7, 52.2], "date": "2026-03-31"}, // Ladbergen, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-03-31"}, // Autohaus Freiburg, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Bad, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Lebenstedt, Einbruch
+{"coords": [7.6458, 50.6878], "date": "2026-03-31"}, // Kennzeichendiebstahl Altenkirchen, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Lebenstedt, entwendet
+//{"coords": [], "date": "2026-03-31"} // Bad Dürrheim, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Worbis, entwendet
+{"coords": [10.65, 52.25], "date": "2026-03-31"}, // Cremlingen, entwendet
+{"coords": [10.5369, 52.1622], "date": "2026-03-31"}, // Wolfenbüttel, Einbruch
+{"coords": [7.4333, 51.35], "date": "2026-03-31"}, // Haspe, Einbruch

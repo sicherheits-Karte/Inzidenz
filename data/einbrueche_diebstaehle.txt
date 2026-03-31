@@ -14414,3 +14414,11 @@
 {"coords": [6.85, 49.9333], "date": "2026-03-31"}, // Friedhof Salmtal, Diebstahl
 //{"coords": [], "date": "2026-03-31"} // zwei hochwertigen Fahrrädern und einem Werkzeugkoffer mehr, Diebstahl
 {"coords": [9.2, 49.4], "date": "2026-03-31"}, // Neckar, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-03-31"}, // Zeugen Duisburg, stahl
+{"coords": [7.215, 51.1397], "date": "2026-03-31"}, // Wermelskirchen, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Bergisch Gladbach, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Schmuck Bergisch Gladbach, Einbruch
+{"coords": [8.5108, 51.64], "date": "2026-03-31"}, // Beute Geseke, Dieb
+{"coords": [9.7194, 53.9522], "date": "2026-03-31"}, // Nacht Kellinghusen, Einbrüche
+{"coords": [8.35, 51.6667], "date": "2026-03-31"}, // Tabakwaren Lippstadt, Einbruch
+//{"coords": [], "date": "2026-03-31"} // die Zweiradsaison, Diebstahl

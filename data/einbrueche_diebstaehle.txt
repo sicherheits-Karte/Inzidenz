@@ -14471,3 +14471,12 @@
 {"coords": [6.4833, 50.8], "date": "2026-03-31"}, // Zeugen Düren, Einbruch
 {"coords": [6.4833, 50.8], "date": "2026-03-31"}, // Zeugen Düren, Raub
 //{"coords": [], "date": "2026-03-31"} // Kiosk Leichlingen, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-03-31"}, // Seniorin Bielefeld, stehlen
+{"coords": [6.8761, 50.8778], "date": "2026-03-31"}, // Dieseldiebstahl Hürth, Diebstahl
+{"coords": [9.2844, 51.045], "date": "2026-03-31"}, // Kreis Borken, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2026-03-31"}, // Betrieb Heidekreis, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-03-31"}, // Gütersloh, Einbrecher
+{"coords": [6.4333, 51.2], "date": "2026-03-31"}, // Mönchengladbach, Einbruch
+{"coords": [6.9667, 51.2333], "date": "2026-03-31"}, // Polizei Mettmann POL-ME, Dieb
+{"coords": [11.4653, 53.8925], "date": "2026-03-31"}, // Wohnungen Wismar, Diebstahl
+{"coords": [10.9887, 49.4771], "date": "2026-03-31"}, // Einfamilienhaus Fürth, Einbrecher

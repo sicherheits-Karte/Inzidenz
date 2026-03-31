@@ -14422,3 +14422,14 @@
 {"coords": [9.7194, 53.9522], "date": "2026-03-31"}, // Nacht Kellinghusen, Einbrüche
 {"coords": [8.35, 51.6667], "date": "2026-03-31"}, // Tabakwaren Lippstadt, Einbruch
 //{"coords": [], "date": "2026-03-31"} // die Zweiradsaison, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-03-31"}, // Diepholz, eingebrochen
+//{"coords": [], "date": "2026-03-31"} // Rohbau Schmiedefeld, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Kein Ort gefunden, Raub
+{"coords": [7.2417, 52.7922], "date": "2026-03-31"}, // Haren, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-03-31"}, // Lingen, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Höhe von, entwendet
+{"coords": [6.7735, 51.2277], "date": "2026-03-31"}, // Ermittlungsrichter Düsseldorf, gestohlen
+{"coords": [8.6, 48.8833], "date": "2026-03-31"}, // Neuenbürg, gestohlen
+{"coords": [8.4111, 49.9917], "date": "2026-03-31"}, // Visier Rüsselsheim, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-03-31"}, // Erfurt, Einbrecher
+{"coords": [7.6158, 50.8767], "date": "2026-03-31"}, // Laptops Waldbröl, Einbrecher

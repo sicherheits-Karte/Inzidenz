@@ -14433,3 +14433,17 @@
 {"coords": [8.4111, 49.9917], "date": "2026-03-31"}, // Visier Rüsselsheim, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-03-31"}, // Erfurt, Einbrecher
 {"coords": [7.6158, 50.8767], "date": "2026-03-31"}, // Laptops Waldbröl, Einbrecher
+{"coords": [6.7735, 51.2277], "date": "2026-03-31"}, // Zeugen Düsseldorf, Raub
+//{"coords": [], "date": "2026-03-31"} // Degerloch, gestohlen
+{"coords": [8.2146, 53.1434], "date": "2026-03-31"}, // Rasteder Ortsteil Wahnbek Oldenburg, Diebstahl
+{"coords": [10.7333, 50.65], "date": "2026-03-31"}, // Mehlis, entwendet
+{"coords": [6.2833, 50.8167], "date": "2026-03-31"}, // Eschweiler, Einbrüche
+//{"coords": [], "date": "2026-03-31"} // Kreis, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Zeugen Knittlingen, eingebrochen
+{"coords": [8.7667, 50.1], "date": "2026-03-31"}, // Kreis Offenbach, eingebrochen
+{"coords": [7.2162, 51.4818], "date": "2026-03-31"}, // Bochum, gestohlen
+{"coords": [8.2146, 53.1434], "date": "2026-03-31"}, // Oldenburg Oldenburg, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-03-31"}, // Rolandstraße Gütersloh, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Wangen, Einbrecher
+{"coords": [7.5336, 52.1728], "date": "2026-03-31"}, // Emsdetten, Diebstahl
+{"coords": [8.6139, 49.7236], "date": "2026-03-31"}, // Zwingenberg, Diebstahl

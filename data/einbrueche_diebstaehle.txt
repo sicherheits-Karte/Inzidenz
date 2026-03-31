@@ -14405,3 +14405,12 @@
 {"coords": [8.15, 49.4667], "date": "2026-03-30"}, // Weinstraße, Dieb
 {"coords": [7.4614, 50.4286], "date": "2026-03-31"}, // Kehrmaschine Neuwied, Einbruch
 //{"coords": [], "date": "2026-03-31"} // Tankstelle Kressbronn, Raub
+{"coords": [7.1861, 49.6583], "date": "2026-03-31"}, // Fahrzeug Birkenfeld, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // Weimarer Land, Dieb
+//{"coords": [], "date": "2026-03-31"} // Weimarer Land, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Weimarer Land, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-03-31"}, // Jena, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-03-31"}, // Anhänger Wittlich, Diebstahl
+{"coords": [6.85, 49.9333], "date": "2026-03-31"}, // Friedhof Salmtal, Diebstahl
+//{"coords": [], "date": "2026-03-31"} // zwei hochwertigen Fahrrädern und einem Werkzeugkoffer mehr, Diebstahl
+{"coords": [9.2, 49.4], "date": "2026-03-31"}, // Neckar, Einbruch

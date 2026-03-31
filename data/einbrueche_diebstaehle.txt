@@ -14480,3 +14480,14 @@
 {"coords": [6.9667, 51.2333], "date": "2026-03-31"}, // Polizei Mettmann POL-ME, Dieb
 {"coords": [11.4653, 53.8925], "date": "2026-03-31"}, // Wohnungen Wismar, Diebstahl
 {"coords": [10.9887, 49.4771], "date": "2026-03-31"}, // Einfamilienhaus Fürth, Einbrecher
+{"coords": [6.85, 49.3], "date": "2026-03-31"}, // Reifen Bad Schwalbach, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2026-03-31"}, // Limburg, Einbruch
+//{"coords": [], "date": "2026-03-31"} // Kreis, gestohlen
+{"coords": [8.4414, 50.0919], "date": "2026-03-31"}, // Hofheim, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-03-31"}, // Giessen, Einbrecher
+{"coords": [8.8431, 49.8978], "date": "2026-03-31"}, // Dieburg, Dieb
+{"coords": [8.24, 50.0822], "date": "2026-03-31"}, // Einbrüche Wiesbaden, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-03-31"}, // Kleve, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-03-31"}, // Einbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-03-31"}, // Lagerhalle Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-03-31"}, // Fahrraddiebstahl Augsburg, Diebstahl

@@ -14537,3 +14537,9 @@
 //{"coords": [], "date": "2026-04-01"} // Neuhofen, Einbruch
 {"coords": [7.0333, 52.2167], "date": "2026-04-01"}, // Gronau, entwendet
 {"coords": [10.4508, 50.7211], "date": "2026-04-01"}, // Schmalkalden, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-04-01"}, // Karlsruhe, Diebstahl
+//{"coords": [], "date": "2026-04-01"} // Zeugen Landesbergen, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-04-01"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-04-01"}, // Lippe, Einbruch
+{"coords": [8.6031, 49.8056], "date": "2026-04-01"}, // Pfungstadt, Diebstahl
+//{"coords": [], "date": "2026-04-01"} // Heemsen, Einbruch

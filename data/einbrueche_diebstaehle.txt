@@ -14517,3 +14517,10 @@
 {"coords": [7.1675, 51.9436], "date": "2026-04-01"}, // Einbruch Coesfeld, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-04-01"}, // Sonstiges Aalen, Einbruch
 {"coords": [7.5667, 51.0833], "date": "2026-04-01"}, // Gummersbach, Einbruch
+{"coords": [7.6333, 51.1], "date": "2026-04-01"}, // Meinerzhagen, Diebstahl
+{"coords": [10.9147, 50.6856], "date": "2026-04-01"}, // Ilmenau, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-04-01"}, // Zeugen Münster, eingebrochen
+{"coords": [7.8, 51.4333], "date": "2026-04-01"}, // Dieseldiebstahl Menden, Diebstahl
+//{"coords": [], "date": "2026-04-01"} // Uentrop, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-04-01"}, // Erfurt, gestohlen
+{"coords": [9.8667, 51.8167], "date": "2026-04-01"}, // Wohnhaus Einbeck, Einbruch

@@ -14558,3 +14558,12 @@
 {"coords": [6.1333, 51.0833], "date": "2026-04-01"}, // Unterbruch, entwendet
 {"coords": [8.6822, 50.1106], "date": "2026-04-01"}, // Zeugensuche Frankfurt, Diebstahl
 //{"coords": [], "date": "2026-04-01"} // Gieboldehausen sichergestellt, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-04-01"}, // Keller Limburg, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-04-01"}, // Wadenhardstraße Gütersloh, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-04-01"}, // Wiesbaden, Einbrecher
+{"coords": [8.4414, 50.0919], "date": "2026-04-01"}, // Hattersheim Hofheim, Einbruch
+//{"coords": [], "date": "2026-04-01"} // Verkaufsautomaten Horstmar, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-04-01"}, // Zeugenaufruf Mannheim, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-04-01"}, // Bad Schwalbach, Dieb
+//{"coords": [], "date": "2026-04-01"} // Schöppingen, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-04-01"}, // Ludwigshafen, gestohlen

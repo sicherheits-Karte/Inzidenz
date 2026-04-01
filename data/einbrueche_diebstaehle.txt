@@ -14567,3 +14567,16 @@
 {"coords": [6.85, 49.3], "date": "2026-04-01"}, // Bad Schwalbach, Dieb
 //{"coords": [], "date": "2026-04-01"} // Schöppingen, gestohlen
 {"coords": [8.4353, 49.4811], "date": "2026-04-01"}, // Ludwigshafen, gestohlen
+{"coords": [7.2061, 53.3669], "date": "2026-04-01"}, // Emden, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-04-01"}, // Northeim, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-04-01"}, // Giessen, gestohlen
+{"coords": [8.6833, 50.5833], "date": "2026-04-01"}, // Giessen, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-04-01"}, // Zeugenaufruf Düsseldorf, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-04-01"}, // Ludwigshafen, entwendet
+//{"coords": [], "date": "2026-04-01"} // Wahlplakaten Elkenroth, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-04-01"}, // Untersuchungshaft Freiburg, entwendet
+{"coords": [6.5492, 51.2631], "date": "2026-04-01"}, // Willich, gestohlen
+//{"coords": [], "date": "2026-04-01"} // Anrath, gestohlen
+{"coords": [9.5036, 53.4539], "date": "2026-04-01"}, // Harsefeld Stade, Einbrecher
+{"coords": [6.25, 51.35], "date": "2026-04-01"}, // Lobberich, gestohlen
+{"coords": [6.3403, 51.3375], "date": "2026-04-01"}, // Grefrath, Dieb

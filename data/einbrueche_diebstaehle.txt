@@ -14524,3 +14524,16 @@
 //{"coords": [], "date": "2026-04-01"} // Uentrop, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-04-01"}, // Erfurt, gestohlen
 {"coords": [9.8667, 51.8167], "date": "2026-04-01"}, // Wohnhaus Einbeck, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-04-01"}, // Delmenhorst, Diebstahl
+//{"coords": [], "date": "2026-04-01"} // Olm, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-04-01"}, // Karlsruhe, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-04-01"}, // Vechta, Einbruch
+//{"coords": [], "date": "2026-04-01"} // Roxheim, Raub
+{"coords": [9.6775, 50.5528], "date": "2026-04-01"}, // Fulda, Diebstahl
+//{"coords": [], "date": "2026-04-01"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.3833, 51.9], "date": "2026-04-01"}, // Jährigen Gütersloh, Raub
+{"coords": [7.1508, 51.2562], "date": "2026-04-01"}, // Polizei Wuppertal Wuppertal, Raub
+//{"coords": [], "date": "2026-04-01"} // Schwabach, Einbruch
+//{"coords": [], "date": "2026-04-01"} // Neuhofen, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-04-01"}, // Gronau, entwendet
+{"coords": [10.4508, 50.7211], "date": "2026-04-01"}, // Schmalkalden, Diebstahl

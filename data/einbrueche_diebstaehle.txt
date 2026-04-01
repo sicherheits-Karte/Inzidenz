@@ -14503,3 +14503,9 @@
 //{"coords": [], "date": "2026-03-31"} // Dokument mehr, Einbruch
 //{"coords": [], "date": "2026-03-31"} // Kreis, Raub
 {"coords": [8.15, 49.4667], "date": "2026-03-31"}, // Weinstraße, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-04-01"}, // Hinweise Homberg, Einbruch
+{"coords": [8.285, 51.1492], "date": "2026-04-01"}, // Dorlar Schmallenberg, Einbruch
+{"coords": [8.9944, 49.6561], "date": "2026-04-01"}, // Erbach, Einbruch
+{"coords": [7.95, 51.4833], "date": "2026-04-01"}, // Neheim Arnsberg, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2026-04-01"}, // Papenburg, Raub
+{"coords": [8.4592, 49.6436], "date": "2026-04-01"}, // Dieben Bürstadt, Dieb

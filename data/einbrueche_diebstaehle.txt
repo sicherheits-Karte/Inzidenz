@@ -14509,3 +14509,11 @@
 {"coords": [7.95, 51.4833], "date": "2026-04-01"}, // Neheim Arnsberg, Einbruch
 {"coords": [7.4044, 53.0772], "date": "2026-04-01"}, // Papenburg, Raub
 {"coords": [8.4592, 49.6436], "date": "2026-04-01"}, // Dieben Bürstadt, Dieb
+{"coords": [6.4833, 50.8], "date": "2026-04-01"}, // Düren, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2026-04-01"}, // Zeugenaufruf Heidelberg, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-04-01"}, // Ulm, einbrechen
+{"coords": [7.9833, 51.95], "date": "2026-04-01"}, // Warendorf, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-04-01"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-04-01"}, // Einbruch Coesfeld, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-01"}, // Sonstiges Aalen, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-04-01"}, // Gummersbach, Einbruch

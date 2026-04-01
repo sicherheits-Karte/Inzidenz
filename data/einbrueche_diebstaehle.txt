@@ -14580,3 +14580,6 @@
 {"coords": [9.5036, 53.4539], "date": "2026-04-01"}, // Harsefeld Stade, Einbrecher
 {"coords": [6.25, 51.35], "date": "2026-04-01"}, // Lobberich, gestohlen
 {"coords": [6.3403, 51.3375], "date": "2026-04-01"}, // Grefrath, Dieb
+{"coords": [9.9937, 53.5511], "date": "2026-04-01"}, // Eilbek Hamburg, Raub
+{"coords": [9.9937, 53.5511], "date": "2026-04-01"}, // Haftbefehl Hamburg, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-04-01"}, // Wohnungseinbruch Augsburg, Einbruch

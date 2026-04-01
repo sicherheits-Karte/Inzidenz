@@ -14543,3 +14543,18 @@
 {"coords": [8.8667, 51.9333], "date": "2026-04-01"}, // Lippe, Einbruch
 {"coords": [8.6031, 49.8056], "date": "2026-04-01"}, // Pfungstadt, Diebstahl
 //{"coords": [], "date": "2026-04-01"} // Heemsen, Einbruch
+{"coords": [8.3667, 50.0], "date": "2026-04-01"}, // Bischofsheim, aufbruch
+{"coords": [7.82, 47.99], "date": "2026-04-01"}, // Zeugen Freiburg, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-04-01"}, // Schockanrufe Lüneburg, Einbruch
+{"coords": [8.1361, 53.3969], "date": "2026-04-01"}, // Pkw Varel, Diebstahl
+{"coords": [8.1361, 53.3969], "date": "2026-04-01"}, // Dangast Varel, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-04-01"}, // Schmuck Bielefeld, Einbrecher
+//{"coords": [], "date": "2026-04-01"} // Kampf gegen Eigentumskriminalität, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-04-01"}, // Kreis Offenbach, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-04-01"}, // Wechselseitige Körperverletzung Heidekreis, Einbruch
+{"coords": [6.315, 51.0794], "date": "2026-04-01"}, // Kleinkraftrads Erkelenz, Diebstahl
+//{"coords": [], "date": "2026-04-01"} // Geilenkirchen, gestohlen
+{"coords": [8.4333, 51.7], "date": "2026-04-01"}, // Haaren, Einbruch
+{"coords": [6.1333, 51.0833], "date": "2026-04-01"}, // Unterbruch, entwendet
+{"coords": [8.6822, 50.1106], "date": "2026-04-01"}, // Zeugensuche Frankfurt, Diebstahl
+//{"coords": [], "date": "2026-04-01"} // Gieboldehausen sichergestellt, Dieb

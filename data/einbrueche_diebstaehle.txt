@@ -14658,3 +14658,17 @@
 {"coords": [9.1919, 48.8975], "date": "2026-04-02"}, // Praxis Ludwigsburg, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-04-02"}, // Versuchter Einbruch Coesfeld, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-04-02"}, // Tabakwaren Giessen, Diebstahl
+{"coords": [9.2167, 48.0833], "date": "2026-04-02"}, // Sigmaringen, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-04-02"}, // Nachtragsmeldung Coesfeld, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-04-02"}, // Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-04-02"}, // Ludwigsburg, Raub
+{"coords": [8.5333, 50.0667], "date": "2026-04-02"}, // Schmuck Kelsterbach, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-04-02"}, // Mitte, Diebstahl
+{"coords": [8.4725, 49.5981], "date": "2026-04-02"}, // Euro Schaden Lampertheim, gestohlen
+{"coords": [8.5786, 49.5383], "date": "2026-04-02"}, // Fahrschule Viernheim, Einbruch
+//{"coords": [], "date": "2026-04-02"} // Kein Ort gefunden, gestohlen
+{"coords": [7.8153, 48.5708], "date": "2026-04-02"}, // Erpressung Kehl, Räuber
+{"coords": [8.4661, 49.4878], "date": "2026-04-02"}, // Zeugenaufruf Mannheim, Einbruch
+//{"coords": [], "date": "2026-04-02"} // Dreifelden Dreifelden, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-04-02"}, // Friseursalon Ludwigsburg, Diebstahl
+{"coords": [8.7758, 50.0106], "date": "2026-04-02"}, // Wohnungseinbruchdiebstahls Dietzenbach, Einbruch

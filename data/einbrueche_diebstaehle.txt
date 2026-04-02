@@ -14679,3 +14679,4 @@
 {"coords": [8.3658, 49.6306], "date": "2026-04-02"}, // Zeugen Worms, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-04-02"}, // Kennzeichendiebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2026-04-02"} // Dieseldiebstahl Binsfeld, Diebstahl
+//{"coords": [], "date": "2026-04-03"} // Täterfestnahme Kasel, Diebstahl

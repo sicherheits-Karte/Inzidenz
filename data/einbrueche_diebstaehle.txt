@@ -14634,3 +14634,15 @@
 {"coords": [9.9333, 52.9667], "date": "2026-04-02"}, // Unfall Heidekreis, Einbruch
 {"coords": [7.2, 51.6167], "date": "2026-04-02"}, // Recklinghausen, Einbruch
 //{"coords": [], "date": "2026-04-02"} // Altenseelbach, Einbrecher
+{"coords": [8.8678, 49.9228], "date": "2026-04-02"}, // Zeugen Münster, Raub
+{"coords": [6.9833, 51.0333], "date": "2026-04-02"}, // Leverkusen Köln, Raub
+{"coords": [7.6333, 51.05], "date": "2026-04-02"}, // Bergneustadt, Raub
+//{"coords": [], "date": "2026-04-02"} // Wöllstein Wöllstein, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-04-02"}, // Festnahmeerfolg Frankfurt, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-04-02"}, // Lüneburg, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-04-02"}, // Zeugensuche Frankfurt, Diebstahl
+{"coords": [10.7865, 52.4226], "date": "2026-04-02"}, // Kupferrohre Wolfsburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-04-02"}, // Marktplatz Freiburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-04-02"}, // Giessen, Einbrüche
+{"coords": [8.3708, 52.6078], "date": "2026-04-02"}, // Landkreis Diepholz Diepholz, Diebstähle
+{"coords": [7.4653, 51.5136], "date": "2026-04-02"}, // Untersuchungshaft Dortmund, Dieb

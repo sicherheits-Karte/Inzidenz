@@ -14587,3 +14587,16 @@
 {"coords": [7.3194, 52.5236], "date": "2026-04-02"}, // Bekleidungsgeschäft Lingen, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-04-02"}, // Personen Diepholz, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-04-02"}, // Zeugenaufruf Hildesheim, aufbruch
+{"coords": [7.5667, 51.0833], "date": "2026-04-02"}, // Gummersbach, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-04-02"}, // Erfurt, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-04-02"}, // Mehrfamilienhaus Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-04-02"}, // Erfurt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-02"}, // Aalen, Einbruch
+{"coords": [6.2333, 51.5833], "date": "2026-04-02"}, // Kevelaer, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2026-04-02"}, // Zeugen Moers, Einbrecher
+{"coords": [9.0817, 52.1906], "date": "2026-04-02"}, // Rinteln, Diebstahl
+{"coords": [9.1492, 52.4542], "date": "2026-04-02"}, // Loccum, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-04-02"}, // Hinweise Homberg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-04-02"}, // Juweliergeschäft Giessen, Raub
+//{"coords": [], "date": "2026-04-02"} // Gierend, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-04-02"}, // Euro Ludwigsburg, Diebstahl

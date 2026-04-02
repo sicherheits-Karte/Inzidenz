@@ -14629,3 +14629,8 @@
 {"coords": [9.2167, 48.4833], "date": "2026-04-02"}, // Praxis Reutlingen, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-04-02"}, // Ludwigshafen, Diebstahl
 {"coords": [8.4167, 49.4], "date": "2026-04-02"}, // Limburgerhof, Einbrüche
+//{"coords": [], "date": "2026-04-02"} // Dremmen, entwendet
+{"coords": [6.9603, 50.9375], "date": "2026-04-02"}, // Köln, Dieb
+{"coords": [9.9333, 52.9667], "date": "2026-04-02"}, // Unfall Heidekreis, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-04-02"}, // Recklinghausen, Einbruch
+//{"coords": [], "date": "2026-04-02"} // Altenseelbach, Einbrecher

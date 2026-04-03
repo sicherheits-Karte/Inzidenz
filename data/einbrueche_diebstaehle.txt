@@ -14702,3 +14702,9 @@
 //{"coords": [], "date": "2026-04-03"} // Bungt, Raub
 {"coords": [8.0472, 52.2799], "date": "2026-04-03"}, // Hinweise Osnabrück, Einbruch
 {"coords": [8.2833, 49.3667], "date": "2026-04-03"}, // Vorabinformation Haßloch, Raub
+{"coords": [8.4414, 50.0919], "date": "2026-04-03"}, // Hofheim, geklaut
+{"coords": [6.8167, 51.1], "date": "2026-04-03"}, // Dieseldiebstahl Dormagen, Diebstahl
+//{"coords": [], "date": "2026-04-03"} // Felgen Annweiler, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-04-03"}, // Limburg, Einbruch
+//{"coords": [], "date": "2026-04-03"} // Weilerswist, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-04-03"}, // Euskirchen, Diebstahl

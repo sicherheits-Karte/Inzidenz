@@ -14695,3 +14695,8 @@
 {"coords": [8.875, 53.05], "date": "2026-04-03"}, // Osterholz, eingebrochen
 //{"coords": [], "date": "2026-04-03"} // Geschädigte Bad Dürrheim, Diebstahl
 //{"coords": [], "date": "2026-04-03"} // Rhein, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-04-03"}, // Einbruch Reutlingen, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-04-03"}, // Karfreitag-- Lüneburg, Einbruch
+{"coords": [9.4, 47.7833], "date": "2026-04-03"}, // Bodenseekreis Bodenseekreis, entwendet
+{"coords": [7.1856, 51.3994], "date": "2026-04-03"}, // Täter Hattingen, Einbruch
+//{"coords": [], "date": "2026-04-03"} // Bungt, Raub

@@ -14681,3 +14681,13 @@
 //{"coords": [], "date": "2026-04-02"} // Dieseldiebstahl Binsfeld, Diebstahl
 //{"coords": [], "date": "2026-04-03"} // Täterfestnahme Kasel, Diebstahl
 //{"coords": [], "date": "2026-04-03"} // Zeugenaufruf Bad Gandersheim, geklaut
+{"coords": [8.4661, 49.4878], "date": "2026-04-03"}, // Mannheim, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2026-04-03"}, // Lebenstedt Salzgitter, Raub
+{"coords": [7.3194, 52.5236], "date": "2026-04-03"}, // Zeugen Lingen, aufbrüche
+{"coords": [6.9667, 52.5], "date": "2026-04-03"}, // Neuenhaus, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2026-04-03"}, // Papenburg, Einbruch
+//{"coords": [], "date": "2026-04-03"} // Zeugen Freren, Einbruch
+{"coords": [7.3333, 52.9667], "date": "2026-04-03"}, // Dörpen, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-04-03"}, // Meppen, Einbrüche
+//{"coords": [], "date": "2026-04-03"} // Zeugen Werlte, Diebstähle
+{"coords": [8.4661, 49.4878], "date": "2026-04-03"}, // Mannheim, Dieb

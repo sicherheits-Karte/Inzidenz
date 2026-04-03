@@ -14701,3 +14701,4 @@
 {"coords": [7.1856, 51.3994], "date": "2026-04-03"}, // Täter Hattingen, Einbruch
 //{"coords": [], "date": "2026-04-03"} // Bungt, Raub
 {"coords": [8.0472, 52.2799], "date": "2026-04-03"}, // Hinweise Osnabrück, Einbruch
+{"coords": [8.2833, 49.3667], "date": "2026-04-03"}, // Vorabinformation Haßloch, Raub

@@ -14694,3 +14694,4 @@
 {"coords": [10.95, 50.8333], "date": "2026-04-03"}, // der JVA Arnstadt, entwendet
 {"coords": [8.875, 53.05], "date": "2026-04-03"}, // Osterholz, eingebrochen
 //{"coords": [], "date": "2026-04-03"} // Geschädigte Bad Dürrheim, Diebstahl
+//{"coords": [], "date": "2026-04-03"} // Rhein, entwendet

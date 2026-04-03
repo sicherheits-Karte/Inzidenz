@@ -14708,3 +14708,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-04-03"}, // Limburg, Einbruch
 //{"coords": [], "date": "2026-04-03"} // Weilerswist, Diebstahl
 {"coords": [6.7872, 50.6606], "date": "2026-04-03"}, // Euskirchen, Diebstahl
+{"coords": [6.8167, 51.1], "date": "2026-04-03"}, // Einsatz Dormagen, Raub

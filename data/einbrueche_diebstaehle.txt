@@ -14736,3 +14736,4 @@
 {"coords": [8.6822, 50.1106], "date": "2026-04-04"}, // Frankfurt, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-04-04"}, // Erfurt, Diebstahl
 {"coords": [8.875, 53.05], "date": "2026-04-04"}, // Osterholz, Einbruch
+{"coords": [11.1667, 50.35], "date": "2026-04-04"}, // Einbruchsdiebstahl Sonneberg, Einbruch

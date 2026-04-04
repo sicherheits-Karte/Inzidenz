@@ -14737,3 +14737,4 @@
 {"coords": [11.0299, 50.9848], "date": "2026-04-04"}, // Erfurt, Diebstahl
 {"coords": [8.875, 53.05], "date": "2026-04-04"}, // Osterholz, Einbruch
 {"coords": [11.1667, 50.35], "date": "2026-04-04"}, // Einbruchsdiebstahl Sonneberg, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-04-04"}, // Limburg, Diebstahl

@@ -14722,3 +14722,7 @@
 {"coords": [11.0106, 52.2278], "date": "2026-04-04"}, // Helmstedt, gestohlen
 //{"coords": [], "date": "2026-04-04"} // Geschäft Mutterstadt, Einbruch
 //{"coords": [], "date": "2026-04-04"} // der Dorfstraße in Hesserode, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-04-04"}, // Gartenhütten Aalen, Einbrüche
+{"coords": [8.705, 48.895], "date": "2026-04-04"}, // Pforzheim, gestohlen
+{"coords": [8.3583, 49.4972], "date": "2026-04-04"}, // Oggersheim, Diebstahl
+{"coords": [7.8211, 49.6306], "date": "2026-04-04"}, // Fahrraddiebstahl Rockenhausen, Diebstahl

@@ -14719,3 +14719,6 @@
 {"coords": [7.2908, 52.6906], "date": "2026-04-04"}, // Schmuck Meppen, Einbruch
 {"coords": [7.4842, 52.6742], "date": "2026-04-04"}, // Bargeld Haselünne, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2026-04-04"}, // Meppen, Einbruch
+{"coords": [11.0106, 52.2278], "date": "2026-04-04"}, // Helmstedt, gestohlen
+//{"coords": [], "date": "2026-04-04"} // Geschäft Mutterstadt, Einbruch
+//{"coords": [], "date": "2026-04-04"} // der Dorfstraße in Hesserode, Diebstahl

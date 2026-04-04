@@ -14710,3 +14710,4 @@
 {"coords": [6.7872, 50.6606], "date": "2026-04-03"}, // Euskirchen, Diebstahl
 {"coords": [6.8167, 51.1], "date": "2026-04-03"}, // Einsatz Dormagen, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-04-04"}, // Vermisstensuche Aalen, Raub
+{"coords": [7.3392, 51.3197], "date": "2026-04-04"}, // Lukaskirche Gevelsberg, Einbruch

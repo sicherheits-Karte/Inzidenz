@@ -14734,3 +14734,5 @@
 {"coords": [8.6822, 50.1106], "date": "2026-04-04"}, // Ladendiebstählen Frankfurt, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-04-04"}, // Verpuffung Reutlingen, Einbruch
 {"coords": [8.6822, 50.1106], "date": "2026-04-04"}, // Frankfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-04-04"}, // Erfurt, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-04-04"}, // Osterholz, Einbruch

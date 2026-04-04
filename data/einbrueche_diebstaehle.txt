@@ -14739,3 +14739,4 @@
 {"coords": [11.1667, 50.35], "date": "2026-04-04"}, // Einbruchsdiebstahl Sonneberg, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-04-04"}, // Limburg, Diebstahl
 {"coords": [8.5667, 48.8667], "date": "2026-04-04"}, // Straubenhardt Pforzheim, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-04-04"}, // Schmuck Erfurt, Einbruch

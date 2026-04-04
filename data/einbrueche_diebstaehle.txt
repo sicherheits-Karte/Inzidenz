@@ -14731,3 +14731,6 @@
 {"coords": [7.4333, 52.2833], "date": "2026-04-04"}, // Marktstraße Rheine, Einbrüche
 {"coords": [9.2, 49.4], "date": "2026-04-04"}, // Neckar, Einbrecher
 {"coords": [8.24, 50.0822], "date": "2026-04-04"}, // Wiesbaden, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-04-04"}, // Ladendiebstählen Frankfurt, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-04-04"}, // Verpuffung Reutlingen, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-04-04"}, // Frankfurt, Diebstahl

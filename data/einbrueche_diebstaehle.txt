@@ -14711,3 +14711,11 @@
 {"coords": [6.8167, 51.1], "date": "2026-04-03"}, // Einsatz Dormagen, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-04-04"}, // Vermisstensuche Aalen, Raub
 {"coords": [7.3392, 51.3197], "date": "2026-04-04"}, // Lukaskirche Gevelsberg, Einbruch
+{"coords": [8.285, 51.1492], "date": "2026-04-04"}, // Ferienhaus Schmallenberg, Einbruch
+{"coords": [8.8786, 49.2525], "date": "2026-04-04"}, // Sinsheim, Diebstahl
+{"coords": [8.3333, 51.35], "date": "2026-04-04"}, // Velmede Bestwig, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-04-04"}, // Bargeld Lingen, Räuber
+{"coords": [7.2908, 52.6906], "date": "2026-04-04"}, // Meppen, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-04-04"}, // Schmuck Meppen, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-04-04"}, // Bargeld Haselünne, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-04-04"}, // Meppen, Einbruch

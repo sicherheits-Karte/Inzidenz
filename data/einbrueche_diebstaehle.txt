@@ -14798,3 +14798,4 @@
 {"coords": [6.6153, 51.8367], "date": "2026-04-05"}, // Mehrfamilienhäuser Bocholt, Einbrüche
 {"coords": [6.9097, 49.4111], "date": "2026-04-05"}, // Lebach Lebach, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-04-05"}, // Kleinkrafträdern Hofheim, Einbruch
+//{"coords": [], "date": "2026-04-05"} // Winnekendonk, Einbruch

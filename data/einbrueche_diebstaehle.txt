@@ -14799,3 +14799,4 @@
 {"coords": [6.9097, 49.4111], "date": "2026-04-05"}, // Lebach Lebach, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-04-05"}, // Kleinkrafträdern Hofheim, Einbruch
 //{"coords": [], "date": "2026-04-05"} // Winnekendonk, Einbruch
+{"coords": [7.1861, 49.6583], "date": "2026-04-05"}, // Birkenfeld Birkenfeld, Diebstahl

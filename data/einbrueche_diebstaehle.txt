@@ -14782,3 +14782,5 @@
 //{"coords": [], "date": "2026-04-05"} // Kellerabteil mehr, Einbruch
 {"coords": [8.6822, 50.1106], "date": "2026-04-05"}, // Stehlgutschaden Frankfurt, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-04-05"}, // Diepholz, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-04-05"}, // Bad Schwalbach, Einbruch
+{"coords": [6.85, 49.9333], "date": "2026-04-05"}, // Ladendiebstahl Salmtal, Diebstahl

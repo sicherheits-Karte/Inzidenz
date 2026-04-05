@@ -14789,3 +14789,4 @@
 {"coords": [8.1128, 49.1994], "date": "2026-04-05"}, // Eisautomaten Landau, aufbruch
 {"coords": [7.6, 49.2], "date": "2026-04-05"}, // Pirmasens, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2026-04-05"}, // Stadtzentrum Jena, Raub
+//{"coords": [], "date": "2026-04-05"} // Altenburger Land, Einbruch

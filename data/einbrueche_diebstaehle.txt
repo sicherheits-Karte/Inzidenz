@@ -14741,3 +14741,14 @@
 {"coords": [8.5667, 48.8667], "date": "2026-04-04"}, // Straubenhardt Pforzheim, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-04-04"}, // Schmuck Erfurt, Einbruch
 {"coords": [8.6, 53.2333], "date": "2026-04-04"}, // Schwanewede Landkreis Osterholz, Raub
+{"coords": [7.6, 49.2], "date": "2026-04-05"}, // Pirmasens, gestohlen
+{"coords": [11.3239, 50.9795], "date": "2026-04-05"}, // Weimar, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-04-05"}, // Emden, Einbruch
+{"coords": [7.4842, 52.6742], "date": "2026-04-05"}, // Zeugen Haselünne, Einbruch
+{"coords": [7.25, 52.6167], "date": "2026-04-05"}, // Zeugen Geeste, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-04-05"}, // Nordhorn, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-04-05"}, // Räumlichkeiten Meppen, Einbruch
+{"coords": [7.6014, 52.6853], "date": "2026-04-05"}, // Getränke Herzlake, Einbruch
+//{"coords": [], "date": "2026-04-05"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.2431, 51.3464], "date": "2026-04-05"}, // Sprockhövel, Einbrecher
+//{"coords": [], "date": "2026-04-05"} // Dhron, Diebstahl

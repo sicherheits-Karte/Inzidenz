@@ -14752,3 +14752,12 @@
 //{"coords": [], "date": "2026-04-05"} // Kein Ort gefunden, Diebstahl
 {"coords": [7.2431, 51.3464], "date": "2026-04-05"}, // Sprockhövel, Einbrecher
 //{"coords": [], "date": "2026-04-05"} // Dhron, Diebstahl
+//{"coords": [], "date": "2026-04-05"} // Friesenheim, Diebstahl
+{"coords": [8.0667, 49.9867], "date": "2026-04-05"}, // Ingelheimer Bahnhof Ingelheim, Diebstahl
+{"coords": [8.3333, 51.35], "date": "2026-04-05"}, // Warenautomaten Bestwig, aufbruch
+{"coords": [11.1667, 50.35], "date": "2026-04-05"}, // Sonneberg, gestohlen
+//{"coords": [], "date": "2026-04-05"} // Friesenheim, Einbruch
+//{"coords": [], "date": "2026-04-05"} // Rhein, Dieb
+//{"coords": [], "date": "2026-04-05"} // Minfeld, entwendet
+{"coords": [9.3806, 51.775], "date": "2026-04-05"}, // Getränkemarkt Höxter, Einbruch
+//{"coords": [], "date": "2026-04-05"} // Einbruch Leutenberg, Einbruch

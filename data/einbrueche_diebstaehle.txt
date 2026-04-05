@@ -14801,3 +14801,4 @@
 //{"coords": [], "date": "2026-04-05"} // Winnekendonk, Einbruch
 {"coords": [7.1861, 49.6583], "date": "2026-04-05"}, // Birkenfeld Birkenfeld, Diebstahl
 {"coords": [6.1667, 51.6833], "date": "2026-04-05"}, // Kleinkraftrads Goch, Diebstahl
+//{"coords": [], "date": "2026-04-05"} // Schriesheim, Raub

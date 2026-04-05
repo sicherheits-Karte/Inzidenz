@@ -14761,3 +14761,12 @@
 //{"coords": [], "date": "2026-04-05"} // Minfeld, entwendet
 {"coords": [9.3806, 51.775], "date": "2026-04-05"}, // Getränkemarkt Höxter, Einbruch
 //{"coords": [], "date": "2026-04-05"} // Einbruch Leutenberg, Einbruch
+//{"coords": [], "date": "2026-04-05"} // Hamburger Allee Holzwickede, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-04-05"}, // Vechta, Raub
+{"coords": [7.6333, 51.6167], "date": "2026-04-05"}, // Parkstraße Bergkamen, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-04-05"}, // Kiosk Arnsberg, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-04-05"}, // Arnsberg, entwendet
+//{"coords": [], "date": "2026-04-05"} // Höhe, Einbrüche
+{"coords": [8.4389, 49.4889], "date": "2026-04-05"}, // Hemshof, Einbrüche
+{"coords": [10.6667, 50.3167], "date": "2026-04-05"}, // Einbruch Westhausen Nordhausen, Einbruch
+{"coords": [9.1464, 51.4889], "date": "2026-04-05"}, // Warburg, Einbruch

@@ -14787,3 +14787,4 @@
 {"coords": [8.35, 49.5333], "date": "2026-04-05"}, // Fahrchips Frankenthal, Diebstahl
 {"coords": [8.1128, 49.1994], "date": "2026-04-05"}, // Fahrzeug Landau, Diebstahl
 {"coords": [8.1128, 49.1994], "date": "2026-04-05"}, // Eisautomaten Landau, aufbruch
+{"coords": [7.6, 49.2], "date": "2026-04-05"}, // Pirmasens, Diebstahl

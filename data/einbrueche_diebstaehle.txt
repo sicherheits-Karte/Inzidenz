@@ -14790,3 +14790,11 @@
 {"coords": [7.6, 49.2], "date": "2026-04-05"}, // Pirmasens, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2026-04-05"}, // Stadtzentrum Jena, Raub
 //{"coords": [], "date": "2026-04-05"} // Altenburger Land, Einbruch
+{"coords": [6.85, 49.4333], "date": "2026-04-05"}, // Schmelz Lebach, stehlen
+{"coords": [9.2844, 51.045], "date": "2026-04-05"}, // Borken, eingebrochen
+{"coords": [6.6153, 51.8367], "date": "2026-04-05"}, // Bocholt, Einbrecher
+{"coords": [6.6153, 51.8367], "date": "2026-04-05"}, // Bocholt, eingebrochen
+{"coords": [11.0299, 50.9848], "date": "2026-04-05"}, // Erfurt, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2026-04-05"}, // Mehrfamilienhäuser Bocholt, Einbrüche
+{"coords": [6.9097, 49.4111], "date": "2026-04-05"}, // Lebach Lebach, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-04-05"}, // Kleinkrafträdern Hofheim, Einbruch

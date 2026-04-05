@@ -14777,3 +14777,6 @@
 {"coords": [8.24, 50.0822], "date": "2026-04-05"}, // Grabräuber Wiesbaden, geklaut
 //{"coords": [], "date": "2026-04-05"} // Triebes, Einbruch
 //{"coords": [], "date": "2026-04-05"} // Bad Münstereifel, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-04-05"}, // Landkreis Gotha, gestohlen
+{"coords": [8.4311, 49.3194], "date": "2026-04-05"}, // Räuberischer Diebstahl Speyer, Diebstahl
+//{"coords": [], "date": "2026-04-05"} // Kellerabteil mehr, Einbruch

@@ -14780,3 +14780,5 @@
 {"coords": [10.7183, 50.9489], "date": "2026-04-05"}, // Landkreis Gotha, gestohlen
 {"coords": [8.4311, 49.3194], "date": "2026-04-05"}, // Räuberischer Diebstahl Speyer, Diebstahl
 //{"coords": [], "date": "2026-04-05"} // Kellerabteil mehr, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-04-05"}, // Stehlgutschaden Frankfurt, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-04-05"}, // Diepholz, Einbruch

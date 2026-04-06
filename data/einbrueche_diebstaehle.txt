@@ -14809,3 +14809,6 @@
 {"coords": [8.4414, 50.0919], "date": "2026-04-06"}, // Hofheim, Einbruch
 //{"coords": [], "date": "2026-04-06"} // Zeugen Jünkerath, Einbruch
 //{"coords": [], "date": "2026-04-06"} // Imbiss Selm, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-04-06"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-04-06"}, // Lagerhalle Warendorf, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-04-06"}, // Lippe, Einbruch

@@ -14844,3 +14844,4 @@
 {"coords": [6.1353, 51.7875], "date": "2026-04-06"}, // Kleve, entwendet
 //{"coords": [], "date": "2026-04-06"} // Oermten, entwendet
 {"coords": [9.2167, 48.4833], "date": "2026-04-06"}, // Einbruch Reutlingen, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-04-06"}, // Zeugenhinweise Hannover, Räuber

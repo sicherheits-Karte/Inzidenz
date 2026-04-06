@@ -14854,3 +14854,4 @@
 {"coords": [8.95, 49.9333], "date": "2026-04-06"}, // Umstadt, Raub
 //{"coords": [], "date": "2026-04-06"} // Fahrtrichtung Stetten. Aus bislang ungeklärter Ursache kommt der Fahrzeugführer nach rechts von der Fahrbahn ab und kollidiert dort mit zwei Bäumen. Der Fahrer wird durch die Feuerwehr aus dem Fahrzeug befreit und durch einen Rettungshubschrauber schwerverletzt in eine Klinik gebracht. Am Fahrzeug, Raub
 //{"coords": [], "date": "2026-04-06"} // Uhr, Diebstahl
+{"coords": [8.4833, 53.1833], "date": "2026-04-06"}, // Berne Delmenhorst, Diebstahl

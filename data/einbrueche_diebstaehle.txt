@@ -14812,3 +14812,17 @@
 {"coords": [7.9833, 51.95], "date": "2026-04-06"}, // Einfamilienhaus Warendorf, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-04-06"}, // Lagerhalle Warendorf, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-04-06"}, // Lippe, Einbruch
+{"coords": [6.8333, 51.7833], "date": "2026-04-06"}, // Vorgehensweisen Raesfeld, Diebstahl
+//{"coords": [], "date": "2026-04-06"} // Kreis, Raub
+{"coords": [7.0333, 52.2167], "date": "2026-04-06"}, // Zeugen Gronau, Einbruch
+//{"coords": [], "date": "2026-04-06"} // Altrip, gestohlen
+{"coords": [7.0333, 52.2167], "date": "2026-04-06"}, // Firmengebäude Gronau, Einbruch
+{"coords": [7.6333, 51.05], "date": "2026-04-06"}, // Bergneustadt, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-04-06"}, // Kaiserslautern, gestohlen
+{"coords": [7.7806, 53.5769], "date": "2026-04-06"}, // Wittmund, entwendet
+{"coords": [7.6158, 50.8767], "date": "2026-04-06"}, // Waldbröl, entwendet
+{"coords": [7.5667, 51.0833], "date": "2026-04-06"}, // Gummersbach, gestohlen
+{"coords": [7.6158, 50.8767], "date": "2026-04-06"}, // Bäckerei Waldbröl, Einbruch
+{"coords": [7.4139, 50.9889], "date": "2026-04-06"}, // Engelskirchen, Einbruch
+{"coords": [7.3333, 50.6833], "date": "2026-04-06"}, // Shop Asbach, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-04-06"}, // Stade, Einbruch

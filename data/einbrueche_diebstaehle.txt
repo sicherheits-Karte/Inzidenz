@@ -14804,3 +14804,8 @@
 //{"coords": [], "date": "2026-04-05"} // Schriesheim, Raub
 {"coords": [10.4508, 50.7211], "date": "2026-04-06"}, // Schmalkalden, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2026-04-06"}, // Zeugenhinweise Bochum, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-04-06"}, // Haren, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-04-06"}, // Einbruch Meppen, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-04-06"}, // Hofheim, Einbruch
+//{"coords": [], "date": "2026-04-06"} // Zeugen Jünkerath, Einbruch
+//{"coords": [], "date": "2026-04-06"} // Imbiss Selm, Einbruch

@@ -14845,3 +14845,6 @@
 //{"coords": [], "date": "2026-04-06"} // Oermten, entwendet
 {"coords": [9.2167, 48.4833], "date": "2026-04-06"}, // Einbruch Reutlingen, Einbruch
 {"coords": [9.732, 52.3759], "date": "2026-04-06"}, // Zeugenhinweise Hannover, Räuber
+{"coords": [10.7183, 50.9489], "date": "2026-04-06"}, // Landkreis Gotha, gestohlen
+//{"coords": [], "date": "2026-04-06"} // Altkleidercontainer Weilerswist, Diebstahl
+//{"coords": [], "date": "2026-04-06"} // Heringsdorf, Einbruch

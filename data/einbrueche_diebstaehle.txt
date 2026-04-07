@@ -14898,3 +14898,14 @@
 {"coords": [6.6153, 51.8367], "date": "2026-04-07"}, // Bocholt, Dieb
 //{"coords": [], "date": "2026-04-07"} // Villingen, Einbruch
 {"coords": [8.3858, 48.2289], "date": "2026-04-07"}, // Schramberg, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2026-04-07"}, // Göttingen, Raub
+{"coords": [7.95, 50.9333], "date": "2026-04-07"}, // Kreuztal, Einbruch
+{"coords": [7.8508, 51.0281], "date": "2026-04-07"}, // Olpe, Diebstahl
+{"coords": [7.8508, 51.0281], "date": "2026-04-07"}, // Olpe, gestohlen
+//{"coords": [], "date": "2026-04-07"} // Bützower Lagerhalle mehr, Dieb
+{"coords": [10.0528, 51.1889], "date": "2026-04-07"}, // Discounter Eschwege, Diebstahl
+{"coords": [11.75, 53.4333], "date": "2026-04-07"}, // Class Damm Gütersloh, Einbruch
+//{"coords": [], "date": "2026-04-07"} // Meckelfeld, gestohlen
+{"coords": [8.3667, 50.0], "date": "2026-04-07"}, // Zeugen Bischofsheim, Dieb
+//{"coords": [], "date": "2026-04-07"} // Donaueschingen, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-04-07"}, // Hamburg, Raub

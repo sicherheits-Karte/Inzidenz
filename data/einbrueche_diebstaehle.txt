@@ -14855,3 +14855,6 @@
 //{"coords": [], "date": "2026-04-06"} // Fahrtrichtung Stetten. Aus bislang ungeklärter Ursache kommt der Fahrzeugführer nach rechts von der Fahrbahn ab und kollidiert dort mit zwei Bäumen. Der Fahrer wird durch die Feuerwehr aus dem Fahrzeug befreit und durch einen Rettungshubschrauber schwerverletzt in eine Klinik gebracht. Am Fahrzeug, Raub
 //{"coords": [], "date": "2026-04-06"} // Uhr, Diebstahl
 {"coords": [8.4833, 53.1833], "date": "2026-04-06"}, // Berne Delmenhorst, Diebstahl
+{"coords": [8.6925, 52.1986], "date": "2026-04-07"}, // Löhne, Diebstahl
+{"coords": [8.5861, 52.1983], "date": "2026-04-07"}, // Zeugen Bünde, Einbruch
+//{"coords": [], "date": "2026-04-07"} // Mörstadt, stahl

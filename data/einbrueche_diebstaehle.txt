@@ -14909,3 +14909,12 @@
 {"coords": [8.3667, 50.0], "date": "2026-04-07"}, // Zeugen Bischofsheim, Dieb
 //{"coords": [], "date": "2026-04-07"} // Donaueschingen, Einbruch
 {"coords": [9.9937, 53.5511], "date": "2026-04-07"}, // Hamburg, Raub
+{"coords": [8.4833, 49.9167], "date": "2026-04-07"}, // Gerau, Einbrüche
+//{"coords": [], "date": "2026-04-07"} // Kein Ort gefunden, Dieb
+{"coords": [9.4108, 53.1111], "date": "2026-04-07"}, // Rotenburg, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-04-07"}, // Kreis Offenbach, Einbruch
+//{"coords": [], "date": "2026-04-07"} // Untersuchungshaft Bad Bergzabern, Räuber
+{"coords": [7.1675, 51.9436], "date": "2026-04-07"}, // Einbruch Coesfeld, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-04-07"}, // Ermittlungsrichter Düsseldorf, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-04-07"}, // Coesfeld, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-04-07"}, // Hildesheim, Diebstahl

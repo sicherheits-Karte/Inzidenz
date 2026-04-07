@@ -14918,3 +14918,19 @@
 {"coords": [6.7735, 51.2277], "date": "2026-04-07"}, // Ermittlungsrichter Düsseldorf, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2026-04-07"}, // Coesfeld, gestohlen
 {"coords": [9.95, 52.15], "date": "2026-04-07"}, // Hildesheim, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-04-07"}, // Wilhelmshaven, Raub
+{"coords": [8.4942, 49.8342], "date": "2026-04-07"}, // Einbrechern Riedstadt, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-04-07"}, // Zeugen Kassel, Einbruch
+{"coords": [8.5333, 50.0667], "date": "2026-04-07"}, // Kelsterbach, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-04-07"}, // Bocholt, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-04-07"}, // Zeugen Osnabrück, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-04-07"}, // Zeugensuche Duisburg, Raub
+{"coords": [7.4836, 53.4711], "date": "2026-04-07"}, // Landkreis Aurich, eingebrochen
+{"coords": [8.6944, 49.4092], "date": "2026-04-07"}, // Zeugenaufruf Heidelberg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-04-07"}, // Autoräder Erfurt, Dieb
+{"coords": [8.4833, 49.9167], "date": "2026-04-07"}, // Gerau, Einbrecher
+{"coords": [7.4653, 51.5136], "date": "2026-04-07"}, // Dortmund, Raub
+{"coords": [8.6306, 53.05], "date": "2026-04-07"}, // Delmenhorst, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-04-07"}, // Vermehrte Schockanrufe Einbeck, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-04-07"}, // Köln, Diebstahl
+//{"coords": [], "date": "2026-04-07"} // Kein Ort gefunden, entwendet

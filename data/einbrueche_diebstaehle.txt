@@ -14858,3 +14858,14 @@
 {"coords": [8.6925, 52.1986], "date": "2026-04-07"}, // Löhne, Diebstahl
 {"coords": [8.5861, 52.1983], "date": "2026-04-07"}, // Zeugen Bünde, Einbruch
 //{"coords": [], "date": "2026-04-07"} // Mörstadt, stahl
+{"coords": [10.0936, 48.8372], "date": "2026-04-07"}, // Sonstiges Aalen, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2026-04-07"}, // Aalen, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-04-07"}, // Stade, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2026-04-07"}, // Recklinghausen, Dieb
+{"coords": [9.0817, 52.1906], "date": "2026-04-07"}, // Zeugen Rinteln, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-04-07"}, // Dom Speyer, Einbruch
+{"coords": [9.2833, 54.15], "date": "2026-04-07"}, // Albersdorf, entwendet
+//{"coords": [], "date": "2026-04-07"} // Rickelshof, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-04-07"}, // Belästigung Aalen, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-04-07"}, // Hinweise Moers, Einbrüche
+{"coords": [6.75, 51.5833], "date": "2026-04-07"}, // Hubschrauber Dinslaken, Einbruch

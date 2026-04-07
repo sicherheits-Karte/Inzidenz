@@ -14934,3 +14934,6 @@
 {"coords": [9.8667, 51.8167], "date": "2026-04-07"}, // Vermehrte Schockanrufe Einbeck, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-04-07"}, // Köln, Diebstahl
 //{"coords": [], "date": "2026-04-07"} // Kein Ort gefunden, entwendet
+//{"coords": [], "date": "2026-04-07"} // Bergheim, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-04-07"}, // Glascontainern Giessen, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-04-07"}, // Giessen, Einbrecher

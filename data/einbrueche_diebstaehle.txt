@@ -14999,3 +14999,16 @@
 {"coords": [7.0982, 50.7374], "date": "2026-04-08"}, // Bonn, Diebstahl
 {"coords": [7.4653, 51.5136], "date": "2026-04-08"}, // Brechten Dortmund, Diebstahl
 {"coords": [7.6, 49.2], "date": "2026-04-08"}, // Pirmasens, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-04-08"}, // Erfurt, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-04-08"}, // Lüneburg, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-04-08"}, // Aalen, gestohlen
+{"coords": [8.0472, 52.2799], "date": "2026-04-08"}, // Fund Osnabrück, Einbruch
+{"coords": [8.45, 50.0167], "date": "2026-04-08"}, // Zeugen Raunheim, entwendet
+//{"coords": [], "date": "2026-04-08"} // Bad Gandersheim Bad Gandersheim, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-04-08"}, // Schule Erfurt, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-04-08"}, // Mal Kraftstoffdiebstahl Cuxhaven, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-04-08"}, // Landkreis Heilbronn, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-04-08"}, // Recklinghausen, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2026-04-08"}, // Kalenderwoche Trier Trier, klau
+{"coords": [9.2167, 48.0833], "date": "2026-04-08"}, // Landkreis Sigmaringen Landkreis Sigmaringen, aufbruch
+//{"coords": [], "date": "2026-04-08"} // Gilsbach, geklaut

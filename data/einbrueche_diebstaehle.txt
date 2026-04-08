@@ -15024,3 +15024,4 @@
 {"coords": [8.24, 50.0822], "date": "2026-04-08"}, // Wiesbaden, Dieb
 {"coords": [6.7623, 51.4344], "date": "2026-04-08"}, // Duisburg, Raub
 //{"coords": [], "date": "2026-04-08"} // Bäckerei Lörzweiler, Einbruch
+//{"coords": [], "date": "2026-04-08"} // Gimbweiler Gimbweiler, Diebstahl

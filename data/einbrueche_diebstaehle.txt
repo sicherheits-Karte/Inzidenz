@@ -14967,3 +14967,14 @@
 {"coords": [8.4353, 49.4811], "date": "2026-04-08"}, // Untersuchungshaft Ludwigshafen, Raub
 {"coords": [9.9916, 48.3984], "date": "2026-04-08"}, // Ulm, Einbrecher
 {"coords": [8.4311, 49.3194], "date": "2026-04-08"}, // Hauptbahnhof Speyer, Diebstahl
+{"coords": [10.95, 50.8333], "date": "2026-04-08"}, // enger Zusammenarbeit von Beamten der Polizeiinspektion Arnstadt-Ilmenau und der Kriminalpolizei Gotha durchgeführten polizeilichen, Diebstahl
+{"coords": [7.2931, 51.2861], "date": "2026-04-08"}, // Schwelm, eingebrochen
+{"coords": [8.5331, 52.021], "date": "2026-04-08"}, // Terrassentür Bielefeld, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-04-08"}, // Mitte, eingebrochen
+{"coords": [8.875, 53.05], "date": "2026-04-08"}, // Osterholz, Einbruch
+{"coords": [11.4012, 53.6355], "date": "2026-04-08"}, // Schwerin, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-04-08"}, // Geschäftseinbruch Duisburg, Einbruch
+{"coords": [9.1464, 51.4889], "date": "2026-04-08"}, // Zeugen Warburg, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-04-08"}, // Gevelsberg, eingebrochen
+{"coords": [8.5331, 52.021], "date": "2026-04-08"}, // Bielefeld, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-04-08"}, // Fahrraddiebstahl Weimar, Diebstahl

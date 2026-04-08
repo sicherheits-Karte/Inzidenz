@@ -14946,3 +14946,15 @@
 {"coords": [8.6925, 52.1986], "date": "2026-04-08"}, // Löhne, entwendet
 {"coords": [8.8592, 52.1653], "date": "2026-04-08"}, // Vlotho, Diebstahl
 //{"coords": [], "date": "2026-04-08"} // Straelen, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-04-08"}, // Gotha, entwendet
+//{"coords": [], "date": "2026-04-08"} // oder mehrere bislang Unbekannte gewaltsam in einen Imbiss in der Bahnhofstraße einzudringen. Das Vorhaben misslang. Es entstand Sachschaden in Höhe von knapp, Einbruch
+//{"coords": [], "date": "2026-04-08"} // oder mehrere unbekannte Personen drangen in der Zeit zwischen dem, entwendet
+//{"coords": [], "date": "2026-04-08"} // mehrere Gartenlauben einer Kleingartenanlage im Bereich, Diebstahl
+//{"coords": [], "date": "2026-04-08"} // gesichertes Rennrad der Marke, entwendet
+{"coords": [7.7, 51.375], "date": "2026-04-08"}, // Stand Iserlohn, klau
+{"coords": [8.7667, 51.7167], "date": "2026-04-08"}, // Zeugen Paderborn, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-04-08"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-04-08"}, // Greiz, entwendet
+{"coords": [12.0991, 54.0924], "date": "2026-04-08"}, // Rostock, Diebstahl
+{"coords": [8.4111, 49.9917], "date": "2026-04-08"}, // Rüsselsheim, entwendet
+{"coords": [12.1997, 50.6544], "date": "2026-04-08"}, // Greiz, Diebstahl

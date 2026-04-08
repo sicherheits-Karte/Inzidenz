@@ -15012,3 +15012,14 @@
 {"coords": [6.6393, 49.7556], "date": "2026-04-08"}, // Kalenderwoche Trier Trier, klau
 {"coords": [9.2167, 48.0833], "date": "2026-04-08"}, // Landkreis Sigmaringen Landkreis Sigmaringen, aufbruch
 //{"coords": [], "date": "2026-04-08"} // Gilsbach, geklaut
+{"coords": [7.2061, 53.3669], "date": "2026-04-08"}, // Emden, Diebstahl
+//{"coords": [], "date": "2026-04-08"} // Vermisstensuche Neu Gaarz, Raub
+//{"coords": [], "date": "2026-04-08"} // Wangen im Allgäu festgenommen. Nach bisherigen Erkenntnissen bedrohte die dringend, Raub
+{"coords": [10.7865, 52.4226], "date": "2026-04-08"}, // Auto Wolfsburg, entwendet
+{"coords": [8.6267, 48.1678], "date": "2026-04-08"}, // Rottweil, aufbruch
+{"coords": [9.9916, 48.3984], "date": "2026-04-08"}, // Ulm, aufbruch
+{"coords": [6.25, 51.2167], "date": "2026-04-08"}, // Getränkemarkt Brüggen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-04-08"}, // Limburg, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-04-08"}, // Bad Schwalbach, gestohlen
+{"coords": [8.24, 50.0822], "date": "2026-04-08"}, // Wiesbaden, Dieb
+{"coords": [6.7623, 51.4344], "date": "2026-04-08"}, // Duisburg, Raub

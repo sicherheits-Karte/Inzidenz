@@ -14958,3 +14958,12 @@
 {"coords": [12.0991, 54.0924], "date": "2026-04-08"}, // Rostock, Diebstahl
 {"coords": [8.4111, 49.9917], "date": "2026-04-08"}, // Rüsselsheim, entwendet
 {"coords": [12.1997, 50.6544], "date": "2026-04-08"}, // Greiz, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2026-04-08"}, // Kassel, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-04-08"}, // Zeugenaufruf Delmenhorst, Diebstahl
+//{"coords": [], "date": "2026-04-08"} // aufgefundenem Diebesgut gesucht mehr, Dieb
+{"coords": [7.1508, 51.2562], "date": "2026-04-08"}, // Jugendlichen Wuppertal, Raub
+//{"coords": [], "date": "2026-04-08"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.95, 51.4833], "date": "2026-04-08"}, // Neheim Hochsauerlandkreis, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-04-08"}, // Untersuchungshaft Ludwigshafen, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-04-08"}, // Ulm, Einbrecher
+{"coords": [8.4311, 49.3194], "date": "2026-04-08"}, // Hauptbahnhof Speyer, Diebstahl

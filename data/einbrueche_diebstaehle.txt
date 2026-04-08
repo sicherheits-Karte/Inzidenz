@@ -14978,3 +14978,12 @@
 {"coords": [7.3392, 51.3197], "date": "2026-04-08"}, // Gevelsberg, eingebrochen
 {"coords": [8.5331, 52.021], "date": "2026-04-08"}, // Bielefeld, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2026-04-08"}, // Fahrraddiebstahl Weimar, Diebstahl
+//{"coords": [], "date": "2026-04-08"} // Döhle, eingebrochen
+{"coords": [8.8667, 51.9333], "date": "2026-04-08"}, // Lippe, Einbruch
+//{"coords": [], "date": "2026-04-08"} // Abwasserwerk scheitert Trippstadt, Einbruch
+{"coords": [9.9592, 53.8392], "date": "2026-04-08"}, // Wohnungseinbruchdiebstahl Kaltenkirchen, Einbruch
+{"coords": [8.8431, 49.8978], "date": "2026-04-08"}, // Dieburg, Dieb
+{"coords": [7.2162, 51.4818], "date": "2026-04-08"}, // Tatverdächtige Bochum, Einbruch
+//{"coords": [], "date": "2026-04-08"} // Wohnhaus Rülzheim, Einbruch
+{"coords": [6.6, 49.7833], "date": "2026-04-08"}, // Aach, Einbruch
+{"coords": [8.6267, 48.1678], "date": "2026-04-08"}, // Rottweil, entwendet

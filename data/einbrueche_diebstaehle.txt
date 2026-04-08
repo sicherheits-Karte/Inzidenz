@@ -14987,3 +14987,15 @@
 //{"coords": [], "date": "2026-04-08"} // Wohnhaus Rülzheim, Einbruch
 {"coords": [6.6, 49.7833], "date": "2026-04-08"}, // Aach, Einbruch
 {"coords": [8.6267, 48.1678], "date": "2026-04-08"}, // Rottweil, entwendet
+{"coords": [6.9889, 51.8944], "date": "2026-04-08"}, // Baustellengelände Velen, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-04-08"}, // Spielcasino Ludwigsburg, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-04-08"}, // Sorento Ratzeburg, Dieb
+{"coords": [8.0, 51.45], "date": "2026-04-08"}, // Arnsberg Hochsauerlandkreis, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-08"}, // Friseursalon Aalen, Einbruch
+//{"coords": [], "date": "2026-04-08"} // Kreis, Diebstahl
+{"coords": [9.1167, 50.85], "date": "2026-04-08"}, // Neustadt-Glewe mehr, Dieb
+{"coords": [8.2869, 52.7303], "date": "2026-04-08"}, // Vechta, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2026-04-08"}, // Hinweise Bonn, Raub
+{"coords": [7.0982, 50.7374], "date": "2026-04-08"}, // Bonn, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-04-08"}, // Brechten Dortmund, Diebstahl
+{"coords": [7.6, 49.2], "date": "2026-04-08"}, // Pirmasens, Dieb

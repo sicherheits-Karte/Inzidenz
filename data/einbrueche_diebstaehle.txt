@@ -15089,3 +15089,13 @@
 {"coords": [8.6944, 53.8619], "date": "2026-04-09"}, // Zahnarztpraxis Cuxhaven, Einbruch
 {"coords": [6.6961, 50.8719], "date": "2026-04-09"}, // Zeugensuche Kerpen, Raub
 {"coords": [8.6944, 53.8619], "date": "2026-04-09"}, // Kettenbagger Cuxhaven, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-04-09"}, // Nordhausen, gestohlen
+//{"coords": [], "date": "2026-04-09"} // Kongresszentrum Bad Langensalza, Dieb
+//{"coords": [], "date": "2026-04-09"} // Geburtstag Bad Frankenhausen, entwendet
+{"coords": [6.9667, 51.2333], "date": "2026-04-09"}, // Polizei Mettmann POL-ME, gestohlen
+{"coords": [9.732, 52.3759], "date": "2026-04-09"}, // Hannover, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-04-09"}, // Rohstoffhandel Augsburg, Einbruch
+//{"coords": [], "date": "2026-04-09"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2026-04-09"}, // Kellereinbruch Bielefeld, Einbruch
+{"coords": [8.0142, 53.4969], "date": "2026-04-09"}, // Umspannwerk Sande, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-04-09"}, // Dieseldiebstahl Freiburg, Diebstahl

@@ -15033,3 +15033,9 @@
 {"coords": [8.5861, 52.1983], "date": "2026-04-09"}, // Bünde, entwendet
 {"coords": [10.135, 51.3783], "date": "2026-04-09"}, // Einsatz Heilbad Heiligenstadt, Raub
 {"coords": [10.7, 51.1833], "date": "2026-04-09"}, // Wurstspezialitäten Kirchheilingen, Einbrecher
+//{"coords": [], "date": "2026-04-09"} // oder mehrere unbekannte Personen in der Straße, entwendet
+//{"coords": [], "date": "2026-04-09"} // Recke, gestohlen
+{"coords": [8.2146, 53.1434], "date": "2026-04-09"}, // Oldenburg, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-04-09"}, // Recklinghausen, Diebstahl
+{"coords": [7.8, 51.4333], "date": "2026-04-09"}, // Friedhof Menden, Einbruch
+{"coords": [7.75, 51.3833], "date": "2026-04-09"}, // Fahrrad Hemer, gestohlen

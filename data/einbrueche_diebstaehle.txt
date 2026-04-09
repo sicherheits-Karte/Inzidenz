@@ -15046,3 +15046,12 @@
 {"coords": [12.0799, 50.8772], "date": "2026-04-09"}, // Gera, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2026-04-09"}, // Mitte, Raub
 {"coords": [9.2108, 49.1425], "date": "2026-04-09"}, // Einbruch Heilbronn, Einbruch
+//{"coords": [], "date": "2026-04-09"} // Hochspeyer, Einbrüche
+{"coords": [6.7735, 51.2277], "date": "2026-04-09"}, // Einsatz Düsseldorf, Raub
+{"coords": [8.0167, 50.8833], "date": "2026-04-09"}, // Siegen, Dieb
+{"coords": [7.5333, 50.6333], "date": "2026-04-09"}, // Eichen, Dieb
+{"coords": [7.2162, 51.4818], "date": "2026-04-09"}, // Pkw Bochum, Dieb
+{"coords": [7.8667, 48.35], "date": "2026-04-09"}, // Lahr, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2026-04-09"}, // Zeugenaufruf Heidelberg, Raub
+{"coords": [9.9333, 52.9667], "date": "2026-04-09"}, // Heidekreis, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-04-09"}, // Haft Gütersloh, Diebstahl

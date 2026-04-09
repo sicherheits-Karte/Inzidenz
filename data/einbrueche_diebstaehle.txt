@@ -15101,3 +15101,4 @@
 {"coords": [7.82, 47.99], "date": "2026-04-09"}, // Dieseldiebstahl Freiburg, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-04-09"}, // Kirchheimer Gaststätte Reutlingen, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-04-09"}, // Seniorenheim Limburg, Einbruch
+//{"coords": [], "date": "2026-04-09"} // Radevormwwald, Raub

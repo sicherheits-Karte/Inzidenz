@@ -15027,3 +15027,9 @@
 //{"coords": [], "date": "2026-04-08"} // Gimbweiler Gimbweiler, Diebstahl
 //{"coords": [], "date": "2026-04-09"} // Perl, entwendet
 {"coords": [8.5786, 49.5383], "date": "2026-04-09"}, // Baustellenmitarbeiter Viernheim, Dieb
+{"coords": [7.0116, 51.4556], "date": "2026-04-09"}, // Zeugen Essen, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-04-09"}, // Scooter Diebstahl Aalen, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-04-09"}, // Northeim, Diebstahl
+{"coords": [8.5861, 52.1983], "date": "2026-04-09"}, // Bünde, entwendet
+{"coords": [10.135, 51.3783], "date": "2026-04-09"}, // Einsatz Heilbad Heiligenstadt, Raub
+{"coords": [10.7, 51.1833], "date": "2026-04-09"}, // Wurstspezialitäten Kirchheilingen, Einbrecher

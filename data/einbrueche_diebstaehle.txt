@@ -15076,3 +15076,16 @@
 {"coords": [7.0042, 51.9542], "date": "2026-04-09"}, // Gescher, eingebrochen
 {"coords": [6.8139, 50.9147], "date": "2026-04-09"}, // Frechen, Dieb
 {"coords": [8.6306, 53.05], "date": "2026-04-09"}, // Zeugenaufruf Delmenhorst, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-04-09"}, // Freiburg, Diebstähle
+{"coords": [7.82, 47.99], "date": "2026-04-09"}, // Hauingen Freiburg, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-04-09"}, // Bocholt, gestohlen
+{"coords": [13.0406, 54.1111], "date": "2026-04-09"}, // Grimmen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-04-09"}, // Unfall Aalen, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-04-09"}, // Bremen, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-04-09"}, // Bahnhof Ludwigsburg, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-04-09"}, // Gelsenkirchen, Dieb
+{"coords": [12.9333, 54.35], "date": "2026-04-09"}, // Altenpleen, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-04-09"}, // Ludwigsburg, Dieb
+{"coords": [8.6944, 53.8619], "date": "2026-04-09"}, // Zahnarztpraxis Cuxhaven, Einbruch
+{"coords": [6.6961, 50.8719], "date": "2026-04-09"}, // Zeugensuche Kerpen, Raub
+{"coords": [8.6944, 53.8619], "date": "2026-04-09"}, // Kettenbagger Cuxhaven, Diebstahl

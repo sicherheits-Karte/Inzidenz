@@ -15039,3 +15039,10 @@
 {"coords": [7.2, 51.6167], "date": "2026-04-09"}, // Recklinghausen, Diebstahl
 {"coords": [7.8, 51.4333], "date": "2026-04-09"}, // Friedhof Menden, Einbruch
 {"coords": [7.75, 51.3833], "date": "2026-04-09"}, // Fahrrad Hemer, gestohlen
+{"coords": [6.3917, 51.2556], "date": "2026-04-09"}, // Bereich Viersen Innenstadt Viersen, aufbrüche
+//{"coords": [], "date": "2026-04-09"} // Ölmühlenweg, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2026-04-09"}, // Eschwege, geklaut
+{"coords": [12.4333, 50.985], "date": "2026-04-09"}, // Altenburg, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-04-09"}, // Gera, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-04-09"}, // Mitte, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-04-09"}, // Einbruch Heilbronn, Einbruch

@@ -15055,3 +15055,13 @@
 {"coords": [8.6944, 49.4092], "date": "2026-04-09"}, // Zeugenaufruf Heidelberg, Raub
 {"coords": [9.9333, 52.9667], "date": "2026-04-09"}, // Heidekreis, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-04-09"}, // Haft Gütersloh, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-04-09"}, // Ludwigshafen, Einbrüche
+//{"coords": [], "date": "2026-04-09"} // Fahrzeuge, Einbrüche
+{"coords": [8.4353, 49.4811], "date": "2026-04-09"}, // Räuberischer Diebstahl Ludwigshafen, Diebstahl
+//{"coords": [], "date": "2026-04-09"} // Holzland, eingebrochen
+{"coords": [8.6306, 53.05], "date": "2026-04-09"}, // Zeugenaufruf Delmenhorst, aufbruch
+{"coords": [8.6822, 50.1106], "date": "2026-04-09"}, // Fahrrad Frankfurt, gestohlen
+{"coords": [10.75, 53.7], "date": "2026-04-09"}, // Ratzeburg, Dieb
+{"coords": [8.6822, 50.1106], "date": "2026-04-09"}, // Frankfurt, Dieb
+{"coords": [8.2333, 48.8667], "date": "2026-04-09"}, // Kuppenheim, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-04-09"}, // Raub Frankfurt, Raub

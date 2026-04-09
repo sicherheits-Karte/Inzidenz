@@ -15025,3 +15025,5 @@
 {"coords": [6.7623, 51.4344], "date": "2026-04-08"}, // Duisburg, Raub
 //{"coords": [], "date": "2026-04-08"} // Bäckerei Lörzweiler, Einbruch
 //{"coords": [], "date": "2026-04-08"} // Gimbweiler Gimbweiler, Diebstahl
+//{"coords": [], "date": "2026-04-09"} // Perl, entwendet
+{"coords": [8.5786, 49.5383], "date": "2026-04-09"}, // Baustellenmitarbeiter Viernheim, Dieb

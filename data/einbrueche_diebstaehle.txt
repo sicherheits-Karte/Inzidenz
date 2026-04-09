@@ -15099,3 +15099,5 @@
 {"coords": [8.5331, 52.021], "date": "2026-04-09"}, // Kellereinbruch Bielefeld, Einbruch
 {"coords": [8.0142, 53.4969], "date": "2026-04-09"}, // Umspannwerk Sande, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-04-09"}, // Dieseldiebstahl Freiburg, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-04-09"}, // Kirchheimer Gaststätte Reutlingen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-04-09"}, // Seniorenheim Limburg, Einbruch

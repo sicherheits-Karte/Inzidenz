@@ -15102,3 +15102,12 @@
 {"coords": [9.2167, 48.4833], "date": "2026-04-09"}, // Kirchheimer Gaststätte Reutlingen, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-04-09"}, // Seniorenheim Limburg, Einbruch
 //{"coords": [], "date": "2026-04-09"} // Radevormwwald, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-04-10"}, // Diebstahl Aalen, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-04-10"}, // Mitte, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-04-10"}, // Freiburg, Dieb
+{"coords": [7.95, 51.4833], "date": "2026-04-10"}, // Neheim Arnsberg, Einbruch
+{"coords": [7.8667, 51.3333], "date": "2026-04-10"}, // Kita Balve, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-04-10"}, // Zeugen Moers, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-04-10"}, // Reihenhaus Warendorf, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-10"}, // Wertstoffhof Aalen, Einbruch
+//{"coords": [], "date": "2026-04-10"} // der Bevölkerung. Wer in der betreffenden, stahl

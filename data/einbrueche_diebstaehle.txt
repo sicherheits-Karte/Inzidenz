@@ -15111,3 +15111,15 @@
 {"coords": [7.9833, 51.95], "date": "2026-04-10"}, // Reihenhaus Warendorf, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-04-10"}, // Wertstoffhof Aalen, Einbruch
 //{"coords": [], "date": "2026-04-10"} // der Bevölkerung. Wer in der betreffenden, stahl
+{"coords": [8.5833, 53.55], "date": "2026-04-10"}, // Mitte, Dieb
+{"coords": [8.5833, 53.55], "date": "2026-04-10"}, // Mitte, gestohlen
+{"coords": [7.2056, 50.8014], "date": "2026-04-10"}, // Drogeriemarkt Siegburg, Dieb
+{"coords": [10.5464, 52.4886], "date": "2026-04-10"}, // Gifhorn, Einbruch
+//{"coords": [], "date": "2026-04-10"} // Plöwen, Raub
+{"coords": [7.2833, 50.7833], "date": "2026-04-10"}, // Einbrecher mehrere Angelruten aus einem Keller in einem Mehrfamilienhaus an der Westerwaldstraße in Hennef-Uckerath. Der Mieter entdeckte mittags, dass jemand das Schloss seines Kellerabteils aufgebrochen hatte. Die Taschen mit den Angelruten, Keschern und weiterem Zubehör waren leer. Der Wert der gestohlenen Gegenstände beträgt mehrere hundert Euro. Die Polizei, Einbrecher
+{"coords": [9.1919, 48.8975], "date": "2026-04-10"}, // Ludwigsburg, stahl
+{"coords": [7.2056, 50.8014], "date": "2026-04-10"}, // Einbrecherinnen Siegburg, Einbrecher
+{"coords": [8.2146, 53.1434], "date": "2026-04-10"}, // Oldenburg, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-04-10"}, // Zeugenaufruf Mannheim, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-04-10"}, // Neusser Supermarkt Neuss, Raub
+{"coords": [10.135, 51.3783], "date": "2026-04-10"}, // Einsatz Heilbad Heiligenstadt, Raub

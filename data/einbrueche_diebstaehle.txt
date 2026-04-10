@@ -15123,3 +15123,15 @@
 {"coords": [8.4661, 49.4878], "date": "2026-04-10"}, // Zeugenaufruf Mannheim, Diebstahl
 {"coords": [6.6833, 51.2], "date": "2026-04-10"}, // Neusser Supermarkt Neuss, Raub
 {"coords": [10.135, 51.3783], "date": "2026-04-10"}, // Einsatz Heilbad Heiligenstadt, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-04-10"}, // Friedrichstraße Ludwigsburg, Diebstahl
+{"coords": [10.7865, 52.4226], "date": "2026-04-10"}, // Wolfsburg, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-04-10"}, // Lippe, Raub
+{"coords": [8.2869, 52.7303], "date": "2026-04-10"}, // Vechta, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-04-10"}, // Lippe, Diebstahl
+{"coords": [7.3333, 51.4333], "date": "2026-04-10"}, // Witten, Einbruch
+{"coords": [6.5906, 51.7317], "date": "2026-04-10"}, // Bezirksdienstbeamter Hamminkeln, klau
+{"coords": [7.2162, 51.4818], "date": "2026-04-10"}, // Seniorin Bochum, Dieb
+{"coords": [8.8667, 51.9333], "date": "2026-04-10"}, // Lippe, Einbruch
+{"coords": [9.4456, 51.8281], "date": "2026-04-10"}, // Holzminden, Einbrüche
+{"coords": [9.9916, 48.3984], "date": "2026-04-10"}, // Ulm, gestohlen
+//{"coords": [], "date": "2026-04-10"} // Dotzlar, Diebstahl

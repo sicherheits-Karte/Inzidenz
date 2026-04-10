@@ -15165,3 +15165,5 @@
 {"coords": [8.0667, 50.3833], "date": "2026-04-10"}, // Cocktailbar Limburg, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-04-10"}, // Reutlingen, Raub
 {"coords": [11.0767, 49.4521], "date": "2026-04-10"}, // Nürnberg, Raub
+{"coords": [7.6, 50.3], "date": "2026-04-10"}, // Lahnstein, Raub
+{"coords": [9.95, 52.15], "date": "2026-04-10"}, // Zeugenaufruf Hildesheim, Einbruch

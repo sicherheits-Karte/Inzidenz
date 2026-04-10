@@ -15151,3 +15151,10 @@
 {"coords": [6.0961, 51.0631], "date": "2026-04-10"}, // Heinsberg, gestohlen
 {"coords": [6.0961, 51.0631], "date": "2026-04-10"}, // Heinsberg, entwendet
 {"coords": [7.5314, 52.5536], "date": "2026-04-10"}, // Einbruchdiebstahl Lengerich, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-04-10"}, // Ladendiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-04-10"}, // Fahrraddiebstahl Augsburg, Diebstahl
+//{"coords": [], "date": "2026-04-10"} // Einfamilienhaus Weede, Einbruch
+//{"coords": [], "date": "2026-04-10"} // Ungelsheim, Diebstähle
+{"coords": [12.0991, 54.0924], "date": "2026-04-10"}, // Haft Rostock, Einbrecher
+{"coords": [10.4, 53.25], "date": "2026-04-10"}, // Lüneburg, Einbruch
+//{"coords": [], "date": "2026-04-10"} // Brüsewitz, Diebstahl

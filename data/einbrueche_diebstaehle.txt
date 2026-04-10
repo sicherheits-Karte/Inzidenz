@@ -15158,3 +15158,8 @@
 {"coords": [12.0991, 54.0924], "date": "2026-04-10"}, // Haft Rostock, Einbrecher
 {"coords": [10.4, 53.25], "date": "2026-04-10"}, // Lüneburg, Einbruch
 //{"coords": [], "date": "2026-04-10"} // Brüsewitz, Diebstahl
+//{"coords": [], "date": "2026-04-10"} // Elbe, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-04-10"}, // Dieben Wiesbaden, Dieb
+//{"coords": [], "date": "2026-04-10"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.4414, 50.0919], "date": "2026-04-10"}, // Hofheim, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-04-10"}, // Cocktailbar Limburg, Einbruch

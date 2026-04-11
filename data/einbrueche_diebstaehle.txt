@@ -15188,3 +15188,4 @@
 {"coords": [8.8075, 53.075], "date": "2026-04-11"}, // Bremen, Dieb
 {"coords": [9.2167, 48.4833], "date": "2026-04-11"}, // Verkehrsunfälle Reutlingen, Diebstahl
 {"coords": [9.4764, 53.6008], "date": "2026-04-11"}, // Zeugen Stade, Dieb
+//{"coords": [], "date": "2026-04-11"} // Gartenlauben, Einbrüche

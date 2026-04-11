@@ -15193,3 +15193,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-04-11"}, // Forellensee Nordhausen, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-04-11"}, // Tatzeit Delmenhorst, Einbruch
 {"coords": [12.2667, 54.0833], "date": "2026-04-11"}, // Broderstorf Broderstorf, Einbruch
+{"coords": [7.5978, 50.3597], "date": "2026-04-12"}, // Sachschaden Koblenz, stahl

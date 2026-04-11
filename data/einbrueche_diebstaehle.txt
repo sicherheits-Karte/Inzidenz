@@ -15171,3 +15171,10 @@
 {"coords": [10.8708, 51.3697], "date": "2026-04-11"}, // Sondershausen, Diebstahl
 //{"coords": [], "date": "2026-04-11"} // Bad Dürkheim, Diebstahl
 {"coords": [11.7333, 50.85], "date": "2026-04-11"}, // Stadtroda, Diebstahl
+//{"coords": [], "date": "2026-04-11"} // Werlte, Diebstahl
+//{"coords": [], "date": "2026-04-11"} // Hinweise Sögel, Diebstahl
+//{"coords": [], "date": "2026-04-11"} // Freren, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-04-11"}, // Einbeck, Diebstahl
+//{"coords": [], "date": "2026-04-11"} // Grönebach, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-04-11"}, // Baustelle Erfurt, Diebstahl
+{"coords": [7.6333, 51.6667], "date": "2026-04-11"}, // Einbruch Werne, Einbruch

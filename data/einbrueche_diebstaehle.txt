@@ -15178,3 +15178,6 @@
 //{"coords": [], "date": "2026-04-11"} // Grönebach, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-04-11"}, // Baustelle Erfurt, Diebstahl
 {"coords": [7.6333, 51.6667], "date": "2026-04-11"}, // Einbruch Werne, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-04-11"}, // Motorradkennzeichens Ludwigshafen, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-04-11"}, // Einbrechern Giessen, Einbrüche
+{"coords": [10.135, 51.3783], "date": "2026-04-11"}, // Kellerdiebstahl Heiligenstadt Nordhausen, Diebstahl

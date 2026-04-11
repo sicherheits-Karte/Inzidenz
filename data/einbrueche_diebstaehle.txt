@@ -15181,3 +15181,4 @@
 {"coords": [8.4353, 49.4811], "date": "2026-04-11"}, // Motorradkennzeichens Ludwigshafen, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-04-11"}, // Einbrechern Giessen, Einbrüche
 {"coords": [10.135, 51.3783], "date": "2026-04-11"}, // Kellerdiebstahl Heiligenstadt Nordhausen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-04-11"}, // Bekleidungsgeschäft Ludwigshafen, Diebstahl

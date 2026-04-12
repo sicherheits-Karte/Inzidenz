@@ -15216,3 +15216,12 @@
 {"coords": [11.5862, 50.9271], "date": "2026-04-12"}, // Nord Jena, Einbrüche
 {"coords": [8.1075, 53.5219], "date": "2026-04-12"}, // Wilhelmshaven, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-04-12"}, // Straße Ludwigshafen, Räuber
+{"coords": [10.4, 53.25], "date": "2026-04-12"}, // Lüneburg, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-04-12"}, // Osnabrück, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-04-12"}, // Hinweise Düsseldorf, Raub
+{"coords": [9.9333, 52.9667], "date": "2026-04-12"}, // Heidekreis, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-04-12"}, // Nürnberg, Raub
+//{"coords": [], "date": "2026-04-12"} // Kein Ort gefunden, Raub
+{"coords": [7.4139, 50.9889], "date": "2026-04-12"}, // Tag Engelskirchen, Einbruch
+{"coords": [7.3778, 51.0194], "date": "2026-04-12"}, // Lindlar, aufbrechen
+{"coords": [7.3778, 51.0194], "date": "2026-04-12"}, // Lindlar, einbrechen

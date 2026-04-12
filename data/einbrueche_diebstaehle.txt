@@ -15225,3 +15225,6 @@
 {"coords": [7.4139, 50.9889], "date": "2026-04-12"}, // Tag Engelskirchen, Einbruch
 {"coords": [7.3778, 51.0194], "date": "2026-04-12"}, // Lindlar, aufbrechen
 {"coords": [7.3778, 51.0194], "date": "2026-04-12"}, // Lindlar, einbrechen
+{"coords": [10.6833, 48.7833], "date": "2026-04-12"}, // Harburg, Einbrüche
+//{"coords": [], "date": "2026-04-12"} // oder mehrere noch unbekannte Täter in den Geschäftsbereich der Telekom-Filiale in der Karlstraße einzudringen. Im Bereich der Eingangstür wurden mehrere Hebelmarken und hierdurch verursachter Sachschaden von etwa, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-04-12"}, // Körperverletzung Reutlingen, Einbruch

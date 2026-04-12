@@ -15234,3 +15234,4 @@
 //{"coords": [], "date": "2026-04-12"} // Barlo, entwendet
 {"coords": [7.0333, 52.2167], "date": "2026-04-12"}, // Wohnungseinbruch Gronau, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-04-12"}, // Raubdelikt Augsburg, Raub
+//{"coords": [], "date": "2026-04-12"} // Andel, entwendet

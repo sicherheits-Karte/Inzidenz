@@ -15209,3 +15209,10 @@
 {"coords": [7.4667, 49.8167], "date": "2026-04-12"}, // Morgen Kirn, Einbruch
 //{"coords": [], "date": "2026-04-12"} // Uchtelfangen, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-04-12"}, // Buer Gelsenkirchen, Einbrecher
+{"coords": [8.24, 50.0822], "date": "2026-04-12"}, // Alkoholkonsum Wiesbaden, Diebstahl
+//{"coords": [], "date": "2026-04-12"} // Höhe, Dieb
+{"coords": [8.1075, 53.5219], "date": "2026-04-12"}, // Wilhelmshaven, Diebstahl
+{"coords": [8.5833, 47.8333], "date": "2026-04-12"}, // Blumberg, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-04-12"}, // Nord Jena, Einbrüche
+{"coords": [8.1075, 53.5219], "date": "2026-04-12"}, // Wilhelmshaven, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-04-12"}, // Straße Ludwigshafen, Räuber

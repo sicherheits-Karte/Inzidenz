@@ -15196,3 +15196,6 @@
 {"coords": [7.5978, 50.3597], "date": "2026-04-12"}, // Sachschaden Koblenz, stahl
 {"coords": [7.6889, 51.5347], "date": "2026-04-12"}, // Mehrfamilienhauses Unna, Einbruch
 {"coords": [7.4667, 49.8167], "date": "2026-04-12"}, // Kirn, Einbruch
+{"coords": [11.8556, 50.8964], "date": "2026-04-12"}, // Verbrauchermarkt Hermsdorf, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-04-12"}, // Eichholz Lippe, Einbruch
+{"coords": [9.3806, 51.775], "date": "2026-04-12"}, // Höxter, stahl

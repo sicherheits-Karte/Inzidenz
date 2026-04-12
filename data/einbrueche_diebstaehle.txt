@@ -15199,3 +15199,9 @@
 {"coords": [11.8556, 50.8964], "date": "2026-04-12"}, // Verbrauchermarkt Hermsdorf, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-04-12"}, // Eichholz Lippe, Einbruch
 {"coords": [9.3806, 51.775], "date": "2026-04-12"}, // Höxter, stahl
+{"coords": [11.3239, 50.9795], "date": "2026-04-12"}, // Ladendiebstahl Weimar, Diebstahl
+{"coords": [11.3406, 50.7206], "date": "2026-04-12"}, // Rudolstadt, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-04-12"}, // Gera, Diebstahl
+{"coords": [10.95, 50.8333], "date": "2026-04-12"}, // Arnstadt. Einem, Dieb
+//{"coords": [], "date": "2026-04-12"} // Zerspanungsfirma Höhn, Einbruch
+{"coords": [10.95, 50.8333], "date": "2026-04-12"}, // hochwertiges E-Bike vor dem Hauptbahnhof in Arnstadt entwendet. Das Rad war Nähe der einer großen Werbetafel angeschlossen und das zur Sicherung angebrachte Faltschloss auf unbekannte Weise durchtrennt. Beim E-Bike handelt es sich um ein weißes Mountainbike der, entwendet

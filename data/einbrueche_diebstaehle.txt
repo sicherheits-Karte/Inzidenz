@@ -15205,3 +15205,7 @@
 {"coords": [10.95, 50.8333], "date": "2026-04-12"}, // Arnstadt. Einem, Dieb
 //{"coords": [], "date": "2026-04-12"} // Zerspanungsfirma Höhn, Einbruch
 {"coords": [10.95, 50.8333], "date": "2026-04-12"}, // hochwertiges E-Bike vor dem Hauptbahnhof in Arnstadt entwendet. Das Rad war Nähe der einer großen Werbetafel angeschlossen und das zur Sicherung angebrachte Faltschloss auf unbekannte Weise durchtrennt. Beim E-Bike handelt es sich um ein weißes Mountainbike der, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-04-12"}, // Geschwindigkeitskontrollen Hofheim, Einbruch
+{"coords": [7.4667, 49.8167], "date": "2026-04-12"}, // Morgen Kirn, Einbruch
+//{"coords": [], "date": "2026-04-12"} // Uchtelfangen, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-04-12"}, // Buer Gelsenkirchen, Einbrecher

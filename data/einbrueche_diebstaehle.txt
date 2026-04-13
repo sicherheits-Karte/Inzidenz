@@ -15295,3 +15295,4 @@
 {"coords": [10.7753, 49.7544], "date": "2026-04-13"}, // Mühlhausen, Dieb
 {"coords": [10.6639, 51.5867], "date": "2026-04-13"}, // Dach Ellrich, Einbrecher
 {"coords": [8.6833, 50.5833], "date": "2026-04-13"}, // Fahrradfahrer Giessen, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-04-13"}, // Zeugenaufruf Hildesheim, Diebstahl

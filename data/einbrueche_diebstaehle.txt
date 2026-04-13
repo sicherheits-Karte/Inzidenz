@@ -15272,3 +15272,12 @@
 {"coords": [8.8667, 51.9333], "date": "2026-04-13"}, // Lippe, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-04-13"}, // Lippe, Dieb
 {"coords": [9.1919, 48.8975], "date": "2026-04-13"}, // Ludwigsburg, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-04-13"}, // Kleve, Einbrüche
+{"coords": [11.0299, 50.9848], "date": "2026-04-13"}, // Erfurt, gestohlen
+{"coords": [11.1167, 51.1667], "date": "2026-04-13"}, // Landkreis Sömmerda, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-04-13"}, // Erfurt, Einbrecher
+{"coords": [11.0299, 50.9848], "date": "2026-04-13"}, // Erfurt, Dieb
+{"coords": [6.7, 51.8333], "date": "2026-04-13"}, // Einfamilienhaus Rhede, Einbruch
+{"coords": [9.2844, 51.045], "date": "2026-04-13"}, // Borken, Dieb
+//{"coords": [], "date": "2026-04-13"} // Mittelangeln, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-04-13"}, // Hotel Freiburg, Einbruch

@@ -15289,3 +15289,9 @@
 {"coords": [13.2611, 53.5569], "date": "2026-04-13"}, // Neubrandenburg, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2026-04-13"}, // Einfamilienhaus Coesfeld, Einbruch
 {"coords": [8.6944, 53.8619], "date": "2026-04-13"}, // Zeugenaufruf Cuxhaven, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-04-13"}, // Cuxhaven, entwendet
+{"coords": [10.7956, 51.5019], "date": "2026-04-13"}, // Nordhausen, gestohlen
+{"coords": [10.135, 51.3783], "date": "2026-04-13"}, // Heilbad Heiligenstadt, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-04-13"}, // Mühlhausen, Dieb
+{"coords": [10.6639, 51.5867], "date": "2026-04-13"}, // Dach Ellrich, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-04-13"}, // Fahrradfahrer Giessen, Einbruch

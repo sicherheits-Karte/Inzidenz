@@ -15253,3 +15253,12 @@
 //{"coords": [], "date": "2026-04-13"} // Hesserode, Dieb
 {"coords": [9.0, 50.7333], "date": "2026-04-13"}, // Dieseldieb Homberg, Dieb
 {"coords": [8.3667, 51.45], "date": "2026-04-13"}, // Warstein, gestohlen
+//{"coords": [], "date": "2026-04-13"} // Eck, Einbruch
+{"coords": [6.5875, 51.0883], "date": "2026-04-13"}, // Grevenbroich, Diebstahl
+{"coords": [8.8403, 47.7592], "date": "2026-04-13"}, // Singen, Einbruch
+{"coords": [8.0167, 50.8833], "date": "2026-04-13"}, // Siegen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-04-13"}, // Zeugensuche Freiburg, entwendet
+{"coords": [8.0167, 50.8833], "date": "2026-04-13"}, // Siegen, Diebstahl
+//{"coords": [], "date": "2026-04-13"} // Plieningen, Raub
+{"coords": [12.0799, 50.8772], "date": "2026-04-13"}, // Gera, Diebstahl
+{"coords": [7.2197, 51.5428], "date": "2026-04-13"}, // Zeugen Herne, Raub

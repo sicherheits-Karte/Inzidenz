@@ -15262,3 +15262,13 @@
 //{"coords": [], "date": "2026-04-13"} // Plieningen, Raub
 {"coords": [12.0799, 50.8772], "date": "2026-04-13"}, // Gera, Diebstahl
 {"coords": [7.2197, 51.5428], "date": "2026-04-13"}, // Zeugen Herne, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-04-13"}, // Zeugenaufruf- Frankfurt, Diebstahl
+//{"coords": [], "date": "2026-04-13"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-04-13"} // Dokument mehr, Einbruch
+//{"coords": [], "date": "2026-04-13"} // Neu Wulmstorf, Dieb
+{"coords": [9.5, 51.3167], "date": "2026-04-13"}, // Kassel, Einbruch
+{"coords": [6.6961, 50.8719], "date": "2026-04-13"}, // Kerpen, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-04-13"}, // Lippe, Einbrecher
+{"coords": [8.8667, 51.9333], "date": "2026-04-13"}, // Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-04-13"}, // Lippe, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-04-13"}, // Ludwigsburg, Einbruch

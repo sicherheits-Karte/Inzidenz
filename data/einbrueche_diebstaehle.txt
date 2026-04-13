@@ -15298,3 +15298,4 @@
 {"coords": [9.95, 52.15], "date": "2026-04-13"}, // Zeugenaufruf Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-04-13"} // POL-PDNR, Diebstahl
 {"coords": [8.3658, 49.6306], "date": "2026-04-13"}, // Worms, Raub
+//{"coords": [], "date": "2026-04-13"} // Leergut Lieser, Diebstahl

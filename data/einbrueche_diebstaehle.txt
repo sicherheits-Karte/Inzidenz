@@ -15246,3 +15246,10 @@
 {"coords": [7.8208, 51.6803], "date": "2026-04-13"}, // Hamm, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2026-04-13"}, // Bonn, Raub
 {"coords": [9.1492, 52.4542], "date": "2026-04-13"}, // Loccum, Einbruch
+{"coords": [10.9887, 49.4771], "date": "2026-04-13"}, // Juweliergeschäft Fürth, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-04-13"}, // Firmengebäude Gummersbach, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-04-13"}, // Recklinghausen, Dieb
+{"coords": [8.6514, 49.8728], "date": "2026-04-13"}, // Zeugen Darmstadt, entwendet
+//{"coords": [], "date": "2026-04-13"} // Hesserode, Dieb
+{"coords": [9.0, 50.7333], "date": "2026-04-13"}, // Dieseldieb Homberg, Dieb
+{"coords": [8.3667, 51.45], "date": "2026-04-13"}, // Warstein, gestohlen

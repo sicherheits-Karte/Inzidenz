@@ -15300,3 +15300,13 @@
 {"coords": [8.3658, 49.6306], "date": "2026-04-13"}, // Worms, Raub
 //{"coords": [], "date": "2026-04-13"} // Leergut Lieser, Diebstahl
 {"coords": [6.9486, 49.6561], "date": "2026-04-14"}, // Hermeskeil, Diebstahl
+//{"coords": [], "date": "2026-04-14"} // Zeugen Weitisberga, Diebstahl
+{"coords": [8.35, 51.6667], "date": "2026-04-14"}, // Zelle Lippstadt, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-04-14"}, // Diebstahl Aalen, Diebstahl
+//{"coords": [], "date": "2026-04-14"} // Lonnig, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-04-14"}, // Freiburg, eingebrochen
+{"coords": [11.0299, 50.9848], "date": "2026-04-14"}, // Erfurt, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-04-14"}, // Versuchte Einbrüche Aalen, Einbrüche
+{"coords": [7.75, 51.6333], "date": "2026-04-14"}, // Herringen, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-04-14"}, // Einfamilienhaus Wesel, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-04-14"}, // Northeim, Einbruch

@@ -15338,3 +15338,9 @@
 //{"coords": [], "date": "2026-04-14"} // Lorup, Diebstahl
 {"coords": [7.1, 52.6167], "date": "2026-04-14"}, // Twist, Diebstahl
 {"coords": [8.8403, 47.7592], "date": "2026-04-14"}, // Singen, Einbruch
+{"coords": [11.1, 48.7167], "date": "2026-04-14"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-04-14"}, // Einfamilienhaus Heidekreis, Einbruch
+//{"coords": [], "date": "2026-04-14"} // Kein Ort gefunden, aufbrüche
+{"coords": [8.6822, 50.1106], "date": "2026-04-14"}, // Fahrzeugaufbruch Frankfurt, aufbruch
+{"coords": [7.4653, 51.5136], "date": "2026-04-14"}, // Zeugen Dortmund, Raub
+{"coords": [7.0, 52.05], "date": "2026-04-14"}, // Verbrauchermarkt Legden, Einbruch

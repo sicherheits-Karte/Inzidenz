@@ -15351,3 +15351,10 @@
 {"coords": [8.0667, 50.3833], "date": "2026-04-14"}, // Limburg, gestohlen
 {"coords": [6.85, 49.3], "date": "2026-04-14"}, // Bad Schwalbach, Dieb
 {"coords": [9.1919, 48.8975], "date": "2026-04-14"}, // Ludwigsburg, gestohlen
+{"coords": [6.9603, 50.9375], "date": "2026-04-14"}, // Straßenraub Köln, Raub
+{"coords": [9.6631, 54.3069], "date": "2026-04-14"}, // Rendsburg, Raub
+{"coords": [8.9167, 52.3], "date": "2026-04-14"}, // Minden, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-04-14"}, // Giessen, Dieb
+{"coords": [9.3833, 50.6333], "date": "2026-04-14"}, // Vogelsbergkreis, Diebstahl
+//{"coords": [], "date": "2026-04-14"} // Spielhalle, Räuber
+{"coords": [8.6833, 50.5833], "date": "2026-04-14"}, // Giessen, gestohlen

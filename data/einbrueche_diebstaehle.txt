@@ -15310,3 +15310,11 @@
 {"coords": [7.75, 51.6333], "date": "2026-04-14"}, // Herringen, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2026-04-14"}, // Einfamilienhaus Wesel, Einbruch
 {"coords": [10.0, 51.7064], "date": "2026-04-14"}, // Northeim, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-04-14"}, // Essen, Raub
+{"coords": [8.0667, 51.1167], "date": "2026-04-14"}, // Einfamilienhaus Lennestadt, Einbruch
+{"coords": [8.0667, 51.1167], "date": "2026-04-14"}, // Lennestadt, entwendet
+//{"coords": [], "date": "2026-04-14"} // Wangen, Diebstähle
+{"coords": [8.875, 53.05], "date": "2026-04-14"}, // Osterholz, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-04-14"}, // Zeugenaufruf Mannheim, Diebstahl
+{"coords": [8.8431, 49.8978], "date": "2026-04-14"}, // Handtaschenräuber Dieburg, Dieb
+{"coords": [9.2108, 49.1425], "date": "2026-04-14"}, // Hühner Heilbronn, gestohlen

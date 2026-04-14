@@ -15328,3 +15328,13 @@
 {"coords": [9.2167, 48.4833], "date": "2026-04-14"}, // Reutlingen, Diebstahl
 {"coords": [8.3708, 52.6078], "date": "2026-04-14"}, // Verkehrsunfälle Diepholz, Einbrüche
 {"coords": [10.75, 53.7], "date": "2026-04-14"}, // Kriminalpolizei Ratzeburg, Einbrecher
+{"coords": [7.6889, 51.5347], "date": "2026-04-14"}, // Diebstahl Unna, Diebstahl
+//{"coords": [], "date": "2026-04-14"} // dem Kreisgebiet, Einbrüche
+{"coords": [6.55, 51.25], "date": "2026-04-14"}, // Schiefbahn, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-04-14"}, // Öffentlichkeitsfahndung Freiburg, Raub
+{"coords": [7.2908, 52.6906], "date": "2026-04-14"}, // Meppen, Einbruch
+{"coords": [6.5492, 51.2631], "date": "2026-04-14"}, // Willich, gestohlen
+{"coords": [7.3194, 52.5236], "date": "2026-04-14"}, // Lingen, Einbruch
+//{"coords": [], "date": "2026-04-14"} // Lorup, Diebstahl
+{"coords": [7.1, 52.6167], "date": "2026-04-14"}, // Twist, Diebstahl
+{"coords": [8.8403, 47.7592], "date": "2026-04-14"}, // Singen, Einbruch

@@ -15344,3 +15344,10 @@
 {"coords": [8.6822, 50.1106], "date": "2026-04-14"}, // Fahrzeugaufbruch Frankfurt, aufbruch
 {"coords": [7.4653, 51.5136], "date": "2026-04-14"}, // Zeugen Dortmund, Raub
 {"coords": [7.0, 52.05], "date": "2026-04-14"}, // Verbrauchermarkt Legden, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-04-14"}, // Speyer, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-04-14"}, // Zeugensuche Freiburg, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-04-14"}, // Speyer, Einbruch
+{"coords": [6.5906, 51.7317], "date": "2026-04-14"}, // ist neuer Bezirksbeamter in Hamminkeln mehr, klau
+{"coords": [8.0667, 50.3833], "date": "2026-04-14"}, // Limburg, gestohlen
+{"coords": [6.85, 49.3], "date": "2026-04-14"}, // Bad Schwalbach, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-04-14"}, // Ludwigsburg, gestohlen

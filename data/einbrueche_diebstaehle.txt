@@ -15299,3 +15299,4 @@
 //{"coords": [], "date": "2026-04-13"} // POL-PDNR, Diebstahl
 {"coords": [8.3658, 49.6306], "date": "2026-04-13"}, // Worms, Raub
 //{"coords": [], "date": "2026-04-13"} // Leergut Lieser, Diebstahl
+{"coords": [6.9486, 49.6561], "date": "2026-04-14"}, // Hermeskeil, Diebstahl

@@ -15399,3 +15399,13 @@
 //{"coords": [], "date": "2026-04-15"} // Höhe, Diebstahl
 {"coords": [7.0, 51.8333], "date": "2026-04-15"}, // Reken, Einbruch
 {"coords": [6.4333, 51.2], "date": "2026-04-15"}, // Mönchengladbach, gestohlen
+{"coords": [10.4, 53.25], "date": "2026-04-15"}, // Lüneburg, Dieb
+{"coords": [8.24, 50.0822], "date": "2026-04-15"}, // Einbruch Wiesbaden, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2026-04-15"}, // Bensheim, Einbrecher
+{"coords": [10.25, 50.6833], "date": "2026-04-15"}, // Wohnung Vogelsberg, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-04-15"}, // Bielefeld, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-04-15"}, // Zeugenaufruf Freiburg, Diebstähle
+//{"coords": [], "date": "2026-04-15"} // Zeugen Willebadessen, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-04-15"}, // Kaiserslautern, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-04-15"}, // Giessen, Dieb
+{"coords": [7.4836, 53.4711], "date": "2026-04-15"}, // Auffahrunfall Landkreis Aurich, Einbruch

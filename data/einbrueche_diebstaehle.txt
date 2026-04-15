@@ -15378,3 +15378,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-04-15"}, // Sonstiges Aalen, Diebstahl
 {"coords": [6.6717, 51.2614], "date": "2026-04-15"}, // Meerbusch, Diebstahl
 {"coords": [7.2, 51.6167], "date": "2026-04-15"}, // Ergänzung Recklinghausen, Raub
+{"coords": [8.6231, 52.3061], "date": "2026-04-15"}, // Firmeneinbruch Lübbecke, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-04-15"}, // Fluchtfahrzeug Moers, Raub
+{"coords": [8.4478, 49.3722], "date": "2026-04-15"}, // Otterstadt, Raub
+//{"coords": [], "date": "2026-04-15"} // Gemeinde Kirchhundem Kirchhundem, Diebstähle
+//{"coords": [], "date": "2026-04-15"} // Luftverkehr Morschheim, Raub
+//{"coords": [], "date": "2026-04-15"} // Windeck, Einbruch

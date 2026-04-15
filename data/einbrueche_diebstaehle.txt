@@ -15365,3 +15365,4 @@
 {"coords": [7.1675, 51.9436], "date": "2026-04-14"}, // Tresor Coesfeld, Einbrecher
 //{"coords": [], "date": "2026-04-14"} // Aufbrüchen Breisach, aufbrüche
 {"coords": [11.4012, 53.6355], "date": "2026-04-14"}, // Haft Schwerin, Diebstahl
+//{"coords": [], "date": "2026-04-15"} // Bad Gandersheim, entwendet

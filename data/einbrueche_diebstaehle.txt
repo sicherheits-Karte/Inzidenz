@@ -15373,3 +15373,8 @@
 //{"coords": [], "date": "2026-04-15"} // Spielhalle, Räuber
 {"coords": [10.0936, 48.8372], "date": "2026-04-15"}, // Fahrraddiebstahl Aalen, Einbruch
 {"coords": [10.0, 51.7064], "date": "2026-04-15"}, // Northeim, entwendet
+{"coords": [7.7, 51.375], "date": "2026-04-15"}, // Iserlohn, entwendet
+{"coords": [11.1167, 51.1667], "date": "2026-04-15"}, // Landkreis Sömmerda, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-04-15"}, // Sonstiges Aalen, Diebstahl
+{"coords": [6.6717, 51.2614], "date": "2026-04-15"}, // Meerbusch, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-04-15"}, // Ergänzung Recklinghausen, Raub

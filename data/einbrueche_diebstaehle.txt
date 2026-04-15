@@ -15384,3 +15384,11 @@
 //{"coords": [], "date": "2026-04-15"} // Gemeinde Kirchhundem Kirchhundem, Diebstähle
 //{"coords": [], "date": "2026-04-15"} // Luftverkehr Morschheim, Raub
 //{"coords": [], "date": "2026-04-15"} // Windeck, Einbruch
+//{"coords": [], "date": "2026-04-15"} // Untersuchungshaft. Ein Ladendetektiv hatte den jungen Mann dabei beobachtete, wie er, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-04-15"}, // Einsatz Düsseldorf, Raub
+{"coords": [8.5331, 52.021], "date": "2026-04-15"}, // Karte Bielefeld, Dieb
+//{"coords": [], "date": "2026-04-15"} // Kreis, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-04-15"}, // Kreis Offenbach, Diebstähle
+{"coords": [9.0817, 52.1906], "date": "2026-04-15"}, // Hinweise Rinteln, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-04-15"}, // Ludwigshafen, aufbruch
+{"coords": [8.2869, 52.7303], "date": "2026-04-15"}, // Vechta, Einbruch

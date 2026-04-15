@@ -15419,3 +15419,4 @@
 //{"coords": [], "date": "2026-04-15"} // Allmenhausen, entwendet
 {"coords": [10.5667, 51.1167], "date": "2026-04-15"}, // Beutegut Schönstedt, Einbrecher
 {"coords": [9.6631, 54.3069], "date": "2026-04-15"}, // Rendsburg, Raub
+{"coords": [9.6106, 47.7828], "date": "2026-04-15"}, // Landkreis Ravensburg Ravensburg, stahl

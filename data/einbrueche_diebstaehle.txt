@@ -15392,3 +15392,10 @@
 {"coords": [9.0817, 52.1906], "date": "2026-04-15"}, // Hinweise Rinteln, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-04-15"}, // Ludwigshafen, aufbruch
 {"coords": [8.2869, 52.7303], "date": "2026-04-15"}, // Vechta, Einbruch
+//{"coords": [], "date": "2026-04-15"} // Möhringen, eingebrochen
+{"coords": [6.9603, 50.9375], "date": "2026-04-15"}, // Köln, gestohlen
+{"coords": [8.6822, 50.1106], "date": "2026-04-15"}, // Rettungshubschraubers Frankfurt, Raub
+{"coords": [7.0333, 52.2167], "date": "2026-04-15"}, // Gronau, gestohlen
+//{"coords": [], "date": "2026-04-15"} // Höhe, Diebstahl
+{"coords": [7.0, 51.8333], "date": "2026-04-15"}, // Reken, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-04-15"}, // Mönchengladbach, gestohlen

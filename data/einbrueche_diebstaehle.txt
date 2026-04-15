@@ -15415,3 +15415,7 @@
 {"coords": [7.6333, 51.6167], "date": "2026-04-15"}, // Blumengeschäft Bergkamen, Raub
 {"coords": [8.6833, 50.5833], "date": "2026-04-15"}, // Giessen, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-04-15"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [10.8708, 51.3697], "date": "2026-04-15"}, // Keller Sondershausen, Einbrecher
+//{"coords": [], "date": "2026-04-15"} // Allmenhausen, entwendet
+{"coords": [10.5667, 51.1167], "date": "2026-04-15"}, // Beutegut Schönstedt, Einbrecher
+{"coords": [9.6631, 54.3069], "date": "2026-04-15"}, // Rendsburg, Raub

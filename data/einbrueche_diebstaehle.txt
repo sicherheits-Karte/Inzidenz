@@ -15366,3 +15366,10 @@
 //{"coords": [], "date": "2026-04-14"} // Aufbrüchen Breisach, aufbrüche
 {"coords": [11.4012, 53.6355], "date": "2026-04-14"}, // Haft Schwerin, Diebstahl
 //{"coords": [], "date": "2026-04-15"} // Bad Gandersheim, entwendet
+//{"coords": [], "date": "2026-04-15"} // Kein Ort gefunden, Dieb
+//{"coords": [], "date": "2026-04-15"} // Ringe, Diebstähle
+{"coords": [9.4764, 53.6008], "date": "2026-04-15"}, // Zeugen Stade, Einbruch
+//{"coords": [], "date": "2026-04-15"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-04-15"} // Spielhalle, Räuber
+{"coords": [10.0936, 48.8372], "date": "2026-04-15"}, // Fahrraddiebstahl Aalen, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-04-15"}, // Northeim, entwendet

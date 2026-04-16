@@ -15429,3 +15429,6 @@
 {"coords": [6.8889, 49.9858], "date": "2026-04-16"}, // Dieseldiebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2026-04-16"} // Fahrzeug Landscheid, entwendung
 {"coords": [6.8889, 49.9858], "date": "2026-04-16"}, // Kennzeichen Wittlich, Diebstahl
+{"coords": [13.0639, 53.3611], "date": "2026-04-16"}, // Flucht Neustrelitz, Diebstahl
+{"coords": [10.5722, 51.4403], "date": "2026-04-16"}, // Fleischereigeschäft Bleicherode, Einbruch
+//{"coords": [], "date": "2026-04-16"} // Budenheim, Diebstahl

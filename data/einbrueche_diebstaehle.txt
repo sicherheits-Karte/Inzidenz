@@ -15458,3 +15458,10 @@
 {"coords": [10.4278, 51.9042], "date": "2026-04-16"}, // Goslar, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-04-16"}, // Haft Bielefeld, aufbruch
 {"coords": [6.45, 51.2833], "date": "2026-04-16"}, // Vorst, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-04-16"}, // Lüneburg, entwendung
+{"coords": [10.0936, 48.8372], "date": "2026-04-16"}, // Diebstahl Aalen, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-04-16"}, // Gelsenkirchener Gelsenkirchen, Raub
+{"coords": [8.5833, 53.55], "date": "2026-04-16"}, // Mitte, Dieb
+{"coords": [6.7735, 51.2277], "date": "2026-04-16"}, // Düsseldorf, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-04-16"}, // Tresor Erfurt, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-04-16"}, // Delmenhorst, Einbruch

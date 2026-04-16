@@ -15446,3 +15446,8 @@
 {"coords": [7.9378, 48.5494], "date": "2026-04-16"}, // Dieseldiebstahl Appenweier, Diebstahl
 {"coords": [9.9916, 48.3984], "date": "2026-04-16"}, // Ulm, gestohlen
 //{"coords": [], "date": "2026-04-16"} // den Almen in Bad Dürkheim zu einem Diebstahl aus einem Firmenfahrzeug auf einem Baustellengelände. Bislang unbekannte Täter verschaffte sich auf unbekannte Weise Zugang zu dem umzäunten Lagerplatz einer Baufirma und beschädigte an einem dort abgestellten Lkw eine Fensterscheibe. Aus dem Fahrzeuginneren wurde, Diebstahl
+//{"coords": [], "date": "2026-04-16"} // der Gemarkung Gönnheim, nahe dem Fußgönnheimer Weg, zu einem Diebstahl. Bislang unbekannte Täter entwendeten von zwei landwirtschaftlichen Feldern insgesamt rund, Diebstahl
+{"coords": [8.6267, 48.1678], "date": "2026-04-16"}, // Rottweil, Einbruch
+//{"coords": [], "date": "2026-04-16"} // Diebesgut mehr, Dieb
+{"coords": [9.732, 52.3759], "date": "2026-04-16"}, // Hannover, Diebstähle
+{"coords": [10.4167, 50.55], "date": "2026-04-16"}, // Meiningen, Diebstahl

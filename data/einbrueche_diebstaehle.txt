@@ -15465,3 +15465,7 @@
 {"coords": [6.7735, 51.2277], "date": "2026-04-16"}, // Düsseldorf, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-04-16"}, // Tresor Erfurt, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-04-16"}, // Delmenhorst, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-04-16"}, // Einbruch Reutlingen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-04-16"}, // Giessen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-04-16"}, // Zeugensuche Duisburg, Raub
+//{"coords": [], "date": "2026-04-16"} // Kaldenkirchen, Einbruch

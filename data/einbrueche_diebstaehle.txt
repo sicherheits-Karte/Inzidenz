@@ -15422,3 +15422,10 @@
 {"coords": [9.6106, 47.7828], "date": "2026-04-15"}, // Landkreis Ravensburg Ravensburg, stahl
 {"coords": [8.975, 50.0431], "date": "2026-04-16"}, // Einsatz Seligenstadt, Raub
 {"coords": [9.95, 52.15], "date": "2026-04-16"}, // Zeugenaufruf Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-04-16"} // Schneppenbaum, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-04-16"}, // Hinweise Homberg, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-04-16"}, // Altenburg, Dieb
+{"coords": [8.5833, 53.55], "date": "2026-04-16"}, // Mitte, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-04-16"}, // Dieseldiebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2026-04-16"} // Fahrzeug Landscheid, entwendung
+{"coords": [6.8889, 49.9858], "date": "2026-04-16"}, // Kennzeichen Wittlich, Diebstahl

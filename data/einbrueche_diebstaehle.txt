@@ -15469,3 +15469,5 @@
 {"coords": [8.6833, 50.5833], "date": "2026-04-16"}, // Giessen, Einbruch
 {"coords": [6.7623, 51.4344], "date": "2026-04-16"}, // Zeugensuche Duisburg, Raub
 //{"coords": [], "date": "2026-04-16"} // Kaldenkirchen, Einbruch
+{"coords": [10.5633, 51.3072], "date": "2026-04-16"}, // Beutegut Menteroda, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-04-16"}, // Nordhausen, gestohlen

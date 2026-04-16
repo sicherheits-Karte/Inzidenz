@@ -15472,3 +15472,4 @@
 {"coords": [10.5633, 51.3072], "date": "2026-04-16"}, // Beutegut Menteroda, Dieb
 {"coords": [10.7956, 51.5019], "date": "2026-04-16"}, // Nordhausen, gestohlen
 {"coords": [9.95, 52.15], "date": "2026-04-16"}, // Betrieb Hildesheim, Einbruch
+{"coords": [7.6, 50.3], "date": "2026-04-16"}, // Lahnstein, Diebstahl

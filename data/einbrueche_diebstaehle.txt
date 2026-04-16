@@ -15451,3 +15451,10 @@
 //{"coords": [], "date": "2026-04-16"} // Diebesgut mehr, Dieb
 {"coords": [9.732, 52.3759], "date": "2026-04-16"}, // Hannover, Diebstähle
 {"coords": [10.4167, 50.55], "date": "2026-04-16"}, // Meiningen, Diebstahl
+{"coords": [8.5847, 53.5469], "date": "2026-04-16"}, // Wohnhaus Bremerhaven, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-04-16"}, // Ulm, Räuber
+{"coords": [8.4414, 50.0919], "date": "2026-04-16"}, // Hofheim, Dieb
+//{"coords": [], "date": "2026-04-16"} // Degerloch, eingebrochen
+{"coords": [10.4278, 51.9042], "date": "2026-04-16"}, // Goslar, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-04-16"}, // Haft Bielefeld, aufbruch
+{"coords": [6.45, 51.2833], "date": "2026-04-16"}, // Vorst, Einbruch

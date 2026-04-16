@@ -15473,3 +15473,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-04-16"}, // Nordhausen, gestohlen
 {"coords": [9.95, 52.15], "date": "2026-04-16"}, // Betrieb Hildesheim, Einbruch
 {"coords": [7.6, 50.3], "date": "2026-04-16"}, // Lahnstein, Diebstahl
+//{"coords": [], "date": "2026-04-16"} // Hinweise Straßenhaus, Einbruch

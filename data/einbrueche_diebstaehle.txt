@@ -15432,3 +15432,17 @@
 {"coords": [13.0639, 53.3611], "date": "2026-04-16"}, // Flucht Neustrelitz, Diebstahl
 {"coords": [10.5722, 51.4403], "date": "2026-04-16"}, // Fleischereigeschäft Bleicherode, Einbruch
 //{"coords": [], "date": "2026-04-16"} // Budenheim, Diebstahl
+{"coords": [9.7717, 53.3494], "date": "2026-04-16"}, // Messe Wenzendorf, Einbruch
+//{"coords": [], "date": "2026-04-16"} // der Zeit vom, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-04-16"}, // Raub Wesel, Raub
+{"coords": [9.0042, 52.7722], "date": "2026-04-16"}, // Asendorf, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2026-04-16"}, // Ludwigsburg, aufbruch
+{"coords": [8.8075, 53.075], "date": "2026-04-16"}, // Goldkettenraub-- Bremen, Raub
+//{"coords": [], "date": "2026-04-16"} // Bruckberg, Einbruch
+//{"coords": [], "date": "2026-04-16"} // Schwarzwald, entwendet
+{"coords": [6.6153, 51.8367], "date": "2026-04-16"}, // Zeugen Bocholt, Diebstahl
+{"coords": [9.8372, 54.4714], "date": "2026-04-16"}, // Eckernförde, Raub
+{"coords": [8.1128, 49.1994], "date": "2026-04-16"}, // Landau, entwendet
+{"coords": [7.9378, 48.5494], "date": "2026-04-16"}, // Dieseldiebstahl Appenweier, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-04-16"}, // Ulm, gestohlen
+//{"coords": [], "date": "2026-04-16"} // den Almen in Bad Dürkheim zu einem Diebstahl aus einem Firmenfahrzeug auf einem Baustellengelände. Bislang unbekannte Täter verschaffte sich auf unbekannte Weise Zugang zu dem umzäunten Lagerplatz einer Baufirma und beschädigte an einem dort abgestellten Lkw eine Fensterscheibe. Aus dem Fahrzeuginneren wurde, Diebstahl

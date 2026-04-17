@@ -15492,3 +15492,12 @@
 {"coords": [6.5617, 51.3317], "date": "2026-04-17"}, // Fahrraddiebstahl Krefeld, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2026-04-17"}, // Einfamilienhaus Warendorf, Einbruch
 //{"coords": [], "date": "2026-04-17"} // Neu Wulmstorf, Diebstahl
+{"coords": [9.2167, 48.7333], "date": "2026-04-17"}, // Sillenbuch, Einbrüche
+//{"coords": [], "date": "2026-04-17"} // Kreis, Dieb
+{"coords": [8.7667, 50.1], "date": "2026-04-17"}, // Kreis Offenbach, Einbruch
+//{"coords": [], "date": "2026-04-17"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.75, 53.7], "date": "2026-04-17"}, // Einfamilienhaus Ratzeburg, Einbruch
+{"coords": [8.2833, 49.3667], "date": "2026-04-17"}, // Schmuckgeschäft Haßloch, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-04-17"}, // Zeugensuche Duisburg, Raub
+{"coords": [11.3239, 50.9795], "date": "2026-04-17"}, // Großobringen Weimar, Diebstahl
+{"coords": [9.2081, 52.3242], "date": "2026-04-17"}, // Verkaufsautomaten Stadthagen, Diebstahl

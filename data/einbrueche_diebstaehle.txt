@@ -15486,3 +15486,9 @@
 {"coords": [10.0075, 53.7064], "date": "2026-04-17"}, // Zeugen Norderstedt, Raub
 {"coords": [7.6333, 51.6667], "date": "2026-04-17"}, // Friedhof Werne, Raub
 {"coords": [8.5786, 49.5383], "date": "2026-04-17"}, // Viernheim, Dieb
+{"coords": [7.9833, 51.95], "date": "2026-04-17"}, // Wohnungseinbruch Warendorf, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-04-17"}, // Keller Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-04-17"}, // Räuberischer Ladendiebstahl Ludwigshafen, Diebstahl
+{"coords": [6.5617, 51.3317], "date": "2026-04-17"}, // Fahrraddiebstahl Krefeld, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-04-17"}, // Einfamilienhaus Warendorf, Einbruch
+//{"coords": [], "date": "2026-04-17"} // Neu Wulmstorf, Diebstahl

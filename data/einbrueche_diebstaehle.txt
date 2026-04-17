@@ -15501,3 +15501,10 @@
 {"coords": [6.7623, 51.4344], "date": "2026-04-17"}, // Zeugensuche Duisburg, Raub
 {"coords": [11.3239, 50.9795], "date": "2026-04-17"}, // Großobringen Weimar, Diebstahl
 {"coords": [9.2081, 52.3242], "date": "2026-04-17"}, // Verkaufsautomaten Stadthagen, Diebstahl
+//{"coords": [], "date": "2026-04-17"} // Bad Berleburg, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2026-04-17"}, // Goslar, Raub
+{"coords": [12.3833, 53.75], "date": "2026-04-17"}, // Bürogebäude Lalendorf, Einbrecher
+{"coords": [10.7753, 49.7544], "date": "2026-04-17"}, // Mühlhausen, eingebrochen
+//{"coords": [], "date": "2026-04-17"} // mutmaßlichem Diebesgut, Dieb
+//{"coords": [], "date": "2026-04-17"} // Untersuchungshaft Bad Oeynhausen, Raub
+{"coords": [6.5617, 51.3317], "date": "2026-04-17"}, // Krefeld, Dieb

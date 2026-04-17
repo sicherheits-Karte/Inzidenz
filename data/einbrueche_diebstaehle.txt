@@ -15531,3 +15531,5 @@
 {"coords": [7.1, 51.5167], "date": "2026-04-17"}, // Polizei Gelsenkirchen, Raub
 {"coords": [9.6775, 50.5528], "date": "2026-04-17"}, // Fulda, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-04-17"}, // Diebstahl Reutlingen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-04-17"}, // Erfurt, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2026-04-17"}, // Zur Demmingbrücke Bocholt, Raub

@@ -15529,3 +15529,5 @@
 {"coords": [8.4414, 50.0919], "date": "2026-04-17"}, // Hofheim, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-04-17"}, // Wiesbaden, Dieb
 {"coords": [7.1, 51.5167], "date": "2026-04-17"}, // Polizei Gelsenkirchen, Raub
+{"coords": [9.6775, 50.5528], "date": "2026-04-17"}, // Fulda, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-04-17"}, // Diebstahl Reutlingen, Einbruch

@@ -15478,3 +15478,11 @@
 {"coords": [6.0961, 51.0631], "date": "2026-04-17"}, // Heinsberg, Diebstahl
 {"coords": [9.0, 50.7333], "date": "2026-04-17"}, // Zeugen Homberg, entwendet
 {"coords": [10.0, 51.7064], "date": "2026-04-17"}, // Northeim, Einbruch
+//{"coords": [], "date": "2026-04-17"} // Straße Grünscheid Leichlingen, Diebstahl
+{"coords": [11.1167, 51.1667], "date": "2026-04-17"}, // Sömmerda Sömmerda, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-04-17"}, // Gotha, Diebstahl
+//{"coords": [], "date": "2026-04-17"} // oder mehrere unbekannte Personen begaben sich widerrechtlich auf ein Grundstück in der Carl-Grübel-Straße. Dort öffneten der oder die Täter gewaltsam unter anderem eine Schuppentür und entwendeten eine Simson S51, diverses Werkzeug sowie andere Gegenstände. Die Tat wurde gestern, Diebstahl
+{"coords": [8.4111, 49.9917], "date": "2026-04-17"}, // Rüsselsheim, gestohlen
+{"coords": [10.0075, 53.7064], "date": "2026-04-17"}, // Zeugen Norderstedt, Raub
+{"coords": [7.6333, 51.6667], "date": "2026-04-17"}, // Friedhof Werne, Raub
+{"coords": [8.5786, 49.5383], "date": "2026-04-17"}, // Viernheim, Dieb

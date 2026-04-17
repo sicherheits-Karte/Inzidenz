@@ -15474,3 +15474,7 @@
 {"coords": [9.95, 52.15], "date": "2026-04-16"}, // Betrieb Hildesheim, Einbruch
 {"coords": [7.6, 50.3], "date": "2026-04-16"}, // Lahnstein, Diebstahl
 //{"coords": [], "date": "2026-04-16"} // Hinweise Straßenhaus, Einbruch
+{"coords": [8.0167, 49.6667], "date": "2026-04-17"}, // Kirchheimbolanden, entwendet
+{"coords": [6.0961, 51.0631], "date": "2026-04-17"}, // Heinsberg, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-04-17"}, // Zeugen Homberg, entwendet
+{"coords": [10.0, 51.7064], "date": "2026-04-17"}, // Northeim, Einbruch

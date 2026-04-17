@@ -15508,3 +15508,9 @@
 //{"coords": [], "date": "2026-04-17"} // mutmaßlichem Diebesgut, Dieb
 //{"coords": [], "date": "2026-04-17"} // Untersuchungshaft Bad Oeynhausen, Raub
 {"coords": [6.5617, 51.3317], "date": "2026-04-17"}, // Krefeld, Dieb
+{"coords": [9.4108, 53.1111], "date": "2026-04-17"}, // Rotenburg, Dieb
+{"coords": [9.9937, 53.5511], "date": "2026-04-17"}, // Zeugenaufruf Hamburg, Raub
+//{"coords": [], "date": "2026-04-17"} // Stader Innenstadt, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-04-17"}, // Zeuginnen Augsburg, Räuber
+{"coords": [7.82, 47.99], "date": "2026-04-17"}, // Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2026-04-17"}, // Busbahnhof Freiburg, Raub

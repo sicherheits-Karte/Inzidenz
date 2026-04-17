@@ -15533,3 +15533,5 @@
 {"coords": [9.2167, 48.4833], "date": "2026-04-17"}, // Diebstahl Reutlingen, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-04-17"}, // Erfurt, Diebstahl
 {"coords": [6.6153, 51.8367], "date": "2026-04-17"}, // Zur Demmingbrücke Bocholt, Raub
+{"coords": [7.0083, 52.075], "date": "2026-04-17"}, // Ahaus, Raub
+{"coords": [9.95, 52.15], "date": "2026-04-17"}, // Zeugenaufruf Hildesheim, Diebstahl

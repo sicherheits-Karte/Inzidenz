@@ -15535,3 +15535,4 @@
 {"coords": [6.6153, 51.8367], "date": "2026-04-17"}, // Zur Demmingbrücke Bocholt, Raub
 {"coords": [7.0083, 52.075], "date": "2026-04-17"}, // Ahaus, Raub
 {"coords": [9.95, 52.15], "date": "2026-04-17"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [12.0991, 54.0924], "date": "2026-04-17"}, // Rostock Rostock, Raub

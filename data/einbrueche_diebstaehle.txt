@@ -15514,3 +15514,17 @@
 {"coords": [10.8978, 48.3705], "date": "2026-04-17"}, // Zeuginnen Augsburg, Räuber
 {"coords": [7.82, 47.99], "date": "2026-04-17"}, // Freiburg, entwendet
 {"coords": [7.82, 47.99], "date": "2026-04-17"}, // Busbahnhof Freiburg, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-04-17"}, // Harsewinkelplatz Münster Münster, Diebstahl
+{"coords": [11.2333, 51.3333], "date": "2026-04-17"}, // Bretleben, Dieb
+{"coords": [11.1667, 51.3], "date": "2026-04-17"}, // Oldisleben, entwendet
+//{"coords": [], "date": "2026-04-17"} // Bad Langensalza, entwendet
+{"coords": [8.4142, 49.9308], "date": "2026-04-17"}, // Trebur, Diebstahl
+//{"coords": [], "date": "2026-04-17"} // eine Wohnung in der Kuseler Straße ein. Sie beschädigten die Eingangstür und ließen Beute im Wert von rund, Einbruch
+//{"coords": [], "date": "2026-04-17"} // Engen, Dieb
+{"coords": [8.45, 49.95], "date": "2026-04-17"}, // Nauheim, entwendet
+//{"coords": [], "date": "2026-04-17"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-04-17"} // der List mehr, stehlen
+//{"coords": [], "date": "2026-04-17"} // Benshausen, Raub
+{"coords": [9.732, 52.3759], "date": "2026-04-17"}, // Hannover, Raub
+{"coords": [8.4414, 50.0919], "date": "2026-04-17"}, // Hofheim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-04-17"}, // Wiesbaden, Dieb

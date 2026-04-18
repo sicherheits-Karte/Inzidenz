@@ -15558,3 +15558,5 @@
 {"coords": [10.7956, 51.5019], "date": "2026-04-18"}, // Nordhausen, entwendet
 {"coords": [11.0299, 50.9848], "date": "2026-04-18"}, // Erfurt, gestohlen
 {"coords": [10.7542, 50.5106], "date": "2026-04-18"}, // Eingeschlagene Beifahrerscheibe Schleusingen, entwendet
+{"coords": [6.1353, 51.7875], "date": "2026-04-18"}, // Kleve, Diebstahl
+//{"coords": [], "date": "2026-04-18"} // Kreis, gestohlen

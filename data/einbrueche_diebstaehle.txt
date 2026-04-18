@@ -15560,3 +15560,5 @@
 {"coords": [10.7542, 50.5106], "date": "2026-04-18"}, // Eingeschlagene Beifahrerscheibe Schleusingen, entwendet
 {"coords": [6.1353, 51.7875], "date": "2026-04-18"}, // Kleve, Diebstahl
 //{"coords": [], "date": "2026-04-18"} // Kreis, gestohlen
+{"coords": [8.4414, 50.0919], "date": "2026-04-18"}, // Gefährliche Körperverletzung Hofheim, geklaut
+{"coords": [7.2162, 51.4818], "date": "2026-04-18"}, // Bochum, Raub

@@ -15549,3 +15549,6 @@
 //{"coords": [], "date": "2026-04-18"} // Engen, Diebstahl
 {"coords": [7.9139, 51.5528], "date": "2026-04-18"}, // Kindergarten Werl, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-04-18"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2026-04-18"} // Diebstahl Saarburg, Diebstahl
+//{"coords": [], "date": "2026-04-18"} // Landkreis Verden, entwendet
+{"coords": [8.35, 49.5333], "date": "2026-04-18"}, // Zuckerfabrik Frankenthal, Einbruch

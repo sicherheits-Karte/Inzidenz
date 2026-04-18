@@ -15547,3 +15547,5 @@
 {"coords": [8.6944, 49.4092], "date": "2026-04-18"}, // Motorradfahrer Heidelberg, Raub
 {"coords": [8.8403, 47.7592], "date": "2026-04-18"}, // Singen, Einbruch
 //{"coords": [], "date": "2026-04-18"} // Engen, Diebstahl
+{"coords": [7.9139, 51.5528], "date": "2026-04-18"}, // Kindergarten Werl, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-04-18"}, // Vechta, Diebstahl

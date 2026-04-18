@@ -15552,3 +15552,5 @@
 //{"coords": [], "date": "2026-04-18"} // Diebstahl Saarburg, Diebstahl
 //{"coords": [], "date": "2026-04-18"} // Landkreis Verden, entwendet
 {"coords": [8.35, 49.5333], "date": "2026-04-18"}, // Zuckerfabrik Frankenthal, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-04-18"}, // Reutlingen, Raub
+{"coords": [7.1833, 50.0292], "date": "2026-04-18"}, // Zell Mosel abgestelltem Personenkraftwagen und schlugen hier die Scheibe der Beifahrerseite ein. Aus dem Fahrzeug wurden keine Gegenstände entwendet. Der Sachverhalt wurde durch die Beamten und Beamtinnen der Polizeiinspektion Zell aufgenommen. Sachdienliche, entwendet

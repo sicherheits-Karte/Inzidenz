@@ -15537,3 +15537,4 @@
 {"coords": [9.95, 52.15], "date": "2026-04-17"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [12.0991, 54.0924], "date": "2026-04-17"}, // Rostock Rostock, Raub
 {"coords": [13.2611, 53.5569], "date": "2026-04-18"}, // Neubrandenburg, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-04-18"}, // Bulli Gelsenkirchen, Diebstahl

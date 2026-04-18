@@ -15544,3 +15544,6 @@
 {"coords": [7.4547, 53.2311], "date": "2026-04-18"}, // Leer, Einbruch
 //{"coords": [], "date": "2026-04-18"} // Schapen, Einbruch
 {"coords": [7.3167, 52.3333], "date": "2026-04-18"}, // Emsbüren, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2026-04-18"}, // Motorradfahrer Heidelberg, Raub
+{"coords": [8.8403, 47.7592], "date": "2026-04-18"}, // Singen, Einbruch
+//{"coords": [], "date": "2026-04-18"} // Engen, Diebstahl

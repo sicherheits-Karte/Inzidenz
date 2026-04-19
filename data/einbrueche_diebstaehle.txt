@@ -15605,3 +15605,4 @@
 {"coords": [10.4, 53.25], "date": "2026-04-19"}, // Lüneburg, Diebstahl
 {"coords": [10.5464, 52.4886], "date": "2026-04-19"}, // Gifhorn, Diebstahl
 {"coords": [6.4833, 50.8], "date": "2026-04-19"}, // Zeugen Düren, Raub
+//{"coords": [], "date": "2026-04-19"} // Lagerhalle Ebernahn, Einbruch

@@ -15596,3 +15596,8 @@
 //{"coords": [], "date": "2026-04-19"} // Kein Ort gefunden, Dieb
 {"coords": [11.5862, 50.9271], "date": "2026-04-19"}, // Betrugsdelikt Jena, entwendet
 {"coords": [11.5862, 50.9271], "date": "2026-04-19"}, // Ladendiebstahl Jena, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-04-19"}, // Räuberische Erpressung Reutlingen, Räuber
+{"coords": [10.0936, 48.8372], "date": "2026-04-19"}, // Schwäbisch Hall Aalen, Raub
+{"coords": [8.8075, 53.075], "date": "2026-04-19"}, // Einbrecher-- Bremen, eingebrochen
+//{"coords": [], "date": "2026-04-19"} // Höhe, Einbrüche
+{"coords": [7.0116, 51.4556], "date": "2026-04-19"}, // Fotofahndung Essen, entwendet

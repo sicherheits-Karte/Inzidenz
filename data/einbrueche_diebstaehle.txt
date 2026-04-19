@@ -15562,3 +15562,4 @@
 //{"coords": [], "date": "2026-04-18"} // Kreis, gestohlen
 {"coords": [8.4414, 50.0919], "date": "2026-04-18"}, // Gefährliche Körperverletzung Hofheim, geklaut
 {"coords": [7.2162, 51.4818], "date": "2026-04-18"}, // Bochum, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-04-19"}, // Vermisstenfahndung Aalen, Raub

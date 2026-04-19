@@ -15580,3 +15580,15 @@
 {"coords": [10.5167, 50.5667], "date": "2026-04-19"}, // Grimmenthal, Einbrecher
 {"coords": [11.0767, 49.4521], "date": "2026-04-19"}, // Nürnberg, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-04-19"}, // Polizeihubschrauber Aalen, Raub
+{"coords": [9.6333, 51.65], "date": "2026-04-19"}, // Fenster Uslar, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2026-04-19"}, // Haus Lippe, Einbruch
+{"coords": [8.2, 53.0667], "date": "2026-04-19"}, // Wardenburg Delmenhorst, aufbrüche
+{"coords": [8.8667, 51.9333], "date": "2026-04-19"}, // Einfamilienhaus Lippe, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-04-19"}, // Busbahnhof Apolda, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-04-19"}, // Kellerräume Lippe, Einbruch
+//{"coords": [], "date": "2026-04-19"} // Kreis, Diebstahl
+{"coords": [8.4333, 52.8944], "date": "2026-04-19"}, // Wildeshausen Delmenhorst, Diebstähle
+{"coords": [6.85, 49.3], "date": "2026-04-19"}, // Bad Schwalbach, Einbrecher
+//{"coords": [], "date": "2026-04-19"} // Kein Ort gefunden, gestohlen
+{"coords": [8.15, 49.4667], "date": "2026-04-19"}, // Weinstraße, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-04-19"}, // Bochum, Diebstahl

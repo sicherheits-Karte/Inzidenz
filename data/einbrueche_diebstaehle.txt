@@ -15603,3 +15603,4 @@
 {"coords": [7.0116, 51.4556], "date": "2026-04-19"}, // Fotofahndung Essen, entwendet
 {"coords": [10.7753, 49.7544], "date": "2026-04-19"}, // Wohngebiet Mühlhausen, Einbrecher
 {"coords": [10.4, 53.25], "date": "2026-04-19"}, // Lüneburg, Diebstahl
+{"coords": [10.5464, 52.4886], "date": "2026-04-19"}, // Gifhorn, Diebstahl

@@ -15592,3 +15592,7 @@
 //{"coords": [], "date": "2026-04-19"} // Kein Ort gefunden, gestohlen
 {"coords": [8.15, 49.4667], "date": "2026-04-19"}, // Weinstraße, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-04-19"}, // Bochum, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-04-19"}, // Limburg, Einbruch
+//{"coords": [], "date": "2026-04-19"} // Kein Ort gefunden, Dieb
+{"coords": [11.5862, 50.9271], "date": "2026-04-19"}, // Betrugsdelikt Jena, entwendet
+{"coords": [11.5862, 50.9271], "date": "2026-04-19"}, // Ladendiebstahl Jena, Diebstahl

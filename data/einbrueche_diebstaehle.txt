@@ -15563,3 +15563,8 @@
 {"coords": [8.4414, 50.0919], "date": "2026-04-18"}, // Gefährliche Körperverletzung Hofheim, geklaut
 {"coords": [7.2162, 51.4818], "date": "2026-04-18"}, // Bochum, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-04-19"}, // Vermisstenfahndung Aalen, Raub
+{"coords": [10.6944, 50.6111], "date": "2026-04-19"}, // Suhl, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-04-19"}, // Wohnungseinbruchdiebstahl Ludwigsburg, Einbruch
+{"coords": [9.0817, 52.1906], "date": "2026-04-19"}, // Telefonbetrug Rinteln, Einbrecher
+{"coords": [8.3094, 49.1239], "date": "2026-04-19"}, // Rettungshubschraubers Hördt, Raub
+{"coords": [11.3239, 50.9795], "date": "2026-04-19"}, // Weimarer Innenstadt Weimar, Diebstahl

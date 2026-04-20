@@ -15673,3 +15673,4 @@
 {"coords": [14.05, 51.2], "date": "2026-04-20"}, // Steina Göttingen, Raub
 {"coords": [10.8978, 48.3705], "date": "2026-04-20"}, // Kraftfahrzeug Augsburg, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-04-20"}, // Radweg Giessen, Raub
+{"coords": [11.4012, 53.6355], "date": "2026-04-20"}, // Zeugenaufruf Schwerin, Diebstahl

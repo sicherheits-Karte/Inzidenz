@@ -15659,3 +15659,13 @@
 //{"coords": [], "date": "2026-04-20"} // Liebstedt, gestohlen
 {"coords": [6.9603, 50.9375], "date": "2026-04-20"}, // Fahrrad Köln, gestohlen
 {"coords": [8.8678, 49.9228], "date": "2026-04-20"}, // Münster, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-04-20"}, // Einfamilienhäuser Vogelsbergkreis, Einbrüche
+{"coords": [10.7753, 49.7544], "date": "2026-04-20"}, // Hundegeschirr Mühlhausen, Einbrecher
+{"coords": [12.5556, 50.6978], "date": "2026-04-20"}, // Reinsdorf, entwendet
+{"coords": [10.7956, 51.5019], "date": "2026-04-20"}, // Nordhausen, entwendet
+{"coords": [6.3917, 51.2556], "date": "2026-04-20"}, // Viersen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-04-20"}, // Dieseldiebstahl Freiburg, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-04-20"}, // Ladendieb Mannheim, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-04-20"}, // Kaiserslautern, entwendet
+{"coords": [6.85, 49.3], "date": "2026-04-20"}, // Mehrere Verkehrsunfälle Bad Schwalbach, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-04-20"}, // Ulm, gestohlen

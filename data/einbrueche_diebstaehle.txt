@@ -15669,3 +15669,7 @@
 {"coords": [7.7689, 49.4447], "date": "2026-04-20"}, // Kaiserslautern, entwendet
 {"coords": [6.85, 49.3], "date": "2026-04-20"}, // Mehrere Verkehrsunfälle Bad Schwalbach, Diebstahl
 {"coords": [9.9916, 48.3984], "date": "2026-04-20"}, // Ulm, gestohlen
+{"coords": [8.8678, 49.9228], "date": "2026-04-20"}, // Haft Münster, Raub
+{"coords": [14.05, 51.2], "date": "2026-04-20"}, // Steina Göttingen, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-04-20"}, // Kraftfahrzeug Augsburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-04-20"}, // Radweg Giessen, Raub

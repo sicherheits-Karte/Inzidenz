@@ -15626,3 +15626,18 @@
 {"coords": [9.9916, 48.3984], "date": "2026-04-20"}, // Ulm, Einbruch
 {"coords": [8.35, 51.6667], "date": "2026-04-20"}, // Hubschrauber Lippstadt, Einbruch
 //{"coords": [], "date": "2026-04-20"} // Jugenheim, eingebrochen
+{"coords": [6.7735, 51.2277], "date": "2026-04-20"}, // Einsatz Düsseldorf, Raub
+{"coords": [7.82, 47.99], "date": "2026-04-20"}, // Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2026-04-20"}, // Zeugenaufruf Freiburg, eingebrochen
+//{"coords": [], "date": "2026-04-20"} // Wilnsdorf, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-04-20"}, // Ludwigsburg, stehlen
+{"coords": [7.82, 47.99], "date": "2026-04-20"}, // Einsatz Freiburg, Raub
+{"coords": [8.9519, 49.9667], "date": "2026-04-20"}, // Babenhausen, entwendet
+{"coords": [9.0, 50.7333], "date": "2026-04-20"}, // Präventionstipps Homberg, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-04-20"}, // Körperverletzungsdelikt Reutlingen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-04-20"}, // Einbruch Duisburg, Einbruch
+{"coords": [6.8333, 52.0333], "date": "2026-04-20"}, // Containers Vreden, Diebstahl
+{"coords": [6.9333, 51.8333], "date": "2026-04-20"}, // Hinweise Heiden, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-04-20"}, // Einbruch Recklinghausen, Einbruch
+{"coords": [6.8333, 52.0333], "date": "2026-04-20"}, // Verbrauchermarkt Vreden, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-04-20"}, // Chromstraße Gütersloh, Einbruch

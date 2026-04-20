@@ -15606,3 +15606,9 @@
 {"coords": [10.5464, 52.4886], "date": "2026-04-19"}, // Gifhorn, Diebstahl
 {"coords": [6.4833, 50.8], "date": "2026-04-19"}, // Zeugen Düren, Raub
 //{"coords": [], "date": "2026-04-19"} // Lagerhalle Ebernahn, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-20"}, // Einbrüche Aalen, Einbrüche
+{"coords": [7.8208, 51.6803], "date": "2026-04-20"}, // Hamm, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-20"}, // Turnhalle Aalen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-04-20"}, // Erfurt, Dieb
+{"coords": [6.8889, 49.9858], "date": "2026-04-20"}, // Fahrzeug Wittlich, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-04-20"}, // Erfurt Erfurt, Einbrecher

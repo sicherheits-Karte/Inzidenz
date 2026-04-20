@@ -15612,3 +15612,17 @@
 {"coords": [11.0299, 50.9848], "date": "2026-04-20"}, // Erfurt, Dieb
 {"coords": [6.8889, 49.9858], "date": "2026-04-20"}, // Fahrzeug Wittlich, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-04-20"}, // Erfurt Erfurt, Einbrecher
+{"coords": [8.1092, 51.5711], "date": "2026-04-20"}, // Soest, Einbrüche
+{"coords": [11.9667, 48.7667], "date": "2026-04-20"}, // Verkaufsladen Rohr, Einbruch
+{"coords": [8.3667, 49.9833], "date": "2026-04-20"}, // Gustavsburg, entwendet
+//{"coords": [], "date": "2026-04-20"} // Miesau, aufbrüche
+{"coords": [6.5617, 51.3317], "date": "2026-04-20"}, // Einbruch Krefeld, Einbruch
+{"coords": [8.45, 50.0167], "date": "2026-04-20"}, // Einbrechern Raunheim, Einbrecher
+{"coords": [6.9667, 51.2333], "date": "2026-04-20"}, // Polizei Mettmann POL-ME, gestohlen
+{"coords": [8.5331, 52.021], "date": "2026-04-20"}, // Einbruch Bielefeld, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-04-20"}, // Glastüren Fulda, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2026-04-20"}, // Recklinghausen, Dieb
+{"coords": [6.7735, 51.2277], "date": "2026-04-20"}, // Einbruch Düsseldorf, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-04-20"}, // Ulm, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-04-20"}, // Hubschrauber Lippstadt, Einbruch
+//{"coords": [], "date": "2026-04-20"} // Jugenheim, eingebrochen

@@ -15641,3 +15641,10 @@
 {"coords": [7.2, 51.6167], "date": "2026-04-20"}, // Einbruch Recklinghausen, Einbruch
 {"coords": [6.8333, 52.0333], "date": "2026-04-20"}, // Verbrauchermarkt Vreden, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-04-20"}, // Chromstraße Gütersloh, Einbruch
+{"coords": [10.6866, 53.8655], "date": "2026-04-20"}, // Einbruch Lübeck, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-04-20"}, // Oststraße Gütersloh, Einbruch
+//{"coords": [], "date": "2026-04-20"} // oder mehrere unbekannte Personen aus einer Garage eines Garagenkomplexes im Bereich, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-04-20"}, // Bielefeld, Einbrecher
+{"coords": [6.2833, 50.8167], "date": "2026-04-20"}, // Eschweiler, Raub
+//{"coords": [], "date": "2026-04-20"} // der Nacht zu heute, Dieb
+{"coords": [8.3833, 51.9], "date": "2026-04-20"}, // Firmengelände Gütersloh, Dieb

@@ -15713,3 +15713,12 @@
 //{"coords": [], "date": "2026-04-21"} // Kein Ort gefunden, gestohlen
 {"coords": [8.8667, 51.9333], "date": "2026-04-21"}, // Lippe, Diebstahl
 {"coords": [8.3194, 48.8039], "date": "2026-04-21"}, // Gaggenau, Diebstahl
+//{"coords": [], "date": "2026-04-21"} // Ost, Raub
+{"coords": [8.705, 48.895], "date": "2026-04-21"}, // Innenstadt Pforzheim, Diebstähle
+//{"coords": [], "date": "2026-04-21"} // Höhe, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2026-04-21"}, // Bremerhaven, Dieb
+{"coords": [10.5833, 50.55], "date": "2026-04-21"}, // Mainzer Oberstadt Mainz, Einbruch
+{"coords": [10.1653, 51.2319], "date": "2026-04-21"}, // Geismar, Diebstahl
+//{"coords": [], "date": "2026-04-21"} // Kein Ort gefunden, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-04-21"}, // Heilbronn, Einbrüche
+//{"coords": [], "date": "2026-04-21"} // den vergangenen Wochen ereignet haben. Demnach ist ein, Diebstahl

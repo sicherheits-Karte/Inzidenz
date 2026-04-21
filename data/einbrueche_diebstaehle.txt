@@ -15722,3 +15722,14 @@
 //{"coords": [], "date": "2026-04-21"} // Kein Ort gefunden, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2026-04-21"}, // Heilbronn, Einbrüche
 //{"coords": [], "date": "2026-04-21"} // den vergangenen Wochen ereignet haben. Demnach ist ein, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-04-21"}, // Vermisstenfahndung Aalen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-04-21"}, // Ludwigsburg, Diebstahl
+//{"coords": [], "date": "2026-04-21"} // Equipment Peenemünde, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-04-21"}, // Speyer, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-04-21"}, // Kassel, Diebstahl
+{"coords": [10.8717, 49.715], "date": "2026-04-21"}, // Aisch, Raub
+{"coords": [7.1508, 51.2562], "date": "2026-04-21"}, // Polizei Wuppertal Wuppertal, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-04-21"}, // Gütersloh, Diebstahl
+{"coords": [9.4108, 53.1111], "date": "2026-04-21"}, // Rotenburg, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-04-21"}, // Ulm, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-04-21"}, // Unfallfluchten Giessen, Einbruch

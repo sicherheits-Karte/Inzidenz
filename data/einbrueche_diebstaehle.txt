@@ -15675,3 +15675,13 @@
 {"coords": [8.6833, 50.5833], "date": "2026-04-20"}, // Radweg Giessen, Raub
 {"coords": [11.4012, 53.6355], "date": "2026-04-20"}, // Zeugenaufruf Schwerin, Diebstahl
 {"coords": [8.2325, 49.4678], "date": "2026-04-20"}, // Freinsheim, gestohlen
+{"coords": [8.1075, 53.5219], "date": "2026-04-21"}, // Selbstbedienungskasse Wilhelmshaven, Diebstahl
+//{"coords": [], "date": "2026-04-21"} // Diebstahl Lindhorst, Diebstahl
+{"coords": [6.6, 51.55], "date": "2026-04-21"}, // Lebensmittelgeschäft Rheinberg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-21"}, // Unfall Aalen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-04-21"}, // Erfurt, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-04-21"}, // Erfurt, Dieb
+{"coords": [9.732, 52.3759], "date": "2026-04-21"}, // Diebe Hannover, Diebstahl
+{"coords": [8.8494, 51.4611], "date": "2026-04-21"}, // Marsberg Marsberg, Einbruch
+//{"coords": [], "date": "2026-04-21"} // Wallscheid, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-04-21"}, // Hinweise Northeim, Diebstahl

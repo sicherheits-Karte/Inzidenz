@@ -15744,3 +15744,4 @@
 {"coords": [6.3917, 51.2556], "date": "2026-04-21"}, // Mehrfamilienhaus Viersen, aufbrüche
 {"coords": [8.4043, 49.014], "date": "2026-04-21"}, // Untersuchungshaft Karlsruhe, Raub
 {"coords": [10.9667, 50.3333], "date": "2026-04-21"}, // Lautertal, hab und gut
+{"coords": [9.732, 52.3759], "date": "2026-04-21"}, // Auto Hannover, Raub

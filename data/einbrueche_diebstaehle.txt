@@ -15685,3 +15685,18 @@
 {"coords": [8.8494, 51.4611], "date": "2026-04-21"}, // Marsberg Marsberg, Einbruch
 //{"coords": [], "date": "2026-04-21"} // Wallscheid, Diebstahl
 {"coords": [10.0, 51.7064], "date": "2026-04-21"}, // Hinweise Northeim, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-04-21"}, // Hinweise Münster, gestohlen
+{"coords": [8.4111, 49.9917], "date": "2026-04-21"}, // Rüsselsheim, Diebstahl
+{"coords": [10.9147, 50.6856], "date": "2026-04-21"}, // Ilmenau, entwendet
+//{"coords": [], "date": "2026-04-21"} // Jugenheim, Einbrecher
+{"coords": [9.8333, 53.95], "date": "2026-04-21"}, // Zeugen Hagen, Diebstähle
+//{"coords": [], "date": "2026-04-21"} // Hau, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2026-04-21"}, // Zeugen Goch, entwendet
+//{"coords": [], "date": "2026-04-21"} // Pont, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-04-21"}, // Kindergarten Coesfeld, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-04-21"}, // Warendorf, Diebstahl
+{"coords": [7.2667, 51.05], "date": "2026-04-21"}, // Handwerkerfahrzeug Kürten, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-04-21"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [7.8508, 51.0281], "date": "2026-04-21"}, // Olpe, gestohlen
+{"coords": [8.9519, 49.9667], "date": "2026-04-21"}, // Babenhausen, entwendet
+{"coords": [8.5833, 49.8667], "date": "2026-04-21"}, // Zeugen Griesheim, Dieb

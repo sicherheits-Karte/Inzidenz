@@ -15705,3 +15705,11 @@
 {"coords": [10.75, 53.7], "date": "2026-04-21"}, // Bad Oldesloe Ratzeburg, Einbruch
 {"coords": [7.4333, 52.2833], "date": "2026-04-21"}, // Fahrzeugen Rheine, Diebstahl
 {"coords": [9.5, 51.3167], "date": "2026-04-21"}, // Zeugen Kassel, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-04-21"}, // Zeugenaufruf Frankfurt, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-04-21"}, // Rollerdiebstahl Frankfurt, Diebstahl
+//{"coords": [], "date": "2026-04-21"} // Weroth Weroth, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-04-21"}, // Sportbekleidung Bielefeld, Dieb
+{"coords": [10.75, 53.7], "date": "2026-04-21"}, // Ratzeburg, Dieb
+//{"coords": [], "date": "2026-04-21"} // Kein Ort gefunden, gestohlen
+{"coords": [8.8667, 51.9333], "date": "2026-04-21"}, // Lippe, Diebstahl
+{"coords": [8.3194, 48.8039], "date": "2026-04-21"}, // Gaggenau, Diebstahl

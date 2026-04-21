@@ -15733,3 +15733,11 @@
 {"coords": [9.4108, 53.1111], "date": "2026-04-21"}, // Rotenburg, Diebstahl
 {"coords": [9.9916, 48.3984], "date": "2026-04-21"}, // Ulm, Einbrecher
 {"coords": [8.6833, 50.5833], "date": "2026-04-21"}, // Unfallfluchten Giessen, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-04-21"}, // Osthessen Fulda, Raub
+//{"coords": [], "date": "2026-04-21"} // Solarpark mehr, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-04-21"}, // Ludwigshafen, Einbruch
+//{"coords": [], "date": "2026-04-21"} // der Initiative, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-04-21"}, // Fahrraddiebstählen Augsburg, Diebstähle
+{"coords": [10.8978, 48.3705], "date": "2026-04-21"}, // Raub Augsburg, Raub
+{"coords": [6.9019, 50.8331], "date": "2026-04-21"}, // Baustellendiebstahl Brühl, Diebstahl
+{"coords": [8.2833, 49.4667], "date": "2026-04-21"}, // Schauernheim, Diebstahl

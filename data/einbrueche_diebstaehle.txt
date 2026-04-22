@@ -15790,3 +15790,6 @@
 {"coords": [8.0667, 50.3833], "date": "2026-04-22"}, // Einfamilienhaus Limburg, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-04-22"}, // Giessen, Einbrecher
 {"coords": [10.8978, 48.3705], "date": "2026-04-22"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [10.8708, 51.3697], "date": "2026-04-22"}, // Ladendiebin Sondershausen, Dieb
+//{"coords": [], "date": "2026-04-22"} // Bad Frankenhausen, entwendet
+//{"coords": [], "date": "2026-04-22"} // Radolfzell, Einbrüche

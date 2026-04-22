@@ -15754,3 +15754,10 @@
 //{"coords": [], "date": "2026-04-22"} // Helmern, Einbruch
 //{"coords": [], "date": "2026-04-22"} // Ramstadt, Dieb
 {"coords": [11.0299, 50.9848], "date": "2026-04-22"}, // Erfurt, Diebstahl
+{"coords": [7.3625, 51.2981], "date": "2026-04-22"}, // Ennepetal, Einbrüche
+{"coords": [6.6264, 51.4519], "date": "2026-04-22"}, // Hinweise Moers, Diebstahl
+//{"coords": [], "date": "2026-04-22"} // Bad Bentheim, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-04-22"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2026-04-22"}, // Offenburg, Einbruch
+//{"coords": [], "date": "2026-04-22"} // Werkstatt Bergisch Gladbach, Einbruch
+{"coords": [12.3333, 49.15], "date": "2026-04-22"}, // Eternitplatten im Wald, Diebstahl

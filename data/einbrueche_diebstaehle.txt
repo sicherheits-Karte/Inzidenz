@@ -15745,3 +15745,12 @@
 {"coords": [8.4043, 49.014], "date": "2026-04-21"}, // Untersuchungshaft Karlsruhe, Raub
 {"coords": [10.9667, 50.3333], "date": "2026-04-21"}, // Lautertal, hab und gut
 {"coords": [9.732, 52.3759], "date": "2026-04-21"}, // Auto Hannover, Raub
+//{"coords": [], "date": "2026-04-22"} // Erwitte, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-04-22"}, // Lippstadt, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-04-22"}, // Ulm, gestohlen
+{"coords": [10.7183, 50.9489], "date": "2026-04-22"}, // Gotha, entwendet
+{"coords": [8.0, 51.45], "date": "2026-04-22"}, // Autodiebstahl Arnsberg, Diebstahl
+{"coords": [8.7667, 51.7167], "date": "2026-04-22"}, // Zeugen Paderborn, Einbruch
+//{"coords": [], "date": "2026-04-22"} // Helmern, Einbruch
+//{"coords": [], "date": "2026-04-22"} // Ramstadt, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-04-22"}, // Erfurt, Diebstahl

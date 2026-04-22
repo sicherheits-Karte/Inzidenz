@@ -15761,3 +15761,11 @@
 {"coords": [7.9447, 48.4731], "date": "2026-04-22"}, // Offenburg, Einbruch
 //{"coords": [], "date": "2026-04-22"} // Werkstatt Bergisch Gladbach, Einbruch
 {"coords": [12.3333, 49.15], "date": "2026-04-22"}, // Eternitplatten im Wald, Diebstahl
+{"coords": [6.4833, 50.8], "date": "2026-04-22"}, // Serientäter Düren, Diebstahl
+{"coords": [9.9592, 53.8392], "date": "2026-04-22"}, // Zeugen Kaltenkirchen, Einbruch
+//{"coords": [], "date": "2026-04-22"} // Einfamilienhaus einzubrechen, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-04-22"}, // Fulda, entwendet
+{"coords": [7.95, 50.9333], "date": "2026-04-22"}, // Kreuztal, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-04-22"}, // Osterholz, Einbruch
+{"coords": [10.1228, 54.3233], "date": "2026-04-22"}, // Zeugen Kiel, Raub
+//{"coords": [], "date": "2026-04-22"} // Alchen, Einbruch

@@ -15793,3 +15793,4 @@
 {"coords": [10.8708, 51.3697], "date": "2026-04-22"}, // Ladendiebin Sondershausen, Dieb
 //{"coords": [], "date": "2026-04-22"} // Bad Frankenhausen, entwendet
 //{"coords": [], "date": "2026-04-22"} // Radolfzell, Einbrüche
+{"coords": [7.6167, 50.7833], "date": "2026-04-22"}, // Diebstahl Fürthen, Diebstahl

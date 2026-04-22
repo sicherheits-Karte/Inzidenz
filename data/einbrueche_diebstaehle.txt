@@ -15769,3 +15769,11 @@
 {"coords": [8.875, 53.05], "date": "2026-04-22"}, // Osterholz, Einbruch
 {"coords": [10.1228, 54.3233], "date": "2026-04-22"}, // Zeugen Kiel, Raub
 //{"coords": [], "date": "2026-04-22"} // Alchen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-04-22"}, // Schmuck Duisburg, Dieb
+{"coords": [6.9667, 51.2333], "date": "2026-04-22"}, // Polizei Mettmann POL-ME, Einbrüche
+//{"coords": [], "date": "2026-04-22"} // Oberbruch, entwendet
+{"coords": [6.7735, 51.2277], "date": "2026-04-22"}, // Düsseldorf, Raub
+//{"coords": [], "date": "2026-04-22"} // Ost, eingebrochen
+{"coords": [6.25, 51.2167], "date": "2026-04-22"}, // Brüggen, Einbrüche
+//{"coords": [], "date": "2026-04-22"} // Kreis, Einbrecher
+{"coords": [8.7667, 50.1], "date": "2026-04-22"}, // Kreis Offenbach, Diebstahl

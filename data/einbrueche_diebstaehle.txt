@@ -15794,3 +15794,12 @@
 //{"coords": [], "date": "2026-04-22"} // Bad Frankenhausen, entwendet
 //{"coords": [], "date": "2026-04-22"} // Radolfzell, Einbrüche
 {"coords": [7.6167, 50.7833], "date": "2026-04-22"}, // Diebstahl Fürthen, Diebstahl
+{"coords": [7.6333, 51.2167], "date": "2026-04-23"}, // Trickreicher Golddiebstahl Lüdenscheid, Diebstahl
+//{"coords": [], "date": "2026-04-23"} // Kierspe, Dieb
+{"coords": [7.6333, 51.1], "date": "2026-04-23"}, // Meinerzhagen, gestohlen
+{"coords": [8.1128, 49.1994], "date": "2026-04-23"}, // Landau, entwendet
+//{"coords": [], "date": "2026-04-23"} // Gräfinau-Angstedt, Der, Raub
+//{"coords": [], "date": "2026-04-23"} // oder mehrere bislang unbekannte Personen drangen gewaltsam in eine Lagerhalle auf einem Firmengrundstück in der Straße, entwendet
+//{"coords": [], "date": "2026-04-23"} // einem Supermarkt in der Straße, entwendet
+//{"coords": [], "date": "2026-04-23"} // Langenlonsheim Langenlonsheim, Diebstahl
+//{"coords": [], "date": "2026-04-23"} // Kein Ort gefunden, gestohlen

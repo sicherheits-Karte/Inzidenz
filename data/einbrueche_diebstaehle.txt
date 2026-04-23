@@ -15813,3 +15813,10 @@
 {"coords": [11.5862, 50.9271], "date": "2026-04-23"}, // Jena, Diebstahl
 {"coords": [7.3333, 51.4333], "date": "2026-04-23"}, // Witten, Diebstahl
 //{"coords": [], "date": "2026-04-23"} // Hollenstedt, Dieb
+{"coords": [9.5, 51.3167], "date": "2026-04-23"}, // Heiligenrode Kassel, Dieb
+{"coords": [7.2061, 53.3669], "date": "2026-04-23"}, // Emden, Einbruch
+//{"coords": [], "date": "2026-04-23"} // Bereich Sankt Goarshausen Sankt Goarshausen, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-04-23"}, // Speyer, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-04-23"}, // Speyer, gestohlen
+//{"coords": [], "date": "2026-04-23"} // Fürstenberg, Diebstahl
+//{"coords": [], "date": "2026-04-23"} // Ramsbach, Raub

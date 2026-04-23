@@ -15827,3 +15827,11 @@
 //{"coords": [], "date": "2026-04-23"} // Höhe, Einbruch
 {"coords": [6.5617, 51.3317], "date": "2026-04-23"}, // Krefeld, Dieb
 {"coords": [6.9019, 50.8331], "date": "2026-04-23"}, // Brühl, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-04-23"}, // Ludwigsburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-04-23"}, // Mithilfe Giessen, Einbruch
+//{"coords": [], "date": "2026-04-23"} // Kein Ort gefunden, Raub
+{"coords": [7.0116, 51.4556], "date": "2026-04-23"}, // Essen, stehlen
+{"coords": [10.0936, 48.8372], "date": "2026-04-23"}, // Fahrraddiebstahl Aalen, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-04-23"}, // Bocholt, Einbrecher
+{"coords": [8.2869, 52.7303], "date": "2026-04-23"}, // Vechta, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-04-23"}, // Sachbeschädigung Aalen, Diebstahl

@@ -15845,3 +15845,11 @@
 {"coords": [8.3833, 51.9], "date": "2026-04-23"}, // Tatverdächtige Gütersloh, Einbrecher
 {"coords": [11.8483, 49.2031], "date": "2026-04-23"}, // Hohenfels, Dieb
 {"coords": [9.1919, 48.8975], "date": "2026-04-23"}, // Gaststätte Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-04-23"} // Unternehmensgebäude Ringleben, Einbruch
+{"coords": [10.4333, 51.3667], "date": "2026-04-23"}, // Wohnung Niederorschel, Einbrecher
+{"coords": [10.7753, 49.7544], "date": "2026-04-23"}, // Mühlhausen, entwendet
+{"coords": [8.6944, 53.8619], "date": "2026-04-23"}, // Zeugenaufruf Cuxhaven, Einbrüche
+{"coords": [6.4333, 51.2], "date": "2026-04-23"}, // Mönchengladbach, Raub
+//{"coords": [], "date": "2026-04-23"} // Wohnung Birkenheide, entwendet
+{"coords": [8.3167, 49.3667], "date": "2026-04-23"}, // Iggelheim, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-04-23"}, // Einbruch Reutlingen, Einbruch

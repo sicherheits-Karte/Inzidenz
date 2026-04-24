@@ -15902,3 +15902,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-04-24"}, // Sexuelle Belästigung Reutlingen, Diebstahl
 //{"coords": [], "date": "2026-04-24"} // Hochrhein, eingebrochen
 {"coords": [7.82, 47.99], "date": "2026-04-24"}, // Freiburg, stahl
+{"coords": [6.5617, 51.3317], "date": "2026-04-24"}, // Krefeld, Einbruch

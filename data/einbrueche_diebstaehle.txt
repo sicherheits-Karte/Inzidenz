@@ -15853,3 +15853,5 @@
 //{"coords": [], "date": "2026-04-23"} // Wohnung Birkenheide, entwendet
 {"coords": [8.3167, 49.3667], "date": "2026-04-23"}, // Iggelheim, Einbrecher
 {"coords": [9.2167, 48.4833], "date": "2026-04-23"}, // Einbruch Reutlingen, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-04-24"}, // Taschendiebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2026-04-24"} // Diefenbach, klau

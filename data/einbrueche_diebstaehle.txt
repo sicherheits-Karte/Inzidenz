@@ -15876,3 +15876,16 @@
 {"coords": [10.5369, 52.1622], "date": "2026-04-24"}, // Wolfenbüttel, Einbruch
 //{"coords": [], "date": "2026-04-24"} // Holzland, Raub
 {"coords": [8.0667, 50.3833], "date": "2026-04-24"}, // Sachschaden Limburg, Einbrecher
+{"coords": [9.2108, 49.1425], "date": "2026-04-24"}, // Landkreis Heilbronn, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-04-24"}, // Hinweise Recklinghausen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-04-24"}, // Gartencenter Ludwigsburg, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-04-24"}, // Darmstadt, Dieb
+{"coords": [9.6106, 47.7828], "date": "2026-04-24"}, // Landkreis Ravensburg Landkreis Ravensburg, eingebrochen
+//{"coords": [], "date": "2026-04-24"} // Bergheim, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-04-24"}, // Zeugen Darmstadt, eingebrochen
+{"coords": [6.85, 49.3], "date": "2026-04-24"}, // Bushaltestelle Bad Schwalbach, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-04-24"}, // Coesfeld, entwendet
+{"coords": [9.4, 47.7833], "date": "2026-04-24"}, // Bodenseekreis Bodenseekreis, Einbruch
+{"coords": [8.0167, 50.8833], "date": "2026-04-24"}, // Siegen, Dieb
+{"coords": [12.9833, 54.2167], "date": "2026-04-24"}, // Steinhagen Gütersloh, Einbruch
+//{"coords": [], "date": "2026-04-24"} // Elsoff, Raub

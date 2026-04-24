@@ -15865,3 +15865,10 @@
 //{"coords": [], "date": "2026-04-24"} // Zeugen Bornhöved, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-04-24"}, // Einbruch Delmenhorst, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-04-24"}, // Waffengesetz Diepholz, Einbruch
+{"coords": [9.1828, 48.7756], "date": "2026-04-24"}, // Stuttgart- Feuerbach, eingebrochen
+//{"coords": [], "date": "2026-04-24"} // Maschinenhalle Winsen, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-04-24"}, // Mainz, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-04-24"}, // Lerchenberg Mainz, aufbruch
+{"coords": [12.0991, 54.0924], "date": "2026-04-24"}, // Rostock, Raub
+{"coords": [8.4592, 49.6436], "date": "2026-04-24"}, // Zeugen Bürstadt, entwendet
+{"coords": [9.0, 50.7333], "date": "2026-04-24"}, // Gartenhütte Homberg, eingebrochen

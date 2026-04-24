@@ -15875,3 +15875,4 @@
 {"coords": [8.6944, 53.8619], "date": "2026-04-24"}, // Cuxhaven, eingebrochen
 {"coords": [10.5369, 52.1622], "date": "2026-04-24"}, // Wolfenbüttel, Einbruch
 //{"coords": [], "date": "2026-04-24"} // Holzland, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-04-24"}, // Sachschaden Limburg, Einbrecher

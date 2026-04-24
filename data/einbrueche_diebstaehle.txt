@@ -15901,3 +15901,4 @@
 {"coords": [9.95, 52.15], "date": "2026-04-24"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-04-24"}, // Sexuelle Belästigung Reutlingen, Diebstahl
 //{"coords": [], "date": "2026-04-24"} // Hochrhein, eingebrochen
+{"coords": [7.82, 47.99], "date": "2026-04-24"}, // Freiburg, stahl

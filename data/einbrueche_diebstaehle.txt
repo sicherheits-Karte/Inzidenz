@@ -15931,3 +15931,4 @@
 {"coords": [8.4414, 50.0919], "date": "2026-04-25"}, // Hofheim, Einbrecher
 {"coords": [10.0936, 48.8372], "date": "2026-04-25"}, // Aalen, Diebstahl
 {"coords": [10.5722, 51.4403], "date": "2026-04-25"}, // Friedhof Bleicherode, Diebstahl
+{"coords": [7.1167, 49.8167], "date": "2026-04-25"}, // Morbach, entwendet

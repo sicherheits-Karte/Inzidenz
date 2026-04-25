@@ -15936,3 +15936,6 @@
 {"coords": [10.7183, 50.9489], "date": "2026-04-25"}, // Landkreis Gotha, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-04-25"}, // Mastholte Gütersloh, Raub
 //{"coords": [], "date": "2026-04-25"} // Straße, Raub
+{"coords": [8.4311, 49.3194], "date": "2026-04-25"}, // Speyer, Raub
+{"coords": [6.1667, 51.6833], "date": "2026-04-25"}, // Einsatz Goch, Raub
+{"coords": [8.1667, 49.5667], "date": "2026-04-25"}, // Telefon Grünstadt, Einbrüche

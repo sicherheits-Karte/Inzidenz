@@ -15915,3 +15915,8 @@
 {"coords": [7.6667, 51.5833], "date": "2026-04-25"}, // Kamen, Diebstahl
 {"coords": [7.1, 51.5167], "date": "2026-04-25"}, // Gelsenkirchen, Raub
 {"coords": [8.8075, 53.075], "date": "2026-04-25"}, // Flughafen-- Bremen, Einbruch
+//{"coords": [], "date": "2026-04-25"} // der Innenstadt, Einbruch
+//{"coords": [], "date": "2026-04-25"} // Hammah, Auto prallt mit Pferd zusammen, Dieb
+{"coords": [8.6822, 50.1106], "date": "2026-04-25"}, // Frankfurt, Dieb
+{"coords": [8.6822, 50.1106], "date": "2026-04-25"}, // Zeugensuche Frankfurt, Raub
+{"coords": [8.4311, 49.3194], "date": "2026-04-25"}, // Räuberischer Diebstahl Speyer, Diebstahl

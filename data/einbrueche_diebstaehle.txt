@@ -15939,3 +15939,4 @@
 {"coords": [8.4311, 49.3194], "date": "2026-04-25"}, // Speyer, Raub
 {"coords": [6.1667, 51.6833], "date": "2026-04-25"}, // Einsatz Goch, Raub
 {"coords": [8.1667, 49.5667], "date": "2026-04-25"}, // Telefon Grünstadt, Einbrüche
+{"coords": [9.95, 52.15], "date": "2026-04-25"}, // Fahrradsattels Hildesheim, Diebstahl

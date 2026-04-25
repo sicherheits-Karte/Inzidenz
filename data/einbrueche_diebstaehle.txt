@@ -15925,3 +15925,6 @@
 {"coords": [10.0, 51.7064], "date": "2026-04-25"}, // Verwertungstat Northeim, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-04-25"}, // Freiburg, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-04-25"}, // Kamera Wittlich, Diebstahl
+//{"coords": [], "date": "2026-04-25"} // Pedelec Nentershausen, Diebstahl
+{"coords": [7.8333, 50.45], "date": "2026-04-25"}, // Wirges Wirges, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2026-04-25"}, // Landauer Innenstadt Landau, Diebstahl

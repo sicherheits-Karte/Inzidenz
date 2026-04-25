@@ -15928,3 +15928,5 @@
 //{"coords": [], "date": "2026-04-25"} // Pedelec Nentershausen, Diebstahl
 {"coords": [7.8333, 50.45], "date": "2026-04-25"}, // Wirges Wirges, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2026-04-25"}, // Landauer Innenstadt Landau, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-04-25"}, // Hofheim, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-04-25"}, // Aalen, Diebstahl

@@ -15978,3 +15978,9 @@
 {"coords": [9.9333, 52.9667], "date": "2026-04-26"}, // Verkehrsunfall Polizeiinspektion Heidekreis, Einbruch
 {"coords": [7.4139, 50.9889], "date": "2026-04-26"}, // Einbrecher Engelskirchen, Einbrecher
 {"coords": [7.5667, 51.0833], "date": "2026-04-26"}, // Schmuck Gummersbach, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-04-26"}, // Oldenburg, aufbruch
+{"coords": [8.5333, 50.0667], "date": "2026-04-26"}, // Einsatz Kelsterbach, Raub
+{"coords": [6.8889, 49.9858], "date": "2026-04-26"}, // Fahrraddiebstahl Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-04-26"}, // Personenschaden Wittlich, klau
+{"coords": [9.2167, 48.4833], "date": "2026-04-26"}, // Sexuelle Belästigung Reutlingen, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-04-26"}, // Osterholz, Einbruch

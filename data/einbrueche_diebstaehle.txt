@@ -15974,3 +15974,7 @@
 {"coords": [8.8075, 53.075], "date": "2026-04-26"}, // Tresor-- Bremen, Einbrecher
 {"coords": [11.0767, 49.4521], "date": "2026-04-26"}, // Wohnhaus Nürnberg, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-04-26"}, // Delmenhorst, Einbruch
+//{"coords": [], "date": "2026-04-26"} // Bahnhof, Dieb
+{"coords": [9.9333, 52.9667], "date": "2026-04-26"}, // Verkehrsunfall Polizeiinspektion Heidekreis, Einbruch
+{"coords": [7.4139, 50.9889], "date": "2026-04-26"}, // Einbrecher Engelskirchen, Einbrecher
+{"coords": [7.5667, 51.0833], "date": "2026-04-26"}, // Schmuck Gummersbach, Einbruch

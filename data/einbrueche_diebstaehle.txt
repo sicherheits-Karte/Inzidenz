@@ -15940,3 +15940,4 @@
 {"coords": [6.1667, 51.6833], "date": "2026-04-25"}, // Einsatz Goch, Raub
 {"coords": [8.1667, 49.5667], "date": "2026-04-25"}, // Telefon Grünstadt, Einbrüche
 {"coords": [9.95, 52.15], "date": "2026-04-25"}, // Fahrradsattels Hildesheim, Diebstahl
+{"coords": [11.35, 47.9667], "date": "2026-04-26"}, // der Straße Am Schiebigen Berg in Gräfenroda. Er begab sich nach draußen und stellte fest, dass eine Scheibe seines Pkw eingeschlagen wurde. Es wurde zwar nichts entwendet, jedoch entstand Sachschaden in Höhe von ca, entwendet

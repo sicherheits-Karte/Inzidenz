@@ -15992,3 +15992,5 @@
 {"coords": [10.8978, 48.3705], "date": "2026-04-26"}, // Diebstahl Augsburg, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-04-26"}, // Trickdiebstahl Ludwigshafen, Diebstahl
 //{"coords": [], "date": "2026-04-26"} // Eppertshausen, Dieb
+//{"coords": [], "date": "2026-04-26"} // Hof Hof, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-04-26"}, // Erfurt, Dieb

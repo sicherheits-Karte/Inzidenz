@@ -15990,3 +15990,5 @@
 {"coords": [10.7183, 50.9489], "date": "2026-04-26"}, // Landkreis Gotha, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-04-26"}, // Kleinkraftrades Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-04-26"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-04-26"}, // Trickdiebstahl Ludwigshafen, Diebstahl
+//{"coords": [], "date": "2026-04-26"} // Eppertshausen, Dieb

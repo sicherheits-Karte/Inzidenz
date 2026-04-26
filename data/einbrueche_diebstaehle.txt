@@ -15955,3 +15955,14 @@
 {"coords": [10.0936, 48.8372], "date": "2026-04-26"}, // Kletterunfall Aalen, Raub
 {"coords": [8.4414, 50.0919], "date": "2026-04-26"}, // Hofheim, entwendet
 {"coords": [10.7753, 49.7544], "date": "2026-04-26"}, // Mühlhausen, entwendet
+{"coords": [10.4508, 50.7211], "date": "2026-04-26"}, // Firma Schmalkalden, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-04-26"}, // Stade, Dieb
+//{"coords": [], "date": "2026-04-26"} // Höhe, Einbrecher
+{"coords": [11.5881, 50.8069], "date": "2026-04-26"}, // Schnellimbiss Kahla, Einbruch
+{"coords": [6.8333, 49.25], "date": "2026-04-26"}, // Automatenaufbruch Völklingen, aufbruch
+{"coords": [8.1128, 49.1994], "date": "2026-04-26"}, // Landau, entwendet
+{"coords": [13.1667, 50.8], "date": "2026-04-26"}, // Leubsdorf, entwendet
+{"coords": [8.24, 50.0822], "date": "2026-04-26"}, // Wiesbaden, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-04-26"}, // Motorradwerkstatt Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-04-26"}, // Mehrfamilienhaus Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-04-26"}, // Lippe, Dieb

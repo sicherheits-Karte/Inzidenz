@@ -15944,3 +15944,9 @@
 {"coords": [9.95, 52.15], "date": "2026-04-26"}, // Zeugenaufruf Hildesheim, Einbruch
 //{"coords": [], "date": "2026-04-26"} // Vereinsheim, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-04-26"}, // Friseursalon Erfurt, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-04-26"}, // Fürstlich Greizer Park Greiz, Einbruch
+//{"coords": [], "date": "2026-04-26"} // Kleingartenanlage Bad Langensaza, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-04-26"}, // Weimar, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-04-26"}, // Weimar, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2026-04-26"}, // Kleingartengrundstücke Ludwigsburg, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2026-04-26"}, // Einfamilienhaus Hattingen, Einbruch

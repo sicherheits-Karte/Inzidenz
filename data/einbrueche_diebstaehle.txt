@@ -15950,3 +15950,8 @@
 {"coords": [11.3239, 50.9795], "date": "2026-04-26"}, // Weimar, gestohlen
 {"coords": [9.1919, 48.8975], "date": "2026-04-26"}, // Kleingartengrundstücke Ludwigsburg, Einbruch
 {"coords": [7.1856, 51.3994], "date": "2026-04-26"}, // Einfamilienhaus Hattingen, Einbruch
+{"coords": [11.1667, 50.35], "date": "2026-04-26"}, // Fahrzeug Sonneberg, Diebstahl
+{"coords": [11.1667, 50.35], "date": "2026-04-26"}, // Nacht Sonneberg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-04-26"}, // Kletterunfall Aalen, Raub
+{"coords": [8.4414, 50.0919], "date": "2026-04-26"}, // Hofheim, entwendet
+{"coords": [10.7753, 49.7544], "date": "2026-04-26"}, // Mühlhausen, entwendet

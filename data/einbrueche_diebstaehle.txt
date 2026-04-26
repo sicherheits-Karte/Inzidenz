@@ -15984,3 +15984,4 @@
 {"coords": [6.8889, 49.9858], "date": "2026-04-26"}, // Personenschaden Wittlich, klau
 {"coords": [9.2167, 48.4833], "date": "2026-04-26"}, // Sexuelle Belästigung Reutlingen, Einbruch
 {"coords": [8.875, 53.05], "date": "2026-04-26"}, // Osterholz, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-04-26"}, // Lüneburg, Diebstähle

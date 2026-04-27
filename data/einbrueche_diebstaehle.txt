@@ -16009,3 +16009,12 @@
 {"coords": [9.0817, 52.1906], "date": "2026-04-27"}, // Taschendiebstahl Rinteln, Diebstahl
 {"coords": [8.3708, 52.6078], "date": "2026-04-27"}, // Oberlenkern Diepholz, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-04-27"}, // Aalen, Einbruch
+{"coords": [7.3333, 51.4333], "date": "2026-04-27"}, // Witten, gestohlen
+//{"coords": [], "date": "2026-04-27"} // Winsen, Raub
+{"coords": [6.7623, 51.4344], "date": "2026-04-27"}, // Zeugensuche Duisburg, entwendet
+{"coords": [10.5833, 49.3], "date": "2026-04-27"}, // Ansbach, Einbruch
+//{"coords": [], "date": "2026-04-27"} // Grabschmuck Kausen, Diebstahl
+//{"coords": [], "date": "2026-04-27"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-04-27"}, // Bielefeld, Dieb
+{"coords": [10.75, 53.7], "date": "2026-04-27"}, // Ratzeburg, Diebstähle
+{"coords": [9.1333, 48.8], "date": "2026-04-27"}, // Feuerbach, eingebrochen

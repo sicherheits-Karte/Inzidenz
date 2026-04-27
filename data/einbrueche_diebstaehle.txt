@@ -16018,3 +16018,8 @@
 {"coords": [8.5331, 52.021], "date": "2026-04-27"}, // Bielefeld, Dieb
 {"coords": [10.75, 53.7], "date": "2026-04-27"}, // Ratzeburg, Diebstähle
 {"coords": [9.1333, 48.8], "date": "2026-04-27"}, // Feuerbach, eingebrochen
+{"coords": [9.6775, 50.5528], "date": "2026-04-27"}, // Fulda, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-04-27"}, // Krämpfervorstadt Erfurt, Einbrüche
+{"coords": [9.9937, 53.5511], "date": "2026-04-27"}, // Eidelstedt Hamburg, Raub
+{"coords": [12.2, 54.1167], "date": "2026-04-27"}, // Klein Bentwisch Klein Bentwisch, Dieb
+{"coords": [11.0767, 49.4521], "date": "2026-04-27"}, // Nürnberg, Diebstahl

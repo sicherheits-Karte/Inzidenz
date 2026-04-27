@@ -16029,3 +16029,11 @@
 //{"coords": [], "date": "2026-04-27"} // Kreis, entwendet
 //{"coords": [], "date": "2026-04-27"} // Kreis, Dieb
 {"coords": [11.0911, 49.245], "date": "2026-04-27"}, // Balkonkraftwerkes Roth, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-04-27"}, // Innenstadt Giessen, aufbruch
+{"coords": [7.8833, 49.5667], "date": "2026-04-27"}, // Supermarkt Winnweiler, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-04-27"}, // Unfallflucht Giessen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-04-27"}, // Freiburg, Diebstahl
+//{"coords": [], "date": "2026-04-27"} // Sparrieshoop, Diebstahl
+{"coords": [13.5833, 53.4667], "date": "2026-04-27"}, // Woldegk, Dieb
+{"coords": [7.82, 47.99], "date": "2026-04-27"}, // Apotheke Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-04-27"}, // Einsatz Freiburg, Raub

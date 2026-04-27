@@ -16042,3 +16042,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-04-27"}, // Nordhausen, Dieb
 {"coords": [10.9583, 51.2292], "date": "2026-04-27"}, // Beutegut Greußen, Einbrecher
 //{"coords": [], "date": "2026-04-27"} // Pflegeheim Deuna Deuna, Raub
+{"coords": [8.0167, 49.6667], "date": "2026-04-27"}, // Kirchheimbolanden, Diebstahl

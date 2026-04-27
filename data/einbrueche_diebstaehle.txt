@@ -16023,3 +16023,9 @@
 {"coords": [9.9937, 53.5511], "date": "2026-04-27"}, // Eidelstedt Hamburg, Raub
 {"coords": [12.2, 54.1167], "date": "2026-04-27"}, // Klein Bentwisch Klein Bentwisch, Dieb
 {"coords": [11.0767, 49.4521], "date": "2026-04-27"}, // Nürnberg, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-04-27"}, // Recklinghausen, Einbruch
+//{"coords": [], "date": "2026-04-27"} // Mehrfamilienhaus Bad Gandersheim, Einbruch
+//{"coords": [], "date": "2026-04-27"} // Höhe, Einbruch
+//{"coords": [], "date": "2026-04-27"} // Kreis, entwendet
+//{"coords": [], "date": "2026-04-27"} // Kreis, Dieb
+{"coords": [11.0911, 49.245], "date": "2026-04-27"}, // Balkonkraftwerkes Roth, Diebstahl

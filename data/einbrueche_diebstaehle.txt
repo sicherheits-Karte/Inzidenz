@@ -16037,3 +16037,8 @@
 {"coords": [13.5833, 53.4667], "date": "2026-04-27"}, // Woldegk, Dieb
 {"coords": [7.82, 47.99], "date": "2026-04-27"}, // Apotheke Freiburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-04-27"}, // Einsatz Freiburg, Raub
+{"coords": [8.3708, 52.6078], "date": "2026-04-27"}, // Diepholz Diepholz, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-04-27"}, // Flaschen Bier Nordhausen, Einbrecher
+{"coords": [10.7956, 51.5019], "date": "2026-04-27"}, // Nordhausen, Dieb
+{"coords": [10.9583, 51.2292], "date": "2026-04-27"}, // Beutegut Greußen, Einbrecher
+//{"coords": [], "date": "2026-04-27"} // Pflegeheim Deuna Deuna, Raub

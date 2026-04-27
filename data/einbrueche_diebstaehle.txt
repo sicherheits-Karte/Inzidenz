@@ -16044,3 +16044,4 @@
 //{"coords": [], "date": "2026-04-27"} // Pflegeheim Deuna Deuna, Raub
 {"coords": [8.0167, 49.6667], "date": "2026-04-27"}, // Kirchheimbolanden, Diebstahl
 //{"coords": [], "date": "2026-04-27"} // Ingbert, Diebstahl
+{"coords": [6.8319, 50.1981], "date": "2026-04-27"}, // Baumaterial Daun, Diebstahl

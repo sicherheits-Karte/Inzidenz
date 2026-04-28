@@ -16059,3 +16059,14 @@
 {"coords": [12.4333, 50.985], "date": "2026-04-28"}, // Altenburg, Diebstahl
 {"coords": [7.4653, 51.5136], "date": "2026-04-28"}, // Zeugen Dortmund, Raub
 {"coords": [8.0, 51.45], "date": "2026-04-28"}, // Arnsberg Arnsberg, Einbruch
+{"coords": [6.5167, 51.6], "date": "2026-04-28"}, // Zentrallagerparkplatz Alpen, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-04-28"}, // Beute Düsseldorf, Dieb
+{"coords": [8.6806, 49.9894], "date": "2026-04-28"}, // Langen, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-04-28"}, // Gaststätte Ludwigsburg, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-04-28"}, // Ladendetektiv Duisburg, Dieb
+{"coords": [8.5833, 53.55], "date": "2026-04-28"}, // Mitte, Dieb
+{"coords": [6.4833, 50.8], "date": "2026-04-28"}, // Hinweise Düren, entwendet
+{"coords": [6.3583, 50.9222], "date": "2026-04-28"}, // Jülich, Einbruch
+{"coords": [8.6806, 49.9894], "date": "2026-04-28"}, // Langen Cuxhaven, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-04-28"}, // Ludwigsburg, gestohlen
+//{"coords": [], "date": "2026-04-28"} // Zeugen Bordelum, Diebstahl

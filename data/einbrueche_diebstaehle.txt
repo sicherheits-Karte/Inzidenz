@@ -16090,3 +16090,9 @@
 {"coords": [9.732, 52.3759], "date": "2026-04-28"}, // Hannover, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-04-28"}, // Körperverletzung Augsburg, gestohlen
 {"coords": [6.7735, 51.2277], "date": "2026-04-28"}, // Ermittlungsrichter Düsseldorf, eingebrochen
+{"coords": [8.4353, 49.4811], "date": "2026-04-28"}, // Rollers Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-04-28"}, // Fußgängerzone Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-04-28"}, // Ludwigshafen, gestohlen
+{"coords": [8.3708, 52.6078], "date": "2026-04-28"}, // Diepholz, Dieb
+{"coords": [8.4353, 49.4811], "date": "2026-04-28"}, // Ludwigshafen, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2026-04-28"}, // Heidekreis, Einbruch

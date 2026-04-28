@@ -16048,3 +16048,14 @@
 {"coords": [9.95, 52.15], "date": "2026-04-28"}, // Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-04-28"} // Kein Ort gefunden, entwendet
 {"coords": [8.15, 49.4667], "date": "2026-04-28"}, // Weinstraße, Diebstahl
+{"coords": [7.9167, 51.5833], "date": "2026-04-28"}, // Hövel, Einbruch
+{"coords": [9.2081, 52.3242], "date": "2026-04-28"}, // Diebstahl Stadthagen, Diebstahl
+{"coords": [11.1667, 50.35], "date": "2026-04-28"}, // Sonneberg, Einbrüche
+{"coords": [12.1997, 50.6544], "date": "2026-04-28"}, // Greiz, Raub
+{"coords": [7.85, 51.6333], "date": "2026-04-28"}, // Rhynern, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-28"}, // Sachbeschädigung Aalen, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-04-28"}, // Lebensmittelgeschäft Dinslaken, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-04-28"}, // Fahrzeugdiebstahl Aalen, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-04-28"}, // Altenburg, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-04-28"}, // Zeugen Dortmund, Raub
+{"coords": [8.0, 51.45], "date": "2026-04-28"}, // Arnsberg Arnsberg, Einbruch

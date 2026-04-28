@@ -16070,3 +16070,14 @@
 {"coords": [8.6806, 49.9894], "date": "2026-04-28"}, // Langen Cuxhaven, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-04-28"}, // Ludwigsburg, gestohlen
 //{"coords": [], "date": "2026-04-28"} // Zeugen Bordelum, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-04-28"}, // Erpressung Nordhausen, Räuber
+{"coords": [8.6833, 50.5833], "date": "2026-04-28"}, // Giessen, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-04-28"}, // Nordhausen, Diebstahl
+//{"coords": [], "date": "2026-04-28"} // Bad Langensalza, entwendet
+//{"coords": [], "date": "2026-04-28"} // Wohnhaus Ferna, Einbruch
+{"coords": [7.2931, 51.2861], "date": "2026-04-28"}, // Schwelm, gestohlen
+//{"coords": [], "date": "2026-04-28"} // Bad Laasphe, gestohlen
+//{"coords": [], "date": "2026-04-28"} // ein Musterhaus in der August-Rost-Straße versuchten ein oder mehrere unbekannte Personen gewaltsam einzudringen, was allerdings misslang. Der oder die Täter verursachten einen Sachschaden in Höhe von circa, entwendet
+{"coords": [8.0167, 50.8833], "date": "2026-04-28"}, // Siegen, aufbruch
+{"coords": [9.2167, 48.4833], "date": "2026-04-28"}, // Reutlingen, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-04-28"}, // Hannover Hannover, gestohlen

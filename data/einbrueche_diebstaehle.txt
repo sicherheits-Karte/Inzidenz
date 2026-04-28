@@ -16046,3 +16046,5 @@
 //{"coords": [], "date": "2026-04-27"} // Ingbert, Diebstahl
 {"coords": [6.8319, 50.1981], "date": "2026-04-27"}, // Baumaterial Daun, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-04-28"}, // Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-04-28"} // Kein Ort gefunden, entwendet
+{"coords": [8.15, 49.4667], "date": "2026-04-28"}, // Weinstraße, Diebstahl

@@ -16096,3 +16096,4 @@
 {"coords": [8.3708, 52.6078], "date": "2026-04-28"}, // Diepholz, Dieb
 {"coords": [8.4353, 49.4811], "date": "2026-04-28"}, // Ludwigshafen, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2026-04-28"}, // Heidekreis, Einbruch
+{"coords": [7.6458, 50.6878], "date": "2026-04-29"}, // Schulgelände Altenkirchen, Diebstahl

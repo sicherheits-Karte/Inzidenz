@@ -16081,3 +16081,12 @@
 {"coords": [8.0167, 50.8833], "date": "2026-04-28"}, // Siegen, aufbruch
 {"coords": [9.2167, 48.4833], "date": "2026-04-28"}, // Reutlingen, Einbruch
 {"coords": [9.732, 52.3759], "date": "2026-04-28"}, // Hannover Hannover, gestohlen
+{"coords": [8.5331, 52.021], "date": "2026-04-28"}, // Bielefeld, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-04-28"}, // Ludwigsburg, Diebstähle
+{"coords": [7.2, 51.6167], "date": "2026-04-28"}, // Hinweise Recklinghausen, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-04-28"}, // Baustelle Ludwigsburg, Dieb
+{"coords": [8.4414, 50.0919], "date": "2026-04-28"}, // Hofheim, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-04-28"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2026-04-28"}, // Hannover, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-04-28"}, // Körperverletzung Augsburg, gestohlen
+{"coords": [6.7735, 51.2277], "date": "2026-04-28"}, // Ermittlungsrichter Düsseldorf, eingebrochen

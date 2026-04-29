@@ -16119,3 +16119,6 @@
 {"coords": [10.4278, 51.9042], "date": "2026-04-29"}, // Goslar, entwendet
 //{"coords": [], "date": "2026-04-29"} // Gillrath, entwendet
 {"coords": [8.8667, 51.9333], "date": "2026-04-29"}, // Lippe, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-04-29"}, // Keller Gotha, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-04-29"}, // Zeugen Münster, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-04-29"}, // Einbrüchen Recklinghausen, Einbruch

@@ -16122,3 +16122,6 @@
 {"coords": [10.7183, 50.9489], "date": "2026-04-29"}, // Keller Gotha, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2026-04-29"}, // Zeugen Münster, Einbruch
 {"coords": [7.2, 51.6167], "date": "2026-04-29"}, // Einbrüchen Recklinghausen, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-04-29"}, // Körperverletzung Nordhausen, Raub
+//{"coords": [], "date": "2026-04-29"} // Süchteln, Raub
+//{"coords": [], "date": "2026-04-29"} // Kein Ort gefunden, gestohlen

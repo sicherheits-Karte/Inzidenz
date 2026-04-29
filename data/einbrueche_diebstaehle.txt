@@ -16114,3 +16114,8 @@
 {"coords": [8.4043, 49.014], "date": "2026-04-29"}, // Einbruch Karlsruhe, Einbruch
 {"coords": [7.4139, 50.9889], "date": "2026-04-29"}, // Engelskirchen, eingebrochen
 {"coords": [7.5333, 51.05], "date": "2026-04-29"}, // Firma Marienheide, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2026-04-29"}, // Landkreis Aurich, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2026-04-29"}, // Euskirchen, Dieb
+{"coords": [10.4278, 51.9042], "date": "2026-04-29"}, // Goslar, entwendet
+//{"coords": [], "date": "2026-04-29"} // Gillrath, entwendet
+{"coords": [8.8667, 51.9333], "date": "2026-04-29"}, // Lippe, entwendet

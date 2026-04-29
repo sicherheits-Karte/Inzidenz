@@ -16125,3 +16125,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-04-29"}, // Körperverletzung Nordhausen, Raub
 //{"coords": [], "date": "2026-04-29"} // Süchteln, Raub
 //{"coords": [], "date": "2026-04-29"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-04-29"} // Ehepaar Waldesch, Dieb

@@ -16108,3 +16108,9 @@
 {"coords": [9.9916, 48.3984], "date": "2026-04-29"}, // Ulm, Diebstahl
 {"coords": [7.3194, 52.5236], "date": "2026-04-29"}, // Zeugen Lingen, Einbruch
 {"coords": [6.7, 51.8333], "date": "2026-04-29"}, // Zeugen Rhede, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-04-29"}, // Delmenhorst, Einbruch
+{"coords": [6.9019, 50.8331], "date": "2026-04-29"}, // Wohnungseinbruch Brühl, Einbruch
+{"coords": [7.215, 51.1397], "date": "2026-04-29"}, // Einbrüchen Wermelskirchen, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-04-29"}, // Einbruch Karlsruhe, Einbruch
+{"coords": [7.4139, 50.9889], "date": "2026-04-29"}, // Engelskirchen, eingebrochen
+{"coords": [7.5333, 51.05], "date": "2026-04-29"}, // Firma Marienheide, Einbruch

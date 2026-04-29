@@ -16099,3 +16099,12 @@
 {"coords": [7.6458, 50.6878], "date": "2026-04-29"}, // Schulgelände Altenkirchen, Diebstahl
 //{"coords": [], "date": "2026-04-29"} // Dudenhofen, Raub
 //{"coords": [], "date": "2026-04-29"} // POL-PDNR, gestohlen
+{"coords": [8.9519, 49.9667], "date": "2026-04-29"}, // Babenhausen, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-04-29"}, // Ulm, Einbruch
+{"coords": [7.6667, 51.5833], "date": "2026-04-29"}, // Wohnhaus Kamen, Einbruch
+{"coords": [7.75, 51.3833], "date": "2026-04-29"}, // Gaststätte Hemer, Einbruch
+//{"coords": [], "date": "2026-04-29"} // oder mehrere bislang unbekannte Personen begaben sich widerrechtlich auf ein Gartengrundstück einer Gartenanlage in der Straße, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-04-29"}, // Unfälle Aalen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-04-29"}, // Ulm, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-04-29"}, // Zeugen Lingen, Einbruch
+{"coords": [6.7, 51.8333], "date": "2026-04-29"}, // Zeugen Rhede, Einbruch

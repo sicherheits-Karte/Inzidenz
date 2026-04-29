@@ -16098,3 +16098,4 @@
 {"coords": [9.9333, 52.9667], "date": "2026-04-28"}, // Heidekreis, Einbruch
 {"coords": [7.6458, 50.6878], "date": "2026-04-29"}, // Schulgelände Altenkirchen, Diebstahl
 //{"coords": [], "date": "2026-04-29"} // Dudenhofen, Raub
+//{"coords": [], "date": "2026-04-29"} // POL-PDNR, gestohlen

@@ -16134,3 +16134,12 @@
 //{"coords": [], "date": "2026-04-30"} // der Zeit zwischen dem, Diebstahl
 {"coords": [10.3243, 50.9746], "date": "2026-04-30"}, // Eisenach, entwendet
 {"coords": [9.8372, 54.4714], "date": "2026-04-30"}, // Eckernförde, Diebstahl
+{"coords": [8.6925, 52.1986], "date": "2026-04-30"}, // Zeugen Löhne, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-04-30"}, // Einbruch Reutlingen, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-04-30"}, // Fulda, entwendet
+{"coords": [7.0333, 52.2167], "date": "2026-04-30"}, // Gronau, eingebrochen
+{"coords": [6.2333, 50.7833], "date": "2026-04-30"}, // Hinweise Stolberg, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-04-30"}, // Spielothek Wilhelmshaven, Diebstahl
+//{"coords": [], "date": "2026-04-30"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-04-30"}, // Hamme Bochum, Einbrecher
+{"coords": [10.15, 52.5333], "date": "2026-04-30"}, // Wathlingen, Diebstahl

@@ -16160,3 +16160,6 @@
 {"coords": [8.8075, 53.075], "date": "2026-04-30"}, // Verdächtige-- Bremen, Raub
 {"coords": [8.6833, 50.5833], "date": "2026-04-30"}, // Einbrechern Giessen, Einbruch
 {"coords": [9.0, 50.7333], "date": "2026-04-30"}, // Homberg, Einbruch
+//{"coords": [], "date": "2026-04-30"} // Bad Langensalza, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-04-30"}, // Haft Reutlingen, Einbrüche
+//{"coords": [], "date": "2026-04-30"} // Seibersbach, Diebstahl

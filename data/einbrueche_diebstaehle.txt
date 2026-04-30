@@ -16163,3 +16163,5 @@
 //{"coords": [], "date": "2026-04-30"} // Bad Langensalza, entwendet
 {"coords": [9.2167, 48.4833], "date": "2026-04-30"}, // Haft Reutlingen, Einbrüche
 //{"coords": [], "date": "2026-04-30"} // Seibersbach, Diebstahl
+//{"coords": [], "date": "2026-04-30"} // Nastätten, gestohlen
+//{"coords": [], "date": "2026-04-30"} // Klappertal entwendet mehr, entwendet

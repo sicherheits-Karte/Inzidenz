@@ -16152,3 +16152,11 @@
 {"coords": [6.1, 51.1], "date": "2026-04-30"}, // Kirchhoven, gestohlen
 {"coords": [9.9333, 52.9667], "date": "2026-04-30"}, // Heidekreis, Einbruch
 {"coords": [10.25, 52.6167], "date": "2026-04-30"}, // Kupferrohren Lachendorf, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-04-30"}, // Wohnhaus Wiesbaden, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-04-30"}, // Münster, Dieb
+{"coords": [9.0, 50.7333], "date": "2026-04-30"}, // Zeugen Homberg, Diebstahl
+//{"coords": [], "date": "2026-04-30"} // einem Grundstück entwendeten der oder die Täter, gestohlen
+{"coords": [10.4, 53.25], "date": "2026-04-30"}, // Lüneburg festgenommen, Einbrüche
+{"coords": [8.8075, 53.075], "date": "2026-04-30"}, // Verdächtige-- Bremen, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-04-30"}, // Einbrechern Giessen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-04-30"}, // Homberg, Einbruch

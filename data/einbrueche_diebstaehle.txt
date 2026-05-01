@@ -16167,3 +16167,8 @@
 //{"coords": [], "date": "2026-04-30"} // Klappertal entwendet mehr, entwendet
 //{"coords": [], "date": "2026-05-01"} // Donnerstag Bönen, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-05-01"}, // Zeugen Bochum, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-05-01"}, // Bad Schwalbach, Einbruch
+//{"coords": [], "date": "2026-05-01"} // Versuchter Einbruch Weidenthal, Einbruch
+{"coords": [8.15, 49.4667], "date": "2026-05-01"}, // Weinstraße, Diebstahl
+{"coords": [7.25, 52.6167], "date": "2026-05-01"}, // Zeugen Geeste, Diebstahl
+//{"coords": [], "date": "2026-05-01"} // Aufmerksamkeit Contwig, Diebstahl

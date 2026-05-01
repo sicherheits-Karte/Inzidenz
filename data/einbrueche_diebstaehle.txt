@@ -16177,3 +16177,5 @@
 {"coords": [8.6822, 50.1106], "date": "2026-05-01"}, // Erpressung Frankfurt, gestohlen
 {"coords": [8.6306, 53.05], "date": "2026-05-01"}, // Fachhandel Delmenhorst, Einbruch
 {"coords": [7.1861, 49.6583], "date": "2026-05-01"}, // Zeugen Birkenfeld, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-05-01"}, // Erfurt, Diebstahl
+{"coords": [6.4333, 50.2], "date": "2026-05-01"}, // Prüm, gestohlen

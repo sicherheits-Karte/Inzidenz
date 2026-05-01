@@ -16185,3 +16185,4 @@
 //{"coords": [], "date": "2026-05-01"} // Motorradfahrer Maxsain, Raub
 {"coords": [8.0667, 50.3833], "date": "2026-05-01"}, // Limburg, Diebstahl
 //{"coords": [], "date": "2026-05-01"} // Bodensee, Diebstahl
+//{"coords": [], "date": "2026-05-01"} // Gemarkung Friesenhagen Friesenhagen, Raub

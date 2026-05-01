@@ -16181,3 +16181,6 @@
 {"coords": [6.4333, 50.2], "date": "2026-05-01"}, // Prüm, gestohlen
 //{"coords": [], "date": "2026-05-01"} // Feuerwehrgerätehaus Wüstheuterode, Einbruch
 {"coords": [8.1272, 49.2839], "date": "2026-05-01"}, // Hexennacht Edenkoben, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-05-01"}, // Einfamilienhaus Warendorf, Einbruch
+//{"coords": [], "date": "2026-05-01"} // Motorradfahrer Maxsain, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-05-01"}, // Limburg, Diebstahl

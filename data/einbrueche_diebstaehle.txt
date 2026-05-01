@@ -16179,3 +16179,5 @@
 {"coords": [7.1861, 49.6583], "date": "2026-05-01"}, // Zeugen Birkenfeld, Dieb
 {"coords": [11.0299, 50.9848], "date": "2026-05-01"}, // Erfurt, Diebstahl
 {"coords": [6.4333, 50.2], "date": "2026-05-01"}, // Prüm, gestohlen
+//{"coords": [], "date": "2026-05-01"} // Feuerwehrgerätehaus Wüstheuterode, Einbruch
+{"coords": [8.1272, 49.2839], "date": "2026-05-01"}, // Hexennacht Edenkoben, Diebstahl

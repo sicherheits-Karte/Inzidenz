@@ -16190,3 +16190,7 @@
 {"coords": [11.0299, 50.9848], "date": "2026-05-02"}, // Begründung Erfurt, Einbruch
 //{"coords": [], "date": "2026-05-02"} // Laumersheim, entwendet
 //{"coords": [], "date": "2026-05-02"} // Steinbruch mehr, Einbruch
+//{"coords": [], "date": "2026-05-02"} // Kraftfahrzeug Contwig, Diebstahl
+//{"coords": [], "date": "2026-05-02"} // West, entwendet
+{"coords": [8.2833, 51.35], "date": "2026-05-02"}, // Wehrstapel Meschede, entwendet
+{"coords": [7.0667, 52.4333], "date": "2026-05-02"}, // Nordhorn, Einbrecher

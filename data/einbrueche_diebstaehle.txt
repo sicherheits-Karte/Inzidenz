@@ -16202,3 +16202,5 @@
 //{"coords": [], "date": "2026-05-02"} // Einbrecher Mehlingen, Einbrecher
 //{"coords": [], "date": "2026-05-02"} // Seffern Seffern, Raub
 {"coords": [8.2146, 53.1434], "date": "2026-05-02"}, // Oldenburg, klau
+//{"coords": [], "date": "2026-05-02"} // Nastätten, Diebstahl
+//{"coords": [], "date": "2026-05-02"} // Gemmerich, Diebstahl

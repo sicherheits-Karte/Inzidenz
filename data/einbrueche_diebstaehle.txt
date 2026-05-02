@@ -16187,3 +16187,6 @@
 //{"coords": [], "date": "2026-05-01"} // Bodensee, Diebstahl
 //{"coords": [], "date": "2026-05-01"} // Gemarkung Friesenhagen Friesenhagen, Raub
 //{"coords": [], "date": "2026-05-01"} // Lauterschwaner Rappenfels Birkenhördt, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-05-02"}, // Begründung Erfurt, Einbruch
+//{"coords": [], "date": "2026-05-02"} // Laumersheim, entwendet
+//{"coords": [], "date": "2026-05-02"} // Steinbruch mehr, Einbruch

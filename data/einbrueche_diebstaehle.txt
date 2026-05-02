@@ -16200,3 +16200,4 @@
 {"coords": [8.6306, 53.05], "date": "2026-05-02"}, // Delmenhorst, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-05-02"}, // Warendorf, Diebstähle
 //{"coords": [], "date": "2026-05-02"} // Einbrecher Mehlingen, Einbrecher
+//{"coords": [], "date": "2026-05-02"} // Seffern Seffern, Raub

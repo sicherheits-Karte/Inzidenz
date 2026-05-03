@@ -16206,3 +16206,7 @@
 //{"coords": [], "date": "2026-05-02"} // Gemmerich, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-05-03"}, // Landkreis Gotha, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-05-03"}, // Bochum, Einbruch
+//{"coords": [], "date": "2026-05-03"} // Bad Berka Bad Berka, Einbruch
+//{"coords": [], "date": "2026-05-03"} // Niedersynderstedt Blankenhain, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-05-03"}, // Zeugen Bochum, Einbrüche
+{"coords": [8.2869, 52.7303], "date": "2026-05-03"}, // Vechta, Diebstahl

@@ -16229,3 +16229,4 @@
 //{"coords": [], "date": "2026-05-03"} // Nordheide, Einbruch
 //{"coords": [], "date": "2026-05-03"} // Fleischer Bad Salzungen, Einbruch
 {"coords": [10.0219, 50.8278], "date": "2026-05-03"}, // Pkw Vacha, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-05-03"}, // Verkehrsunfallfluchten Limburg, Diebstahl

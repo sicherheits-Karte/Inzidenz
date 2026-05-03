@@ -16232,3 +16232,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-05-03"}, // Verkehrsunfallfluchten Limburg, Diebstahl
 //{"coords": [], "date": "2026-05-03"} // der Ortslage Beuren, Diebstahl
 {"coords": [9.8667, 51.8167], "date": "2026-05-03"}, // Kennzeichen Einbeck, Diebstahl
+//{"coords": [], "date": "2026-05-03"} // Golfclub Windhagen, Einbruch

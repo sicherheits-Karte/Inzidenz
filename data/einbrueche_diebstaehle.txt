@@ -16225,3 +16225,5 @@
 {"coords": [10.4278, 51.9042], "date": "2026-05-03"}, // Goslar, Diebstahl
 //{"coords": [], "date": "2026-05-03"} // Höhe, Diebstahl
 //{"coords": [], "date": "2026-05-03"} // Alf Alf, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-05-03"}, // Osterholz, Einbruch
+//{"coords": [], "date": "2026-05-03"} // Nordheide, Einbruch

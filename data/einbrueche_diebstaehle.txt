@@ -16223,3 +16223,5 @@
 {"coords": [6.8333, 51.7833], "date": "2026-05-03"}, // Raesfeld, entwendet
 {"coords": [6.9333, 51.8333], "date": "2026-05-03"}, // Smartphones Heiden, Raub
 {"coords": [10.4278, 51.9042], "date": "2026-05-03"}, // Goslar, Diebstahl
+//{"coords": [], "date": "2026-05-03"} // Höhe, Diebstahl
+//{"coords": [], "date": "2026-05-03"} // Alf Alf, Diebstahl

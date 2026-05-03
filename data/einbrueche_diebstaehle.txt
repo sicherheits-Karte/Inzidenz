@@ -16205,3 +16205,4 @@
 //{"coords": [], "date": "2026-05-02"} // Nastätten, Diebstahl
 //{"coords": [], "date": "2026-05-02"} // Gemmerich, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-05-03"}, // Landkreis Gotha, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-05-03"}, // Bochum, Einbruch

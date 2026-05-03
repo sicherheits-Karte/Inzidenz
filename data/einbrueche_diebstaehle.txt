@@ -16212,3 +16212,7 @@
 {"coords": [8.2869, 52.7303], "date": "2026-05-03"}, // Vechta, Diebstahl
 {"coords": [8.4661, 49.4878], "date": "2026-05-03"}, // Zeugenaufruf Mannheim, Raub
 {"coords": [7.4614, 50.4286], "date": "2026-05-03"}, // Personen Neuwied, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-05-03"}, // Kreis Offenbach, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-05-03"}, // Polizeiinspektion Cuxhaven Cuxhaven, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-05-03"}, // Straße Herne, Einbruch
+{"coords": [8.2833, 49.4667], "date": "2026-05-03"}, // Schauernheim, Diebstahl

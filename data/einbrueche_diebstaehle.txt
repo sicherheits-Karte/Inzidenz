@@ -16216,3 +16216,10 @@
 {"coords": [8.6944, 53.8619], "date": "2026-05-03"}, // Polizeiinspektion Cuxhaven Cuxhaven, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2026-05-03"}, // Straße Herne, Einbruch
 {"coords": [8.2833, 49.4667], "date": "2026-05-03"}, // Schauernheim, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-05-03"}, // Brandgeschehen Reutlingen, stahl
+{"coords": [6.9889, 51.8944], "date": "2026-05-03"}, // Lagerhalle Velen, Einbruch
+{"coords": [6.7, 51.8333], "date": "2026-05-03"}, // Rhede, aufbrüche
+{"coords": [6.8333, 51.7833], "date": "2026-05-03"}, // Einfamlienhaus Raesfeld, Einbruch
+{"coords": [6.8333, 51.7833], "date": "2026-05-03"}, // Raesfeld, entwendet
+{"coords": [6.9333, 51.8333], "date": "2026-05-03"}, // Smartphones Heiden, Raub
+{"coords": [10.4278, 51.9042], "date": "2026-05-03"}, // Goslar, Diebstahl

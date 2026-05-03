@@ -16210,3 +16210,5 @@
 //{"coords": [], "date": "2026-05-03"} // Niedersynderstedt Blankenhain, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2026-05-03"}, // Zeugen Bochum, Einbrüche
 {"coords": [8.2869, 52.7303], "date": "2026-05-03"}, // Vechta, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-05-03"}, // Zeugenaufruf Mannheim, Raub
+{"coords": [7.4614, 50.4286], "date": "2026-05-03"}, // Personen Neuwied, Diebstahl

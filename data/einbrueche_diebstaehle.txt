@@ -16273,3 +16273,12 @@
 {"coords": [8.5847, 53.5469], "date": "2026-05-04"}, // Zeugenhinweise Bremerhaven, Raub
 {"coords": [10.25, 50.6833], "date": "2026-05-04"}, // Supermarkt Vogelsberg, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-05-04"}, // Einsatz Freiburg, Raub
+{"coords": [6.2833, 51.3167], "date": "2026-05-04"}, // Nettetal, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2026-05-04"}, // Nordhausen, entwendet
+{"coords": [6.3917, 51.2556], "date": "2026-05-04"}, // Mercedes Viano Viersen, Einbrecher
+{"coords": [10.7956, 51.5019], "date": "2026-05-04"}, // Gartenanlage Nordhausen, Einbruch
+//{"coords": [], "date": "2026-05-04"} // Breyell, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-05-04"}, // Hofheim, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-05-04"}, // Zeugen Köln, Raub
+//{"coords": [], "date": "2026-05-04"} // Höhe, Einbruch
+//{"coords": [], "date": "2026-05-04"} // Hassel, Raub

@@ -16282,3 +16282,5 @@
 {"coords": [6.9603, 50.9375], "date": "2026-05-04"}, // Zeugen Köln, Raub
 //{"coords": [], "date": "2026-05-04"} // Höhe, Einbruch
 //{"coords": [], "date": "2026-05-04"} // Hassel, Raub
+{"coords": [9.6958, 52.0042], "date": "2026-05-04"}, // Sandgrube Duingen Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-05-04"} // Geschäftsräume Albersweiler, Einbruch

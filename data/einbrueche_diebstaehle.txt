@@ -16265,3 +16265,11 @@
 {"coords": [6.0839, 50.7753], "date": "2026-05-04"}, // Region Aachen, Raub
 //{"coords": [], "date": "2026-05-04"} // Seligenthal, eingebrochen
 {"coords": [10.6866, 53.8655], "date": "2026-05-04"}, // Lübeck, Raub
+{"coords": [9.5, 51.3167], "date": "2026-05-04"}, // Zeugen Kassel, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-05-04"}, // Zeugen Münster, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-05-04"}, // Ludwigsburg, stahl
+{"coords": [10.6833, 49.2833], "date": "2026-05-04"}, // Lichtenau, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2026-05-04"}, // Fulda, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2026-05-04"}, // Zeugenhinweise Bremerhaven, Raub
+{"coords": [10.25, 50.6833], "date": "2026-05-04"}, // Supermarkt Vogelsberg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-05-04"}, // Einsatz Freiburg, Raub

@@ -16238,3 +16238,16 @@
 {"coords": [8.6514, 49.8728], "date": "2026-05-04"}, // Zeugen Darmstadt, gestohlen
 {"coords": [7.2, 51.6167], "date": "2026-05-04"}, // Recklinghausen, Diebstahl
 {"coords": [8.4111, 49.9917], "date": "2026-05-04"}, // Rüsselsheim, Diebstahl
+//{"coords": [], "date": "2026-05-04"} // dem Kreisgebiet, Einbrüche
+{"coords": [6.4333, 51.2], "date": "2026-05-04"}, // Kiosk Mönchengladbach, Raub
+{"coords": [6.8139, 50.9147], "date": "2026-05-04"}, // Kraftfahrzeug Frechen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-05-04"}, // Bielefeld, Raub
+{"coords": [11.0911, 49.245], "date": "2026-05-04"}, // Roth, Raub
+{"coords": [8.3667, 49.9833], "date": "2026-05-04"}, // Gustavsburg, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2026-05-04"}, // Rheine, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-05-04"}, // Iserlohn, Einbruch
+//{"coords": [], "date": "2026-05-04"} // Brombachtal, Einbruch
+{"coords": [6.4667, 51.8333], "date": "2026-05-04"}, // Isselburg, entwendet
+{"coords": [8.4725, 49.5981], "date": "2026-05-04"}, // Zeugen Lampertheim, gestohlen
+{"coords": [7.4653, 51.5136], "date": "2026-05-04"}, // Mülltonnen Dortmund, Einbruch
+{"coords": [7.75, 51.3833], "date": "2026-05-04"}, // Betrüger Hemer, Dieb

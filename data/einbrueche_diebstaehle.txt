@@ -16233,3 +16233,8 @@
 //{"coords": [], "date": "2026-05-03"} // der Ortslage Beuren, Diebstahl
 {"coords": [9.8667, 51.8167], "date": "2026-05-03"}, // Kennzeichen Einbeck, Diebstahl
 //{"coords": [], "date": "2026-05-03"} // Golfclub Windhagen, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-05-04"}, // Bronzefiguren-- Bremen, Diebstahl
+{"coords": [8.3667, 50.0], "date": "2026-05-04"}, // Auto Bischofsheim, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-05-04"}, // Zeugen Darmstadt, gestohlen
+{"coords": [7.2, 51.6167], "date": "2026-05-04"}, // Recklinghausen, Diebstahl
+{"coords": [8.4111, 49.9917], "date": "2026-05-04"}, // Rüsselsheim, Diebstahl

@@ -16317,3 +16317,10 @@
 {"coords": [10.9667, 53.4], "date": "2026-05-05"}, // Vellahn, gestohlen
 {"coords": [9.5, 51.3167], "date": "2026-05-05"}, // Zeugen Kassel, Diebstahl
 //{"coords": [], "date": "2026-05-05"} // Hinweise Inden, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-05-05"}, // Kassel, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2026-05-05"}, // Landkreis Wittmund, gestohlen
+{"coords": [7.4836, 53.4711], "date": "2026-05-05"}, // Landkreis Aurich, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-05-05"}, // Versuchter Diebstahl Aalen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-05-05"}, // Recklinghausen, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-05-05"}, // Zeugen Darmstadt, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-05-05"}, // Ludwigshafen, Diebstahl

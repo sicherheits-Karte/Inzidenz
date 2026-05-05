@@ -16286,3 +16286,5 @@
 //{"coords": [], "date": "2026-05-04"} // Geschäftsräume Albersweiler, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2026-05-04"}, // Einbeck, entwendet
 {"coords": [6.6393, 49.7556], "date": "2026-05-05"}, // Polizeidirektion Trier POL-PDTR, Diebstahl
+//{"coords": [], "date": "2026-05-05"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.8431, 49.8978], "date": "2026-05-05"}, // Dieburg, Dieb

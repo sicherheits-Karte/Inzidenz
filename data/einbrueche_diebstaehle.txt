@@ -16296,3 +16296,13 @@
 {"coords": [10.0, 51.7064], "date": "2026-05-05"}, // Northeim, entwendet
 {"coords": [12.1997, 50.6544], "date": "2026-05-05"}, // Greiz, entwendet
 {"coords": [8.5833, 51.3833], "date": "2026-05-05"}, // Brilon Brilon, Einbruch
+//{"coords": [], "date": "2026-05-05"} // Uedem, entwendet
+{"coords": [7.7156, 52.2778], "date": "2026-05-05"}, // Einsatz Ibbenbüren, Raub
+//{"coords": [], "date": "2026-05-05"} // Ramstadt, eingebrochen
+{"coords": [6.4333, 51.8333], "date": "2026-05-05"}, // Emmerich, Diebstahl
+{"coords": [10.775, 52.1439], "date": "2026-05-05"}, // Schöppenstedt, Raub
+{"coords": [7.5667, 51.0167], "date": "2026-05-05"}, // Wiehl, einbrechen
+{"coords": [7.5667, 51.0167], "date": "2026-05-05"}, // Wiehl, Dieb
+//{"coords": [], "date": "2026-05-05"} // Klinik Radevormwald, Einbruch
+{"coords": [9.4, 47.7833], "date": "2026-05-05"}, // Bodenseekreis, Einbruch
+{"coords": [7.6333, 51.05], "date": "2026-05-05"}, // Bergneustadt, Raub

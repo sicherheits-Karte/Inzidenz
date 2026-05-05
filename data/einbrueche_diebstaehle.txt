@@ -16324,3 +16324,13 @@
 {"coords": [7.2, 51.6167], "date": "2026-05-05"}, // Recklinghausen, Diebstahl
 {"coords": [8.6514, 49.8728], "date": "2026-05-05"}, // Zeugen Darmstadt, entwendet
 {"coords": [8.4353, 49.4811], "date": "2026-05-05"}, // Ludwigshafen, Diebstahl
+//{"coords": [], "date": "2026-05-05"} // Bad König, hab und gut
+//{"coords": [], "date": "2026-05-05"} // Pkw Berschweiler, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-05-05"}, // Stadtzentrum Nordhausen, Raub
+//{"coords": [], "date": "2026-05-05"} // Esperstedt, Raub
+{"coords": [10.7753, 49.7544], "date": "2026-05-05"}, // Fahrrad Mühlhausen, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-05-05"}, // Büro Giessen, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-05-05"}, // Tatverdächtigen Münster, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-05-05"}, // Firma Erfurt, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-05-05"}, // Landkreis Sömmerda, Dieb
+{"coords": [11.1167, 51.1667], "date": "2026-05-05"}, // Landkreis Sömmerda, Einbrecher

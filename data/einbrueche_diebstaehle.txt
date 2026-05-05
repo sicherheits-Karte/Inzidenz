@@ -16288,3 +16288,11 @@
 {"coords": [6.6393, 49.7556], "date": "2026-05-05"}, // Polizeidirektion Trier POL-PDTR, Diebstahl
 //{"coords": [], "date": "2026-05-05"} // Kein Ort gefunden, Diebstahl
 {"coords": [8.8431, 49.8978], "date": "2026-05-05"}, // Dieburg, Dieb
+{"coords": [8.1092, 51.5711], "date": "2026-05-05"}, // Parkplatz Soest, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-05-05"}, // Einbruch Aalen, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-05-05"}, // Autorädern Wesel, Diebstahl
+{"coords": [6.6264, 51.4519], "date": "2026-05-05"}, // Einfamilienhaus Moers, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-05-05"}, // Diebstähle Aalen, Diebstähle
+{"coords": [10.0, 51.7064], "date": "2026-05-05"}, // Northeim, entwendet
+{"coords": [12.1997, 50.6544], "date": "2026-05-05"}, // Greiz, entwendet
+{"coords": [8.5833, 51.3833], "date": "2026-05-05"}, // Brilon Brilon, Einbruch

@@ -16306,3 +16306,7 @@
 //{"coords": [], "date": "2026-05-05"} // Klinik Radevormwald, Einbruch
 {"coords": [9.4, 47.7833], "date": "2026-05-05"}, // Bodenseekreis, Einbruch
 {"coords": [7.6333, 51.05], "date": "2026-05-05"}, // Bergneustadt, Raub
+//{"coords": [], "date": "2026-05-05"} // POL-PDNR, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-05-05"}, // Fahrrad Bielefeld, stahl
+{"coords": [7.4333, 52.4167], "date": "2026-05-05"}, // Baustelle Lünne, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-05-05"}, // Kreis Offenbach, Einbruch

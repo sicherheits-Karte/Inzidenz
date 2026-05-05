@@ -16335,3 +16335,4 @@
 {"coords": [11.1167, 51.1667], "date": "2026-05-05"}, // Landkreis Sömmerda, Dieb
 {"coords": [11.1167, 51.1667], "date": "2026-05-05"}, // Landkreis Sömmerda, Einbrecher
 {"coords": [7.5, 50.5], "date": "2026-05-05"}, // Rengsdorf, aufbruch
+{"coords": [9.8667, 51.8167], "date": "2026-05-05"}, // Einbeck, entwendet

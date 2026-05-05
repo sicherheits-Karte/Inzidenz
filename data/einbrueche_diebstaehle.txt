@@ -16310,3 +16310,10 @@
 {"coords": [8.5331, 52.021], "date": "2026-05-05"}, // Fahrrad Bielefeld, stahl
 {"coords": [7.4333, 52.4167], "date": "2026-05-05"}, // Baustelle Lünne, Diebstahl
 {"coords": [8.7667, 50.1], "date": "2026-05-05"}, // Kreis Offenbach, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-05-05"}, // Videoschutzanlage Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-05-05"}, // Frankfurt, Diebstahl
+{"coords": [10.4, 53.25], "date": "2026-05-05"}, // Lüneburg, Einbruch
+{"coords": [8.6372, 49.6419], "date": "2026-05-05"}, // Heppenheim, Dieb
+{"coords": [10.9667, 53.4], "date": "2026-05-05"}, // Vellahn, gestohlen
+{"coords": [9.5, 51.3167], "date": "2026-05-05"}, // Zeugen Kassel, Diebstahl
+//{"coords": [], "date": "2026-05-05"} // Hinweise Inden, Einbruch

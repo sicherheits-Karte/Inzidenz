@@ -16342,3 +16342,13 @@
 {"coords": [7.7, 51.375], "date": "2026-05-06"}, // Iserlohn, Einbrecher
 {"coords": [7.75, 51.3833], "date": "2026-05-06"}, // Pedelec Hemer, Dieb
 {"coords": [7.0982, 50.7374], "date": "2026-05-06"}, // Hinweise Bonn, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-05-06"}, // Wandsbek Hamburg, Einbrüche
+{"coords": [7.4044, 53.0772], "date": "2026-05-06"}, // Papenburg, Räuber
+//{"coords": [], "date": "2026-05-06"} // Kirchengel, entwendet
+{"coords": [6.4833, 50.8], "date": "2026-05-06"}, // Zeugen Düren, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-05-06"}, // Einbruchsdiebstahl Wittlich, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-05-06"}, // Festnahme Wittlich, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-05-06"}, // Bremen, Diebstahl
+//{"coords": [], "date": "2026-05-06"} // Autos Bergisch Gladbach, Diebstähle
+{"coords": [9.3667, 51.6667], "date": "2026-05-06"}, // Zeugen Beverungen, Einbruch
+{"coords": [10.25, 50.6833], "date": "2026-05-06"}, // Wohnung Vogelsberg, Einbruch

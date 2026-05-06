@@ -16336,3 +16336,9 @@
 {"coords": [11.1167, 51.1667], "date": "2026-05-05"}, // Landkreis Sömmerda, Einbrecher
 {"coords": [7.5, 50.5], "date": "2026-05-05"}, // Rengsdorf, aufbruch
 {"coords": [9.8667, 51.8167], "date": "2026-05-05"}, // Einbeck, entwendet
+{"coords": [8.4661, 49.4878], "date": "2026-05-06"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-05-06"}, // Lippstadt, Raub
+{"coords": [8.2146, 53.1434], "date": "2026-05-06"}, // Hinweise Oldenburg, Einbrüche
+{"coords": [7.7, 51.375], "date": "2026-05-06"}, // Iserlohn, Einbrecher
+{"coords": [7.75, 51.3833], "date": "2026-05-06"}, // Pedelec Hemer, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-05-06"}, // Hinweise Bonn, Einbruch

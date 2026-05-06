@@ -16363,3 +16363,6 @@
 {"coords": [10.8978, 48.3705], "date": "2026-05-06"}, // Diebstahl Augsburg, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-05-06"}, // Delmenhorst, Diebstahl
 //{"coords": [], "date": "2026-05-06"} // Polizeibeamten Miehlen, Einbrecher
+//{"coords": [], "date": "2026-05-06"} // Bahnhof Kreiensen Bad Gandersheim, Diebstahl
+{"coords": [6.6667, 50.2833], "date": "2026-05-06"}, // Scheid Scheid, Einbruch
+//{"coords": [], "date": "2026-05-06"} // entwendetem Kupfer-Regenrohren gesucht, entwendet

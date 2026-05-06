@@ -16352,3 +16352,8 @@
 //{"coords": [], "date": "2026-05-06"} // Autos Bergisch Gladbach, Diebstähle
 {"coords": [9.3667, 51.6667], "date": "2026-05-06"}, // Zeugen Beverungen, Einbruch
 {"coords": [10.25, 50.6833], "date": "2026-05-06"}, // Wohnung Vogelsberg, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-05-06"}, // Einfamilienhaus Limburg, Einbruch
+//{"coords": [], "date": "2026-05-06"} // Nord, Raub
+//{"coords": [], "date": "2026-05-06"} // Kreis, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2026-05-06"}, // Auto Mönchengladbach, Diebstahl
+//{"coords": [], "date": "2026-05-06"} // Holzland, stahl

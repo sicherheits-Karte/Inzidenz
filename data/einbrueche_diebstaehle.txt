@@ -16366,3 +16366,5 @@
 //{"coords": [], "date": "2026-05-06"} // Bahnhof Kreiensen Bad Gandersheim, Diebstahl
 {"coords": [6.6667, 50.2833], "date": "2026-05-06"}, // Scheid Scheid, Einbruch
 //{"coords": [], "date": "2026-05-06"} // entwendetem Kupfer-Regenrohren gesucht, entwendet
+//{"coords": [], "date": "2026-05-06"} // Niederprüm, Einbruch
+//{"coords": [], "date": "2026-05-06"} // Betrieb Sellerich, Einbruch

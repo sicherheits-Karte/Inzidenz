@@ -16381,3 +16381,11 @@
 //{"coords": [], "date": "2026-05-07"} // Bad Oeynhausen, entwendet
 {"coords": [8.1361, 53.3969], "date": "2026-05-07"}, // Varel Varel, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-05-07"}, // Scooter Reutlingen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-05-07"}, // Hinweise Homberg, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2026-05-07"}, // Landkreis Aurich, gestohlen
+{"coords": [9.4764, 53.6008], "date": "2026-05-07"}, // Stade, Einbrecher
+//{"coords": [], "date": "2026-05-07"} // Schneppenbaum, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-05-07"}, // Brillen Mönchengladbach, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-05-07"}, // Coesfeld, gestohlen
+{"coords": [6.9603, 50.9375], "date": "2026-05-07"}, // Köln, Dieb
+{"coords": [8.4661, 49.4878], "date": "2026-05-07"}, // Mannheim, Dieb

@@ -16368,3 +16368,4 @@
 //{"coords": [], "date": "2026-05-06"} // entwendetem Kupfer-Regenrohren gesucht, entwendet
 //{"coords": [], "date": "2026-05-06"} // Niederprüm, Einbruch
 //{"coords": [], "date": "2026-05-06"} // Betrieb Sellerich, Einbruch
+{"coords": [11.4012, 53.6355], "date": "2026-05-07"}, // Schwerin, Raub

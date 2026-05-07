@@ -16378,3 +16378,6 @@
 {"coords": [7.1675, 51.9436], "date": "2026-05-07"}, // Coesfeld, entwendet
 //{"coords": [], "date": "2026-05-07"} // oder mehrere unbekannte Personen drangen gewaltsam in ein Restaurant in der Rankestraße ein. Aus diesem entwendeten der oder die Täter unter anderem zwei Laptops. Das Beutegut hatte einen Gesamtwert in geschätzter Höhe von, Diebstahl
 {"coords": [11.3406, 50.7206], "date": "2026-05-07"}, // Rudolstadt entwendet wurde. Im weiteren Verlauf stellten die Beamten das Pedelec sicher und übergaben es an den rechtmäßigen Eigentümer. Gegen den, entwendet
+//{"coords": [], "date": "2026-05-07"} // Bad Oeynhausen, entwendet
+{"coords": [8.1361, 53.3969], "date": "2026-05-07"}, // Varel Varel, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-05-07"}, // Scooter Reutlingen, Einbruch

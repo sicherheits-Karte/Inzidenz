@@ -16369,3 +16369,12 @@
 //{"coords": [], "date": "2026-05-06"} // Niederprüm, Einbruch
 //{"coords": [], "date": "2026-05-06"} // Betrieb Sellerich, Einbruch
 {"coords": [11.4012, 53.6355], "date": "2026-05-07"}, // Schwerin, Raub
+{"coords": [7.6333, 51.2167], "date": "2026-05-07"}, // Diebstahl Lüdenscheid, aufbrüche
+{"coords": [6.4333, 51.8333], "date": "2026-05-07"}, // Emmerich, entwendet
+{"coords": [8.8592, 52.1653], "date": "2026-05-07"}, // Zeugen Vlotho, entwendet
+{"coords": [6.2333, 51.5833], "date": "2026-05-07"}, // Schmuckgegenstände Kevelaer, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2026-05-07"}, // Wertgegenstände Goch, entwendet
+{"coords": [12.0991, 54.0924], "date": "2026-05-07"}, // Rostock, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-05-07"}, // Coesfeld, entwendet
+//{"coords": [], "date": "2026-05-07"} // oder mehrere unbekannte Personen drangen gewaltsam in ein Restaurant in der Rankestraße ein. Aus diesem entwendeten der oder die Täter unter anderem zwei Laptops. Das Beutegut hatte einen Gesamtwert in geschätzter Höhe von, Diebstahl
+{"coords": [11.3406, 50.7206], "date": "2026-05-07"}, // Rudolstadt entwendet wurde. Im weiteren Verlauf stellten die Beamten das Pedelec sicher und übergaben es an den rechtmäßigen Eigentümer. Gegen den, entwendet

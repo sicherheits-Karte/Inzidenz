@@ -16396,3 +16396,4 @@
 {"coords": [9.0044, 49.6789], "date": "2026-05-07"}, // Michelstadt, gestohlen
 {"coords": [7.2, 51.6167], "date": "2026-05-07"}, // Ladendiebstahl Recklinghausen, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-05-07"}, // Bahnhofplatz Freiburg, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-05-07"}, // Hannover, aufbrüche

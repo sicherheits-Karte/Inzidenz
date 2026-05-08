@@ -16397,3 +16397,13 @@
 {"coords": [7.2, 51.6167], "date": "2026-05-07"}, // Ladendiebstahl Recklinghausen, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-05-07"}, // Bahnhofplatz Freiburg, Einbruch
 {"coords": [9.732, 52.3759], "date": "2026-05-07"}, // Hannover, aufbrüche
+{"coords": [11.1167, 51.1667], "date": "2026-05-08"}, // Sömmerda, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-05-08"}, // Erfurter Altstadt Erfurt, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-05-08"}, // Northeim, Diebstahl
+//{"coords": [], "date": "2026-05-08"} // Parkbänken Saarburg, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-05-08"}, // Erfurt, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-05-08"}, // Kraftstoffdiebstahl Aalen, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-05-08"}, // Tresor Erfurt, Einbrecher
+//{"coords": [], "date": "2026-05-08"} // Tankstelle Hetzerath, Einbruch
+//{"coords": [], "date": "2026-05-08"} // Kennzeichendiebstahl Sehlem, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-05-08"}, // Gelsenkirchen, Einbruch

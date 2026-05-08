@@ -16415,3 +16415,9 @@
 {"coords": [8.875, 53.05], "date": "2026-05-08"}, // Osterholz, Einbruch
 {"coords": [8.8075, 53.075], "date": "2026-05-08"}, // Bremen, Einbruch
 {"coords": [8.45, 50.0167], "date": "2026-05-08"}, // Raunheim, Diebstahl
+//{"coords": [], "date": "2026-05-08"} // Auto Renchen, entwendet
+{"coords": [7.9833, 51.95], "date": "2026-05-08"}, // Warendorf, Diebstähle
+{"coords": [10.6944, 50.6111], "date": "2026-05-08"}, // Einkaufsmarkt Suhl, Einbruch
+{"coords": [10.3167, 51.4], "date": "2026-05-08"}, // Leinefelde, Einbruch
+//{"coords": [], "date": "2026-05-08"} // Holzland, gestohlen
+{"coords": [11.5862, 50.9271], "date": "2026-05-08"}, // Diebinnen Jena, Diebstahl

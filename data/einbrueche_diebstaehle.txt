@@ -16443,3 +16443,5 @@
 {"coords": [10.75, 53.7], "date": "2026-05-08"}, // Ratzeburg, Dieb
 {"coords": [7.0982, 50.7374], "date": "2026-05-08"}, // Bonn, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2026-05-08"}, // Kleinkraftrad Münster, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-05-08"}, // Bittelbronn Reutlingen, Einbruch
+//{"coords": [], "date": "2026-05-08"} // Höhe Mellingen, Diebstahl

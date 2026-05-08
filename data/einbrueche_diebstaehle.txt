@@ -16421,3 +16421,13 @@
 {"coords": [10.3167, 51.4], "date": "2026-05-08"}, // Leinefelde, Einbruch
 //{"coords": [], "date": "2026-05-08"} // Holzland, gestohlen
 {"coords": [11.5862, 50.9271], "date": "2026-05-08"}, // Diebinnen Jena, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2026-05-08"}, // Nürnberg, entwendet
+//{"coords": [], "date": "2026-05-08"} // der Zeit zwischen dem, Diebstahl
+//{"coords": [], "date": "2026-05-08"} // Kreis, Diebstahl
+{"coords": [11.4667, 53.6333], "date": "2026-05-08"}, // Wilhelmsburg Hamburg, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2026-05-08"}, // Bonn, gestohlen
+{"coords": [7.0116, 51.4556], "date": "2026-05-08"}, // Zeugenaufruf Essen, entwendet
+{"coords": [9.9158, 51.5413], "date": "2026-05-08"}, // Münden Göttingen, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2026-05-08"}, // Fotos Hagen, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2026-05-08"}, // Bielefeld, Dieb
+{"coords": [7.9019, 53.5736], "date": "2026-05-08"}, // Pools Jever, Diebstahl

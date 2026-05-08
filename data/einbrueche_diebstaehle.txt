@@ -16407,3 +16407,11 @@
 //{"coords": [], "date": "2026-05-08"} // Tankstelle Hetzerath, Einbruch
 //{"coords": [], "date": "2026-05-08"} // Kennzeichendiebstahl Sehlem, Diebstahl
 {"coords": [7.1, 51.5167], "date": "2026-05-08"}, // Gelsenkirchen, Einbruch
+//{"coords": [], "date": "2026-05-08"} // der hannoverschen Südstadt, stehlen
+//{"coords": [], "date": "2026-05-08"} // Spendensammler Laer, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-05-08"}, // Lippe, eingebrochen
+{"coords": [8.3833, 51.9], "date": "2026-05-08"}, // Einbrüche Gütersloh, Einbrüche
+{"coords": [10.0528, 51.1889], "date": "2026-05-08"}, // Mehrere Geldbörsendiebstähle Eschwege, Diebstähle
+{"coords": [8.875, 53.05], "date": "2026-05-08"}, // Osterholz, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-05-08"}, // Bremen, Einbruch
+{"coords": [8.45, 50.0167], "date": "2026-05-08"}, // Raunheim, Diebstahl

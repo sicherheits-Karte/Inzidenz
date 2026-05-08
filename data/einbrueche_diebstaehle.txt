@@ -16431,3 +16431,9 @@
 {"coords": [9.8333, 53.95], "date": "2026-05-08"}, // Fotos Hagen, Einbrüche
 {"coords": [8.5331, 52.021], "date": "2026-05-08"}, // Bielefeld, Dieb
 {"coords": [7.9019, 53.5736], "date": "2026-05-08"}, // Pools Jever, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2026-05-08"}, // Salzgitter, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-05-08"}, // Giessen, Einbrecher
+{"coords": [8.8667, 51.9333], "date": "2026-05-08"}, // Lippe, Räuber
+//{"coords": [], "date": "2026-05-08"} // Ruhezeit Weilerswist, aufbruch
+{"coords": [9.2108, 49.1425], "date": "2026-05-08"}, // Landkreis Heilbronn, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-05-08"}, // Selbstbedienungsladen Darmstadt, Einbruch

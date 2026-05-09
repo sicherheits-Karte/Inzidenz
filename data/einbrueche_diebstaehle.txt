@@ -16458,3 +16458,9 @@
 {"coords": [7.2931, 51.2861], "date": "2026-05-09"}, // Schwelm, Einbrüche
 {"coords": [8.4414, 50.0919], "date": "2026-05-09"}, // Fahrzeug Hofheim, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-05-09"}, // Ludwigshafener Innenstadt Ludwigshafen, Raub
+{"coords": [8.4333, 52.8944], "date": "2026-05-09"}, // Wildeshausen Delmenhorst, entwendet
+{"coords": [8.875, 53.05], "date": "2026-05-09"}, // Osterholz, Einbruch
+{"coords": [8.2, 53.0667], "date": "2026-05-09"}, // Wardenburg Delmenhorst, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-05-09"}, // Raubdelikte Reutlingen, Raub
+{"coords": [8.6306, 53.05], "date": "2026-05-09"}, // Delmenhorst, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-05-09"}, // Limburg, Diebstahl

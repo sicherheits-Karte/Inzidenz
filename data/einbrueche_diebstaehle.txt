@@ -16470,3 +16470,4 @@
 {"coords": [7.6, 50.3], "date": "2026-05-09"}, // Motors Lahnstein, Diebstahl
 //{"coords": [], "date": "2026-05-09"} // Beuteschaden in, entwendet
 {"coords": [9.6775, 50.5528], "date": "2026-05-09"}, // Einsatz Fulda, Raub
+{"coords": [9.95, 52.15], "date": "2026-05-10"}, // Zeugenaufruf Hildesheim, Diebstahl

@@ -16446,3 +16446,10 @@
 {"coords": [9.2167, 48.4833], "date": "2026-05-08"}, // Bittelbronn Reutlingen, Einbruch
 //{"coords": [], "date": "2026-05-08"} // Höhe Mellingen, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-05-09"}, // Kennzeichenpaars Hildesheim, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-05-09"}, // Bürogebäude Delmenhorst, Einbruch
+//{"coords": [], "date": "2026-05-09"} // Lebenstedt, Raub
+{"coords": [9.8333, 53.95], "date": "2026-05-09"}, // Hagen, Einbruch
+//{"coords": [], "date": "2026-05-09"} // der Straße, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-05-09"}, // Frankfurt, Dieb
+{"coords": [7.2931, 51.2861], "date": "2026-05-09"}, // Schwelm, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-05-09"}, // Hagen, Diebstahl

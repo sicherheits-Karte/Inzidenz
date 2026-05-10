@@ -16505,3 +16505,5 @@
 {"coords": [10.8978, 48.3705], "date": "2026-05-10"}, // Scooters Augsburg, Diebstahl
 {"coords": [10.4278, 51.9042], "date": "2026-05-10"}, // Goslar, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-05-10"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-05-10"}, // Osterholz, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-05-10"}, // Hofheim, Diebstahl

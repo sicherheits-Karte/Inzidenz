@@ -16494,3 +16494,10 @@
 {"coords": [7.7806, 53.5769], "date": "2026-05-10"}, // Wittmund, eingebrochen
 //{"coords": [], "date": "2026-05-10"} // der Innenstadt, Raub
 {"coords": [9.9333, 52.9667], "date": "2026-05-10"}, // Heidekreis, entwendet
+//{"coords": [], "date": "2026-05-10"} // Diebstahl Minderlittgen, Diebstahl
+{"coords": [10.45, 52.1667], "date": "2026-05-10"}, // Thiede, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-05-10"}, // Einbruch Cuxhaven, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-05-10"}, // Polizisten Limburg, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-05-10"}, // Motorrollers Ludwigshafen, gestohlen
+{"coords": [6.85, 49.3], "date": "2026-05-10"}, // Bad Schwalbach, Diebstahl
+//{"coords": [], "date": "2026-05-10"} // Niederhain, Dieb

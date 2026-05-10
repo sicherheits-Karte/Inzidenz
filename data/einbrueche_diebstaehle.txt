@@ -16508,3 +16508,4 @@
 {"coords": [8.875, 53.05], "date": "2026-05-10"}, // Osterholz, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-05-10"}, // Hofheim, Diebstahl
 //{"coords": [], "date": "2026-05-10"} // Höhe, Diebstahl
+{"coords": [8.0167, 50.8833], "date": "2026-05-10"}, // Siegen, Raub

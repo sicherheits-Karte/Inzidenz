@@ -16471,3 +16471,10 @@
 //{"coords": [], "date": "2026-05-09"} // Beuteschaden in, entwendet
 {"coords": [9.6775, 50.5528], "date": "2026-05-09"}, // Einsatz Fulda, Raub
 {"coords": [9.95, 52.15], "date": "2026-05-10"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-05-10"}, // Vechta, entwendet
+//{"coords": [], "date": "2026-05-10"} // Berufsschulgebäude, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-05-10"}, // Kuhlerkamp Hagen, Einbruch
+{"coords": [8.1667, 49.5667], "date": "2026-05-10"}, // Kellerräume Grünstadt, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-05-10"}, // Haren, Einbruch
+//{"coords": [], "date": "2026-05-10"} // Hilkenbrook, Einbruch
+{"coords": [10.3243, 50.9746], "date": "2026-05-10"}, // Scooters Eisenach, Diebstahl

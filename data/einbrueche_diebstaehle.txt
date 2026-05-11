@@ -16511,3 +16511,5 @@
 {"coords": [8.0167, 50.8833], "date": "2026-05-10"}, // Siegen, Raub
 {"coords": [10.2333, 52.3203], "date": "2026-05-10"}, // Peine, Einbruch
 {"coords": [7.35, 52.15], "date": "2026-05-10"}, // Steinfurt, Raub
+//{"coords": [], "date": "2026-05-11"} // Zeugen Brachttal, Raub
+//{"coords": [], "date": "2026-05-11"} // Einsatz Bad Orb, Raub

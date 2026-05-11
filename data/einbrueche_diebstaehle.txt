@@ -16533,3 +16533,14 @@
 {"coords": [8.15, 49.4667], "date": "2026-05-11"}, // Weinstraße, Raub
 {"coords": [6.0961, 51.0631], "date": "2026-05-11"}, // Kreis Heinsberg, gestohlen
 //{"coords": [], "date": "2026-05-11"} // Baal, Dieb
+{"coords": [8.24, 50.0822], "date": "2026-05-11"}, // Einbrüche Wiesbaden, Einbrüche
+//{"coords": [], "date": "2026-05-11"} // Jüchen Jüchen, Raub
+//{"coords": [], "date": "2026-05-11"} // Kaldenkirchen, gestohlen
+{"coords": [6.55, 51.25], "date": "2026-05-11"}, // Schiefbahn, Einbrüche
+{"coords": [6.5492, 51.2631], "date": "2026-05-11"}, // Willich, entwendet
+//{"coords": [], "date": "2026-05-11"} // Zeugen Bad Bramstedt, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-05-11"}, // Untersuchungshaft Karlsruhe, Räuber
+{"coords": [8.3833, 51.9], "date": "2026-05-11"}, // Stadtpark Gütersloh, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-05-11"}, // Giessen, gestohlen
+//{"coords": [], "date": "2026-05-11"} // Schwarzwald, aufbrüche
+//{"coords": [], "date": "2026-05-11"} // Kein Ort gefunden, gestohlen

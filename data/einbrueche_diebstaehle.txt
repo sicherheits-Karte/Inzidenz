@@ -16523,3 +16523,13 @@
 {"coords": [8.4333, 51.7], "date": "2026-05-11"}, // Haaren, Einbruch
 {"coords": [7.9167, 51.5833], "date": "2026-05-11"}, // Hövel, Einbruch
 {"coords": [7.3608, 49.2492], "date": "2026-05-11"}, // Zweibrücken, Diebstahl
+//{"coords": [], "date": "2026-05-11"} // Nenkersdorf, Einbrüche
+//{"coords": [], "date": "2026-05-11"} // Anhausen Anhausen, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-05-11"}, // Bad Schwalbach, eingebrochen
+{"coords": [7.9833, 51.95], "date": "2026-05-11"}, // Wohnungseinbruch Warendorf, Einbruch
+{"coords": [9.6989, 53.4769], "date": "2026-05-11"}, // Buxtehude Stade, aufbrüche
+{"coords": [7.9833, 51.95], "date": "2026-05-11"}, // Werkhalle Warendorf, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-05-11"}, // Geschäft Warendorf, Einbruch
+{"coords": [8.15, 49.4667], "date": "2026-05-11"}, // Weinstraße, Raub
+{"coords": [6.0961, 51.0631], "date": "2026-05-11"}, // Kreis Heinsberg, gestohlen
+//{"coords": [], "date": "2026-05-11"} // Baal, Dieb

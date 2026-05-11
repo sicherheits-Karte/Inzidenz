@@ -16513,3 +16513,13 @@
 {"coords": [7.35, 52.15], "date": "2026-05-10"}, // Steinfurt, Raub
 //{"coords": [], "date": "2026-05-11"} // Zeugen Brachttal, Raub
 //{"coords": [], "date": "2026-05-11"} // Einsatz Bad Orb, Raub
+{"coords": [8.6, 51.6833], "date": "2026-05-11"}, // Zeugenhinweise Salzkotten, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-05-11"}, // Hause Fulda, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-05-11"}, // Lingen, Einbrecher
+{"coords": [7.2908, 52.6906], "date": "2026-05-11"}, // Meppen, Einbrecher
+{"coords": [7.4044, 53.0772], "date": "2026-05-11"}, // Papenburg, Einbrecher
+{"coords": [8.5833, 48.95], "date": "2026-05-11"}, // Einbrecher Remchingen, Einbrüche
+{"coords": [8.7, 51.7667], "date": "2026-05-11"}, // Elsen, Einbruch
+{"coords": [8.4333, 51.7], "date": "2026-05-11"}, // Haaren, Einbruch
+{"coords": [7.9167, 51.5833], "date": "2026-05-11"}, // Hövel, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2026-05-11"}, // Zweibrücken, Diebstahl

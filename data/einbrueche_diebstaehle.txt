@@ -16552,3 +16552,12 @@
 //{"coords": [], "date": "2026-05-11"} // Baggern des Modells Kubota, Typ KX019-4 dran, gestohlen
 {"coords": [6.8889, 49.9858], "date": "2026-05-11"}, // Polizeibeamte Wittlich, Einbrecher
 //{"coords": [], "date": "2026-05-12"} // Bad Gandersheim Bad Gandersheim, Dieb
+//{"coords": [], "date": "2026-05-12"} // Wasserliesch Wasserliesch, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-05-12"}, // Bielefeld, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-05-12"}, // Dördel Iserlohn, Diebstahl
+{"coords": [7.4981, 51.1861], "date": "2026-05-12"}, // Halver, Dieb
+{"coords": [7.35, 52.15], "date": "2026-05-12"}, // Kreis Steinfurt, Diebstahl
+{"coords": [7.6333, 51.2167], "date": "2026-05-12"}, // Raub Lüdenscheid, Raub
+//{"coords": [], "date": "2026-05-12"} // Kuhardt, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-05-12"}, // Ulm, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-05-12"}, // Ulm, Einbrecher

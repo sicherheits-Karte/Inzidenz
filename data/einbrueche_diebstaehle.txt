@@ -16569,3 +16569,15 @@
 //{"coords": [], "date": "2026-05-12"} // Kein Ort gefunden, Einbruch
 {"coords": [6.8139, 50.9147], "date": "2026-05-12"}, // Untersuchungshaft Frechen, Raub
 {"coords": [7.1508, 51.2562], "date": "2026-05-12"}, // Wuppertal, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-05-12"}, // Präventionstipps Giessen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-05-12"}, // Zeugen Duisburg, aufbrüche
+{"coords": [9.2844, 51.045], "date": "2026-05-12"}, // Transporteraufbrüchen Kreis Borken, aufbrüche
+{"coords": [7.2, 51.6167], "date": "2026-05-12"}, // Recklinghausen, Einbruch
+//{"coords": [], "date": "2026-05-12"} // Höhe, Einbruch
+{"coords": [9.2167, 48.0833], "date": "2026-05-12"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Einbruch
+//{"coords": [], "date": "2026-05-12"} // Kein Ort gefunden, gestohlen
+{"coords": [7.4836, 53.4711], "date": "2026-05-12"}, // Landkreis Aurich, Diebstahl
+{"coords": [8.8731, 51.275], "date": "2026-05-12"}, // Korbach, Einbruch
+//{"coords": [], "date": "2026-05-12"} // Dahlbruch, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-05-12"}, // Karlsruhe, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-05-12"}, // Arbeitsunfall Aalen, Einbrüche

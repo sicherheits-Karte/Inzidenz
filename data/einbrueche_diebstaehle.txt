@@ -16561,3 +16561,11 @@
 //{"coords": [], "date": "2026-05-12"} // Kuhardt, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-05-12"}, // Ulm, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-05-12"}, // Ulm, Einbrecher
+{"coords": [10.0075, 53.7064], "date": "2026-05-12"}, // Untersuchungshaft Norderstedt, Raub
+{"coords": [8.6306, 53.05], "date": "2026-05-12"}, // Zeugenaufruf Delmenhorst, Diebstahl
+{"coords": [11.1, 48.7167], "date": "2026-05-12"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [9.0958, 54.1958], "date": "2026-05-12"}, // Heide, Diebstähle
+{"coords": [9.9333, 52.9667], "date": "2026-05-12"}, // Heidekreis, Einbruch
+//{"coords": [], "date": "2026-05-12"} // Kein Ort gefunden, Einbruch
+{"coords": [6.8139, 50.9147], "date": "2026-05-12"}, // Untersuchungshaft Frechen, Raub
+{"coords": [7.1508, 51.2562], "date": "2026-05-12"}, // Wuppertal, Raub

@@ -16591,3 +16591,4 @@
 {"coords": [11.8167, 51.15], "date": "2026-05-12"}, // Zeugen Naumburg, Einbruch
 {"coords": [8.2036, 48.8572], "date": "2026-05-12"}, // Rastatt, Diebstahl
 //{"coords": [], "date": "2026-05-12"} // couragierter Bürger stellen umgehend Jugendliche und Kinder als Täter Waren, Raub
+//{"coords": [], "date": "2026-05-12"} // Täterfestnahme Kruft, Diebstahl

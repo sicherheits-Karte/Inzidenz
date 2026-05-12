@@ -16551,3 +16551,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-05-11"}, // Einbrüche Reutlingen, Einbruch
 //{"coords": [], "date": "2026-05-11"} // Baggern des Modells Kubota, Typ KX019-4 dran, gestohlen
 {"coords": [6.8889, 49.9858], "date": "2026-05-11"}, // Polizeibeamte Wittlich, Einbrecher
+//{"coords": [], "date": "2026-05-12"} // Bad Gandersheim Bad Gandersheim, Dieb

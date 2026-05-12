@@ -16581,3 +16581,12 @@
 //{"coords": [], "date": "2026-05-12"} // Dahlbruch, Diebstahl
 {"coords": [8.4043, 49.014], "date": "2026-05-12"}, // Karlsruhe, Einbrecher
 {"coords": [10.0936, 48.8372], "date": "2026-05-12"}, // Arbeitsunfall Aalen, Einbrüche
+{"coords": [8.5847, 53.5469], "date": "2026-05-12"}, // Bremerhaven, Diebstähle
+{"coords": [9.732, 52.3759], "date": "2026-05-12"}, // Hannover, Dieb
+{"coords": [9.6775, 50.5528], "date": "2026-05-12"}, // Grünstreifen Fulda, Diebstahl
+{"coords": [7.8833, 49.5667], "date": "2026-05-12"}, // Boule-Vereinsheim Winnweiler, Einbruch
+//{"coords": [], "date": "2026-05-12"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.2417, 48.7994], "date": "2026-05-12"}, // Baden, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-05-12"}, // Einbrüche Hofheim, Einbrüche
+{"coords": [11.8167, 51.15], "date": "2026-05-12"}, // Zeugen Naumburg, Einbruch
+{"coords": [8.2036, 48.8572], "date": "2026-05-12"}, // Rastatt, Diebstahl

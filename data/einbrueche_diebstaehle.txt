@@ -16605,3 +16605,11 @@
 {"coords": [7.9447, 48.4731], "date": "2026-05-13"}, // Ladengeschäft Offenburg, Diebstahl
 {"coords": [6.6833, 51.2], "date": "2026-05-13"}, // Neuss, Dieb
 {"coords": [7.2056, 50.8014], "date": "2026-05-13"}, // Zeugenhinweise Siegburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-05-13"}, // Autofahrerin Giessen, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-05-13"}, // Heilbronn, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-05-13"}, // Freiburg, entwendet
+{"coords": [8.24, 50.0822], "date": "2026-05-13"}, // Mehrfamilienhaus Wiesbaden, Einbruch
+//{"coords": [], "date": "2026-05-13"} // Wohnhaus in Altenbruch, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-05-13"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-05-13"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2026-05-13"}, // Zeugenaufruf Heidelberg, gestohlen

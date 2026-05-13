@@ -16622,3 +16622,5 @@
 {"coords": [8.15, 49.4667], "date": "2026-05-13"}, // Weinstraße, Diebstahl
 {"coords": [7.0116, 51.4556], "date": "2026-05-13"}, // Essen, Einbrecher
 {"coords": [8.6833, 50.5833], "date": "2026-05-13"}, // Giessen, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-05-13"}, // Mannheim, Raub
+{"coords": [7.3333, 50.6833], "date": "2026-05-13"}, // Asbach Asbach, Einbruch

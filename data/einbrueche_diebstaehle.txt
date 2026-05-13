@@ -16592,3 +16592,10 @@
 {"coords": [8.2036, 48.8572], "date": "2026-05-12"}, // Rastatt, Diebstahl
 //{"coords": [], "date": "2026-05-12"} // couragierter Bürger stellen umgehend Jugendliche und Kinder als Täter Waren, Raub
 //{"coords": [], "date": "2026-05-12"} // Täterfestnahme Kruft, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-05-13"}, // Bremen, Diebstahl
+{"coords": [7.35, 52.15], "date": "2026-05-13"}, // Steinfurt, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-05-13"}, // Warendorf, Raub
+{"coords": [7.5336, 52.1728], "date": "2026-05-13"}, // Autohauses Emsdetten, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2026-05-13"}, // Ludwigsburg, gestohlen
+{"coords": [8.8667, 51.9333], "date": "2026-05-13"}, // Lippe, gestohlen
+//{"coords": [], "date": "2026-05-13"} // Tankstelle scheitert an Eingangstür mehr, Einbruch

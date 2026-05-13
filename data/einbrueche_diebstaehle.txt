@@ -16613,3 +16613,12 @@
 {"coords": [7.82, 47.99], "date": "2026-05-13"}, // Zeugen Freiburg, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-05-13"}, // Zeugenaufruf Mannheim, Einbruch
 {"coords": [8.6944, 49.4092], "date": "2026-05-13"}, // Zeugenaufruf Heidelberg, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-05-13"}, // Einbruch Reutlingen, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-05-13"}, // Nordhausen, Diebstahl
+//{"coords": [], "date": "2026-05-13"} // Lagerhalle Nisterau, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2026-05-13"}, // Zeugen Bremerhaven, Raub
+//{"coords": [], "date": "2026-05-13"} // Einbrechern Bad Langensalza, Einbrecher
+{"coords": [6.6393, 49.7556], "date": "2026-05-13"}, // Trier, Raub
+{"coords": [8.15, 49.4667], "date": "2026-05-13"}, // Weinstraße, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-05-13"}, // Essen, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-05-13"}, // Giessen, Einbruch

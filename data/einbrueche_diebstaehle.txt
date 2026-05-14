@@ -16625,3 +16625,6 @@
 {"coords": [8.4661, 49.4878], "date": "2026-05-13"}, // Mannheim, Raub
 {"coords": [7.3333, 50.6833], "date": "2026-05-13"}, // Asbach Asbach, Einbruch
 {"coords": [11.5164, 51.0264], "date": "2026-05-14"}, // Apolda, geklaut
+//{"coords": [], "date": "2026-05-14"} // Vrees, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-05-14"}, // Emden, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-05-14"}, // Hofheim, gestohlen

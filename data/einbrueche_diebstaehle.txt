@@ -16643,3 +16643,5 @@
 {"coords": [6.8889, 49.9858], "date": "2026-05-14"}, // Stadtgebiet Wittlich, Diebstähle
 {"coords": [7.1, 51.5167], "date": "2026-05-14"}, // Tierklinik Gelsenkirchen, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-05-14"}, // Körperverletzung Reutlingen, Raub
+//{"coords": [], "date": "2026-05-14"} // Kein Ort gefunden, entwendung
+{"coords": [9.6106, 47.7828], "date": "2026-05-14"}, // Landkreis Ravensburg Ravensburg, Raub

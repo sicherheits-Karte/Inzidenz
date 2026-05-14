@@ -16648,3 +16648,5 @@
 {"coords": [9.6775, 50.5528], "date": "2026-05-14"}, // Einsatz Fulda, Raub
 {"coords": [9.6775, 50.5528], "date": "2026-05-14"}, // Altenschlirf Fulda, Einbrüche
 {"coords": [7.825, 50.4358], "date": "2026-05-14"}, // Montabaur, Raub
+{"coords": [9.95, 52.15], "date": "2026-05-14"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-05-14"}, // Zeugenaufruf Hildesheim, Einbruch

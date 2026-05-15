@@ -16674,3 +16674,10 @@
 {"coords": [8.0667, 50.3833], "date": "2026-05-15"}, // Limburg, entwendet
 //{"coords": [], "date": "2026-05-15"} // Hohenwartestausee, Diebstahl
 {"coords": [7.3333, 51.4333], "date": "2026-05-15"}, // Witten, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-05-15"}, // Wiesbaden, eingebrochen
+{"coords": [7.82, 47.99], "date": "2026-05-15"}, // Hauingen Freiburg, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-05-15"}, // Jena, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-05-15"}, // Einbruch Augsburg, Einbruch
+//{"coords": [], "date": "2026-05-15"} // Südlohn, entwendet
+{"coords": [10.8978, 48.3705], "date": "2026-05-15"}, // Diebstahl Augsburg, Diebstahl
+//{"coords": [], "date": "2026-05-15"} // Suderwick, Einbrecher

@@ -16651,3 +16651,6 @@
 {"coords": [9.95, 52.15], "date": "2026-05-14"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-05-14"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2026-05-15"}, // Einbeck, gestohlen
+//{"coords": [], "date": "2026-05-15"} // Nohfelden, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2026-05-15"}, // Fahrzeug Suhl, entwendet
+{"coords": [7.6, 50.45], "date": "2026-05-15"}, // Isenburg, Einbruch

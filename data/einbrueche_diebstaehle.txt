@@ -16654,3 +16654,11 @@
 //{"coords": [], "date": "2026-05-15"} // Nohfelden, Diebstahl
 {"coords": [10.6944, 50.6111], "date": "2026-05-15"}, // Fahrzeug Suhl, entwendet
 {"coords": [7.6, 50.45], "date": "2026-05-15"}, // Isenburg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-05-15"}, // Erfurter Flutgraben Erfurt, Raub
+{"coords": [10.5369, 52.1622], "date": "2026-05-15"}, // Wolfenbüttel, Diebstahl
+{"coords": [9.1292, 52.2675], "date": "2026-05-15"}, // Hinweise Obernkirchen, Raub
+//{"coords": [], "date": "2026-05-15"} // Boele, aufbrüche
+{"coords": [7.85, 51.6], "date": "2026-05-15"}, // Pelkum, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-05-15"}, // Recklinghausen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-05-15"}, // Bielefeld, Dieb
+{"coords": [9.9937, 53.5511], "date": "2026-05-15"}, // Zeugen Hamburg, Raub

@@ -16662,3 +16662,15 @@
 {"coords": [7.2, 51.6167], "date": "2026-05-15"}, // Recklinghausen, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-05-15"}, // Bielefeld, Dieb
 {"coords": [9.9937, 53.5511], "date": "2026-05-15"}, // Zeugen Hamburg, Raub
+{"coords": [9.95, 52.15], "date": "2026-05-15"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-05-15"}, // Gegenverkehr Hofheim, Einbrecher
+//{"coords": [], "date": "2026-05-15"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2026-05-15"}, // Ludwigsburg, Dieb
+{"coords": [8.0, 51.45], "date": "2026-05-15"}, // Gemeinschaftskeller Arnsberg, Einbruch
+{"coords": [6.5333, 50.2833], "date": "2026-05-15"}, // Weidezaungerätes Olzheim, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-05-15"}, // Handy Kaiserslautern, gestohlen
+{"coords": [9.0861, 54.375], "date": "2026-05-15"}, // Sommerpflanzen Friedrichstadt, Diebstahl
+{"coords": [10.7865, 52.4226], "date": "2026-05-15"}, // Schule Wolfsburg, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-05-15"}, // Limburg, entwendet
+//{"coords": [], "date": "2026-05-15"} // Hohenwartestausee, Diebstahl
+{"coords": [7.3333, 51.4333], "date": "2026-05-15"}, // Witten, Einbruch

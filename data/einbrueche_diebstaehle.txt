@@ -16681,3 +16681,12 @@
 //{"coords": [], "date": "2026-05-15"} // Südlohn, entwendet
 {"coords": [10.8978, 48.3705], "date": "2026-05-15"}, // Diebstahl Augsburg, Diebstahl
 //{"coords": [], "date": "2026-05-15"} // Suderwick, Einbrecher
+//{"coords": [], "date": "2026-05-15"} // Liedolsheim, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-05-15"}, // Diebstahl Freiburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-05-15"}, // Juwelier Aalen, entwendet
+//{"coords": [], "date": "2026-05-15"} // Kein Ort gefunden, Diebstähle
+{"coords": [8.4661, 49.4878], "date": "2026-05-15"}, // Untersuchungshaft Mannheim, Einbruch
+//{"coords": [], "date": "2026-05-15"} // Dauchingen, Diebstahl
+//{"coords": [], "date": "2026-05-15"} // Kellereinbruch Altstadt, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-05-15"}, // Friseursalon Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-05-15"} // Bürogebäuden von drei Firmen in der Kieswerkstrasse und in die Räumlichkeiten einer Firma im Franz-Ziwey-Ring gewaltsam eingedrungen und durchsuchten diese. Die Täter hatten es auf Bargeld, Einbrüche

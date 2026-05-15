@@ -16690,3 +16690,7 @@
 //{"coords": [], "date": "2026-05-15"} // Kellereinbruch Altstadt, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-05-15"}, // Friseursalon Ludwigsburg, Einbruch
 //{"coords": [], "date": "2026-05-15"} // Bürogebäuden von drei Firmen in der Kieswerkstrasse und in die Räumlichkeiten einer Firma im Franz-Ziwey-Ring gewaltsam eingedrungen und durchsuchten diese. Die Täter hatten es auf Bargeld, Einbrüche
+//{"coords": [], "date": "2026-05-15"} // Brachttal, Raub
+{"coords": [9.95, 52.15], "date": "2026-05-15"}, // Zeugenaufruf- Hildesheim, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-05-15"}, // Mehrere Einbrüche Landkreis Heilbronn, Einbrüche
+//{"coords": [], "date": "2026-05-15"} // Helmsgrün, entwendet

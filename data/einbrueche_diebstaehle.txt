@@ -16694,3 +16694,4 @@
 {"coords": [9.95, 52.15], "date": "2026-05-15"}, // Zeugenaufruf- Hildesheim, Diebstahl
 {"coords": [9.2108, 49.1425], "date": "2026-05-15"}, // Mehrere Einbrüche Landkreis Heilbronn, Einbrüche
 //{"coords": [], "date": "2026-05-15"} // Helmsgrün, entwendet
+{"coords": [7.825, 50.4358], "date": "2026-05-15"}, // Montabaur, entwendung

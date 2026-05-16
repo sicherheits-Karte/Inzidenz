@@ -16713,3 +16713,6 @@
 //{"coords": [], "date": "2026-05-16"} // Bönen, Einbruch
 {"coords": [9.4764, 53.6008], "date": "2026-05-16"}, // Freitagvormittag Stade, Einbrecher
 {"coords": [11.8556, 50.8964], "date": "2026-05-16"}, // Hermsdorf, gestohlen
+//{"coords": [], "date": "2026-05-16"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.5978, 50.3597], "date": "2026-05-16"}, // Zeugen Koblenz, entwendung
+{"coords": [8.4661, 49.4878], "date": "2026-05-16"}, // Einsatz Mannheim, Raub

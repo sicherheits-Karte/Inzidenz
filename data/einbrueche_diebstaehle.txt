@@ -16720,3 +16720,4 @@
 //{"coords": [], "date": "2026-05-16"} // Bad Gandersheim Bad Gandersheim, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2026-05-16"}, // Mühlhausen, Dieb
 {"coords": [7.6889, 51.5347], "date": "2026-05-16"}, // Unna, Raub
+{"coords": [7.1861, 49.6583], "date": "2026-05-16"}, // Strommaste Birkenfeld, Diebstahl

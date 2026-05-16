@@ -16695,3 +16695,15 @@
 {"coords": [9.2108, 49.1425], "date": "2026-05-15"}, // Mehrere Einbrüche Landkreis Heilbronn, Einbrüche
 //{"coords": [], "date": "2026-05-15"} // Helmsgrün, entwendet
 {"coords": [7.825, 50.4358], "date": "2026-05-15"}, // Montabaur, entwendung
+{"coords": [10.0, 51.7064], "date": "2026-05-16"}, // Personen Northeim, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-05-16"}, // Hofheim, entwendet
+{"coords": [8.6944, 53.8619], "date": "2026-05-16"}, // Gefälschter Führerschein Cuxhaven, Einbruch
+//{"coords": [], "date": "2026-05-16"} // Contwig, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-05-16"}, // Ulm, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2026-05-16"}, // Zeugen Hagen, Einbruch
+//{"coords": [], "date": "2026-05-16"} // Wohnhaus Freren, Einbruch
+//{"coords": [], "date": "2026-05-16"} // Sögel, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-05-16"}, // Gaststätte Meppen, Einbruch
+{"coords": [8.0, 51.3333], "date": "2026-05-16"}, // Wohnhaus Sundern, Einbruch
+{"coords": [9.6333, 51.65], "date": "2026-05-16"}, // Uslar, Diebstahl
+//{"coords": [], "date": "2026-05-16"} // Stadtfest Bad Dürkheim, Diebstahl

@@ -16716,3 +16716,6 @@
 //{"coords": [], "date": "2026-05-16"} // Kein Ort gefunden, Diebstahl
 {"coords": [7.5978, 50.3597], "date": "2026-05-16"}, // Zeugen Koblenz, entwendung
 {"coords": [8.4661, 49.4878], "date": "2026-05-16"}, // Einsatz Mannheim, Raub
+{"coords": [7.82, 47.99], "date": "2026-05-16"}, // Untersuchungshaft Freiburg, Einbruch
+//{"coords": [], "date": "2026-05-16"} // Bad Gandersheim Bad Gandersheim, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-05-16"}, // Mühlhausen, Dieb

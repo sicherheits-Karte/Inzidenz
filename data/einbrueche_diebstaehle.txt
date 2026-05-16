@@ -16719,3 +16719,4 @@
 {"coords": [7.82, 47.99], "date": "2026-05-16"}, // Untersuchungshaft Freiburg, Einbruch
 //{"coords": [], "date": "2026-05-16"} // Bad Gandersheim Bad Gandersheim, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2026-05-16"}, // Mühlhausen, Dieb
+{"coords": [7.6889, 51.5347], "date": "2026-05-16"}, // Unna, Raub

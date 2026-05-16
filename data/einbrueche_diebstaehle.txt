@@ -16707,3 +16707,5 @@
 {"coords": [8.0, 51.3333], "date": "2026-05-16"}, // Wohnhaus Sundern, Einbruch
 {"coords": [9.6333, 51.65], "date": "2026-05-16"}, // Uslar, Diebstahl
 //{"coords": [], "date": "2026-05-16"} // Stadtfest Bad Dürkheim, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-05-16"}, // Delmenhorst, aufbruch
+{"coords": [9.2167, 48.0833], "date": "2026-05-16"}, // Landkreis Sigmaringen Ravensburg, Einbruch

@@ -16721,3 +16721,14 @@
 {"coords": [10.7753, 49.7544], "date": "2026-05-16"}, // Mühlhausen, Dieb
 {"coords": [7.6889, 51.5347], "date": "2026-05-16"}, // Unna, Raub
 {"coords": [7.1861, 49.6583], "date": "2026-05-16"}, // Strommaste Birkenfeld, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-05-17"}, // Nord Weimar, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-05-17"}, // Bad Schwalbach, Einbrecher
+{"coords": [11.3239, 50.9795], "date": "2026-05-17"}, // Abwegen Weimar, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-05-17"}, // Lippe, Diebstahl
+//{"coords": [], "date": "2026-05-17"} // Gehren, entwendet
+{"coords": [10.9147, 50.6856], "date": "2026-05-17"}, // Ilmenau, Dieb
+{"coords": [8.6944, 49.4092], "date": "2026-05-17"}, // Heidelberg, Dieb
+{"coords": [10.3667, 50.6667], "date": "2026-05-17"}, // Wasungen, Dieb
+{"coords": [8.3708, 52.6078], "date": "2026-05-17"}, // Diepholz, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-05-17"}, // Hofheim, entwendet
+//{"coords": [], "date": "2026-05-17"} // Roitzheim, Einbruch

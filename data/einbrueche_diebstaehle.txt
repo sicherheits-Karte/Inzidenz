@@ -16732,3 +16732,10 @@
 {"coords": [8.3708, 52.6078], "date": "2026-05-17"}, // Diepholz, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-05-17"}, // Hofheim, entwendet
 //{"coords": [], "date": "2026-05-17"} // Roitzheim, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-05-17"}, // Fahrzeugen Ludwigshafen, Diebstahl
+{"coords": [9.2844, 51.045], "date": "2026-05-17"}, // Kreis Borken, Diebstähle
+{"coords": [6.6153, 51.8367], "date": "2026-05-17"}, // Schützenhalle Bocholt, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-05-17"}, // Stade, Einbrecher
+//{"coords": [], "date": "2026-05-17"} // Bad Dürkheim, entwendet
+{"coords": [10.5833, 49.3], "date": "2026-05-17"}, // Ansbach, aufbruch
+//{"coords": [], "date": "2026-05-17"} // Kein Ort gefunden, gestohlen

@@ -16741,3 +16741,7 @@
 //{"coords": [], "date": "2026-05-17"} // Kein Ort gefunden, gestohlen
 //{"coords": [], "date": "2026-05-17"} // Bürogebäude, Einbruch
 //{"coords": [], "date": "2026-05-17"} // Meckelfeld, Einbruch
+//{"coords": [], "date": "2026-05-17"} // Höhe, Einbruch
+//{"coords": [], "date": "2026-05-17"} // Einkaufsmarkt, Diebstähle
+{"coords": [10.8978, 48.3705], "date": "2026-05-17"}, // Fahrraddiebstahl Augsburg, Diebstahl
+//{"coords": [], "date": "2026-05-17"} // Wohnhaus, Einbruch

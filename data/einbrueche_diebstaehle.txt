@@ -16739,3 +16739,5 @@
 //{"coords": [], "date": "2026-05-17"} // Bad Dürkheim, entwendet
 {"coords": [10.5833, 49.3], "date": "2026-05-17"}, // Ansbach, aufbruch
 //{"coords": [], "date": "2026-05-17"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-05-17"} // Bürogebäude, Einbruch
+//{"coords": [], "date": "2026-05-17"} // Meckelfeld, Einbruch

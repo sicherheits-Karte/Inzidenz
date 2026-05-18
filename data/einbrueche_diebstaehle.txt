@@ -16758,3 +16758,11 @@
 //{"coords": [], "date": "2026-05-18"} // Schaafheim, Einbruch
 {"coords": [10.0831, 52.6247], "date": "2026-05-18"}, // Firma Celle, Einbruch
 {"coords": [7.2417, 52.7922], "date": "2026-05-18"}, // Haren, Diebstahl
+//{"coords": [], "date": "2026-05-18"} // Kein Ort gefunden, entwendet
+{"coords": [7.8667, 48.35], "date": "2026-05-18"}, // Lahr, entwendet
+//{"coords": [], "date": "2026-05-18"} // Stendenbach, Einbrecher
+{"coords": [7.0116, 51.4556], "date": "2026-05-18"}, // Fotofahndung Essen, stahl
+{"coords": [8.6514, 49.8728], "date": "2026-05-18"}, // Visier Krimineller Darmstadt, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-05-18"}, // Mitte, eingebrochen
+{"coords": [9.9916, 48.3984], "date": "2026-05-18"}, // Ulm, Raub
+{"coords": [6.7623, 51.4344], "date": "2026-05-18"}, // Zeugen Duisburg, Raub

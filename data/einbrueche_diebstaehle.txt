@@ -16766,3 +16766,8 @@
 {"coords": [8.5833, 53.55], "date": "2026-05-18"}, // Mitte, eingebrochen
 {"coords": [9.9916, 48.3984], "date": "2026-05-18"}, // Ulm, Raub
 {"coords": [6.7623, 51.4344], "date": "2026-05-18"}, // Zeugen Duisburg, Raub
+{"coords": [8.4111, 49.9917], "date": "2026-05-18"}, // Polizeihubschrauber Rüsselsheim, Raub
+{"coords": [7.7689, 49.4447], "date": "2026-05-18"}, // Kaiserslautern, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-05-18"}, // Giessen, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-05-18"}, // Alkoholeinfluss Giessen, Einbrecher
+//{"coords": [], "date": "2026-05-18"} // Bad Langensalza, Dieb

@@ -16747,3 +16747,14 @@
 //{"coords": [], "date": "2026-05-17"} // Wohnhaus, Einbruch
 {"coords": [8.1075, 53.5219], "date": "2026-05-17"}, // Wilhelmshaven, Einbrüche
 {"coords": [9.8667, 51.8167], "date": "2026-05-18"}, // Einbeck, entwendet
+{"coords": [10.5369, 52.1622], "date": "2026-05-18"}, // Wolfenbüttel, Einbruch
+{"coords": [9.35, 53.2417], "date": "2026-05-18"}, // Wohnungseinbruch Elsdorf, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-05-18"}, // Zeugen Hannover, entwendet
+{"coords": [11.1167, 51.1667], "date": "2026-05-18"}, // Landkreis Sömmerda, Einbrecher
+{"coords": [9.1919, 48.8975], "date": "2026-05-18"}, // Ludwigsburg, entwendet
+{"coords": [7.2, 51.6167], "date": "2026-05-18"}, // Einbruch Recklinghausen, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-05-18"}, // Rotenburg, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-05-18"}, // Apolda, Einbruch
+//{"coords": [], "date": "2026-05-18"} // Schaafheim, Einbruch
+{"coords": [10.0831, 52.6247], "date": "2026-05-18"}, // Firma Celle, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2026-05-18"}, // Haren, Diebstahl

@@ -16773,3 +16773,4 @@
 //{"coords": [], "date": "2026-05-18"} // Bad Langensalza, Dieb
 //{"coords": [], "date": "2026-05-18"} // Täter Nastätten, Diebstahl
 {"coords": [8.95, 49.9333], "date": "2026-05-18"}, // Umstadt Wiebelsbach, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-05-18"}, // Vermisstenfahndung Aalen, Raub

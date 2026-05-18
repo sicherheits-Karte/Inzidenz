@@ -16746,3 +16746,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-05-17"}, // Fahrraddiebstahl Augsburg, Diebstahl
 //{"coords": [], "date": "2026-05-17"} // Wohnhaus, Einbruch
 {"coords": [8.1075, 53.5219], "date": "2026-05-17"}, // Wilhelmshaven, Einbrüche
+{"coords": [9.8667, 51.8167], "date": "2026-05-18"}, // Einbeck, entwendet

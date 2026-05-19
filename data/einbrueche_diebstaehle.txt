@@ -16775,3 +16775,15 @@
 {"coords": [8.95, 49.9333], "date": "2026-05-18"}, // Umstadt Wiebelsbach, Dieb
 {"coords": [10.0936, 48.8372], "date": "2026-05-18"}, // Vermisstenfahndung Aalen, Raub
 {"coords": [9.95, 52.15], "date": "2026-05-19"}, // Baustelle Hildesheim, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-05-19"}, // Homberg, Diebstahl
+{"coords": [8.35, 51.6667], "date": "2026-05-19"}, // Lippstadt Lippstadt, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-05-19"}, // Tatverdächtige Ratzeburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-05-19"}, // Treibstoffdiebstahl Aalen, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-05-19"}, // Oldenburg Oldenburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-05-19"}, // Wohnung Aalen, Diebstahl
+{"coords": [9.8833, 53.3333], "date": "2026-05-19"}, // Buchholz, gestohlen
+{"coords": [7.8231, 50.64], "date": "2026-05-19"}, // Jugendzentrum Hachenburg, Einbruch
+{"coords": [6.5167, 51.6], "date": "2026-05-19"}, // Alpen, Einbruch
+{"coords": [6.85, 52.6167], "date": "2026-05-19"}, // Täter Emlichheim, Einbruch
+{"coords": [6.9667, 52.5], "date": "2026-05-19"}, // Zeugen Neuenhaus, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-05-19"}, // Fahrzeug Wittlich, Diebstahl

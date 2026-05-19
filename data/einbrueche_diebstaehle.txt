@@ -16797,3 +16797,11 @@
 {"coords": [11.5164, 51.0264], "date": "2026-05-19"}, // Apolda, Dieb
 {"coords": [9.9333, 52.9667], "date": "2026-05-19"}, // Heidekreis, Diebstahl
 //{"coords": [], "date": "2026-05-19"} // Hambühren, Einbruch
+{"coords": [6.5906, 51.7317], "date": "2026-05-19"}, // Hamminkeln, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-05-19"}, // Bewaffneter Raubüberfall- Zeugenaufruf Frankfurt, Raub
+//{"coords": [], "date": "2026-05-19"} // Ausgang Riol, Raub
+{"coords": [7.4836, 53.4711], "date": "2026-05-19"}, // Landkreis Aurich, entwendet
+{"coords": [6.5617, 51.3317], "date": "2026-05-19"}, // Tatort Krefeld, Raub
+//{"coords": [], "date": "2026-05-19"} // Rheingönheim, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-05-19"}, // Müllerweg Gütersloh, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-05-19"}, // Zeugen Dinslaken, entwendet

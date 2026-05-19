@@ -16812,3 +16812,12 @@
 {"coords": [6.2833, 51.3167], "date": "2026-05-19"}, // Nettetal, Diebstahl
 //{"coords": [], "date": "2026-05-19"} // Isernhagen HB gestohlen, gestohlen
 {"coords": [6.4208, 51.3653], "date": "2026-05-19"}, // Hinweise Kempen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-05-19"}, // Ludwigsburg, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-05-19"}, // Ludwigsburg, Dieb
+//{"coords": [], "date": "2026-05-19"} // Kein Ort gefunden, entwendet
+{"coords": [11.1667, 51.3], "date": "2026-05-19"}, // Oldisleben, entwendet
+{"coords": [10.7956, 51.5019], "date": "2026-05-19"}, // Zeugen Nordhausen, entwendet
+{"coords": [10.3167, 51.4], "date": "2026-05-19"}, // Leinefelde, Dieb
+{"coords": [13.7, 51.3], "date": "2026-05-19"}, // Schönfeld, entwendet
+//{"coords": [], "date": "2026-05-19"} // Kreis, Diebstahl
+//{"coords": [], "date": "2026-05-19"} // der Straße, Diebstahl

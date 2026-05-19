@@ -16805,3 +16805,10 @@
 //{"coords": [], "date": "2026-05-19"} // Rheingönheim, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-05-19"}, // Müllerweg Gütersloh, Einbruch
 {"coords": [6.75, 51.5833], "date": "2026-05-19"}, // Zeugen Dinslaken, entwendet
+//{"coords": [], "date": "2026-05-19"} // Bergisch Gladbach, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-05-19"}, // Ludwigshafen, entwendet
+{"coords": [8.0, 53.5333], "date": "2026-05-19"}, // Schortens, Einbruch
+{"coords": [6.4208, 51.3653], "date": "2026-05-19"}, // Kempen, Diebstahl
+{"coords": [6.2833, 51.3167], "date": "2026-05-19"}, // Nettetal, Diebstahl
+//{"coords": [], "date": "2026-05-19"} // Isernhagen HB gestohlen, gestohlen
+{"coords": [6.4208, 51.3653], "date": "2026-05-19"}, // Hinweise Kempen, Einbruch

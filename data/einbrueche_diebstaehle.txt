@@ -16821,3 +16821,5 @@
 {"coords": [13.7, 51.3], "date": "2026-05-19"}, // Schönfeld, entwendet
 //{"coords": [], "date": "2026-05-19"} // Kreis, Diebstahl
 //{"coords": [], "date": "2026-05-19"} // der Straße, Diebstahl
+{"coords": [9.1828, 48.7756], "date": "2026-05-19"}, // Stuttgart, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-05-19"}, // Zeugenaufruf Hildesheim, Diebstahl

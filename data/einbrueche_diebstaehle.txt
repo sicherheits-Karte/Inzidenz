@@ -16787,3 +16787,13 @@
 {"coords": [6.85, 52.6167], "date": "2026-05-19"}, // Täter Emlichheim, Einbruch
 {"coords": [6.9667, 52.5], "date": "2026-05-19"}, // Zeugen Neuenhaus, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-05-19"}, // Fahrzeug Wittlich, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-05-19"}, // Überfalls Kaiserslautern, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-05-19"}, // Bielefeld, Einbrecher
+{"coords": [10.4508, 50.7211], "date": "2026-05-19"}, // Baustelle Schmalkalden, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2026-05-19"}, // Keller Bocholt, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-05-19"}, // Öffentlichkeitsfahndung Bielefeld, stahl
+//{"coords": [], "date": "2026-05-19"} // Rüttelplatte Schöppingen, Dieb
+{"coords": [6.9603, 50.9375], "date": "2026-05-19"}, // Zeugen Köln, Raub
+{"coords": [11.5164, 51.0264], "date": "2026-05-19"}, // Apolda, Dieb
+{"coords": [9.9333, 52.9667], "date": "2026-05-19"}, // Heidekreis, Diebstahl
+//{"coords": [], "date": "2026-05-19"} // Hambühren, Einbruch

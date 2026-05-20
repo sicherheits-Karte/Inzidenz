@@ -16858,3 +16858,4 @@
 {"coords": [10.5722, 51.4403], "date": "2026-05-20"}, // Bleicherode, entwendet
 {"coords": [10.135, 51.3783], "date": "2026-05-20"}, // Balkon Heilbad Heiligenstadt, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2026-05-20"}, // Hannover, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-05-20"}, // Zeugenaufruf Hildesheim, aufbruch

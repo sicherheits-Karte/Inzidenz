@@ -16825,3 +16825,12 @@
 {"coords": [9.95, 52.15], "date": "2026-05-19"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [13.3878, 54.0931], "date": "2026-05-20"}, // Greifswald, Diebstahl
 //{"coords": [], "date": "2026-05-20"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-05-20"}, // Zeugen Darmstadt, entwendet
+{"coords": [8.7667, 51.7167], "date": "2026-05-20"}, // Zeugen Paderborn, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-05-20"}, // Reutlingen, Raub
+//{"coords": [], "date": "2026-05-20"} // Baumaterial Rheinbrohl, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-05-20"}, // Bremen, gestohlen
+//{"coords": [], "date": "2026-05-20"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.2, 51.6167], "date": "2026-05-20"}, // Geschäft Recklinghausen, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-05-20"}, // Drogeriemarkt Wilhelmshaven, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-05-20"}, // Verbrauchermarkt Wilhelmshaven, Diebstahl

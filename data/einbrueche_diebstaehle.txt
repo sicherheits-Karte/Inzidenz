@@ -16834,3 +16834,11 @@
 {"coords": [7.2, 51.6167], "date": "2026-05-20"}, // Geschäft Recklinghausen, Diebstahl
 {"coords": [8.1075, 53.5219], "date": "2026-05-20"}, // Drogeriemarkt Wilhelmshaven, Diebstahl
 {"coords": [8.1075, 53.5219], "date": "2026-05-20"}, // Verbrauchermarkt Wilhelmshaven, Diebstahl
+{"coords": [11.1, 48.7167], "date": "2026-05-20"}, // Oberhausen Ein Dokument mehr, Einbruch
+//{"coords": [], "date": "2026-05-20"} // Tüddern, gestohlen
+{"coords": [6.4208, 51.3653], "date": "2026-05-20"}, // Kempen, entwendet
+{"coords": [6.0961, 51.0631], "date": "2026-05-20"}, // Heinsberg, stahl
+{"coords": [9.6333, 51.65], "date": "2026-05-20"}, // Einbruchdiebstahl Uslar, Einbruch
+//{"coords": [], "date": "2026-05-20"} // Kreis, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-05-20"}, // Ratzeburg, Raub
+{"coords": [9.9333, 52.9667], "date": "2026-05-20"}, // Heidekreis, Diebstahl

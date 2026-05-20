@@ -16842,3 +16842,14 @@
 //{"coords": [], "date": "2026-05-20"} // Kreis, Diebstahl
 {"coords": [10.75, 53.7], "date": "2026-05-20"}, // Ratzeburg, Raub
 {"coords": [9.9333, 52.9667], "date": "2026-05-20"}, // Heidekreis, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2026-05-20"}, // Bargeld Duisburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-05-20"}, // Zeugen Freiburg, entwendet
+{"coords": [8.4661, 49.4878], "date": "2026-05-20"}, // Zeugenaufruf Mannheim, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-05-20"}, // Hinweise Osnabrück, gestohlen
+{"coords": [8.4661, 49.4878], "date": "2026-05-20"}, // Zeugenaufruf Mannheim, entwendet
+//{"coords": [], "date": "2026-05-20"} // Kreis, Dieb
+{"coords": [6.6731, 50.2917], "date": "2026-05-20"}, // Scooter Hillesheim, Raub
+//{"coords": [], "date": "2026-05-20"} // Motor Dingelstedt, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-05-20"}, // Einbruch Coesfeld, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-05-20"}, // Speyer, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-05-20"}, // Coesfeld, gestohlen

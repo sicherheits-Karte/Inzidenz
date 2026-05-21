@@ -16877,3 +16877,9 @@
 {"coords": [8.705, 48.895], "date": "2026-05-21"}, // Pforzheim, Einbrecher
 {"coords": [8.705, 48.895], "date": "2026-05-21"}, // Zeugen Pforzheim, aufbruch
 {"coords": [8.3708, 52.6078], "date": "2026-05-21"}, // Diepholz, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-05-21"}, // Vechta, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-05-21"}, // Köln, Raub
+//{"coords": [], "date": "2026-05-21"} // Rhein, eingebrochen
+//{"coords": [], "date": "2026-05-21"} // Rhein, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-05-21"}, // Anhänger Ludwigshafen, Einbruch
+//{"coords": [], "date": "2026-05-21"} // Rhein, Einbruch

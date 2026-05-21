@@ -16859,3 +16859,8 @@
 {"coords": [10.135, 51.3783], "date": "2026-05-20"}, // Balkon Heilbad Heiligenstadt, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2026-05-20"}, // Hannover, gestohlen
 {"coords": [9.95, 52.15], "date": "2026-05-20"}, // Zeugenaufruf Hildesheim, aufbruch
+{"coords": [7.8, 51.4333], "date": "2026-05-21"}, // Rolltor Menden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-05-21"}, // Unfälle Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-05-21"}, // Aalen, Einbruch
+{"coords": [6.6333, 50.1833], "date": "2026-05-21"}, // Verkaufscontainer Weinsheim, Einbruch
+//{"coords": [], "date": "2026-05-21"} // Bad Kreuznach, aufbruch

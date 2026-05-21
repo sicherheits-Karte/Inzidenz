@@ -16864,3 +16864,16 @@
 {"coords": [10.0936, 48.8372], "date": "2026-05-21"}, // Aalen, Einbruch
 {"coords": [6.6333, 50.1833], "date": "2026-05-21"}, // Verkaufscontainer Weinsheim, Einbruch
 //{"coords": [], "date": "2026-05-21"} // Bad Kreuznach, aufbruch
+{"coords": [11.5164, 51.0264], "date": "2026-05-21"}, // Apolda, Diebstahl
+{"coords": [10.6866, 53.8655], "date": "2026-05-21"}, // Hinweisen Lübeck, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-05-21"}, // Mitte, Diebstahl
+//{"coords": [], "date": "2026-05-21"} // Stapel mehr, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-05-21"}, // Ulm, Diebstahl
+{"coords": [7.2, 50.8333], "date": "2026-05-21"}, // Zeugenhinweise Lohmar, gestohlen
+{"coords": [8.0472, 52.2799], "date": "2026-05-21"}, // Osnabrück, Einbrüche
+//{"coords": [], "date": "2026-05-21"} // Jugenheim, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-05-21"}, // Mainzer Innenstadt Mainz, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-05-21"}, // Kleinkraftrades Mainz, Diebstahl
+{"coords": [8.705, 48.895], "date": "2026-05-21"}, // Pforzheim, Einbrecher
+{"coords": [8.705, 48.895], "date": "2026-05-21"}, // Zeugen Pforzheim, aufbruch
+{"coords": [8.3708, 52.6078], "date": "2026-05-21"}, // Diepholz, Diebstahl

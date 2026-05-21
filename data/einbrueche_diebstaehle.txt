@@ -16891,3 +16891,4 @@
 {"coords": [6.6393, 49.7556], "date": "2026-05-21"}, // Trier Trier, Diebstähle
 //{"coords": [], "date": "2026-05-21"} // Waldrach, Einbrüche
 {"coords": [9.1333, 48.8], "date": "2026-05-21"}, // Feuerbach, gestohlen
+//{"coords": [], "date": "2026-05-21"} // Kreiensen Bad Gandersheim, entwendet

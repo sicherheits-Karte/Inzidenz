@@ -16927,3 +16927,5 @@
 {"coords": [9.2167, 48.4833], "date": "2026-05-22"}, // Reutlingen, Einbruch
 {"coords": [9.4, 47.7833], "date": "2026-05-22"}, // Bodenseekreis, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-05-22"}, // Polizeipräsidium Mannheim POL-MA, stehlen
+{"coords": [8.4353, 49.4811], "date": "2026-05-22"}, // Nachtragsmeldung Ludwigshafen, Räuber
+//{"coords": [], "date": "2026-05-22"} // Rettungshubschrauber, im Einsatz. Zum Unfallhergang oder etwaigen Verletzungen liegen bislang keine, Raub

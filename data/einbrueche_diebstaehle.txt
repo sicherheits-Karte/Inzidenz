@@ -16915,3 +16915,11 @@
 //{"coords": [], "date": "2026-05-22"} // Letmathe, Raub
 //{"coords": [], "date": "2026-05-22"} // Versuchter Einbruchdiebstahl Mutterstadt, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-05-22"}, // Erfurt, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-05-22"}, // Restaurant Ludwigsburg, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-05-22"}, // Krafträdern Duisburg, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-05-22"}, // Harsewinkelplatz Münster Münster, Diebstahl
+//{"coords": [], "date": "2026-05-22"} // Höhe, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-05-22"}, // Bahnhof Aalen, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-05-22"}, // Ulm, entwendet
+{"coords": [7.3333, 51.4333], "date": "2026-05-22"}, // Witten, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-05-22"}, // Freiburg, entwendet

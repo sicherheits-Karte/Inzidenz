@@ -16923,3 +16923,7 @@
 {"coords": [9.9916, 48.3984], "date": "2026-05-22"}, // Ulm, entwendet
 {"coords": [7.3333, 51.4333], "date": "2026-05-22"}, // Witten, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-05-22"}, // Freiburg, entwendet
+{"coords": [8.4311, 49.3194], "date": "2026-05-22"}, // Drogerie Speyer, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-05-22"}, // Reutlingen, Einbruch
+{"coords": [9.4, 47.7833], "date": "2026-05-22"}, // Bodenseekreis, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-05-22"}, // Polizeipräsidium Mannheim POL-MA, stehlen

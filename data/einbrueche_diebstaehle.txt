@@ -16906,3 +16906,12 @@
 //{"coords": [], "date": "2026-05-22"} // Roxheim, Raub
 {"coords": [8.8667, 51.9333], "date": "2026-05-22"}, // Lippe, Diebstahl
 {"coords": [8.8667, 51.9333], "date": "2026-05-22"}, // Lippe, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-05-22"}, // Untersuchungshaft Ludwigsburg, Räuber
+{"coords": [7.2, 51.6167], "date": "2026-05-22"}, // Recklinghausen, Raub
+{"coords": [8.3833, 51.9], "date": "2026-05-22"}, // Gütersloh, Einbruch
+{"coords": [6.6394, 50.8064], "date": "2026-05-22"}, // Zeugen Nörvenich, Einbruch
+//{"coords": [], "date": "2026-05-22"} // Brückrachdorf, Diebstahl
+{"coords": [8.75, 52.3333], "date": "2026-05-22"}, // Hille, Einbrüche
+//{"coords": [], "date": "2026-05-22"} // Letmathe, Raub
+//{"coords": [], "date": "2026-05-22"} // Versuchter Einbruchdiebstahl Mutterstadt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-05-22"}, // Erfurt, Diebstahl

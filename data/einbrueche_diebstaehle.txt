@@ -16898,3 +16898,11 @@
 //{"coords": [], "date": "2026-05-22"} // Dersum, Einbruch
 {"coords": [7.3194, 52.5236], "date": "2026-05-22"}, // Lingen, Einbruch
 {"coords": [8.6667, 49.9667], "date": "2026-05-22"}, // Egelsbach, Raub
+{"coords": [11.0767, 49.4521], "date": "2026-05-22"}, // Festnahme Nürnberg, Diebstahl
+{"coords": [8.4592, 49.6436], "date": "2026-05-22"}, // Zeugen Bürstadt, Einbruch
+{"coords": [10.2167, 50.7], "date": "2026-05-22"}, // Roßdorf, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-05-22"}, // Gartenlaube Coesfeld, Einbruch
+{"coords": [7.85, 51.6333], "date": "2026-05-22"}, // Rhynern, Einbruch
+//{"coords": [], "date": "2026-05-22"} // Roxheim, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-05-22"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-05-22"}, // Lippe, Einbruch

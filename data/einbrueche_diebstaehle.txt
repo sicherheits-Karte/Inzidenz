@@ -16945,3 +16945,13 @@
 {"coords": [8.8075, 53.075], "date": "2026-05-23"}, // Uhr-- Bremen, Raub
 {"coords": [8.8075, 53.075], "date": "2026-05-23"}, // Walle-- Bremen, Räuber
 {"coords": [8.4414, 50.0919], "date": "2026-05-23"}, // Hofheim, entwendet
+{"coords": [10.0, 51.7064], "date": "2026-05-23"}, // Schützenhaus Northeim, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-05-23"}, // Nordhausen, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-05-23"}, // Nordhausen, Einbruch
+{"coords": [10.5333, 51.4167], "date": "2026-05-23"}, // Sollstedt, Diebstahl
+//{"coords": [], "date": "2026-05-23"} // Fahrrad Hasborn, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-05-23"}, // Gartengeräten Wittlich, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-05-23"}, // Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-05-23"}, // Raub Frankfurt, Raub
+{"coords": [8.2833, 49.3667], "date": "2026-05-23"}, // Haßloch, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-05-23"}, // Emden, Einbruch

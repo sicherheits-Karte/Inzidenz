@@ -16961,3 +16961,4 @@
 {"coords": [9.95, 52.15], "date": "2026-05-23"}, // Strafverfahren Hildesheim, gestohlen
 //{"coords": [], "date": "2026-05-23"} // und Mummelsee zu einem alleinbeteiligten Unfall eines, Raub
 {"coords": [8.7917, 51.9917], "date": "2026-05-23"}, // einer hilflosen Lage befindet. Rückfragen bitte an, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-05-24"}, // Heilbronn angetroffen. Rückfragen bitte an, Raub

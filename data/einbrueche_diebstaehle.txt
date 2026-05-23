@@ -16933,3 +16933,12 @@
 {"coords": [7.5658, 51.4458], "date": "2026-05-23"}, // Schwerte, Diebstahl
 //{"coords": [], "date": "2026-05-23"} // Mehrfamilienhaus Holzwickede, Einbruch
 {"coords": [7.6889, 51.5347], "date": "2026-05-23"}, // Wohnhaus Unna, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-05-23"}, // Gebäudeschaden Warendorf, Einbruch
+{"coords": [8.5333, 48.0667], "date": "2026-05-23"}, // Schwenningen, Einbruch
+//{"coords": [], "date": "2026-05-23"} // Bad, Diebstahl
+//{"coords": [], "date": "2026-05-23"} // Kreis, Diebstahl
+{"coords": [8.4478, 49.3722], "date": "2026-05-23"}, // Otterstadt, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-05-23"}, // Speyer, Diebstahl
+{"coords": [8.0, 51.3333], "date": "2026-05-23"}, // Sundern, entwendet
+{"coords": [8.4311, 49.3194], "date": "2026-05-23"}, // Speyer, entwendet
+//{"coords": [], "date": "2026-05-23"} // Dudenhofen, Einbruch

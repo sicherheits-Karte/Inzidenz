@@ -16930,3 +16930,6 @@
 {"coords": [8.4353, 49.4811], "date": "2026-05-22"}, // Nachtragsmeldung Ludwigshafen, Räuber
 //{"coords": [], "date": "2026-05-22"} // Rettungshubschrauber, im Einsatz. Zum Unfallhergang oder etwaigen Verletzungen liegen bislang keine, Raub
 //{"coords": [], "date": "2026-05-23"} // POL-PDNR, gestohlen
+{"coords": [7.5658, 51.4458], "date": "2026-05-23"}, // Schwerte, Diebstahl
+//{"coords": [], "date": "2026-05-23"} // Mehrfamilienhaus Holzwickede, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2026-05-23"}, // Wohnhaus Unna, Einbruch

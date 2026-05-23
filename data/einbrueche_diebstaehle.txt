@@ -16942,3 +16942,6 @@
 {"coords": [8.0, 51.3333], "date": "2026-05-23"}, // Sundern, entwendet
 {"coords": [8.4311, 49.3194], "date": "2026-05-23"}, // Speyer, entwendet
 //{"coords": [], "date": "2026-05-23"} // Dudenhofen, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-05-23"}, // Uhr-- Bremen, Raub
+{"coords": [8.8075, 53.075], "date": "2026-05-23"}, // Walle-- Bremen, Räuber
+{"coords": [8.4414, 50.0919], "date": "2026-05-23"}, // Hofheim, entwendet

@@ -16929,3 +16929,4 @@
 {"coords": [8.4661, 49.4878], "date": "2026-05-22"}, // Polizeipräsidium Mannheim POL-MA, stehlen
 {"coords": [8.4353, 49.4811], "date": "2026-05-22"}, // Nachtragsmeldung Ludwigshafen, Räuber
 //{"coords": [], "date": "2026-05-22"} // Rettungshubschrauber, im Einsatz. Zum Unfallhergang oder etwaigen Verletzungen liegen bislang keine, Raub
+//{"coords": [], "date": "2026-05-23"} // POL-PDNR, gestohlen

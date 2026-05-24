@@ -16994,3 +16994,4 @@
 {"coords": [10.9147, 50.6856], "date": "2026-05-24"}, // Ilmenau Ilmenau, Diebstahl
 {"coords": [8.65, 49.3], "date": "2026-05-24"}, // Walldorf, Einbruch
 //{"coords": [], "date": "2026-05-24"} // Osthofen Osthofen, Raub
+{"coords": [7.9733, 51.1681], "date": "2026-05-24"}, // Jugendlichem Finnentrop, Raub

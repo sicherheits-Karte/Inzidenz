@@ -16975,3 +16975,8 @@
 {"coords": [8.1092, 51.5711], "date": "2026-05-24"}, // Umspannwerk Soest, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-05-24"}, // Nordhausen, Diebstahl
 //{"coords": [], "date": "2026-05-24"} // Bad, Diebstahl
+{"coords": [12.35, 51.0333], "date": "2026-05-24"}, // Meuselwitz, Diebstahl
+//{"coords": [], "date": "2026-05-24"} // Schmölln, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-05-24"}, // Ladendiebstahl Heidekreis, Diebstahl
+//{"coords": [], "date": "2026-05-24"} // Kein Ort gefunden, Einbruch
+{"coords": [7.5792, 50.4267], "date": "2026-05-24"}, // Bendorf, Diebstahl

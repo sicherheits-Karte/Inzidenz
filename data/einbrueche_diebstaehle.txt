@@ -16967,3 +16967,11 @@
 {"coords": [7.1, 51.5167], "date": "2026-05-24"}, // Kinderheim Gelsenkirchen, Raub
 {"coords": [7.1, 51.5167], "date": "2026-05-24"}, // Bahnhofsvorplatz Gelsenkirchen, Raub
 //{"coords": [], "date": "2026-05-24"} // Zeugen Lähden, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-05-24"}, // Speyer, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-05-24"}, // Speyer, Einbruch
+{"coords": [8.0722, 49.5608], "date": "2026-05-24"}, // Gewerbegebiet Eisenberg, Einbruch
+//{"coords": [], "date": "2026-05-24"} // Bus Bad Driburg, Diebstahl
+{"coords": [8.3333, 51.35], "date": "2026-05-24"}, // Motorradfahrer Bestwig, Raub
+{"coords": [8.1092, 51.5711], "date": "2026-05-24"}, // Umspannwerk Soest, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-05-24"}, // Nordhausen, Diebstahl
+//{"coords": [], "date": "2026-05-24"} // Bad, Diebstahl

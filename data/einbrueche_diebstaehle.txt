@@ -16989,3 +16989,5 @@
 {"coords": [9.0817, 52.1906], "date": "2026-05-24"}, // Rinteln Rinteln, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2026-05-24"}, // Kennzeichendiebstahl Limburg, Diebstahl
 //{"coords": [], "date": "2026-05-24"} // Rhens, entwendet
+{"coords": [7.0608, 49.4975], "date": "2026-05-24"}, // Alsweiler Alsweiler, aufbruch
+{"coords": [9.95, 52.15], "date": "2026-05-24"}, // Zeugenaufruf Hildesheim, Einbruch

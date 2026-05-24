@@ -16980,3 +16980,7 @@
 {"coords": [9.9333, 52.9667], "date": "2026-05-24"}, // Ladendiebstahl Heidekreis, Diebstahl
 //{"coords": [], "date": "2026-05-24"} // Kein Ort gefunden, Einbruch
 {"coords": [7.5792, 50.4267], "date": "2026-05-24"}, // Bendorf, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-05-24"}, // Osterholz, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-05-24"}, // Greiz, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-05-24"}, // Pfefferpistole Frankfurt, Räuber
+{"coords": [8.6822, 50.1106], "date": "2026-05-24"}, // Frankfurt, Raub

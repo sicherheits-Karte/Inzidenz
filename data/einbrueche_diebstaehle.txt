@@ -16962,3 +16962,8 @@
 //{"coords": [], "date": "2026-05-23"} // und Mummelsee zu einem alleinbeteiligten Unfall eines, Raub
 {"coords": [8.7917, 51.9917], "date": "2026-05-23"}, // einer hilflosen Lage befindet. Rückfragen bitte an, Raub
 {"coords": [9.2108, 49.1425], "date": "2026-05-24"}, // Heilbronn angetroffen. Rückfragen bitte an, Raub
+//{"coords": [], "date": "2026-05-24"} // Lösnich, Diebstahl
+{"coords": [8.1128, 49.1994], "date": "2026-05-24"}, // Landau, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-05-24"}, // Kinderheim Gelsenkirchen, Raub
+{"coords": [7.1, 51.5167], "date": "2026-05-24"}, // Bahnhofsvorplatz Gelsenkirchen, Raub
+//{"coords": [], "date": "2026-05-24"} // Zeugen Lähden, Einbruch

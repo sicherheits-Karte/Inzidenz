@@ -17008,3 +17008,10 @@
 {"coords": [7.0333, 52.2167], "date": "2026-05-25"}, // Schmuck Gronau, Einbrüche
 {"coords": [7.0667, 52.1], "date": "2026-05-25"}, // Heek, entwendet
 //{"coords": [], "date": "2026-05-25"} // Kein Ort gefunden, gestohlen
+{"coords": [10.8978, 48.3705], "date": "2026-05-25"}, // Ladendiebstahl Augsburg, Diebstahl
+{"coords": [7.9733, 51.1681], "date": "2026-05-25"}, // Person Finnentrop, Raub
+{"coords": [8.35, 49.5333], "date": "2026-05-25"}, // Zeugen Frankenthal, Einbrüche
+{"coords": [8.35, 49.5333], "date": "2026-05-25"}, // Beregnungsanlagen Frankenthal, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-05-25"}, // Diebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2026-05-25"} // Wied, Raub
+{"coords": [8.35, 49.5333], "date": "2026-05-25"}, // Kraftfahrzeugen Frankenthal, Einbrecher

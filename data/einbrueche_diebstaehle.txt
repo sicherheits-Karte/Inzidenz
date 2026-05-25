@@ -17015,3 +17015,4 @@
 {"coords": [6.8889, 49.9858], "date": "2026-05-25"}, // Diebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2026-05-25"} // Wied, Raub
 {"coords": [8.35, 49.5333], "date": "2026-05-25"}, // Kraftfahrzeugen Frankenthal, Einbrecher
+{"coords": [9.95, 52.15], "date": "2026-05-25"}, // Pkw Hildesheim, Diebstahl

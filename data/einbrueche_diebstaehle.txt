@@ -16995,3 +16995,9 @@
 {"coords": [8.65, 49.3], "date": "2026-05-24"}, // Walldorf, Einbruch
 //{"coords": [], "date": "2026-05-24"} // Osthofen Osthofen, Raub
 {"coords": [7.9733, 51.1681], "date": "2026-05-24"}, // Jugendlichem Finnentrop, Raub
+{"coords": [9.1753, 47.6633], "date": "2026-05-25"}, // Konstanz, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-05-25"}, // Zeugen Lingen, Einbruch
+{"coords": [9.6403, 47.8061], "date": "2026-05-25"}, // Abwesenheit der Bewohner in ein Einfamilienhaus in der Schloßgasse in Weingarten ein und entwendeten unter anderem Bargeld. Die genaue Schadenssumme ist derzeit unbekannt. Hinweise, insbesondere zu verdächtigen, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-05-25"}, // Zeugen Meppen, Einbruch
+{"coords": [7.4044, 53.0772], "date": "2026-05-25"}, // Zeugen Papenburg, Einbruch
+//{"coords": [], "date": "2026-05-25"} // Höhe, Einbruch

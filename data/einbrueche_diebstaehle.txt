@@ -17001,3 +17001,10 @@
 {"coords": [7.2908, 52.6906], "date": "2026-05-25"}, // Zeugen Meppen, Einbruch
 {"coords": [7.4044, 53.0772], "date": "2026-05-25"}, // Zeugen Papenburg, Einbruch
 //{"coords": [], "date": "2026-05-25"} // Höhe, Einbruch
+{"coords": [8.9167, 50.1833], "date": "2026-05-25"}, // Bruchköbel, eingebrochen
+{"coords": [7.82, 47.99], "date": "2026-05-25"}, // Freiburg, Diebstahl
+{"coords": [10.0831, 52.6247], "date": "2026-05-25"}, // Uhr Landkreis Celle, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-05-25"}, // Reutlingen, Einbrecher
+{"coords": [7.0333, 52.2167], "date": "2026-05-25"}, // Schmuck Gronau, Einbrüche
+{"coords": [7.0667, 52.1], "date": "2026-05-25"}, // Heek, entwendet
+//{"coords": [], "date": "2026-05-25"} // Kein Ort gefunden, gestohlen

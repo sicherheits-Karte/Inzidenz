@@ -17040,3 +17040,5 @@
 {"coords": [8.6833, 50.5833], "date": "2026-05-26"}, // Giessen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-05-26"}, // Verkaufsstand Freiburg, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-05-26"}, // Ludwigsburg, Diebstahl
+{"coords": [8.7758, 50.0106], "date": "2026-05-26"}, // Tatverdächtigen Dietzenbach, Raub
+//{"coords": [], "date": "2026-05-26"} // Zeugenaufruf Bogel, Diebstahl

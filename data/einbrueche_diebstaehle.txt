@@ -17016,3 +17016,8 @@
 //{"coords": [], "date": "2026-05-25"} // Wied, Raub
 {"coords": [8.35, 49.5333], "date": "2026-05-25"}, // Kraftfahrzeugen Frankenthal, Einbrecher
 {"coords": [9.95, 52.15], "date": "2026-05-25"}, // Pkw Hildesheim, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-05-26"}, // Unfallflucht Aalen, Diebstahl
+//{"coords": [], "date": "2026-05-26"} // Zeugen Rodgau, Raub
+{"coords": [7.2908, 52.6906], "date": "2026-05-26"}, // Zeugen Meppen, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-05-26"}, // Meppen, Einbruch
+//{"coords": [], "date": "2026-05-26"} // Weidezaungerätes Neroth, Diebstahl

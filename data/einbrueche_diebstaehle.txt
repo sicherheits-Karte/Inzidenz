@@ -17021,3 +17021,16 @@
 {"coords": [7.2908, 52.6906], "date": "2026-05-26"}, // Zeugen Meppen, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2026-05-26"}, // Meppen, Einbruch
 //{"coords": [], "date": "2026-05-26"} // Weidezaungerätes Neroth, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-05-26"}, // Zeugen Karlsruhe, Raub
+{"coords": [8.2869, 52.7303], "date": "2026-05-26"}, // Vechta, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-05-26"}, // Zeugen Homberg, entwendet
+{"coords": [8.2869, 52.7303], "date": "2026-05-26"}, // Vechta, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-05-26"}, // Mitte, Einbruch
+{"coords": [6.3319, 51.5194], "date": "2026-05-26"}, // Zeugen Geldern, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-05-26"}, // Bargeld Coesfeld, Dieb
+{"coords": [7.2, 51.6167], "date": "2026-05-26"}, // Recklinghausen, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-05-26"}, // Coesfeld, entwendet
+{"coords": [8.0472, 52.2799], "date": "2026-05-26"}, // Hinweise Osnabrück, Diebstahl
+{"coords": [11.7667, 51.8333], "date": "2026-05-26"}, // Nienburg, Diebstahl
+//{"coords": [], "date": "2026-05-26"} // Hartefeld, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-05-26"}, // Ahrensburger Bahnhof Ratzeburg, Raub

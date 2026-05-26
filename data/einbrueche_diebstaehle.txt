@@ -17034,3 +17034,9 @@
 {"coords": [11.7667, 51.8333], "date": "2026-05-26"}, // Nienburg, Diebstahl
 //{"coords": [], "date": "2026-05-26"} // Hartefeld, Einbruch
 {"coords": [10.75, 53.7], "date": "2026-05-26"}, // Ahrensburger Bahnhof Ratzeburg, Raub
+//{"coords": [], "date": "2026-05-26"} // POL-PDNR, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-05-26"}, // Rottenburg Reutlingen, Einbruch
+//{"coords": [], "date": "2026-05-26"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-05-26"}, // Giessen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-05-26"}, // Verkaufsstand Freiburg, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-05-26"}, // Ludwigsburg, Diebstahl

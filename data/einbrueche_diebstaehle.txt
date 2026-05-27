@@ -17057,3 +17057,11 @@
 {"coords": [8.0472, 52.2799], "date": "2026-05-27"}, // Zeugen Osnabrück, Einbruch
 {"coords": [10.0528, 51.1889], "date": "2026-05-27"}, // Eschwege, Einbruch
 {"coords": [8.65, 49.3], "date": "2026-05-27"}, // Walldorf, Dieb
+{"coords": [8.5333, 48.0667], "date": "2026-05-27"}, // Schwenningen, Einbruch
+{"coords": [6.8139, 50.9147], "date": "2026-05-27"}, // Einbrecher Frechen, Einbrecher
+{"coords": [7.215, 51.1397], "date": "2026-05-27"}, // Tatverdächtigen Wermelskirchen, gestohlen
+{"coords": [8.2167, 48.7833], "date": "2026-05-27"}, // Oos, Einbruch
+//{"coords": [], "date": "2026-05-27"} // Visier Krimineller, Dieb
+{"coords": [10.7183, 50.9489], "date": "2026-05-27"}, // Zeugensuche Gotha, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-05-27"}, // Gotha, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-05-27"}, // Einbrüche Aalen, Einbruch

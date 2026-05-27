@@ -17042,3 +17042,6 @@
 {"coords": [9.1919, 48.8975], "date": "2026-05-26"}, // Ludwigsburg, Diebstahl
 {"coords": [8.7758, 50.0106], "date": "2026-05-26"}, // Tatverdächtigen Dietzenbach, Raub
 //{"coords": [], "date": "2026-05-26"} // Zeugenaufruf Bogel, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-05-27"}, // Northeim, entwendet
+//{"coords": [], "date": "2026-05-27"} // Hinweise Bingen, Raub
+{"coords": [7.5336, 52.1728], "date": "2026-05-27"}, // Emsdetten, Raub

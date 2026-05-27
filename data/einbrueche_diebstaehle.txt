@@ -17065,3 +17065,13 @@
 {"coords": [10.7183, 50.9489], "date": "2026-05-27"}, // Zeugensuche Gotha, entwendet
 {"coords": [10.7183, 50.9489], "date": "2026-05-27"}, // Gotha, entwendet
 {"coords": [10.0936, 48.8372], "date": "2026-05-27"}, // Einbrüche Aalen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-05-27"}, // Mutmaßliches Sexualdelikt Reutlingen, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-05-27"}, // Lüneburg, Diebstahl
+//{"coords": [], "date": "2026-05-27"} // Bork Selm, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2026-05-27"}, // Zeugenaufruf Heidelberg, Einbruch
+//{"coords": [], "date": "2026-05-27"} // Kreis, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2026-05-27"}, // Landkreis Aurich, Einbruch
+//{"coords": [], "date": "2026-05-27"} // Kirchgandern, entwendet
+{"coords": [8.6833, 50.5833], "date": "2026-05-27"}, // Giessen, Einbruch
+//{"coords": [], "date": "2026-05-27"} // Krankenfahrstuhl Bad Gandersheim, Diebstahl
+//{"coords": [], "date": "2026-05-27"} // Raubdelikt Schöppingen, Raub

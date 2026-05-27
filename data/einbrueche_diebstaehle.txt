@@ -17075,3 +17075,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-05-27"}, // Giessen, Einbruch
 //{"coords": [], "date": "2026-05-27"} // Krankenfahrstuhl Bad Gandersheim, Diebstahl
 //{"coords": [], "date": "2026-05-27"} // Raubdelikt Schöppingen, Raub
+//{"coords": [], "date": "2026-05-27"} // Einsatz Birstein, Raub

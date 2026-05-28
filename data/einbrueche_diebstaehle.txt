@@ -17076,3 +17076,7 @@
 //{"coords": [], "date": "2026-05-27"} // Krankenfahrstuhl Bad Gandersheim, Diebstahl
 //{"coords": [], "date": "2026-05-27"} // Raubdelikt Schöppingen, Raub
 //{"coords": [], "date": "2026-05-27"} // Einsatz Birstein, Raub
+{"coords": [6.9667, 51.2333], "date": "2026-05-28"}, // Polizei Mettmann POL-ME, entwendet
+{"coords": [7.2839, 50.9328], "date": "2026-05-28"}, // Overath, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-05-28"}, // Zeugen Düren, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-05-28"}, // Trickbetrug Mainz, Diebstahl

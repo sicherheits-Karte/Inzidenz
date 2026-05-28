@@ -17080,3 +17080,14 @@
 {"coords": [7.2839, 50.9328], "date": "2026-05-28"}, // Overath, Einbruch
 {"coords": [6.4833, 50.8], "date": "2026-05-28"}, // Zeugen Düren, Einbruch
 {"coords": [8.2711, 50.0], "date": "2026-05-28"}, // Trickbetrug Mainz, Diebstahl
+{"coords": [7.9833, 50.5667], "date": "2026-05-28"}, // Polizeibeamter Westerburg, Einbrüche
+{"coords": [10.8, 53.4833], "date": "2026-05-28"}, // Juweliergeschäft Greven, Raub
+{"coords": [9.3833, 50.6333], "date": "2026-05-28"}, // Imbisswagen Vogelsbergkreis, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-05-28"}, // Bielefeld, Einbrecher
+{"coords": [8.6822, 50.1106], "date": "2026-05-28"}, // Straßenraub Frankfurt, Raub
+{"coords": [6.1333, 50.9167], "date": "2026-05-28"}, // Übach, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-05-28"}, // Zielrichtung Goldkette Frankfurt, Diebstahl
+//{"coords": [], "date": "2026-05-28"} // Kreis, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-05-28"}, // Zeugenaufruf Frankfurt, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-05-28"}, // Polizei Heilbronn, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-05-28"}, // Kreis Offenbach, entwendet

@@ -17097,3 +17097,4 @@
 {"coords": [8.4353, 49.4811], "date": "2026-05-28"}, // Polizeidirektion Ludwigshafen, Diebstahl
 {"coords": [11.4012, 53.6355], "date": "2026-05-28"}, // Schwerin Schwerin, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2026-05-28"}, // Münster, gestohlen
+{"coords": [7.5978, 50.3597], "date": "2026-05-28"}, // Koblenz, Diebstahl

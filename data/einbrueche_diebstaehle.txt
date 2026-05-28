@@ -17091,3 +17091,7 @@
 {"coords": [8.6822, 50.1106], "date": "2026-05-28"}, // Zeugenaufruf Frankfurt, Raub
 {"coords": [9.2108, 49.1425], "date": "2026-05-28"}, // Polizei Heilbronn, Einbruch
 {"coords": [8.7667, 50.1], "date": "2026-05-28"}, // Kreis Offenbach, entwendet
+//{"coords": [], "date": "2026-05-28"} // Scooter Annweiler, Diebstahl
+{"coords": [10.4, 53.25], "date": "2026-05-28"}, // Lüneburg, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-05-28"}, // Geschäft Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-05-28"}, // Polizeidirektion Ludwigshafen, Diebstahl

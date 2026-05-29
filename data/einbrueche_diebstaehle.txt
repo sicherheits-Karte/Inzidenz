@@ -17129,3 +17129,11 @@
 {"coords": [9.9158, 51.5413], "date": "2026-05-29"}, // Juni Göttingen, Diebstähle
 {"coords": [7.1675, 51.9436], "date": "2026-05-29"}, // Coesfeld, gestohlen
 {"coords": [10.3833, 51.0833], "date": "2026-05-29"}, // der Görmarstraße entwendet. Nach bisherigen Erkenntnissen gelangten die Täter auf das Grundstück und entwendeten aus einer nicht verschlossen Garage den abgestellten Rollator. Anschließend entfernten sie sich in unbekannte Richtung. Beamte der Polizeiinspektion Unstrut Hainich leiteten, entwendet
+{"coords": [9.8667, 51.8167], "date": "2026-05-29"}, // Fahrraddiebstahl Einbeck, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-05-29"}, // Einbeck, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-05-29"}, // Bantelner Bahnhof Hildesheim, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-05-29"}, // Einbeck, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-05-29"}, // Einbeck, entwendet
+{"coords": [7.7689, 49.4447], "date": "2026-05-29"}, // Kaiserslautern, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-05-29"}, // Raub Reutlingen, Raub
+//{"coords": [], "date": "2026-05-29"} // Bad Driburg, stahl

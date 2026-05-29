@@ -17119,3 +17119,13 @@
 {"coords": [10.2333, 49.5333], "date": "2026-05-29"}, // Uffenheim, entwendet
 //{"coords": [], "date": "2026-05-29"} // Kreis, Einbrecher
 {"coords": [7.2, 51.6167], "date": "2026-05-29"}, // Einbrecherinnen Recklinghausen, Einbrecher
+//{"coords": [], "date": "2026-05-29"} // Grundstücksauffahrt entwendet, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-05-29"}, // Sachbeschädigung Heilbronn, Einbruch
+{"coords": [8.705, 48.895], "date": "2026-05-29"}, // Pforzheim, Diebstahl
+{"coords": [9.55, 49.3167], "date": "2026-05-29"}, // Verkehrsunfall Hohenlohekreis, Einbrüche
+//{"coords": [], "date": "2026-05-29"} // Kreis, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-05-29"}, // Ludwigsburg, Diebstahl
+{"coords": [10.75, 53.7], "date": "2026-05-29"}, // Ratzeburg, Dieb
+{"coords": [9.9158, 51.5413], "date": "2026-05-29"}, // Juni Göttingen, Diebstähle
+{"coords": [7.1675, 51.9436], "date": "2026-05-29"}, // Coesfeld, gestohlen
+{"coords": [10.3833, 51.0833], "date": "2026-05-29"}, // der Görmarstraße entwendet. Nach bisherigen Erkenntnissen gelangten die Täter auf das Grundstück und entwendeten aus einer nicht verschlossen Garage den abgestellten Rollator. Anschließend entfernten sie sich in unbekannte Richtung. Beamte der Polizeiinspektion Unstrut Hainich leiteten, entwendet

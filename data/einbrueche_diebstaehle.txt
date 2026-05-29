@@ -17099,3 +17099,15 @@
 {"coords": [8.8678, 49.9228], "date": "2026-05-28"}, // Münster, gestohlen
 {"coords": [7.5978, 50.3597], "date": "2026-05-28"}, // Koblenz, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-05-29"}, // Sottrum Hildesheim, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-05-29"}, // Ort Dortmund, stahl
+//{"coords": [], "date": "2026-05-29"} // Bergheim, Raub
+{"coords": [7.82, 47.99], "date": "2026-05-29"}, // Freiburg, Dieb
+{"coords": [8.1128, 49.1994], "date": "2026-05-29"}, // Landau, Einbruch
+{"coords": [10.6866, 53.8655], "date": "2026-05-29"}, // Zeugen Lübeck, Einbruch
+//{"coords": [], "date": "2026-05-29"} // Manebach, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-05-29"}, // Mitte, gestohlen
+//{"coords": [], "date": "2026-05-29"} // Kein Ort gefunden, entwendet
+{"coords": [7.3194, 52.5236], "date": "2026-05-29"}, // Wohnungen Lingen, Einbruch
+//{"coords": [], "date": "2026-05-29"} // Laar, Diebstahl
+{"coords": [6.9667, 52.5], "date": "2026-05-29"}, // Neuenhaus, Diebstahl
+//{"coords": [], "date": "2026-05-29"} // Weimarer Land, Diebstahl

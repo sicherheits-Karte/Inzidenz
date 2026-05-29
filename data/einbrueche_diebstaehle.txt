@@ -17111,3 +17111,11 @@
 //{"coords": [], "date": "2026-05-29"} // Laar, Diebstahl
 {"coords": [6.9667, 52.5], "date": "2026-05-29"}, // Neuenhaus, Diebstahl
 //{"coords": [], "date": "2026-05-29"} // Weimarer Land, Diebstahl
+{"coords": [10.5833, 49.3], "date": "2026-05-29"}, // Ansbach, Raub
+{"coords": [8.24, 50.0822], "date": "2026-05-29"}, // Wiesbaden, gestohlen
+//{"coords": [], "date": "2026-05-29"} // Höhe, entwendet
+{"coords": [8.6833, 50.5833], "date": "2026-05-29"}, // Giessen, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2026-05-29"}, // Polizeipräsidium Offenburg POL-OG, Einbruch
+{"coords": [10.2333, 49.5333], "date": "2026-05-29"}, // Uffenheim, entwendet
+//{"coords": [], "date": "2026-05-29"} // Kreis, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2026-05-29"}, // Einbrecherinnen Recklinghausen, Einbrecher

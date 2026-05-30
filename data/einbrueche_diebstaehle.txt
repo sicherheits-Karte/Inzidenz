@@ -17137,3 +17137,4 @@
 {"coords": [7.7689, 49.4447], "date": "2026-05-29"}, // Kaiserslautern, Dieb
 {"coords": [9.2167, 48.4833], "date": "2026-05-29"}, // Raub Reutlingen, Raub
 //{"coords": [], "date": "2026-05-29"} // Bad Driburg, stahl
+//{"coords": [], "date": "2026-05-30"} // Wohnmobil Bad Gandersheim, Einbruch

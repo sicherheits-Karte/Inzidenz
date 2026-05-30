@@ -17146,3 +17146,8 @@
 {"coords": [7.9139, 51.5528], "date": "2026-05-30"}, // Wohnungsbrand Werl, Raub
 {"coords": [8.1128, 49.1994], "date": "2026-05-30"}, // Parkscheinautomat Landau, aufbruch
 {"coords": [8.6822, 50.1106], "date": "2026-05-30"}, // Frankfurt, Dieb
+{"coords": [8.875, 53.05], "date": "2026-05-30"}, // Osterholz, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-05-30"}, // Aalen, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-05-30"}, // Freiburg, aufbruch
+{"coords": [8.4353, 49.4811], "date": "2026-05-30"}, // Jugendliche Ludwigshafen, Raub
+{"coords": [7.82, 47.99], "date": "2026-05-30"}, // Freiburg, Einbruch

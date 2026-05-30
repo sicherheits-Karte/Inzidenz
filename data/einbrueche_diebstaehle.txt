@@ -17157,3 +17157,4 @@
 {"coords": [6.8889, 49.9858], "date": "2026-05-30"}, // Krankenhaus Wittlich, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-05-30"}, // Bus Wittlich, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-05-30"}, // Schule Wittlich, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-05-30"}, // Limburg, Diebstahl

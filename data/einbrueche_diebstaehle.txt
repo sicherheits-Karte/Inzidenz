@@ -17154,3 +17154,6 @@
 //{"coords": [], "date": "2026-05-30"} // Wartburgkreis, entwendet
 {"coords": [8.4414, 50.0919], "date": "2026-05-30"}, // Hofheim, Diebstahl
 {"coords": [8.2146, 53.1434], "date": "2026-05-30"}, // Oldenburg, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-05-30"}, // Krankenhaus Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-05-30"}, // Bus Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-05-30"}, // Schule Wittlich, Raub

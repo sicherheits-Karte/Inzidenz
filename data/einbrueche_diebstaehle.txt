@@ -17138,3 +17138,8 @@
 {"coords": [9.2167, 48.4833], "date": "2026-05-29"}, // Raub Reutlingen, Raub
 //{"coords": [], "date": "2026-05-29"} // Bad Driburg, stahl
 //{"coords": [], "date": "2026-05-30"} // Wohnmobil Bad Gandersheim, Einbruch
+//{"coords": [], "date": "2026-05-30"} // Surwold, gestohlen
+{"coords": [7.2061, 53.3669], "date": "2026-05-30"}, // Emden, Diebstahl
+{"coords": [10.45, 52.1667], "date": "2026-05-30"}, // Thiede, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-05-30"}, // Zeugen Erfurt, gestohlen
+{"coords": [10.7183, 50.9489], "date": "2026-05-30"}, // Gotha, Diebstahl

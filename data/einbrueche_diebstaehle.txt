@@ -17151,3 +17151,6 @@
 {"coords": [7.82, 47.99], "date": "2026-05-30"}, // Freiburg, aufbruch
 {"coords": [8.4353, 49.4811], "date": "2026-05-30"}, // Jugendliche Ludwigshafen, Raub
 {"coords": [7.82, 47.99], "date": "2026-05-30"}, // Freiburg, Einbruch
+//{"coords": [], "date": "2026-05-30"} // Wartburgkreis, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-05-30"}, // Hofheim, Diebstahl
+{"coords": [8.2146, 53.1434], "date": "2026-05-30"}, // Oldenburg, Diebstahl

@@ -17178,3 +17178,8 @@
 //{"coords": [], "date": "2026-05-31"} // Nacht, Diebstahl
 {"coords": [7.7806, 53.5769], "date": "2026-05-31"}, // Wittmund, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-05-31"}, // Kirche Augsburg, Diebstahl
+{"coords": [6.6594, 50.2228], "date": "2026-05-31"}, // Warenautomaten Gerolstein, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2026-05-31"}, // Nürnberg, Raub
+{"coords": [10.4, 53.25], "date": "2026-05-31"}, // Lüneburg, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-05-31"}, // Sudetenstraße Gronau, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-05-31"}, // Nürnberg, Einbruch

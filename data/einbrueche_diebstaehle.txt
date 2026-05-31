@@ -17183,3 +17183,5 @@
 {"coords": [10.4, 53.25], "date": "2026-05-31"}, // Lüneburg, Einbruch
 {"coords": [7.0333, 52.2167], "date": "2026-05-31"}, // Sudetenstraße Gronau, Einbruch
 {"coords": [11.0767, 49.4521], "date": "2026-05-31"}, // Nürnberg, Einbruch
+//{"coords": [], "date": "2026-05-31"} // Hubschrauber und Mantrailer-Hunde eingesetzt wurden, verliefen bislang erfolglos. Der Senior wurde zuletzt im Bereich des Bleiche-Parkplatzes gesichtet. Die Polizei schließt nicht aus, dass er sich, Raub
+{"coords": [8.3167, 49.3667], "date": "2026-05-31"}, // Iggelheim, Raub

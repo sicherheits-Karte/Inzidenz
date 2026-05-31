@@ -17171,3 +17171,10 @@
 {"coords": [8.24, 50.0822], "date": "2026-05-31"}, // Raub Wiesbaden, Raub
 {"coords": [8.1128, 49.1994], "date": "2026-05-31"}, // Mehrfamilienhaus Landau, Diebstahl
 {"coords": [9.4764, 53.6008], "date": "2026-05-31"}, // Apotheke Stade, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-05-31"}, // Limburg, gestohlen
+//{"coords": [], "date": "2026-05-31"} // Höhe, entwendet
+{"coords": [11.0911, 49.245], "date": "2026-05-31"}, // Roth, Raub
+{"coords": [8.6944, 53.8619], "date": "2026-05-31"}, // Untersuchungshaft Cuxhaven, Diebstahl
+//{"coords": [], "date": "2026-05-31"} // Nacht, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2026-05-31"}, // Wittmund, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-05-31"}, // Kirche Augsburg, Diebstahl

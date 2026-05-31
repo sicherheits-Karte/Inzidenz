@@ -17189,3 +17189,4 @@
 {"coords": [10.4278, 51.9042], "date": "2026-05-31"}, // Goslar, Diebstahl
 {"coords": [6.9333, 49.3], "date": "2026-05-31"}, // Diebstahl Riegelsberg, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-05-31"}, // Unwetter Erfurt, Einbrecher
+{"coords": [7.5, 50.5], "date": "2026-06-01"}, // Einbruchdiebstahl Rengsdorf, Einbruch

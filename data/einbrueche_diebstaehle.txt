@@ -17166,3 +17166,8 @@
 {"coords": [7.2061, 53.3669], "date": "2026-05-31"}, // Emden, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-05-31"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [7.6, 49.2], "date": "2026-05-31"}, // Supermarkt Pirmasens, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-05-31"}, // Aalen, Einbruch
+{"coords": [10.5333, 51.4167], "date": "2026-05-31"}, // Sollstedt, geklaut
+{"coords": [8.24, 50.0822], "date": "2026-05-31"}, // Raub Wiesbaden, Raub
+{"coords": [8.1128, 49.1994], "date": "2026-05-31"}, // Mehrfamilienhaus Landau, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-05-31"}, // Apotheke Stade, Einbruch

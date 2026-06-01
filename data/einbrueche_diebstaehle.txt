@@ -17197,3 +17197,8 @@
 //{"coords": [], "date": "2026-06-01"} // Gailingen, Dieb
 {"coords": [8.8403, 47.7592], "date": "2026-06-01"}, // Singen, Einbruch
 //{"coords": [], "date": "2026-06-01"} // Kork, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-06-01"}, // Nordhausen, entwendet
+{"coords": [10.3167, 51.4], "date": "2026-06-01"}, // Schulgelände Leinefelde, Einbruch
+{"coords": [11.3, 51.3667], "date": "2026-06-01"}, // Artern, entwendet
+//{"coords": [], "date": "2026-06-01"} // Wohnanhänger Bad Langensalza, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-06-01"}, // Büroräumlichkeiten Reutlingen, Einbruch

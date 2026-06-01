@@ -17192,3 +17192,8 @@
 {"coords": [7.5, 50.5], "date": "2026-06-01"}, // Einbruchdiebstahl Rengsdorf, Einbruch
 //{"coords": [], "date": "2026-06-01"} // Nackenheim, Einbruch
 {"coords": [9.1753, 47.6633], "date": "2026-06-01"}, // Person Konstanz, Raub
+{"coords": [6.2333, 51.5833], "date": "2026-06-01"}, // Zeugen Kevelaer, Einbruch
+{"coords": [9.0, 47.85], "date": "2026-06-01"}, // Stockach, Dieb
+//{"coords": [], "date": "2026-06-01"} // Gailingen, Dieb
+{"coords": [8.8403, 47.7592], "date": "2026-06-01"}, // Singen, Einbruch
+//{"coords": [], "date": "2026-06-01"} // Kork, Dieb

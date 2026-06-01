@@ -17190,3 +17190,5 @@
 {"coords": [6.9333, 49.3], "date": "2026-05-31"}, // Diebstahl Riegelsberg, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-05-31"}, // Unwetter Erfurt, Einbrecher
 {"coords": [7.5, 50.5], "date": "2026-06-01"}, // Einbruchdiebstahl Rengsdorf, Einbruch
+//{"coords": [], "date": "2026-06-01"} // Nackenheim, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-06-01"}, // Person Konstanz, Raub

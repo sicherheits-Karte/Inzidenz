@@ -17232,3 +17232,8 @@
 {"coords": [10.0528, 51.1889], "date": "2026-06-02"}, // Festnahme Eschwege, Dieb
 {"coords": [8.0472, 52.2799], "date": "2026-06-02"}, // Osnabrück, Dieb
 {"coords": [8.5331, 52.021], "date": "2026-06-02"}, // Werkzeuge Bielefeld, Einbrüche
+//{"coords": [], "date": "2026-06-02"} // Regelschule Kirchgandern, Einbrüche
+{"coords": [10.4333, 51.3667], "date": "2026-06-02"}, // Onlineverkaufsplattform Niederorschel, Diebstahl
+//{"coords": [], "date": "2026-06-02"} // Landkreis Verden, Raub
+{"coords": [9.1681, 48.8319], "date": "2026-06-02"}, // Zuffenhausen, eingebrochen
+//{"coords": [], "date": "2026-06-02"} // Tuttlingen, Einbruch

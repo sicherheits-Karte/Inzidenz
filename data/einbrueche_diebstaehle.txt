@@ -17211,3 +17211,5 @@
 {"coords": [10.7667, 51.1167], "date": "2026-06-01"}, // Windpark Großvargula, Diebstahl
 {"coords": [13.0819, 54.3092], "date": "2026-06-02"}, // Stralsund, Raub
 {"coords": [9.8667, 51.8167], "date": "2026-06-01"}, // Einbeck, Einbruch
+//{"coords": [], "date": "2026-06-02"} // Kreis, Diebstahl
+//{"coords": [], "date": "2026-06-02"} // Polizeihubschrauber eingesetzt. Es wird nachberichtet. Rückfragen bitte an, Raub

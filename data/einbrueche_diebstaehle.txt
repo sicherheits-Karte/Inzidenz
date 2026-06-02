@@ -17237,3 +17237,4 @@
 //{"coords": [], "date": "2026-06-02"} // Landkreis Verden, Raub
 {"coords": [9.1681, 48.8319], "date": "2026-06-02"}, // Zuffenhausen, eingebrochen
 //{"coords": [], "date": "2026-06-02"} // Tuttlingen, Einbruch
+//{"coords": [], "date": "2026-06-02"} // Dietersheim, Dieb

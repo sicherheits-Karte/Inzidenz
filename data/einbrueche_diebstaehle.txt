@@ -17213,3 +17213,16 @@
 {"coords": [9.8667, 51.8167], "date": "2026-06-01"}, // Einbeck, Einbruch
 //{"coords": [], "date": "2026-06-02"} // Kreis, Diebstahl
 //{"coords": [], "date": "2026-06-02"} // Polizeihubschrauber eingesetzt. Es wird nachberichtet. Rückfragen bitte an, Raub
+{"coords": [8.6306, 53.05], "date": "2026-06-02"}, // Delmenhorst, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-06-02"}, // Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-06-02"}, // Lippe, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-06-02"}, // Automatenaufbruch Delmenhorst, aufbruch
+{"coords": [7.2162, 51.4818], "date": "2026-06-02"}, // Drei Festnahmen Bochum, Einbruch
+{"coords": [7.65, 52.1833], "date": "2026-06-02"}, // Saerbeck, Diebstahl
+{"coords": [7.2128, 52.1444], "date": "2026-06-02"}, // Metelen, stahl
+{"coords": [8.3658, 49.6306], "date": "2026-06-02"}, // Präventionshinweise Worms, Diebstähle
+{"coords": [7.7156, 52.2778], "date": "2026-06-02"}, // Ibbenbüren, Einbruch
+{"coords": [8.5833, 49.8667], "date": "2026-06-02"}, // Griesheim, gestohlen
+{"coords": [8.3708, 52.6078], "date": "2026-06-02"}, // Diepholz, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-06-02"}, // Süd Dortmund, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-06-02"}, // Euskirchen, Diebstähle

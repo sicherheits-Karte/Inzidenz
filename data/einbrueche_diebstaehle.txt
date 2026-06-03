@@ -17239,3 +17239,4 @@
 //{"coords": [], "date": "2026-06-02"} // Tuttlingen, Einbruch
 //{"coords": [], "date": "2026-06-02"} // Dietersheim, Dieb
 {"coords": [9.8667, 51.8167], "date": "2026-06-02"}, // Einbeck, entwendet
+{"coords": [8.0, 51.45], "date": "2026-06-03"}, // Zeugen Arnsberg, entwendet

@@ -17240,3 +17240,15 @@
 //{"coords": [], "date": "2026-06-02"} // Dietersheim, Dieb
 {"coords": [9.8667, 51.8167], "date": "2026-06-02"}, // Einbeck, entwendet
 {"coords": [8.0, 51.45], "date": "2026-06-03"}, // Zeugen Arnsberg, entwendet
+{"coords": [10.5167, 50.5667], "date": "2026-06-03"}, // Grimmenthal, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-06-03"}, // Jade Delmenhorst, Einbruch
+{"coords": [9.6403, 47.8061], "date": "2026-06-03"}, // Weingarten, Raub
+{"coords": [9.6775, 50.5528], "date": "2026-06-03"}, // Fulda, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-06-03"}, // Bernhardstraße Oldenburg, Einbruch
+//{"coords": [], "date": "2026-06-03"} // Steineroth, Diebstahl
+//{"coords": [], "date": "2026-06-03"} // Kriminalpolizeibeamten Kreuzau, Einbrüche
+//{"coords": [], "date": "2026-06-03"} // Kreis, Einbrecher
+//{"coords": [], "date": "2026-06-03"} // Heckenbrand Winsen, Dieb
+//{"coords": [], "date": "2026-06-03"} // Kreis, Einbruch
+//{"coords": [], "date": "2026-06-03"} // Wassertrüdingen, entwendet
+{"coords": [9.9158, 51.5413], "date": "2026-06-03"}, // Göttingen, Dieb

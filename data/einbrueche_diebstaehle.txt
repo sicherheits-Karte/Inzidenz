@@ -17252,3 +17252,8 @@
 //{"coords": [], "date": "2026-06-03"} // Kreis, Einbruch
 //{"coords": [], "date": "2026-06-03"} // Wassertrüdingen, entwendet
 {"coords": [9.9158, 51.5413], "date": "2026-06-03"}, // Göttingen, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-06-03"}, // Keller Nordhausen, eingebrochen
+{"coords": [9.5164, 53.925], "date": "2026-06-03"}, // Zeugen Itzehoe, aufbrüche
+{"coords": [9.5, 51.3167], "date": "2026-06-03"}, // Mittäter Kassel, Dieb
+{"coords": [8.4661, 49.4878], "date": "2026-06-03"}, // Zeugenaufruf Mannheim, Raub
+{"coords": [6.4333, 51.2], "date": "2026-06-03"}, // Mönchengladbach, Diebstähle

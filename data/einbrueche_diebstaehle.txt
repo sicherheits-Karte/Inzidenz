@@ -17257,3 +17257,10 @@
 {"coords": [9.5, 51.3167], "date": "2026-06-03"}, // Mittäter Kassel, Dieb
 {"coords": [8.4661, 49.4878], "date": "2026-06-03"}, // Zeugenaufruf Mannheim, Raub
 {"coords": [6.4333, 51.2], "date": "2026-06-03"}, // Mönchengladbach, Diebstähle
+{"coords": [8.3833, 51.9], "date": "2026-06-03"}, // Gütersloh Gütersloh, Raub
+{"coords": [7.9833, 51.95], "date": "2026-06-03"}, // Warendorf, gestohlen
+{"coords": [10.7956, 51.5019], "date": "2026-06-03"}, // Autohaus Nordhausen, Diebstahl
+{"coords": [8.2833, 51.35], "date": "2026-06-03"}, // Meschede, entwendet
+{"coords": [10.8708, 51.3697], "date": "2026-06-03"}, // Diebstahl Sondershausen, Diebstahl
+{"coords": [10.135, 51.3783], "date": "2026-06-03"}, // Einbrechern Heilbad Heiligenstadt, eingebrochen
+{"coords": [10.8708, 51.3697], "date": "2026-06-03"}, // Bedienstetenparkplatz Sondershausen, entwendet

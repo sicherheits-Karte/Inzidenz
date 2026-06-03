@@ -17264,3 +17264,4 @@
 {"coords": [10.8708, 51.3697], "date": "2026-06-03"}, // Diebstahl Sondershausen, Diebstahl
 {"coords": [10.135, 51.3783], "date": "2026-06-03"}, // Einbrechern Heilbad Heiligenstadt, eingebrochen
 {"coords": [10.8708, 51.3697], "date": "2026-06-03"}, // Bedienstetenparkplatz Sondershausen, entwendet
+{"coords": [12.0991, 54.0924], "date": "2026-06-04"}, // Rostock Rostock, Raub

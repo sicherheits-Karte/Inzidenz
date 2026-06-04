@@ -17291,3 +17291,8 @@
 {"coords": [9.8833, 53.3333], "date": "2026-06-04"}, // Buchholz, gestohlen
 //{"coords": [], "date": "2026-06-04"} // Elbe Hollenstedt, Einbrecher
 {"coords": [6.85, 52.6167], "date": "2026-06-04"}, // Zeugen Emlichheim, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-06-04"}, // Verkaufsbüdchen Coesfeld, Einbruch
+{"coords": [8.0167, 49.6667], "date": "2026-06-04"}, // Anrufen Kirchheimbolanden, Einbrecher
+//{"coords": [], "date": "2026-06-04"} // Odernheim, Dieb
+{"coords": [9.95, 52.15], "date": "2026-06-04"}, // Unfallflucht Hildesheim, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-06-04"}, // Sarstedt Hildesheim, Einbruch

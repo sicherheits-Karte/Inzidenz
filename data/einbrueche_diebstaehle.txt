@@ -17265,3 +17265,13 @@
 {"coords": [10.135, 51.3783], "date": "2026-06-03"}, // Einbrechern Heilbad Heiligenstadt, eingebrochen
 {"coords": [10.8708, 51.3697], "date": "2026-06-03"}, // Bedienstetenparkplatz Sondershausen, entwendet
 {"coords": [12.0991, 54.0924], "date": "2026-06-04"}, // Rostock Rostock, Raub
+{"coords": [12.1997, 50.6544], "date": "2026-06-04"}, // Greiz, gestohlen
+{"coords": [7.1, 51.5167], "date": "2026-06-04"}, // Gelsenkirchen, gestohlen
+{"coords": [9.4764, 53.6008], "date": "2026-06-04"}, // Bahnhofsbäckerei Stade, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-06-04"}, // Altenburg, Einbruch
+{"coords": [10.0, 53.7833], "date": "2026-06-04"}, // Ulzburg Neumünster, Einbrüche
+{"coords": [12.0799, 50.8772], "date": "2026-06-04"}, // Gera, Dieb
+//{"coords": [], "date": "2026-06-04"} // Kein Ort gefunden, entwendet
+{"coords": [9.1417, 53.8958], "date": "2026-06-04"}, // Brunsbüttel, Diebstahl
+//{"coords": [], "date": "2026-06-04"} // Ortstafel Kleinlangenfeld, Diebstahl
+{"coords": [8.4167, 49.4], "date": "2026-06-04"}, // Limburgerhof, Diebstahl

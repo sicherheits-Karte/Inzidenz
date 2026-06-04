@@ -17286,3 +17286,8 @@
 {"coords": [7.25, 52.6167], "date": "2026-06-04"}, // Zeugen Geeste, Diebstahl
 {"coords": [8.3094, 49.1239], "date": "2026-06-04"}, // Hördt, Raub
 {"coords": [12.0991, 54.0924], "date": "2026-06-04"}, // Landkreis Rostock, Diebstahl
+//{"coords": [], "date": "2026-06-04"} // Heuthen Heuthen, Diebstahl
+//{"coords": [], "date": "2026-06-04"} // Nieder Ochtenhausen, Einbruch
+{"coords": [9.8833, 53.3333], "date": "2026-06-04"}, // Buchholz, gestohlen
+//{"coords": [], "date": "2026-06-04"} // Elbe Hollenstedt, Einbrecher
+{"coords": [6.85, 52.6167], "date": "2026-06-04"}, // Zeugen Emlichheim, Diebstahl

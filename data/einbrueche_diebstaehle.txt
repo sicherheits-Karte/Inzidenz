@@ -17275,3 +17275,14 @@
 {"coords": [9.1417, 53.8958], "date": "2026-06-04"}, // Brunsbüttel, Diebstahl
 //{"coords": [], "date": "2026-06-04"} // Ortstafel Kleinlangenfeld, Diebstahl
 {"coords": [8.4167, 49.4], "date": "2026-06-04"}, // Limburgerhof, Diebstahl
+{"coords": [11.9, 49.95], "date": "2026-06-04"}, // Brand Heidekreis, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-06-04"}, // Erfurt, stahl
+{"coords": [11.0299, 50.9848], "date": "2026-06-04"}, // Erfurt, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-06-04"}, // Kennzeichentafeln Erfurt, Diebstahl
+{"coords": [12.0991, 54.0924], "date": "2026-06-04"}, // Rostock, Diebstahl
+{"coords": [9.8167, 53.65], "date": "2026-06-04"}, // Zeugen Rellingen, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2026-06-04"}, // Landkreis Aurich, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-06-04"}, // Wiesbaden, Diebstahl
+{"coords": [7.25, 52.6167], "date": "2026-06-04"}, // Zeugen Geeste, Diebstahl
+{"coords": [8.3094, 49.1239], "date": "2026-06-04"}, // Hördt, Raub
+{"coords": [12.0991, 54.0924], "date": "2026-06-04"}, // Landkreis Rostock, Diebstahl

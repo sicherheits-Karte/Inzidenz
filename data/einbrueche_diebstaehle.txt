@@ -17329,3 +17329,4 @@
 {"coords": [8.705, 48.895], "date": "2026-06-05"}, // Pforzheim, Diebstähle
 //{"coords": [], "date": "2026-06-05"} // Süd, Raub
 {"coords": [9.1919, 48.8975], "date": "2026-06-05"}, // Sporthalle Ludwigsburg, Einbruch
+{"coords": [7.2167, 49.8833], "date": "2026-06-05"}, // Hochscheid, Diebstahl

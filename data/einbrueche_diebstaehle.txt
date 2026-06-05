@@ -17322,3 +17322,10 @@
 {"coords": [11.4653, 53.8925], "date": "2026-06-05"}, // Zeugen Wismar, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-06-05"}, // Freiburg, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2026-06-05"}, // Hinweise Bonn, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-06-05"}, // Kindertagesstätten Hildesheim, Einbrüche
+{"coords": [9.95, 52.15], "date": "2026-06-05"}, // Stadtgebiet Sarstedt Hildesheim, Diebstähle
+{"coords": [7.4653, 51.5136], "date": "2026-06-05"}, // Dortmund, Einbrüche
+{"coords": [9.2, 49.4], "date": "2026-06-05"}, // Neckar, gestohlen
+{"coords": [8.705, 48.895], "date": "2026-06-05"}, // Pforzheim, Diebstähle
+//{"coords": [], "date": "2026-06-05"} // Süd, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-06-05"}, // Sporthalle Ludwigsburg, Einbruch

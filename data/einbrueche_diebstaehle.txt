@@ -17309,3 +17309,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-06-05"}, // Pkw Aalen, Einbruch
 {"coords": [8.0, 51.45], "date": "2026-06-05"}, // Herdringer Industriegebiet Arnsberg, Einbruch
 //{"coords": [], "date": "2026-06-05"} // Zeugen Hilkenbrook, Diebstahl
+//{"coords": [], "date": "2026-06-05"} // in der Kollweilerstraße einzudringen. Ein Hausbewohner wurde gegen, Einbrecher
+//{"coords": [], "date": "2026-06-05"} // Großmaischeid, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-06-05"}, // Mitte, Raub
+{"coords": [8.3708, 52.6078], "date": "2026-06-05"}, // Kompletträderdiebstahl Diepholz, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-06-05"}, // Wohnungseinbruch Reutlingen, Einbruch
+//{"coords": [], "date": "2026-06-05"} // Kreis, gestohlen

@@ -17297,3 +17297,4 @@
 {"coords": [9.95, 52.15], "date": "2026-06-04"}, // Unfallflucht Hildesheim, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-06-04"}, // Sarstedt Hildesheim, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-06-04"}, // Einbruch Coesfeld, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-06-05"}, // Bartholomä Aalen, Einbruch

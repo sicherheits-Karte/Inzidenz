@@ -17298,3 +17298,14 @@
 {"coords": [9.95, 52.15], "date": "2026-06-04"}, // Sarstedt Hildesheim, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-06-04"}, // Einbruch Coesfeld, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-06-05"}, // Bartholomä Aalen, Einbruch
+//{"coords": [], "date": "2026-06-05"} // Kein Ort gefunden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-06-05"}, // Einbrüche Aalen, Einbrüche
+{"coords": [8.0, 51.45], "date": "2026-06-05"}, // Arnsberg, entwendet
+{"coords": [7.0667, 52.4333], "date": "2026-06-05"}, // Zeugen Nordhorn, Diebstahl
+//{"coords": [], "date": "2026-06-05"} // Freren, Einbruch
+//{"coords": [], "date": "2026-06-05"} // Zeugen Surwold, Diebstahl
+{"coords": [8.0, 51.45], "date": "2026-06-05"}, // Arnsberg Arnsberg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-06-05"}, // Ford Erfurt, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-06-05"}, // Pkw Aalen, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-06-05"}, // Herdringer Industriegebiet Arnsberg, Einbruch
+//{"coords": [], "date": "2026-06-05"} // Zeugen Hilkenbrook, Diebstahl

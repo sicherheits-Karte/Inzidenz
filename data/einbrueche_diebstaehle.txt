@@ -17357,3 +17357,5 @@
 {"coords": [8.0667, 50.3833], "date": "2026-06-06"}, // Fahrradweg Limburg, Diebstahl
 {"coords": [6.4333, 50.2], "date": "2026-06-06"}, // Prüm, Einbruch
 //{"coords": [], "date": "2026-06-06"} // Bad Gandersheim, Diebstahl
+{"coords": [11.3592, 50.6486], "date": "2026-06-06"}, // Landespolizeiinspektion Saalfeld LPI-SLF, entwendet
+//{"coords": [], "date": "2026-06-06"} // Nunkirchen, Diebstahl

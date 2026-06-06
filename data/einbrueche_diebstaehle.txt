@@ -17344,3 +17344,11 @@
 {"coords": [9.8667, 51.8167], "date": "2026-06-06"}, // Zahnarztpraxis Einbeck, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2026-06-06"}, // Einbeck, Einbruch
 {"coords": [9.8333, 53.95], "date": "2026-06-06"}, // Dachgeschosswohnung Hagen, Einbruch
+//{"coords": [], "date": "2026-06-06"} // der Mühlgasse ein Pedelec entwendet. Das matt-schwarze Trekkingrad mit auffällig rotem Streifen am Oberrohr stand im Hof des, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-06-06"}, // Hinweise Osnabrück, gestohlen
+{"coords": [10.135, 51.3783], "date": "2026-06-06"}, // Scooter Heiligenstadt, gestohlen
+{"coords": [7.7806, 53.5769], "date": "2026-06-06"}, // Wittmund, Diebstahl
+{"coords": [7.3333, 49.3167], "date": "2026-06-06"}, // Homburg Homburg, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-06-06"}, // Räuberische Erpressung- Zeugenaufruf Frankfurt, Räuber
+{"coords": [8.6822, 50.1106], "date": "2026-06-06"}, // Raub- Zeugenaufruf Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-06-06"}, // Frankfurt, Dieb

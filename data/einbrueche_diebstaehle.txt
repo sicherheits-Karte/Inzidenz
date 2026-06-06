@@ -17352,3 +17352,6 @@
 {"coords": [8.6822, 50.1106], "date": "2026-06-06"}, // Räuberische Erpressung- Zeugenaufruf Frankfurt, Räuber
 {"coords": [8.6822, 50.1106], "date": "2026-06-06"}, // Raub- Zeugenaufruf Frankfurt, Raub
 {"coords": [8.6822, 50.1106], "date": "2026-06-06"}, // Frankfurt, Dieb
+//{"coords": [], "date": "2026-06-06"} // Fahrer Rüstungen, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-06-06"}, // Reutlingen, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-06-06"}, // Fahrradweg Limburg, Diebstahl

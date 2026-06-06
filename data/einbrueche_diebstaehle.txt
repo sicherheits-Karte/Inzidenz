@@ -17355,3 +17355,4 @@
 //{"coords": [], "date": "2026-06-06"} // Fahrer Rüstungen, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-06-06"}, // Reutlingen, Raub
 {"coords": [8.0667, 50.3833], "date": "2026-06-06"}, // Fahrradweg Limburg, Diebstahl
+{"coords": [6.4333, 50.2], "date": "2026-06-06"}, // Prüm, Einbruch

@@ -17330,3 +17330,4 @@
 //{"coords": [], "date": "2026-06-05"} // Süd, Raub
 {"coords": [9.1919, 48.8975], "date": "2026-06-05"}, // Sporthalle Ludwigsburg, Einbruch
 {"coords": [7.2167, 49.8833], "date": "2026-06-05"}, // Hochscheid, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-06-06"}, // Zeugenaufruf Hildesheim, Einbruch

@@ -17367,3 +17367,9 @@
 {"coords": [10.7183, 50.9489], "date": "2026-06-07"}, // Gartenanlage Gotha, Einbruch
 {"coords": [10.6944, 50.6111], "date": "2026-06-07"}, // Gartenhaus Suhl, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2026-06-07"}, // Versuchter Mopeddiebstahl Weimar, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2026-06-07"}, // Rentnerin Apolda, Dieb
+{"coords": [11.5862, 50.9271], "date": "2026-06-07"}, // Jena, geklaut
+{"coords": [9.4764, 53.6008], "date": "2026-06-07"}, // Ablenkungsmasche Stade, stehlen
+//{"coords": [], "date": "2026-06-07"} // Simmershofen, entwendet
+{"coords": [6.8167, 49.55], "date": "2026-06-07"}, // Weiskirchen, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-06-07"}, // Verkehrsunfallflucht Bad Schwalbach, Einbrüche

@@ -17390,3 +17390,5 @@
 {"coords": [12.9333, 48.6], "date": "2026-06-07"}, // der Hauptstraße in Roßbach zu einem versuchten Einbruchsdiebstahl. Bislang unbekannte Täter versuchten, die Haupteingangstür des Mehrgenerationenhauses, Einbruch
 {"coords": [6.4333, 50.2], "date": "2026-06-07"}, // Prüm, Einbruch
 //{"coords": [], "date": "2026-06-07"} // Kreis, Raub
+{"coords": [9.95, 52.15], "date": "2026-06-07"}, // Alfeld Hildesheim, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-06-07"}, // Warendorf, Diebstahl

@@ -17385,3 +17385,4 @@
 {"coords": [8.24, 50.0822], "date": "2026-06-07"}, // Wiesbaden, Einbrecher
 //{"coords": [], "date": "2026-06-07"} // Höhe, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-06-07"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-06-07"}, // Scooters Hildesheim, Diebstahl

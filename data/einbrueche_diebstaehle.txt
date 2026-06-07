@@ -17373,3 +17373,11 @@
 //{"coords": [], "date": "2026-06-07"} // Simmershofen, entwendet
 {"coords": [6.8167, 49.55], "date": "2026-06-07"}, // Weiskirchen, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-06-07"}, // Verkehrsunfallflucht Bad Schwalbach, Einbrüche
+{"coords": [6.9603, 50.9375], "date": "2026-06-07"}, // Köln, Raub
+{"coords": [8.1128, 49.1994], "date": "2026-06-07"}, // Landau, entwendet
+{"coords": [8.875, 53.05], "date": "2026-06-07"}, // Osterholz, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-06-07"}, // Northeim, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-06-07"}, // Düsseldorf, geklaut
+//{"coords": [], "date": "2026-06-07"} // Tankstelle, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-06-07"}, // Einsatz Düsseldorf, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-06-07"}, // Einbrüche Reutlingen, Einbrüche

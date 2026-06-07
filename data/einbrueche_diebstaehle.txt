@@ -17381,3 +17381,7 @@
 //{"coords": [], "date": "2026-06-07"} // Tankstelle, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2026-06-07"}, // Einsatz Düsseldorf, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-06-07"}, // Einbrüche Reutlingen, Einbrüche
+{"coords": [9.0333, 50.15], "date": "2026-06-07"}, // Hinweise Rodenbach, Diebstähle
+{"coords": [8.24, 50.0822], "date": "2026-06-07"}, // Wiesbaden, Einbrecher
+//{"coords": [], "date": "2026-06-07"} // Höhe, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-06-07"}, // Diebstahl Augsburg, Diebstahl

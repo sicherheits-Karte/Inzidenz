@@ -17359,3 +17359,11 @@
 //{"coords": [], "date": "2026-06-06"} // Bad Gandersheim, Diebstahl
 {"coords": [11.3592, 50.6486], "date": "2026-06-06"}, // Landespolizeiinspektion Saalfeld LPI-SLF, entwendet
 //{"coords": [], "date": "2026-06-06"} // Nunkirchen, Diebstahl
+{"coords": [11.8556, 50.8964], "date": "2026-06-07"}, // Hermsdorf, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-06-07"}, // Vechta, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2026-06-07"}, // Wohngemeinschaft Hagen, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-06-07"}, // Lebensmittelgeschäft Lingen, Einbruch
+//{"coords": [], "date": "2026-06-07"} // Bad Salzungen, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-06-07"}, // Gartenanlage Gotha, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2026-06-07"}, // Gartenhaus Suhl, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-06-07"}, // Versuchter Mopeddiebstahl Weimar, Diebstahl

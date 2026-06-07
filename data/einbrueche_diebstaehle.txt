@@ -17386,3 +17386,5 @@
 //{"coords": [], "date": "2026-06-07"} // Höhe, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-06-07"}, // Diebstahl Augsburg, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-06-07"}, // Scooters Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-06-07"} // Bad Dürkheim, Diebstahl
+{"coords": [12.9333, 48.6], "date": "2026-06-07"}, // der Hauptstraße in Roßbach zu einem versuchten Einbruchsdiebstahl. Bislang unbekannte Täter versuchten, die Haupteingangstür des Mehrgenerationenhauses, Einbruch

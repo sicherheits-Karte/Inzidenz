@@ -17392,3 +17392,4 @@
 //{"coords": [], "date": "2026-06-07"} // Kreis, Raub
 {"coords": [9.95, 52.15], "date": "2026-06-07"}, // Alfeld Hildesheim, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2026-06-07"}, // Warendorf, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-06-07"}, // Vermisstenfahndung Aalen, Raub

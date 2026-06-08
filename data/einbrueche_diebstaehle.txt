@@ -17407,3 +17407,5 @@
 //{"coords": [], "date": "2026-06-08"} // Holzwickede, Raub
 {"coords": [8.8403, 47.7592], "date": "2026-06-08"}, // Singen, Einbruch
 //{"coords": [], "date": "2026-06-08"} // Adelhausen, Raub
+//{"coords": [], "date": "2026-06-08"} // Bernhausen, gestohlen
+{"coords": [11.9, 49.95], "date": "2026-06-08"}, // Brand Reutlingen, Einbruch

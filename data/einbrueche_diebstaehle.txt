@@ -17394,3 +17394,8 @@
 {"coords": [7.9833, 51.95], "date": "2026-06-07"}, // Warendorf, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-06-07"}, // Vermisstenfahndung Aalen, Raub
 {"coords": [7.9833, 51.95], "date": "2026-06-08"}, // Einsatz Warendorf, Raub
+{"coords": [6.6, 51.55], "date": "2026-06-08"}, // Einfamilienhaus Rheinberg, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-06-08"}, // Mitte, Dieb
+{"coords": [8.8075, 53.075], "date": "2026-06-08"}, // Handschellen-- Bremen, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-06-08"}, // Unfallflucht Aalen, Diebstahl
+{"coords": [8.7, 50.0167], "date": "2026-06-08"}, // Dreieich, Diebstahl

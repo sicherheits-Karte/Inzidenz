@@ -17409,3 +17409,5 @@
 //{"coords": [], "date": "2026-06-08"} // Adelhausen, Raub
 //{"coords": [], "date": "2026-06-08"} // Bernhausen, gestohlen
 {"coords": [11.9, 49.95], "date": "2026-06-08"}, // Brand Reutlingen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-06-08"}, // Kirche Giessen, Einbrüche
+//{"coords": [], "date": "2026-06-08"} // Windhagen, Einbruch

@@ -17411,3 +17411,4 @@
 {"coords": [11.9, 49.95], "date": "2026-06-08"}, // Brand Reutlingen, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-06-08"}, // Kirche Giessen, Einbrüche
 //{"coords": [], "date": "2026-06-08"} // Windhagen, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-06-08"}, // Zeugenaufruf Hildesheim, Dieb

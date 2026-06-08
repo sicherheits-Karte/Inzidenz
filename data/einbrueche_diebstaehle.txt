@@ -17399,3 +17399,11 @@
 {"coords": [8.8075, 53.075], "date": "2026-06-08"}, // Handschellen-- Bremen, Einbrecher
 {"coords": [10.0936, 48.8372], "date": "2026-06-08"}, // Unfallflucht Aalen, Diebstahl
 {"coords": [8.7, 50.0167], "date": "2026-06-08"}, // Dreieich, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-06-08"}, // Motorroller Erfurt, Diebstahl
+{"coords": [13.3878, 54.0931], "date": "2026-06-08"}, // Musikbox Greifswald, Raub
+{"coords": [10.4, 53.25], "date": "2026-06-08"}, // Lüneburg, Dieb
+{"coords": [10.4333, 50.5167], "date": "2026-06-08"}, // Sportlerheim Ritschenhausen, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-06-08"}, // Jährigen Darmstadt, Einbruch
+//{"coords": [], "date": "2026-06-08"} // Holzwickede, Raub
+{"coords": [8.8403, 47.7592], "date": "2026-06-08"}, // Singen, Einbruch
+//{"coords": [], "date": "2026-06-08"} // Adelhausen, Raub

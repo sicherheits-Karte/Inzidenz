@@ -17445,3 +17445,4 @@
 {"coords": [10.6667, 51.2], "date": "2026-06-09"}, // Beute Neunheilingen, Einbruch
 {"coords": [7.3208, 49.6922], "date": "2026-06-09"}, // Oberstein, stehlen
 {"coords": [10.135, 51.3783], "date": "2026-06-09"}, // Heilbad Heiligenstadt, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2026-06-09"}, // Beurig Trier, Einbruch

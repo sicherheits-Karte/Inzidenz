@@ -17422,3 +17422,11 @@
 {"coords": [7.0667, 52.4333], "date": "2026-06-09"}, // Nordhorn, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2026-06-09"}, // Bonn, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-06-09"}, // Transporter Erfurt, gestohlen
+//{"coords": [], "date": "2026-06-09"} // Baucontainer Bad Gandersheim, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-06-09"}, // Jährige Mönchengladbach, stehlen
+{"coords": [10.7956, 51.5019], "date": "2026-06-09"}, // Keller Nordhausen, Einbruch
+{"coords": [10.3167, 51.4], "date": "2026-06-09"}, // Leinefelde, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-06-09"}, // Vechta, Diebstähle
+{"coords": [6.7623, 51.4344], "date": "2026-06-09"}, // Haft Duisburg, entwendet
+{"coords": [8.2869, 52.7303], "date": "2026-06-09"}, // Vechta, Diebstahl
+{"coords": [8.8403, 47.7592], "date": "2026-06-09"}, // Singen, Einbruch

@@ -17440,3 +17440,8 @@
 {"coords": [9.5, 51.3167], "date": "2026-06-09"}, // Kassel, Einbrecher
 //{"coords": [], "date": "2026-06-09"} // Rheingönheim, Einbruch
 {"coords": [6.3917, 51.2556], "date": "2026-06-09"}, // Wohnung Viersen, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-06-09"}, // Einbruch Reutlingen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-06-09"}, // Zeugenaufruf Freiburg, Raub
+{"coords": [10.6667, 51.2], "date": "2026-06-09"}, // Beute Neunheilingen, Einbruch
+{"coords": [7.3208, 49.6922], "date": "2026-06-09"}, // Oberstein, stehlen
+{"coords": [10.135, 51.3783], "date": "2026-06-09"}, // Heilbad Heiligenstadt, Diebstahl

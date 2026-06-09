@@ -17412,3 +17412,13 @@
 {"coords": [8.6833, 50.5833], "date": "2026-06-08"}, // Kirche Giessen, Einbrüche
 //{"coords": [], "date": "2026-06-08"} // Windhagen, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-06-08"}, // Zeugenaufruf Hildesheim, Dieb
+//{"coords": [], "date": "2026-06-09"} // der Schulstraße entwendeten ein oder mehrere bislang unbekannte Personen. Die Tat wurde gestern, gegen, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-06-09"}, // Werkhalle Gotha, Diebstahl
+{"coords": [7.2564, 49.2378], "date": "2026-06-09"}, // Blieskastel Blieskastel, Einbruch
+{"coords": [8.6, 51.6833], "date": "2026-06-09"}, // Bekleidungsgeschäft Salzkotten, Einbruch
+{"coords": [10.6833, 49.2833], "date": "2026-06-09"}, // Lichtenau, Diebstahl
+{"coords": [8.4333, 51.7], "date": "2026-06-09"}, // Haaren, Diebstahl
+{"coords": [8.3333, 51.5833], "date": "2026-06-09"}, // Lagerhalle Anröchte, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-06-09"}, // Nordhorn, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-06-09"}, // Bonn, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-06-09"}, // Transporter Erfurt, gestohlen

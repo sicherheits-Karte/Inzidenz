@@ -17478,3 +17478,5 @@
 {"coords": [8.4353, 49.4811], "date": "2026-06-10"}, // Kindergärten Ludwigshafen, Einbrüche
 {"coords": [7.82, 47.99], "date": "2026-06-10"}, // Zeugensuche Freiburg, entwendet
 {"coords": [10.0528, 51.1889], "date": "2026-06-10"}, // Breitau Eschwege, gestohlen
+//{"coords": [], "date": "2026-06-10"} // Thalfang, geklaut
+//{"coords": [], "date": "2026-06-10"} // Kein Ort gefunden, entwendet

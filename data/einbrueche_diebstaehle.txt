@@ -17447,3 +17447,9 @@
 {"coords": [10.135, 51.3783], "date": "2026-06-09"}, // Heilbad Heiligenstadt, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2026-06-09"}, // Beurig Trier, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-06-10"}, // Zeugenaufruf Freiburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-06-10"}, // Unfall Aalen, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-06-10"}, // Floristikgeschäft Lippstadt, Einbrecher
+{"coords": [10.0, 51.7064], "date": "2026-06-10"}, // Northeim, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2026-06-10"}, // Diebesguts Suhl, Dieb
+{"coords": [12.4333, 50.985], "date": "2026-06-10"}, // Altenburg, entwendet
+{"coords": [12.4333, 50.985], "date": "2026-06-10"}, // Altenburg, Einbruch

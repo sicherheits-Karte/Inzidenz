@@ -17473,3 +17473,8 @@
 {"coords": [6.3917, 51.2556], "date": "2026-06-10"}, // Zeugen Viersen, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-06-10"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2026-06-10"}, // Münster, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-06-10"}, // Versuchter Kellereinbruch Nordhausen, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-06-10"}, // Hannover, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-06-10"}, // Kindergärten Ludwigshafen, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-06-10"}, // Zeugensuche Freiburg, entwendet
+{"coords": [10.0528, 51.1889], "date": "2026-06-10"}, // Breitau Eschwege, gestohlen

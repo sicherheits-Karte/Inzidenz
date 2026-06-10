@@ -17464,3 +17464,12 @@
 {"coords": [9.95, 52.15], "date": "2026-06-10"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [10.375, 53.4153], "date": "2026-06-10"}, // Kupferrohre Marschacht, Dieb
 //{"coords": [], "date": "2026-06-10"} // Rommerskirchen, Raub
+{"coords": [7.7689, 49.4447], "date": "2026-06-10"}, // Polizei Kaiserslautern, Diebstähle
+{"coords": [9.0, 50.7333], "date": "2026-06-10"}, // Hinweise Homberg, Diebstahl
+{"coords": [9.2844, 51.045], "date": "2026-06-10"}, // Lkw Kreis Borken, Dieb
+{"coords": [8.3833, 51.9], "date": "2026-06-10"}, // Gütersloh, Einbrecher
+{"coords": [8.24, 50.0822], "date": "2026-06-10"}, // Wiesbaden, Einbruch
+//{"coords": [], "date": "2026-06-10"} // Bracht, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-06-10"}, // Zeugen Viersen, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-06-10"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-06-10"}, // Münster, Dieb

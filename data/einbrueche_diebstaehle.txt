@@ -17480,3 +17480,4 @@
 {"coords": [10.0528, 51.1889], "date": "2026-06-10"}, // Breitau Eschwege, gestohlen
 //{"coords": [], "date": "2026-06-10"} // Thalfang, geklaut
 //{"coords": [], "date": "2026-06-10"} // Kein Ort gefunden, entwendet
+{"coords": [9.95, 52.15], "date": "2026-06-11"}, // Sarstedter Bahnhof Hildesheim, Diebstahl

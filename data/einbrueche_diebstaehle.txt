@@ -17513,3 +17513,4 @@
 {"coords": [9.95, 52.15], "date": "2026-06-11"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [7.4653, 51.5136], "date": "2026-06-11"}, // Dortmund, Raub
 {"coords": [8.4661, 49.4878], "date": "2026-06-11"}, // Untersuchungshaft Mannheim, Diebstahl
+{"coords": [8.15, 49.4667], "date": "2026-06-11"}, // Weinstraße, gestohlen

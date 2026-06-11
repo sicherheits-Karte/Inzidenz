@@ -17502,3 +17502,11 @@
 {"coords": [9.1919, 48.8975], "date": "2026-06-11"}, // Straße Ludwigsburg, Diebstahl
 {"coords": [10.8708, 51.3697], "date": "2026-06-11"}, // Handtasche Sondershausen, Diebstahl
 //{"coords": [], "date": "2026-06-11"} // Einfamilienhaus Hohengandern, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2026-06-11"}, // Zeugen Landau, Einbrüche
+{"coords": [7.4653, 51.5136], "date": "2026-06-11"}, // Dortmund, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-06-11"}, // Ladendiebstahl Karlsruhe, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-06-11"}, // Heilbronn, gestohlen
+{"coords": [8.4043, 49.014], "date": "2026-06-11"}, // Karlsruhe, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-06-11"}, // Coesfeld, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-06-11"}, // Zeugen Freiburg, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-06-11"}, // Zeugenaufruf Mannheim, Diebstahl

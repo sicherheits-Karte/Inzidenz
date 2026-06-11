@@ -17481,3 +17481,12 @@
 //{"coords": [], "date": "2026-06-10"} // Thalfang, geklaut
 //{"coords": [], "date": "2026-06-10"} // Kein Ort gefunden, entwendet
 {"coords": [9.95, 52.15], "date": "2026-06-11"}, // Sarstedter Bahnhof Hildesheim, Diebstahl
+{"coords": [6.5875, 51.0883], "date": "2026-06-11"}, // Einbrecher Grevenbroich, Einbrecher
+{"coords": [6.6833, 51.6167], "date": "2026-06-11"}, // Zeugen Voerde, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-06-11"}, // Zeugen Homberg, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-06-11"}, // Arnsberg Arnsberg, Einbruch
+//{"coords": [], "date": "2026-06-11"} // Kraftstoff Eichelhardt, Diebstahl
+//{"coords": [], "date": "2026-06-11"} // Kalefeld Bad Gandersheim, Einbruch
+{"coords": [9.3806, 51.775], "date": "2026-06-11"}, // Zeugen Höxter, entwendet
+{"coords": [7.15, 50.0], "date": "2026-06-11"}, // Flucht Klausen, klau
+{"coords": [6.8889, 49.9858], "date": "2026-06-11"}, // Fahrzeug Wittlich, Diebstahl

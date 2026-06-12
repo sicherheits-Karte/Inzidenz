@@ -17526,3 +17526,16 @@
 {"coords": [9.425, 53.7917], "date": "2026-06-12"}, // Fahrzeugaufbrüchen Glückstadt, aufbrüche
 {"coords": [10.0936, 48.8372], "date": "2026-06-12"}, // Diebtstahl Aalen, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2026-06-12"}, // Reihenhaus Warendorf, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-06-12"}, // Ermittlungsrichter Düsseldorf, Einbruch
+{"coords": [7.6, 49.2], "date": "2026-06-12"}, // Bedrohung Pirmasens, Raub
+{"coords": [7.3608, 49.2492], "date": "2026-06-12"}, // Täterfestnahme Zweibrücken, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-06-12"}, // Raubversuch Gelsenkirchen, Raub
+{"coords": [8.5833, 49.8667], "date": "2026-06-12"}, // Griesheim, Dieb
+{"coords": [7.4836, 53.4711], "date": "2026-06-12"}, // Landkreis Aurich, gestohlen
+{"coords": [7.7806, 53.5769], "date": "2026-06-12"}, // Wittmund, Einbrüche
+{"coords": [11.0299, 50.9848], "date": "2026-06-12"}, // Erfurt, gestohlen
+{"coords": [7.3333, 51.4333], "date": "2026-06-12"}, // Witten, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-06-12"}, // Landkreis Sömmerda Landkreis Sömmerda, Einbruch
+{"coords": [8.705, 48.895], "date": "2026-06-12"}, // Pforzheim, Diebstahl
+{"coords": [6.3319, 51.5194], "date": "2026-06-12"}, // Zeugen Geldern, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-06-12"}, // Einfamilienhaus Bielefeld, Einbruch

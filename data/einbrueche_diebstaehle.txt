@@ -17539,3 +17539,7 @@
 {"coords": [8.705, 48.895], "date": "2026-06-12"}, // Pforzheim, Diebstahl
 {"coords": [6.3319, 51.5194], "date": "2026-06-12"}, // Zeugen Geldern, entwendet
 {"coords": [8.5331, 52.021], "date": "2026-06-12"}, // Einfamilienhaus Bielefeld, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-06-12"}, // Zeugensuche Freiburg, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-06-12"}, // Firmenfahrzeug-- Bremen, Diebstahl
+{"coords": [8.5833, 48.95], "date": "2026-06-12"}, // Remchingen, entwendet
+{"coords": [8.0667, 50.3833], "date": "2026-06-12"}, // Verkehrsinseln Limburg, Einbruch

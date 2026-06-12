@@ -17514,3 +17514,5 @@
 {"coords": [7.4653, 51.5136], "date": "2026-06-11"}, // Dortmund, Raub
 {"coords": [8.4661, 49.4878], "date": "2026-06-11"}, // Untersuchungshaft Mannheim, Diebstahl
 {"coords": [8.15, 49.4667], "date": "2026-06-11"}, // Weinstraße, gestohlen
+{"coords": [8.0169, 50.3714], "date": "2026-06-12"}, // Täterfeststellung Diez, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-06-12"}, // Hildesheim, gestohlen

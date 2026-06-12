@@ -17543,3 +17543,9 @@
 {"coords": [8.8075, 53.075], "date": "2026-06-12"}, // Firmenfahrzeug-- Bremen, Diebstahl
 {"coords": [8.5833, 48.95], "date": "2026-06-12"}, // Remchingen, entwendet
 {"coords": [8.0667, 50.3833], "date": "2026-06-12"}, // Verkehrsinseln Limburg, Einbruch
+{"coords": [8.9, 50.25], "date": "2026-06-12"}, // Nidderau, Raub
+//{"coords": [], "date": "2026-06-12"} // Sinntal, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-06-12"}, // Öffentlichkeitsfahndung Köln, Räuber
+{"coords": [8.4043, 49.014], "date": "2026-06-12"}, // Haft Karlsruhe, Einbrecher
+{"coords": [7.7689, 49.4447], "date": "2026-06-12"}, // Kaiserslautern, Einbruch
+//{"coords": [], "date": "2026-06-12"} // Kreis, Raub

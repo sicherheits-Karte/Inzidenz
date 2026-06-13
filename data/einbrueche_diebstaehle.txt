@@ -17561,3 +17561,8 @@
 {"coords": [8.5861, 52.1983], "date": "2026-06-13"}, // Bünde, gestohlen
 {"coords": [10.0936, 48.8372], "date": "2026-06-13"}, // Explodierter Akku Aalen, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-06-13"}, // Überholen Aalen, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-06-13"}, // Nordhausen, Einbrecher
+//{"coords": [], "date": "2026-06-13"} // bislang unbekannter Täter an einem in der Straße, entwendet
+{"coords": [8.6306, 53.05], "date": "2026-06-13"}, // Delmenhorst, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-06-13"}, // Haustür Hofheim, Einbrecher
+//{"coords": [], "date": "2026-06-13"} // Kein Ort gefunden, Diebstahl

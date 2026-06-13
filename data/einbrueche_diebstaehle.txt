@@ -17568,3 +17568,4 @@
 //{"coords": [], "date": "2026-06-13"} // Kein Ort gefunden, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-06-13"}, // Sarstedt Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-06-13"} // Kein Ort gefunden, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-06-13"}, // Erfurt, Diebstahl

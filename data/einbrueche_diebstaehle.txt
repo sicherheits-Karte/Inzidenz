@@ -17556,3 +17556,8 @@
 {"coords": [12.0991, 54.0924], "date": "2026-06-13"}, // Rostock, Einbruch
 {"coords": [6.85, 49.9333], "date": "2026-06-13"}, // Brennholz Salmtal, Diebstahl
 {"coords": [7.1, 51.5167], "date": "2026-06-13"}, // Gelsenkirchen, Räuber
+{"coords": [8.25, 50.4833], "date": "2026-06-13"}, // Weilburg, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-06-13"}, // Freizeiteinrichtung Hildesheim, Raub
+{"coords": [8.5861, 52.1983], "date": "2026-06-13"}, // Bünde, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-06-13"}, // Explodierter Akku Aalen, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-06-13"}, // Überholen Aalen, Einbruch

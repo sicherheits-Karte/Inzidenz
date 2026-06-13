@@ -17550,3 +17550,9 @@
 {"coords": [7.7689, 49.4447], "date": "2026-06-12"}, // Kaiserslautern, Einbruch
 //{"coords": [], "date": "2026-06-12"} // Kreis, Raub
 //{"coords": [], "date": "2026-06-12"} // Contwig, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-06-13"}, // Lingen, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2026-06-13"}, // Hattingen, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2026-06-13"}, // Hattingen, Einbrüche
+{"coords": [12.0991, 54.0924], "date": "2026-06-13"}, // Rostock, Einbruch
+{"coords": [6.85, 49.9333], "date": "2026-06-13"}, // Brennholz Salmtal, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-06-13"}, // Gelsenkirchen, Räuber

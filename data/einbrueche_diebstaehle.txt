@@ -17566,3 +17566,4 @@
 {"coords": [8.6306, 53.05], "date": "2026-06-13"}, // Delmenhorst, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-06-13"}, // Haustür Hofheim, Einbrecher
 //{"coords": [], "date": "2026-06-13"} // Kein Ort gefunden, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-06-13"}, // Sarstedt Hildesheim, Diebstahl

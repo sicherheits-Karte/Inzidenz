@@ -17569,3 +17569,5 @@
 {"coords": [9.95, 52.15], "date": "2026-06-13"}, // Sarstedt Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-06-13"} // Kein Ort gefunden, gestohlen
 {"coords": [11.0299, 50.9848], "date": "2026-06-13"}, // Erfurt, Diebstahl
+//{"coords": [], "date": "2026-06-14"} // Spaziergang Römerberg, Raub
+{"coords": [10.7183, 50.9489], "date": "2026-06-14"}, // Gotha, Raub

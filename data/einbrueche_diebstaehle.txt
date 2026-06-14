@@ -17580,3 +17580,10 @@
 {"coords": [12.0799, 50.8772], "date": "2026-06-14"}, // Gera, entwendet
 {"coords": [7.3194, 52.5236], "date": "2026-06-14"}, // Lingen, Einbruch
 {"coords": [9.8333, 53.95], "date": "2026-06-14"}, // Hagen Altenhagen Hagen, Diebstahl
+{"coords": [10.0831, 52.6247], "date": "2026-06-14"}, // Uhr Landkreis Celle, Einbruch
+//{"coords": [], "date": "2026-06-14"} // Ehrenhain, Diebstahl
+//{"coords": [], "date": "2026-06-14"} // Schmölln, Einbruch
+//{"coords": [], "date": "2026-06-14"} // Friesenheim, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-06-14"}, // Vechta, Diebstahl
+{"coords": [10.135, 51.3783], "date": "2026-06-14"}, // Umkleidekabine Heiligenstadt, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2026-06-14"}, // Wittmund, aufbruch

@@ -17592,3 +17592,5 @@
 {"coords": [8.1128, 49.1994], "date": "2026-06-14"}, // Polizeidirektion Landau POL-PDLD, Diebstahl
 {"coords": [8.875, 53.05], "date": "2026-06-14"}, // Osterholz, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-06-14"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [11.3592, 50.6486], "date": "2026-06-14"}, // Bikes Saalfeld, Diebstahl
+//{"coords": [], "date": "2026-06-14"} // Weis, Einbruch

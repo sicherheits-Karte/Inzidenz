@@ -17587,3 +17587,8 @@
 {"coords": [8.2869, 52.7303], "date": "2026-06-14"}, // Vechta, Diebstahl
 {"coords": [10.135, 51.3783], "date": "2026-06-14"}, // Umkleidekabine Heiligenstadt, Diebstahl
 {"coords": [7.7806, 53.5769], "date": "2026-06-14"}, // Wittmund, aufbruch
+//{"coords": [], "date": "2026-06-14"} // Grimmelallee, stehlen
+//{"coords": [], "date": "2026-06-14"} // Steinmühle, geklaut
+{"coords": [8.1128, 49.1994], "date": "2026-06-14"}, // Polizeidirektion Landau POL-PDLD, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-06-14"}, // Osterholz, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-06-14"}, // Diebstahl Augsburg, Diebstahl

@@ -17571,3 +17571,12 @@
 {"coords": [11.0299, 50.9848], "date": "2026-06-13"}, // Erfurt, Diebstahl
 //{"coords": [], "date": "2026-06-14"} // Spaziergang Römerberg, Raub
 {"coords": [10.7183, 50.9489], "date": "2026-06-14"}, // Gotha, Raub
+{"coords": [8.1075, 53.5219], "date": "2026-06-14"}, // Wilhelmshaven, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-06-14"}, // Bekannten Speyer, Raub
+{"coords": [8.4311, 49.3194], "date": "2026-06-14"}, // Speyer, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-06-14"}, // Wittlich, Diebstahl
+{"coords": [7.2061, 53.3669], "date": "2026-06-14"}, // Emden, Einbruch
+//{"coords": [], "date": "2026-06-14"} // Südosthessen, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-06-14"}, // Gera, entwendet
+{"coords": [7.3194, 52.5236], "date": "2026-06-14"}, // Lingen, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-06-14"}, // Hagen Altenhagen Hagen, Diebstahl

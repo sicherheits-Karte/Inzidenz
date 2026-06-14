@@ -17594,3 +17594,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-06-14"}, // Diebstahl Augsburg, Diebstahl
 {"coords": [11.3592, 50.6486], "date": "2026-06-14"}, // Bikes Saalfeld, Diebstahl
 //{"coords": [], "date": "2026-06-14"} // Weis, Einbruch
+//{"coords": [], "date": "2026-06-14"} // Lind, Diebstahl

@@ -17595,3 +17595,4 @@
 {"coords": [11.3592, 50.6486], "date": "2026-06-14"}, // Bikes Saalfeld, Diebstahl
 //{"coords": [], "date": "2026-06-14"} // Weis, Einbruch
 //{"coords": [], "date": "2026-06-14"} // Lind, Diebstahl
+//{"coords": [], "date": "2026-06-14"} // Höhe Ketsch, Raub

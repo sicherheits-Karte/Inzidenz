@@ -17598,3 +17598,17 @@
 //{"coords": [], "date": "2026-06-14"} // Höhe Ketsch, Raub
 {"coords": [10.95, 50.8333], "date": "2026-06-15"}, // Arnstadt, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-06-15"}, // Moorberg Hildesheim, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-06-15"}, // Vechta, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-06-15"}, // Ulm, Raub
+//{"coords": [], "date": "2026-06-15"} // Büttelborn, entwendet
+//{"coords": [], "date": "2026-06-15"} // Broekhuysen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-06-15"}, // Ulm, Einbruch
+//{"coords": [], "date": "2026-06-15"} // Baustelle entwendet, entwendet
+{"coords": [6.6717, 51.2614], "date": "2026-06-15"}, // Meerbusch, gestohlen
+{"coords": [7.8, 51.4333], "date": "2026-06-15"}, // Menden, Einbrecher
+//{"coords": [], "date": "2026-06-15"} // Kein Ort gefunden, Raub
+{"coords": [7.75, 51.3833], "date": "2026-06-15"}, // Hemer, Diebstahl
+//{"coords": [], "date": "2026-06-15"} // Kein Ort gefunden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-06-15"}, // Aalen, Raub
+{"coords": [13.3878, 54.0931], "date": "2026-06-15"}, // Beute Greifswald, Einbrecher
+{"coords": [7.6333, 51.2167], "date": "2026-06-15"}, // Supermarkt Lüdenscheid, Einbrecher

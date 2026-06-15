@@ -17612,3 +17612,8 @@
 {"coords": [10.0936, 48.8372], "date": "2026-06-15"}, // Aalen, Raub
 {"coords": [13.3878, 54.0931], "date": "2026-06-15"}, // Beute Greifswald, Einbrecher
 {"coords": [7.6333, 51.2167], "date": "2026-06-15"}, // Supermarkt Lüdenscheid, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-06-15"}, // Zeugen Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-06-15"}, // Auto Freiburg, Diebstahl
+{"coords": [7.9447, 48.4731], "date": "2026-06-15"}, // Zeugenaufruf Offenburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-06-15"}, // Mehrfamilienhaus Freiburg, Einbruch
+{"coords": [8.4153, 49.6917], "date": "2026-06-15"}, // Hinweise Biblis, gestohlen

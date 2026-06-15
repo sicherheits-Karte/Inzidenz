@@ -17596,3 +17596,5 @@
 //{"coords": [], "date": "2026-06-14"} // Weis, Einbruch
 //{"coords": [], "date": "2026-06-14"} // Lind, Diebstahl
 //{"coords": [], "date": "2026-06-14"} // Höhe Ketsch, Raub
+{"coords": [10.95, 50.8333], "date": "2026-06-15"}, // Arnstadt, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-06-15"}, // Moorberg Hildesheim, Einbruch

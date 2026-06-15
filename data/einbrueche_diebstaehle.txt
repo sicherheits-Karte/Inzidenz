@@ -17617,3 +17617,6 @@
 {"coords": [7.9447, 48.4731], "date": "2026-06-15"}, // Zeugenaufruf Offenburg, Raub
 {"coords": [7.82, 47.99], "date": "2026-06-15"}, // Mehrfamilienhaus Freiburg, Einbruch
 {"coords": [8.4153, 49.6917], "date": "2026-06-15"}, // Hinweise Biblis, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-06-15"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-06-15"}, // Giessen, Einbruch
+{"coords": [8.9167, 52.3], "date": "2026-06-15"}, // Zeugen Minden, Raub

@@ -17642,3 +17642,11 @@
 {"coords": [10.8978, 48.3705], "date": "2026-06-16"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [7.2, 51.6167], "date": "2026-06-16"}, // Hinweise Recklinghausen, Einbruch
 //{"coords": [], "date": "2026-06-16"} // Festnahme Weiterstadt, Einbruch
+{"coords": [7.825, 50.4358], "date": "2026-06-16"}, // Montabaur, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2026-06-16"}, // Einsatz Warendorf, Raub
+{"coords": [12.0991, 54.0924], "date": "2026-06-16"}, // Landkreis Rostock, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-06-16"}, // Einbruch Reutlingen, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-06-16"}, // Konstanz, Raub
+{"coords": [7.82, 47.99], "date": "2026-06-16"}, // Schwimmbadkiosk Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-06-16"}, // Clubhaus Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-06-16"}, // Geschäftsräume Freiburg, Einbruch

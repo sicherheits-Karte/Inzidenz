@@ -17631,3 +17631,14 @@
 //{"coords": [], "date": "2026-06-16"} // Elmpt, Einbruch
 //{"coords": [], "date": "2026-06-16"} // Heiddorf, Dieb
 {"coords": [7.0982, 50.7374], "date": "2026-06-16"}, // Bonn, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-06-16"}, // Wittlicher Stadtgebiet Wittlich, Einbrüche
+{"coords": [9.2167, 48.0833], "date": "2026-06-16"}, // Landkreis Sigmaringen Landkreis Sigmaringen, Diebstahl
+//{"coords": [], "date": "2026-06-16"} // Kein Ort gefunden, Dieb
+{"coords": [6.9603, 50.9375], "date": "2026-06-16"}, // Öffentlichkeitsfahndung Köln, Dieb
+{"coords": [7.1675, 51.9436], "date": "2026-06-16"}, // Coesfeld, entwendet
+//{"coords": [], "date": "2026-06-16"} // Straelen, gestohlen
+{"coords": [10.8978, 48.3705], "date": "2026-06-16"}, // Rollerdiebstahl Augsburg, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-06-16"}, // Lippe, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-06-16"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-06-16"}, // Hinweise Recklinghausen, Einbruch
+//{"coords": [], "date": "2026-06-16"} // Festnahme Weiterstadt, Einbruch

@@ -17620,3 +17620,14 @@
 {"coords": [9.95, 52.15], "date": "2026-06-15"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-06-15"}, // Giessen, Einbruch
 {"coords": [8.9167, 52.3], "date": "2026-06-15"}, // Zeugen Minden, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-06-16"}, // Hinweise Aalen, Raub
+{"coords": [7.25, 49.55], "date": "2026-06-16"}, // Freisen Freisen, Diebstähle
+//{"coords": [], "date": "2026-06-16"} // Schloß Neuhaus, Einbruch
+//{"coords": [], "date": "2026-06-16"} // Büren, Diebstahl
+//{"coords": [], "date": "2026-06-16"} // Kreis, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-06-16"}, // Aufbruch Heilbronn, Einbrüche
+{"coords": [9.9916, 48.3984], "date": "2026-06-16"}, // Ulm, Einbrecher
+{"coords": [8.65, 49.3], "date": "2026-06-16"}, // Walldorf, entwendet
+//{"coords": [], "date": "2026-06-16"} // Elmpt, Einbruch
+//{"coords": [], "date": "2026-06-16"} // Heiddorf, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-06-16"}, // Bonn, Einbruch

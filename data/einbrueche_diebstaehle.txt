@@ -17652,3 +17652,14 @@
 {"coords": [7.82, 47.99], "date": "2026-06-16"}, // Geschäftsräume Freiburg, Einbruch
 //{"coords": [], "date": "2026-06-17"} // Umkleidekabine Salm, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-06-17"}, // Goldkette Ludwigshafen, Raub
+//{"coords": [], "date": "2026-06-17"} // Bad Bramstedt, Diebstahl
+{"coords": [7.5667, 51.0833], "date": "2026-06-17"}, // Garagen Gummersbach, Einbrüche
+{"coords": [8.9667, 52.3833], "date": "2026-06-17"}, // Schmuck Petershagen, Einbrüche
+{"coords": [7.6333, 51.2167], "date": "2026-06-17"}, // Lüdenscheid, Raub
+//{"coords": [], "date": "2026-06-17"} // Emmerzhausen, Einbruch
+//{"coords": [], "date": "2026-06-17"} // Weimarer Land, Dieb
+//{"coords": [], "date": "2026-06-17"} // Holzland, Einbruch
+//{"coords": [], "date": "2026-06-17"} // Holzland, Einbrecher
+{"coords": [11.5862, 50.9271], "date": "2026-06-17"}, // Jena, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-06-17"}, // Mitte, Diebstahl
+{"coords": [7.25, 52.6167], "date": "2026-06-17"}, // Geeste, Einbruch

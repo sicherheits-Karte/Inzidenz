@@ -17663,3 +17663,10 @@
 {"coords": [11.5862, 50.9271], "date": "2026-06-17"}, // Jena, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2026-06-17"}, // Mitte, Diebstahl
 {"coords": [7.25, 52.6167], "date": "2026-06-17"}, // Geeste, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-06-17"}, // Fulda, entwendet
+{"coords": [7.6333, 51.2167], "date": "2026-06-17"}, // Lüdenscheid, Räuber
+{"coords": [8.2146, 53.1434], "date": "2026-06-17"}, // Zeugenaufruf Oldenburg, Diebstahl
+{"coords": [9.2844, 51.045], "date": "2026-06-17"}, // Borken, Einbrecher
+{"coords": [9.2844, 51.045], "date": "2026-06-17"}, // Bürogebäude Borken, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2026-06-17"}, // Bocholt, Einbrecher
+//{"coords": [], "date": "2026-06-17"} // Tageswohnungseinbruch Polch, Einbruch

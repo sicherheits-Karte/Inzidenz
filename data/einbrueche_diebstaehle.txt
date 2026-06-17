@@ -17670,3 +17670,10 @@
 {"coords": [9.2844, 51.045], "date": "2026-06-17"}, // Bürogebäude Borken, Diebstahl
 {"coords": [6.6153, 51.8367], "date": "2026-06-17"}, // Bocholt, Einbrecher
 //{"coords": [], "date": "2026-06-17"} // Tageswohnungseinbruch Polch, Einbruch
+//{"coords": [], "date": "2026-06-17"} // Klinik Bad Gandersheim, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-06-17"}, // Reutlingen Reutlingen, Einbruch
+//{"coords": [], "date": "2026-06-17"} // Kreis, Raub
+//{"coords": [], "date": "2026-06-17"} // Grenzhausen, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-06-17"}, // Zeugen Stade, Einbrecher
+{"coords": [8.4043, 49.014], "date": "2026-06-17"}, // Zeugen Karlsruhe, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-06-17"}, // Zeugenaufruf Mannheim, Einbrecher

@@ -17707,3 +17707,6 @@
 {"coords": [8.6833, 50.5833], "date": "2026-06-18"}, // Giessen, Dieb
 {"coords": [7.82, 47.99], "date": "2026-06-18"}, // Zeugensuche Freiburg, Diebstahl
 //{"coords": [], "date": "2026-06-18"} // Wegweiserschilds Berndroth, Diebstahl
+//{"coords": [], "date": "2026-06-18"} // Waldleiningen, gestohlen
+//{"coords": [], "date": "2026-06-18"} // Haustür Thalfang, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-06-18"}, // Zeugen Dortmund, Raub

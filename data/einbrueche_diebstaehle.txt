@@ -17716,3 +17716,13 @@
 {"coords": [10.9147, 50.6856], "date": "2026-06-19"}, // Ilmenau, entwendet
 {"coords": [10.6866, 53.8655], "date": "2026-06-19"}, // Lübeck, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2026-06-19"}, // Einfamilienhaus Trier, Einbruch
+//{"coords": [], "date": "2026-06-19"} // Kein Ort gefunden, Dieb
+{"coords": [7.82, 47.99], "date": "2026-06-19"}, // Freiburg, Diebstahl
+{"coords": [6.8761, 50.8778], "date": "2026-06-19"}, // Kabeldieb Hürth, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-06-19"}, // Dieseldiebstahl Augsburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-06-19"}, // Einsatz Freiburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-06-19"}, // Klinik Freiburg, Raub
+{"coords": [8.24, 50.0822], "date": "2026-06-19"}, // Wiesbaden Wiesbaden, Einbrüche
+{"coords": [8.0667, 50.3833], "date": "2026-06-19"}, // Limburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-06-19"}, // Unfallflucht Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-06-19"}, // Unfälle Aalen, Diebstahl

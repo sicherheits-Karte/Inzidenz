@@ -17710,3 +17710,9 @@
 //{"coords": [], "date": "2026-06-18"} // Waldleiningen, gestohlen
 //{"coords": [], "date": "2026-06-18"} // Haustür Thalfang, Einbruch
 {"coords": [7.4653, 51.5136], "date": "2026-06-18"}, // Zeugen Dortmund, Raub
+{"coords": [9.1828, 48.7756], "date": "2026-06-19"}, // Stuttgart- Mitte, gestohlen
+//{"coords": [], "date": "2026-06-19"} // Kreis, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-06-19"}, // Ulm, Raub
+{"coords": [10.9147, 50.6856], "date": "2026-06-19"}, // Ilmenau, entwendet
+{"coords": [10.6866, 53.8655], "date": "2026-06-19"}, // Lübeck, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2026-06-19"}, // Einfamilienhaus Trier, Einbruch

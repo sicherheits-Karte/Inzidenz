@@ -17746,3 +17746,4 @@
 //{"coords": [], "date": "2026-06-20"} // Sportheim, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-06-20"}, // Versuchter Einbruch Reutlingen, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-06-20"}, // Nordhausen, Einbruch
+//{"coords": [], "date": "2026-06-20"} // Anhängerdiebstahl Ruschberg, Diebstahl

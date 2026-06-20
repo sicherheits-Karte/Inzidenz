@@ -17740,3 +17740,8 @@
 {"coords": [8.6306, 53.05], "date": "2026-06-20"}, // Kleinkraftrad Delmenhorst, entwendet
 {"coords": [8.6306, 53.05], "date": "2026-06-20"}, // Delmenhorst Delmenhorst, Diebstähle
 {"coords": [8.6306, 53.05], "date": "2026-06-20"}, // Täterfestnahme Delmenhorst, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-06-20"}, // Nordhausen, entwendet
+{"coords": [10.7956, 51.5019], "date": "2026-06-20"}, // Beute Nordhausen, Diebstahl
+{"coords": [7.6458, 50.275], "date": "2026-06-20"}, // Braubach, Raub
+//{"coords": [], "date": "2026-06-20"} // Sportheim, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-06-20"}, // Versuchter Einbruch Reutlingen, Einbruch

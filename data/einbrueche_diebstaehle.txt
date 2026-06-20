@@ -17749,3 +17749,4 @@
 //{"coords": [], "date": "2026-06-20"} // Anhängerdiebstahl Ruschberg, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-06-20"}, // Landkreis Gotha, Diebstahl
 {"coords": [12.0991, 54.0924], "date": "2026-06-20"}, // Rostock Lichtenhagen Rostock, Raub
+//{"coords": [], "date": "2026-06-20"} // Heizungskeller, Einbruch

@@ -17754,3 +17754,9 @@
 {"coords": [7.1, 51.5167], "date": "2026-06-21"}, // Zeugen Gelsenkirchen, entwendet
 //{"coords": [], "date": "2026-06-21"} // Bad, Diebstahl
 {"coords": [9.4764, 53.6008], "date": "2026-06-21"}, // Zeugen Stade, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-06-21"}, // Fotofahndung Essen, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-06-21"}, // Bremen, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-06-21"}, // Rollerdiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-06-21"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-06-21"}, // Augsburg, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-06-21"}, // Gescheiterter Ladendiebstahl Weimar, Diebstahl

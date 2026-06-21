@@ -17781,3 +17781,4 @@
 //{"coords": [], "date": "2026-06-21"} // Klinik geflogen mehr, Raub
 {"coords": [9.8667, 51.8167], "date": "2026-06-21"}, // Einbeck, Dieb
 {"coords": [9.1333, 53.4833], "date": "2026-06-21"}, // Motorrollers Bremervörde, Diebstahl
+{"coords": [7.5792, 50.4267], "date": "2026-06-21"}, // Hofladen Bendorf, Diebstahl

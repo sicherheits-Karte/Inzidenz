@@ -17760,3 +17760,11 @@
 {"coords": [10.8978, 48.3705], "date": "2026-06-21"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-06-21"}, // Augsburg, Diebstahl
 {"coords": [11.3239, 50.9795], "date": "2026-06-21"}, // Gescheiterter Ladendiebstahl Weimar, Diebstahl
+//{"coords": [], "date": "2026-06-21"} // Höhe, entwendet
+{"coords": [8.24, 50.0822], "date": "2026-06-21"}, // Wiesbaden, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-06-21"}, // Alkoholeinfluss Limburg, Einbruch
+{"coords": [7.0083, 52.075], "date": "2026-06-21"}, // Ahaus, gestohlen
+{"coords": [9.2844, 51.045], "date": "2026-06-21"}, // Wohnhaus Borken, eingebrochen
+{"coords": [9.2844, 51.045], "date": "2026-06-21"}, // Borken, eingebrochen
+{"coords": [9.2167, 48.4833], "date": "2026-06-21"}, // Reutlingen, Einbrecher
+{"coords": [6.9667, 51.2333], "date": "2026-06-21"}, // Polizei Mettmann POL-ME, gestohlen

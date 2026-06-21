@@ -17774,3 +17774,7 @@
 //{"coords": [], "date": "2026-06-21"} // Hinzerath, Diebstahl
 {"coords": [10.95, 50.8333], "date": "2026-06-21"}, // Zeugenaufruf Arnstadt, entwendet
 {"coords": [10.7183, 50.9489], "date": "2026-06-21"}, // Landkreis Gotha, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-06-21"}, // Kindertagesstätte Hildesheim, Einbruch
+//{"coords": [], "date": "2026-06-21"} // Steinau, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-06-21"}, // Ludwigshafen, Raub
+//{"coords": [], "date": "2026-06-21"} // Bahnhof Kreiensen Bad Gandersheim, entwendet

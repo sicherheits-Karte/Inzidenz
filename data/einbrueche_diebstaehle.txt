@@ -17768,3 +17768,9 @@
 {"coords": [9.2844, 51.045], "date": "2026-06-21"}, // Borken, eingebrochen
 {"coords": [9.2167, 48.4833], "date": "2026-06-21"}, // Reutlingen, Einbrecher
 {"coords": [6.9667, 51.2333], "date": "2026-06-21"}, // Polizei Mettmann POL-ME, gestohlen
+//{"coords": [], "date": "2026-06-21"} // Aldekerk, Einbruch
+{"coords": [10.9147, 50.6856], "date": "2026-06-21"}, // Keller Ilmenau, Einbruch
+{"coords": [9.6333, 51.65], "date": "2026-06-21"}, // Diebstahl Uslar, aufbruch
+//{"coords": [], "date": "2026-06-21"} // Hinzerath, Diebstahl
+{"coords": [10.95, 50.8333], "date": "2026-06-21"}, // Zeugenaufruf Arnstadt, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-06-21"}, // Landkreis Gotha, gestohlen

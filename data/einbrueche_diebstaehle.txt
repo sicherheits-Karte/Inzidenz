@@ -17783,3 +17783,9 @@
 {"coords": [9.1333, 53.4833], "date": "2026-06-21"}, // Motorrollers Bremervörde, Diebstahl
 {"coords": [7.5792, 50.4267], "date": "2026-06-21"}, // Hofladen Bendorf, Diebstahl
 //{"coords": [], "date": "2026-06-22"} // Wachtelweg mehr, Diebstahl
+//{"coords": [], "date": "2026-06-22"} // den Farben Grau und Grün von einem Grundstück einer Fahrzeugfirma in der Ringstraße entwendet. Die Fahrzeuge haben je einen Wert von rund, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-06-22"}, // Verkaufshütte Coesfeld, Einbruch
+{"coords": [6.4844, 50.6922], "date": "2026-06-22"}, // Bürogebäude Nideggen, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-06-22"}, // Einbrecher Wolfsburg, Einbruch
+{"coords": [9.0511, 54.4761], "date": "2026-06-22"}, // Untersuchungshaft Husum, Einbruch
+//{"coords": [], "date": "2026-06-22"} // Fuldabrück, Einbrüche

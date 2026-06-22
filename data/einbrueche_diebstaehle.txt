@@ -17793,3 +17793,4 @@
 {"coords": [7.82, 47.99], "date": "2026-06-22"}, // Sakristei Freiburg, Einbruch
 {"coords": [7.4653, 51.5136], "date": "2026-06-22"}, // Dortmund, Dieb
 {"coords": [13.5, 53.55], "date": "2026-06-22"}, // Kublank, Diebstahl
+//{"coords": [], "date": "2026-06-22"} // Scooter Güllesheim, Diebstahl

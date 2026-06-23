@@ -17821,3 +17821,7 @@
 {"coords": [7.7689, 49.4447], "date": "2026-06-23"}, // Powerbank Kaiserslautern, Dieb
 //{"coords": [], "date": "2026-06-23"} // Kein Ort gefunden, gestohlen
 {"coords": [6.7872, 50.6606], "date": "2026-06-23"}, // Euskirchen, entwendet
+//{"coords": [], "date": "2026-06-23"} // Polizeihubschrauber Ilbesheim, Raub
+//{"coords": [], "date": "2026-06-23"} // Grundstück Norken, entwendet
+//{"coords": [], "date": "2026-06-23"} // Birstein, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-06-23"}, // Bochum, Raub

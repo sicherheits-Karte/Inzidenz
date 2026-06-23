@@ -17796,3 +17796,12 @@
 //{"coords": [], "date": "2026-06-22"} // Scooter Güllesheim, Diebstahl
 {"coords": [6.9486, 49.6561], "date": "2026-06-23"}, // Schillingen Hermeskeil, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-06-23"}, // Bahnhof Hildesheim, Diebstahl
+{"coords": [7.75, 51.3833], "date": "2026-06-23"}, // Hemer, gestohlen
+{"coords": [7.9447, 48.4731], "date": "2026-06-23"}, // Offenburg, gestohlen
+//{"coords": [], "date": "2026-06-23"} // Hotelzimmer Masserberg, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-06-23"}, // Iserlohn, Dieb
+//{"coords": [], "date": "2026-06-23"} // Ducherow, Diebstahl
+{"coords": [7.8, 51.4333], "date": "2026-06-23"}, // Menden, Dieb
+{"coords": [7.6333, 51.2167], "date": "2026-06-23"}, // Lüdenscheid, Dieb
+{"coords": [8.8678, 49.9228], "date": "2026-06-23"}, // Zeugen Münster, Einbruch
+{"coords": [8.4333, 51.7], "date": "2026-06-23"}, // Haaren, eingebrochen

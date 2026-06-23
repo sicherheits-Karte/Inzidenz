@@ -17811,3 +17811,7 @@
 {"coords": [7.0982, 50.7374], "date": "2026-06-23"}, // Bonn, Dieb
 //{"coords": [], "date": "2026-06-23"} // Tüddern, Raub
 //{"coords": [], "date": "2026-06-23"} // Zeugensuche Gangelt, Diebstähle
+{"coords": [8.4043, 49.014], "date": "2026-06-23"}, // Tatverdächtigen Karlsruhe, Diebstähle
+//{"coords": [], "date": "2026-06-23"} // Konz, Diebstähle
+{"coords": [7.82, 47.99], "date": "2026-06-23"}, // Obstplantage Freiburg, Diebstahl
+//{"coords": [], "date": "2026-06-23"} // Niederauerbach, Einbruch

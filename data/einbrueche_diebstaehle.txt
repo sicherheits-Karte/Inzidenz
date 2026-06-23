@@ -17805,3 +17805,9 @@
 {"coords": [7.6333, 51.2167], "date": "2026-06-23"}, // Lüdenscheid, Dieb
 {"coords": [8.8678, 49.9228], "date": "2026-06-23"}, // Zeugen Münster, Einbruch
 {"coords": [8.4333, 51.7], "date": "2026-06-23"}, // Haaren, eingebrochen
+{"coords": [9.4144, 51.2519], "date": "2026-06-23"}, // Großenritte Baunatal, Dieb
+//{"coords": [], "date": "2026-06-23"} // West, gestohlen
+{"coords": [8.4414, 50.0919], "date": "2026-06-23"}, // Technikgeschäft Hofheim, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-06-23"}, // Bonn, Dieb
+//{"coords": [], "date": "2026-06-23"} // Tüddern, Raub
+//{"coords": [], "date": "2026-06-23"} // Zeugensuche Gangelt, Diebstähle

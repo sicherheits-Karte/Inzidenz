@@ -17815,3 +17815,8 @@
 //{"coords": [], "date": "2026-06-23"} // Konz, Diebstähle
 {"coords": [7.82, 47.99], "date": "2026-06-23"}, // Obstplantage Freiburg, Diebstahl
 //{"coords": [], "date": "2026-06-23"} // Niederauerbach, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-06-23"}, // Zeugen Dortmund, Raub
+{"coords": [8.6306, 53.05], "date": "2026-06-23"}, // Zeugen Delmenhorst, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-06-23"}, // Karlsruhe, Raub
+{"coords": [7.7689, 49.4447], "date": "2026-06-23"}, // Powerbank Kaiserslautern, Dieb
+//{"coords": [], "date": "2026-06-23"} // Kein Ort gefunden, gestohlen

@@ -17794,3 +17794,4 @@
 {"coords": [7.4653, 51.5136], "date": "2026-06-22"}, // Dortmund, Dieb
 {"coords": [13.5, 53.55], "date": "2026-06-22"}, // Kublank, Diebstahl
 //{"coords": [], "date": "2026-06-22"} // Scooter Güllesheim, Diebstahl
+{"coords": [6.9486, 49.6561], "date": "2026-06-23"}, // Schillingen Hermeskeil, Diebstahl

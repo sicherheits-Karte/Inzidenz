@@ -17835,3 +17835,8 @@
 {"coords": [8.5833, 53.55], "date": "2026-06-24"}, // Mitte, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-06-24"}, // Wohnungen Delmenhorst, Diebstahl
 {"coords": [7.7689, 49.4447], "date": "2026-06-24"}, // Kaiserslautern, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-06-24"}, // Raub Frankfurt, Raub
+{"coords": [8.4661, 49.4878], "date": "2026-06-24"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-06-24"}, // Zeugenaufruf Frankfurt, Räuber
+{"coords": [7.2, 51.6167], "date": "2026-06-24"}, // Ladendiebstahl Recklinghausen, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-06-24"}, // Gotha, Einbruch

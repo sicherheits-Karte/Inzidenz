@@ -17840,3 +17840,8 @@
 {"coords": [8.6822, 50.1106], "date": "2026-06-24"}, // Zeugenaufruf Frankfurt, Räuber
 {"coords": [7.2, 51.6167], "date": "2026-06-24"}, // Ladendiebstahl Recklinghausen, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-06-24"}, // Gotha, Einbruch
+//{"coords": [], "date": "2026-06-24"} // der Straße, entwendet
+{"coords": [8.4661, 49.4878], "date": "2026-06-24"}, // Auto Mannheim, entwendet
+//{"coords": [], "date": "2026-06-24"} // Niedersachsen und Nordrhein-Westfalen aufgeklärt mehr, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-06-24"}, // Giessen, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-06-24"}, // Neuer Link Fahndungsportal Bonn, Dieb

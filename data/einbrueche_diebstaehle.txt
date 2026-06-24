@@ -17848,3 +17848,4 @@
 {"coords": [8.6944, 53.8619], "date": "2026-06-24"}, // Cuxhaven, Diebstahl
 {"coords": [8.4043, 49.014], "date": "2026-06-24"}, // Untersuchungshaft Karlsruhe, Diebstahl
 {"coords": [6.5617, 51.3317], "date": "2026-06-24"}, // Krefeld, Raub
+//{"coords": [], "date": "2026-06-24"} // Diebstahl Konz, Diebstahl

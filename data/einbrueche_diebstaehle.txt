@@ -17828,3 +17828,10 @@
 {"coords": [10.0936, 48.8372], "date": "2026-06-24"}, // Körperverletzung Aalen, Diebstahl
 {"coords": [9.8333, 53.95], "date": "2026-06-24"}, // Diebstahls Hagen, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-06-24"}, // Waldhütte Wittlich, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-06-24"}, // Personen Diepholz, Diebstahl
+{"coords": [12.3333, 49.15], "date": "2026-06-24"}, // Richtung Wald rannten. Der, Dieb
+{"coords": [7.1508, 51.2562], "date": "2026-06-24"}, // Wuppertal, Raub
+{"coords": [6.6961, 50.8719], "date": "2026-06-24"}, // Kerpen, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-06-24"}, // Mitte, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-06-24"}, // Wohnungen Delmenhorst, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-06-24"}, // Kaiserslautern, Diebstahl

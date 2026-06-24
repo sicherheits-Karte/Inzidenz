@@ -17825,3 +17825,6 @@
 //{"coords": [], "date": "2026-06-23"} // Grundstück Norken, entwendet
 //{"coords": [], "date": "2026-06-23"} // Birstein, Raub
 {"coords": [7.2162, 51.4818], "date": "2026-06-23"}, // Bochum, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-06-24"}, // Körperverletzung Aalen, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2026-06-24"}, // Diebstahls Hagen, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-06-24"}, // Waldhütte Wittlich, Einbruch

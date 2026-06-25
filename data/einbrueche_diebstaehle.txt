@@ -17858,3 +17858,9 @@
 {"coords": [6.8889, 49.9858], "date": "2026-06-25"}, // Tageswohnungseinbruch Wittlich, Einbruch
 {"coords": [8.2833, 51.35], "date": "2026-06-25"}, // Garage Meschede, Einbruch
 //{"coords": [], "date": "2026-06-25"} // Langenselbold, Einbruch
+//{"coords": [], "date": "2026-06-25"} // West, gestohlen
+{"coords": [8.6139, 49.7236], "date": "2026-06-25"}, // Zwingenberg, Einbruch
+//{"coords": [], "date": "2026-06-25"} // Orla, Einbrüche
+{"coords": [7.75, 51.3833], "date": "2026-06-25"}, // Hemer, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-06-25"}, // Rennen Iserlohn, Dieb
+{"coords": [8.1075, 53.5219], "date": "2026-06-25"}, // Wilhelmshaven Wilhelmshaven, Diebstahl

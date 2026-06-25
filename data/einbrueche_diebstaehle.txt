@@ -17877,3 +17877,8 @@
 {"coords": [10.8978, 48.3705], "date": "2026-06-25"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [7.7806, 53.5769], "date": "2026-06-25"}, // Landkreis Wittmund, Einbruch
 {"coords": [8.5331, 52.021], "date": "2026-06-25"}, // Bielefeld, Einbrecher
+{"coords": [11.3592, 50.6486], "date": "2026-06-25"}, // Verkehrsunfall Saalfeld, Raub
+//{"coords": [], "date": "2026-06-25"} // Hermsdorfer Kreuz, gestohlen
+//{"coords": [], "date": "2026-06-25"} // Raststätte Hörselgau, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-06-25"}, // Filiale Dortmund, Diebstahl
+//{"coords": [], "date": "2026-06-25"} // Helme, Diebstahl

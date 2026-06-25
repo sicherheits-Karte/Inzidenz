@@ -17864,3 +17864,11 @@
 {"coords": [7.75, 51.3833], "date": "2026-06-25"}, // Hemer, Einbruch
 {"coords": [7.7, 51.375], "date": "2026-06-25"}, // Rennen Iserlohn, Dieb
 {"coords": [8.1075, 53.5219], "date": "2026-06-25"}, // Wilhelmshaven Wilhelmshaven, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-06-25"}, // Euskirchen, Diebstahl
+{"coords": [7.5978, 50.3597], "date": "2026-06-25"}, // Koblenz, entwendet
+//{"coords": [], "date": "2026-06-25"} // Kreis Plön, Räuber
+{"coords": [8.6822, 50.1106], "date": "2026-06-25"}, // Frankfurt, Räuber
+{"coords": [6.6153, 51.8367], "date": "2026-06-25"}, // Bocholt, Einbrecher
+{"coords": [7.0083, 52.075], "date": "2026-06-25"}, // Ahaus, Einbruch
+{"coords": [6.315, 51.0794], "date": "2026-06-25"}, // Bekleidungsgeschäft Erkelenz, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-06-25"}, // Gegenständen Diepholz, Diebstahl

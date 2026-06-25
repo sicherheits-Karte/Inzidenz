@@ -17882,3 +17882,4 @@
 //{"coords": [], "date": "2026-06-25"} // Raststätte Hörselgau, Diebstahl
 {"coords": [7.4653, 51.5136], "date": "2026-06-25"}, // Filiale Dortmund, Diebstahl
 //{"coords": [], "date": "2026-06-25"} // Helme, Diebstahl
+//{"coords": [], "date": "2026-06-25"} // Mähren, Diebstahl

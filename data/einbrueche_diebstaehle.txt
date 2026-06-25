@@ -17872,3 +17872,8 @@
 {"coords": [7.0083, 52.075], "date": "2026-06-25"}, // Ahaus, Einbruch
 {"coords": [6.315, 51.0794], "date": "2026-06-25"}, // Bekleidungsgeschäft Erkelenz, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-06-25"}, // Gegenständen Diepholz, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-06-25"}, // Einsatz Freiburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-06-25"}, // Freiburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-06-25"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2026-06-25"}, // Landkreis Wittmund, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-06-25"}, // Bielefeld, Einbrecher

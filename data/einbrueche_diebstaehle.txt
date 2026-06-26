@@ -17913,3 +17913,8 @@
 //{"coords": [], "date": "2026-06-26"} // Lagerhalle entwendet, Polizei sucht Zeugen mehr, entwendet
 {"coords": [6.9603, 50.9375], "date": "2026-06-26"}, // Köln, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-06-26"}, // Tatverdächtige Hildesheim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-06-26"}, // Einbruch Wiesbaden, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-06-26"}, // Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-06-26"}, // Einsatz Freiburg, Raub
+{"coords": [8.5331, 52.021], "date": "2026-06-26"}, // Bielefeld, Einbruch
+//{"coords": [], "date": "2026-06-26"} // Kein Ort gefunden, gestohlen

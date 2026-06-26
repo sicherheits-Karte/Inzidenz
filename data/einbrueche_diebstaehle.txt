@@ -17889,3 +17889,16 @@
 {"coords": [8.975, 50.0431], "date": "2026-06-26"}, // der Polizeistation Seligenstadt, Diebstahl
 //{"coords": [], "date": "2026-06-26"} // Fahrzeug Hetzerath, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-06-26"}, // Baumarkt Alfeld Hildesheim, Einbruch
+//{"coords": [], "date": "2026-06-26"} // Lastwagen Weilerswist, Diebstahl
+{"coords": [6.8, 51.0], "date": "2026-06-26"}, // Wettbüro Pulheim, eingebrochen
+{"coords": [8.6514, 49.8728], "date": "2026-06-26"}, // Darmstadt, gestohlen
+{"coords": [7.7156, 52.2778], "date": "2026-06-26"}, // Einfamilienhaus Ibbenbüren, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-06-26"}, // Zeugen Lippstadt, Diebstahl
+//{"coords": [], "date": "2026-06-26"} // Angelmodde, Raub
+{"coords": [7.45, 51.4], "date": "2026-06-26"}, // Bäckerei Herdecke, Raub
+{"coords": [8.3833, 51.9], "date": "2026-06-26"}, // Gütersloh, Einbrecher
+{"coords": [10.0, 51.7064], "date": "2026-06-26"}, // Zeugen Northeim, Diebstahl
+{"coords": [8.7667, 51.7167], "date": "2026-06-26"}, // Paderborn Paderborn, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-06-26"}, // Hinweise Northeim, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-06-26"}, // Zeugen Dortmund, Raub
+//{"coords": [], "date": "2026-06-26"} // Weimarer Land, gestohlen

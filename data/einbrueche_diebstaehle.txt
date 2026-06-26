@@ -17883,3 +17883,9 @@
 {"coords": [7.4653, 51.5136], "date": "2026-06-25"}, // Filiale Dortmund, Diebstahl
 //{"coords": [], "date": "2026-06-25"} // Helme, Diebstahl
 //{"coords": [], "date": "2026-06-25"} // Mähren, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-06-26"}, // Aalen, gestohlen
+{"coords": [8.0, 51.45], "date": "2026-06-26"}, // Garage Arnsberg, Einbruch
+//{"coords": [], "date": "2026-06-26"} // Grablichtern Wallscheid, Diebstahl
+{"coords": [8.975, 50.0431], "date": "2026-06-26"}, // der Polizeistation Seligenstadt, Diebstahl
+//{"coords": [], "date": "2026-06-26"} // Fahrzeug Hetzerath, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-06-26"}, // Baumarkt Alfeld Hildesheim, Einbruch

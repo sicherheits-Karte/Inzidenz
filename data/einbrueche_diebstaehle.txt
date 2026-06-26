@@ -17918,3 +17918,6 @@
 {"coords": [7.82, 47.99], "date": "2026-06-26"}, // Einsatz Freiburg, Raub
 {"coords": [8.5331, 52.021], "date": "2026-06-26"}, // Bielefeld, Einbruch
 //{"coords": [], "date": "2026-06-26"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-06-26"} // Elektrofirma Röbel, eingebrochen
+{"coords": [10.2167, 50.3], "date": "2026-06-26"}, // Ortstafel Salz, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2026-06-26"}, // Verwüstung Hannover, stehlen

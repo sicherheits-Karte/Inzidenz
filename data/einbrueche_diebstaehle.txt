@@ -17924,3 +17924,12 @@
 {"coords": [6.4333, 51.2], "date": "2026-06-26"}, // Mönchengladbach, Raub
 {"coords": [7.4653, 51.5136], "date": "2026-06-26"}, // Erpresser Dortmund, Räuber
 {"coords": [6.4833, 50.8], "date": "2026-06-26"}, // Düren, Raub
+{"coords": [10.0, 51.7064], "date": "2026-06-27"}, // Bäckereifiliale Northeim, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-06-27"}, // Brände Aalen, Einbruch
+//{"coords": [], "date": "2026-06-27"} // Bikepark Winterberg, Raub
+{"coords": [6.8889, 49.9858], "date": "2026-06-27"}, // Kennzeichendiebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2026-06-27"} // Grableuchten Hasborn, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2026-06-27"}, // Zeugenhinweise Hagen, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-06-27"}, // Vechta, Einbruch
+//{"coords": [], "date": "2026-06-27"} // Lebenstedt, Diebstahl
+{"coords": [7.25, 52.6167], "date": "2026-06-27"}, // Geeste, Einbruch

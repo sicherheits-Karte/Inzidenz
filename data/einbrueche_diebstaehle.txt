@@ -17935,3 +17935,5 @@
 {"coords": [7.25, 52.6167], "date": "2026-06-27"}, // Geeste, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-06-27"}, // Hofheim, Diebstahl
 {"coords": [8.875, 53.05], "date": "2026-06-27"}, // Osterholz, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-06-27"}, // Festnahme Frankfurt, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-06-27"}, // Auseinandersetzung Reutlingen, Einbruch

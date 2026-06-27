@@ -17933,3 +17933,5 @@
 {"coords": [8.2869, 52.7303], "date": "2026-06-27"}, // Vechta, Einbruch
 //{"coords": [], "date": "2026-06-27"} // Lebenstedt, Diebstahl
 {"coords": [7.25, 52.6167], "date": "2026-06-27"}, // Geeste, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-06-27"}, // Hofheim, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-06-27"}, // Osterholz, Einbruch

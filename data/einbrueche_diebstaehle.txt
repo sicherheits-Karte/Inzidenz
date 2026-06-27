@@ -17939,3 +17939,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-06-27"}, // Auseinandersetzung Reutlingen, Einbruch
 {"coords": [6.4333, 51.2], "date": "2026-06-27"}, // Raubserie Mönchengladbach, Raub
 {"coords": [11.1167, 51.1667], "date": "2026-06-27"}, // Sömmerda, Diebstahl
+//{"coords": [], "date": "2026-06-27"} // Sessenbach, Diebstahl

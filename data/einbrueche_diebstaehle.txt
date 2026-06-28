@@ -17958,3 +17958,4 @@
 //{"coords": [], "date": "2026-06-28"} // Freibad entwendet mehr, entwendet
 {"coords": [6.85, 49.9333], "date": "2026-06-28"}, // Solarpark Salmtal, Diebstahl
 {"coords": [6.9603, 50.9375], "date": "2026-06-28"}, // Einsatz Köln, Raub
+{"coords": [8.1128, 49.1994], "date": "2026-06-28"}, // Landau, Einbruch

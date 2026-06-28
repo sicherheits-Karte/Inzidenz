@@ -17942,3 +17942,8 @@
 //{"coords": [], "date": "2026-06-27"} // Sessenbach, Diebstahl
 {"coords": [10.3667, 50.35], "date": "2026-06-27"}, // Zimmern, Dieb
 {"coords": [7.2162, 51.4818], "date": "2026-06-28"}, // Zeugen Bochum, Raub
+{"coords": [6.85, 49.3], "date": "2026-06-28"}, // Bad Schwalbach, Einbruch
+//{"coords": [], "date": "2026-06-28"} // Niederlinxweiler Niederlinxweiler, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2026-06-28"}, // Suhl, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2026-06-28"}, // Kennzeichen Suhl, Diebstahl
+{"coords": [6.85, 49.4333], "date": "2026-06-28"}, // Schmelz, aufbruch

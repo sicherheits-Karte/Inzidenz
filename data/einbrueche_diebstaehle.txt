@@ -17941,3 +17941,4 @@
 {"coords": [11.1167, 51.1667], "date": "2026-06-27"}, // Sömmerda, Diebstahl
 //{"coords": [], "date": "2026-06-27"} // Sessenbach, Diebstahl
 {"coords": [10.3667, 50.35], "date": "2026-06-27"}, // Zimmern, Dieb
+{"coords": [7.2162, 51.4818], "date": "2026-06-28"}, // Zeugen Bochum, Raub

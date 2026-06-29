@@ -17960,3 +17960,9 @@
 {"coords": [6.9603, 50.9375], "date": "2026-06-28"}, // Einsatz Köln, Raub
 {"coords": [8.1128, 49.1994], "date": "2026-06-28"}, // Landau, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-06-28"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [9.2081, 52.3242], "date": "2026-06-29"}, // Stadthagen, eingebrochen
+{"coords": [8.35, 51.3167], "date": "2026-06-29"}, // Hochsauerlandkreis, Einbrüche
+{"coords": [8.875, 53.05], "date": "2026-06-29"}, // Osterholz, Einbrüche
+{"coords": [12.4333, 50.985], "date": "2026-06-29"}, // Tage Altenburg, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-06-29"}, // Radfahrer Aalen, Einbruch
+{"coords": [8.8731, 51.275], "date": "2026-06-29"}, // Zeugen Korbach, Diebstähle

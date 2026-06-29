@@ -17982,3 +17982,15 @@
 //{"coords": [], "date": "2026-06-29"} // Braunsrath, Einbruch
 //{"coords": [], "date": "2026-06-29"} // Gangelt, entwendet
 {"coords": [6.1333, 51.0833], "date": "2026-06-29"}, // Unterbruch, entwendet
+//{"coords": [], "date": "2026-06-29"} // der Hauptstraße aufgebrochen. Nach bisherigen Erkenntnissen gelang dies durch eine Explosion. Beim Eintreffen der Beamten waren sowohl das Bargeld als auch die Zigaretten noch am Tatort. Die Polizei ermittelt wegen Diebstahls in besonders schwerem Fall und fragt, ob jemand etwas Verdächtiges beobachtet, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-06-29"}, // Hängematte Kaiserslautern, eingebrochen
+//{"coords": [], "date": "2026-06-29"} // Ost, Dieb
+//{"coords": [], "date": "2026-06-29"} // Vaihingen, Raub
+{"coords": [7.82, 47.99], "date": "2026-06-29"}, // Wochenende Freiburg, Diebstähle
+{"coords": [10.0722, 51.3625], "date": "2026-06-29"}, // Motorgeräte Uder, Einbruch
+//{"coords": [], "date": "2026-06-29"} // Ammern, entwendet
+//{"coords": [], "date": "2026-06-29"} // Langfingern, Diebstahl
+{"coords": [6.3475, 51.2742], "date": "2026-06-29"}, // Dülken, Dieb
+//{"coords": [], "date": "2026-06-29"} // Polizei Tönisvorst, Dieb
+//{"coords": [], "date": "2026-06-29"} // wie vielen Gräbern die Täter sich zu schaffen gemacht haben. Auch wie hoch der Gesamtschaden ausfällt, ist noch nicht abschließend geklärt. Einer, Diebstahl
+{"coords": [6.3917, 51.2556], "date": "2026-06-29"}, // Zeugen Viersen, Diebstahl

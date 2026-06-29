@@ -17966,3 +17966,19 @@
 {"coords": [12.4333, 50.985], "date": "2026-06-29"}, // Tage Altenburg, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-06-29"}, // Radfahrer Aalen, Einbruch
 {"coords": [8.8731, 51.275], "date": "2026-06-29"}, // Zeugen Korbach, Diebstähle
+{"coords": [7.9833, 51.95], "date": "2026-06-29"}, // Warendorf, Einbruch
+//{"coords": [], "date": "2026-06-29"} // Kreis, Einbrecher
+{"coords": [8.7667, 50.1], "date": "2026-06-29"}, // Kreis Offenbach, Diebstahl
+{"coords": [6.4333, 51.8333], "date": "2026-06-29"}, // Emmerich, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-06-29"}, // Firmengebäude Warendorf, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-06-29"}, // Bielefeld, Dieb
+{"coords": [7.7156, 52.2778], "date": "2026-06-29"}, // Ibbenbüren, stahl
+{"coords": [8.3833, 51.9], "date": "2026-06-29"}, // Lebensmittelmarkt Gütersloh, Einbruch
+//{"coords": [], "date": "2026-06-29"} // Kein Ort gefunden, Einbrecher
+{"coords": [7.2061, 53.3669], "date": "2026-06-29"}, // Emden, Einbruch
+//{"coords": [], "date": "2026-06-29"} // Effeld, Diebstahl
+{"coords": [6.2194, 51.0614], "date": "2026-06-29"}, // Hückelhoven, entwendet
+{"coords": [6.15, 51.1], "date": "2026-06-29"}, // Merbeck, Dieb
+//{"coords": [], "date": "2026-06-29"} // Braunsrath, Einbruch
+//{"coords": [], "date": "2026-06-29"} // Gangelt, entwendet
+{"coords": [6.1333, 51.0833], "date": "2026-06-29"}, // Unterbruch, entwendet

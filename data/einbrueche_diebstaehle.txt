@@ -18018,3 +18018,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-06-30"}, // Giessen, Einbrecher
 {"coords": [10.8978, 48.3705], "date": "2026-06-30"}, // Delikte Augsburg, gestohlen
 {"coords": [10.8978, 48.3705], "date": "2026-06-30"}, // Fahrraddiebstählen Augsburg, Diebstähle
+{"coords": [6.6833, 51.2], "date": "2026-06-30"}, // Tatverdächtigen Neuss, Raub

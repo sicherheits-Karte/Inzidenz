@@ -17998,3 +17998,12 @@
 {"coords": [10.75, 53.7], "date": "2026-06-30"}, // Polizei Zeugen Ratzeburg, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-06-30"}, // Warendorf, Einbruch
 {"coords": [7.5336, 52.1728], "date": "2026-06-30"}, // Emsdetten, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-06-30"}, // Bielefeld, gestohlen
+{"coords": [8.5833, 53.55], "date": "2026-06-30"}, // Mitte, Raub
+//{"coords": [], "date": "2026-06-30"} // Kein Ort gefunden, Dieb
+{"coords": [8.35, 49.5333], "date": "2026-06-30"}, // Frankenthal, Raub
+{"coords": [6.8833, 52.5], "date": "2026-06-30"}, // Uelsen, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-06-30"}, // Haftbefehl Bielefeld, Dieb
+//{"coords": [], "date": "2026-06-30"} // Kein Ort gefunden, Diebstahl
+{"coords": [9.2167, 48.0833], "date": "2026-06-30"}, // Sigmaringen, Diebstahl
+{"coords": [8.9167, 52.3], "date": "2026-06-30"}, // Zeugen Minden, gestohlen

@@ -18019,3 +18019,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-06-30"}, // Delikte Augsburg, gestohlen
 {"coords": [10.8978, 48.3705], "date": "2026-06-30"}, // Fahrraddiebstählen Augsburg, Diebstähle
 {"coords": [6.6833, 51.2], "date": "2026-06-30"}, // Tatverdächtigen Neuss, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-07-01"}, // Aalen, Raub

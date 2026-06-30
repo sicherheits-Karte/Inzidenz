@@ -18020,3 +18020,6 @@
 {"coords": [10.8978, 48.3705], "date": "2026-06-30"}, // Fahrraddiebstählen Augsburg, Diebstähle
 {"coords": [6.6833, 51.2], "date": "2026-06-30"}, // Tatverdächtigen Neuss, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-07-01"}, // Aalen, Raub
+{"coords": [7.3208, 49.6922], "date": "2026-07-01"}, // Oberstein, Diebstähle
+{"coords": [9.95, 52.15], "date": "2026-07-01"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [6.7667, 49.8333], "date": "2026-07-01"}, // Scooters Schweich, Diebstahl

@@ -17994,3 +17994,7 @@
 //{"coords": [], "date": "2026-06-29"} // Polizei Tönisvorst, Dieb
 //{"coords": [], "date": "2026-06-29"} // wie vielen Gräbern die Täter sich zu schaffen gemacht haben. Auch wie hoch der Gesamtschaden ausfällt, ist noch nicht abschließend geklärt. Einer, Diebstahl
 {"coords": [6.3917, 51.2556], "date": "2026-06-29"}, // Zeugen Viersen, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-06-30"}, // Mitte, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-06-30"}, // Polizei Zeugen Ratzeburg, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-06-30"}, // Warendorf, Einbruch
+{"coords": [7.5336, 52.1728], "date": "2026-06-30"}, // Emsdetten, Diebstahl

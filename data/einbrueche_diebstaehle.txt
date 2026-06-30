@@ -18015,3 +18015,6 @@
 {"coords": [7.8153, 48.5708], "date": "2026-06-30"}, // Tierheim Kehl, Einbruch
 {"coords": [9.2108, 49.1425], "date": "2026-06-30"}, // Einbrüche Heilbronn, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2026-06-30"}, // Auto Kaiserslautern, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-06-30"}, // Giessen, Einbrecher
+{"coords": [10.8978, 48.3705], "date": "2026-06-30"}, // Delikte Augsburg, gestohlen
+{"coords": [10.8978, 48.3705], "date": "2026-06-30"}, // Fahrraddiebstählen Augsburg, Diebstähle

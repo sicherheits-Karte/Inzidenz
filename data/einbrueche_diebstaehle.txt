@@ -18029,3 +18029,10 @@
 {"coords": [10.0936, 48.8372], "date": "2026-07-01"}, // Treibstoffdiebstähle Aalen, Einbruch
 //{"coords": [], "date": "2026-07-01"} // Bausendorf, Diebstahl
 //{"coords": [], "date": "2026-07-01"} // Zeugen Rohrsen, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-07-01"}, // Fotofahndung Essen, stehlen
+{"coords": [7.82, 47.99], "date": "2026-07-01"}, // Einfamilienhaus Freiburg, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-07-01"}, // Wohnungseinbrüchen Diepholz, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-01"}, // Freiburg, Einbruch
+//{"coords": [], "date": "2026-07-01"} // Alten Postweg Bad Oeynhausen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-07-01"}, // Tageswohnungseinbruch Coesfeld, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-07-01"}, // Recklinghausen, Einbruch

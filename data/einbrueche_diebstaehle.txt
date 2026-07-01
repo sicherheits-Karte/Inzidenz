@@ -18023,3 +18023,9 @@
 {"coords": [7.3208, 49.6922], "date": "2026-07-01"}, // Oberstein, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-07-01"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [6.7667, 49.8333], "date": "2026-07-01"}, // Scooters Schweich, Diebstahl
+{"coords": [8.35, 51.3167], "date": "2026-07-01"}, // Hochsauerlandkreis, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-07-01"}, // Untersuchungshaft Ludwigsburg, Raub
+{"coords": [6.45, 51.6583], "date": "2026-07-01"}, // Zeugensuche Xanten, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-07-01"}, // Treibstoffdiebstähle Aalen, Einbruch
+//{"coords": [], "date": "2026-07-01"} // Bausendorf, Diebstahl
+//{"coords": [], "date": "2026-07-01"} // Zeugen Rohrsen, Diebstahl

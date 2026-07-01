@@ -18047,3 +18047,10 @@
 {"coords": [8.7403, 48.7142], "date": "2026-07-01"}, // Calw, Einbruch
 {"coords": [10.5369, 52.1622], "date": "2026-07-01"}, // Wolfenbüttel, Diebstahl
 {"coords": [7.1675, 51.9436], "date": "2026-07-01"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-07-01"}, // Stade, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2026-07-01"}, // Zeugen Göttingen, gestohlen
+{"coords": [9.4764, 53.6008], "date": "2026-07-01"}, // Bewohner Stade, Raub
+{"coords": [8.4414, 50.0919], "date": "2026-07-01"}, // Pkw Hofheim, Einbrecher
+{"coords": [6.85, 49.3], "date": "2026-07-01"}, // Tankstelle Bad Schwalbach, Einbruch
+//{"coords": [], "date": "2026-07-01"} // Lind, Raub
+{"coords": [8.0786, 48.5322], "date": "2026-07-01"}, // Schwerer Verkehrsunfall Oberkirch, Raub

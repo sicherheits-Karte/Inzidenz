@@ -18071,3 +18071,8 @@
 {"coords": [7.6889, 51.5347], "date": "2026-07-02"}, // Unna, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-07-02"}, // Hinweise Delmenhorst, Einbruch
 {"coords": [7.7, 51.375], "date": "2026-07-02"}, // Haustür Iserlohn, Dieb
+{"coords": [8.5833, 53.55], "date": "2026-07-02"}, // Mitte, Diebstahl
+//{"coords": [], "date": "2026-07-02"} // Boscheln, Diebstahl
+//{"coords": [], "date": "2026-07-02"} // Deißlingen, entwendet
+{"coords": [13.6906, 53.8564], "date": "2026-07-02"}, // Mercedes Anklam, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-07-02"}, // Überholmanöver Heilbronn, Einbrüche

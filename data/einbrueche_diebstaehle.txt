@@ -18054,3 +18054,10 @@
 {"coords": [6.85, 49.3], "date": "2026-07-01"}, // Tankstelle Bad Schwalbach, Einbruch
 //{"coords": [], "date": "2026-07-01"} // Lind, Raub
 {"coords": [8.0786, 48.5322], "date": "2026-07-01"}, // Schwerer Verkehrsunfall Oberkirch, Raub
+{"coords": [8.8431, 49.8978], "date": "2026-07-02"}, // Dieburg, Dieb
+{"coords": [6.8889, 49.9858], "date": "2026-07-02"}, // Fahrzeug Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-07-02"}, // Fahrraddiebstahl Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-07-02"}, // Rucksack Wittlich, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-07-02"}, // Gera, Dieb
+{"coords": [7.5978, 50.3597], "date": "2026-07-02"}, // Koblenz, Diebstahl
+{"coords": [6.75, 49.3167], "date": "2026-07-02"}, // Saarlouis Täter von Überwachungskameras in Reimsbach und Losheim am See gefilmt, Raub

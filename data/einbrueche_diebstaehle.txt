@@ -18093,3 +18093,7 @@
 //{"coords": [], "date": "2026-07-02"} // Höhe, Einbruch
 {"coords": [7.6667, 50.55], "date": "2026-07-02"}, // Dierdorf Dierdorf, Einbruch
 {"coords": [9.9333, 52.9667], "date": "2026-07-02"}, // Unfall Heidekreis, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-07-02"}, // Duinger Sportheim Hildesheim, Einbruch
+{"coords": [10.5833, 51.2667], "date": "2026-07-02"}, // Obermehler, Dieb
+{"coords": [10.4333, 51.3667], "date": "2026-07-02"}, // Fenster Niederorschel, Einbruch
+//{"coords": [], "date": "2026-07-02"} // Diebstahl Kirchohmfeld, Diebstahl

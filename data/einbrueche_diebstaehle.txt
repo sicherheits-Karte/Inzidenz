@@ -18083,3 +18083,13 @@
 {"coords": [8.6833, 50.5833], "date": "2026-07-02"}, // Giessen, geklaut
 {"coords": [10.3194, 49.0703], "date": "2026-07-02"}, // Zeugenaufruf Dinkelsbühl, Einbruch
 {"coords": [9.9937, 53.5511], "date": "2026-07-02"}, // Horn Hamburg, Raub
+{"coords": [9.95, 52.15], "date": "2026-07-02"}, // Baustellencontainer Hildesheim, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-07-02"}, // Wittlich, Diebstahl
+{"coords": [10.4, 53.25], "date": "2026-07-02"}, // Lüneburg, geklaut
+//{"coords": [], "date": "2026-07-02"} // Muggensturm, gestohlen
+{"coords": [8.6833, 50.5833], "date": "2026-07-02"}, // Giessen, Einbrecher
+{"coords": [7.5658, 51.4458], "date": "2026-07-02"}, // Wohnungseinbruch Schwerte, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-07-02"}, // Limburg, Einbruch
+//{"coords": [], "date": "2026-07-02"} // Höhe, Einbruch
+{"coords": [7.6667, 50.55], "date": "2026-07-02"}, // Dierdorf Dierdorf, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-07-02"}, // Unfall Heidekreis, Diebstahl

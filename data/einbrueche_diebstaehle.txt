@@ -18076,3 +18076,10 @@
 //{"coords": [], "date": "2026-07-02"} // Deißlingen, entwendet
 {"coords": [13.6906, 53.8564], "date": "2026-07-02"}, // Mercedes Anklam, Diebstahl
 {"coords": [9.2108, 49.1425], "date": "2026-07-02"}, // Überholmanöver Heilbronn, Einbrüche
+{"coords": [8.5833, 53.55], "date": "2026-07-02"}, // Mitte, Raub
+{"coords": [7.82, 47.99], "date": "2026-07-02"}, // Einsatz Freiburg, Raub
+{"coords": [6.25, 51.35], "date": "2026-07-02"}, // Lobberich, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-02"}, // Wohnungseinbruch Freiburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-07-02"}, // Giessen, geklaut
+{"coords": [10.3194, 49.0703], "date": "2026-07-02"}, // Zeugenaufruf Dinkelsbühl, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-07-02"}, // Horn Hamburg, Raub

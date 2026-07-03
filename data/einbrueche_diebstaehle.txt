@@ -18099,3 +18099,6 @@
 //{"coords": [], "date": "2026-07-02"} // Diebstahl Kirchohmfeld, Diebstahl
 //{"coords": [], "date": "2026-07-02"} // Erdgeschosswohnung Niederhambach, Diebstahl
 {"coords": [8.8786, 49.2525], "date": "2026-07-02"}, // Sinsheim, Raub
+{"coords": [7.2, 49.15], "date": "2026-07-03"}, // Gersheim Gersheim, Diebstahl
+{"coords": [7.2564, 49.2378], "date": "2026-07-03"}, // Aßweiler Blieskastel, Diebstahl
+{"coords": [8.8786, 49.2525], "date": "2026-07-03"}, // Sinsheim, Raub

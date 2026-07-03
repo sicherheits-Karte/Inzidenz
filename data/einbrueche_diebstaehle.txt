@@ -18124,3 +18124,9 @@
 {"coords": [10.7183, 50.9489], "date": "2026-07-03"}, // Ladendieb Gotha, Dieb
 //{"coords": [], "date": "2026-07-03"} // Kreis, Raub
 {"coords": [13.405, 52.52], "date": "2026-07-03"}, // Berlin gestohlen, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-07-03"}, // Versuchter Einbruch Reutlingen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-03"}, // Einsatz Freiburg, Raub
+{"coords": [7.82, 47.99], "date": "2026-07-03"}, // Keller Freiburg, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-07-03"}, // Recklinghausen, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-07-03"}, // Bad Schwalbach, Dieb
+{"coords": [8.24, 50.0822], "date": "2026-07-03"}, // Sozialeinrichtung Wiesbaden, Einbruch

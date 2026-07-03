@@ -18130,3 +18130,6 @@
 {"coords": [7.2, 51.6167], "date": "2026-07-03"}, // Recklinghausen, Diebstahl
 {"coords": [6.85, 49.3], "date": "2026-07-03"}, // Bad Schwalbach, Dieb
 {"coords": [8.24, 50.0822], "date": "2026-07-03"}, // Sozialeinrichtung Wiesbaden, Einbruch
+{"coords": [9.1, 48.8], "date": "2026-07-03"}, // Weilimdorf, eingebrochen
+//{"coords": [], "date": "2026-07-03"} // Niederholzklau, klau
+{"coords": [13.6444, 54.5167], "date": "2026-07-03"}, // Sassnitz zu einem versuchten Wohnungseinbruchdiebstahl. Nach derzeitigem Kenntnisstand verschaffte sich ein, Einbruch

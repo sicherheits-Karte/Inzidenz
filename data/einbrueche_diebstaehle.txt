@@ -18109,3 +18109,8 @@
 //{"coords": [], "date": "2026-07-03"} // Kein Ort gefunden, Dieb
 {"coords": [10.5369, 52.1622], "date": "2026-07-03"}, // Wolfenbüttel, Diebstahl
 {"coords": [9.8833, 53.3333], "date": "2026-07-03"}, // Karten Buchholz, Diebstähle
+//{"coords": [], "date": "2026-07-03"} // Varl, Einbruch
+{"coords": [7.7156, 52.2778], "date": "2026-07-03"}, // Ibbenbüren, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2026-07-03"}, // Schaden Bremerhaven, Diebstahl
+//{"coords": [], "date": "2026-07-03"} // Sögel, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-07-03"}, // Tatverdächtigen Cuxhaven, Raub

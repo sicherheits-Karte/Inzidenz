@@ -18102,3 +18102,10 @@
 {"coords": [7.2, 49.15], "date": "2026-07-03"}, // Gersheim Gersheim, Diebstahl
 {"coords": [7.2564, 49.2378], "date": "2026-07-03"}, // Aßweiler Blieskastel, Diebstahl
 {"coords": [8.8786, 49.2525], "date": "2026-07-03"}, // Sinsheim, Raub
+//{"coords": [], "date": "2026-07-03"} // Boele, Dieb
+{"coords": [7.85, 52.35], "date": "2026-07-03"}, // Westerkappeln, Einbruch
+{"coords": [10.3333, 52.15], "date": "2026-07-03"}, // Kabeldiebstahl Salzgitter, eingebrochen
+//{"coords": [], "date": "2026-07-03"} // Einfamilienhaus Radevormwald, Einbruch
+//{"coords": [], "date": "2026-07-03"} // Kein Ort gefunden, Dieb
+{"coords": [10.5369, 52.1622], "date": "2026-07-03"}, // Wolfenbüttel, Diebstahl
+{"coords": [9.8833, 53.3333], "date": "2026-07-03"}, // Karten Buchholz, Diebstähle

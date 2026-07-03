@@ -18114,3 +18114,13 @@
 {"coords": [8.5847, 53.5469], "date": "2026-07-03"}, // Schaden Bremerhaven, Diebstahl
 //{"coords": [], "date": "2026-07-03"} // Sögel, Einbruch
 {"coords": [8.6944, 53.8619], "date": "2026-07-03"}, // Tatverdächtigen Cuxhaven, Raub
+{"coords": [8.9167, 52.3], "date": "2026-07-03"}, // Minden, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-07-03"}, // Zeugen Stade, Einbrecher
+{"coords": [8.4414, 50.0919], "date": "2026-07-03"}, // Wohnhaus Hofheim, Einbruch
+//{"coords": [], "date": "2026-07-03"} // Kein Ort gefunden, entwendet
+{"coords": [10.0, 53.7833], "date": "2026-07-03"}, // Ulzburg, Diebstahl
+{"coords": [10.5333, 51.4167], "date": "2026-07-03"}, // Sollstedt, Dieb
+{"coords": [10.7183, 50.9489], "date": "2026-07-03"}, // Gotha, eingebrochen
+{"coords": [10.7183, 50.9489], "date": "2026-07-03"}, // Ladendieb Gotha, Dieb
+//{"coords": [], "date": "2026-07-03"} // Kreis, Raub
+{"coords": [13.405, 52.52], "date": "2026-07-03"}, // Berlin gestohlen, gestohlen

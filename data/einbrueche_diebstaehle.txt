@@ -18139,3 +18139,12 @@
 {"coords": [7.4842, 52.6742], "date": "2026-07-04"}, // Zeugen Haselünne, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-07-04"}, // Wittlich, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2026-07-04"}, // Speyer, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-07-04"}, // Hildesheim, entwendet
+{"coords": [8.6944, 53.8619], "date": "2026-07-04"}, // Cuxhaven, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-07-04"}, // Diebstahl Reutlingen, Diebstahl
+//{"coords": [], "date": "2026-07-04"} // der Nacht vom, entwendet
+{"coords": [8.6822, 50.1106], "date": "2026-07-04"}, // Mehrfacher Straßenraub Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-07-04"}, // Auto Frankfurt, Einbrecher
+//{"coords": [], "date": "2026-07-04"} // Kein Ort gefunden, Raub
+{"coords": [9.95, 52.15], "date": "2026-07-04"}, // Scootern Hildesheim, Diebstähle
+{"coords": [9.95, 52.15], "date": "2026-07-04"}, // Einbrüche Hildesheim, Einbruch

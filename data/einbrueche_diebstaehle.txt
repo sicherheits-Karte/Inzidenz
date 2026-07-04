@@ -18148,3 +18148,4 @@
 //{"coords": [], "date": "2026-07-04"} // Kein Ort gefunden, Raub
 {"coords": [9.95, 52.15], "date": "2026-07-04"}, // Scootern Hildesheim, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-07-04"}, // Einbrüche Hildesheim, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-07-04"}, // Spielhalle Hofheim, Einbruch

@@ -18134,3 +18134,6 @@
 //{"coords": [], "date": "2026-07-03"} // Niederholzklau, klau
 {"coords": [13.6444, 54.5167], "date": "2026-07-03"}, // Sassnitz zu einem versuchten Wohnungseinbruchdiebstahl. Nach derzeitigem Kenntnisstand verschaffte sich ein, Einbruch
 {"coords": [7.6333, 51.6167], "date": "2026-07-04"}, // Bergkamen, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-07-04"}, // Parteibüro-- Bremen, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-07-04"}, // Euro Gelsenkirchen, Diebstahl
+{"coords": [7.4842, 52.6742], "date": "2026-07-04"}, // Zeugen Haselünne, Einbruch

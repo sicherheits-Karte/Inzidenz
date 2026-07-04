@@ -18137,3 +18137,5 @@
 {"coords": [8.8075, 53.075], "date": "2026-07-04"}, // Parteibüro-- Bremen, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-07-04"}, // Euro Gelsenkirchen, Diebstahl
 {"coords": [7.4842, 52.6742], "date": "2026-07-04"}, // Zeugen Haselünne, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-07-04"}, // Wittlich, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-07-04"}, // Speyer, Diebstahl

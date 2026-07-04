@@ -18133,3 +18133,4 @@
 {"coords": [9.1, 48.8], "date": "2026-07-03"}, // Weilimdorf, eingebrochen
 //{"coords": [], "date": "2026-07-03"} // Niederholzklau, klau
 {"coords": [13.6444, 54.5167], "date": "2026-07-03"}, // Sassnitz zu einem versuchten Wohnungseinbruchdiebstahl. Nach derzeitigem Kenntnisstand verschaffte sich ein, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2026-07-04"}, // Bergkamen, Einbruch

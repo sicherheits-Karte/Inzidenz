@@ -18165,3 +18165,4 @@
 {"coords": [11.5164, 51.0264], "date": "2026-07-05"}, // Apolda, Dieb
 {"coords": [11.5164, 51.0264], "date": "2026-07-05"}, // Stadtgebiet Apolda Apolda, aufbrüche
 {"coords": [10.0, 51.7064], "date": "2026-07-05"}, // Bürogebäude Northeim, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-07-05"}, // Kellereinbrüchen Erfurt, Einbrüche

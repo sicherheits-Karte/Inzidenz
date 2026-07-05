@@ -18162,3 +18162,5 @@
 //{"coords": [], "date": "2026-07-05"} // Niederhain, Diebstahl
 {"coords": [8.6822, 50.1106], "date": "2026-07-05"}, // Raubüberfällen Frankfurt, Raub
 {"coords": [10.7333, 50.65], "date": "2026-07-05"}, // Mehlis, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2026-07-05"}, // Apolda, Dieb
+{"coords": [11.5164, 51.0264], "date": "2026-07-05"}, // Stadtgebiet Apolda Apolda, aufbrüche

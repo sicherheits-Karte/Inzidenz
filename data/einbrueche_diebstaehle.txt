@@ -18157,3 +18157,8 @@
 {"coords": [8.0, 51.45], "date": "2026-07-05"}, // Garage Arnsberg, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-07-05"}, // Wiesbaden, Diebstahl
 {"coords": [10.5369, 52.1622], "date": "2026-07-05"}, // Wolfenbüttel, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2026-07-05"}, // Harburg, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-07-05"}, // Diepholz, Diebstahl
+//{"coords": [], "date": "2026-07-05"} // Niederhain, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-07-05"}, // Raubüberfällen Frankfurt, Raub
+{"coords": [10.7333, 50.65], "date": "2026-07-05"}, // Mehlis, Diebstahl

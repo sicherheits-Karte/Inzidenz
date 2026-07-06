@@ -18195,3 +18195,4 @@
 //{"coords": [], "date": "2026-07-06"} // Kein Ort gefunden, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2026-07-06"}, // Recyclinghof Reutlingen, Einbruch
 //{"coords": [], "date": "2026-07-06"} // Niederkrüchten, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-07-06"}, // Unfall Heilbronn, Raub

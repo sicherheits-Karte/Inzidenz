@@ -18196,3 +18196,5 @@
 {"coords": [9.2167, 48.4833], "date": "2026-07-06"}, // Recyclinghof Reutlingen, Einbruch
 //{"coords": [], "date": "2026-07-06"} // Niederkrüchten, Diebstahl
 {"coords": [9.2108, 49.1425], "date": "2026-07-06"}, // Unfall Heilbronn, Raub
+{"coords": [8.8786, 49.2525], "date": "2026-07-06"}, // Sinsheim, Raub
+{"coords": [8.7917, 51.9917], "date": "2026-07-06"}, // einer hilflosen Lage befindet. Zuletzt wurde er, Raub

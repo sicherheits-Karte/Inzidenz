@@ -18171,3 +18171,11 @@
 //{"coords": [], "date": "2026-07-06"} // Leiwen, Raub
 //{"coords": [], "date": "2026-07-06"} // Bröckel, Raub
 //{"coords": [], "date": "2026-07-06"} // Scheune Bad Gandersheim, Einbruch
+{"coords": [8.4833, 49.9167], "date": "2026-07-06"}, // Gerau, Diebstahl
+{"coords": [7.1667, 50.8167], "date": "2026-07-06"}, // Troisdorf, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-07-06"}, // Zeugenhinweise Hildesheim, Einbrüche
+{"coords": [7.2833, 50.7833], "date": "2026-07-06"}, // Hennef, Dieb
+//{"coords": [], "date": "2026-07-06"} // Netterden, Diebstahl
+//{"coords": [], "date": "2026-07-06"} // Büren, Einbruch
+{"coords": [8.7167, 51.7833], "date": "2026-07-06"}, // Sennelager, Einbruch
+{"coords": [7.3778, 51.0194], "date": "2026-07-06"}, // Handyladen Lindlar, Einbruch

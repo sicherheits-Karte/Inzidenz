@@ -18167,3 +18167,7 @@
 {"coords": [10.0, 51.7064], "date": "2026-07-05"}, // Bürogebäude Northeim, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-07-05"}, // Kellereinbrüchen Erfurt, Einbrüche
 {"coords": [8.0667, 50.3833], "date": "2026-07-05"}, // Limburg, Diebstahl
+{"coords": [9.2958, 50.2556], "date": "2026-07-06"}, // Wächtersbach, Raub
+//{"coords": [], "date": "2026-07-06"} // Leiwen, Raub
+//{"coords": [], "date": "2026-07-06"} // Bröckel, Raub
+//{"coords": [], "date": "2026-07-06"} // Scheune Bad Gandersheim, Einbruch

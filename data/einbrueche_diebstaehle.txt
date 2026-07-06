@@ -18188,3 +18188,10 @@
 //{"coords": [], "date": "2026-07-06"} // und erklärte, aufgrund einer angeblichen Verstopfung das, entwendet
 {"coords": [9.1919, 48.8975], "date": "2026-07-06"}, // Rathaus Ludwigsburg, Einbruch
 {"coords": [7.0083, 52.075], "date": "2026-07-06"}, // Ahaus, eingebrochen
+{"coords": [11.35, 47.9667], "date": "2026-07-06"}, // Berg Koblenz, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-07-06"}, // Giessen, Einbruch
+{"coords": [9.6989, 53.4769], "date": "2026-07-06"}, // Himmelpfortener Vereinsheim und Kindertagesstätte, Mehrere Fälle von Betrug an der Haustür in Buxtehude, Ford Capri bei Unfall auf der Autobahn, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-07-06"}, // Kassel, stehlen
+//{"coords": [], "date": "2026-07-06"} // Kein Ort gefunden, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-07-06"}, // Recyclinghof Reutlingen, Einbruch
+//{"coords": [], "date": "2026-07-06"} // Niederkrüchten, Diebstahl

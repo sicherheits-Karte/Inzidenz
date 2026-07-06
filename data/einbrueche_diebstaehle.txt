@@ -18179,3 +18179,12 @@
 //{"coords": [], "date": "2026-07-06"} // Büren, Einbruch
 {"coords": [8.7167, 51.7833], "date": "2026-07-06"}, // Sennelager, Einbruch
 {"coords": [7.3778, 51.0194], "date": "2026-07-06"}, // Handyladen Lindlar, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-07-06"}, // Essen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-07-06"}, // Aalen, Raub
+{"coords": [7.82, 47.99], "date": "2026-07-06"}, // Freiburg, Dieb
+{"coords": [7.82, 47.99], "date": "2026-07-06"}, // Mopeds Freiburg, Diebstahl
+//{"coords": [], "date": "2026-07-06"} // Zeuge hat einen Einbruch in ein Vereinsgebäude in der Straße, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-07-06"}, // Toilettenanlage Fulda, Einbruch
+//{"coords": [], "date": "2026-07-06"} // und erklärte, aufgrund einer angeblichen Verstopfung das, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-07-06"}, // Rathaus Ludwigsburg, Einbruch
+{"coords": [7.0083, 52.075], "date": "2026-07-06"}, // Ahaus, eingebrochen

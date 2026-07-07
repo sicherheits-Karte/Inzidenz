@@ -18205,3 +18205,16 @@
 {"coords": [12.1997, 50.6544], "date": "2026-07-07"}, // Greiz, entwendet
 {"coords": [12.4333, 50.985], "date": "2026-07-07"}, // Altenburg, Diebstahl
 {"coords": [8.9167, 50.1333], "date": "2026-07-07"}, // Einsatz Hanau, Raub
+{"coords": [11.2139, 49.3758], "date": "2026-07-07"}, // Feucht, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-07-07"}, // Zeugen Nordhorn, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-07-07"}, // Lippe, Dieb
+{"coords": [8.8667, 51.9333], "date": "2026-07-07"}, // Lippe, Einbrüche
+{"coords": [6.8333, 52.0333], "date": "2026-07-07"}, // Vreden, eingebrochen
+{"coords": [6.7, 51.8333], "date": "2026-07-07"}, // Feuerwehr Rhede, Einbruch
+{"coords": [9.2844, 51.045], "date": "2026-07-07"}, // Einfamilienhaus Borken, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-07-07"}, // Bocholt, Dieb
+{"coords": [10.0, 51.7064], "date": "2026-07-07"}, // Hochdruck Northeim, Einbruch
+//{"coords": [], "date": "2026-07-07"} // Schellbronn, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-07-07"}, // Flucht Coesfeld, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-07-07"}, // Kaiserslautern, Raub
+{"coords": [7.0333, 50.8167], "date": "2026-07-07"}, // Niederkassel, Einbruch

@@ -18246,3 +18246,4 @@
 //{"coords": [], "date": "2026-07-07"} // See, gestohlen
 {"coords": [8.6833, 50.5833], "date": "2026-07-07"}, // Giessen, Einbrecher
 {"coords": [6.3917, 51.2556], "date": "2026-07-07"}, // Viersen, Einbruch
+{"coords": [7.8508, 51.0281], "date": "2026-07-07"}, // Person Olpe, Raub

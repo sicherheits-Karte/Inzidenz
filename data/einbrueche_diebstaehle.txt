@@ -18224,3 +18224,19 @@
 {"coords": [9.6775, 50.5528], "date": "2026-07-07"}, // Einfamilienhaus Fulda, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-07-07"}, // Schulzentrum Ludwigsburg, Einbruch
 {"coords": [8.8731, 51.275], "date": "2026-07-07"}, // Korbach, Diebstahl
+//{"coords": [], "date": "2026-07-07"} // Arbeitsbeginn festgestellt. Nach bisherigen Erkenntnissen verschafften sich unbekannte Täter im Verlauf des zurückliegenden Wochenende Zutritt zu, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-07-07"}, // Giessen, Einbrüche
+{"coords": [6.9194, 51.9944], "date": "2026-07-07"}, // Verbrauchermarkt Stadtlohn, Einbruch
+{"coords": [7.0042, 51.9542], "date": "2026-07-07"}, // Geschäft Gescher, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-07-07"}, // Einfamilienhaus Bocholt, Einbruch
+{"coords": [7.0042, 51.9542], "date": "2026-07-07"}, // Gescher, Einbruch
+//{"coords": [], "date": "2026-07-07"} // Hohenraden, Diebstähle
+//{"coords": [], "date": "2026-07-07"} // Fahrzeug Kleinsteinhausen, Diebstahl
+//{"coords": [], "date": "2026-07-07"} // Höhe, Einbruch
+{"coords": [7.6, 49.2], "date": "2026-07-07"}, // Geschäft Pirmasens, Raub
+//{"coords": [], "date": "2026-07-07"} // Zeitraum vom, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-07-07"}, // Hofheim, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-07-07"}, // Hinweise Wilhelmshaven, Einbrüche
+{"coords": [8.0667, 50.3833], "date": "2026-07-07"}, // Limburg, Dieb
+{"coords": [7.7806, 53.5769], "date": "2026-07-07"}, // Landkreis Wittmund, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-07-07"}, // Bad Schwalbach, Einbrecher

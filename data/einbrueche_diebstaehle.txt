@@ -18240,3 +18240,9 @@
 {"coords": [8.0667, 50.3833], "date": "2026-07-07"}, // Limburg, Dieb
 {"coords": [7.7806, 53.5769], "date": "2026-07-07"}, // Landkreis Wittmund, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-07-07"}, // Bad Schwalbach, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-07-07"}, // Automatenplünderungen Reutlingen, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-07-07"}, // Münster, Einbrecher
+{"coords": [8.705, 48.895], "date": "2026-07-07"}, // Festnahme Pforzheim, Einbruch
+//{"coords": [], "date": "2026-07-07"} // See, gestohlen
+{"coords": [8.6833, 50.5833], "date": "2026-07-07"}, // Giessen, Einbrecher
+{"coords": [6.3917, 51.2556], "date": "2026-07-07"}, // Viersen, Einbruch

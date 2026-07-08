@@ -18247,3 +18247,11 @@
 {"coords": [8.6833, 50.5833], "date": "2026-07-07"}, // Giessen, Einbrecher
 {"coords": [6.3917, 51.2556], "date": "2026-07-07"}, // Viersen, Einbruch
 {"coords": [7.8508, 51.0281], "date": "2026-07-07"}, // Person Olpe, Raub
+{"coords": [12.1997, 50.6544], "date": "2026-07-08"}, // Greiz, gestohlen
+{"coords": [8.65, 49.3], "date": "2026-07-08"}, // Walldorf, entwendet
+{"coords": [6.6393, 49.7556], "date": "2026-07-08"}, // Kalenderwoche Trier, klau
+{"coords": [7.95, 51.4833], "date": "2026-07-08"}, // Neheim Arnsberg, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-07-08"}, // Zeugen Meppen, Einbruch
+{"coords": [6.8333, 52.5667], "date": "2026-07-08"}, // Zeugen Wilsum, Diebstahl
+//{"coords": [], "date": "2026-07-08"} // Zeugen Börger, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2026-07-08"}, // Carport Nienburg, Diebstahl

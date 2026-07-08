@@ -18272,3 +18272,12 @@
 {"coords": [7.0982, 50.7374], "date": "2026-07-08"}, // Taschendiebstahl Bonn, Diebstahl
 {"coords": [9.0, 50.7333], "date": "2026-07-08"}, // Homberg, entwendet
 {"coords": [8.5847, 53.5469], "date": "2026-07-08"}, // Kupferkabel Bremerhaven, Diebstahl
+{"coords": [7.4836, 53.4711], "date": "2026-07-08"}, // Landkreis Aurich, Einbruch
+{"coords": [8.8517, 50.0717], "date": "2026-07-08"}, // Untersuchungshaft Obertshausen, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-07-08"}, // Bonn, Diebstahl
+//{"coords": [], "date": "2026-07-08"} // Baustellengelände, stehlen
+//{"coords": [], "date": "2026-07-08"} // Kein Ort gefunden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-07-08"}, // Diebstahl Aalen, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-07-08"}, // Zeugen Wolfsburg, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-07-08"}, // Emden, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2026-07-08"}, // Räuberischer Dienstahl Apolda, stahl

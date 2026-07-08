@@ -18263,3 +18263,12 @@
 {"coords": [8.8667, 51.9333], "date": "2026-07-08"}, // Lippe, Raub
 {"coords": [7.7736, 51.0236], "date": "2026-07-08"}, // Drolshagen Drolshagen, Einbruch
 {"coords": [8.7667, 50.1], "date": "2026-07-08"}, // Kreis Offenbach, Einbruch
+{"coords": [8.45, 49.95], "date": "2026-07-08"}, // Nauheim, entwendet
+{"coords": [11.4656, 48.0933], "date": "2026-07-08"}, // Zeugenaufruf Neuried, Raub
+{"coords": [6.1333, 50.9167], "date": "2026-07-08"}, // Übach, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-07-08"}, // Kinderwagen Bielefeld, Raub
+//{"coords": [], "date": "2026-07-08"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-07-08"}, // Kaiserslautern, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-07-08"}, // Taschendiebstahl Bonn, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-07-08"}, // Homberg, entwendet
+{"coords": [8.5847, 53.5469], "date": "2026-07-08"}, // Kupferkabel Bremerhaven, Diebstahl

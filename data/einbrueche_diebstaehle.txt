@@ -18281,3 +18281,11 @@
 {"coords": [10.7865, 52.4226], "date": "2026-07-08"}, // Zeugen Wolfsburg, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2026-07-08"}, // Emden, Diebstahl
 {"coords": [11.5164, 51.0264], "date": "2026-07-08"}, // Räuberischer Dienstahl Apolda, stahl
+{"coords": [8.4043, 49.014], "date": "2026-07-08"}, // Untersuchungshaft Karlsruhe, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-07-08"}, // Einbrüche Reutlingen, Einbrüche
+{"coords": [8.1361, 53.3969], "date": "2026-07-08"}, // Zeugen Varel, aufbruch
+{"coords": [10.25, 50.6833], "date": "2026-07-08"}, // Vogelsberg Osthessen, stahl
+{"coords": [10.8978, 48.3705], "date": "2026-07-08"}, // Wohnungseinbruch Augsburg, Einbruch
+//{"coords": [], "date": "2026-07-08"} // Höhe, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-07-08"}, // Unfall Aalen, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-07-08"}, // Giessen, Einbrecher

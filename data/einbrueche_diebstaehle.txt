@@ -18289,3 +18289,4 @@
 //{"coords": [], "date": "2026-07-08"} // Höhe, Dieb
 {"coords": [10.0936, 48.8372], "date": "2026-07-08"}, // Unfall Aalen, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-07-08"}, // Giessen, Einbrecher
+{"coords": [8.5833, 49.8667], "date": "2026-07-08"}, // Griesheim, entwendet

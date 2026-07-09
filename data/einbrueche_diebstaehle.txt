@@ -18290,3 +18290,5 @@
 {"coords": [10.0936, 48.8372], "date": "2026-07-08"}, // Unfall Aalen, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-07-08"}, // Giessen, Einbrecher
 {"coords": [8.5833, 49.8667], "date": "2026-07-08"}, // Griesheim, entwendet
+{"coords": [12.0799, 50.8772], "date": "2026-07-09"}, // Gera, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-07-09"}, // Altenburg, gestohlen

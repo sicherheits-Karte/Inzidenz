@@ -18324,3 +18324,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-07-09"}, // Körperverletzung Aalen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-07-09"}, // Freiburg, Diebstahl
 {"coords": [7.7689, 49.4447], "date": "2026-07-09"}, // Einkaufstaschen Kaiserslautern, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-07-09"}, // Verkehrsunfälle Reutlingen, eingebrochen
+{"coords": [8.4661, 49.4878], "date": "2026-07-09"}, // Zeugenaufruf Mannheim, Raub
+{"coords": [6.25, 51.35], "date": "2026-07-09"}, // Lobberich, Diebstahl
+//{"coords": [], "date": "2026-07-09"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.8556, 48.0778], "date": "2026-07-09"}, // Spaichingen, Einbrüche
+//{"coords": [], "date": "2026-07-09"} // Porta Westfalica, entwendet

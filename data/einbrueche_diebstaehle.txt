@@ -18299,3 +18299,17 @@
 //{"coords": [], "date": "2026-07-09"} // Versuchter Einbruch Kandel, Einbruch
 {"coords": [8.3667, 49.9833], "date": "2026-07-09"}, // Gustavsburg, gestohlen
 {"coords": [8.5331, 52.021], "date": "2026-07-09"}, // Bielefeld, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-07-09"}, // Nordhausen, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-07-09"}, // Schnellrestaurant Bielefeld, Einbruch
+//{"coords": [], "date": "2026-07-09"} // Baunataler Einkaufszentrum erbeutet, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-07-09"}, // Bürgeramt Heilbronn, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-07-09"}, // Ulm, Dieb
+//{"coords": [], "date": "2026-07-09"} // Zeuge informierte die Polizei, die die Ermittlungen aufnahm. Die Baustelle ist durch einen Zaun gesichert, doch der hielt die Diebe nicht auf. Sie nahmen sich unter anderem eine Rüttelplatte sowie weitere, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-07-09"}, // Kaiserslautern, Dieb
+{"coords": [8.2146, 53.1434], "date": "2026-07-09"}, // Polizei Oldenburg, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-07-09"}, // Eidelstedt Hamburg, Raub
+//{"coords": [], "date": "2026-07-09"} // Scooters Geilenkirchen, Diebstahl
+//{"coords": [], "date": "2026-07-09"} // Stahe, entwendet
+//{"coords": [], "date": "2026-07-09"} // Porselen, Dieb
+{"coords": [6.0961, 51.0631], "date": "2026-07-09"}, // Heinsberg, stahl
+{"coords": [8.5847, 53.5469], "date": "2026-07-09"}, // Zeugen Bremerhaven, Diebstahl

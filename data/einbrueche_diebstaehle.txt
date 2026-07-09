@@ -18292,3 +18292,10 @@
 {"coords": [8.5833, 49.8667], "date": "2026-07-08"}, // Griesheim, entwendet
 {"coords": [12.0799, 50.8772], "date": "2026-07-09"}, // Gera, Diebstahl
 {"coords": [12.4333, 50.985], "date": "2026-07-09"}, // Altenburg, gestohlen
+//{"coords": [], "date": "2026-07-09"} // Geldautomaten Sankt Augustin, aufbruch
+{"coords": [10.4167, 50.55], "date": "2026-07-09"}, // Meiningen, Diebstahl
+{"coords": [7.0083, 52.075], "date": "2026-07-09"}, // Ahaus, eingebrochen
+{"coords": [8.705, 48.895], "date": "2026-07-09"}, // Pforzheim, Dieb
+//{"coords": [], "date": "2026-07-09"} // Versuchter Einbruch Kandel, Einbruch
+{"coords": [8.3667, 49.9833], "date": "2026-07-09"}, // Gustavsburg, gestohlen
+{"coords": [8.5331, 52.021], "date": "2026-07-09"}, // Bielefeld, Dieb

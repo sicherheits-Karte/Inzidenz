@@ -18313,3 +18313,14 @@
 //{"coords": [], "date": "2026-07-09"} // Porselen, Dieb
 {"coords": [6.0961, 51.0631], "date": "2026-07-09"}, // Heinsberg, stahl
 {"coords": [8.5847, 53.5469], "date": "2026-07-09"}, // Zeugen Bremerhaven, Diebstahl
+{"coords": [8.705, 48.895], "date": "2026-07-09"}, // Pforzheim, Raub
+//{"coords": [], "date": "2026-07-09"} // Rathaus Wintrich, Einbruch
+{"coords": [9.4144, 51.2519], "date": "2026-07-09"}, // Altenbauna Baunatal, gestohlen
+{"coords": [8.6833, 50.5833], "date": "2026-07-09"}, // Giessen, Einbruch
+//{"coords": [], "date": "2026-07-09"} // Kein Ort gefunden, gestohlen
+{"coords": [13.0639, 53.3611], "date": "2026-07-09"}, // Neustrelitz, Diebstahl
+{"coords": [13.6906, 53.8564], "date": "2026-07-09"}, // Zeugen Anklam, Einbruch
+//{"coords": [], "date": "2026-07-09"} // Neubulach, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-07-09"}, // Körperverletzung Aalen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-09"}, // Freiburg, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-07-09"}, // Einkaufstaschen Kaiserslautern, Dieb

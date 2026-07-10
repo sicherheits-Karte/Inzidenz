@@ -18331,3 +18331,16 @@
 {"coords": [8.8556, 48.0778], "date": "2026-07-09"}, // Spaichingen, Einbrüche
 //{"coords": [], "date": "2026-07-09"} // Porta Westfalica, entwendet
 {"coords": [14.0444, 53.7392], "date": "2026-07-10"}, // Ueckermünde, Raub
+{"coords": [10.5369, 52.1622], "date": "2026-07-10"}, // Wolfenbüttel, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-07-10"}, // Mitte, entwendet
+{"coords": [8.2146, 53.1434], "date": "2026-07-10"}, // Hinweise Oldenburg, Einbruch
+{"coords": [8.7239, 49.8244], "date": "2026-07-10"}, // Mühltal, gestohlen
+{"coords": [8.7667, 51.7167], "date": "2026-07-10"}, // Paderborn, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-07-10"}, // Altenburg, Raub
+{"coords": [12.4333, 50.985], "date": "2026-07-10"}, // Altenburg, gestohlen
+//{"coords": [], "date": "2026-07-10"} // Atteln, Einbrüche
+{"coords": [12.0799, 50.8772], "date": "2026-07-10"}, // Gera, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-07-10"}, // Diebstahl Aalen, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-07-10"}, // Fahndungsrücknahme Köln, Räuber
+{"coords": [10.0936, 48.8372], "date": "2026-07-10"}, // Widerstand Aalen, Einbruch
+{"coords": [8.35, 51.3167], "date": "2026-07-10"}, // Hochsauerlandkreis, Einbruch

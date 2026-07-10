@@ -18330,3 +18330,4 @@
 //{"coords": [], "date": "2026-07-09"} // Kein Ort gefunden, Diebstahl
 {"coords": [8.8556, 48.0778], "date": "2026-07-09"}, // Spaichingen, Einbrüche
 //{"coords": [], "date": "2026-07-09"} // Porta Westfalica, entwendet
+{"coords": [14.0444, 53.7392], "date": "2026-07-10"}, // Ueckermünde, Raub

@@ -18364,3 +18364,7 @@
 {"coords": [8.6944, 49.4092], "date": "2026-07-10"}, // Zeugenaufruf Heidelberg, entwendet
 {"coords": [9.2108, 49.1425], "date": "2026-07-10"}, // Heilbronn, Einbruch
 {"coords": [8.8075, 53.075], "date": "2026-07-10"}, // Bremen, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-07-10"}, // Ludwigsburg, Dieb
+{"coords": [7.9447, 48.4731], "date": "2026-07-10"}, // Offenburg, entwendet
+{"coords": [7.82, 47.99], "date": "2026-07-10"}, // Einsatz Freiburg, Raub
+{"coords": [9.732, 52.3759], "date": "2026-07-10"}, // Hannover, gestohlen

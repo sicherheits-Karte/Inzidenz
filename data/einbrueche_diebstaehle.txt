@@ -18369,3 +18369,4 @@
 {"coords": [7.82, 47.99], "date": "2026-07-10"}, // Einsatz Freiburg, Raub
 {"coords": [9.732, 52.3759], "date": "2026-07-10"}, // Hannover, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2026-07-10"}, // Verkehrsunfall Reutlingen, Einbruch
+//{"coords": [], "date": "2026-07-10"} // Elkenroth, Raub

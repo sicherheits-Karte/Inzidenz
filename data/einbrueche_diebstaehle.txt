@@ -18344,3 +18344,14 @@
 {"coords": [6.9603, 50.9375], "date": "2026-07-10"}, // Fahndungsrücknahme Köln, Räuber
 {"coords": [10.0936, 48.8372], "date": "2026-07-10"}, // Widerstand Aalen, Einbruch
 {"coords": [8.35, 51.3167], "date": "2026-07-10"}, // Hochsauerlandkreis, Einbruch
+//{"coords": [], "date": "2026-07-10"} // Breyell, Einbruch
+{"coords": [6.5617, 51.3317], "date": "2026-07-10"}, // Krefeld, geklaut
+{"coords": [7.9447, 48.4731], "date": "2026-07-10"}, // Ladendiebstahl Offenburg, Diebstahl
+//{"coords": [], "date": "2026-07-10"} // dem Umfeld, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-07-10"}, // Haustürbetrug Delmenhorst, entwendet
+{"coords": [9.4108, 53.1111], "date": "2026-07-10"}, // Rotenburg, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-07-10"}, // Bielefeld, Einbruch
+{"coords": [6.2333, 50.7833], "date": "2026-07-10"}, // Stolberg, Raub
+{"coords": [8.2036, 48.8572], "date": "2026-07-10"}, // Handtaschendiebstahl Rastatt, Diebstahl
+{"coords": [7.8667, 48.35], "date": "2026-07-10"}, // Lahr, eingebrochen
+{"coords": [6.7872, 50.6606], "date": "2026-07-10"}, // Tatverdächtigem Euskirchen, gestohlen

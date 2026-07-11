@@ -18383,3 +18383,4 @@
 {"coords": [9.8333, 53.95], "date": "2026-07-11"}, // Hagen, Raub
 {"coords": [7.2162, 51.4818], "date": "2026-07-11"}, // Tatverdächtigen Bochum, Raub
 {"coords": [6.7735, 51.2277], "date": "2026-07-11"}, // Langer Stau Düsseldorf, Raub
+{"coords": [6.7735, 51.2277], "date": "2026-07-11"}, // Düsseldorf, gestohlen

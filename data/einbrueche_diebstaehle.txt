@@ -18377,3 +18377,5 @@
 {"coords": [10.3167, 51.4], "date": "2026-07-11"}, // Einbruch Leinefelde, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-07-11"}, // Diebstahl Gelsenkirchen, Diebstahl
 {"coords": [7.4547, 53.2311], "date": "2026-07-11"}, // Leer, entwendet
+{"coords": [8.6822, 50.1106], "date": "2026-07-11"}, // Straßenraub- Zeugenaufruf Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-07-11"}, // Geldautomat- Zeugenaufruf Frankfurt, Raub

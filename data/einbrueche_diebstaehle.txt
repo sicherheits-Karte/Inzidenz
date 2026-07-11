@@ -18373,3 +18373,7 @@
 {"coords": [7.95, 51.4833], "date": "2026-07-11"}, // Neheim, Einbruch
 {"coords": [7.3608, 49.2492], "date": "2026-07-11"}, // Grabschmuck Zweibrücken, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-07-11"}, // Holle Hildesheim, Einbruch
+//{"coords": [], "date": "2026-07-11"} // Kreis, Einbruch
+{"coords": [10.3167, 51.4], "date": "2026-07-11"}, // Einbruch Leinefelde, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-07-11"}, // Diebstahl Gelsenkirchen, Diebstahl
+{"coords": [7.4547, 53.2311], "date": "2026-07-11"}, // Leer, entwendet

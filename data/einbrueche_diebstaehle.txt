@@ -18370,3 +18370,6 @@
 {"coords": [9.732, 52.3759], "date": "2026-07-10"}, // Hannover, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2026-07-10"}, // Verkehrsunfall Reutlingen, Einbruch
 //{"coords": [], "date": "2026-07-10"} // Elkenroth, Raub
+{"coords": [7.95, 51.4833], "date": "2026-07-11"}, // Neheim, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2026-07-11"}, // Grabschmuck Zweibrücken, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-07-11"}, // Holle Hildesheim, Einbruch

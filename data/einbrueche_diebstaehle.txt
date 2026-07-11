@@ -18380,3 +18380,5 @@
 {"coords": [8.6822, 50.1106], "date": "2026-07-11"}, // Straßenraub- Zeugenaufruf Frankfurt, Raub
 {"coords": [8.6822, 50.1106], "date": "2026-07-11"}, // Geldautomat- Zeugenaufruf Frankfurt, Raub
 {"coords": [8.4414, 50.0919], "date": "2026-07-11"}, // Hofheim, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-07-11"}, // Hagen, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-07-11"}, // Tatverdächtigen Bochum, Raub

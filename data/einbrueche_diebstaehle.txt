@@ -18389,3 +18389,9 @@
 //{"coords": [], "date": "2026-07-12"} // Einbruch Bischhagen, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-07-12"}, // Einbruchsdiebstahl Ludwigshafen, Einbruch
 {"coords": [10.5464, 52.4886], "date": "2026-07-12"}, // Diebstahlsversuch Gifhorn, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-07-12"}, // Gallusanlage Frankfurt, Raub
+{"coords": [8.24, 50.0822], "date": "2026-07-12"}, // Wiesbaden, Raub
+{"coords": [6.8889, 49.9858], "date": "2026-07-12"}, // Wohnung Wittlich, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-07-12"}, // Weimar, entwendet
+{"coords": [11.3239, 50.9795], "date": "2026-07-12"}, // Weimar, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-07-12"}, // West Jena, Diebstahl

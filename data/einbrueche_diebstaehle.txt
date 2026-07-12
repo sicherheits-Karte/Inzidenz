@@ -18405,3 +18405,6 @@
 {"coords": [10.4, 53.25], "date": "2026-07-12"}, // Lüneburg, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-07-12"}, // Hofheim, entwendet
 {"coords": [6.85, 49.3], "date": "2026-07-12"}, // Bad Schwalbach, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2026-07-12"}, // Goslar, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-07-12"}, // Fotofahndung Essen, stahl
+{"coords": [7.0116, 51.4556], "date": "2026-07-12"}, // Essen, Dieb

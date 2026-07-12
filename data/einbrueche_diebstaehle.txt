@@ -18411,3 +18411,4 @@
 {"coords": [8.3708, 52.6078], "date": "2026-07-12"}, // Diepholz, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-07-12"}, // Erfurt, eingebrochen
 {"coords": [8.0667, 50.3833], "date": "2026-07-12"}, // Sachbeschädigung Limburg, gestohlen
+{"coords": [7.9019, 53.5736], "date": "2026-07-12"}, // Jever, Einbruch

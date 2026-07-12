@@ -18395,3 +18395,13 @@
 {"coords": [11.3239, 50.9795], "date": "2026-07-12"}, // Weimar, entwendet
 {"coords": [11.3239, 50.9795], "date": "2026-07-12"}, // Weimar, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2026-07-12"}, // West Jena, Diebstahl
+//{"coords": [], "date": "2026-07-12"} // Höhe, Diebstahl
+//{"coords": [], "date": "2026-07-12"} // Einfamilienhaus Altdorf, Einbruch
+//{"coords": [], "date": "2026-07-12"} // der Schubertstraße mehr, Einbruch
+//{"coords": [], "date": "2026-07-12"} // Altenburger Land, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-07-12"}, // Reutlingen, entwendet
+{"coords": [9.4764, 53.6008], "date": "2026-07-12"}, // Stade, Einbrecher
+{"coords": [11.0767, 49.4521], "date": "2026-07-12"}, // Einbrecher Nürnberg, Einbrecher
+{"coords": [10.4, 53.25], "date": "2026-07-12"}, // Lüneburg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-07-12"}, // Hofheim, entwendet
+{"coords": [6.85, 49.3], "date": "2026-07-12"}, // Bad Schwalbach, Einbruch

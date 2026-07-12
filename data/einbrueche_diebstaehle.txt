@@ -18385,3 +18385,4 @@
 {"coords": [6.7735, 51.2277], "date": "2026-07-11"}, // Langer Stau Düsseldorf, Raub
 {"coords": [6.7735, 51.2277], "date": "2026-07-11"}, // Düsseldorf, gestohlen
 {"coords": [7.6, 49.2], "date": "2026-07-11"}, // Zeugenhinweise Pirmasens, Diebstahl
+{"coords": [12.0991, 54.0924], "date": "2026-07-12"}, // Freiwilligen Feuerwehr Gehlsdorf Rostock, Einbruch

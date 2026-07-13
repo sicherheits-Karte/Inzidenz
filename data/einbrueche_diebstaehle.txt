@@ -18440,3 +18440,8 @@
 //{"coords": [], "date": "2026-07-13"} // Kreis, Einbrüche
 {"coords": [11.1, 48.7167], "date": "2026-07-13"}, // Zeugen Oberhausen, entwendet
 {"coords": [6.7, 51.8333], "date": "2026-07-13"}, // Bargeld Rhede, entwendet
+{"coords": [10.8978, 48.3705], "date": "2026-07-13"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-07-13"}, // Trickdiebstahl Augsburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-07-13"}, // Giessen, entwendet
+{"coords": [8.1139, 49.7569], "date": "2026-07-13"}, // Zeugen Alzey, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-07-13"}, // Eingangstür Giessen, Einbrecher

@@ -18412,3 +18412,4 @@
 {"coords": [11.0299, 50.9848], "date": "2026-07-12"}, // Erfurt, eingebrochen
 {"coords": [8.0667, 50.3833], "date": "2026-07-12"}, // Sachbeschädigung Limburg, gestohlen
 {"coords": [7.9019, 53.5736], "date": "2026-07-12"}, // Jever, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-07-13"}, // Sömmerda, Diebstahl

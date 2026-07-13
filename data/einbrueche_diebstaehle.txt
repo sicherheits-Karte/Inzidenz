@@ -18415,3 +18415,9 @@
 {"coords": [11.1167, 51.1667], "date": "2026-07-13"}, // Sömmerda, Diebstahl
 {"coords": [10.3667, 50.7333], "date": "2026-07-13"}, // Fambach, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-07-13"}, // Garagenkomplex Hildesheim, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-07-13"}, // Zeugen Oldenburg, Einbrüche
+{"coords": [7.1508, 51.2562], "date": "2026-07-13"}, // Zeugen Wuppertal, Raub
+{"coords": [8.1333, 51.5], "date": "2026-07-13"}, // Einfamilienhaus Möhnesee, Einbruch
+{"coords": [8.2833, 51.35], "date": "2026-07-13"}, // Zeugen Meschede, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-07-13"}, // Zeugen Osnabrück, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-07-13"}, // Sonstiges Aalen, Einbrüche

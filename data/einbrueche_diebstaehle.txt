@@ -18421,3 +18421,10 @@
 {"coords": [8.2833, 51.35], "date": "2026-07-13"}, // Zeugen Meschede, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-07-13"}, // Zeugen Osnabrück, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-07-13"}, // Sonstiges Aalen, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2026-07-13"}, // Fulda, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-07-13"}, // Kiosk Gronau, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-07-13"}, // Zeugenaufruf Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-07-13"} // Kreis, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-07-13"}, // Iserlohn, gestohlen
+{"coords": [7.0116, 51.4556], "date": "2026-07-13"}, // Zeugenaufruf Essen, Einbruch
+{"coords": [7.4569, 50.7083], "date": "2026-07-13"}, // Wohnungseinbruchsdiebstahl Kircheib, Einbruch

@@ -18496,3 +18496,7 @@
 //{"coords": [], "date": "2026-07-14"} // Trickdiebstahl Weisenbach, Diebstahl
 {"coords": [10.3667, 50.7333], "date": "2026-07-14"}, // Fambach, Dieb
 {"coords": [9.0, 50.7333], "date": "2026-07-14"}, // Melsunger Innenstadt Homberg, Einbruch
+//{"coords": [], "date": "2026-07-14"} // Verfahren wegen besonders schwerem Fall des Diebstahls sowie der Störung der Totenruhe eröffnet. Hinweise zu der Tat, Diebstahl
+{"coords": [7.8833, 49.5667], "date": "2026-07-14"}, // Arztpraxis Winnweiler, Einbruch
+//{"coords": [], "date": "2026-07-14"} // Seck, Raub
+{"coords": [7.7689, 49.4447], "date": "2026-07-14"}, // Zeugen Kaiserslautern, Diebstahl

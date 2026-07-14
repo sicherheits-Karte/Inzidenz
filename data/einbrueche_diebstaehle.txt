@@ -18470,3 +18470,15 @@
 {"coords": [7.82, 47.99], "date": "2026-07-14"}, // Freiburg, Raub
 {"coords": [10.6944, 50.6111], "date": "2026-07-14"}, // Ladendiebstahl Suhl, Diebstahl
 {"coords": [9.1333, 48.8], "date": "2026-07-14"}, // Feuerbach, Einbruch
+//{"coords": [], "date": "2026-07-14"} // Hastenrath, gestohlen
+//{"coords": [], "date": "2026-07-14"} // Hastenrath, entwendet
+//{"coords": [], "date": "2026-07-14"} // Einfamilienhaus Gangelt, Einbruch
+{"coords": [10.0528, 51.1889], "date": "2026-07-14"}, // Eschwege, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-07-14"}, // Kaiserslautern, gestohlen
+//{"coords": [], "date": "2026-07-14"} // Benshausen, eingebrochen
+{"coords": [7.0116, 51.4556], "date": "2026-07-14"}, // Fotofahndung Essen, Diebstahl
+{"coords": [9.5542, 52.2083], "date": "2026-07-14"}, // Springe gestoppt mehr, Dieb
+//{"coords": [], "date": "2026-07-14"} // Kein Ort gefunden, Raub
+{"coords": [8.6267, 48.1678], "date": "2026-07-14"}, // Rottweil, Diebstahl
+{"coords": [6.8, 51.0], "date": "2026-07-14"}, // Festnahme Pulheim, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-07-14"}, // Schulstraße Ludwigsburg, Einbrüche

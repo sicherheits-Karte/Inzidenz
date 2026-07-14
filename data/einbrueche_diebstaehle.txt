@@ -18490,3 +18490,9 @@
 {"coords": [10.8978, 48.3705], "date": "2026-07-14"}, // Raubdelikt Augsburg, Raub
 {"coords": [10.8978, 48.3705], "date": "2026-07-14"}, // Pkw Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-07-14"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-07-14"}, // Industriegebiet Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-14"}, // Dach Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-07-14"}, // Einsatz Freiburg, Raub
+//{"coords": [], "date": "2026-07-14"} // Trickdiebstahl Weisenbach, Diebstahl
+{"coords": [10.3667, 50.7333], "date": "2026-07-14"}, // Fambach, Dieb
+{"coords": [9.0, 50.7333], "date": "2026-07-14"}, // Melsunger Innenstadt Homberg, Einbruch

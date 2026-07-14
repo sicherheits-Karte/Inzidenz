@@ -18458,3 +18458,15 @@
 {"coords": [8.6514, 49.8728], "date": "2026-07-14"}, // Darmstadt, gestohlen
 {"coords": [9.4764, 53.6008], "date": "2026-07-14"}, // Zeugen Stade, Dieb
 //{"coords": [], "date": "2026-07-14"} // Weimarer Land, Diebstahl
+//{"coords": [], "date": "2026-07-14"} // Samern, Diebstahl
+{"coords": [8.2146, 53.1434], "date": "2026-07-14"}, // Oldenburg, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-07-14"}, // Münster, Raub
+{"coords": [8.875, 53.05], "date": "2026-07-14"}, // Landkreis Osterholz, entwendet
+{"coords": [11.3592, 50.6486], "date": "2026-07-14"}, // Hoher Sachschaden Saalfeld, Einbruch
+{"coords": [10.2167, 50.7], "date": "2026-07-14"}, // Roßdorf, Dieb
+{"coords": [7.2056, 50.8014], "date": "2026-07-14"}, // Siegburg, Dieb
+{"coords": [6.3667, 51.4833], "date": "2026-07-14"}, // Nieukerk, Diebstahl
+//{"coords": [], "date": "2026-07-14"} // Spoldershagen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-14"}, // Freiburg, Raub
+{"coords": [10.6944, 50.6111], "date": "2026-07-14"}, // Ladendiebstahl Suhl, Diebstahl
+{"coords": [9.1333, 48.8], "date": "2026-07-14"}, // Feuerbach, Einbruch

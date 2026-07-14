@@ -18482,3 +18482,11 @@
 {"coords": [8.6267, 48.1678], "date": "2026-07-14"}, // Rottweil, Diebstahl
 {"coords": [6.8, 51.0], "date": "2026-07-14"}, // Festnahme Pulheim, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-07-14"}, // Schulstraße Ludwigsburg, Einbrüche
+{"coords": [9.6106, 47.7828], "date": "2026-07-14"}, // Landkreis Ravensburg Landkreis Ravensburg, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-07-14"}, // Ulm, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-07-14"}, // Erfurt, Einbruch
+//{"coords": [], "date": "2026-07-14"} // der Warendorfer Straße, eingebrochen
+{"coords": [10.8978, 48.3705], "date": "2026-07-14"}, // Einbruchsdiebstahl Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-07-14"}, // Raubdelikt Augsburg, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-07-14"}, // Pkw Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-07-14"}, // Fahrraddiebstahl Augsburg, Diebstahl

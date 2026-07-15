@@ -18509,3 +18509,14 @@
 //{"coords": [], "date": "2026-07-15"} // Schauenburg, Raub
 //{"coords": [], "date": "2026-07-15"} // Holzwickede, Diebstahl
 {"coords": [7.8508, 51.0281], "date": "2026-07-15"}, // Olpe, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-07-15"}, // Hildesheim, Dieb
+{"coords": [7.4653, 51.5136], "date": "2026-07-15"}, // Dortmund, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-07-15"}, // Vollstreckungsbeamte Reutlingen, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2026-07-15"}, // Euskirchen, Diebstahl
+{"coords": [13.2875, 52.4583], "date": "2026-07-15"}, // Dahlem, entwendet
+{"coords": [9.6775, 50.5528], "date": "2026-07-15"}, // Zeugenaufruf Fulda, entwendet
+{"coords": [6.6667, 50.7], "date": "2026-07-15"}, // Zülpich, Raub
+//{"coords": [], "date": "2026-07-15"} // Weimarer Land, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-07-15"}, // Osterholz, Einbruch
+//{"coords": [], "date": "2026-07-15"} // Kreis, Einbrecher
+//{"coords": [], "date": "2026-07-15"} // Weimarer Land, gestohlen

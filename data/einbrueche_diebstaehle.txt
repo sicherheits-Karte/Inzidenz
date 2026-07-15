@@ -18500,3 +18500,4 @@
 {"coords": [7.8833, 49.5667], "date": "2026-07-14"}, // Arztpraxis Winnweiler, Einbruch
 //{"coords": [], "date": "2026-07-14"} // Seck, Raub
 {"coords": [7.7689, 49.4447], "date": "2026-07-14"}, // Zeugen Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2026-07-15"} // Zigarettenautomats Fachbach, entwendet

@@ -18525,3 +18525,12 @@
 //{"coords": [], "date": "2026-07-15"} // Dremmen, Diebstähle
 //{"coords": [], "date": "2026-07-15"} // Orsbeck, Raub
 {"coords": [8.2869, 52.7303], "date": "2026-07-15"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2026-07-15"} // Lichtental, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-07-15"}, // Oldenburg, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-07-15"}, // Drogenfund Wiesbaden, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-15"}, // Zeugen Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-07-15"}, // Freiburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-07-15"}, // Giessen, Dieb
+{"coords": [7.82, 47.99], "date": "2026-07-15"}, // Einsatz Freiburg, Raub
+{"coords": [6.3475, 51.2742], "date": "2026-07-15"}, // Dülken, gestohlen
+{"coords": [10.5369, 52.1622], "date": "2026-07-15"}, // Wolfenbüttel, Einbruch

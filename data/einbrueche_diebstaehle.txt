@@ -18501,3 +18501,4 @@
 //{"coords": [], "date": "2026-07-14"} // Seck, Raub
 {"coords": [7.7689, 49.4447], "date": "2026-07-14"}, // Zeugen Kaiserslautern, Diebstahl
 //{"coords": [], "date": "2026-07-15"} // Zigarettenautomats Fachbach, entwendet
+{"coords": [8.7667, 51.7167], "date": "2026-07-15"}, // Paderborn, Einbruch

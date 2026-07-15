@@ -18520,3 +18520,8 @@
 {"coords": [8.875, 53.05], "date": "2026-07-15"}, // Osterholz, Einbruch
 //{"coords": [], "date": "2026-07-15"} // Kreis, Einbrecher
 //{"coords": [], "date": "2026-07-15"} // Weimarer Land, gestohlen
+{"coords": [8.705, 48.895], "date": "2026-07-15"}, // Zeugen Pforzheim, Einbruch
+{"coords": [6.15, 51.1], "date": "2026-07-15"}, // Merbeck, gestohlen
+//{"coords": [], "date": "2026-07-15"} // Dremmen, Diebstähle
+//{"coords": [], "date": "2026-07-15"} // Orsbeck, Raub
+{"coords": [8.2869, 52.7303], "date": "2026-07-15"}, // Vechta, Diebstahl

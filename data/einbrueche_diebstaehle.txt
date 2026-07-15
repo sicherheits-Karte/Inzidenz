@@ -18502,3 +18502,10 @@
 {"coords": [7.7689, 49.4447], "date": "2026-07-14"}, // Zeugen Kaiserslautern, Diebstahl
 //{"coords": [], "date": "2026-07-15"} // Zigarettenautomats Fachbach, entwendet
 {"coords": [8.7667, 51.7167], "date": "2026-07-15"}, // Paderborn, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-07-15"}, // Sonstiges Aalen, Einbruch
+//{"coords": [], "date": "2026-07-15"} // Kein Ort gefunden, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-07-15"}, // Ludwigsburg, Dieb
+{"coords": [10.75, 53.7], "date": "2026-07-15"}, // Ratzeburg, Dieb
+//{"coords": [], "date": "2026-07-15"} // Schauenburg, Raub
+//{"coords": [], "date": "2026-07-15"} // Holzwickede, Diebstahl
+{"coords": [7.8508, 51.0281], "date": "2026-07-15"}, // Olpe, Einbruch

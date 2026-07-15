@@ -18544,3 +18544,4 @@
 {"coords": [9.1919, 48.8975], "date": "2026-07-15"}, // Lange Straße Ludwigsburg, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-07-15"}, // Nordhausen, gestohlen
 {"coords": [11.1667, 51.3], "date": "2026-07-15"}, // Hinweise Oldisleben, entwendet
+{"coords": [7.9833, 51.95], "date": "2026-07-16"}, // Warendorf, Raub

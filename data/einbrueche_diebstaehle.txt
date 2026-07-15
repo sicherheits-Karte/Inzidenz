@@ -18534,3 +18534,11 @@
 {"coords": [7.82, 47.99], "date": "2026-07-15"}, // Einsatz Freiburg, Raub
 {"coords": [6.3475, 51.2742], "date": "2026-07-15"}, // Dülken, gestohlen
 {"coords": [10.5369, 52.1622], "date": "2026-07-15"}, // Wolfenbüttel, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2026-07-15"}, // Landkreis Aurich, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-07-15"}, // Rahlstedt Hamburg, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-07-15"}, // Zeugen Nordhausen, entwendet
+//{"coords": [], "date": "2026-07-15"} // Harz, Einbrecher
+{"coords": [10.8978, 48.3705], "date": "2026-07-15"}, // Wohnungseinbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-07-15"}, // Wohnung Augsburg, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-07-15"}, // Recklinghausen, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-07-15"}, // Lange Straße Ludwigsburg, Einbruch

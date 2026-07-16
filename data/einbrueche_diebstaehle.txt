@@ -18554,3 +18554,12 @@
 //{"coords": [], "date": "2026-07-16"} // POL-PDNR, Diebstahl
 //{"coords": [], "date": "2026-07-16"} // Bad Neuenahr, Raub
 {"coords": [8.6306, 53.05], "date": "2026-07-16"}, // Zeugen Delmenhorst, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2026-07-16"}, // Tabakwarengeschäft Landau, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-07-16"}, // Lippe, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2026-07-16"}, // Zeugen Rüsselsheim, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-07-16"}, // Erfurt, Einbrecher
+//{"coords": [], "date": "2026-07-16"} // Kein Ort gefunden, Dieb
+{"coords": [8.5333, 50.0667], "date": "2026-07-16"}, // Zeugen Kelsterbach, gestohlen
+{"coords": [8.1128, 49.1994], "date": "2026-07-16"}, // Landau, Dieb
+{"coords": [8.4311, 49.3194], "date": "2026-07-16"}, // Speyer, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-07-16"}, // Türen Bielefeld, Dieb

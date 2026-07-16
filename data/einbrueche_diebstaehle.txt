@@ -18574,3 +18574,12 @@
 //{"coords": [], "date": "2026-07-16"} // Nonnenweier, Diebstahl
 {"coords": [9.6775, 50.5528], "date": "2026-07-16"}, // Fulda, entwendet
 {"coords": [8.875, 53.05], "date": "2026-07-16"}, // Osterholz, Diebstahl
+{"coords": [7.3392, 51.3197], "date": "2026-07-16"}, // Gevelsberg, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-07-16"}, // Kindern Heilbronn, Einbrüche
+{"coords": [6.2333, 50.7833], "date": "2026-07-16"}, // Stolberg, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-07-16"}, // Zeugensuche Köln, Diebstahl
+//{"coords": [], "date": "2026-07-16"} // Kreis, Diebstahl
+{"coords": [8.35, 51.3167], "date": "2026-07-16"}, // Eigentumskriminalität Hochsauerlandkreis, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-07-16"}, // Waldbrand Kaiserslautern, Raub
+{"coords": [7.7689, 49.4447], "date": "2026-07-16"}, // Dreister Fahrraddieb Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2026-07-16"} // Bad Oeynhausen, Einbruch

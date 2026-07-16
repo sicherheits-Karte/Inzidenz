@@ -18563,3 +18563,14 @@
 {"coords": [8.1128, 49.1994], "date": "2026-07-16"}, // Landau, Dieb
 {"coords": [8.4311, 49.3194], "date": "2026-07-16"}, // Speyer, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-07-16"}, // Türen Bielefeld, Dieb
+//{"coords": [], "date": "2026-07-16"} // Kreis, Einbrecher
+{"coords": [10.75, 53.7], "date": "2026-07-16"}, // Komplizen Ratzeburg, Einbrecher
+{"coords": [8.7667, 50.1], "date": "2026-07-16"}, // Kreis Offenbach, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2026-07-16"}, // Zahnarztpraxis Trier, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-07-16"}, // Vechta, Diebstahl
+{"coords": [7.3608, 49.2492], "date": "2026-07-16"}, // Zweibrücken, Diebstahl
+{"coords": [6.55, 51.4667], "date": "2026-07-16"}, // Vluyn, Einbruch
+//{"coords": [], "date": "2026-07-16"} // Gonzerath, Einbruch
+//{"coords": [], "date": "2026-07-16"} // Nonnenweier, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-07-16"}, // Fulda, entwendet
+{"coords": [8.875, 53.05], "date": "2026-07-16"}, // Osterholz, Diebstahl

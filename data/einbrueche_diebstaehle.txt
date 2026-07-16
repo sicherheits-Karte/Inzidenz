@@ -18594,3 +18594,4 @@
 {"coords": [6.4208, 51.3653], "date": "2026-07-16"}, // Hinweise Kempen, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-07-16"}, // Giessen, Einbrecher
 //{"coords": [], "date": "2026-07-16"} // Hofladen Bad Gandersheim, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-07-16"}, // Zeugen Mühlhausen, Diebstahl

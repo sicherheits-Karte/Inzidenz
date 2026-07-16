@@ -18545,3 +18545,12 @@
 {"coords": [10.7956, 51.5019], "date": "2026-07-15"}, // Nordhausen, gestohlen
 {"coords": [11.1667, 51.3], "date": "2026-07-15"}, // Hinweise Oldisleben, entwendet
 {"coords": [7.9833, 51.95], "date": "2026-07-16"}, // Warendorf, Raub
+{"coords": [7.3194, 52.5236], "date": "2026-07-16"}, // Zeugen Lingen, Einbruch
+//{"coords": [], "date": "2026-07-16"} // Werlte, Einbruch
+{"coords": [13.0639, 53.3611], "date": "2026-07-16"}, // Untersuchungshaft Neustrelitz, Räuber
+{"coords": [8.0, 51.45], "date": "2026-07-16"}, // Ta Arnsberg, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-07-16"}, // Dönerladen Frankenthal, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-07-16"}, // Ta Frankenthal, Einbruch
+//{"coords": [], "date": "2026-07-16"} // POL-PDNR, Diebstahl
+//{"coords": [], "date": "2026-07-16"} // Bad Neuenahr, Raub
+{"coords": [8.6306, 53.05], "date": "2026-07-16"}, // Zeugen Delmenhorst, Einbruch

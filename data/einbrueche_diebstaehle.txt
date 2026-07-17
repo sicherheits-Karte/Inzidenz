@@ -18615,3 +18615,10 @@
 {"coords": [7.75, 51.6333], "date": "2026-07-17"}, // Herringen, Diebstahl
 {"coords": [9.2108, 49.1425], "date": "2026-07-17"}, // Betrugsmasche Heilbronn, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2026-07-17"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-07-17"}, // Goldschmuck Ludwigsburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-07-17"}, // Versuchter Wohnungseinbruch Freiburg, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-07-17"}, // Haustürbetrug Delmenhorst, Dieb
+{"coords": [8.2, 53.25], "date": "2026-07-17"}, // Rastede Oldenburg, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2026-07-17"}, // Einkaufszentrum Bielefeld, Dieb
+//{"coords": [], "date": "2026-07-17"} // Dietingen, Dieb
+//{"coords": [], "date": "2026-07-17"} // Kreis, Einbruch

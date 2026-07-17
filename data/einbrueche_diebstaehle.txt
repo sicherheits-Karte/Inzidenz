@@ -18639,3 +18639,6 @@
 {"coords": [9.4108, 53.1111], "date": "2026-07-17"}, // Rotenburg, entwendet
 {"coords": [9.6775, 50.5528], "date": "2026-07-17"}, // Versuchter Wohnungseinbruchdiebstahl Fulda, Einbruch
 {"coords": [8.5331, 52.021], "date": "2026-07-17"}, // Bielefeld, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-07-17"}, // Gaststätte Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-07-17"} // Kein Ort gefunden, Einbruch
+{"coords": [6.5617, 51.3317], "date": "2026-07-17"}, // Krefeld, Einbrüche

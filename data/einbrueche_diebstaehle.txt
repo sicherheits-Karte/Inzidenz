@@ -18596,3 +18596,4 @@
 //{"coords": [], "date": "2026-07-16"} // Hofladen Bad Gandersheim, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2026-07-16"}, // Zeugen Mühlhausen, Diebstahl
 {"coords": [7.5833, 52.2972], "date": "2026-07-16"}, // Krankenhaus Hörstel, Raub
+{"coords": [8.7917, 51.9917], "date": "2026-07-17"}, // einer hilflosen Lage befindet. Die Vermisste ist ca, Raub

@@ -18628,3 +18628,14 @@
 {"coords": [12.0167, 54.1], "date": "2026-07-17"}, // Einkaufszentrum in Lambrechtshagen, Einbruch
 {"coords": [13.3878, 54.0931], "date": "2026-07-17"}, // Greifswald, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-07-17"}, // Trickdiebstahl Erfurt, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-07-17"}, // Hinweise Recklinghausen, Einbruch
+//{"coords": [], "date": "2026-07-17"} // Kein Ort gefunden, entwendet
+{"coords": [8.6833, 50.5833], "date": "2026-07-17"}, // Giessen, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-07-17"}, // Hofheim, Dieb
+//{"coords": [], "date": "2026-07-17"} // Höhe, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-07-17"}, // Bad Schwalbach, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-07-17"}, // Mobilfunkgeschäft Giessen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-07-17"}, // Wohnungseinbruch Limburg, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-07-17"}, // Rotenburg, entwendet
+{"coords": [9.6775, 50.5528], "date": "2026-07-17"}, // Versuchter Wohnungseinbruchdiebstahl Fulda, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-07-17"}, // Bielefeld, Diebstahl

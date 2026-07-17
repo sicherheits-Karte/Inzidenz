@@ -18604,3 +18604,14 @@
 {"coords": [7.3194, 52.5236], "date": "2026-07-17"}, // Zeugen Lingen, Einbruch
 {"coords": [12.0991, 54.0924], "date": "2026-07-17"}, // Rostock, Einbruch
 {"coords": [6.4833, 50.8], "date": "2026-07-17"}, // Düren, Raub
+{"coords": [9.2108, 49.1425], "date": "2026-07-17"}, // Unfallflucht Heilbronn, Einbrüche
+{"coords": [7.7833, 51.35], "date": "2026-07-17"}, // Hoher Schaden Neuenrade, Einbruch
+//{"coords": [], "date": "2026-07-17"} // Tiefenbronn, Einbruch
+//{"coords": [], "date": "2026-07-17"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.6925, 52.1986], "date": "2026-07-17"}, // Zeugen Löhne, Einbruch
+{"coords": [10.1228, 54.3233], "date": "2026-07-17"}, // Kiel, Räuber
+{"coords": [7.6333, 51.2167], "date": "2026-07-17"}, // Lüdenscheid, Dieb
+{"coords": [8.4111, 49.9917], "date": "2026-07-17"}, // Rüsselsheim, Einbruch
+{"coords": [7.75, 51.6333], "date": "2026-07-17"}, // Herringen, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-07-17"}, // Betrugsmasche Heilbronn, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-07-17"}, // Einfamilienhaus Warendorf, Einbruch

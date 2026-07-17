@@ -18597,3 +18597,4 @@
 {"coords": [10.7753, 49.7544], "date": "2026-07-16"}, // Zeugen Mühlhausen, Diebstahl
 {"coords": [7.5833, 52.2972], "date": "2026-07-16"}, // Krankenhaus Hörstel, Raub
 {"coords": [8.7917, 51.9917], "date": "2026-07-17"}, // einer hilflosen Lage befindet. Die Vermisste ist ca, Raub
+{"coords": [8.65, 49.3], "date": "2026-07-17"}, // der bereits berichteten Vermisstensuche in Walldorf, sind die Maßnahmen durch den Polizeihubschrauber abgeschlossen. Die Suchmaßnahmen nach der Vermissten, Raub

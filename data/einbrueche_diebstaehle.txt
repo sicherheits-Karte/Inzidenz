@@ -18598,3 +18598,9 @@
 {"coords": [7.5833, 52.2972], "date": "2026-07-16"}, // Krankenhaus Hörstel, Raub
 {"coords": [8.7917, 51.9917], "date": "2026-07-17"}, // einer hilflosen Lage befindet. Die Vermisste ist ca, Raub
 {"coords": [8.65, 49.3], "date": "2026-07-17"}, // der bereits berichteten Vermisstensuche in Walldorf, sind die Maßnahmen durch den Polizeihubschrauber abgeschlossen. Die Suchmaßnahmen nach der Vermissten, Raub
+{"coords": [10.6866, 53.8655], "date": "2026-07-17"}, // Lübeck, Raub
+{"coords": [8.0, 51.45], "date": "2026-07-17"}, // Einfamilienhaus Arnsberg, Einbruch
+{"coords": [7.3167, 52.9333], "date": "2026-07-17"}, // Zeugen Niederlangen, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-07-17"}, // Zeugen Lingen, Einbruch
+{"coords": [12.0991, 54.0924], "date": "2026-07-17"}, // Rostock, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-07-17"}, // Düren, Raub

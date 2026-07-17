@@ -18643,3 +18643,5 @@
 //{"coords": [], "date": "2026-07-17"} // Kein Ort gefunden, Einbruch
 {"coords": [6.5617, 51.3317], "date": "2026-07-17"}, // Krefeld, Einbrüche
 {"coords": [11.0299, 50.9848], "date": "2026-07-17"}, // Gefängnis Erfurt, Diebstahl
+{"coords": [6.9667, 51.2333], "date": "2026-07-17"}, // Polizei Mettmann POL-ME, Raub
+{"coords": [7.6158, 50.8767], "date": "2026-07-17"}, // Einsatz Waldbröl, Raub

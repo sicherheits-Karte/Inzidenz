@@ -18622,3 +18622,9 @@
 {"coords": [8.5331, 52.021], "date": "2026-07-17"}, // Einkaufszentrum Bielefeld, Dieb
 //{"coords": [], "date": "2026-07-17"} // Dietingen, Dieb
 //{"coords": [], "date": "2026-07-17"} // Kreis, Einbruch
+//{"coords": [], "date": "2026-07-17"} // Kreis, Dieb
+{"coords": [6.7623, 51.4344], "date": "2026-07-17"}, // Duisburg, Einbrecher
+//{"coords": [], "date": "2026-07-17"} // Versuchter Wohnungseinbruchsdiebstahl Tawern, Einbruch
+{"coords": [12.0167, 54.1], "date": "2026-07-17"}, // Einkaufszentrum in Lambrechtshagen, Einbruch
+{"coords": [13.3878, 54.0931], "date": "2026-07-17"}, // Greifswald, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-07-17"}, // Trickdiebstahl Erfurt, Diebstahl

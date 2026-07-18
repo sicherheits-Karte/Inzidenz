@@ -18669,3 +18669,4 @@
 //{"coords": [], "date": "2026-07-18"} // Kreis, Raub
 {"coords": [7.6, 49.2], "date": "2026-07-18"}, // Pirmasens, Diebstahl
 //{"coords": [], "date": "2026-07-18"} // Rollerfahrer Lutzerath, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-07-18"}, // Tatverdächtigen Bochum, Einbruch

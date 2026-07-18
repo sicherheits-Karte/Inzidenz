@@ -18660,3 +18660,7 @@
 {"coords": [7.4547, 53.2311], "date": "2026-07-18"}, // Leer, Diebstahl
 {"coords": [8.4661, 49.4878], "date": "2026-07-18"}, // Zeugenaufruf Mannheim, entwendet
 {"coords": [8.8083, 53.09], "date": "2026-07-18"}, // Findorff-- Bremen, Raub
+{"coords": [8.6306, 53.05], "date": "2026-07-18"}, // Delmenhorst Delmenhorst, Einbruch
+//{"coords": [], "date": "2026-07-18"} // Hüsten, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-07-18"}, // Mannheim, Raub
+{"coords": [9.6403, 47.8061], "date": "2026-07-18"}, // Aussiedlerhof Weingarten, Einbruch

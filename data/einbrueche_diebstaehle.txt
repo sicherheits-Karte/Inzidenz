@@ -18668,3 +18668,4 @@
 {"coords": [9.4764, 53.6008], "date": "2026-07-18"}, // Stade, Einbrecher
 //{"coords": [], "date": "2026-07-18"} // Kreis, Raub
 {"coords": [7.6, 49.2], "date": "2026-07-18"}, // Pirmasens, Diebstahl
+//{"coords": [], "date": "2026-07-18"} // Rollerfahrer Lutzerath, Raub

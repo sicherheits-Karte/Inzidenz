@@ -18655,3 +18655,8 @@
 {"coords": [7.3608, 49.2492], "date": "2026-07-18"}, // Zweibrücken, Diebstahl
 {"coords": [7.8833, 49.5667], "date": "2026-07-18"}, // Baustellengelände Winnweiler, Diebstahl
 {"coords": [7.1, 51.5167], "date": "2026-07-18"}, // Buer Gelsenkirchen, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-07-18"}, // Versuchter Wohnungseinbruch Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-07-18"}, // Fahrzeug Aalen, Diebstahl
+{"coords": [7.4547, 53.2311], "date": "2026-07-18"}, // Leer, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-07-18"}, // Zeugenaufruf Mannheim, entwendet
+{"coords": [8.8083, 53.09], "date": "2026-07-18"}, // Findorff-- Bremen, Raub

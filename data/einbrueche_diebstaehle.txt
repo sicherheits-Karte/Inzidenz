@@ -18664,3 +18664,5 @@
 //{"coords": [], "date": "2026-07-18"} // Hüsten, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-07-18"}, // Mannheim, Raub
 {"coords": [9.6403, 47.8061], "date": "2026-07-18"}, // Aussiedlerhof Weingarten, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-07-18"}, // Kaiserslautern, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-07-18"}, // Stade, Einbrecher

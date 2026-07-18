@@ -18647,3 +18647,11 @@
 {"coords": [7.6158, 50.8767], "date": "2026-07-17"}, // Einsatz Waldbröl, Raub
 {"coords": [7.9833, 51.95], "date": "2026-07-18"}, // Warendorf, Raub
 //{"coords": [], "date": "2026-07-18"} // POL-PDNR, entwendet
+{"coords": [6.8889, 49.9858], "date": "2026-07-18"}, // Mofaroller Wittlich, Diebstahl
+{"coords": [7.1, 52.6167], "date": "2026-07-18"}, // Zeugen Twist, Diebstahl
+{"coords": [7.1333, 52.5333], "date": "2026-07-18"}, // Zeugen Wietmarschen, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-07-18"}, // Zeugen Meppen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-07-18"}, // Zeugen Lingen, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2026-07-18"}, // Zweibrücken, Diebstahl
+{"coords": [7.8833, 49.5667], "date": "2026-07-18"}, // Baustellengelände Winnweiler, Diebstahl
+{"coords": [7.1, 51.5167], "date": "2026-07-18"}, // Buer Gelsenkirchen, Raub

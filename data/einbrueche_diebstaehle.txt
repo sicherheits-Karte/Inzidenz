@@ -18687,3 +18687,11 @@
 {"coords": [6.6153, 51.8367], "date": "2026-07-19"}, // Bocholt, klau
 //{"coords": [], "date": "2026-07-19"} // einem Mehrfamilienhaus in der Siebenbornstraße zu einem Diebstahl. Aus dem Keller wurde ein schwarzes E-Mountainbike des Herstellers, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-07-19"}, // Delmenhorst, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-07-19"}, // Gummersbach, Einbrecher
+{"coords": [7.6158, 50.8767], "date": "2026-07-19"}, // Bäckerei Waldbröl, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-07-19"}, // Festnahme Nürnberg, Raub
+{"coords": [7.5667, 51.0833], "date": "2026-07-19"}, // Gummersbach, gestohlen
+{"coords": [7.6333, 51.05], "date": "2026-07-19"}, // Bergneustadt, gestohlen
+{"coords": [11.4317, 49.5106], "date": "2026-07-19"}, // Hersbruck, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2026-07-19"}, // Wittmund, entwendet
+//{"coords": [], "date": "2026-07-19"} // der Barfüßerstraße, wo sie an einem Fahrradständer angeschlossen waren. Es handelt sich um zwei Fahrräder des Herstellers, entwendet

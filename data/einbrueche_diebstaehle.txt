@@ -18695,3 +18695,8 @@
 {"coords": [11.4317, 49.5106], "date": "2026-07-19"}, // Hersbruck, Einbruch
 {"coords": [7.7806, 53.5769], "date": "2026-07-19"}, // Wittmund, entwendet
 //{"coords": [], "date": "2026-07-19"} // der Barfüßerstraße, wo sie an einem Fahrradständer angeschlossen waren. Es handelt sich um zwei Fahrräder des Herstellers, entwendet
+//{"coords": [], "date": "2026-07-19"} // Scharmbeck, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-07-19"}, // Wilhelmshaven, aufbruch
+{"coords": [7.82, 47.99], "date": "2026-07-19"}, // Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-07-19"}, // Freiburg, Einbruch
+//{"coords": [], "date": "2026-07-19"} // Klinikgebäude Bad Gandersheim, Diebstahl

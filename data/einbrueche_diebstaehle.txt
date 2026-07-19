@@ -18672,3 +18672,6 @@
 {"coords": [7.2162, 51.4818], "date": "2026-07-18"}, // Tatverdächtigen Bochum, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-07-18"}, // Hubschrauber Aalen, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-07-18"}, // Oberkochen Aalen, Raub
+{"coords": [8.0167, 49.6667], "date": "2026-07-19"}, // Schlossplatz Kirchheimbolanden, entwendet
+{"coords": [10.9167, 53.55], "date": "2026-07-19"}, // Zeugenaufruf Zarrentin, entwendet
+{"coords": [6.3475, 51.2742], "date": "2026-07-19"}, // Dülken, Diebstahl

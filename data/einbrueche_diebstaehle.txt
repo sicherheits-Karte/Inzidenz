@@ -18682,3 +18682,8 @@
 //{"coords": [], "date": "2026-07-19"} // Zeugen Wippingen, Diebstahl
 {"coords": [7.7, 52.9], "date": "2026-07-19"}, // Rastdorf, Einbruch
 {"coords": [7.45, 51.4], "date": "2026-07-19"}, // Herdecke, entwendet
+{"coords": [7.0333, 52.2167], "date": "2026-07-19"}, // Gronau, Einbrecher
+{"coords": [8.6822, 50.1106], "date": "2026-07-19"}, // Fahrdienstleister Frankfurt, Raub
+{"coords": [6.6153, 51.8367], "date": "2026-07-19"}, // Bocholt, klau
+//{"coords": [], "date": "2026-07-19"} // einem Mehrfamilienhaus in der Siebenbornstraße zu einem Diebstahl. Aus dem Keller wurde ein schwarzes E-Mountainbike des Herstellers, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-07-19"}, // Delmenhorst, Einbruch

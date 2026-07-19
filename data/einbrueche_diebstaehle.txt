@@ -18675,3 +18675,10 @@
 {"coords": [8.0167, 49.6667], "date": "2026-07-19"}, // Schlossplatz Kirchheimbolanden, entwendet
 {"coords": [10.9167, 53.55], "date": "2026-07-19"}, // Zeugenaufruf Zarrentin, entwendet
 {"coords": [6.3475, 51.2742], "date": "2026-07-19"}, // Dülken, Diebstahl
+{"coords": [11.0667, 49.9333], "date": "2026-07-19"}, // Weißensee, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-07-19"}, // Greiz, Dieb
+{"coords": [8.9056, 52.3364], "date": "2026-07-19"}, // Altenhagen Hagen, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2026-07-19"}, // Rechtsanwaltskanzlei Zweibrücken, Einbruch
+//{"coords": [], "date": "2026-07-19"} // Zeugen Wippingen, Diebstahl
+{"coords": [7.7, 52.9], "date": "2026-07-19"}, // Rastdorf, Einbruch
+{"coords": [7.45, 51.4], "date": "2026-07-19"}, // Herdecke, entwendet

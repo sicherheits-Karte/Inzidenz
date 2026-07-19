@@ -18704,3 +18704,5 @@
 {"coords": [8.0667, 50.3833], "date": "2026-07-19"}, // Limburg, Einbruch
 {"coords": [7.6, 50.3], "date": "2026-07-19"}, // Diebstahl Lahnstein, Diebstahl
 //{"coords": [], "date": "2026-07-19"} // Kirburg, Einbruch
+//{"coords": [], "date": "2026-07-19"} // Kein Ort gefunden, entwendet
+{"coords": [9.95, 52.15], "date": "2026-07-19"}, // Seniorenheim Hildesheim, Einbruch

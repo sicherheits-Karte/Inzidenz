@@ -18706,3 +18706,4 @@
 //{"coords": [], "date": "2026-07-19"} // Kirburg, Einbruch
 //{"coords": [], "date": "2026-07-19"} // Kein Ort gefunden, entwendet
 {"coords": [9.95, 52.15], "date": "2026-07-19"}, // Seniorenheim Hildesheim, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-07-20"}, // Zeugen Hildesheim, Diebstahl

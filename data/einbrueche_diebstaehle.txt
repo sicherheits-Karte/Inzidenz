@@ -18722,3 +18722,20 @@
 {"coords": [8.6514, 49.8728], "date": "2026-07-20"}, // Darmstadt, Dieb
 //{"coords": [], "date": "2026-07-20"} // Dröswein, Raub
 //{"coords": [], "date": "2026-07-20"} // Milz, Einbrecher
+{"coords": [10.3333, 52.15], "date": "2026-07-20"}, // Salzgitter, Einbruch
+//{"coords": [], "date": "2026-07-20"} // Kreis, Einbrüche
+//{"coords": [], "date": "2026-07-20"} // Feuerwehrgerätehaus Jüchen, Einbruch
+{"coords": [8.975, 50.0431], "date": "2026-07-20"}, // Seligenstadt, Einbruch
+//{"coords": [], "date": "2026-07-20"} // Kreis, Raub
+{"coords": [6.7623, 51.4344], "date": "2026-07-20"}, // Duisburg, eingebrochen
+{"coords": [7.2162, 51.4818], "date": "2026-07-20"}, // Hinweise Bochum, entwendet
+{"coords": [11.1167, 51.1667], "date": "2026-07-20"}, // Landkreis Sömmerda, Einbrecher
+//{"coords": [], "date": "2026-07-20"} // Gaststätte Selm, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-07-20"}, // Landkreis Sömmerda, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-07-20"}, // Erfurt, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-07-20"}, // Ratzeburg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-07-20"}, // Diebe Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-07-20"}, // Beute Erfurt, Diebstahl
+//{"coords": [], "date": "2026-07-20"} // Dudendorf, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-07-20"}, // Bochum, Dieb
+{"coords": [12.0991, 54.0924], "date": "2026-07-20"}, // Landkreis Rostock, Einbruch

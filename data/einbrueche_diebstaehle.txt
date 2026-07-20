@@ -18739,3 +18739,15 @@
 //{"coords": [], "date": "2026-07-20"} // Dudendorf, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2026-07-20"}, // Bochum, Dieb
 {"coords": [12.0991, 54.0924], "date": "2026-07-20"}, // Landkreis Rostock, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-20"}, // Freiburg, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-07-20"}, // Wilhelmshaven, Einbruch
+{"coords": [12.0167, 54.1], "date": "2026-07-20"}, // Einkaufszentrum in Lambrechtshagen, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-07-20"}, // Polizeihzbschrauber Mannheim, Raub
+{"coords": [10.4, 53.25], "date": "2026-07-20"}, // Lüneburg, eingebrochen
+{"coords": [7.3328, 49.6133], "date": "2026-07-20"}, // Auspuffblende Baumholder, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-07-20"}, // Freiburg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-07-20"}, // Hofheim, Einbrecher
+//{"coords": [], "date": "2026-07-20"} // Höhe, Einbrüche
+{"coords": [8.24, 50.0822], "date": "2026-07-20"}, // Wiesbaden, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-07-20"}, // Bad Schwalbach, Einbrecher
+{"coords": [8.8556, 48.0778], "date": "2026-07-20"}, // Spaichingen, Einbruch

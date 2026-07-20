@@ -18751,3 +18751,10 @@
 {"coords": [8.24, 50.0822], "date": "2026-07-20"}, // Wiesbaden, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-07-20"}, // Bad Schwalbach, Einbrecher
 {"coords": [8.8556, 48.0778], "date": "2026-07-20"}, // Spaichingen, Einbruch
+{"coords": [10.4167, 51.1667], "date": "2026-07-20"}, // Oberdorla, Einbruch
+//{"coords": [], "date": "2026-07-20"} // Einsatz Wiegleben, Raub
+{"coords": [10.9583, 51.2292], "date": "2026-07-20"}, // Greußen, gestohlen
+{"coords": [11.3, 51.3667], "date": "2026-07-20"}, // Zeugen Artern, entwendet
+{"coords": [8.1075, 53.5219], "date": "2026-07-20"}, // Gemeindehaus Wilhelmshaven, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-07-20"}, // Täter Nordhausen, stehlen
+{"coords": [9.2167, 48.4833], "date": "2026-07-20"}, // Verkehrsunfälle Reutlingen, Einbruch

@@ -18707,3 +18707,9 @@
 //{"coords": [], "date": "2026-07-19"} // Kein Ort gefunden, entwendet
 {"coords": [9.95, 52.15], "date": "2026-07-19"}, // Seniorenheim Hildesheim, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-07-20"}, // Zeugen Hildesheim, Diebstahl
+{"coords": [8.35, 51.3167], "date": "2026-07-20"}, // Hochsauerlandkreis, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-07-20"}, // Gartenlaube Frankenthal, Einbruch
+{"coords": [8.8494, 51.4611], "date": "2026-07-20"}, // Sauerlandstraße Marsberg, Einbruch
+//{"coords": [], "date": "2026-07-20"} // Kreis, Dieb
+{"coords": [7.2908, 52.6906], "date": "2026-07-20"}, // Meppen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-07-20"}, // Zeugen Lingen, Einbruch

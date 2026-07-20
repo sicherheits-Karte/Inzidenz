@@ -18758,3 +18758,4 @@
 {"coords": [8.1075, 53.5219], "date": "2026-07-20"}, // Gemeindehaus Wilhelmshaven, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-07-20"}, // Täter Nordhausen, stehlen
 {"coords": [9.2167, 48.4833], "date": "2026-07-20"}, // Verkehrsunfälle Reutlingen, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-07-20"}, // Zeugenaufruf Hildesheim, Einbruch

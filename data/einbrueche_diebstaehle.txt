@@ -18796,3 +18796,8 @@
 {"coords": [8.6031, 49.8056], "date": "2026-07-21"}, // Pfungstadt, gestohlen
 {"coords": [8.6267, 48.1678], "date": "2026-07-21"}, // Rottweil, Einbrüche
 {"coords": [8.5847, 53.5469], "date": "2026-07-21"}, // Zeugen Bremerhaven, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-07-21"}, // Autos Gelsenkirchen, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-07-21"}, // Kaiserslautern, Einbruch
+//{"coords": [], "date": "2026-07-21"} // Zierenberg, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-07-21"}, // Jugendtreff Frankenthal, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-07-21"}, // Zeugen Stade, Einbrecher

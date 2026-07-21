@@ -18773,3 +18773,15 @@
 {"coords": [12.0799, 50.8772], "date": "2026-07-21"}, // Gera, Diebstahl
 {"coords": [10.5369, 52.1622], "date": "2026-07-21"}, // Wolfenbüttel, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-07-21"}, // Diebstahl Aalen, Einbruch
+//{"coords": [], "date": "2026-07-21"} // Mietersheim, Einbruch
+{"coords": [9.7678, 53.7892], "date": "2026-07-21"}, // Barmstedt, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-07-21"}, // Mitte, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-07-21"}, // Ludwigsburg, Dieb
+{"coords": [9.1919, 48.8975], "date": "2026-07-21"}, // Zeppelinstraße Ludwigsburg, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-07-21"}, // Coesfeld, entwendet
+{"coords": [7.1508, 51.2562], "date": "2026-07-21"}, // Polizei Wuppertal Wuppertal, Raub
+{"coords": [8.0472, 52.2799], "date": "2026-07-21"}, // Dieb Osnabrück, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-07-21"}, // Kaiserslautern, Raub
+//{"coords": [], "date": "2026-07-21"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.1675, 51.9436], "date": "2026-07-21"}, // Versuchter Einbruch Coesfeld, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2026-07-21"}, // Zeugen Schwerte, entwendet

@@ -18801,3 +18801,15 @@
 //{"coords": [], "date": "2026-07-21"} // Zierenberg, Einbruch
 {"coords": [8.35, 49.5333], "date": "2026-07-21"}, // Jugendtreff Frankenthal, Einbruch
 {"coords": [9.4764, 53.6008], "date": "2026-07-21"}, // Zeugen Stade, Einbrecher
+//{"coords": [], "date": "2026-07-21"} // Bad Cannstatt, Raub
+{"coords": [7.7806, 53.5769], "date": "2026-07-21"}, // Landkreis Wittmund, gestohlen
+{"coords": [7.4836, 53.4711], "date": "2026-07-21"}, // Landkreis Aurich, Diebstähle
+{"coords": [7.0333, 52.2167], "date": "2026-07-21"}, // Gronau, Einbruch
+{"coords": [7.0, 51.8333], "date": "2026-07-21"}, // Reken, Diebstähle
+{"coords": [6.9603, 50.9375], "date": "2026-07-21"}, // Fusion Köln, Raub
+{"coords": [7.2, 51.6167], "date": "2026-07-21"}, // Recklinghausen, Raub
+//{"coords": [], "date": "2026-07-21"} // Kaldenkirchen, stehlen
+//{"coords": [], "date": "2026-07-21"} // Kleintraktor Bad Gandersheim, Diebstahl
+//{"coords": [], "date": "2026-07-21"} // Breyell, Diebstahl
+//{"coords": [], "date": "2026-07-21"} // Waldniel, Einbruch
+{"coords": [6.8167, 51.1], "date": "2026-07-21"}, // Festnahme Dormagen, entwendet

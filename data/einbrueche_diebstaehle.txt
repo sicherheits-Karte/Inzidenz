@@ -18759,3 +18759,17 @@
 {"coords": [10.7956, 51.5019], "date": "2026-07-20"}, // Täter Nordhausen, stehlen
 {"coords": [9.2167, 48.4833], "date": "2026-07-20"}, // Verkehrsunfälle Reutlingen, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-07-20"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-07-21"}, // Straßenbahn Essen, Dieb
+{"coords": [9.2081, 52.3242], "date": "2026-07-21"}, // Zeugenhinweise Stadthagen, entwendet
+{"coords": [7.7, 51.375], "date": "2026-07-21"}, // Iserlohn, Dieb
+{"coords": [7.8, 51.4333], "date": "2026-07-21"}, // Menden, Raub
+{"coords": [8.9056, 52.3364], "date": "2026-07-21"}, // Altenhagen, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-07-21"}, // Northeim, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2026-07-21"}, // Zeugenhinweise Nienburg, entwendet
+{"coords": [8.35, 51.6667], "date": "2026-07-21"}, // Lippstadt, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-07-21"}, // Einbruch Aalen, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-07-21"}, // Kellerraum Speyer, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-07-21"}, // Unfall Aalen, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-07-21"}, // Gera, Diebstahl
+{"coords": [10.5369, 52.1622], "date": "2026-07-21"}, // Wolfenbüttel, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-07-21"}, // Diebstahl Aalen, Einbruch

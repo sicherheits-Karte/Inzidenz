@@ -18813,3 +18813,10 @@
 //{"coords": [], "date": "2026-07-21"} // Breyell, Diebstahl
 //{"coords": [], "date": "2026-07-21"} // Waldniel, Einbruch
 {"coords": [6.8167, 51.1], "date": "2026-07-21"}, // Festnahme Dormagen, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-07-21"}, // Hofheim, gestohlen
+{"coords": [10.9, 50.9], "date": "2026-07-21"}, // Urbach, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-07-21"}, // Innenstadt Nordhausen, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-07-21"}, // Verkehrsunfall Reutlingen, Einbrüche
+{"coords": [11.5667, 48.6167], "date": "2026-07-21"}, // Rohrbach, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-07-21"}, // Mitte, Raub
+//{"coords": [], "date": "2026-07-21"} // Süd, Raub

@@ -18822,3 +18822,4 @@
 //{"coords": [], "date": "2026-07-21"} // Süd, Raub
 //{"coords": [], "date": "2026-07-22"} // Ingbert, Diebstahl
 //{"coords": [], "date": "2026-07-22"} // sollen. Hinweise in, Diebstahl
+//{"coords": [], "date": "2026-07-22"} // diesem Zusammenhang geben können, werden gebeten, sich mit dem Polizeirevier Neckarau, unter Tel, Raub

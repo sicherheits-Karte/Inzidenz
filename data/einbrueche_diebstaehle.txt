@@ -18870,3 +18870,5 @@
 {"coords": [8.6833, 50.5833], "date": "2026-07-22"}, // Mithilfe Giessen, Diebstahl
 {"coords": [6.7, 51.8333], "date": "2026-07-22"}, // Nacht Rhede, Einbrüche
 {"coords": [9.36, 52.1039], "date": "2026-07-22"}, // Hameln Hameln, Raub
+{"coords": [10.4, 53.25], "date": "2026-07-22"}, // Lüneburg, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-07-22"}, // Tatverdächtigen Hamburg, Einbrüche

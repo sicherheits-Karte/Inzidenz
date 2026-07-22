@@ -18823,3 +18823,13 @@
 //{"coords": [], "date": "2026-07-22"} // Ingbert, Diebstahl
 //{"coords": [], "date": "2026-07-22"} // sollen. Hinweise in, Diebstahl
 //{"coords": [], "date": "2026-07-22"} // diesem Zusammenhang geben können, werden gebeten, sich mit dem Polizeirevier Neckarau, unter Tel, Raub
+{"coords": [11.1592, 50.4792], "date": "2026-07-22"}, // Radfahrer Lauscha, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-07-22"}, // Diebstahl Aalen, Diebstahl
+//{"coords": [], "date": "2026-07-22"} // Hau, entwendet
+{"coords": [6.1353, 51.7875], "date": "2026-07-22"}, // Fenster Kleve, Einbruch
+{"coords": [9.2081, 52.3242], "date": "2026-07-22"}, // Stadthagen, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-07-22"}, // Ladendieb Warendorf, Dieb
+{"coords": [9.0, 50.7333], "date": "2026-07-22"}, // Aufmerksamkeit Homberg, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-07-22"}, // Hinweise Bonn, aufbrüche
+{"coords": [11.7667, 51.8333], "date": "2026-07-22"}, // Nienburg, Einbruch
+{"coords": [8.35, 51.3167], "date": "2026-07-22"}, // Hochsauerlandkreis, Einbruch

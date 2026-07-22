@@ -18862,3 +18862,11 @@
 {"coords": [8.5331, 52.021], "date": "2026-07-22"}, // Handydieb Bielefeld, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-07-22"}, // Fahrerlaubnis Augsburg, klau
 {"coords": [9.4764, 53.6008], "date": "2026-07-22"}, // Groß Sterneberg Stade, Dieb
+//{"coords": [], "date": "2026-07-22"} // Exten, Diebstahl
+{"coords": [10.3167, 51.4], "date": "2026-07-22"}, // Leinefelde, Einbrecher
+//{"coords": [], "date": "2026-07-22"} // Gottmadingen, entwendet
+{"coords": [6.7623, 51.4344], "date": "2026-07-22"}, // Seniorin Duisburg, Raub
+{"coords": [7.4836, 53.4711], "date": "2026-07-22"}, // Landkreis Aurich, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-07-22"}, // Mithilfe Giessen, Diebstahl
+{"coords": [6.7, 51.8333], "date": "2026-07-22"}, // Nacht Rhede, Einbrüche
+{"coords": [9.36, 52.1039], "date": "2026-07-22"}, // Hameln Hameln, Raub

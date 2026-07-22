@@ -18833,3 +18833,13 @@
 {"coords": [7.0982, 50.7374], "date": "2026-07-22"}, // Hinweise Bonn, aufbrüche
 {"coords": [11.7667, 51.8333], "date": "2026-07-22"}, // Nienburg, Einbruch
 {"coords": [8.35, 51.3167], "date": "2026-07-22"}, // Hochsauerlandkreis, Einbruch
+{"coords": [10.5267, 52.2689], "date": "2026-07-22"}, // Diebe Braunschweig, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-07-22"}, // Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2026-07-22"} // Uentrop, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2026-07-22"}, // Suhl, entwendet
+{"coords": [8.35, 49.5333], "date": "2026-07-22"}, // Kindertagesstätten Frankenthal, Einbrüche
+{"coords": [7.7, 51.375], "date": "2026-07-22"}, // Balkonbrand Iserlohn, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-07-22"}, // Flammen Lüdenscheid, Diebstahl
+{"coords": [7.8667, 51.2167], "date": "2026-07-22"}, // Zeugen Plettenberg, Raub
+{"coords": [8.4833, 49.75], "date": "2026-07-22"}, // Feld Gernsheim, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-07-22"}, // Igel Diepholz, stehlen

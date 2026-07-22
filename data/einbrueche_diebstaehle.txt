@@ -18843,3 +18843,14 @@
 {"coords": [7.8667, 51.2167], "date": "2026-07-22"}, // Zeugen Plettenberg, Raub
 {"coords": [8.4833, 49.75], "date": "2026-07-22"}, // Feld Gernsheim, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-07-22"}, // Igel Diepholz, stehlen
+{"coords": [10.5333, 50.5833], "date": "2026-07-22"}, // Dillstädt, eingebrochen
+//{"coords": [], "date": "2026-07-22"} // Maschen, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-07-22"}, // Freiburg, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-07-22"}, // Zeugen Kaiserslautern, gestohlen
+//{"coords": [], "date": "2026-07-22"} // Calberlah, aufbruch
+{"coords": [11.0299, 50.9848], "date": "2026-07-22"}, // Erfurt, Diebstähle
+{"coords": [11.0299, 50.9848], "date": "2026-07-22"}, // Flucht Erfurt, Diebstahl
+{"coords": [11.1167, 51.1667], "date": "2026-07-22"}, // Sömmerda, Dieb
+{"coords": [9.6536, 53.7547], "date": "2026-07-22"}, // Tag Elmshorn, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-07-22"}, // Mönchengladbach, Raub
+{"coords": [9.9333, 52.9667], "date": "2026-07-22"}, // Heidekreis, entwendet

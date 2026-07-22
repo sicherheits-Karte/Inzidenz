@@ -18820,3 +18820,5 @@
 {"coords": [11.5667, 48.6167], "date": "2026-07-21"}, // Rohrbach, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2026-07-21"}, // Mitte, Raub
 //{"coords": [], "date": "2026-07-21"} // Süd, Raub
+//{"coords": [], "date": "2026-07-22"} // Ingbert, Diebstahl
+//{"coords": [], "date": "2026-07-22"} // sollen. Hinweise in, Diebstahl

@@ -18854,3 +18854,11 @@
 {"coords": [9.6536, 53.7547], "date": "2026-07-22"}, // Tag Elmshorn, Einbruch
 {"coords": [6.4333, 51.2], "date": "2026-07-22"}, // Mönchengladbach, Raub
 {"coords": [9.9333, 52.9667], "date": "2026-07-22"}, // Heidekreis, entwendet
+{"coords": [13.6667, 50.9667], "date": "2026-07-22"}, // Marienthal Hamburg, Raub
+{"coords": [8.24, 50.0822], "date": "2026-07-22"}, // Motorraddiebstahl Wiesbaden, Einbruch
+{"coords": [9.4, 47.7833], "date": "2026-07-22"}, // Bodenseekreis Bodenseekreis, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-07-22"}, // Zeugensuche Freiburg, entwendet
+{"coords": [6.5667, 51.0], "date": "2026-07-22"}, // Transporter Bedburg, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-07-22"}, // Handydieb Bielefeld, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-07-22"}, // Fahrerlaubnis Augsburg, klau
+{"coords": [9.4764, 53.6008], "date": "2026-07-22"}, // Groß Sterneberg Stade, Dieb

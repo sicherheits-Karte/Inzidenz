@@ -18873,3 +18873,4 @@
 {"coords": [10.4, 53.25], "date": "2026-07-22"}, // Lüneburg, Einbruch
 {"coords": [9.9937, 53.5511], "date": "2026-07-22"}, // Tatverdächtigen Hamburg, Einbrüche
 {"coords": [8.4661, 49.4878], "date": "2026-07-22"}, // Polizeihubschraubers Mannheim, Raub
+{"coords": [8.4661, 49.4878], "date": "2026-07-23"}, // Mannheim, Raub

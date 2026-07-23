@@ -18874,3 +18874,13 @@
 {"coords": [9.9937, 53.5511], "date": "2026-07-22"}, // Tatverdächtigen Hamburg, Einbrüche
 {"coords": [8.4661, 49.4878], "date": "2026-07-22"}, // Polizeihubschraubers Mannheim, Raub
 {"coords": [8.4661, 49.4878], "date": "2026-07-23"}, // Mannheim, Raub
+//{"coords": [], "date": "2026-07-23"} // Geldbörse Neusatz, Diebstahl
+//{"coords": [], "date": "2026-07-23"} // Bergisch Gladbach, Diebstahl
+{"coords": [7.7, 51.375], "date": "2026-07-23"}, // Discounter Iserlohn, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-07-23"}, // Ulm, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-07-23"}, // Sachbeschädigung Aalen, Einbruch
+{"coords": [7.5, 52.4333], "date": "2026-07-23"}, // Zeugen Beesten, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-07-23"}, // Zeugen Lippstadt, Diebstahl
+{"coords": [8.1333, 51.5], "date": "2026-07-23"}, // Zeugen Möhnesee, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-07-23"}, // Trickdieben Soest, Dieb
+{"coords": [10.3333, 52.15], "date": "2026-07-23"}, // Salzgitter, Raub

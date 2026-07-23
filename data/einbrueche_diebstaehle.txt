@@ -18928,3 +18928,5 @@
 {"coords": [8.0667, 50.3833], "date": "2026-07-23"}, // Limburg, Einbrecher
 {"coords": [7.82, 47.99], "date": "2026-07-23"}, // Einsatz Freiburg, Raub
 {"coords": [6.7735, 51.2277], "date": "2026-07-23"}, // Ermittlungsbehörden Düsseldorf, eingebrochen
+{"coords": [8.6514, 49.8728], "date": "2026-07-23"}, // Zeugen Darmstadt, Dieb
+{"coords": [7.9447, 48.4731], "date": "2026-07-23"}, // Tatverdächtigen Offenburg, Raub

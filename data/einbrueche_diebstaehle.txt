@@ -18903,3 +18903,19 @@
 {"coords": [6.6, 51.55], "date": "2026-07-23"}, // Rheinberg, aufbruch
 {"coords": [6.315, 51.0794], "date": "2026-07-23"}, // Scooters Erkelenz, Diebstahl
 {"coords": [10.4278, 51.9042], "date": "2026-07-23"}, // Goslar, Einbrüche
+//{"coords": [], "date": "2026-07-23"} // Tüddern, gestohlen
+{"coords": [6.3917, 51.2556], "date": "2026-07-23"}, // Kiosk Viersen, Einbruch
+//{"coords": [], "date": "2026-07-23"} // Anrath, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-07-23"}, // Einbrechern Iserlohn, eingebrochen
+{"coords": [8.5833, 49.8667], "date": "2026-07-23"}, // Griesheim, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-07-23"}, // Hofheim, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-07-23"}, // Unfall Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-07-23"}, // Einbrecher Erfurt, Einbrecher
+{"coords": [8.5331, 52.021], "date": "2026-07-23"}, // Bielefeld, Dieb
+{"coords": [9.0, 50.7333], "date": "2026-07-23"}, // Hinweise Homberg, gestohlen
+{"coords": [10.6866, 53.8655], "date": "2026-07-23"}, // Pkw Lübeck, Einbruch
+{"coords": [6.9194, 51.9944], "date": "2026-07-23"}, // Stadtlohn, entwendet
+{"coords": [7.0333, 52.2167], "date": "2026-07-23"}, // Pkw Gronau, Diebstahl
+{"coords": [8.8731, 51.275], "date": "2026-07-23"}, // Korbach, Einbruch
+{"coords": [9.2844, 51.045], "date": "2026-07-23"}, // Nächtlicher Diebstahl Borken, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-07-23"}, // Zeugenaufruf Frankfurt, entwendet

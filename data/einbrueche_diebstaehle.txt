@@ -18884,3 +18884,10 @@
 {"coords": [8.1333, 51.5], "date": "2026-07-23"}, // Zeugen Möhnesee, Einbruch
 {"coords": [8.1092, 51.5711], "date": "2026-07-23"}, // Trickdieben Soest, Dieb
 {"coords": [10.3333, 52.15], "date": "2026-07-23"}, // Salzgitter, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-07-23"}, // Coesfeld, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-07-23"}, // Wuppertal, Einbrüche
+{"coords": [7.1667, 50.8167], "date": "2026-07-23"}, // Ingewahrsamnahme Troisdorf, Diebstähle
+{"coords": [6.6264, 51.4519], "date": "2026-07-23"}, // Imbissbude Moers, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-07-23"}, // Einbruch Heilbronn, Einbruch
+//{"coords": [], "date": "2026-07-23"} // Friseursalon Bad Oeynhausen, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-07-23"}, // Gelsenkirchen, Raub

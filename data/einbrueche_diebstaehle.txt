@@ -18963,3 +18963,9 @@
 {"coords": [6.5492, 51.2631], "date": "2026-07-24"}, // Hinweise Willich, Diebstahl
 {"coords": [6.3475, 51.2742], "date": "2026-07-24"}, // Dülken, gestohlen
 {"coords": [8.5331, 52.021], "date": "2026-07-24"}, // Seniorin Bielefeld, Dieb
+{"coords": [8.8678, 49.9228], "date": "2026-07-24"}, // Zeugen Münster, Raub
+//{"coords": [], "date": "2026-07-24"} // Bracht, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2026-07-24"}, // Ludwigsburg, gestohlen
+{"coords": [8.4414, 50.0919], "date": "2026-07-24"}, // Autohaus Hofheim, Einbruch
+{"coords": [8.6267, 48.1678], "date": "2026-07-24"}, // Rottweil, aufbruch
+//{"coords": [], "date": "2026-07-24"} // Auto Worbis, Einbruch

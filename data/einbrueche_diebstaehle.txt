@@ -18943,3 +18943,14 @@
 //{"coords": [], "date": "2026-07-24"} // Schalksmühle, Einbruch
 {"coords": [8.4222, 53.3417], "date": "2026-07-24"}, // Tankstelle in Hambühren-Ovelgönne, Einbruch
 {"coords": [8.1092, 51.5711], "date": "2026-07-24"}, // Zeugen Soest, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-07-24"}, // Hinweise Bochum, Raub
+//{"coords": [], "date": "2026-07-24"} // Bad Oeynhausen, entwendet
+{"coords": [9.4108, 53.1111], "date": "2026-07-24"}, // Rotenburg, Einbruch
+//{"coords": [], "date": "2026-07-24"} // Rhein, gestohlen
+{"coords": [8.2146, 53.1434], "date": "2026-07-24"}, // Kellerraum Oldenburg, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-07-24"}, // Gewerbsmäßigem Bandendiebstahl Dinslaken, Diebstahl
+//{"coords": [], "date": "2026-07-24"} // Kein Ort gefunden, gestohlen
+{"coords": [10.5369, 52.1622], "date": "2026-07-24"}, // Polizeikommissariates Wolfenbüttel Wolfenbüttel, Einbruch
+{"coords": [9.6167, 50.45], "date": "2026-07-24"}, // Bahnhof Neuhof Fulda, Einbruch
+{"coords": [6.5875, 51.0883], "date": "2026-07-24"}, // Grevenbroich, entwendet
+{"coords": [8.7758, 50.0106], "date": "2026-07-24"}, // Untersuchungshaft Dietzenbach, Einbruch

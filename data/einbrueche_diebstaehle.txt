@@ -18932,3 +18932,14 @@
 {"coords": [7.9447, 48.4731], "date": "2026-07-23"}, // Tatverdächtigen Offenburg, Raub
 //{"coords": [], "date": "2026-07-23"} // Seibertsmühle Ruschberg, Einbruch
 //{"coords": [], "date": "2026-07-24"} // Kein Ort gefunden, Einbrüche
+{"coords": [8.0, 51.45], "date": "2026-07-24"}, // Staubsaugerautomat Arnsberg, aufbruch
+{"coords": [12.1997, 50.6544], "date": "2026-07-24"}, // Greiz, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-07-24"}, // Einbruch Heilbronn, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-07-24"}, // Gera, Diebstahl
+//{"coords": [], "date": "2026-07-24"} // Ebersdorf, Diebstahl
+{"coords": [7.7, 51.375], "date": "2026-07-24"}, // Einbruch Iserlohn, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2026-07-24"}, // Lüdenscheid, Diebstähle
+{"coords": [9.0, 50.7333], "date": "2026-07-24"}, // Zeugen Homberg, Einbruch
+//{"coords": [], "date": "2026-07-24"} // Schalksmühle, Einbruch
+{"coords": [8.4222, 53.3417], "date": "2026-07-24"}, // Tankstelle in Hambühren-Ovelgönne, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-07-24"}, // Zeugen Soest, Raub

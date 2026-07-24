@@ -18954,3 +18954,12 @@
 {"coords": [9.6167, 50.45], "date": "2026-07-24"}, // Bahnhof Neuhof Fulda, Einbruch
 {"coords": [6.5875, 51.0883], "date": "2026-07-24"}, // Grevenbroich, entwendet
 {"coords": [8.7758, 50.0106], "date": "2026-07-24"}, // Untersuchungshaft Dietzenbach, Einbruch
+//{"coords": [], "date": "2026-07-24"} // Tuttlingen, entwendet
+//{"coords": [], "date": "2026-07-24"} // Rothenbach, entwendet
+{"coords": [6.2194, 51.0614], "date": "2026-07-24"}, // Pkw Hückelhoven, Diebstahl
+{"coords": [6.1333, 50.9167], "date": "2026-07-24"}, // Übach, entwendet
+{"coords": [7.3333, 51.4333], "date": "2026-07-24"}, // Witten, Einbruch
+{"coords": [6.3475, 51.2742], "date": "2026-07-24"}, // Dülken, Einbruch
+{"coords": [6.5492, 51.2631], "date": "2026-07-24"}, // Hinweise Willich, Diebstahl
+{"coords": [6.3475, 51.2742], "date": "2026-07-24"}, // Dülken, gestohlen
+{"coords": [8.5331, 52.021], "date": "2026-07-24"}, // Seniorin Bielefeld, Dieb

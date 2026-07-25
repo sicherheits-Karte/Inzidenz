@@ -18980,3 +18980,10 @@
 {"coords": [10.2333, 51.4167], "date": "2026-07-24"}, // Eichsfeld bittet um Mithilfe nach Fahrraddiebstahl mehr, Diebstahl
 //{"coords": [], "date": "2026-07-25"} // Selm, Einbruch
 {"coords": [7.5658, 51.4458], "date": "2026-07-25"}, // Lebensmittelautomaten Schwerte, aufbruch
+{"coords": [10.45, 52.1667], "date": "2026-07-25"}, // Thiede, Diebstahl
+{"coords": [7.2908, 52.6906], "date": "2026-07-25"}, // Zeugen Meppen, Einbruch
+{"coords": [6.85, 52.6167], "date": "2026-07-25"}, // Zeugen Emlichheim, Diebstahl
+{"coords": [10.8708, 51.3697], "date": "2026-07-25"}, // Richtung Sondershausen kommend, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-07-25"}, // Einbruchsversuch Erfurt, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2026-07-25"}, // Schwerte, Diebstahl
+{"coords": [7.6889, 51.5347], "date": "2026-07-25"}, // Wohngebiet Unna, Diebstahl

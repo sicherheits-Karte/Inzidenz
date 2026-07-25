@@ -19002,3 +19002,4 @@
 //{"coords": [], "date": "2026-07-25"} // Transporter Contwig, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-07-25"}, // Verkehrsunfälle Reutlingen, Diebstahl
 {"coords": [8.1128, 49.1994], "date": "2026-07-25"}, // Zeugenaufruf Landau, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-07-25"}, // Limburg, Einbrüche

@@ -18998,3 +18998,6 @@
 {"coords": [10.9147, 50.6856], "date": "2026-07-25"}, // Schwimmbad Ilmenau OT Stützerbach, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-07-25"}, // Erfurt, Diebstahl
 //{"coords": [], "date": "2026-07-25"} // Pkw Bad Gandersheim, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-07-25"}, // Mannheim, Raub
+//{"coords": [], "date": "2026-07-25"} // Transporter Contwig, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-07-25"}, // Verkehrsunfälle Reutlingen, Diebstahl

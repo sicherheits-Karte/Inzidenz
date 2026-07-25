@@ -18996,3 +18996,5 @@
 //{"coords": [], "date": "2026-07-25"} // der Straße, gestohlen
 {"coords": [10.95, 50.8333], "date": "2026-07-25"}, // Arnstadt, entwendet
 {"coords": [10.9147, 50.6856], "date": "2026-07-25"}, // Schwimmbad Ilmenau OT Stützerbach, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-07-25"}, // Erfurt, Diebstahl
+//{"coords": [], "date": "2026-07-25"} // Pkw Bad Gandersheim, Einbruch

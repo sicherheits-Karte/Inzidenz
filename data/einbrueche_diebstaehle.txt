@@ -19005,3 +19005,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-07-25"}, // Limburg, Einbrüche
 {"coords": [11.0299, 50.9848], "date": "2026-07-25"}, // Zeugen Erfurt, gestohlen
 {"coords": [8.1667, 49.5667], "date": "2026-07-25"}, // Grünstadt, Einbruch
+//{"coords": [], "date": "2026-07-26"} // Ortslage Reinsfeld Reinsfeld, Einbruch

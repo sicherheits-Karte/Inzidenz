@@ -19028,3 +19028,4 @@
 {"coords": [8.2146, 53.1434], "date": "2026-07-26"}, // Oldenburg, Einbrüche
 //{"coords": [], "date": "2026-07-26"} // Weidenau, Einbruch
 //{"coords": [], "date": "2026-07-26"} // Verkehrsunfall auf der, Diebstahl
+//{"coords": [], "date": "2026-07-26"} // Hövelhof, Raub

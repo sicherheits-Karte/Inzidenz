@@ -19006,3 +19006,7 @@
 {"coords": [11.0299, 50.9848], "date": "2026-07-25"}, // Zeugen Erfurt, gestohlen
 {"coords": [8.1667, 49.5667], "date": "2026-07-25"}, // Grünstadt, Einbruch
 //{"coords": [], "date": "2026-07-26"} // Ortslage Reinsfeld Reinsfeld, Einbruch
+{"coords": [8.6667, 50.5833], "date": "2026-07-26"}, // Lahn Gießen, Raub
+{"coords": [7.2162, 51.4818], "date": "2026-07-26"}, // Hinweise Bochum, entwendet
+//{"coords": [], "date": "2026-07-26"} // Alarm Kreis Bad Kreuznach, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2026-07-26"}, // Landkreis Gotha, Einbruch

@@ -19029,3 +19029,4 @@
 //{"coords": [], "date": "2026-07-26"} // Weidenau, Einbruch
 //{"coords": [], "date": "2026-07-26"} // Verkehrsunfall auf der, Diebstahl
 //{"coords": [], "date": "2026-07-26"} // Hövelhof, Raub
+{"coords": [10.0119, 51.9603], "date": "2026-07-26"}, // Lamspringe Hildesheim, Einbruch

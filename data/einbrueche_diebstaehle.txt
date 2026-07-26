@@ -19024,3 +19024,4 @@
 //{"coords": [], "date": "2026-07-26"} // Mahlstetten, Raub
 {"coords": [7.3608, 49.2492], "date": "2026-07-26"}, // Zeugen Zweibrücken, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-07-26"}, // Widerstand Aalen, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-07-26"}, // Diepholz, Einbruch

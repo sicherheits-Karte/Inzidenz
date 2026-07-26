@@ -19017,3 +19017,10 @@
 {"coords": [8.0, 51.45], "date": "2026-07-26"}, // Einfamilienhäuser Arnsberg, Einbrüche
 {"coords": [8.8667, 51.9333], "date": "2026-07-26"}, // Lippe, Einbruch
 {"coords": [10.6944, 50.6111], "date": "2026-07-26"}, // Schmiedefeld Suhl, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-07-26"}, // Wohnung Hofheim, Diebstahl
+//{"coords": [], "date": "2026-07-26"} // Manebach, Einbruch
+{"coords": [9.7, 53.5833], "date": "2026-07-26"}, // der Gemarkung Wedel, Einbrecher in Freiburg erbeuten einen Fernseher mehr, Einbrecher
+//{"coords": [], "date": "2026-07-26"} // überraschte Einbrecher, Einbrecher
+//{"coords": [], "date": "2026-07-26"} // Mahlstetten, Raub
+{"coords": [7.3608, 49.2492], "date": "2026-07-26"}, // Zeugen Zweibrücken, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-07-26"}, // Widerstand Aalen, Einbruch

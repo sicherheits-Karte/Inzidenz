@@ -19026,3 +19026,5 @@
 {"coords": [10.0936, 48.8372], "date": "2026-07-26"}, // Widerstand Aalen, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-07-26"}, // Diepholz, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2026-07-26"}, // Oldenburg, Einbrüche
+//{"coords": [], "date": "2026-07-26"} // Weidenau, Einbruch
+//{"coords": [], "date": "2026-07-26"} // Verkehrsunfall auf der, Diebstahl

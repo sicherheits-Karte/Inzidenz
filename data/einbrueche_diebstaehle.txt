@@ -19010,3 +19010,10 @@
 {"coords": [7.2162, 51.4818], "date": "2026-07-26"}, // Hinweise Bochum, entwendet
 //{"coords": [], "date": "2026-07-26"} // Alarm Kreis Bad Kreuznach, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2026-07-26"}, // Landkreis Gotha, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-07-26"}, // Sicherstellungen Weimar, gestohlen
+//{"coords": [], "date": "2026-07-26"} // Kein Ort gefunden, entwendet
+//{"coords": [], "date": "2026-07-26"} // Lebenstedt, Raub
+{"coords": [12.0799, 50.8772], "date": "2026-07-26"}, // Gera, Dieb
+{"coords": [8.0, 51.45], "date": "2026-07-26"}, // Einfamilienhäuser Arnsberg, Einbrüche
+{"coords": [8.8667, 51.9333], "date": "2026-07-26"}, // Lippe, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2026-07-26"}, // Schmiedefeld Suhl, Einbruch

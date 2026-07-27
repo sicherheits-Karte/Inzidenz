@@ -19056,3 +19056,13 @@
 //{"coords": [], "date": "2026-07-27"} // Einfamilienhaus Bodenheim, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-07-27"}, // Gütersloh, Einbrecher
 {"coords": [9.2108, 49.1425], "date": "2026-07-27"}, // Heilbronn, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-07-27"}, // Giessen, Dieb
+{"coords": [6.5492, 51.2631], "date": "2026-07-27"}, // Willich, Diebstahl
+{"coords": [7.8211, 49.6306], "date": "2026-07-27"}, // Rockenhausen wurden bislang drei Taten bekannt, in denen in der Alsenbrücker Straße und in der Hohlstraße geparkte Fahrzeuge geöffnet und Gegenstände gestohlen wurden. Zumindest in einem Fall dürfte das Fahrzeug unverschlossen gewesen sein. Nach, Diebstähle
+{"coords": [7.82, 47.99], "date": "2026-07-27"}, // Freiburg, entwendet
+{"coords": [8.0667, 50.3833], "date": "2026-07-27"}, // Limburg, gestohlen
+{"coords": [7.82, 47.99], "date": "2026-07-27"}, // Freiburg, Dieb
+{"coords": [8.9167, 50.1333], "date": "2026-07-27"}, // Zeugenhinweise Hanau, Diebstahl
+{"coords": [7.4836, 53.4711], "date": "2026-07-27"}, // Landkreis Aurich, Einbruch
+{"coords": [6.85, 52.6167], "date": "2026-07-27"}, // Zeugen Emlichheim, Diebstahl
+{"coords": [10.25, 50.6833], "date": "2026-07-27"}, // Kiosk Vogelsberg, Einbruch

@@ -19033,3 +19033,5 @@
 {"coords": [7.4017, 50.4397], "date": "2026-07-26"}, // Tankstelle Andernach, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-07-27"}, // Erfurt, Einbruch
 //{"coords": [], "date": "2026-07-27"} // Ingbert, Diebstahl
+{"coords": [6.6178, 51.6589], "date": "2026-07-27"}, // Wesel, Einbruch
+//{"coords": [], "date": "2026-07-27"} // Straße, Raub

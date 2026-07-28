@@ -19075,3 +19075,4 @@
 {"coords": [10.475, 48.175], "date": "2026-07-27"}, // Kirchheim Reutlingen, aufbrüche
 {"coords": [9.0, 50.7333], "date": "2026-07-27"}, // Homberg, Einbruch
 //{"coords": [], "date": "2026-07-27"} // Mähroboters Schalkenmehren, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-07-28"}, // Zeugenaufruf Hildesheim, Einbruch

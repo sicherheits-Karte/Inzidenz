@@ -19090,3 +19090,17 @@
 {"coords": [10.0936, 48.8372], "date": "2026-07-28"}, // Sachbeschädigung Aalen, gestohlen
 {"coords": [11.5862, 50.9271], "date": "2026-07-28"}, // Jena, Einbruch
 {"coords": [11.8556, 50.8964], "date": "2026-07-28"}, // Hermsdorf, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-07-28"}, // Zeugenaufruf Delmenhorst, Einbruch
+{"coords": [10.0528, 51.1889], "date": "2026-07-28"}, // Eschwege, Einbrüche
+{"coords": [8.875, 53.05], "date": "2026-07-28"}, // Landkreis Osterholz, eingebrochen
+{"coords": [11.9, 49.95], "date": "2026-07-28"}, // Brand Heilbronn, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2026-07-28"}, // Sportheim Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-07-28"} // Landkreis Verden, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-07-28"}, // Köln, Raub
+//{"coords": [], "date": "2026-07-28"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.2711, 50.0], "date": "2026-07-28"}, // Zeugen Mainz, Einbruch
+{"coords": [10.375, 53.4153], "date": "2026-07-28"}, // Baustelle Marschacht, Dieb
+{"coords": [8.2711, 50.0], "date": "2026-07-28"}, // Mainz, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-07-28"}, // Einfamilienhaus Diepholz, Einbruch
+{"coords": [10.9887, 49.4771], "date": "2026-07-28"}, // Fürth, entwendet
+{"coords": [8.6231, 52.3061], "date": "2026-07-28"}, // Lübbecke, Diebstahl

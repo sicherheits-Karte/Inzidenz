@@ -19128,3 +19128,13 @@
 {"coords": [9.1919, 48.8975], "date": "2026-07-28"}, // Sachschaden Ludwigsburg, entwendet
 //{"coords": [], "date": "2026-07-28"} // Heimsen, Diebstahl
 {"coords": [10.25, 50.6833], "date": "2026-07-28"}, // Feldern Vogelsberg, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-07-28"}, // Mitte, Diebstahl
+{"coords": [13.3878, 54.0931], "date": "2026-07-28"}, // Greifswalder Fußballvereins Greifswald, Einbruch
+//{"coords": [], "date": "2026-07-28"} // Untertürkheim, Raub
+{"coords": [8.5333, 48.0667], "date": "2026-07-28"}, // Schwenningen, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Einbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Wohnungseinbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Quads Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Fahrraddiebstählen Augsburg, Diebstähle
+{"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Delikte Augsburg, Diebstahl

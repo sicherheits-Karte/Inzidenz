@@ -19117,3 +19117,14 @@
 {"coords": [10.4278, 51.9042], "date": "2026-07-28"}, // Goslar, Einbruch
 {"coords": [6.6961, 50.8719], "date": "2026-07-28"}, // Zeugensuche Kerpen, Einbruch
 //{"coords": [], "date": "2026-07-28"} // Kreis, Diebstahl
+//{"coords": [], "date": "2026-07-28"} // Söhrewald, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-07-28"}, // Polizei Wuppertal Wuppertal, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-07-28"}, // Zeugen Münster, Raub
+{"coords": [10.5369, 52.1622], "date": "2026-07-28"}, // Wolfenbüttel, Diebstahl
+//{"coords": [], "date": "2026-07-28"} // Pampow, Einbrüche
+{"coords": [7.1, 51.5167], "date": "2026-07-28"}, // Gelsenkirchen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-07-28"}, // Limburg, Einbrecher
+{"coords": [8.45, 50.1333], "date": "2026-07-28"}, // Kelkheim Hofheim, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-07-28"}, // Sachschaden Ludwigsburg, entwendet
+//{"coords": [], "date": "2026-07-28"} // Heimsen, Diebstahl
+{"coords": [10.25, 50.6833], "date": "2026-07-28"}, // Feldern Vogelsberg, entwendet

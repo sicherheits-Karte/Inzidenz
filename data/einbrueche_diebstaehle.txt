@@ -19078,3 +19078,15 @@
 {"coords": [9.95, 52.15], "date": "2026-07-28"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-07-28"}, // Wiesbaden, Raub
 {"coords": [7.5978, 50.3597], "date": "2026-07-28"}, // Ruderclub Koblenz, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-07-28"}, // Zeugen Soest, Raub
+{"coords": [11.7667, 51.8333], "date": "2026-07-28"}, // Zeugen Nienburg, Diebstahl
+{"coords": [6.1667, 51.6833], "date": "2026-07-28"}, // Goch, entwendet
+//{"coords": [], "date": "2026-07-28"} // Zeugen Issum, entwendet
+{"coords": [9.0817, 52.1906], "date": "2026-07-28"}, // Zeugen Rinteln, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-07-28"}, // Ulm, Einbruch
+//{"coords": [], "date": "2026-07-28"} // Materborn, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-07-28"}, // Tresor Kleve, entwendet
+{"coords": [9.15, 52.3417], "date": "2026-07-28"}, // Zeugen Meerbeck, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2026-07-28"}, // Sachbeschädigung Aalen, gestohlen
+{"coords": [11.5862, 50.9271], "date": "2026-07-28"}, // Jena, Einbruch
+{"coords": [11.8556, 50.8964], "date": "2026-07-28"}, // Hermsdorf, Einbruch

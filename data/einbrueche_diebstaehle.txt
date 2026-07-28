@@ -19076,3 +19076,5 @@
 {"coords": [9.0, 50.7333], "date": "2026-07-27"}, // Homberg, Einbruch
 //{"coords": [], "date": "2026-07-27"} // Mähroboters Schalkenmehren, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-07-28"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-07-28"}, // Wiesbaden, Raub
+{"coords": [7.5978, 50.3597], "date": "2026-07-28"}, // Ruderclub Koblenz, Einbruch

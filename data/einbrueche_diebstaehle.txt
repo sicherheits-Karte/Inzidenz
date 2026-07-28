@@ -19138,3 +19138,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Quads Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Fahrraddiebstählen Augsburg, Diebstähle
 {"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Delikte Augsburg, Diebstahl
+{"coords": [8.3658, 49.6306], "date": "2026-07-28"}, // Ermittlungen Worms, Diebstähle

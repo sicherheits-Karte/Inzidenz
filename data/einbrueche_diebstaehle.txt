@@ -19140,3 +19140,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-07-28"}, // Delikte Augsburg, Diebstahl
 {"coords": [8.3658, 49.6306], "date": "2026-07-28"}, // Ermittlungen Worms, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-07-28"}, // Hildesheim, entwendet
+{"coords": [6.6178, 51.6589], "date": "2026-07-28"}, // Einsatz Wesel, Raub

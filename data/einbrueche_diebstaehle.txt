@@ -19187,3 +19187,4 @@
 {"coords": [7.7689, 49.4447], "date": "2026-07-29"}, // Kaiserslautern, gestohlen
 {"coords": [8.705, 48.895], "date": "2026-07-29"}, // Pforzheim, Dieb
 {"coords": [10.0528, 51.1889], "date": "2026-07-29"}, // Eschwege, Einbruch
+//{"coords": [], "date": "2026-07-29"} // Blankenrath mehr, Diebstahl

@@ -19142,3 +19142,4 @@
 {"coords": [9.95, 52.15], "date": "2026-07-28"}, // Hildesheim, entwendet
 {"coords": [6.6178, 51.6589], "date": "2026-07-28"}, // Einsatz Wesel, Raub
 {"coords": [9.95, 52.15], "date": "2026-07-28"}, // Zeugenaufruf Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-07-29"} // Newel, Diebstahl

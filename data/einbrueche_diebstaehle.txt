@@ -19143,3 +19143,8 @@
 {"coords": [6.6178, 51.6589], "date": "2026-07-28"}, // Einsatz Wesel, Raub
 {"coords": [9.95, 52.15], "date": "2026-07-28"}, // Zeugenaufruf Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-07-29"} // Newel, Diebstahl
+{"coords": [7.6014, 52.6853], "date": "2026-07-29"}, // Herzlake, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-07-29"}, // Raubdelikt Aalen, entwendet
+{"coords": [8.35, 51.3167], "date": "2026-07-29"}, // Hochsauerlandkreis, Einbrüche
+//{"coords": [], "date": "2026-07-29"} // Heimsen, Diebstahl
+{"coords": [8.9167, 50.1333], "date": "2026-07-29"}, // Zeugen Hanau, gestohlen

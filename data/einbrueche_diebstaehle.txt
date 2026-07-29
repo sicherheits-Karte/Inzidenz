@@ -19148,3 +19148,9 @@
 {"coords": [8.35, 51.3167], "date": "2026-07-29"}, // Hochsauerlandkreis, Einbrüche
 //{"coords": [], "date": "2026-07-29"} // Heimsen, Diebstahl
 {"coords": [8.9167, 50.1333], "date": "2026-07-29"}, // Zeugen Hanau, gestohlen
+{"coords": [8.65, 49.3], "date": "2026-07-29"}, // Walldorf, aufbruch
+{"coords": [8.5833, 53.55], "date": "2026-07-29"}, // Mitte, entwendet
+{"coords": [8.5786, 49.5383], "date": "2026-07-29"}, // Viernheim, Einbruch
+//{"coords": [], "date": "2026-07-29"} // Münchfeld, Diebstahl
+{"coords": [6.1353, 51.7875], "date": "2026-07-29"}, // Zeugen Kleve, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-07-29"}, // Hinweise Bonn, Raub

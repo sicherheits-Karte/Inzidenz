@@ -19154,3 +19154,16 @@
 //{"coords": [], "date": "2026-07-29"} // Münchfeld, Diebstahl
 {"coords": [6.1353, 51.7875], "date": "2026-07-29"}, // Zeugen Kleve, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2026-07-29"}, // Hinweise Bonn, Raub
+{"coords": [6.6264, 51.4519], "date": "2026-07-29"}, // Hinweise Moers, gestohlen
+{"coords": [6.85, 49.3], "date": "2026-07-29"}, // Bad Schwalbach, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-07-29"}, // Wiesbaden, entwendet
+{"coords": [8.4661, 49.4878], "date": "2026-07-29"}, // Sporthalle Mannheim, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-07-29"}, // Stellingen Hamburg, Raub
+{"coords": [10.4167, 50.55], "date": "2026-07-29"}, // Meiningen, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-07-29"}, // Unfall Aalen, Diebstahl
+{"coords": [13.0639, 53.3611], "date": "2026-07-29"}, // Anbauteile Neustrelitz, Diebstahl
+//{"coords": [], "date": "2026-07-29"} // Baal, gestohlen
+//{"coords": [], "date": "2026-07-29"} // Lövenich, Diebstahl
+//{"coords": [], "date": "2026-07-29"} // Müllendorf, entwendet
+//{"coords": [], "date": "2026-07-29"} // Zeugensuche Geilenkirchen, Einbruch
+{"coords": [6.0961, 51.0631], "date": "2026-07-29"}, // Heinsberg, gestohlen

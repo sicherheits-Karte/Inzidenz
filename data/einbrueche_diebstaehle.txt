@@ -19201,3 +19201,5 @@
 {"coords": [6.8889, 49.9858], "date": "2026-07-30"}, // Scooter Wittlich, Diebstahl
 //{"coords": [], "date": "2026-07-30"} // Einbruchsdiebstahl Niersbach, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-07-30"}, // Kennzeichendiebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2026-07-30"} // Geisweid, Dieb
+{"coords": [8.875, 53.05], "date": "2026-07-30"}, // Osterholz, Einbruch

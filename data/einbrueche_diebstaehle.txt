@@ -19209,3 +19209,10 @@
 {"coords": [8.2146, 53.1434], "date": "2026-07-30"}, // Diebstählen Oldenburg, Einbruch
 //{"coords": [], "date": "2026-07-30"} // Kreis, entwendet
 {"coords": [9.1753, 47.6633], "date": "2026-07-30"}, // Konstanz, aufbruch
+{"coords": [8.5833, 53.55], "date": "2026-07-30"}, // Mitte, Diebstahl
+{"coords": [9.9158, 51.5413], "date": "2026-07-30"}, // Göttingen, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-07-30"}, // Polizei Wuppertal Wuppertal, Einbruch
+//{"coords": [], "date": "2026-07-30"} // Kreis, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-07-30"}, // Kfz Fulda, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-07-30"}, // Zeugen Darmstadt, Diebstahl
+{"coords": [10.6866, 53.8655], "date": "2026-07-30"}, // Lübeck, entwendet

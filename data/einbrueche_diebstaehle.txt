@@ -19225,3 +19225,4 @@
 {"coords": [8.8678, 49.9228], "date": "2026-07-30"}, // Zeugen Münster, entwendet
 {"coords": [6.7623, 51.4344], "date": "2026-07-30"}, // Duisburg, gestohlen
 {"coords": [7.82, 47.99], "date": "2026-07-30"}, // Zeugen Freiburg, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-07-30"}, // Konstanzer Rheinstrandbad Konstanz, Raub

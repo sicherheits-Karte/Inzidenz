@@ -19228,3 +19228,4 @@
 {"coords": [9.1753, 47.6633], "date": "2026-07-30"}, // Konstanzer Rheinstrandbad Konstanz, Raub
 //{"coords": [], "date": "2026-07-30"} // Reichenstein, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-07-30"}, // Hildesheim, Diebstahl
+{"coords": [7.1167, 49.8167], "date": "2026-07-30"}, // Morbach, entwendet

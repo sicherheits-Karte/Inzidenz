@@ -19226,3 +19226,5 @@
 {"coords": [6.7623, 51.4344], "date": "2026-07-30"}, // Duisburg, gestohlen
 {"coords": [7.82, 47.99], "date": "2026-07-30"}, // Zeugen Freiburg, Einbruch
 {"coords": [9.1753, 47.6633], "date": "2026-07-30"}, // Konstanzer Rheinstrandbad Konstanz, Raub
+//{"coords": [], "date": "2026-07-30"} // Reichenstein, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-07-30"}, // Hildesheim, Diebstahl

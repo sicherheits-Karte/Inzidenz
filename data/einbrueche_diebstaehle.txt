@@ -19203,3 +19203,9 @@
 {"coords": [6.8889, 49.9858], "date": "2026-07-30"}, // Kennzeichendiebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2026-07-30"} // Geisweid, Dieb
 {"coords": [8.875, 53.05], "date": "2026-07-30"}, // Osterholz, Einbruch
+{"coords": [9.9142, 49.7306], "date": "2026-07-30"}, // Reichenberg, Raub
+{"coords": [6.6178, 51.6589], "date": "2026-07-30"}, // Pkw Wesel, Diebstahl
+//{"coords": [], "date": "2026-07-30"} // Tierschutzhof entwendet, entwendet
+{"coords": [8.2146, 53.1434], "date": "2026-07-30"}, // Diebstählen Oldenburg, Einbruch
+//{"coords": [], "date": "2026-07-30"} // Kreis, entwendet
+{"coords": [9.1753, 47.6633], "date": "2026-07-30"}, // Konstanz, aufbruch

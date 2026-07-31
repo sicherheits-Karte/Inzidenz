@@ -19257,3 +19257,7 @@
 {"coords": [7.82, 47.99], "date": "2026-07-31"}, // Mehrfamilienhaus Freiburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-07-31"}, // Freiburg, entwendet
 {"coords": [7.82, 47.99], "date": "2026-07-31"}, // Zeugenaufruf Freiburg, Einbrecher
+{"coords": [8.9167, 52.3], "date": "2026-07-31"}, // Visier Minden, Diebstahl
+//{"coords": [], "date": "2026-07-31"} // Kein Ort gefunden, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-07-31"}, // Tag Nordhausen, Einbruch
+//{"coords": [], "date": "2026-07-31"} // Regenabläufen gestohlen, gestohlen

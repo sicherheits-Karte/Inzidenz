@@ -19249,3 +19249,11 @@
 {"coords": [8.6822, 50.1106], "date": "2026-07-31"}, // Fahrraddiebstahl Frankfurt, Diebstahl
 {"coords": [8.7667, 50.1], "date": "2026-07-31"}, // Kreis Offenbach, Dieb
 {"coords": [10.1228, 54.3233], "date": "2026-07-31"}, // Kiel, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2026-07-31"}, // Zeugen Kassel, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-07-31"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-07-31"}, // Mitte, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-07-31"}, // Haustür Giessen, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-07-31"}, // Zeugen Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-31"}, // Mehrfamilienhaus Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-07-31"}, // Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2026-07-31"}, // Zeugenaufruf Freiburg, Einbrecher

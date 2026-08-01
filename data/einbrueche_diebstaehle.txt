@@ -19263,3 +19263,10 @@
 //{"coords": [], "date": "2026-07-31"} // Regenabläufen gestohlen, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2026-07-31"}, // Praxis Reutlingen, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-08-01"}, // Bochum, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-01"}, // Polizeihubschrauber Aalen, Raub
+{"coords": [8.0, 51.45], "date": "2026-08-01"}, // Garage Arnsberg, Einbruch
+//{"coords": [], "date": "2026-08-01"} // Oppau, entwendet
+{"coords": [8.3333, 51.35], "date": "2026-08-01"}, // Wohnhaus Bestwig, Einbruch
+{"coords": [9.8333, 53.95], "date": "2026-08-01"}, // Drogeriemarkt Hagen, Diebstahl
+{"coords": [7.2417, 52.7922], "date": "2026-08-01"}, // Zeugen Haren, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-08-01"}, // Zeugen Nordhorn, Einbruch

@@ -19279,3 +19279,4 @@
 {"coords": [8.6822, 50.1106], "date": "2026-08-01"}, // Raubes Frankfurt, entwendet
 {"coords": [9.375, 54.0208], "date": "2026-08-01"}, // Wacken, eigentumsdelikt
 {"coords": [7.7806, 53.5769], "date": "2026-08-01"}, // Wittmund, Diebstahl
+//{"coords": [], "date": "2026-08-01"} // Selm, Raub

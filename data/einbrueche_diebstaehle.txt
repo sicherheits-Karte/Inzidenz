@@ -19280,3 +19280,4 @@
 {"coords": [9.375, 54.0208], "date": "2026-08-01"}, // Wacken, eigentumsdelikt
 {"coords": [7.7806, 53.5769], "date": "2026-08-01"}, // Wittmund, Diebstahl
 //{"coords": [], "date": "2026-08-01"} // Selm, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-08-01"}, // Folgen Erfurt, Diebstahl

@@ -19262,3 +19262,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-07-31"}, // Tag Nordhausen, Einbruch
 //{"coords": [], "date": "2026-07-31"} // Regenabläufen gestohlen, gestohlen
 {"coords": [9.2167, 48.4833], "date": "2026-07-31"}, // Praxis Reutlingen, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-08-01"}, // Bochum, Einbruch

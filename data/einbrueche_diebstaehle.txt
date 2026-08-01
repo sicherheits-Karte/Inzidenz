@@ -19270,3 +19270,9 @@
 {"coords": [9.8333, 53.95], "date": "2026-08-01"}, // Drogeriemarkt Hagen, Diebstahl
 {"coords": [7.2417, 52.7922], "date": "2026-08-01"}, // Zeugen Haren, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2026-08-01"}, // Zeugen Nordhorn, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-08-01"}, // Delmenhorst, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-08-01"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2026-08-01"} // Kein Ort gefunden, entwendet
+{"coords": [7.4547, 53.2311], "date": "2026-08-01"}, // Leer, Einbruch
+{"coords": [10.3333, 52.15], "date": "2026-08-01"}, // Salzgitter, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2026-08-01"}, // Salzgitter, Einbruch

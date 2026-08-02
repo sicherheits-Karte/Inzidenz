@@ -19304,3 +19304,5 @@
 {"coords": [8.875, 53.05], "date": "2026-08-02"}, // Osterholz, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-08-02"}, // Reutlingen, Einbrüche
 {"coords": [7.7806, 53.5769], "date": "2026-08-02"}, // Wittmund, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-08-02"}, // Zeugenaufruf Einbeck, entwendet
+{"coords": [8.0472, 52.2799], "date": "2026-08-02"}, // Osnabrück, Diebstähle

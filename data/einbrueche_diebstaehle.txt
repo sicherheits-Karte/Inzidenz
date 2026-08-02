@@ -19306,3 +19306,8 @@
 {"coords": [7.7806, 53.5769], "date": "2026-08-02"}, // Wittmund, Diebstahl
 {"coords": [9.8667, 51.8167], "date": "2026-08-02"}, // Zeugenaufruf Einbeck, entwendet
 {"coords": [8.0472, 52.2799], "date": "2026-08-02"}, // Osnabrück, Diebstähle
+{"coords": [9.6333, 51.65], "date": "2026-08-02"}, // Uslar, entwendet
+{"coords": [9.6333, 51.65], "date": "2026-08-02"}, // Fahrraddiebstahl Uslar, Diebstahl
+{"coords": [7.5978, 50.3597], "date": "2026-08-02"}, // Fazit Koblenz, Diebstähle
+{"coords": [8.0667, 50.3833], "date": "2026-08-02"}, // Verkehrsunfallfluchten Limburg, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2026-08-02"}, // Beute Bocholt, Dieb

@@ -19314,3 +19314,5 @@
 //{"coords": [], "date": "2026-08-02"} // Kirrberger Straße, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-08-02"}, // Roller Hofheim, Einbruch
 {"coords": [6.2194, 51.0614], "date": "2026-08-02"}, // Hückelhoven, Raub
+{"coords": [9.0817, 52.1906], "date": "2026-08-02"}, // Rintelner Industriegebiet Rinteln, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2026-08-02"}, // Bereich Ziegelhausen Heidelberg, Raub

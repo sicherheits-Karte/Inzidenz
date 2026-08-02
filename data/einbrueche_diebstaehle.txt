@@ -19311,3 +19311,6 @@
 {"coords": [7.5978, 50.3597], "date": "2026-08-02"}, // Fazit Koblenz, Diebstähle
 {"coords": [8.0667, 50.3833], "date": "2026-08-02"}, // Verkehrsunfallfluchten Limburg, Diebstahl
 {"coords": [6.6153, 51.8367], "date": "2026-08-02"}, // Beute Bocholt, Dieb
+//{"coords": [], "date": "2026-08-02"} // Kirrberger Straße, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-08-02"}, // Roller Hofheim, Einbruch
+{"coords": [6.2194, 51.0614], "date": "2026-08-02"}, // Hückelhoven, Raub

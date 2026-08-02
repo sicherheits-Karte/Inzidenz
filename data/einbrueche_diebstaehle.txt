@@ -19288,3 +19288,14 @@
 {"coords": [9.2081, 52.3242], "date": "2026-08-02"}, // Stadthagen, entwendet
 {"coords": [8.0, 51.45], "date": "2026-08-02"}, // Einfamilienwohnhaus Arnsberg, Einbruch
 {"coords": [7.4547, 53.2311], "date": "2026-08-02"}, // Leer, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-08-02"}, // Wilhelmshaven, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-08-02"}, // Wilhelmshaven, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-08-02"}, // Wochenende Stade, Einbrecher
+//{"coords": [], "date": "2026-08-02"} // der Straße abgekommen mehr, gestohlen
+{"coords": [7.6333, 51.05], "date": "2026-08-02"}, // Bergneustadt, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-08-02"}, // Gummersbach, gestohlen
+{"coords": [7.6333, 51.05], "date": "2026-08-02"}, // Bergneustadt, Dieb
+//{"coords": [], "date": "2026-08-02"} // Höhe, Diebstahl
+{"coords": [7.0116, 51.4556], "date": "2026-08-02"}, // Zeugen Essen, stehlen
+{"coords": [11.15, 49.35], "date": "2026-08-02"}, // Wendelstein, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-08-02"}, // Einbeck, entwendet

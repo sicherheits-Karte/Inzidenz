@@ -19299,3 +19299,8 @@
 {"coords": [7.0116, 51.4556], "date": "2026-08-02"}, // Zeugen Essen, stehlen
 {"coords": [11.15, 49.35], "date": "2026-08-02"}, // Wendelstein, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2026-08-02"}, // Einbeck, entwendet
+{"coords": [10.0831, 52.6247], "date": "2026-08-02"}, // Uhr Celle, Dieb
+//{"coords": [], "date": "2026-08-02"} // zwei Fahrrädern mehr, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-08-02"}, // Osterholz, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-08-02"}, // Reutlingen, Einbrüche
+{"coords": [7.7806, 53.5769], "date": "2026-08-02"}, // Wittmund, Diebstahl

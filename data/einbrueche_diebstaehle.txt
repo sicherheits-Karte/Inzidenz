@@ -19283,3 +19283,8 @@
 {"coords": [11.0299, 50.9848], "date": "2026-08-01"}, // Folgen Erfurt, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-08-01"}, // Erfurt, gestohlen
 {"coords": [11.0299, 50.9848], "date": "2026-08-02"}, // Erfurt, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-08-02"}, // Wiesbaden, Diebstahl
+{"coords": [9.2, 49.4], "date": "2026-08-02"}, // Neckar, Einbruch
+{"coords": [9.2081, 52.3242], "date": "2026-08-02"}, // Stadthagen, entwendet
+{"coords": [8.0, 51.45], "date": "2026-08-02"}, // Einfamilienwohnhaus Arnsberg, Einbruch
+{"coords": [7.4547, 53.2311], "date": "2026-08-02"}, // Leer, Diebstahl

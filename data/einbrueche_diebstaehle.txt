@@ -19320,3 +19320,12 @@
 //{"coords": [], "date": "2026-08-03"} // Gandersheimer Innenstadt Bad Gandersheim, Diebstahl
 {"coords": [8.7667, 50.1], "date": "2026-08-03"}, // Zeugenhinweise Offenbach, Raub
 {"coords": [8.6806, 49.9894], "date": "2026-08-03"}, // Zeugen Langen, Raub
+{"coords": [8.5786, 49.5383], "date": "2026-08-03"}, // Viernheim, hab und gut
+{"coords": [8.4942, 49.8342], "date": "2026-08-03"}, // Riedstadt, Einbruch
+{"coords": [8.435, 49.505], "date": "2026-08-03"}, // Pfingstweide, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-08-03"}, // Ratzeburg, Einbruch
+//{"coords": [], "date": "2026-08-03"} // Kein Ort gefunden, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-08-03"}, // Ludwigshafen Ludwigshafen, Raub
+{"coords": [8.6306, 53.05], "date": "2026-08-03"}, // Zeugen Delmenhorst, Einbruch
+{"coords": [7.6158, 50.8767], "date": "2026-08-03"}, // Garage Waldbröl, eingebrochen
+{"coords": [7.3, 51.1333], "date": "2026-08-03"}, // Hückeswagen, Einbrüche

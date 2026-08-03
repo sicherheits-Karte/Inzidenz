@@ -19346,3 +19346,11 @@
 {"coords": [8.24, 50.0822], "date": "2026-08-03"}, // Wiesbaden Wiesbaden, Einbrüche
 {"coords": [8.6833, 50.5833], "date": "2026-08-03"}, // Giessen, Diebstahl
 {"coords": [8.3667, 50.0], "date": "2026-08-03"}, // Bischofsheim, Raub
+{"coords": [9.95, 52.15], "date": "2026-08-03"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-08-03"}, // Düsseldorf, Einbruch
+//{"coords": [], "date": "2026-08-03"} // Verwaltungsgebäude, Einbruch
+//{"coords": [], "date": "2026-08-03"} // Villingen, Einbruch
+//{"coords": [], "date": "2026-08-03"} // Harztor, Dieb
+{"coords": [10.7956, 51.5019], "date": "2026-08-03"}, // Nordhausen, Diebstahl
+{"coords": [10.4833, 51.1333], "date": "2026-08-03"}, // Tatumständen Flarchheim, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-03"}, // Aalen, Raub

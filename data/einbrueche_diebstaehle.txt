@@ -19354,3 +19354,5 @@
 {"coords": [10.7956, 51.5019], "date": "2026-08-03"}, // Nordhausen, Diebstahl
 {"coords": [10.4833, 51.1333], "date": "2026-08-03"}, // Tatumständen Flarchheim, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-08-03"}, // Aalen, Raub
+{"coords": [9.7839, 52.1619], "date": "2026-08-04"}, // Feuerwehrhaus Nordstemmen Hildesheim, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-08-04"}, // Handwerkerfahrzeug Hildesheim, Diebstahl

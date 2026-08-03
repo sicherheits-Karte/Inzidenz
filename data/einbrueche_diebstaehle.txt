@@ -19318,3 +19318,5 @@
 {"coords": [8.6944, 49.4092], "date": "2026-08-02"}, // Bereich Ziegelhausen Heidelberg, Raub
 {"coords": [8.6944, 49.4092], "date": "2026-08-02"}, // Heidelberg, Raub
 //{"coords": [], "date": "2026-08-03"} // Gandersheimer Innenstadt Bad Gandersheim, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-08-03"}, // Zeugenhinweise Offenbach, Raub
+{"coords": [8.6806, 49.9894], "date": "2026-08-03"}, // Zeugen Langen, Raub

@@ -19329,3 +19329,12 @@
 {"coords": [8.6306, 53.05], "date": "2026-08-03"}, // Zeugen Delmenhorst, Einbruch
 {"coords": [7.6158, 50.8767], "date": "2026-08-03"}, // Garage Waldbröl, eingebrochen
 {"coords": [7.3, 51.1333], "date": "2026-08-03"}, // Hückeswagen, Einbrüche
+{"coords": [6.6961, 50.8719], "date": "2026-08-03"}, // Firmengebäude Kerpen, Einbruch
+//{"coords": [], "date": "2026-08-03"} // Nettersheim, eingebrochen
+{"coords": [7.1508, 51.2562], "date": "2026-08-03"}, // Raub Wuppertal, Raub
+{"coords": [9.8333, 53.95], "date": "2026-08-03"}, // Untersuchungshaft Hagen, Diebstahl
+{"coords": [10.5267, 52.2689], "date": "2026-08-03"}, // Stadtgebiet Braunschweig, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-03"}, // Aalen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-08-03"}, // Hinweise Homberg, entwendet
+{"coords": [8.4043, 49.014], "date": "2026-08-03"}, // Zeugen Karlsruhe, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-08-03"}, // Karlsruher Oststadt Karlsruhe, Einbruch

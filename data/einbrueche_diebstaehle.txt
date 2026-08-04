@@ -19387,3 +19387,8 @@
 {"coords": [10.0936, 48.8372], "date": "2026-08-04"}, // Unfallflucht Aalen, Diebstähle
 {"coords": [8.0833, 48.6667], "date": "2026-08-04"}, // Schwerer Wohnungseinbruchsdiebstahl Ottersweier, Einbruch
 //{"coords": [], "date": "2026-08-04"} // Engen, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-08-04"}, // Hundeködern Reutlingen, aufbruch
+{"coords": [8.1139, 49.7569], "date": "2026-08-04"}, // Alzey, eigentumsdelikt
+{"coords": [7.0982, 50.7374], "date": "2026-08-04"}, // Bonn, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-08-04"}, // Zeugen Giessen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-08-04"}, // Reutlingen, Einbruch

@@ -19362,3 +19362,12 @@
 {"coords": [10.5267, 52.2689], "date": "2026-08-04"}, // Braunschweig, Einbruch
 //{"coords": [], "date": "2026-08-04"} // Winterberg, Raub
 {"coords": [8.1075, 53.5219], "date": "2026-08-04"}, // Wilhelmshaven, Diebstahl
+{"coords": [10.7292, 50.4258], "date": "2026-08-04"}, // Hildburghausen, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-08-04"}, // Mainz, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-08-04"}, // Zeugen Münster, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-08-04"}, // Untersuchungshatft Karlsruhe, Dieb
+{"coords": [6.9603, 50.9375], "date": "2026-08-04"}, // Köln, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-08-04"}, // Ludwigsburg, gestohlen
+{"coords": [9.3878, 51.4961], "date": "2026-08-04"}, // Hofgeismar Hofgeismar, Einbruch
+//{"coords": [], "date": "2026-08-04"} // eine Klinik geflogene, Raub
+{"coords": [11.1167, 51.1667], "date": "2026-08-04"}, // Landkreis Sömmerda, gestohlen

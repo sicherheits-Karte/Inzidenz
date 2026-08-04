@@ -19371,3 +19371,10 @@
 {"coords": [9.3878, 51.4961], "date": "2026-08-04"}, // Hofgeismar Hofgeismar, Einbruch
 //{"coords": [], "date": "2026-08-04"} // eine Klinik geflogene, Raub
 {"coords": [11.1167, 51.1667], "date": "2026-08-04"}, // Landkreis Sömmerda, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2026-08-04"}, // Geschäft Ludwigsburg, Dieb
+{"coords": [9.9333, 52.9667], "date": "2026-08-04"}, // Heidekreis, aufbruch
+//{"coords": [], "date": "2026-08-04"} // Kreis, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-08-04"}, // Raub Frankfurt, Raub
+{"coords": [8.5331, 52.021], "date": "2026-08-04"}, // Bielefeld, Raub
+{"coords": [10.4278, 51.9042], "date": "2026-08-04"}, // Goslar, Diebstahl
+{"coords": [6.0961, 51.0631], "date": "2026-08-04"}, // Werkstatt Heinsberg, Einbruch

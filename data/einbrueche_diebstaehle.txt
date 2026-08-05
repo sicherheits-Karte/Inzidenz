@@ -19393,3 +19393,10 @@
 {"coords": [8.6833, 50.5833], "date": "2026-08-04"}, // Zeugen Giessen, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-08-04"}, // Reutlingen, Einbruch
 {"coords": [6.85, 49.9333], "date": "2026-08-04"}, // Salmtal Wittlich, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-08-05"}, // Zeugen Münster, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-08-05"}, // Drogeriemarkt Wilhelmshaven, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-08-05"}, // Weimar, Einbruch
+{"coords": [7.45, 51.4333], "date": "2026-08-05"}, // Vorhalle, Raub
+{"coords": [7.5978, 50.3597], "date": "2026-08-05"}, // Koblenz, Diebstahl
+{"coords": [6.1972, 51.6267], "date": "2026-08-05"}, // Tatverdächtigen Weeze, entwendet
+{"coords": [11.0299, 50.9848], "date": "2026-08-05"}, // Erfurt, Diebstähle

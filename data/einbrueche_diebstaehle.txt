@@ -19432,3 +19432,4 @@
 {"coords": [7.82, 47.99], "date": "2026-08-05"}, // Baustelle Freiburg, Diebstahl
 {"coords": [9.9158, 51.5413], "date": "2026-08-05"}, // Göttingen, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-08-05"}, // Köln, Raub
+//{"coords": [], "date": "2026-08-05"} // Radnarbendeckeln Saarburg, Diebstahl

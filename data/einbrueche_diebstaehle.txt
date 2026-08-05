@@ -19408,3 +19408,10 @@
 //{"coords": [], "date": "2026-08-05"} // Zeugensuche Bergheim, entwendet
 {"coords": [8.2711, 50.0], "date": "2026-08-05"}, // Mainzer Krankenhaus Mainz, Diebstahl
 {"coords": [8.3467, 49.875], "date": "2026-08-05"}, // Zeugenhinweise Nierstein, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-08-05"}, // Durlach Karlsruhe, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-08-05"}, // Hinweise Bochum, entwendet
+//{"coords": [], "date": "2026-08-05"} // Raubes Bad Salzungen, Raub
+//{"coords": [], "date": "2026-08-05"} // Lienen, Raub
+//{"coords": [], "date": "2026-08-05"} // Geisweid, Einbruch
+//{"coords": [], "date": "2026-08-05"} // Nettersheim, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-08-05"}, // Zeugenhinweise Delmenhorst, entwendet

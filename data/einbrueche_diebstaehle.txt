@@ -19458,3 +19458,8 @@
 //{"coords": [], "date": "2026-08-06"} // Boscheln, Einbruch
 {"coords": [6.2833, 50.8167], "date": "2026-08-06"}, // Eschweiler, Einbruch
 {"coords": [11.8486, 53.4261], "date": "2026-08-06"}, // Parchim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-08-06"}, // Wiesbaden Wiesbaden, Einbrüche
+{"coords": [6.85, 49.3], "date": "2026-08-06"}, // Schule Bad Schwalbach, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-08-06"}, // Kreis Offenbach, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-08-06"}, // Mithilfe Neuss, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-08-06"}, // Rollerdiebstahl Augsburg, Diebstahl

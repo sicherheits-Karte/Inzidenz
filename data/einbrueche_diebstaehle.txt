@@ -19433,3 +19433,12 @@
 {"coords": [9.9158, 51.5413], "date": "2026-08-05"}, // Göttingen, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-08-05"}, // Köln, Raub
 //{"coords": [], "date": "2026-08-05"} // Radnarbendeckeln Saarburg, Diebstahl
+//{"coords": [], "date": "2026-08-06"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2026-08-06"} // Winterberg Winterberg, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-08-06"}, // Arnsberg Arnsberg, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-08-06"}, // Erfurt, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-08-06"}, // Erfurt, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-08-06"}, // Beute Erfurt, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-08-06"}, // Zeugen Offenbach, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-06"}, // Verkehrsunfall Aalen, aufbrüche
+{"coords": [7.0982, 50.7374], "date": "2026-08-06"}, // Diebstahlsdelikten Bonn, Diebstahl

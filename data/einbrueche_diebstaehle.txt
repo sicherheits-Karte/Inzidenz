@@ -19463,3 +19463,9 @@
 {"coords": [8.7667, 50.1], "date": "2026-08-06"}, // Kreis Offenbach, Diebstahl
 {"coords": [6.6833, 51.2], "date": "2026-08-06"}, // Mithilfe Neuss, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-08-06"}, // Rollerdiebstahl Augsburg, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-08-06"}, // Coesfeld, Raub
+{"coords": [7.1861, 49.6583], "date": "2026-08-06"}, // Niederbrombach Birkenfeld, Einbruch
+{"coords": [6.55, 51.25], "date": "2026-08-06"}, // Schiefbahn, gestohlen
+{"coords": [6.25, 51.2167], "date": "2026-08-06"}, // Firma Brüggen, Einbruch
+{"coords": [6.25, 51.2167], "date": "2026-08-06"}, // Brüggen, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-08-06"}, // Hofheim, Einbruch

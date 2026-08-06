@@ -19450,3 +19450,11 @@
 {"coords": [9.1919, 48.8975], "date": "2026-08-06"}, // Wohnhaus Ludwigsburg, Einbruch
 {"coords": [8.7667, 51.7167], "date": "2026-08-06"}, // Paderborn, Einbruch
 {"coords": [9.6775, 50.5528], "date": "2026-08-06"}, // Fulda, Einbruch
+//{"coords": [], "date": "2026-08-06"} // Belgien, gestohlen
+{"coords": [8.5331, 52.021], "date": "2026-08-06"}, // Polizisten Bielefeld, Einbrecher
+{"coords": [9.1919, 48.8975], "date": "2026-08-06"}, // Handy Ludwigsburg, Diebstahl
+{"coords": [10.4167, 50.55], "date": "2026-08-06"}, // Meiningen, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2026-08-06"}, // Beratungsstelle Suhl, Einbruch
+//{"coords": [], "date": "2026-08-06"} // Boscheln, Einbruch
+{"coords": [6.2833, 50.8167], "date": "2026-08-06"}, // Eschweiler, Einbruch
+{"coords": [11.8486, 53.4261], "date": "2026-08-06"}, // Parchim, Einbruch

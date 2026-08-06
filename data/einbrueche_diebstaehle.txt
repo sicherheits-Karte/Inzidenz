@@ -19442,3 +19442,11 @@
 {"coords": [8.7667, 50.1], "date": "2026-08-06"}, // Zeugen Offenbach, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-08-06"}, // Verkehrsunfall Aalen, aufbrüche
 {"coords": [7.0982, 50.7374], "date": "2026-08-06"}, // Diebstahlsdelikten Bonn, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-08-06"}, // Heilbronn, Einbruch
+{"coords": [8.0786, 48.5322], "date": "2026-08-06"}, // Oberkirch, Einbruch
+{"coords": [7.85, 51.6333], "date": "2026-08-06"}, // Rhynern, Dieb
+{"coords": [9.1167, 50.85], "date": "2026-08-06"}, // Neustadt, Einbruch
+//{"coords": [], "date": "2026-08-06"} // Gonsenheim, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-08-06"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-08-06"}, // Paderborn, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-08-06"}, // Fulda, Einbruch

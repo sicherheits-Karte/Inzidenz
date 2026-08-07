@@ -19496,3 +19496,7 @@
 {"coords": [11.0767, 49.4521], "date": "2026-08-07"}, // Nürnberg, entwendet
 {"coords": [6.7623, 51.4344], "date": "2026-08-07"}, // Zeugensuche Duisburg, Einbruch
 {"coords": [10.25, 50.6833], "date": "2026-08-07"}, // Kennzeichendiebstahl Vogelsberg, Diebstahl
+{"coords": [9.5164, 53.925], "date": "2026-08-07"}, // Itzehoe, Raub
+//{"coords": [], "date": "2026-08-07"} // Süd, eingebrochen
+{"coords": [9.2167, 48.4833], "date": "2026-08-07"}, // Polizeibeamte Reutlingen, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-08-07"}, // Ulm, Einbruch

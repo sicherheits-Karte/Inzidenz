@@ -19500,3 +19500,10 @@
 //{"coords": [], "date": "2026-08-07"} // Süd, eingebrochen
 {"coords": [9.2167, 48.4833], "date": "2026-08-07"}, // Polizeibeamte Reutlingen, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-08-07"}, // Ulm, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-08-07"}, // Freiburg, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-08-07"}, // Schorndorfer Straße Ludwigsburg, Raub
+//{"coords": [], "date": "2026-08-07"} // Kreis, Diebstahl
+//{"coords": [], "date": "2026-08-07"} // Kein Ort gefunden, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-08-07"}, // Vechta, Einbruch
+{"coords": [8.8403, 47.7592], "date": "2026-08-07"}, // Singen, Dieb
+//{"coords": [], "date": "2026-08-07"} // Orte, Einbruch

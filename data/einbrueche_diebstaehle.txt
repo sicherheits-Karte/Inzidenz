@@ -19536,3 +19536,6 @@
 {"coords": [6.0839, 50.7753], "date": "2026-08-07"}, // Aachen, Raub
 {"coords": [6.25, 51.35], "date": "2026-08-07"}, // Lobberich, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-08-07"}, // Freiburg, Raub
+{"coords": [9.2, 49.4], "date": "2026-08-07"}, // Neckar, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2026-08-07"}, // Reutlingen, Einbruch
+{"coords": [9.1333, 48.8], "date": "2026-08-07"}, // Feuerbach, Diebstahl

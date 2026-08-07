@@ -19541,3 +19541,4 @@
 {"coords": [9.1333, 48.8], "date": "2026-08-07"}, // Feuerbach, Diebstahl
 {"coords": [6.6178, 51.6589], "date": "2026-08-07"}, // Rettungshubschraubers Wesel, Raub
 //{"coords": [], "date": "2026-08-07"} // POL-PDNR, Einbruch
+//{"coords": [], "date": "2026-08-07"} // Versuchter Wohnungseinbruchsdiebstahl Staudernheim, Einbruch

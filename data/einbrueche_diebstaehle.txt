@@ -19472,3 +19472,12 @@
 {"coords": [9.0, 50.7333], "date": "2026-08-07"}, // Hinweise Homberg, entwendet
 {"coords": [10.0936, 48.8372], "date": "2026-08-07"}, // Platz Aalen, Einbruch
 {"coords": [12.0799, 50.8772], "date": "2026-08-07"}, // Gera, gestohlen
+{"coords": [11.1667, 50.35], "date": "2026-08-07"}, // Landkreis Sonneberg, Einbrüche
+{"coords": [10.8667, 49.4667], "date": "2026-08-07"}, // Cadolzburg, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-08-07"}, // Zeugen Wesel, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-08-07"}, // Zeugen Moers, stehlen
+{"coords": [6.75, 51.5833], "date": "2026-08-07"}, // Dinslaken, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-08-07"}, // Schulgelände Hildesheim, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-08-07"}, // Zeugen Moers, Raub
+{"coords": [8.6017, 48.6436], "date": "2026-08-07"}, // Zeugen Altensteig, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-08-07"}, // Gummersbach, Einbruch

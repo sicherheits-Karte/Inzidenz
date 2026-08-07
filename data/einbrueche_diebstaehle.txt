@@ -19516,3 +19516,9 @@
 {"coords": [9.5, 51.3167], "date": "2026-08-07"}, // Kassel, Einbruch
 {"coords": [8.4111, 49.9917], "date": "2026-08-07"}, // Visier Rüsselsheim, Einbruch
 {"coords": [7.0116, 51.4556], "date": "2026-08-07"}, // Festnahme Essen, stehlen
+//{"coords": [], "date": "2026-08-07"} // Bad Salzungen, Raub
+{"coords": [9.95, 52.15], "date": "2026-08-07"}, // Untersuchungshaft Hildesheim, Einbrecher
+{"coords": [6.4333, 51.2], "date": "2026-08-07"}, // Zeugen Mönchengladbach, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-08-07"}, // Harsewinkelplatz Münster Münster, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-08-07"}, // Untersuchungshaft Giessen, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-08-07"}, // Schulen Aalen, Einbruch

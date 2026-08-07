@@ -19539,3 +19539,4 @@
 {"coords": [9.2, 49.4], "date": "2026-08-07"}, // Neckar, Einbrüche
 {"coords": [9.2167, 48.4833], "date": "2026-08-07"}, // Reutlingen, Einbruch
 {"coords": [9.1333, 48.8], "date": "2026-08-07"}, // Feuerbach, Diebstahl
+{"coords": [6.6178, 51.6589], "date": "2026-08-07"}, // Rettungshubschraubers Wesel, Raub

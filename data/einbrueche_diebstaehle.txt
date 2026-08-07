@@ -19507,3 +19507,12 @@
 {"coords": [8.2869, 52.7303], "date": "2026-08-07"}, // Vechta, Einbruch
 {"coords": [8.8403, 47.7592], "date": "2026-08-07"}, // Singen, Dieb
 //{"coords": [], "date": "2026-08-07"} // Orte, Einbruch
+//{"coords": [], "date": "2026-08-07"} // Versandpaket, Diebstahl
+{"coords": [8.1361, 53.3969], "date": "2026-08-07"}, // Varel, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-08-07"}, // Bielefeld, Diebstahl
+{"coords": [11.1, 48.7167], "date": "2026-08-07"}, // Polizei Oberhausen, Raub
+{"coords": [8.1075, 53.5219], "date": "2026-08-07"}, // Verbrauchermarkt Wilhelmshaven, Diebstahl
+{"coords": [8.375, 49.3833], "date": "2026-08-07"}, // Schifferstadt, Dieb
+{"coords": [9.5, 51.3167], "date": "2026-08-07"}, // Kassel, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2026-08-07"}, // Visier Rüsselsheim, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-08-07"}, // Festnahme Essen, stehlen

@@ -19481,3 +19481,18 @@
 {"coords": [6.6264, 51.4519], "date": "2026-08-07"}, // Zeugen Moers, Raub
 {"coords": [8.6017, 48.6436], "date": "2026-08-07"}, // Zeugen Altensteig, Einbruch
 {"coords": [7.5667, 51.0833], "date": "2026-08-07"}, // Gummersbach, Einbruch
+//{"coords": [], "date": "2026-08-07"} // Polizei Bad Oeynhausen, Diebstahl
+//{"coords": [], "date": "2026-08-07"} // Kreis, Raub
+{"coords": [8.6944, 53.8619], "date": "2026-08-07"}, // Steuer Cuxhaven, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-08-07"}, // Recklinghausen, Raub
+{"coords": [6.4833, 50.8], "date": "2026-08-07"}, // Düren, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-08-07"}, // Festnahme Düren, Dieb
+{"coords": [9.6775, 50.5528], "date": "2026-08-07"}, // Fulda Fulda, Dieb
+//{"coords": [], "date": "2026-08-07"} // Weimarer Land, Einbruch
+//{"coords": [], "date": "2026-08-07"} // Weimarer Land, Einbrecher
+//{"coords": [], "date": "2026-08-07"} // Holzland, gestohlen
+{"coords": [11.5862, 50.9271], "date": "2026-08-07"}, // Jena, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-08-07"}, // Jena, entwendet
+{"coords": [11.0767, 49.4521], "date": "2026-08-07"}, // Nürnberg, entwendet
+{"coords": [6.7623, 51.4344], "date": "2026-08-07"}, // Zeugensuche Duisburg, Einbruch
+{"coords": [10.25, 50.6833], "date": "2026-08-07"}, // Kennzeichendiebstahl Vogelsberg, Diebstahl

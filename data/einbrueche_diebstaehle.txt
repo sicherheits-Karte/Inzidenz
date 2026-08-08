@@ -19542,3 +19542,5 @@
 {"coords": [6.6178, 51.6589], "date": "2026-08-07"}, // Rettungshubschraubers Wesel, Raub
 //{"coords": [], "date": "2026-08-07"} // POL-PDNR, Einbruch
 //{"coords": [], "date": "2026-08-07"} // Versuchter Wohnungseinbruchsdiebstahl Staudernheim, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-08-08"}, // Konstanz, Einbruch
+//{"coords": [], "date": "2026-08-08"} // Klausenhorn, Einbruch

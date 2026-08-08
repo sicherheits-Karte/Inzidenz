@@ -19559,3 +19559,4 @@
 {"coords": [8.4414, 50.0919], "date": "2026-08-08"}, // Hofheim, Dieb
 //{"coords": [], "date": "2026-08-08"} // der vergangenen Nacht auf das Gelände eines landwirtschaftlichen Betriebs in der Hellwigstraße ein. Aus einem dort abgestellten Traktor wurde Kraftstoff im Wert von ca, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-08-08"}, // Fahrraddiebstahl Wittlich, Diebstahl
+{"coords": [10.9147, 50.6856], "date": "2026-08-08"}, // Ilmenau, eingebrochen

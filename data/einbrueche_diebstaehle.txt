@@ -19547,3 +19547,5 @@
 //{"coords": [], "date": "2026-08-08"} // Krölpa, Dieb
 {"coords": [11.8103, 50.5786], "date": "2026-08-08"}, // Schleiz, Einbruch
 {"coords": [8.15, 49.4667], "date": "2026-08-08"}, // Weinstraße, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-08-08"}, // Vechta, Diebstahl
+{"coords": [10.6153, 50.5042], "date": "2026-08-08"}, // Gartenhaus Themar, Einbruch

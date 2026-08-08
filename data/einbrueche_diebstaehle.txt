@@ -19553,3 +19553,6 @@
 {"coords": [8.0, 51.45], "date": "2026-08-08"}, // Wohnungseinbruch Arnsberg, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2026-08-08"}, // Landau, Diebstahl
 //{"coords": [], "date": "2026-08-08"} // Bauunternehmen Neubörger, Einbruch
+{"coords": [8.65, 53.4667], "date": "2026-08-08"}, // Loxstedt Cuxhaven, Diebstahl
+{"coords": [8.5833, 51.3833], "date": "2026-08-08"}, // Wohnungseinbruch Brilon, Einbruch
+{"coords": [10.3175, 51.3153], "date": "2026-08-08"}, // Dingelstädt, Einbruch

@@ -19549,3 +19549,7 @@
 {"coords": [8.15, 49.4667], "date": "2026-08-08"}, // Weinstraße, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2026-08-08"}, // Vechta, Diebstahl
 {"coords": [10.6153, 50.5042], "date": "2026-08-08"}, // Gartenhaus Themar, Einbruch
+{"coords": [10.3167, 51.4], "date": "2026-08-08"}, // Gartenhaus Leinefelde, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-08-08"}, // Wohnungseinbruch Arnsberg, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2026-08-08"}, // Landau, Diebstahl
+//{"coords": [], "date": "2026-08-08"} // Bauunternehmen Neubörger, Einbruch

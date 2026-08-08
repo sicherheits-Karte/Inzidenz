@@ -19562,3 +19562,4 @@
 {"coords": [10.9147, 50.6856], "date": "2026-08-08"}, // Ilmenau, eingebrochen
 {"coords": [10.7956, 51.5019], "date": "2026-08-08"}, // Nordhausen, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2026-08-08"}, // Unfall Limburg, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-08-08"}, // Wohnhaus Hildesheim, Einbruch

@@ -19564,3 +19564,4 @@
 {"coords": [8.0667, 50.3833], "date": "2026-08-08"}, // Unfall Limburg, gestohlen
 {"coords": [9.95, 52.15], "date": "2026-08-08"}, // Wohnhaus Hildesheim, Einbruch
 {"coords": [6.5492, 51.2631], "date": "2026-08-08"}, // Firmengelände Willich, aufbrechen
+{"coords": [8.8431, 49.8978], "date": "2026-08-08"}, // Dieburg Dieburg, Dieb

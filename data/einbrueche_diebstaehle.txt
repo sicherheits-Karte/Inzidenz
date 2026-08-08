@@ -19563,3 +19563,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-08-08"}, // Nordhausen, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2026-08-08"}, // Unfall Limburg, gestohlen
 {"coords": [9.95, 52.15], "date": "2026-08-08"}, // Wohnhaus Hildesheim, Einbruch
+{"coords": [6.5492, 51.2631], "date": "2026-08-08"}, // Firmengelände Willich, aufbrechen

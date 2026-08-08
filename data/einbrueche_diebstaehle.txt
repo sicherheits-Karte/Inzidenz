@@ -19546,3 +19546,4 @@
 //{"coords": [], "date": "2026-08-08"} // Klausenhorn, Einbruch
 //{"coords": [], "date": "2026-08-08"} // Krölpa, Dieb
 {"coords": [11.8103, 50.5786], "date": "2026-08-08"}, // Schleiz, Einbruch
+{"coords": [8.15, 49.4667], "date": "2026-08-08"}, // Weinstraße, Diebstahl

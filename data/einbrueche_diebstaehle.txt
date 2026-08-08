@@ -19544,3 +19544,5 @@
 //{"coords": [], "date": "2026-08-07"} // Versuchter Wohnungseinbruchsdiebstahl Staudernheim, Einbruch
 {"coords": [9.1753, 47.6633], "date": "2026-08-08"}, // Konstanz, Einbruch
 //{"coords": [], "date": "2026-08-08"} // Klausenhorn, Einbruch
+//{"coords": [], "date": "2026-08-08"} // Krölpa, Dieb
+{"coords": [11.8103, 50.5786], "date": "2026-08-08"}, // Schleiz, Einbruch

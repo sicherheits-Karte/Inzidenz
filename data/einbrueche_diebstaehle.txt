@@ -19602,3 +19602,4 @@
 {"coords": [6.85, 49.3], "date": "2026-08-09"}, // Bad Schwalbach, Einbruch
 {"coords": [6.4333, 51.2], "date": "2026-08-09"}, // Tankstelle Mönchengladbach, Raub
 {"coords": [8.6306, 53.05], "date": "2026-08-09"}, // Delmenhorst, Raub
+//{"coords": [], "date": "2026-08-09"} // Einbruchdiebstahls Bad Gandersheim, Einbruch

@@ -19599,3 +19599,4 @@
 //{"coords": [], "date": "2026-08-09"} // Reifen Sehlem, Diebstahl
 {"coords": [7.6667, 50.55], "date": "2026-08-09"}, // Aufbruch Dierdorf, aufbruch
 {"coords": [8.0, 51.45], "date": "2026-08-09"}, // Mehrfamilienhaus Arnsberg, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-08-09"}, // Bad Schwalbach, Einbruch

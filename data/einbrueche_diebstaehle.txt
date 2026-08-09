@@ -19579,3 +19579,6 @@
 //{"coords": [], "date": "2026-08-09"} // Einfamilienhaus Ense, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-08-09"}, // Berliner Platz Ludwigshafen, Raub
 {"coords": [9.8333, 53.95], "date": "2026-08-09"}, // Räder Hagen, Diebstahl
+{"coords": [10.3667, 50.6667], "date": "2026-08-09"}, // Wasungen, Einbruch
+//{"coords": [], "date": "2026-08-09"} // Friedhof Birkenhördt, Diebstahl
+{"coords": [7.4547, 53.2311], "date": "2026-08-09"}, // Leer, entwendet

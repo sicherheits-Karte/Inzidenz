@@ -19571,3 +19571,11 @@
 {"coords": [7.2162, 51.4818], "date": "2026-08-09"}, // Bochum, Raub
 //{"coords": [], "date": "2026-08-09"} // Schkölen, entwendet
 //{"coords": [], "date": "2026-08-09"} // Kandel, Einbruch
+{"coords": [7.3333, 49.3167], "date": "2026-08-09"}, // Bruchhof Homburg, Diebstahl
+{"coords": [6.6528, 50.5931], "date": "2026-08-09"}, // Mechernich, Raub
+{"coords": [10.7292, 50.4258], "date": "2026-08-09"}, // Hildburghausen, Einbrecher
+{"coords": [11.5164, 51.0264], "date": "2026-08-09"}, // Kennzeichendiebstahl Apolda, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2026-08-09"}, // Anhängers Apolda, Diebstahl
+//{"coords": [], "date": "2026-08-09"} // Einfamilienhaus Ense, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-08-09"}, // Berliner Platz Ludwigshafen, Raub
+{"coords": [9.8333, 53.95], "date": "2026-08-09"}, // Räder Hagen, Diebstahl

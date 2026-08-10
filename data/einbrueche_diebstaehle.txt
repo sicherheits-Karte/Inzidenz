@@ -19689,3 +19689,5 @@
 {"coords": [6.4667, 51.4667], "date": "2026-08-10"}, // Einsatz Rheurdt, Raub
 {"coords": [8.8678, 49.9228], "date": "2026-08-10"}, // Zeugen Münster, Einbruch
 {"coords": [8.5833, 53.55], "date": "2026-08-10"}, // Mitte, aufbruch
+{"coords": [6.75, 51.5833], "date": "2026-08-10"}, // Hinweise Dinslaken, Raub
+//{"coords": [], "date": "2026-08-10"} // Kein Ort gefunden, Einbruch

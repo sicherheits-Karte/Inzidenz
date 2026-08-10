@@ -19610,3 +19610,4 @@
 //{"coords": [], "date": "2026-08-09"} // Kein Ort gefunden, gestohlen
 //{"coords": [], "date": "2026-08-09"} // Herscheid, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-08-09"}, // Zigarettenautomaten Erfurt, Einbruch
+//{"coords": [], "date": "2026-08-10"} // Stahlprofilen Ellscheid, Diebstahl

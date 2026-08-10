@@ -19642,3 +19642,13 @@
 {"coords": [9.2167, 48.4833], "date": "2026-08-10"}, // Verkehrsunfälle Reutlingen, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-08-10"}, // Ludwigshafen, Einbruch
 {"coords": [9.4667, 53.95], "date": "2026-08-10"}, // Preußisch Oldendorf, entwendet
+{"coords": [8.6, 51.6833], "date": "2026-08-10"}, // Salzkotten, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-08-10"}, // Untersuchungshaft Düsseldorf, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-08-10"}, // Ulm, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2026-08-10"}, // Sachbeschädigung Heilbronn, Einbruch
+//{"coords": [], "date": "2026-08-10"} // der Zeit zwischen, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2026-08-10"}, // Zeugen Bonn, entwendet
+//{"coords": [], "date": "2026-08-10"} // Landkreis Verden, gestohlen
+{"coords": [8.6944, 53.8619], "date": "2026-08-10"}, // Verkehrsunfallflucht Cuxhaven, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-08-10"}, // Karlsruhe, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-08-10"}, // Holter Kirchplatz Gütersloh, Einbruch

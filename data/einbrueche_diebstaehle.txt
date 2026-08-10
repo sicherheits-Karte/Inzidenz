@@ -19679,3 +19679,12 @@
 {"coords": [7.82, 47.99], "date": "2026-08-10"}, // Freiburg, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-08-10"}, // Einsatz Freiburg, Raub
 {"coords": [9.4667, 51.35], "date": "2026-08-10"}, // Vellmar, Einbrecher
+//{"coords": [], "date": "2026-08-10"} // Kein Ort gefunden, entwendet
+{"coords": [10.0936, 48.8372], "date": "2026-08-10"}, // Diebstahl Aalen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-08-10"}, // Ebingen Reutlingen, Einbruch
+{"coords": [6.5492, 51.2631], "date": "2026-08-10"}, // Spielhalle Willich, Einbruch
+//{"coords": [], "date": "2026-08-10"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-08-10"}, // Giessen, Einbrecher
+{"coords": [6.3917, 51.2556], "date": "2026-08-10"}, // Viersen, Einbruch
+{"coords": [6.4667, 51.4667], "date": "2026-08-10"}, // Einsatz Rheurdt, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-08-10"}, // Zeugen Münster, Einbruch

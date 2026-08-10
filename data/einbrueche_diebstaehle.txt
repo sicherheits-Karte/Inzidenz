@@ -19688,3 +19688,4 @@
 {"coords": [6.3917, 51.2556], "date": "2026-08-10"}, // Viersen, Einbruch
 {"coords": [6.4667, 51.4667], "date": "2026-08-10"}, // Einsatz Rheurdt, Raub
 {"coords": [8.8678, 49.9228], "date": "2026-08-10"}, // Zeugen Münster, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-08-10"}, // Mitte, aufbruch

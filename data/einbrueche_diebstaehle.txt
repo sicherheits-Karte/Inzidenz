@@ -19652,3 +19652,16 @@
 {"coords": [8.6944, 53.8619], "date": "2026-08-10"}, // Verkehrsunfallflucht Cuxhaven, Einbruch
 {"coords": [8.4043, 49.014], "date": "2026-08-10"}, // Karlsruhe, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-08-10"}, // Holter Kirchplatz Gütersloh, Einbruch
+//{"coords": [], "date": "2026-08-10"} // Tiefgarage gestohlen, gestohlen
+{"coords": [8.0167, 50.8833], "date": "2026-08-10"}, // Siegen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-08-10"}, // Zeugen Duisburg, Raub
+{"coords": [7.2, 51.6167], "date": "2026-08-10"}, // Geldbörse Recklinghausen, Raub
+{"coords": [7.75, 51.6333], "date": "2026-08-10"}, // Herringen, gestohlen
+//{"coords": [], "date": "2026-08-10"} // der Industriestraße und versuchte, Reifen von einem, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-08-10"}, // Ludwigsburg, Einbruch
+{"coords": [6.2833, 50.8167], "date": "2026-08-10"}, // Eschweiler, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-08-10"}, // Körperverletzung Frankfurt, Raub
+{"coords": [7.82, 47.99], "date": "2026-08-10"}, // Freiburg, Einbrecher
+//{"coords": [], "date": "2026-08-10"} // Kreis, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-08-10"}, // Zeugenaufruf Frankfurt, Einbruch
+{"coords": [8.7667, 50.1], "date": "2026-08-10"}, // Kreis Offenbach, gestohlen

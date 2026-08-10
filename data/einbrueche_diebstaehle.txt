@@ -19692,3 +19692,4 @@
 {"coords": [6.75, 51.5833], "date": "2026-08-10"}, // Hinweise Dinslaken, Raub
 //{"coords": [], "date": "2026-08-10"} // Kein Ort gefunden, Einbruch
 {"coords": [7.5667, 50.45], "date": "2026-08-10"}, // Hilgert Hilgert Waldgebiet, Raub
+//{"coords": [], "date": "2026-08-10"} // Anhängers Lirstal, Diebstahl

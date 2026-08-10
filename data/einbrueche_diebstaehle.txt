@@ -19671,3 +19671,11 @@
 {"coords": [10.135, 51.3783], "date": "2026-08-10"}, // Heilbad Heiligenstadt, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-08-10"}, // Haftrichter Köln, aufbruch
 {"coords": [9.6106, 47.7828], "date": "2026-08-10"}, // Landkreis Ravensburg Landkreis Ravensburg, eingebrochen
+{"coords": [6.1353, 51.7875], "date": "2026-08-10"}, // Kleve, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-08-10"}, // Zeugen Freiburg, Einbruch
+//{"coords": [], "date": "2026-08-10"} // Wagen Flarcheim, Dieb
+{"coords": [10.2333, 51.4167], "date": "2026-08-10"}, // Eichsfeld, Diebstähle
+{"coords": [8.6833, 50.5833], "date": "2026-08-10"}, // Dachstuhlbrand Giessen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-08-10"}, // Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-08-10"}, // Einsatz Freiburg, Raub
+{"coords": [9.4667, 51.35], "date": "2026-08-10"}, // Vellmar, Einbrecher

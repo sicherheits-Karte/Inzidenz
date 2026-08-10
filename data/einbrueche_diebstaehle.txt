@@ -19616,3 +19616,12 @@
 {"coords": [11.0299, 50.9848], "date": "2026-08-10"}, // Wohnmobil Erfurt, gestohlen
 {"coords": [12.0799, 50.8772], "date": "2026-08-10"}, // Gera, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-08-10"}, // Wohnwagenanhänger Wittlich, Diebstahl
+{"coords": [8.705, 48.895], "date": "2026-08-10"}, // Zeugen Pforzheim, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-08-10"}, // Fahrradeigentümer Ratzeburg, Diebstahl
+{"coords": [8.5833, 51.3833], "date": "2026-08-10"}, // Verdacht Brilon, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-08-10"}, // Zeugen Homberg, Einbruch
+{"coords": [8.2833, 51.35], "date": "2026-08-10"}, // Meschede Meschede, Raub
+{"coords": [9.0, 50.7333], "date": "2026-08-10"}, // Hinweise Homberg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-10"}, // Auseinandersetzung Aalen, Diebstähle
+{"coords": [8.1092, 51.5711], "date": "2026-08-10"}, // Parfüm Soest, Einbruch
+//{"coords": [], "date": "2026-08-10"} // Eigentums- und Vermögensdelikten rund um Einkaufszentrum, vermögensdelikt

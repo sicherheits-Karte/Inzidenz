@@ -19778,3 +19778,16 @@
 {"coords": [7.0982, 50.7374], "date": "2026-08-11"}, // Kabeldieb Bonn, Dieb
 {"coords": [9.4764, 53.6008], "date": "2026-08-11"}, // Zeugen Stade, Dieb
 {"coords": [7.82, 47.99], "date": "2026-08-11"}, // Einbruch Freiburg, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-08-11"}, // Untersuchungshaft Karlsruhe, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-08-11"}, // Emden, gestohlen
+//{"coords": [], "date": "2026-08-11"} // Einkaufsmarkt, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-08-11"}, // Balkontür- Zeugenaufruf Mannheim, Einbrüche
+//{"coords": [], "date": "2026-08-11"} // Höhe, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-08-11"}, // Hofheim, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-08-11"}, // Bielefeld, Raub
+//{"coords": [], "date": "2026-08-11"} // oder mehrere Unbekannte ein schwarzes Mountainbike des Typs, entwendet
+//{"coords": [], "date": "2026-08-11"} // Baumarkt Langewiesen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-08-11"}, // Giessen, Einbrecher
+{"coords": [8.6822, 50.1106], "date": "2026-08-11"}, // Raubes Frankfurt, Raub
+{"coords": [8.0472, 52.2799], "date": "2026-08-11"}, // Taschendieb Osnabrück, Dieb
+//{"coords": [], "date": "2026-08-11"} // Kiosk, Einbruch

@@ -19748,3 +19748,15 @@
 {"coords": [6.9603, 50.9375], "date": "2026-08-11"}, // Köln, Einbruch
 {"coords": [6.4833, 50.8], "date": "2026-08-11"}, // Hinweise Düren, Einbrecher
 {"coords": [8.4353, 49.4811], "date": "2026-08-11"}, // Ludwigshafen, Einbruch
+{"coords": [11.9, 49.95], "date": "2026-08-11"}, // Brand Heidekreis, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-08-11"}, // Zeugen Paderborn, Einbruch
+//{"coords": [], "date": "2026-08-11"} // Bleibuir, Einbruch
+//{"coords": [], "date": "2026-08-11"} // Wattweiler, entwendet
+{"coords": [8.4043, 49.014], "date": "2026-08-11"}, // Raubdelikt Karlsruhe, Raub
+//{"coords": [], "date": "2026-08-11"} // Randegg, Einbruch
+{"coords": [6.7872, 50.6606], "date": "2026-08-11"}, // Grundschule Euskirchen, entwendet
+{"coords": [7.3167, 52.8667], "date": "2026-08-11"}, // Verbrauchermarkt Lathen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2026-08-11"}, // Baustelle Lingen, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-08-11"}, // Snackautomaten Lingen, Diebstahl
+{"coords": [8.4833, 49.9167], "date": "2026-08-11"}, // Gerau, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-08-11"}, // Zeugenaufruf Hildesheim, Einbruch

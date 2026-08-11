@@ -19740,3 +19740,11 @@
 {"coords": [8.4661, 49.4878], "date": "2026-08-11"}, // Mannheim, Raub
 //{"coords": [], "date": "2026-08-11"} // Grundschule, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2026-08-11"}, // Herne, Dieb
+//{"coords": [], "date": "2026-08-11"} // Seelbach, Einbruch
+//{"coords": [], "date": "2026-08-11"} // Hochschulviertel, entwendet
+{"coords": [10.6866, 53.8655], "date": "2026-08-11"}, // Lübeck, Diebstahl
+//{"coords": [], "date": "2026-08-11"} // Balg, Einbruch
+{"coords": [9.5164, 53.925], "date": "2026-08-11"}, // Waffen Itzehoe, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-08-11"}, // Köln, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-08-11"}, // Hinweise Düren, Einbrecher
+{"coords": [8.4353, 49.4811], "date": "2026-08-11"}, // Ludwigshafen, Einbruch

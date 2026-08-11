@@ -19720,3 +19720,12 @@
 {"coords": [7.6458, 50.6878], "date": "2026-08-11"}, // Einbruchsdiebstahl Altenkirchen, Einbruch
 {"coords": [7.9139, 51.5528], "date": "2026-08-11"}, // Werl, Einbruch
 {"coords": [12.0167, 49.6], "date": "2026-08-11"}, // Kohlberg Neuenrade, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-08-11"}, // Bielefeld, Dieb
+//{"coords": [], "date": "2026-08-11"} // Seligenthal, gestohlen
+{"coords": [8.1361, 53.3969], "date": "2026-08-11"}, // Zeugen Varel, Einbruch
+//{"coords": [], "date": "2026-08-11"} // Haft Konz, Einbrecher
+{"coords": [8.1361, 53.3969], "date": "2026-08-11"}, // Zeugen Varel, aufbruch
+//{"coords": [], "date": "2026-08-11"} // Niederkrüchten, Raub
+{"coords": [6.55, 51.4667], "date": "2026-08-11"}, // Vluyn, Diebstahl
+{"coords": [11.15, 49.35], "date": "2026-08-11"}, // Wendelstein, Einbruch
+//{"coords": [], "date": "2026-08-11"} // Lindhorst Lindhorst, Diebstahl

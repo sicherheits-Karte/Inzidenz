@@ -19770,3 +19770,11 @@
 {"coords": [6.75, 51.5833], "date": "2026-08-11"}, // Dinslaken, Raub
 //{"coords": [], "date": "2026-08-11"} // Zeugensuche Bergheim, entwendet
 {"coords": [13.4333, 54.4333], "date": "2026-08-11"}, // Rügen, Einbrüche
+{"coords": [6.7623, 51.4344], "date": "2026-08-11"}, // Duisburg, Dieb
+{"coords": [7.0333, 52.2167], "date": "2026-08-11"}, // Gronau, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-11"}, // Baumaschinen Aalen, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-08-11"}, // Versuchter Wohnungseinbruch Wiesbaden, Einbruch
+{"coords": [10.25, 50.6833], "date": "2026-08-11"}, // Kennzeichendiebstahl Vogelsberg, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2026-08-11"}, // Kabeldieb Bonn, Dieb
+{"coords": [9.4764, 53.6008], "date": "2026-08-11"}, // Zeugen Stade, Dieb
+{"coords": [7.82, 47.99], "date": "2026-08-11"}, // Einbruch Freiburg, Einbruch

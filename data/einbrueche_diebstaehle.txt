@@ -19701,3 +19701,12 @@
 {"coords": [12.1997, 50.6544], "date": "2026-08-11"}, // Greiz, gestohlen
 {"coords": [12.4333, 50.985], "date": "2026-08-11"}, // Altenburg, gestohlen
 {"coords": [12.4333, 50.985], "date": "2026-08-11"}, // Altenburg, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-08-11"}, // Homberg, gestohlen
+{"coords": [7.6333, 51.2167], "date": "2026-08-11"}, // Schlachthausstraße Lüdenscheid, eingebrochen
+{"coords": [7.7, 51.375], "date": "2026-08-11"}, // Diebe Iserlohn, Einbrecher
+{"coords": [7.8, 51.4333], "date": "2026-08-11"}, // Menden, Einbruch
+{"coords": [10.0, 51.7064], "date": "2026-08-11"}, // Northeim, entwendet
+{"coords": [8.705, 48.895], "date": "2026-08-11"}, // Zeugen Pforzheim, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-08-11"}, // Erfurt, gestohlen
+{"coords": [11.0299, 50.9848], "date": "2026-08-11"}, // Erfurt, Diebstahl
+{"coords": [8.3858, 48.2289], "date": "2026-08-11"}, // Schramberg, Einbrecher

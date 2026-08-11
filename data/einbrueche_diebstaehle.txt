@@ -19760,3 +19760,13 @@
 {"coords": [7.3194, 52.5236], "date": "2026-08-11"}, // Snackautomaten Lingen, Diebstahl
 {"coords": [8.4833, 49.9167], "date": "2026-08-11"}, // Gerau, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-08-11"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-08-11"}, // Öffentlichkeitsfahndung Gelsenkirchen, Diebstahl
+{"coords": [11.8486, 53.4261], "date": "2026-08-11"}, // Einbrechern Parchim, Einbrecher
+{"coords": [8.5833, 53.55], "date": "2026-08-11"}, // Mitte, gestohlen
+{"coords": [6.9603, 50.9375], "date": "2026-08-11"}, // Fahrzeugen Köln, Raub
+//{"coords": [], "date": "2026-08-11"} // Kreis, Diebstahl
+{"coords": [6.9667, 51.2333], "date": "2026-08-11"}, // Polizei Mettmann POL-ME, Einbrüche
+//{"coords": [], "date": "2026-08-11"} // Kein Ort gefunden, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-08-11"}, // Dinslaken, Raub
+//{"coords": [], "date": "2026-08-11"} // Zeugensuche Bergheim, entwendet
+{"coords": [13.4333, 54.4333], "date": "2026-08-11"}, // Rügen, Einbrüche

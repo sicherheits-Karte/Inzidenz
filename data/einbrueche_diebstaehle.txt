@@ -19729,3 +19729,14 @@
 {"coords": [6.55, 51.4667], "date": "2026-08-11"}, // Vluyn, Diebstahl
 {"coords": [11.15, 49.35], "date": "2026-08-11"}, // Wendelstein, Einbruch
 //{"coords": [], "date": "2026-08-11"} // Lindhorst Lindhorst, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-08-11"}, // Bielefeld, Einbrecher
+//{"coords": [], "date": "2026-08-11"} // Möhringen, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-08-11"}, // Osterholz, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-08-11"}, // Zeugen Delmenhorst, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-08-11"}, // Speyer, Einbruch
+//{"coords": [], "date": "2026-08-11"} // Sankt Augustin, entwendet
+//{"coords": [], "date": "2026-08-11"} // Kein Ort gefunden, Diebstahl
+{"coords": [10.7542, 50.5106], "date": "2026-08-11"}, // Schleusingen, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-08-11"}, // Mannheim, Raub
+//{"coords": [], "date": "2026-08-11"} // Grundschule, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-08-11"}, // Herne, Dieb

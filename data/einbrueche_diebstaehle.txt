@@ -19694,3 +19694,4 @@
 {"coords": [7.5667, 50.45], "date": "2026-08-10"}, // Hilgert Hilgert Waldgebiet, Raub
 //{"coords": [], "date": "2026-08-10"} // Anhängers Lirstal, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-08-10"}, // Vermisstensuche Ludwigshafen Friesenheim, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-08-11"}, // Vermisstensuche Ludwigshafen Friesenheim, Raub

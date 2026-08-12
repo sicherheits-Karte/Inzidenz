@@ -19832,3 +19832,8 @@
 {"coords": [10.4278, 51.9042], "date": "2026-08-12"}, // Goslar, entwendet
 {"coords": [6.85, 49.9333], "date": "2026-08-12"}, // Pkw Salmtal, Diebstahl
 {"coords": [6.7872, 50.6606], "date": "2026-08-12"}, // Euskirchen, eigentumsdelikt
+{"coords": [9.3833, 50.6333], "date": "2026-08-12"}, // Farbe Vogelsbergkreis, Diebstahl
+{"coords": [9.4108, 53.1111], "date": "2026-08-12"}, // Rotenburg, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-08-12"}, // Schule Fulda, Einbruch
+//{"coords": [], "date": "2026-08-12"} // Zeugenaufrufs Bergisch Gladbach, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-08-12"}, // Ulm, gestohlen

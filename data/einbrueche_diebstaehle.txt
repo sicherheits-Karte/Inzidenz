@@ -19823,3 +19823,12 @@
 {"coords": [10.0075, 53.7064], "date": "2026-08-12"}, // Polizei Norderstedt, Diebstahl
 {"coords": [6.6833, 51.2], "date": "2026-08-12"}, // Mithilfe Neuss, Diebstahl
 {"coords": [7.0667, 52.4333], "date": "2026-08-12"}, // Sportgeschäft Nordhorn, Diebstahl
+//{"coords": [], "date": "2026-08-12"} // Kreis, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2026-08-12"}, // Kreis Offenbach, geklaut
+{"coords": [10.4667, 50.5167], "date": "2026-08-12"}, // Einhausen, eingebrochen
+{"coords": [8.8678, 49.9228], "date": "2026-08-12"}, // Münster, Diebstahl
+{"coords": [7.75, 51.6333], "date": "2026-08-12"}, // Herringen, entwendet
+//{"coords": [], "date": "2026-08-12"} // Birgden, Diebstahl
+{"coords": [10.4278, 51.9042], "date": "2026-08-12"}, // Goslar, entwendet
+{"coords": [6.85, 49.9333], "date": "2026-08-12"}, // Pkw Salmtal, Diebstahl
+{"coords": [6.7872, 50.6606], "date": "2026-08-12"}, // Euskirchen, eigentumsdelikt

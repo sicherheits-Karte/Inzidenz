@@ -19806,3 +19806,12 @@
 {"coords": [9.8667, 51.8167], "date": "2026-08-12"}, // Einbeck, entwendet
 {"coords": [10.0, 51.7064], "date": "2026-08-12"}, // Northeim, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-08-12"}, // Sachbeschädigung Aalen, Einbruch
+{"coords": [9.1333, 48.8], "date": "2026-08-12"}, // Feuerbach, eingebrochen
+//{"coords": [], "date": "2026-08-12"} // Stadtgebiet, Einbrecher
+{"coords": [8.4128, 48.4678], "date": "2026-08-12"}, // Walschwimmbads Freudenstadt, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-08-12"}, // Zeugenaufruf Delmenhorst, entwendet
+{"coords": [6.7623, 51.4344], "date": "2026-08-12"}, // Zeugensuche Duisburg, stahl
+{"coords": [8.4353, 49.4811], "date": "2026-08-12"}, // Ludwigshafen, Einbruch
+{"coords": [7.1667, 50.8167], "date": "2026-08-12"}, // Troisdorf, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-08-12"}, // Mainz Mainz, Diebstähle
+{"coords": [7.2162, 51.4818], "date": "2026-08-12"}, // Bochum, Raub

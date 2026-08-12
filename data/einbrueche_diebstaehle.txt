@@ -19847,3 +19847,9 @@
 //{"coords": [], "date": "2026-08-12"} // Randegg, Einbruch
 {"coords": [10.7292, 50.4258], "date": "2026-08-12"}, // Friseursalon Hildburghausen, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-08-12"}, // Giessen, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-08-12"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [10.135, 51.3783], "date": "2026-08-12"}, // Eichsfelder Polizei Heilbad Heiligenstadt, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-08-12"}, // Giessen, Einbrecher
+//{"coords": [], "date": "2026-08-12"} // Keller entwendet mehr, entwendet
+//{"coords": [], "date": "2026-08-12"} // Bankfiliale in Obervellmar, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-08-12"}, // Erfolgreiche Verkehrskontrollen Limburg, Raub

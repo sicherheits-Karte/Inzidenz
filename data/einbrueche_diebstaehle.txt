@@ -19853,3 +19853,4 @@
 //{"coords": [], "date": "2026-08-12"} // Keller entwendet mehr, entwendet
 //{"coords": [], "date": "2026-08-12"} // Bankfiliale in Obervellmar, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2026-08-12"}, // Erfolgreiche Verkehrskontrollen Limburg, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-08-12"}, // Vermisstensuche Reutlingen, entwendet

@@ -19801,3 +19801,8 @@
 {"coords": [8.4167, 49.4], "date": "2026-08-11"}, // Limburgerhof, Einbruch
 {"coords": [12.0799, 50.8772], "date": "2026-08-12"}, // Gera, gestohlen
 {"coords": [12.4333, 50.985], "date": "2026-08-12"}, // Altenburg, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-08-12"}, // Firmengebäude Paderborn, Diebstahl
+{"coords": [6.3319, 51.5194], "date": "2026-08-12"}, // Zeugen Geldern, entwendet
+{"coords": [9.8667, 51.8167], "date": "2026-08-12"}, // Einbeck, entwendet
+{"coords": [10.0, 51.7064], "date": "2026-08-12"}, // Northeim, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-12"}, // Sachbeschädigung Aalen, Einbruch

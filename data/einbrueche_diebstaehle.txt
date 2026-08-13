@@ -19927,3 +19927,5 @@
 {"coords": [7.1675, 51.9436], "date": "2026-08-13"}, // Herstellers Lexus Coesfeld, Dieb
 //{"coords": [], "date": "2026-08-13"} // U-haft Heidelberberg, Diebstahl
 //{"coords": [], "date": "2026-08-13"} // Alst, Diebstahl
+{"coords": [11.3592, 50.6486], "date": "2026-08-13"}, // der Orla Landespolizeiinspektion Saalfeld, entwendet
+//{"coords": [], "date": "2026-08-13"} // Polizei Waldbrand Springiersbach Bengel, Raub

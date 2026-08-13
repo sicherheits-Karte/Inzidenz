@@ -19917,3 +19917,13 @@
 {"coords": [10.0936, 48.8372], "date": "2026-08-13"}, // Dieseldiebstahl Aalen, Diebstahl
 {"coords": [10.7956, 51.5019], "date": "2026-08-13"}, // Nordhausen, stehlen
 {"coords": [7.1, 51.5167], "date": "2026-08-13"}, // Gelsenkirchen, Diebstahl
+{"coords": [8.1333, 48.7], "date": "2026-08-13"}, // Nachtragsmeldung Bühl, Einbruch
+//{"coords": [], "date": "2026-08-13"} // Sperranhänger mehr, Einbrecher
+//{"coords": [], "date": "2026-08-13"} // einem Discount-Markt in der Straße, Diebstahl
+{"coords": [10.4333, 51.3667], "date": "2026-08-13"}, // Einsatz Niederorschel, Raub
+//{"coords": [], "date": "2026-08-13"} // Kein Ort gefunden, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-08-13"}, // Giessen, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-08-13"}, // Giessen, Einbrecher
+{"coords": [7.1675, 51.9436], "date": "2026-08-13"}, // Herstellers Lexus Coesfeld, Dieb
+//{"coords": [], "date": "2026-08-13"} // U-haft Heidelberberg, Diebstahl
+//{"coords": [], "date": "2026-08-13"} // Alst, Diebstahl

@@ -19906,3 +19906,8 @@
 {"coords": [8.6306, 53.05], "date": "2026-08-13"}, // Sonderpostenmarkt Delmenhorst, Einbruch
 {"coords": [7.35, 52.15], "date": "2026-08-13"}, // Friedhofsgräbern Steinfurt, Diebstähle
 {"coords": [6.7623, 51.4344], "date": "2026-08-13"}, // Zeugensuche Duisburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-08-13"}, // Freiburg, eigentumsdelikt
+{"coords": [7.82, 47.99], "date": "2026-08-13"}, // Zeugen Freiburg, Diebstahl
+{"coords": [8.2146, 53.1434], "date": "2026-08-13"}, // Arbeitsmaterial Oldenburg, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-08-13"}, // Delmenhorst, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-08-13"}, // Balkon Bielefeld, Einbruch

@@ -19857,3 +19857,10 @@
 {"coords": [7.9833, 51.95], "date": "2026-08-12"}, // Einsatz Warendorf, Raub
 //{"coords": [], "date": "2026-08-13"} // Friedhof Bretthausen, Diebstahl
 {"coords": [7.4614, 50.4286], "date": "2026-08-13"}, // Neuwied, entwendet
+{"coords": [11.1167, 51.1667], "date": "2026-08-13"}, // Landkreis Sömmerda, gestohlen
+//{"coords": [], "date": "2026-08-13"} // Mahlen, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2026-08-13"}, // Zeugen Nienburg, Diebstahl
+{"coords": [10.5267, 52.2689], "date": "2026-08-13"}, // Wohnung Braunschweig, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-08-13"}, // Automatenaufbruch Wittlich, aufbruch
+{"coords": [12.1997, 50.6544], "date": "2026-08-13"}, // Greiz, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-13"}, // Aalen, Dieb

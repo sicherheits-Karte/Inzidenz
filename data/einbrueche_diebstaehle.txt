@@ -19879,3 +19879,11 @@
 {"coords": [9.0, 50.7333], "date": "2026-08-13"}, // Hinweise Homberg, entwendet
 //{"coords": [], "date": "2026-08-13"} // Untertürkheim, eingebrochen
 {"coords": [11.5164, 51.0264], "date": "2026-08-13"}, // Apolda, Diebstahl
+{"coords": [7.2931, 51.2861], "date": "2026-08-13"}, // Pkw Schwelm, Diebstahl
+{"coords": [7.9447, 48.4731], "date": "2026-08-13"}, // Offenburg, aufbruch
+{"coords": [8.1333, 48.7], "date": "2026-08-13"}, // Bühl, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-08-13"}, // Ludwigsburg, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-08-13"}, // Tipps Münster, hab und gut
+//{"coords": [], "date": "2026-08-13"} // Einsatz mehr, Raub
+//{"coords": [], "date": "2026-08-13"} // Müden, Diebstähle
+//{"coords": [], "date": "2026-08-13"} // Kreis, entwendet

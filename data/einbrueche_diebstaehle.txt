@@ -19856,3 +19856,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-08-12"}, // Vermisstensuche Reutlingen, entwendet
 {"coords": [7.9833, 51.95], "date": "2026-08-12"}, // Einsatz Warendorf, Raub
 //{"coords": [], "date": "2026-08-13"} // Friedhof Bretthausen, Diebstahl
+{"coords": [7.4614, 50.4286], "date": "2026-08-13"}, // Neuwied, entwendet

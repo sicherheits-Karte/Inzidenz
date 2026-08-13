@@ -19887,3 +19887,12 @@
 //{"coords": [], "date": "2026-08-13"} // Einsatz mehr, Raub
 //{"coords": [], "date": "2026-08-13"} // Müden, Diebstähle
 //{"coords": [], "date": "2026-08-13"} // Kreis, entwendet
+{"coords": [8.5331, 52.021], "date": "2026-08-13"}, // Dieb Bielefeld, Dieb
+//{"coords": [], "date": "2026-08-13"} // Vaihingen, eingebrochen
+{"coords": [7.4614, 50.4286], "date": "2026-08-13"}, // Wohnungseinbruchdiebstählen Neuwied, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-08-13"}, // Viersen, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-08-13"}, // Scooter-- Bremen, Raub
+//{"coords": [], "date": "2026-08-13"} // Klinik geflogen mehr, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-08-13"}, // Ulm, gestohlen
+{"coords": [7.45, 51.4], "date": "2026-08-13"}, // Getränkelager Herdecke, stehlen
+//{"coords": [], "date": "2026-08-13"} // Dunningen, Einbruch

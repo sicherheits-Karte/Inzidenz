@@ -19872,3 +19872,10 @@
 {"coords": [9.0, 50.7333], "date": "2026-08-13"}, // Hinweise Homberg, eingebrochen
 {"coords": [7.9139, 51.5528], "date": "2026-08-13"}, // Pfefferspray Werl, Raub
 {"coords": [8.7667, 51.7167], "date": "2026-08-13"}, // Paderborn, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-08-13"}, // Bielefeld, Dieb
+{"coords": [7.4653, 51.5136], "date": "2026-08-13"}, // Zeugen Dortmund, Diebstähle
+{"coords": [7.9833, 51.95], "date": "2026-08-13"}, // Warendorf, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-08-13"}, // Jena, Dieb
+{"coords": [9.0, 50.7333], "date": "2026-08-13"}, // Hinweise Homberg, entwendet
+//{"coords": [], "date": "2026-08-13"} // Untertürkheim, eingebrochen
+{"coords": [11.5164, 51.0264], "date": "2026-08-13"}, // Apolda, Diebstahl

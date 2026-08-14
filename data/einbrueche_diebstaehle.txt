@@ -19987,3 +19987,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-08-14"}, // Edelmetall Nordhausen, gestohlen
 {"coords": [8.4414, 50.0919], "date": "2026-08-14"}, // Verkehrstage Ost Hofheim, Dieb
 {"coords": [10.3167, 51.4], "date": "2026-08-14"}, // Leinefelde, Einbruch
+//{"coords": [], "date": "2026-08-14"} // Orla, gestohlen

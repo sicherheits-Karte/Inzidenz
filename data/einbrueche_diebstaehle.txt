@@ -19989,3 +19989,4 @@
 {"coords": [10.3167, 51.4], "date": "2026-08-14"}, // Leinefelde, Einbruch
 //{"coords": [], "date": "2026-08-14"} // Orla, gestohlen
 //{"coords": [], "date": "2026-08-14"} // Kein Ort gefunden, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-08-14"}, // Hildesheim, Diebstahl

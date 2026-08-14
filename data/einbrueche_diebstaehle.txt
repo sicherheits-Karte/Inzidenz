@@ -19931,3 +19931,13 @@
 //{"coords": [], "date": "2026-08-13"} // Polizei Waldbrand Springiersbach Bengel, Raub
 {"coords": [12.0799, 50.8772], "date": "2026-08-14"}, // Gera, entwendet
 {"coords": [12.4333, 50.985], "date": "2026-08-14"}, // Altenburg, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-08-14"}, // Erfurt, gestohlen
+{"coords": [6.8889, 49.9858], "date": "2026-08-14"}, // Taschendiebstahl Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-08-14"}, // Scooter Wittlich, Diebstahl
+{"coords": [7.3208, 49.6922], "date": "2026-08-14"}, // Oberstein, Raub
+{"coords": [6.55, 51.4667], "date": "2026-08-14"}, // Vluyn, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-08-14"}, // Kupferkabel Kleve, entwendet
+{"coords": [8.5833, 51.3833], "date": "2026-08-14"}, // Brilon, gestohlen
+{"coords": [8.5833, 53.55], "date": "2026-08-14"}, // Mitte, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-08-14"}, // Zeugen Bochum, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-14"}, // Unfallflucht Aalen, Diebstahl

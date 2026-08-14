@@ -19950,3 +19950,9 @@
 {"coords": [8.5331, 52.021], "date": "2026-08-14"}, // Bielefeld, Dieb
 {"coords": [9.6333, 51.65], "date": "2026-08-14"}, // Diebstahl Portemonnaie Uslar, Diebstahl
 //{"coords": [], "date": "2026-08-14"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2026-08-14"} // Kreis, Einbruch
+//{"coords": [], "date": "2026-08-14"} // Kein Ort gefunden, Dieb
+{"coords": [7.6333, 51.6167], "date": "2026-08-14"}, // Cafe Bergkamen, Einbruch
+{"coords": [7.3333, 51.4333], "date": "2026-08-14"}, // Witten, Einbruch
+//{"coords": [], "date": "2026-08-14"} // der Nacht vom, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-08-14"}, // Zeugenaufruf Mannheim, Einbrüche

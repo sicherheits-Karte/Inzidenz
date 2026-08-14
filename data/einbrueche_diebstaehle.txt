@@ -19978,3 +19978,8 @@
 //{"coords": [], "date": "2026-08-14"} // Kreis, Dieb
 {"coords": [8.7667, 50.1], "date": "2026-08-14"}, // Kreis Offenbach, entwendet
 {"coords": [8.4661, 49.4878], "date": "2026-08-14"}, // Gericht Mannheim, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-08-14"}, // Limburg, entwendet
+{"coords": [9.3833, 50.6333], "date": "2026-08-14"}, // Taschendiebstahl Vogelsbergkreis, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-08-14"}, // Sozialstation Ludwigsburg, Einbruch
+{"coords": [8.7403, 48.7142], "date": "2026-08-14"}, // Calw, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-08-14"}, // Duisburg, Raub

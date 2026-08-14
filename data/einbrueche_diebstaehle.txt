@@ -19947,3 +19947,6 @@
 {"coords": [6.5167, 51.4833], "date": "2026-08-14"}, // Lintfort, Einbruch
 //{"coords": [], "date": "2026-08-14"} // Süderholz zu einem Kraftstoffdiebstahl. Nach bisherigen Erkenntnissen entwendeten bislang unbekannte Täter rund, Diebstahl
 {"coords": [10.75, 53.7], "date": "2026-08-14"}, // Großhansdorf Ratzeburg, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-08-14"}, // Bielefeld, Dieb
+{"coords": [9.6333, 51.65], "date": "2026-08-14"}, // Diebstahl Portemonnaie Uslar, Diebstahl
+//{"coords": [], "date": "2026-08-14"} // dem Kreisgebiet, Einbrüche

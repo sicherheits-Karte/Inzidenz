@@ -19968,3 +19968,7 @@
 {"coords": [8.2869, 52.7303], "date": "2026-08-14"}, // Vechta, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-08-14"}, // Raubdelikt Hildesheim, Raub
 {"coords": [7.2, 51.6167], "date": "2026-08-14"}, // Recklinghausen, Einbruch
+{"coords": [10.5167, 49.6167], "date": "2026-08-14"}, // Langscheid Langenfeld, Raub
+{"coords": [8.705, 48.895], "date": "2026-08-14"}, // Pforzheim, Diebstahl
+//{"coords": [], "date": "2026-08-14"} // Parkplatz Bad Bentheim, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-08-14"}, // Mithilfe Augsburg, Einbrüche

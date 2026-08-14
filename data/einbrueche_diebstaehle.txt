@@ -19972,3 +19972,9 @@
 {"coords": [8.705, 48.895], "date": "2026-08-14"}, // Pforzheim, Diebstahl
 //{"coords": [], "date": "2026-08-14"} // Parkplatz Bad Bentheim, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-08-14"}, // Mithilfe Augsburg, Einbrüche
+{"coords": [6.45, 51.2833], "date": "2026-08-14"}, // Vorst, Einbruch
+//{"coords": [], "date": "2026-08-14"} // Süchteln, gestohlen
+//{"coords": [], "date": "2026-08-14"} // Neuendeich, Einbruch
+//{"coords": [], "date": "2026-08-14"} // Kreis, Dieb
+{"coords": [8.7667, 50.1], "date": "2026-08-14"}, // Kreis Offenbach, entwendet
+{"coords": [8.4661, 49.4878], "date": "2026-08-14"}, // Gericht Mannheim, Diebstahl

@@ -19990,3 +19990,4 @@
 //{"coords": [], "date": "2026-08-14"} // Orla, gestohlen
 //{"coords": [], "date": "2026-08-14"} // Kein Ort gefunden, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-08-14"}, // Hildesheim, Diebstahl
+{"coords": [7.1658, 50.1472], "date": "2026-08-14"}, // Wilden Endert Cochem, Raub

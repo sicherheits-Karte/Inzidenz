@@ -19956,3 +19956,15 @@
 {"coords": [7.3333, 51.4333], "date": "2026-08-14"}, // Witten, Einbruch
 //{"coords": [], "date": "2026-08-14"} // der Nacht vom, Diebstahl
 {"coords": [8.4661, 49.4878], "date": "2026-08-14"}, // Zeugenaufruf Mannheim, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-08-14"}, // Eierwerfer Heilbronn, Einbrüche
+{"coords": [9.2108, 49.1425], "date": "2026-08-14"}, // Unfall Heilbronn, Einbrüche
+//{"coords": [], "date": "2026-08-14"} // Höhe, Dieb
+{"coords": [7.95, 53.65], "date": "2026-08-14"}, // Geschädigte Wangerland, Dieb
+{"coords": [9.1292, 52.2675], "date": "2026-08-14"}, // Obernkirchen, Diebstahl
+{"coords": [9.2, 49.4], "date": "2026-08-14"}, // Neckar, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-08-14"}, // Brände Reutlingen, Einbruch
+{"coords": [7.3608, 49.2492], "date": "2026-08-14"}, // Zweibrücken, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-08-14"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-08-14"}, // Vechta, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-08-14"}, // Raubdelikt Hildesheim, Raub
+{"coords": [7.2, 51.6167], "date": "2026-08-14"}, // Recklinghausen, Einbruch

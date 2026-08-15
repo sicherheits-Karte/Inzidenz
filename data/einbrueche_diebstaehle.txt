@@ -19994,3 +19994,6 @@
 //{"coords": [], "date": "2026-08-14"} // Zugmaschinen demontiert, entwendet
 {"coords": [7.4547, 53.2311], "date": "2026-08-15"}, // Leer, Diebstahl
 {"coords": [8.0, 51.45], "date": "2026-08-15"}, // Schulgebäude Arnsberg, Einbruch
+//{"coords": [], "date": "2026-08-15"} // Tuttlingen, Raub
+//{"coords": [], "date": "2026-08-15"} // Furtwangen, Raub
+{"coords": [10.7956, 51.5019], "date": "2026-08-15"}, // Nordhausen, gestohlen

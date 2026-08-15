@@ -20020,3 +20020,4 @@
 {"coords": [8.2833, 51.35], "date": "2026-08-15"}, // Autounfall Meschede, klau
 {"coords": [10.7183, 50.9489], "date": "2026-08-15"}, // Landkreis Gotha, Dieb
 {"coords": [11.0299, 50.9848], "date": "2026-08-15"}, // Kommissar Zufall Erfurt, gestohlen
+//{"coords": [], "date": "2026-08-15"} // leerstehendem Gebäude, Diebstahl

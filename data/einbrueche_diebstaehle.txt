@@ -19999,3 +19999,9 @@
 {"coords": [10.7956, 51.5019], "date": "2026-08-15"}, // Nordhausen, gestohlen
 {"coords": [7.0982, 50.7374], "date": "2026-08-15"}, // Bonn, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-08-15"}, // Delmenhorst, Diebstahl
+{"coords": [6.8031, 52.5061], "date": "2026-08-15"}, // Sandgrubengelände Itterbeck, Diebstahl
+//{"coords": [], "date": "2026-08-15"} // Aschendorf, Einbruch
+{"coords": [7.3333, 52.9667], "date": "2026-08-15"}, // Schulgelände Dörpen, Einbruch
+//{"coords": [], "date": "2026-08-15"} // Neubau Aschendorf, Diebstahl
+{"coords": [7.2333, 52.3167], "date": "2026-08-15"}, // Wohnhaus Schüttorf, Einbruch
+{"coords": [7.3, 53.0], "date": "2026-08-15"}, // Heede, gestohlen

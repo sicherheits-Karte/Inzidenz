@@ -19997,3 +19997,4 @@
 //{"coords": [], "date": "2026-08-15"} // Tuttlingen, Raub
 //{"coords": [], "date": "2026-08-15"} // Furtwangen, Raub
 {"coords": [10.7956, 51.5019], "date": "2026-08-15"}, // Nordhausen, gestohlen
+{"coords": [7.0982, 50.7374], "date": "2026-08-15"}, // Bonn, Einbruch

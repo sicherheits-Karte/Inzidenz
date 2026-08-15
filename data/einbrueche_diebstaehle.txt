@@ -20014,3 +20014,4 @@
 {"coords": [8.875, 53.05], "date": "2026-08-15"}, // Osterholz, Einbruch
 {"coords": [8.8075, 53.075], "date": "2026-08-15"}, // Zeugen- Bremen, Raub
 {"coords": [8.0667, 50.3833], "date": "2026-08-15"}, // Verkehrsunfallflucht Limburg, Einbruch
+//{"coords": [], "date": "2026-08-15"} // Schwegenheim, Diebstahl

@@ -20015,3 +20015,4 @@
 {"coords": [8.8075, 53.075], "date": "2026-08-15"}, // Zeugen- Bremen, Raub
 {"coords": [8.0667, 50.3833], "date": "2026-08-15"}, // Verkehrsunfallflucht Limburg, Einbruch
 //{"coords": [], "date": "2026-08-15"} // Schwegenheim, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-08-15"}, // Hildesheim, entwendet

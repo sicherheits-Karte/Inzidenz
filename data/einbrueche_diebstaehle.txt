@@ -20022,3 +20022,4 @@
 {"coords": [11.0299, 50.9848], "date": "2026-08-15"}, // Kommissar Zufall Erfurt, gestohlen
 //{"coords": [], "date": "2026-08-15"} // leerstehendem Gebäude, Diebstahl
 //{"coords": [], "date": "2026-08-15"} // Skaterpark, Einbruch
+//{"coords": [], "date": "2026-08-15"} // Gartenstraße, Einbruch

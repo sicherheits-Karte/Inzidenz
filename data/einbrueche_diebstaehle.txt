@@ -20011,3 +20011,4 @@
 {"coords": [6.8889, 49.9858], "date": "2026-08-15"}, // Kennzeichen Wittlich, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2026-08-15"}, // Vechta, Diebstahl
 {"coords": [10.4278, 51.9042], "date": "2026-08-15"}, // Goslar, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-08-15"}, // Osterholz, Einbruch

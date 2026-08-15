@@ -20016,3 +20016,5 @@
 {"coords": [8.0667, 50.3833], "date": "2026-08-15"}, // Verkehrsunfallflucht Limburg, Einbruch
 //{"coords": [], "date": "2026-08-15"} // Schwegenheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-08-15"}, // Hildesheim, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-08-15"}, // Landkreis Gotha, entwendet
+{"coords": [8.2833, 51.35], "date": "2026-08-15"}, // Autounfall Meschede, klau

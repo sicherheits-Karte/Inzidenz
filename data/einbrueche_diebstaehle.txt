@@ -20038,3 +20038,5 @@
 {"coords": [7.6158, 50.8767], "date": "2026-08-16"}, // Waldbröl, Einbrecher
 //{"coords": [], "date": "2026-08-16"} // Hüsten, Einbruch
 {"coords": [7.3778, 51.0194], "date": "2026-08-16"}, // Golfclub Lindlar, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-08-16"}, // Gronau, Einbrecher
+{"coords": [7.0333, 52.2167], "date": "2026-08-16"}, // Einfamilienhaus Gronau, Einbruch

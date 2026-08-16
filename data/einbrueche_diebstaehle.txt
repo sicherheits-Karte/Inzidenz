@@ -20050,3 +20050,4 @@
 //{"coords": [], "date": "2026-08-16"} // Zeugenaufruf Altdorf, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-08-16"}, // Nordhausen, gestohlen
 {"coords": [8.6833, 50.5833], "date": "2026-08-16"}, // Giessen, Einbrüche
+{"coords": [8.6822, 50.1106], "date": "2026-08-16"}, // Frankfurt, Einbrüche

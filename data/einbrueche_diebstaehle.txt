@@ -20057,3 +20057,4 @@
 {"coords": [10.4278, 51.9042], "date": "2026-08-16"}, // Goslar, Raub
 {"coords": [7.5978, 50.3597], "date": "2026-08-16"}, // Pfaffendorf Koblenz, aufbruch
 {"coords": [8.0667, 50.3833], "date": "2026-08-16"}, // Verkehrsunfallflucht Limburg, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2026-08-16"}, // Bensheim, Raub

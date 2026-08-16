@@ -20031,3 +20031,4 @@
 //{"coords": [], "date": "2026-08-16"} // Rhoda, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-08-16"}, // Trickdiebstahls Gelsenkirchen, Diebstahl
 {"coords": [11.3239, 50.9795], "date": "2026-08-16"}, // Kleinkraftrades Weimar, Diebstahl
+{"coords": [8.6267, 48.1678], "date": "2026-08-16"}, // Rottweil, Einbruch

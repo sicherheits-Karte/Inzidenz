@@ -20045,3 +20045,6 @@
 //{"coords": [], "date": "2026-08-16"} // Kein Ort gefunden, Dieb
 //{"coords": [], "date": "2026-08-16"} // Sprendlingen, Einbrüche
 {"coords": [9.2167, 48.4833], "date": "2026-08-16"}, // Automatenaufbruch Reutlingen, aufbruch
+{"coords": [6.85, 49.3], "date": "2026-08-16"}, // Bad Schwalbach, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-08-16"}, // Düsseldorf, Diebstahl
+//{"coords": [], "date": "2026-08-16"} // Zeugenaufruf Altdorf, Einbruch

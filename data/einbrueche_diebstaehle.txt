@@ -20048,3 +20048,5 @@
 {"coords": [6.85, 49.3], "date": "2026-08-16"}, // Bad Schwalbach, Diebstahl
 {"coords": [6.7735, 51.2277], "date": "2026-08-16"}, // Düsseldorf, Diebstahl
 //{"coords": [], "date": "2026-08-16"} // Zeugenaufruf Altdorf, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-08-16"}, // Nordhausen, gestohlen
+{"coords": [8.6833, 50.5833], "date": "2026-08-16"}, // Giessen, Einbrüche

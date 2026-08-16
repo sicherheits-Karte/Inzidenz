@@ -20032,3 +20032,5 @@
 {"coords": [7.1, 51.5167], "date": "2026-08-16"}, // Trickdiebstahls Gelsenkirchen, Diebstahl
 {"coords": [11.3239, 50.9795], "date": "2026-08-16"}, // Kleinkraftrades Weimar, Diebstahl
 {"coords": [8.6267, 48.1678], "date": "2026-08-16"}, // Rottweil, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-08-16"}, // Delmenhorst, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-08-16"}, // Wiesbaden, Raub

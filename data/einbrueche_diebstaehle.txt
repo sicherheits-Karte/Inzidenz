@@ -20042,3 +20042,4 @@
 {"coords": [7.0333, 52.2167], "date": "2026-08-16"}, // Einfamilienhaus Gronau, Einbruch
 {"coords": [8.8075, 53.075], "date": "2026-08-16"}, // Bremen, Raub
 {"coords": [7.7689, 49.4447], "date": "2026-08-16"}, // Kindertagesstätten Kaiserslautern, Einbrüche
+//{"coords": [], "date": "2026-08-16"} // Kein Ort gefunden, Dieb

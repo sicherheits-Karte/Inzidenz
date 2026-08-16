@@ -20043,3 +20043,5 @@
 {"coords": [8.8075, 53.075], "date": "2026-08-16"}, // Bremen, Raub
 {"coords": [7.7689, 49.4447], "date": "2026-08-16"}, // Kindertagesstätten Kaiserslautern, Einbrüche
 //{"coords": [], "date": "2026-08-16"} // Kein Ort gefunden, Dieb
+//{"coords": [], "date": "2026-08-16"} // Sprendlingen, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2026-08-16"}, // Automatenaufbruch Reutlingen, aufbruch

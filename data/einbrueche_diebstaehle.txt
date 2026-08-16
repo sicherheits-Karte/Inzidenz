@@ -20053,3 +20053,5 @@
 {"coords": [8.6822, 50.1106], "date": "2026-08-16"}, // Frankfurt, Einbrüche
 {"coords": [10.0936, 48.8372], "date": "2026-08-16"}, // Aalen, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2026-08-16"}, // Landkreis Gotha, entwendet
+{"coords": [8.3708, 52.6078], "date": "2026-08-16"}, // Landkreis Diepholz Diepholz, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2026-08-16"}, // Goslar, Raub

@@ -20034,3 +20034,7 @@
 {"coords": [8.6267, 48.1678], "date": "2026-08-16"}, // Rottweil, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-08-16"}, // Delmenhorst, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-08-16"}, // Wiesbaden, Raub
+{"coords": [7.0333, 52.2167], "date": "2026-08-16"}, // Pkw Gronau, Diebstahl
+{"coords": [7.6158, 50.8767], "date": "2026-08-16"}, // Waldbröl, Einbrecher
+//{"coords": [], "date": "2026-08-16"} // Hüsten, Einbruch
+{"coords": [7.3778, 51.0194], "date": "2026-08-16"}, // Golfclub Lindlar, Einbruch

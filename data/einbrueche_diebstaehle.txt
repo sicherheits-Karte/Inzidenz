@@ -20027,3 +20027,4 @@
 {"coords": [6.5492, 51.2631], "date": "2026-08-16"}, // Fahrradgeschäft Willich, Einbruch
 {"coords": [7.2931, 51.2861], "date": "2026-08-16"}, // Katzenklappe Schwelm, Einbruch
 //{"coords": [], "date": "2026-08-16"} // Bad Bergzabern, geklaut
+{"coords": [8.15, 49.4667], "date": "2026-08-16"}, // Weinstraße, Diebstahl

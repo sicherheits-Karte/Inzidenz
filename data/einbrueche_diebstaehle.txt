@@ -20028,3 +20028,5 @@
 {"coords": [7.2931, 51.2861], "date": "2026-08-16"}, // Katzenklappe Schwelm, Einbruch
 //{"coords": [], "date": "2026-08-16"} // Bad Bergzabern, geklaut
 {"coords": [8.15, 49.4667], "date": "2026-08-16"}, // Weinstraße, Diebstahl
+//{"coords": [], "date": "2026-08-16"} // Rhoda, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-08-16"}, // Trickdiebstahls Gelsenkirchen, Diebstahl

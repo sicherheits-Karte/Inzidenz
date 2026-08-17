@@ -20090,3 +20090,10 @@
 {"coords": [6.3, 51.4333], "date": "2026-08-17"}, // Wachtendonk, Einbruch
 {"coords": [10.75, 53.7], "date": "2026-08-17"}, // Ratzeburg, Einbruch
 {"coords": [10.8333, 49.25], "date": "2026-08-17"}, // Windsbach, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-08-17"}, // Bocholt, Diebstahl
+//{"coords": [], "date": "2026-08-17"} // Uentrop, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-08-17"}, // Gronau, Diebstahl
+//{"coords": [], "date": "2026-08-17"} // Hambühren, Diebstahl
+{"coords": [10.6866, 53.8655], "date": "2026-08-17"}, // Diebstähle Lübeck, Diebstähle
+{"coords": [7.2, 51.6167], "date": "2026-08-17"}, // Hinweise Recklinghausen, Raub
+{"coords": [8.6514, 49.8728], "date": "2026-08-17"}, // Zeugen Darmstadt, entwendet

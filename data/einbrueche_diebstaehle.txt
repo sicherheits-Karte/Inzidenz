@@ -20068,3 +20068,16 @@
 //{"coords": [], "date": "2026-08-17"} // Bergisch Gladbach, Einbruch
 {"coords": [6.5167, 51.4833], "date": "2026-08-17"}, // Lintfort, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-08-17"}, // Müllablagerung Aalen, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-08-17"}, // Fehlverhalten Mainz, Diebstahl
+//{"coords": [], "date": "2026-08-17"} // Zeugenaufruf Rodenberg, Einbruch
+{"coords": [8.5786, 49.5383], "date": "2026-08-17"}, // Shop Viernheim, Einbruch
+{"coords": [7.35, 52.15], "date": "2026-08-17"}, // ein Einfamilienhaus Steinfurt-Bu, Einbruch
+//{"coords": [], "date": "2026-08-17"} // Einfamilienhaus Altenberge, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-08-17"}, // Pkw Wesel, Diebstahl
+{"coords": [7.5667, 51.0167], "date": "2026-08-17"}, // Autos Wiehl, Diebstähle
+{"coords": [6.3, 51.4333], "date": "2026-08-17"}, // Bargeld Wachtendonk, Einbruch
+//{"coords": [], "date": "2026-08-17"} // Kessel, entwendet
+//{"coords": [], "date": "2026-08-17"} // Straelen, Einbruch
+//{"coords": [], "date": "2026-08-17"} // Dokument mehr, Einbruch
+{"coords": [7.9833, 51.95], "date": "2026-08-17"}, // Tankstelle Warendorf, Raub
+{"coords": [7.2197, 51.5428], "date": "2026-08-17"}, // Tatverdächtige Herne, Diebstahl

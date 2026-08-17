@@ -20130,3 +20130,9 @@
 {"coords": [6.3583, 50.9222], "date": "2026-08-17"}, // Jülich, gestohlen
 {"coords": [6.4844, 50.6922], "date": "2026-08-17"}, // Wohnung Nideggen, Einbruch
 {"coords": [9.5164, 53.925], "date": "2026-08-17"}, // Körperverletzung Itzehoe, Raub
+{"coords": [7.82, 47.99], "date": "2026-08-17"}, // Zeugen Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-08-17"}, // Zeugen Freiburg, Diebstähle
+{"coords": [8.8075, 53.075], "date": "2026-08-17"}, // Haft-- Bremen, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-08-17"}, // Coesfeld, gestohlen
+//{"coords": [], "date": "2026-08-17"} // Kein Ort gefunden, Einbrüche
+{"coords": [8.375, 49.3833], "date": "2026-08-17"}, // Schifferstadt, gestohlen

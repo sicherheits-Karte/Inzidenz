@@ -20149,3 +20149,12 @@
 {"coords": [10.25, 50.6833], "date": "2026-08-17"}, // Bäckerei Vogelsberg, Einbruch
 {"coords": [7.75, 51.3833], "date": "2026-08-17"}, // Fokus Hemer, stehlen
 {"coords": [8.5331, 52.021], "date": "2026-08-17"}, // Betrunkenem Bielefeld, Raub
+{"coords": [7.1, 51.5167], "date": "2026-08-17"}, // Gelsenkirchen, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-08-17"}, // Ludwigsburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-17"}, // Sexuelle Belästigung Aalen, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-08-17"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [11.5667, 50.8833], "date": "2026-08-17"}, // Toba, Einbruch
+//{"coords": [], "date": "2026-08-17"} // Rheingönheim, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-08-17"}, // Giessen, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-08-17"}, // Fahrzeug Wittlich, Diebstahl
+{"coords": [8.9167, 52.3], "date": "2026-08-17"}, // Autos Minden, klau

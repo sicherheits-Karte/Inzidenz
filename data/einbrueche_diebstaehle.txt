@@ -20060,3 +20060,6 @@
 {"coords": [8.6167, 49.6833], "date": "2026-08-16"}, // Bensheim, Raub
 {"coords": [7.2, 51.6167], "date": "2026-08-16"}, // Zigaretten Recklinghausen, Diebstahl
 //{"coords": [], "date": "2026-08-16"} // Supermarkt Rhens, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-08-17"}, // Gera, gestohlen
+{"coords": [12.4333, 50.985], "date": "2026-08-17"}, // Juweliergeschäft Altenburg, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-08-17"}, // Altenburg, Einbruch

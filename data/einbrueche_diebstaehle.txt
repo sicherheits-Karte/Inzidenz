@@ -20158,3 +20158,15 @@
 {"coords": [8.6833, 50.5833], "date": "2026-08-17"}, // Giessen, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-08-17"}, // Fahrzeug Wittlich, Diebstahl
 {"coords": [8.9167, 52.3], "date": "2026-08-17"}, // Autos Minden, klau
+{"coords": [10.75, 53.7], "date": "2026-08-17"}, // Ratzeburg, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-08-17"}, // Buntmetall Mühlhausen, gestohlen
+{"coords": [8.3833, 51.9], "date": "2026-08-17"}, // Borgholzhausener Straße Gütersloh, Einbruch
+//{"coords": [], "date": "2026-08-17"} // Kyffhäuserkreis, gestohlen
+//{"coords": [], "date": "2026-08-17"} // Zeugen Niederkrüchten, Diebstahl
+{"coords": [6.2833, 51.3167], "date": "2026-08-17"}, // Mehrfamilienhauses Nettetal, Einbruch
+//{"coords": [], "date": "2026-08-17"} // Kein Ort gefunden, stehlen
+{"coords": [7.6333, 51.6167], "date": "2026-08-17"}, // Bergkamen, entwendet
+{"coords": [8.24, 50.0822], "date": "2026-08-17"}, // Einbrüche Wiesbaden, Einbrüche
+{"coords": [9.0, 47.85], "date": "2026-08-17"}, // Stockach, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-08-17"}, // Augsburg, Einbruch
+{"coords": [8.8403, 47.7592], "date": "2026-08-17"}, // Singen, Diebstahl

@@ -20117,3 +20117,10 @@
 {"coords": [9.95, 52.15], "date": "2026-08-17"}, // Autodieben Hildesheim, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2026-08-17"}, // Delmenhorst, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-08-17"}, // Coesfeld, Einbrecher
+{"coords": [9.5, 51.3167], "date": "2026-08-17"}, // Kassel, Einbrüche
+{"coords": [9.1828, 48.7756], "date": "2026-08-17"}, // Stuttgart- Möhringen, Dieb
+{"coords": [6.7872, 50.6606], "date": "2026-08-17"}, // Euskirchen, entwendet
+{"coords": [6.7872, 50.6606], "date": "2026-08-17"}, // Mühlenstraße Euskirchen, Einbruch
+{"coords": [6.85, 52.6167], "date": "2026-08-17"}, // Arztpraxis Emlichheim, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-08-17"}, // Geschäftseinbruch Wesel, Einbruch
+//{"coords": [], "date": "2026-08-17"} // Kanalweg, Diebstahl

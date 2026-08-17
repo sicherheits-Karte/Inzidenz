@@ -20097,3 +20097,14 @@
 {"coords": [10.6866, 53.8655], "date": "2026-08-17"}, // Diebstähle Lübeck, Diebstähle
 {"coords": [7.2, 51.6167], "date": "2026-08-17"}, // Hinweise Recklinghausen, Raub
 {"coords": [8.6514, 49.8728], "date": "2026-08-17"}, // Zeugen Darmstadt, entwendet
+{"coords": [9.9916, 48.3984], "date": "2026-08-17"}, // Ulm, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-08-17"}, // Bremen, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-08-17"}, // Lippe, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-08-17"}, // Emden, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-08-17"}, // Verkehrsunfälle Reutlingen, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-08-17"}, // Vechta, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2026-08-17"}, // Zeugenhinweise Bonn, entwendet
+{"coords": [8.2869, 52.7303], "date": "2026-08-17"}, // Vechta, aufbruch
+{"coords": [6.75, 51.5833], "date": "2026-08-17"}, // Tipps Dinslaken, entwendet
+//{"coords": [], "date": "2026-08-17"} // Peenemünde Peenemünde, Einbruch
+//{"coords": [], "date": "2026-08-17"} // Zevener Stadtpark, Raub

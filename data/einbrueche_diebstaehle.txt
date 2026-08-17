@@ -20108,3 +20108,12 @@
 {"coords": [6.75, 51.5833], "date": "2026-08-17"}, // Tipps Dinslaken, entwendet
 //{"coords": [], "date": "2026-08-17"} // Peenemünde Peenemünde, Einbruch
 //{"coords": [], "date": "2026-08-17"} // Zevener Stadtpark, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-08-17"}, // Ulm, eingebrochen
+{"coords": [9.6333, 51.65], "date": "2026-08-17"}, // Weidezaungerät Uslar, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2026-08-17"}, // Zeugen Homberg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-08-17"}, // Ludwigsburg, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-08-17"}, // Ludwigshafen, Einbruch
+{"coords": [6.4333, 51.2], "date": "2026-08-17"}, // Jährige Mönchengladbach, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-08-17"}, // Autodieben Hildesheim, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-08-17"}, // Delmenhorst, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-08-17"}, // Coesfeld, Einbrecher

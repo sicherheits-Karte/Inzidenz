@@ -20064,3 +20064,7 @@
 {"coords": [12.4333, 50.985], "date": "2026-08-17"}, // Juweliergeschäft Altenburg, Einbruch
 {"coords": [12.4333, 50.985], "date": "2026-08-17"}, // Altenburg, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-08-17"}, // Fenster Erfurt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-17"}, // Diebstahl Aalen, Einbrüche
+//{"coords": [], "date": "2026-08-17"} // Bergisch Gladbach, Einbruch
+{"coords": [6.5167, 51.4833], "date": "2026-08-17"}, // Lintfort, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-08-17"}, // Müllablagerung Aalen, Diebstahl

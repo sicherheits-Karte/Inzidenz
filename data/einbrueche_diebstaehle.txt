@@ -20178,3 +20178,4 @@
 {"coords": [8.4414, 50.0919], "date": "2026-08-17"}, // Kreisel Hofheim, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-08-17"}, // Geschäft Reutlingen, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-08-17"}, // Hildesheim, Raub
+{"coords": [6.6178, 51.6589], "date": "2026-08-17"}, // Rennen Wesel, Raub

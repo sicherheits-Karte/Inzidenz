@@ -20124,3 +20124,4 @@
 {"coords": [6.85, 52.6167], "date": "2026-08-17"}, // Arztpraxis Emlichheim, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2026-08-17"}, // Geschäftseinbruch Wesel, Einbruch
 //{"coords": [], "date": "2026-08-17"} // Kanalweg, Diebstahl
+{"coords": [8.2146, 53.1434], "date": "2026-08-17"}, // Zeugen Oldenburg, Einbrüche

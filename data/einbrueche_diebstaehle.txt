@@ -20235,3 +20235,14 @@
 {"coords": [8.8667, 51.9333], "date": "2026-08-18"}, // Lippe, Einbrecher
 {"coords": [7.8153, 48.5708], "date": "2026-08-18"}, // Kehl, Dieb
 {"coords": [8.3667, 50.0], "date": "2026-08-18"}, // Bischofsheim, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-08-18"}, // Augsburg, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-08-18"}, // Zeugenaufruf Cuxhaven, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-08-18"}, // Darmstadt, gestohlen
+{"coords": [12.1997, 50.6544], "date": "2026-08-18"}, // Greiz, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-08-18"}, // Pedelecs Augsburg, Diebstahl
+{"coords": [6.7735, 51.2277], "date": "2026-08-18"}, // Düsseldorf, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-08-18"}, // Raub Augsburg, entwendet
+{"coords": [8.8075, 53.075], "date": "2026-08-18"}, // Bremen, Einbruch
+//{"coords": [], "date": "2026-08-18"} // Geldbörsendiebstählen Kreis Plön, Diebstähle
+{"coords": [9.2167, 48.4833], "date": "2026-08-18"}, // Reutlingen, Dieb
+{"coords": [6.6833, 51.2], "date": "2026-08-18"}, // Tatverdächtiger Neuss, Dieb

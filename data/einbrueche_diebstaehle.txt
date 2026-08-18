@@ -20279,3 +20279,18 @@
 //{"coords": [], "date": "2026-08-18"} // Schmuck Moorrege, Einbrecher
 //{"coords": [], "date": "2026-08-18"} // Zigaretten Bad Herrenalb, gestohlen
 {"coords": [8.7667, 50.1], "date": "2026-08-18"}, // Kreis Offenbach, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2026-08-18"}, // Mönchengladbach, Diebstahl
+{"coords": [9.3667, 51.6667], "date": "2026-08-18"}, // Zeugen Beverungen, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2026-08-18"}, // Fotofahndung Essen, Raub
+//{"coords": [], "date": "2026-08-18"} // Bad Münstereifel, Diebstahl
+{"coords": [10.6866, 53.8655], "date": "2026-08-18"}, // Lübeck, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-08-18"}, // Zeugen Freiburg, Einbruch
+{"coords": [6.6961, 50.8719], "date": "2026-08-18"}, // Kerpen, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-08-18"}, // Kassel, Dieb
+{"coords": [9.6775, 50.5528], "date": "2026-08-18"}, // Fulda, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-08-18"}, // Freiburg, Dieb
+{"coords": [7.82, 47.99], "date": "2026-08-18"}, // Freiburg, entwendet
+{"coords": [13.25, 53.6833], "date": "2026-08-18"}, // Altentreptow Altentreptow, Raub
+{"coords": [7.0116, 51.4556], "date": "2026-08-18"}, // Zeugen Essen, Raub
+{"coords": [7.82, 47.99], "date": "2026-08-18"}, // Freiburg, Diebstahl
+{"coords": [13.2611, 53.5569], "date": "2026-08-18"}, // Neubrandenburg, Diebstahl

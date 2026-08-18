@@ -20226,3 +20226,12 @@
 {"coords": [9.55, 49.3167], "date": "2026-08-18"}, // Einbruch Hohenlohekreis, Einbruch
 {"coords": [8.6833, 52.15], "date": "2026-08-18"}, // Zeugen Herford, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-08-18"}, // Mensa Ludwigsburg, stehlen
+{"coords": [13.1667, 50.65], "date": "2026-08-18"}, // Baustelle Bad Marienberg, Diebstahl
+{"coords": [10.5464, 52.4886], "date": "2026-08-18"}, // Unaufmerksamkeit Gifhorn, Diebstahl
+//{"coords": [], "date": "2026-08-18"} // Einfamilienhaus Porta Westfalica, Einbruch
+{"coords": [8.5833, 53.55], "date": "2026-08-18"}, // Mitte, Dieb
+{"coords": [8.2711, 50.0], "date": "2026-08-18"}, // Mainzer Altstadt Mainz, Diebstahl
+{"coords": [9.1828, 48.7756], "date": "2026-08-18"}, // Stuttgart- Bad Cannstatt, eingebrochen
+{"coords": [8.8667, 51.9333], "date": "2026-08-18"}, // Lippe, Einbrecher
+{"coords": [7.8153, 48.5708], "date": "2026-08-18"}, // Kehl, Dieb
+{"coords": [8.3667, 50.0], "date": "2026-08-18"}, // Bischofsheim, Diebstahl

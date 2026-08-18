@@ -20246,3 +20246,10 @@
 //{"coords": [], "date": "2026-08-18"} // Geldbörsendiebstählen Kreis Plön, Diebstähle
 {"coords": [9.2167, 48.4833], "date": "2026-08-18"}, // Reutlingen, Dieb
 {"coords": [6.6833, 51.2], "date": "2026-08-18"}, // Tatverdächtiger Neuss, Dieb
+{"coords": [10.1228, 54.3233], "date": "2026-08-18"}, // Zeugen Kiel, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-08-18"}, // Haft Giessen, Einbrüche
+{"coords": [11.1167, 51.1667], "date": "2026-08-18"}, // Sömmerda, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-08-18"}, // Erfurt, Dieb
+//{"coords": [], "date": "2026-08-18"} // Landkreis Verden, Einbruch
+{"coords": [6.3214, 50.8447], "date": "2026-08-18"}, // Zeugen Langerwehe, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2026-08-18"}, // Balkontür Bielefeld, Einbrecher

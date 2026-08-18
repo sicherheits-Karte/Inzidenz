@@ -20266,3 +20266,16 @@
 //{"coords": [], "date": "2026-08-18"} // Wassenberg, entwendet
 //{"coords": [], "date": "2026-08-18"} // Horst, gestohlen
 {"coords": [8.5331, 52.021], "date": "2026-08-18"}, // Bielefeld, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-08-18"}, // Bäckerei Freiburg, Einbruch
+//{"coords": [], "date": "2026-08-18"} // Sögel, Diebstahl
+//{"coords": [], "date": "2026-08-18"} // Höhe, Diebstähle
+{"coords": [7.3194, 52.5236], "date": "2026-08-18"}, // Snackautomaten Lingen, Diebstahl
+//{"coords": [], "date": "2026-08-18"} // Beuren, Dieb
+{"coords": [8.4043, 49.014], "date": "2026-08-18"}, // Präventionshinweise Karlsruhe, Dieb
+{"coords": [9.0817, 52.1906], "date": "2026-08-18"}, // Rinteln, Einbruch
+//{"coords": [], "date": "2026-08-18"} // Grabschmuck auf dem ortsansässigen Friedhof bedient. Insgesamt machten sich die Täter an mindestens, Diebstahl
+//{"coords": [], "date": "2026-08-18"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.1, 51.5167], "date": "2026-08-18"}, // Jährigen Gelsenkirchen, Raub
+//{"coords": [], "date": "2026-08-18"} // Schmuck Moorrege, Einbrecher
+//{"coords": [], "date": "2026-08-18"} // Zigaretten Bad Herrenalb, gestohlen
+{"coords": [8.7667, 50.1], "date": "2026-08-18"}, // Kreis Offenbach, Diebstahl

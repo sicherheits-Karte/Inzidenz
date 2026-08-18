@@ -20298,3 +20298,16 @@
 {"coords": [9.9333, 52.9667], "date": "2026-08-18"}, // Heidekreis, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-08-18"}, // Zeugen Giessen, Diebstahl
 {"coords": [10.25, 50.6833], "date": "2026-08-18"}, // Vogelsberg, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-08-18"}, // Tabakwarengeschäft Gütersloh, Einbruch
+//{"coords": [], "date": "2026-08-18"} // Schöppingen, gestohlen
+{"coords": [8.6372, 49.6419], "date": "2026-08-18"}, // Zopf Heppenheim, entwendet
+{"coords": [6.6153, 51.8367], "date": "2026-08-18"}, // Bocholt, gestohlen
+{"coords": [6.9603, 50.9375], "date": "2026-08-18"}, // Diebstahl Köln, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-08-18"}, // Osnabrück, Raub
+{"coords": [8.24, 50.0822], "date": "2026-08-18"}, // Einbrüche Wiesbaden, Einbrüche
+{"coords": [9.5, 51.3167], "date": "2026-08-18"}, // Kassel, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-08-18"}, // Lüneburg, Diebstahl
+{"coords": [6.9486, 49.6561], "date": "2026-08-18"}, // Radmuttern Hermeskeil, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-08-18"}, // Eis Limburg, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2026-08-18"}, // Haus Bergheim, Einbruch
+{"coords": [7.4836, 53.4711], "date": "2026-08-18"}, // Unfallflucht Landkreis Aurich, gestohlen

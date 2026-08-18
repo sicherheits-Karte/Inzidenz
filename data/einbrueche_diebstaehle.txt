@@ -20311,3 +20311,8 @@
 {"coords": [8.0667, 50.3833], "date": "2026-08-18"}, // Eis Limburg, Einbruch
 {"coords": [12.0333, 49.8667], "date": "2026-08-18"}, // Haus Bergheim, Einbruch
 {"coords": [7.4836, 53.4711], "date": "2026-08-18"}, // Unfallflucht Landkreis Aurich, gestohlen
+//{"coords": [], "date": "2026-08-18"} // Breyell, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-08-18"}, // Ableser Freiburg, Diebstähle
+{"coords": [9.9937, 53.5511], "date": "2026-08-18"}, // Heimfeld Hamburg, aufbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-18"}, // Unfälle Aalen, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-08-18"}, // Giessen, gestohlen

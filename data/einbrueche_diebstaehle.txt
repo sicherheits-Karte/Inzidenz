@@ -20181,3 +20181,4 @@
 {"coords": [6.6178, 51.6589], "date": "2026-08-17"}, // Rennen Wesel, Raub
 {"coords": [8.8431, 49.8978], "date": "2026-08-17"}, // Dieburg, Dieb
 {"coords": [10.6944, 50.6111], "date": "2026-08-18"}, // Suhl, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-08-18"}, // Altenburg, Raub

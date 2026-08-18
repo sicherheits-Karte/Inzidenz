@@ -20294,3 +20294,7 @@
 {"coords": [7.0116, 51.4556], "date": "2026-08-18"}, // Zeugen Essen, Raub
 {"coords": [7.82, 47.99], "date": "2026-08-18"}, // Freiburg, Diebstahl
 {"coords": [13.2611, 53.5569], "date": "2026-08-18"}, // Neubrandenburg, Diebstahl
+{"coords": [9.2167, 48.0833], "date": "2026-08-18"}, // Landkreis Sigmaringen Landkreis Sigmaringen, gestohlen
+{"coords": [9.9333, 52.9667], "date": "2026-08-18"}, // Heidekreis, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-08-18"}, // Zeugen Giessen, Diebstahl
+{"coords": [10.25, 50.6833], "date": "2026-08-18"}, // Vogelsberg, Diebstahl

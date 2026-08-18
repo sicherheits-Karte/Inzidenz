@@ -20220,3 +20220,9 @@
 //{"coords": [], "date": "2026-08-18"} // Beulwitz, Einbruch
 {"coords": [7.7, 51.375], "date": "2026-08-18"}, // Iserlohn, Diebstähle
 {"coords": [11.0767, 49.4521], "date": "2026-08-18"}, // Nürnberg, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-08-18"}, // Zeugen Osnabrück, Einbruch
+//{"coords": [], "date": "2026-08-18"} // Rohbau Winden, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-08-18"}, // Bremen, Diebstahl
+{"coords": [9.55, 49.3167], "date": "2026-08-18"}, // Einbruch Hohenlohekreis, Einbruch
+{"coords": [8.6833, 52.15], "date": "2026-08-18"}, // Zeugen Herford, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-08-18"}, // Mensa Ludwigsburg, stehlen

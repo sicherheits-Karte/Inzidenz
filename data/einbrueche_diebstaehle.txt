@@ -20185,3 +20185,4 @@
 //{"coords": [], "date": "2026-08-18"} // Uentrop, Einbruch
 {"coords": [8.3667, 51.45], "date": "2026-08-18"}, // Beute Warstein, eingebrochen
 {"coords": [9.8, 53.6592], "date": "2026-08-18"}, // Kreis Pinneberg, Dieb
+{"coords": [8.35, 51.3167], "date": "2026-08-18"}, // Hochsauerlandkreis, Einbruch

@@ -20262,3 +20262,7 @@
 {"coords": [10.2167, 50.7], "date": "2026-08-18"}, // Zeugen Roßdorf, entwendet
 {"coords": [7.82, 47.99], "date": "2026-08-18"}, // Zeugen Freiburg, gestohlen
 {"coords": [7.82, 47.99], "date": "2026-08-18"}, // Zeugen Freiburg, Diebstahl
+{"coords": [11.1167, 51.1667], "date": "2026-08-18"}, // Unterhaltungsautomaten Landkreis Sömmerda, aufbruch
+//{"coords": [], "date": "2026-08-18"} // Wassenberg, entwendet
+//{"coords": [], "date": "2026-08-18"} // Horst, gestohlen
+{"coords": [8.5331, 52.021], "date": "2026-08-18"}, // Bielefeld, Einbrecher

@@ -20210,3 +20210,13 @@
 {"coords": [6.0167, 51.7917], "date": "2026-08-18"}, // Discounter Kranenburg, entwendet
 //{"coords": [], "date": "2026-08-18"} // Klausheide, Einbruch
 //{"coords": [], "date": "2026-08-18"} // Melsungen, Diebstahl
+//{"coords": [], "date": "2026-08-18"} // Zeugen Nienstädt, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-08-18"}, // Vechta, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-08-18"}, // Vechta, Einbruch
+{"coords": [8.7833, 49.6833], "date": "2026-08-18"}, // Visier Krimineller Lindenfels, Einbruch
+{"coords": [7.0667, 52.1], "date": "2026-08-18"}, // Baustelle Heek, Einbruch
+{"coords": [9.2844, 51.045], "date": "2026-08-18"}, // Borken, Einbruch
+//{"coords": [], "date": "2026-08-18"} // Schalksmühle, gestohlen
+//{"coords": [], "date": "2026-08-18"} // Beulwitz, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-08-18"}, // Iserlohn, Diebstähle
+{"coords": [11.0767, 49.4521], "date": "2026-08-18"}, // Nürnberg, Einbruch

@@ -20186,3 +20186,15 @@
 {"coords": [8.3667, 51.45], "date": "2026-08-18"}, // Beute Warstein, eingebrochen
 {"coords": [9.8, 53.6592], "date": "2026-08-18"}, // Kreis Pinneberg, Dieb
 {"coords": [8.35, 51.3167], "date": "2026-08-18"}, // Hochsauerlandkreis, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-18"}, // Sonstiges Aalen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-08-18"}, // Kupferkabeldieb Recklinghausen, Dieb
+//{"coords": [], "date": "2026-08-18"} // Weimarer Land, eingebrochen
+{"coords": [11.5862, 50.9271], "date": "2026-08-18"}, // Jenaer Wertstoffhof Jena, Einbruch
+{"coords": [8.0142, 53.4969], "date": "2026-08-18"}, // Zeugen Sande, Diebstähle
+{"coords": [9.9916, 48.3984], "date": "2026-08-18"}, // Ulm, Einbrecher
+{"coords": [8.0142, 53.4969], "date": "2026-08-18"}, // Sande Sande, Diebstahl
+//{"coords": [], "date": "2026-08-18"} // Pkw Bad Gandersheim, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-08-18"}, // Kennzeichendiebstahl Wittlich, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-08-18"}, // Grableuchte Wittlich, Diebstahl
+//{"coords": [], "date": "2026-08-18"} // Urkundenfälschung Platten, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-18"}, // Sachbeschädigung Aalen, Einbruch

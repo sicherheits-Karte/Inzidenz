@@ -20317,3 +20317,5 @@
 {"coords": [10.0936, 48.8372], "date": "2026-08-18"}, // Unfälle Aalen, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-08-18"}, // Giessen, gestohlen
 {"coords": [7.3608, 49.2492], "date": "2026-08-18"}, // Zweibrücken, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-08-18"}, // Bike Nordhausen, Einbruch
+{"coords": [10.135, 51.3783], "date": "2026-08-18"}, // Heilbad Heiligenstadt, Einbruch

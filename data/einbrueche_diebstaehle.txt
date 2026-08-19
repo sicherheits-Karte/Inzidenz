@@ -20438,3 +20438,4 @@
 {"coords": [7.9733, 51.1681], "date": "2026-08-19"}, // Finnentrop, Raub
 {"coords": [8.6944, 53.8619], "date": "2026-08-19"}, // Einsatz Cuxhaven, Raub
 {"coords": [6.75, 49.3167], "date": "2026-08-19"}, // Saarlouis Saarlouis, klau
+//{"coords": [], "date": "2026-08-19"} // Baggerlöffels Lutzerath, Diebstahl

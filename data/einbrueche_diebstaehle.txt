@@ -20343,3 +20343,11 @@
 {"coords": [6.5167, 51.6], "date": "2026-08-19"}, // Alpen, Einbruch
 {"coords": [8.2711, 50.0], "date": "2026-08-19"}, // Gartenlaube Mainz, Einbruch
 //{"coords": [], "date": "2026-08-19"} // Zornheim Zornheim, Diebstahl
+{"coords": [10.9361, 52.4083], "date": "2026-08-19"}, // Velpke, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-08-19"}, // Wohnhaus Karlsruhe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-08-19"}, // Lippe, Einbrecher
+{"coords": [6.4333, 51.2], "date": "2026-08-19"}, // Giesenkirchener Straße Mönchengladbach, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2026-08-19"}, // Haus Gütersloh, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-08-19"}, // Geld Recklinghausen, Raub
+{"coords": [7.1667, 50.8167], "date": "2026-08-19"}, // Zeugenhinweise Troisdorf, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-08-19"}, // Zeugen Wolfsburg, Einbruch

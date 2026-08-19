@@ -20396,3 +20396,10 @@
 {"coords": [10.4508, 50.7211], "date": "2026-08-19"}, // Schmalkalden, entwendet
 {"coords": [8.0, 53.5333], "date": "2026-08-19"}, // Schortens, Diebstahl
 {"coords": [8.1075, 53.5219], "date": "2026-08-19"}, // Bekleidungsgeschäft Wilhelmshaven, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-08-19"}, // Coesfeld, entwendet
+{"coords": [10.25, 50.6833], "date": "2026-08-19"}, // Gewerbegebäude Vogelsberg, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-08-19"}, // Rotenburg, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-08-19"}, // Fulda, Diebstähle
+{"coords": [7.82, 47.99], "date": "2026-08-19"}, // Wohnhaus Freiburg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-08-19"}, // Giessen, Einbrecher
+{"coords": [10.4, 53.25], "date": "2026-08-19"}, // Lüneburg, Einbruch

@@ -20390,3 +20390,9 @@
 //{"coords": [], "date": "2026-08-19"} // Bad Dürrheim, Einbruch
 {"coords": [9.1753, 47.6633], "date": "2026-08-19"}, // Konstanz, Diebstahl
 {"coords": [7.7689, 49.4447], "date": "2026-08-19"}, // Kleidungsgeschäft Kaiserslautern, Diebstahl
+//{"coords": [], "date": "2026-08-19"} // Gangelt, entwendet
+//{"coords": [], "date": "2026-08-19"} // Oberbruch, Raub
+{"coords": [10.3667, 50.7333], "date": "2026-08-19"}, // Fambach, geklaut
+{"coords": [10.4508, 50.7211], "date": "2026-08-19"}, // Schmalkalden, entwendet
+{"coords": [8.0, 53.5333], "date": "2026-08-19"}, // Schortens, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-08-19"}, // Bekleidungsgeschäft Wilhelmshaven, Diebstahl

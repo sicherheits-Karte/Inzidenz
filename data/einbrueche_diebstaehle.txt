@@ -20322,3 +20322,5 @@
 {"coords": [10.5333, 51.4167], "date": "2026-08-18"}, // Fußbodenheizung Sollstedt, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-08-18"}, // Garagenaufbruch Hildesheim, Einbruch
 {"coords": [8.35, 51.3167], "date": "2026-08-19"}, // Hochsauerlandkreis, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-08-19"}, // Diebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2026-08-19"} // Metallfirma Wickede, Einbruch

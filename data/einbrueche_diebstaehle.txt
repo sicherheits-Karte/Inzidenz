@@ -20436,3 +20436,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-08-19"}, // Verkehrsunfall Reutlingen, Einbruch
 //{"coords": [], "date": "2026-08-19"} // Bad Langensalza, Einbrecher
 {"coords": [7.9733, 51.1681], "date": "2026-08-19"}, // Finnentrop, Raub
+{"coords": [8.6944, 53.8619], "date": "2026-08-19"}, // Einsatz Cuxhaven, Raub

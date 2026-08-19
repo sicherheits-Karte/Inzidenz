@@ -20424,3 +20424,11 @@
 {"coords": [8.4414, 50.0919], "date": "2026-08-19"}, // Kids Hofheim, Dieb
 {"coords": [8.24, 50.0822], "date": "2026-08-19"}, // Wiesbaden, Dieb
 {"coords": [7.5167, 51.6167], "date": "2026-08-19"}, // Lünen Dortmund, Diebstahl
+{"coords": [9.1753, 47.6633], "date": "2026-08-19"}, // Konstanz, Raub
+{"coords": [7.9447, 48.4731], "date": "2026-08-19"}, // Offenburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-08-19"}, // Freiburg, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-08-19"}, // Kaiserslautern, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-08-19"}, // Schmuck Kaiserslautern, eingebrochen
+{"coords": [10.1228, 54.3233], "date": "2026-08-19"}, // Bahn Kiel, stahl
+{"coords": [7.7689, 49.4447], "date": "2026-08-19"}, // Friseursalon Kaiserslautern, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-08-19"}, // Hannover, Raub

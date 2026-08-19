@@ -20420,3 +20420,7 @@
 {"coords": [8.0472, 52.2799], "date": "2026-08-19"}, // Osnabrück, Einbrecher
 {"coords": [8.0667, 50.3833], "date": "2026-08-19"}, // Limburg, Einbruch
 {"coords": [6.7623, 51.4344], "date": "2026-08-19"}, // Seniors Duisburg, Dieb
+{"coords": [7.7, 51.375], "date": "2026-08-19"}, // Fotos Iserlohn, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-08-19"}, // Kids Hofheim, Dieb
+{"coords": [8.24, 50.0822], "date": "2026-08-19"}, // Wiesbaden, Dieb
+{"coords": [7.5167, 51.6167], "date": "2026-08-19"}, // Lünen Dortmund, Diebstahl

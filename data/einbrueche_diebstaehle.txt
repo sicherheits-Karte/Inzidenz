@@ -20378,3 +20378,15 @@
 {"coords": [10.0, 51.7064], "date": "2026-08-19"}, // Northeim, Einbruch
 {"coords": [8.65, 49.3], "date": "2026-08-19"}, // Walldorf, gestohlen
 {"coords": [8.4833, 49.75], "date": "2026-08-19"}, // Gernsheim, Einbrecher
+{"coords": [6.7735, 51.2277], "date": "2026-08-19"}, // Düsseldorf, gestohlen
+{"coords": [8.8075, 53.075], "date": "2026-08-19"}, // Einbrecherduo-- Bremen, Einbrecher
+{"coords": [10.7097, 52.2042], "date": "2026-08-19"}, // Erkerode, Einbruch
+{"coords": [8.6231, 52.3061], "date": "2026-08-19"}, // Lübbecke, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-08-19"}, // Wolfsburg, Raub
+{"coords": [7.3194, 52.5236], "date": "2026-08-19"}, // Drogeriemarkt Lingen, Diebstahl
+{"coords": [6.3917, 51.2556], "date": "2026-08-19"}, // Zeugen Viersen, Einbruch
+//{"coords": [], "date": "2026-08-19"} // Waldniel, Diebstahl
+{"coords": [8.5833, 47.8333], "date": "2026-08-19"}, // Blumberg, aufbruch
+//{"coords": [], "date": "2026-08-19"} // Bad Dürrheim, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-08-19"}, // Konstanz, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2026-08-19"}, // Kleidungsgeschäft Kaiserslautern, Diebstahl

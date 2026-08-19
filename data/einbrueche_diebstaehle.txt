@@ -20434,3 +20434,4 @@
 {"coords": [9.732, 52.3759], "date": "2026-08-19"}, // Hannover, Raub
 //{"coords": [], "date": "2026-08-19"} // Höhe, Einbrecher
 {"coords": [9.2167, 48.4833], "date": "2026-08-19"}, // Verkehrsunfall Reutlingen, Einbruch
+//{"coords": [], "date": "2026-08-19"} // Bad Langensalza, Einbrecher

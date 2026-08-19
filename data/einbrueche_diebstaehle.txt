@@ -20351,3 +20351,14 @@
 {"coords": [7.2, 51.6167], "date": "2026-08-19"}, // Geld Recklinghausen, Raub
 {"coords": [7.1667, 50.8167], "date": "2026-08-19"}, // Zeugenhinweise Troisdorf, Einbruch
 {"coords": [10.7865, 52.4226], "date": "2026-08-19"}, // Zeugen Wolfsburg, Einbruch
+{"coords": [9.984, 54.0714], "date": "2026-08-19"}, // Neumünster Gadeland Neumünster, Diebstähle
+{"coords": [8.6833, 50.5833], "date": "2026-08-19"}, // Haft Giessen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-08-19"}, // Autos Coesfeld, Dieb
+//{"coords": [], "date": "2026-08-19"} // Taschendiebstahl Tellingstedt, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-08-19"}, // Darmstadt, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-08-19"}, // Bielefeld, Dieb
+{"coords": [9.0511, 54.4761], "date": "2026-08-19"}, // Zeugen Husum, Raub
+{"coords": [6.5617, 51.3317], "date": "2026-08-19"}, // Schmuck Krefeld, entwendet
+//{"coords": [], "date": "2026-08-19"} // Bad Oeynhausen, Dieb
+{"coords": [6.4844, 50.6922], "date": "2026-08-19"}, // Nideggen, Einbruch
+//{"coords": [], "date": "2026-08-19"} // Kein Ort gefunden, Einbruch

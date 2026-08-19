@@ -20374,3 +20374,7 @@
 {"coords": [7.7156, 52.2778], "date": "2026-08-19"}, // Ibbenbüren, gestohlen
 {"coords": [9.1919, 48.8975], "date": "2026-08-19"}, // Bahnhofstraße Ludwigsburg, Einbruch
 {"coords": [10.6944, 50.6111], "date": "2026-08-19"}, // Suhl, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-08-19"}, // Freiburg, entwendet
+{"coords": [10.0, 51.7064], "date": "2026-08-19"}, // Northeim, Einbruch
+{"coords": [8.65, 49.3], "date": "2026-08-19"}, // Walldorf, gestohlen
+{"coords": [8.4833, 49.75], "date": "2026-08-19"}, // Gernsheim, Einbrecher

@@ -20324,3 +20324,11 @@
 {"coords": [8.35, 51.3167], "date": "2026-08-19"}, // Hochsauerlandkreis, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-08-19"}, // Diebstahl Wittlich, Diebstahl
 //{"coords": [], "date": "2026-08-19"} // Metallfirma Wickede, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-08-19"}, // Untersuchungshaft Ludwigsburg, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-08-19"}, // Gera, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-08-19"}, // Altenburg, entwendet
+{"coords": [7.6333, 51.2167], "date": "2026-08-19"}, // Einbruchversuch Lüdenscheid, Einbruch
+{"coords": [7.8, 51.4333], "date": "2026-08-19"}, // Passwörtern Menden, gestohlen
+{"coords": [7.4333, 51.35], "date": "2026-08-19"}, // Haspe, Diebstahl
+{"coords": [6.2917, 51.7392], "date": "2026-08-19"}, // Spirituosen Kalkar, entwendet
+//{"coords": [], "date": "2026-08-19"} // dem Kreisgebiet, Einbrüche

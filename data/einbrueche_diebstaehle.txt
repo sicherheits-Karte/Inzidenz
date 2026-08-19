@@ -20412,3 +20412,11 @@
 {"coords": [6.9603, 50.9375], "date": "2026-08-19"}, // Köln, Raub
 {"coords": [9.9333, 52.9667], "date": "2026-08-19"}, // Heidekreis, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-08-19"}, // Unfall Bad Schwalbach, Diebstähle
+{"coords": [7.82, 47.99], "date": "2026-08-19"}, // Einfamilienhaus Freiburg, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-08-19"}, // Einbruch Moers, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2026-08-19"}, // Wittmund, Einbrecher
+{"coords": [8.4353, 49.4811], "date": "2026-08-19"}, // Einfamilienhaus Ludwigshafen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-08-19"}, // Freiburg, Raub
+{"coords": [8.0472, 52.2799], "date": "2026-08-19"}, // Osnabrück, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2026-08-19"}, // Limburg, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-08-19"}, // Seniors Duisburg, Dieb

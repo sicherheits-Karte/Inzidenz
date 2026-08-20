@@ -20547,3 +20547,4 @@
 {"coords": [10.7753, 49.7544], "date": "2026-08-20"}, // Mühlhausen, entwendet
 {"coords": [8.2869, 52.7303], "date": "2026-08-20"}, // Vechta, Diebstähle
 {"coords": [7.1675, 51.9436], "date": "2026-08-20"}, // Einbrechern Coesfeld, Einbrecher
+{"coords": [8.9519, 49.9667], "date": "2026-08-20"}, // Babenhausen, gestohlen

@@ -20456,3 +20456,12 @@
 {"coords": [7.2197, 51.5428], "date": "2026-08-20"}, // Widerstand Herne, Diebstahl
 {"coords": [10.8, 53.4833], "date": "2026-08-20"}, // Einfamilienhaus Greven, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2026-08-20"}, // Bonn, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-08-20"}, // Mainz, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-08-20"}, // Zeugenhinweise Recklinghausen, Raub
+{"coords": [8.5861, 52.1983], "date": "2026-08-20"}, // Geldbörse Bünde, Diebstahl
+{"coords": [8.6333, 52.2], "date": "2026-08-20"}, // Bekleidung Kirchlengern, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-08-20"}, // Ulm, Raub
+//{"coords": [], "date": "2026-08-20"} // Schmuck Radevormwald, Einbrecher
+{"coords": [7.5408, 50.9056], "date": "2026-08-20"}, // Eingangstür Nümbrecht, Einbrecher
+{"coords": [9.2108, 49.1425], "date": "2026-08-20"}, // Diebstahl Heilbronn, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-20"}, // Sonstiges Aalen, Diebstahl

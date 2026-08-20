@@ -20521,3 +20521,11 @@
 //{"coords": [], "date": "2026-08-20"} // Grebenstein, Diebstahl
 {"coords": [7.9167, 51.5833], "date": "2026-08-20"}, // Hövel, Diebstahl
 //{"coords": [], "date": "2026-08-20"} // Grabschmuck Willmenrod, Diebstahl
+{"coords": [6.8139, 50.9147], "date": "2026-08-20"}, // Restaurant Frechen, Einbruch
+{"coords": [12.7628, 53.7392], "date": "2026-08-20"}, // Malchin, gestohlen
+{"coords": [8.2146, 53.1434], "date": "2026-08-20"}, // Zeugen Oldenburg, Einbruch
+{"coords": [9.2167, 48.0833], "date": "2026-08-20"}, // Landkreis Sigmaringen Landkreis Sigmaringen, entwendet
+{"coords": [9.35, 53.2417], "date": "2026-08-20"}, // Polizeikontrolle Elsdorf, gestohlen
+{"coords": [7.7806, 53.5769], "date": "2026-08-20"}, // Pflichtversicherung Wittmund, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-08-20"}, // Innenstadt Frankfurt, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-08-20"}, // Sachschaden Frankfurt, Dieb

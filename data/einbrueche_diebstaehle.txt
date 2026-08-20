@@ -20465,3 +20465,13 @@
 {"coords": [7.5408, 50.9056], "date": "2026-08-20"}, // Eingangstür Nümbrecht, Einbrecher
 {"coords": [9.2108, 49.1425], "date": "2026-08-20"}, // Diebstahl Heilbronn, Diebstahl
 {"coords": [10.0936, 48.8372], "date": "2026-08-20"}, // Sonstiges Aalen, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-08-20"}, // Ulm, gestohlen
+{"coords": [8.5847, 53.5469], "date": "2026-08-20"}, // Hehlerei Bremerhaven, Diebstahl
+//{"coords": [], "date": "2026-08-20"} // Kreis, Diebstähle
+//{"coords": [], "date": "2026-08-20"} // Bullenhausen, Diebstahl
+{"coords": [10.4667, 50.5167], "date": "2026-08-20"}, // Visier Einhausen, Dieb
+{"coords": [9.0333, 54.3167], "date": "2026-08-20"}, // Kilogramm Zinkschrott Krempel, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2026-08-20"}, // Greiz, Diebstahl
+{"coords": [9.6167, 54.0167], "date": "2026-08-20"}, // Baustelle Hohenlockstedt, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-08-20"}, // Darmstadt, gestohlen
+{"coords": [8.3708, 52.6078], "date": "2026-08-20"}, // Moorkirche Diepholz, Diebstahl

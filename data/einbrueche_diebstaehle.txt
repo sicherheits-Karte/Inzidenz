@@ -20492,3 +20492,12 @@
 //{"coords": [], "date": "2026-08-20"} // Zeugen Großglattbach, Diebstahl
 //{"coords": [], "date": "2026-08-20"} // der Jakobstraße zu einem Diebstahlsdelikt. Mindestens zwei unbekannte Personen haben dort um, Diebstahl
 {"coords": [11.9833, 49.4833], "date": "2026-08-20"}, // Freudenberg, Einbrüche
+{"coords": [8.6306, 53.05], "date": "2026-08-20"}, // Delmenhorst, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-08-20"}, // Nordring Gütersloh, Raub
+{"coords": [7.2333, 52.3167], "date": "2026-08-20"}, // Wohngebäude Schüttorf, eingebrochen
+{"coords": [8.7075, 48.1272], "date": "2026-08-20"}, // Frittlingen, Diebstahl
+{"coords": [8.5333, 48.0667], "date": "2026-08-20"}, // Schwenningen, Einbruch
+{"coords": [8.9667, 52.3833], "date": "2026-08-20"}, // Petershagen, Raub
+{"coords": [7.8667, 51.2167], "date": "2026-08-20"}, // Diebstählen Plettenberg, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-08-20"}, // Mitte, Raub
+{"coords": [8.0472, 52.2799], "date": "2026-08-20"}, // Hinweise Osnabrück, Einbrüche

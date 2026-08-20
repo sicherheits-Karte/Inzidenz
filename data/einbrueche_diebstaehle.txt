@@ -20442,3 +20442,9 @@
 //{"coords": [], "date": "2026-08-20"} // Diebstahl Altrich, Diebstahl
 {"coords": [9.0, 50.7333], "date": "2026-08-20"}, // Zeugen Homberg, Diebstahl
 {"coords": [8.8333, 50.15], "date": "2026-08-20"}, // Maintal, Einbruch
+//{"coords": [], "date": "2026-08-20"} // Zeugen Reinheim, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2026-08-20"}, // Nienburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-20"}, // Steinewerfer Aalen, Einbruch
+//{"coords": [], "date": "2026-08-20"} // Pfalzdorf, entwendet
+{"coords": [6.1667, 51.6833], "date": "2026-08-20"}, // Bildschirme Goch, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-08-20"}, // Hinweise Wesel, Einbruch

@@ -20452,3 +20452,7 @@
 //{"coords": [], "date": "2026-08-20"} // Weimarer Land, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2026-08-20"}, // Jena, Diebstahl
 //{"coords": [], "date": "2026-08-20"} // Holzland, Einbruch
+{"coords": [6.9667, 51.2333], "date": "2026-08-20"}, // Polizei Mettmann POL-ME, Einbrüche
+{"coords": [7.2197, 51.5428], "date": "2026-08-20"}, // Widerstand Herne, Diebstahl
+{"coords": [10.8, 53.4833], "date": "2026-08-20"}, // Einfamilienhaus Greven, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-08-20"}, // Bonn, Einbruch

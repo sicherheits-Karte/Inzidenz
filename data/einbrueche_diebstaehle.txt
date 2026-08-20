@@ -20475,3 +20475,14 @@
 {"coords": [9.6167, 54.0167], "date": "2026-08-20"}, // Baustelle Hohenlockstedt, Einbruch
 {"coords": [8.6514, 49.8728], "date": "2026-08-20"}, // Darmstadt, gestohlen
 {"coords": [8.3708, 52.6078], "date": "2026-08-20"}, // Moorkirche Diepholz, Diebstahl
+{"coords": [9.9092, 53.7306], "date": "2026-08-20"}, // Wohnhaus Quickborn, Einbruch
+{"coords": [7.45, 50.7833], "date": "2026-08-20"}, // Zeugen Eitorf, Einbruch
+{"coords": [7.1667, 50.8167], "date": "2026-08-20"}, // Troisdorf, Diebstahl
+//{"coords": [], "date": "2026-08-20"} // Kein Ort gefunden, Einbruch
+//{"coords": [], "date": "2026-08-20"} // Immert, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2026-08-20"}, // Stade, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-08-20"}, // Diebe Iserlohn, Dieb
+{"coords": [7.75, 51.3833], "date": "2026-08-20"}, // Hemer, eingebrochen
+{"coords": [7.8, 51.4333], "date": "2026-08-20"}, // Vorsicht Betrug Menden, gestohlen
+//{"coords": [], "date": "2026-08-20"} // Möhringen, eingebrochen
+{"coords": [8.24, 50.0822], "date": "2026-08-20"}, // Präventionsangebote Wiesbaden, Einbruch

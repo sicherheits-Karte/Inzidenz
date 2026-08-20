@@ -20486,3 +20486,9 @@
 {"coords": [7.8, 51.4333], "date": "2026-08-20"}, // Vorsicht Betrug Menden, gestohlen
 //{"coords": [], "date": "2026-08-20"} // Möhringen, eingebrochen
 {"coords": [8.24, 50.0822], "date": "2026-08-20"}, // Präventionsangebote Wiesbaden, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-08-20"}, // Verkehrskontrolle Limburg, gestohlen
+{"coords": [11.8486, 53.4261], "date": "2026-08-20"}, // Parchim, entwendet
+{"coords": [9.9333, 52.9667], "date": "2026-08-20"}, // Solarpark Heidekreis, Diebstahl
+//{"coords": [], "date": "2026-08-20"} // Zeugen Großglattbach, Diebstahl
+//{"coords": [], "date": "2026-08-20"} // der Jakobstraße zu einem Diebstahlsdelikt. Mindestens zwei unbekannte Personen haben dort um, Diebstahl
+{"coords": [11.9833, 49.4833], "date": "2026-08-20"}, // Freudenberg, Einbrüche

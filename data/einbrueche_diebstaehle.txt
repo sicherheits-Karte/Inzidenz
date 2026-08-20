@@ -20501,3 +20501,9 @@
 {"coords": [7.8667, 51.2167], "date": "2026-08-20"}, // Diebstählen Plettenberg, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2026-08-20"}, // Mitte, Raub
 {"coords": [8.0472, 52.2799], "date": "2026-08-20"}, // Hinweise Osnabrück, Einbrüche
+//{"coords": [], "date": "2026-08-20"} // Baal, Diebstähle
+{"coords": [10.4278, 51.9042], "date": "2026-08-20"}, // Goslar, Einbrüche
+{"coords": [8.6944, 49.4092], "date": "2026-08-20"}, // Zeugenaufruf Heidelberg, gestohlen
+//{"coords": [], "date": "2026-08-20"} // Landkreis Verden, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-08-20"}, // Lippe, Einbruch
+//{"coords": [], "date": "2026-08-20"} // Selm, Diebstahl

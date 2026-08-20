@@ -20448,3 +20448,7 @@
 //{"coords": [], "date": "2026-08-20"} // Pfalzdorf, entwendet
 {"coords": [6.1667, 51.6833], "date": "2026-08-20"}, // Bildschirme Goch, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2026-08-20"}, // Hinweise Wesel, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-08-20"}, // Recklinghausen, Raub
+//{"coords": [], "date": "2026-08-20"} // Weimarer Land, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-08-20"}, // Jena, Diebstahl
+//{"coords": [], "date": "2026-08-20"} // Holzland, Einbruch

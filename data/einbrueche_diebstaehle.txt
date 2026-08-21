@@ -20662,3 +20662,4 @@
 {"coords": [8.4043, 49.014], "date": "2026-08-21"}, // Wohnung Karlsruhe, Diebstahl
 {"coords": [9.6775, 50.5528], "date": "2026-08-21"}, // Einfamilienhaus Fulda, Einbruch
 {"coords": [8.6372, 49.6419], "date": "2026-08-21"}, // Heppenheim, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-08-21"}, // Verletzten Hofheim, Einbruch

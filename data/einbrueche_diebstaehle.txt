@@ -20552,3 +20552,13 @@
 {"coords": [9.8833, 53.3333], "date": "2026-08-21"}, // Buchholz, Einbruch
 {"coords": [12.4333, 50.985], "date": "2026-08-21"}, // Altenburg, entwendet
 {"coords": [9.0, 50.7333], "date": "2026-08-21"}, // Zeugen Homberg, gestohlen
+{"coords": [8.4043, 49.014], "date": "2026-08-21"}, // Karlsruhe, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-08-21"}, // Delmenhorst, Einbruch
+{"coords": [6.1667, 51.6833], "date": "2026-08-21"}, // Zeugen Goch, Einbrüche
+//{"coords": [], "date": "2026-08-21"} // Firmenwagen Recke, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // Refrath Bergisch Gladbach, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-08-21"}, // Darmstadt, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2026-08-21"}, // Haus Erwitte, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-08-21"}, // Festnahme Recklinghausen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-21"}, // Einbruchsversuch Aalen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2026-08-21"}, // Hinweise Homberg, Einbruch

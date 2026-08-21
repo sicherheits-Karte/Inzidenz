@@ -20623,3 +20623,11 @@
 {"coords": [8.9444, 54.3181], "date": "2026-08-21"}, // Haft Tönning, Einbruch
 //{"coords": [], "date": "2026-08-21"} // Untertürkheim, Einbrecher
 {"coords": [7.2162, 51.4818], "date": "2026-08-21"}, // Männern Bochum, Einbruch
+//{"coords": [], "date": "2026-08-21"} // Kein Ort gefunden, Einbrecher
+//{"coords": [], "date": "2026-08-21"} // Kein Ort gefunden, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-08-21"}, // Ludwigshafen, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-08-21"}, // Frankenthal, entwendet
+{"coords": [11.1, 48.7167], "date": "2026-08-21"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [6.1333, 50.9333], "date": "2026-08-21"}, // Palenberg, Diebstahl
+{"coords": [6.0961, 51.0631], "date": "2026-08-21"}, // Heinsberg, entwendet
+{"coords": [9.2108, 49.1425], "date": "2026-08-21"}, // Diebstahl Landkreis Heilbronn, Diebstahl

@@ -20590,3 +20590,11 @@
 {"coords": [9.2844, 51.045], "date": "2026-08-21"}, // Kupferdiebstahl Borken, Diebstahl
 {"coords": [6.6833, 51.2], "date": "2026-08-21"}, // Taschendiebstahl Neuss, Diebstahl
 //{"coords": [], "date": "2026-08-21"} // Jüchen, Dieb
+{"coords": [7.3608, 49.2492], "date": "2026-08-21"}, // Hinweise Zweibrücken, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-08-21"}, // Führerschein-- Bremen, aufbruch
+{"coords": [8.875, 53.05], "date": "2026-08-21"}, // Osterholz, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-08-21"}, // Kindertagesstätte Hildesheim, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-08-21"}, // Dieb Bielefeld, Dieb
+//{"coords": [], "date": "2026-08-21"} // Wehringhausen, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // ein Restaurant auf der Seebrücke in Ahlbeck, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-08-21"}, // Mainz, entwendet

@@ -20573,3 +20573,10 @@
 //{"coords": [], "date": "2026-08-21"} // Kiosk Leichlingen, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-08-21"}, // Missglückter Ladendiebstahl Coesfeld, Diebstahl
 //{"coords": [], "date": "2026-08-21"} // Kreis Plön, eigentumsdelikt
+{"coords": [8.6, 51.6833], "date": "2026-08-21"}, // Salzkotten, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-08-21"}, // Hannover, Raub
+//{"coords": [], "date": "2026-08-21"} // Bentfeld, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-08-21"}, // Wasserzählern Gevelsberg, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-08-21"}, // Zeugenaufruf Cuxhaven, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-08-21"}, // Vechta, Diebstahl
+{"coords": [8.2794, 49.1983], "date": "2026-08-21"}, // Dieseldiebstahl Bellheim, Diebstahl

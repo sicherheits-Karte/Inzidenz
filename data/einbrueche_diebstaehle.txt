@@ -20644,3 +20644,13 @@
 {"coords": [6.1344, 50.8247], "date": "2026-08-21"}, // Würselen, gestohlen
 {"coords": [9.5, 51.3167], "date": "2026-08-21"}, // Kassel, Einbrüche
 //{"coords": [], "date": "2026-08-21"} // verhindert Taschendiebstahl, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // Höhe, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-08-21"}, // Geschwindigkeitsmessung Bad Schwalbach Bad Schwalbach, gestohlen
+{"coords": [10.7956, 51.5019], "date": "2026-08-21"}, // Fahrräder Nordhausen, Einbrüche
+{"coords": [7.0982, 50.7374], "date": "2026-08-21"}, // Bonn, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-08-21"}, // Bielefeld, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-08-21"}, // Recklinghausen, Diebstahl
+{"coords": [9.4764, 53.6008], "date": "2026-08-21"}, // Zeugen Stade, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // Bad Frankenhausen, Raub
+{"coords": [7.2, 51.6167], "date": "2026-08-21"}, // Polizei Recklinghausen, Raub
+//{"coords": [], "date": "2026-08-21"} // dem Kreisgebiet, Einbrüche

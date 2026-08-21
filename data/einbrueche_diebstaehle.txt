@@ -20639,3 +20639,8 @@
 {"coords": [8.8678, 49.9228], "date": "2026-08-21"}, // Haft Münster, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-08-21"}, // Einbrüchen Hildesheim, Einbruch
 {"coords": [10.4, 53.25], "date": "2026-08-21"}, // Lüneburg, Dieb
+//{"coords": [], "date": "2026-08-21"} // Dorsten, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-08-21"}, // Giessen, Einbrecher
+{"coords": [6.1344, 50.8247], "date": "2026-08-21"}, // Würselen, gestohlen
+{"coords": [9.5, 51.3167], "date": "2026-08-21"}, // Kassel, Einbrüche
+//{"coords": [], "date": "2026-08-21"} // verhindert Taschendiebstahl, Diebstahl

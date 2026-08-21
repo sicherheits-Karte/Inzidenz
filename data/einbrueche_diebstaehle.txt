@@ -20654,3 +20654,11 @@
 //{"coords": [], "date": "2026-08-21"} // Bad Frankenhausen, Raub
 {"coords": [7.2, 51.6167], "date": "2026-08-21"}, // Polizei Recklinghausen, Raub
 //{"coords": [], "date": "2026-08-21"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-08-21"}, // Zeugen Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-08-21"}, // Freiburg, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // Born, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-08-21"}, // Marktplatz Freiburg, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-08-21"}, // Wohnung Karlsruhe, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-08-21"}, // Einfamilienhaus Fulda, Einbruch
+{"coords": [8.6372, 49.6419], "date": "2026-08-21"}, // Heppenheim, Einbruch

@@ -20609,3 +20609,12 @@
 {"coords": [6.7872, 50.6606], "date": "2026-08-21"}, // Bäckerei Euskirchen, Raub
 {"coords": [8.6944, 49.4092], "date": "2026-08-21"}, // Untersuchungshaft Heidelberg, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-08-21"}, // Einbruch Reutlingen, Einbruch
+{"coords": [9.0, 47.85], "date": "2026-08-21"}, // Stockach, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-08-21"}, // Emden, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2026-08-21"}, // Heidekreis, gestohlen
+{"coords": [10.8978, 48.3705], "date": "2026-08-21"}, // Kleinkraftrads Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-08-21"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2026-08-21"}, // Lokal Nordhorn, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-08-21"}, // Restaurant Nordhorn, Einbruch
+{"coords": [10.4278, 51.9042], "date": "2026-08-21"}, // Kupferrohren Goslar, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2026-08-21"}, // Nordhorn Nordhorn, Einbruch

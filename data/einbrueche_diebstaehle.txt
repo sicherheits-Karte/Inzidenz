@@ -20580,3 +20580,13 @@
 {"coords": [8.6944, 53.8619], "date": "2026-08-21"}, // Zeugenaufruf Cuxhaven, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-08-21"}, // Vechta, Diebstahl
 {"coords": [8.2794, 49.1983], "date": "2026-08-21"}, // Dieseldiebstahl Bellheim, Diebstahl
+{"coords": [8.45, 50.0167], "date": "2026-08-21"}, // Raunheim, gestohlen
+{"coords": [8.5333, 50.0667], "date": "2026-08-21"}, // Telefondienstleister Kelsterbach, Diebstahl
+{"coords": [7.3333, 51.4333], "date": "2026-08-21"}, // Witten, Einbruch
+{"coords": [7.7, 51.375], "date": "2026-08-21"}, // Iserlohn, Diebstahl
+{"coords": [7.75, 51.3833], "date": "2026-08-21"}, // Betrüger Hemer, Dieb
+{"coords": [7.8, 51.4333], "date": "2026-08-21"}, // Folgen Menden, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-08-21"}, // Bielefeld, Dieb
+{"coords": [9.2844, 51.045], "date": "2026-08-21"}, // Kupferdiebstahl Borken, Diebstahl
+{"coords": [6.6833, 51.2], "date": "2026-08-21"}, // Taschendiebstahl Neuss, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // Jüchen, Dieb

@@ -20562,3 +20562,14 @@
 {"coords": [7.2, 51.6167], "date": "2026-08-21"}, // Festnahme Recklinghausen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-08-21"}, // Einbruchsversuch Aalen, Einbruch
 {"coords": [9.0, 50.7333], "date": "2026-08-21"}, // Hinweise Homberg, Einbruch
+//{"coords": [], "date": "2026-08-21"} // Werk Bad Oeynhausen, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-08-21"}, // Unfall Aalen, Einbruch
+//{"coords": [], "date": "2026-08-21"} // einen Schnellimbiss in der Sodenstraße drangen ein oder mehrere Unbekannte gewaltsam ein. Der oder die Täter entwendeten unter anderem Bargeld. Die Tat ereignete sich in der Zeit zwischen dem, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-08-21"}, // Vorsicht Oldenburg, Diebstähle
+//{"coords": [], "date": "2026-08-21"} // Bad Nenndorf, gestohlen
+//{"coords": [], "date": "2026-08-21"} // Bad Sassendorf, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2026-08-21"}, // Bonn, Dieb
+//{"coords": [], "date": "2026-08-21"} // Trickdiebstahl Landesbergen, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // Kiosk Leichlingen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-08-21"}, // Missglückter Ladendiebstahl Coesfeld, Diebstahl
+//{"coords": [], "date": "2026-08-21"} // Kreis Plön, eigentumsdelikt

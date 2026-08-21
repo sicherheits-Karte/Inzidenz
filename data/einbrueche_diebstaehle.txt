@@ -20631,3 +20631,11 @@
 {"coords": [6.1333, 50.9333], "date": "2026-08-21"}, // Palenberg, Diebstahl
 {"coords": [6.0961, 51.0631], "date": "2026-08-21"}, // Heinsberg, entwendet
 {"coords": [9.2108, 49.1425], "date": "2026-08-21"}, // Diebstahl Landkreis Heilbronn, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-08-21"}, // Zeugenaufruf Frankfurt, Raub
+{"coords": [9.9158, 51.5413], "date": "2026-08-21"}, // Göttingen, Einbruch
+{"coords": [10.25, 50.6833], "date": "2026-08-21"}, // Ruppertenrod Vogelsberg, Dieb
+//{"coords": [], "date": "2026-08-21"} // Polizei Porta Westfalica, Einbruch
+//{"coords": [], "date": "2026-08-21"} // Einsatz Schönecken, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-08-21"}, // Haft Münster, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-08-21"}, // Einbrüchen Hildesheim, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-08-21"}, // Lüneburg, Dieb

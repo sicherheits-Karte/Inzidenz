@@ -20671,3 +20671,6 @@
 {"coords": [8.6944, 49.4092], "date": "2026-08-22"}, // Heidelberg, Raub
 {"coords": [7.1, 51.5167], "date": "2026-08-22"}, // Jährigem Gelsenkirchen, Raub
 {"coords": [10.95, 50.8333], "date": "2026-08-22"}, // Imbiss Arnstadt, Einbruch
+{"coords": [11.87, 50.7356], "date": "2026-08-22"}, // Triptis Triptis, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-08-22"}, // Vechta, Diebstahl
+{"coords": [7.4547, 53.2311], "date": "2026-08-22"}, // Leer, Diebstahl

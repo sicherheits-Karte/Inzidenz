@@ -20695,3 +20695,5 @@
 {"coords": [9.95, 52.15], "date": "2026-08-22"}, // Kennzeichendiebstahl Hildesheim, Diebstahl
 {"coords": [8.25, 50.4833], "date": "2026-08-22"}, // Weilburg, Einbruch
 {"coords": [8.4414, 50.0919], "date": "2026-08-22"}, // Okriftel Hofheim, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-08-22"}, // Erfurt, Dieb
+{"coords": [7.2162, 51.4818], "date": "2026-08-22"}, // Hinweise Bochum, entwendet

@@ -20674,3 +20674,6 @@
 {"coords": [11.87, 50.7356], "date": "2026-08-22"}, // Triptis Triptis, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2026-08-22"}, // Vechta, Diebstahl
 {"coords": [7.4547, 53.2311], "date": "2026-08-22"}, // Leer, Diebstahl
+{"coords": [8.65, 53.4667], "date": "2026-08-22"}, // Loxstedt Cuxhaven, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-08-22"}, // Mehrfamilienhauses Ludwigshafen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-08-22"}, // Ludwigshafen, Diebstahl

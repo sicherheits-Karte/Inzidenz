@@ -20692,3 +20692,5 @@
 {"coords": [9.3164, 48.8303], "date": "2026-08-22"}, // Waiblingen Aalen, Diebstahl
 {"coords": [6.0961, 51.0631], "date": "2026-08-22"}, // Person Heinsberg, Raub
 {"coords": [10.0, 51.7064], "date": "2026-08-22"}, // Schafdiebstahl Northeim, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-08-22"}, // Kennzeichendiebstahl Hildesheim, Diebstahl
+{"coords": [8.25, 50.4833], "date": "2026-08-22"}, // Weilburg, Einbruch

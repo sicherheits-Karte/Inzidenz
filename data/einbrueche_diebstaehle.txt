@@ -20677,3 +20677,6 @@
 {"coords": [8.65, 53.4667], "date": "2026-08-22"}, // Loxstedt Cuxhaven, Diebstahl
 {"coords": [8.4353, 49.4811], "date": "2026-08-22"}, // Mehrfamilienhauses Ludwigshafen, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2026-08-22"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2026-08-22"}, // Spielautomaten Speyer, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-08-22"}, // Ladengeschäft Speyer, Diebstahl
+{"coords": [8.2833, 49.4667], "date": "2026-08-22"}, // Schauernheim, Diebstahl

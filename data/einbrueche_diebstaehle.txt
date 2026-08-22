@@ -20683,3 +20683,5 @@
 {"coords": [9.2167, 48.0833], "date": "2026-08-22"}, // Landkreis Sigmaringen Ravensburg, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-08-22"}, // Mannheim, Diebstahl
 {"coords": [7.3167, 52.3333], "date": "2026-08-22"}, // Emsbüren, Diebstahl
+//{"coords": [], "date": "2026-08-22"} // Bad Gandersheim Bad Gandersheim, aufbruch
+{"coords": [6.8889, 49.9858], "date": "2026-08-22"}, // Scooter Wittlich, Diebstahl

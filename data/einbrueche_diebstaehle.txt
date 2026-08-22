@@ -20694,3 +20694,4 @@
 {"coords": [10.0, 51.7064], "date": "2026-08-22"}, // Schafdiebstahl Northeim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-08-22"}, // Kennzeichendiebstahl Hildesheim, Diebstahl
 {"coords": [8.25, 50.4833], "date": "2026-08-22"}, // Weilburg, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-08-22"}, // Okriftel Hofheim, Einbruch

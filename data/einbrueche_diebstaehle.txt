@@ -20688,3 +20688,4 @@
 {"coords": [8.6822, 50.1106], "date": "2026-08-22"}, // Festnahme Frankfurt, Räuber
 {"coords": [10.4278, 51.9042], "date": "2026-08-22"}, // Goslar, Diebstahl
 {"coords": [7.7806, 53.5769], "date": "2026-08-22"}, // Wittmund, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-08-22"}, // Diepholz, Einbruch

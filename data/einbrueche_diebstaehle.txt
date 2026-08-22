@@ -20691,3 +20691,4 @@
 {"coords": [8.3708, 52.6078], "date": "2026-08-22"}, // Diepholz, Einbruch
 {"coords": [9.3164, 48.8303], "date": "2026-08-22"}, // Waiblingen Aalen, Diebstahl
 {"coords": [6.0961, 51.0631], "date": "2026-08-22"}, // Person Heinsberg, Raub
+{"coords": [10.0, 51.7064], "date": "2026-08-22"}, // Schafdiebstahl Northeim, Diebstahl

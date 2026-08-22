@@ -20698,3 +20698,4 @@
 {"coords": [11.0299, 50.9848], "date": "2026-08-22"}, // Erfurt, Dieb
 {"coords": [7.2162, 51.4818], "date": "2026-08-22"}, // Hinweise Bochum, entwendet
 //{"coords": [], "date": "2026-08-22"} // metallenem Grabschmuck an mehreren Gräbern informiert. Im Rahmen von weitergehenden Ermittlungen konnte der Tatzeitraum auf, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-08-22"}, // Hofheim, Raub

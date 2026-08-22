@@ -20666,3 +20666,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-08-21"}, // Vermisstensuche Aalen, Raub
 {"coords": [9.95, 52.15], "date": "2026-08-22"}, // Hildesheim, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2026-08-22"}, // Schwerer Wohnungseinbruchdiebstahl Ludwigsburg, Einbruch
+{"coords": [7.2431, 51.3464], "date": "2026-08-22"}, // Mehrfamilienhaus Sprockhövel, Einbruch

@@ -20701,3 +20701,5 @@
 {"coords": [8.4414, 50.0919], "date": "2026-08-22"}, // Hofheim, Raub
 //{"coords": [], "date": "2026-08-23"} // Dam, Raub
 {"coords": [9.1919, 48.8975], "date": "2026-08-23"}, // Ludwigsburg, Einbruch
+{"coords": [10.4508, 50.7211], "date": "2026-08-23"}, // Wohnungseinbruch Schmalkalden, Einbruch
+//{"coords": [], "date": "2026-08-23"} // Einfamilienhaus Wickede, Einbruch

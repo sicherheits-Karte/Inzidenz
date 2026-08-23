@@ -20704,3 +20704,7 @@
 {"coords": [10.4508, 50.7211], "date": "2026-08-23"}, // Wohnungseinbruch Schmalkalden, Einbruch
 //{"coords": [], "date": "2026-08-23"} // Einfamilienhaus Wickede, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2026-08-23"}, // Gevelsberg, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-08-23"}, // Gotha, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-08-23"}, // Mannheim, entwendet
+{"coords": [7.2061, 53.3669], "date": "2026-08-23"}, // Emden, Diebstahl
+{"coords": [8.375, 49.3833], "date": "2026-08-23"}, // Schifferstadt, Raub

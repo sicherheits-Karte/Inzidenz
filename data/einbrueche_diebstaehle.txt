@@ -20718,3 +20718,12 @@
 //{"coords": [], "date": "2026-08-23"} // Kaufland, Diebstahl
 //{"coords": [], "date": "2026-08-23"} // Bad Cannstatt, Raub
 {"coords": [8.8667, 51.9333], "date": "2026-08-23"}, // Lippe, Einbruch
+//{"coords": [], "date": "2026-08-23"} // Rahmen einer, Diebstahl
+//{"coords": [], "date": "2026-08-23"} // Höhe, Diebstahl
+{"coords": [7.0042, 51.9542], "date": "2026-08-23"}, // Wohnhaus Gescher, Einbruch
+//{"coords": [], "date": "2026-08-23"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-08-23"} // Wohnung Weilerswist, Raub
+{"coords": [12.1997, 50.6544], "date": "2026-08-23"}, // Greiz, Diebstahl
+{"coords": [7.5667, 51.0833], "date": "2026-08-23"}, // Gummersbach, gestohlen
+{"coords": [7.5667, 51.0167], "date": "2026-08-23"}, // Tierheim Wiehl, eingebrochen
+{"coords": [8.0472, 52.2799], "date": "2026-08-23"}, // Zeugen Osnabrück, Diebstahl

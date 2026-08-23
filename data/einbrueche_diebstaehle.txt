@@ -20739,3 +20739,4 @@
 {"coords": [11.0767, 49.4521], "date": "2026-08-23"}, // Nürnberg, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-08-23"}, // Bad Schwalbach, Diebstahl
 {"coords": [8.1075, 53.5219], "date": "2026-08-23"}, // Wilhelmshaven, Diebstahl
+{"coords": [9.35, 52.3333], "date": "2026-08-23"}, // Fahrerin Wenden, Raub

@@ -20741,3 +20741,5 @@
 {"coords": [8.1075, 53.5219], "date": "2026-08-23"}, // Wilhelmshaven, Diebstahl
 {"coords": [9.35, 52.3333], "date": "2026-08-23"}, // Fahrerin Wenden, Raub
 //{"coords": [], "date": "2026-08-23"} // Grabschmuck Halbs, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-08-23"}, // Einbeck, entwendet
+{"coords": [9.8667, 51.8167], "date": "2026-08-23"}, // Fahrraddiebstahl Einbeck, Diebstahl

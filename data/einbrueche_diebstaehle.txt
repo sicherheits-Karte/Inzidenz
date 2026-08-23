@@ -20730,3 +20730,4 @@
 {"coords": [9.4, 47.7833], "date": "2026-08-23"}, // Bodenseekreis Bodenseekreis, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2026-08-23"}, // Landkreis Heidekreis, entwendet
 {"coords": [8.4353, 49.4811], "date": "2026-08-23"}, // Einkaufszentrum Ludwigshafen, Diebstahl
+{"coords": [10.95, 50.8333], "date": "2026-08-23"}, // Uhr Arnstadt, Einbruch

@@ -20700,3 +20700,4 @@
 //{"coords": [], "date": "2026-08-22"} // metallenem Grabschmuck an mehreren Gräbern informiert. Im Rahmen von weitergehenden Ermittlungen konnte der Tatzeitraum auf, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-08-22"}, // Hofheim, Raub
 //{"coords": [], "date": "2026-08-23"} // Dam, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-08-23"}, // Ludwigsburg, Einbruch

@@ -20731,3 +20731,5 @@
 {"coords": [9.9333, 52.9667], "date": "2026-08-23"}, // Landkreis Heidekreis, entwendet
 {"coords": [8.4353, 49.4811], "date": "2026-08-23"}, // Einkaufszentrum Ludwigshafen, Diebstahl
 {"coords": [10.95, 50.8333], "date": "2026-08-23"}, // Uhr Arnstadt, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2026-08-23"}, // Wohnmobile Mühlhausen, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-08-23"}, // Reutlingen, Diebstahl

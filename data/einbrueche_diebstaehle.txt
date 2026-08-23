@@ -20727,3 +20727,4 @@
 {"coords": [7.5667, 51.0833], "date": "2026-08-23"}, // Gummersbach, gestohlen
 {"coords": [7.5667, 51.0167], "date": "2026-08-23"}, // Tierheim Wiehl, eingebrochen
 {"coords": [8.0472, 52.2799], "date": "2026-08-23"}, // Zeugen Osnabrück, Diebstahl
+{"coords": [9.4, 47.7833], "date": "2026-08-23"}, // Bodenseekreis Bodenseekreis, Diebstahl

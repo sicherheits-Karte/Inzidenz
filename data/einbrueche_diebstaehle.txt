@@ -20736,3 +20736,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-08-23"}, // Aalen, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-08-23"}, // Diepholz, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2026-08-23"}, // Wohnhaus Speyer, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-08-23"}, // Nürnberg, Einbruch

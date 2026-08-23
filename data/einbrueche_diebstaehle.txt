@@ -20703,3 +20703,4 @@
 {"coords": [9.1919, 48.8975], "date": "2026-08-23"}, // Ludwigsburg, Einbruch
 {"coords": [10.4508, 50.7211], "date": "2026-08-23"}, // Wohnungseinbruch Schmalkalden, Einbruch
 //{"coords": [], "date": "2026-08-23"} // Einfamilienhaus Wickede, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-08-23"}, // Gevelsberg, entwendet

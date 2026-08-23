@@ -20708,3 +20708,4 @@
 {"coords": [8.4661, 49.4878], "date": "2026-08-23"}, // Mannheim, entwendet
 {"coords": [7.2061, 53.3669], "date": "2026-08-23"}, // Emden, Diebstahl
 {"coords": [8.375, 49.3833], "date": "2026-08-23"}, // Schifferstadt, Raub
+{"coords": [10.0, 51.7064], "date": "2026-08-23"}, // Kennzeichen Northeim, Diebstahl

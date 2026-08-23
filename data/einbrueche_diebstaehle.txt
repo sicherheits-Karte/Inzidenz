@@ -20743,3 +20743,4 @@
 //{"coords": [], "date": "2026-08-23"} // Grabschmuck Halbs, Diebstahl
 {"coords": [9.8667, 51.8167], "date": "2026-08-23"}, // Einbeck, entwendet
 {"coords": [9.8667, 51.8167], "date": "2026-08-23"}, // Fahrraddiebstahl Einbeck, Diebstahl
+{"coords": [8.0169, 50.3714], "date": "2026-08-24"}, // Diez, Einbruch

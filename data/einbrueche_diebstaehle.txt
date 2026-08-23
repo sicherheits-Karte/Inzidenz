@@ -20709,3 +20709,5 @@
 {"coords": [7.2061, 53.3669], "date": "2026-08-23"}, // Emden, Diebstahl
 {"coords": [8.375, 49.3833], "date": "2026-08-23"}, // Schifferstadt, Raub
 {"coords": [10.0, 51.7064], "date": "2026-08-23"}, // Kennzeichen Northeim, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-08-23"}, // Vechta, Diebstahl
+{"coords": [11.3239, 50.9795], "date": "2026-08-23"}, // Schulgelände Weimar, Diebstahl

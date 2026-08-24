@@ -20780,3 +20780,9 @@
 {"coords": [11.5862, 50.9271], "date": "2026-08-24"}, // Jena, gestohlen
 {"coords": [8.5331, 52.021], "date": "2026-08-24"}, // Haft Bielefeld, Dieb
 {"coords": [8.4043, 49.014], "date": "2026-08-24"}, // Zeugen Karlsruhe, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-08-24"}, // Dieseldiebstahl Diepholz, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-08-24"}, // Zeugen Osnabrück, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-08-24"}, // Mainz, Raub
+//{"coords": [], "date": "2026-08-24"} // Olm, Einbruch
+{"coords": [8.2711, 50.0], "date": "2026-08-24"}, // Mainz, Diebstahl
+{"coords": [6.9603, 50.9375], "date": "2026-08-24"}, // Haftrichter Köln, Einbruch

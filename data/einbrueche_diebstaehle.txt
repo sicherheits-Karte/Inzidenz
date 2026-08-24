@@ -20867,3 +20867,8 @@
 {"coords": [9.2167, 48.4833], "date": "2026-08-24"}, // Firmeneinbrüche Reutlingen, Einbrüche
 {"coords": [7.8211, 49.6306], "date": "2026-08-24"}, // Gehrweiler zum Diebstahl von Grabschmuck. Bislang wurden zwei Fälle polizeilich zur Anzeige gebracht. In einem Fall wurde eine auf einem Grab stehende Bronzevase entwendet und im zweiten Fall wurde ein kleines Vögelchen aus Bronze gestohlen. Die Polizei in Rockenhausen bittet um Hinweise zu Personen oder, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2026-08-24"}, // Auseinandersetzung Wiesbaden, Einbruch
+{"coords": [9.735, 52.1225], "date": "2026-08-24"}, // Elze Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-08-24"} // Diebstahl Bad Frankenhausen, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-08-24"}, // Nordhausen, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-08-24"}, // Elektrogeräte Nordhausen, Einbruch
+//{"coords": [], "date": "2026-08-24"} // Bad Langensalza, Diebstahl

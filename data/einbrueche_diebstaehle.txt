@@ -20797,3 +20797,13 @@
 {"coords": [8.2869, 52.7303], "date": "2026-08-24"}, // Vechta, gestohlen
 {"coords": [8.4353, 49.4811], "date": "2026-08-24"}, // Ludwigshafen, Einbruch
 {"coords": [6.4833, 50.8], "date": "2026-08-24"}, // Diebstahl Düren, Diebstahl
+{"coords": [8.6372, 49.6419], "date": "2026-08-24"}, // Heppenheim, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-08-24"}, // Unfall Heilbronn, Einbrüche
+{"coords": [7.6333, 51.6167], "date": "2026-08-24"}, // Bergkamen, Raub
+{"coords": [8.8075, 53.075], "date": "2026-08-24"}, // Bremen, eingebrochen
+{"coords": [8.705, 48.895], "date": "2026-08-24"}, // Pforzheim, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2026-08-24"}, // Horn Hamburg, Raub
+//{"coords": [], "date": "2026-08-24"} // Zeugen Ispringen, Einbruch
+//{"coords": [], "date": "2026-08-24"} // Gosheim, Einbruch
+//{"coords": [], "date": "2026-08-24"} // Gunningen, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-08-24"}, // Unfällen Dortmund, gestohlen

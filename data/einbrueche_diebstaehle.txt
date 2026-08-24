@@ -20807,3 +20807,16 @@
 //{"coords": [], "date": "2026-08-24"} // Gosheim, Einbruch
 //{"coords": [], "date": "2026-08-24"} // Gunningen, Einbruch
 {"coords": [7.4653, 51.5136], "date": "2026-08-24"}, // Unfällen Dortmund, gestohlen
+{"coords": [7.6667, 51.5833], "date": "2026-08-24"}, // Zeugen Kamen, Einbruch
+{"coords": [8.6822, 50.1106], "date": "2026-08-24"}, // Raub Frankfurt, Raub
+//{"coords": [], "date": "2026-08-24"} // Ratheim, Einbruch
+{"coords": [6.315, 51.0794], "date": "2026-08-24"}, // Wohnungseinbruch Erkelenz, Einbruch
+//{"coords": [], "date": "2026-08-24"} // Zeugensuche Geilenkirchen, entwendet
+//{"coords": [], "date": "2026-08-24"} // Gangelt, entwendet
+//{"coords": [], "date": "2026-08-24"} // Braunsrath, Einbrüche
+//{"coords": [], "date": "2026-08-24"} // Randerath, Einbruch
+{"coords": [6.0961, 51.0631], "date": "2026-08-24"}, // Kleinkraftrads Heinsberg, Diebstahl
+{"coords": [6.0961, 51.0631], "date": "2026-08-24"}, // Heinsberg, gestohlen
+{"coords": [7.2, 51.6167], "date": "2026-08-24"}, // Einbrecher Recklinghausen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-08-24"}, // Schillerstraße Ludwigsburg, Einbruch
+{"coords": [8.5667, 49.65], "date": "2026-08-24"}, // Lorsch, entwendet

@@ -20745,3 +20745,7 @@
 {"coords": [9.8667, 51.8167], "date": "2026-08-23"}, // Fahrraddiebstahl Einbeck, Diebstahl
 {"coords": [8.0169, 50.3714], "date": "2026-08-24"}, // Diez, Einbruch
 //{"coords": [], "date": "2026-08-24"} // Hütte Hontheim, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-08-24"}, // Gera, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-08-24"}, // Gera, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-08-24"}, // Altenburg, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-08-24"}, // Einsatz Cuxhaven, Raub

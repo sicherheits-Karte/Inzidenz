@@ -20837,3 +20837,12 @@
 {"coords": [9.5, 51.3167], "date": "2026-08-24"}, // Kassel, Einbruch
 //{"coords": [], "date": "2026-08-24"} // POL-PDNR, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2026-08-24"}, // Hannover, Einbruch
+//{"coords": [], "date": "2026-08-24"} // Kreis, Einbrüche
+{"coords": [8.4414, 50.0919], "date": "2026-08-24"}, // Spielhalle Hofheim, Einbruch
+//{"coords": [], "date": "2026-08-24"} // Fluchtauto, Einbruch
+{"coords": [9.4667, 53.95], "date": "2026-08-24"}, // Preußisch Oldendorf, Raub
+//{"coords": [], "date": "2026-08-24"} // Kapelle Ramsen, Diebstahl
+{"coords": [9.1828, 48.7756], "date": "2026-08-24"}, // Stuttgart- Mitte, gestohlen
+{"coords": [9.9916, 48.3984], "date": "2026-08-24"}, // Ulm, Raub
+{"coords": [7.7, 51.375], "date": "2026-08-24"}, // Betrüger Iserlohn, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-08-24"}, // Bielefeld, gestohlen

@@ -20752,3 +20752,9 @@
 {"coords": [8.3333, 51.35], "date": "2026-08-24"}, // Bestwig Bestwig, entwendet
 {"coords": [9.8667, 51.8167], "date": "2026-08-24"}, // Einbeck, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-08-24"}, // Erfurt, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-24"}, // Farbschmiererei Aalen, Einbrüche
+{"coords": [11.1167, 51.1667], "date": "2026-08-24"}, // Sömmerda, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-24"}, // Unfallflucht Aalen, Einbrüche
+{"coords": [11.0299, 50.9848], "date": "2026-08-24"}, // Erfurt, entwendet
+{"coords": [11.0299, 50.9848], "date": "2026-08-24"}, // Erfurt, eingebrochen
+{"coords": [8.2833, 51.35], "date": "2026-08-24"}, // Schule Meschede, Einbruch

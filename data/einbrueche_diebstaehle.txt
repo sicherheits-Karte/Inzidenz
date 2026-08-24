@@ -20786,3 +20786,14 @@
 //{"coords": [], "date": "2026-08-24"} // Olm, Einbruch
 {"coords": [8.2711, 50.0], "date": "2026-08-24"}, // Mainz, Diebstahl
 {"coords": [6.9603, 50.9375], "date": "2026-08-24"}, // Haftrichter Köln, Einbruch
+{"coords": [6.6833, 51.6167], "date": "2026-08-24"}, // Voerde, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-08-24"}, // Zeugen Warendorf, Raub
+{"coords": [8.8667, 51.9333], "date": "2026-08-24"}, // Lippe, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-08-24"}, // Reutlingen, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2026-08-24"}, // Warendorf, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-08-24"}, // Münster, Einbrecher
+{"coords": [8.4311, 49.3194], "date": "2026-08-24"}, // Speyer, Einbruch
+//{"coords": [], "date": "2026-08-24"} // Zeugen Niederzier, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-08-24"}, // Vechta, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2026-08-24"}, // Ludwigshafen, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-08-24"}, // Diebstahl Düren, Diebstahl

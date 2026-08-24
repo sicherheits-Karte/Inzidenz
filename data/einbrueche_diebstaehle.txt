@@ -20872,3 +20872,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-08-24"}, // Nordhausen, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-08-24"}, // Elektrogeräte Nordhausen, Einbruch
 //{"coords": [], "date": "2026-08-24"} // Bad Langensalza, Diebstahl
+//{"coords": [], "date": "2026-08-24"} // Fahrraddiebstahl Osburg, Diebstahl

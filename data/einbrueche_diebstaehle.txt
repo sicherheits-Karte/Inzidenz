@@ -20861,3 +20861,9 @@
 {"coords": [10.8978, 48.3705], "date": "2026-08-24"}, // Automaten Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-08-24"}, // Vandalismus Augsburg, entwendet
 {"coords": [7.82, 47.99], "date": "2026-08-24"}, // Schrebergarten Freiburg, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-08-24"}, // Lebensmittel Nordhausen, Einbruch
+{"coords": [10.0722, 51.3625], "date": "2026-08-24"}, // Uder, entwendet
+{"coords": [12.7167, 53.3333], "date": "2026-08-24"}, // Rechlin, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-08-24"}, // Firmeneinbrüche Reutlingen, Einbrüche
+{"coords": [7.8211, 49.6306], "date": "2026-08-24"}, // Gehrweiler zum Diebstahl von Grabschmuck. Bislang wurden zwei Fälle polizeilich zur Anzeige gebracht. In einem Fall wurde eine auf einem Grab stehende Bronzevase entwendet und im zweiten Fall wurde ein kleines Vögelchen aus Bronze gestohlen. Die Polizei in Rockenhausen bittet um Hinweise zu Personen oder, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2026-08-24"}, // Auseinandersetzung Wiesbaden, Einbruch

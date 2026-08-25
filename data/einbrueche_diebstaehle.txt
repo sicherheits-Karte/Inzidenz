@@ -20914,3 +20914,11 @@
 {"coords": [9.9158, 51.5413], "date": "2026-08-25"}, // Zeugen Göttingen, Einbruch
 {"coords": [8.705, 48.895], "date": "2026-08-25"}, // Zeugen Pforzheim, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-08-25"}, // Ulm, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-08-25"}, // Reutlingen, Einbrüche
+{"coords": [8.2711, 50.0], "date": "2026-08-25"}, // Trickdiebs Mainz, Dieb
+{"coords": [9.9916, 48.3984], "date": "2026-08-25"}, // Ulm, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2026-08-25"}, // Suhl, entwendet
+{"coords": [10.3333, 52.15], "date": "2026-08-25"}, // Salzgitter, Diebstahl
+{"coords": [7.6333, 51.6667], "date": "2026-08-25"}, // Gaststätte Werne, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-08-25"}, // Ulm, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2026-08-25"}, // Individualnummern Gevelsberg, Einbruch

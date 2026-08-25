@@ -20922,3 +20922,13 @@
 {"coords": [7.6333, 51.6667], "date": "2026-08-25"}, // Gaststätte Werne, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2026-08-25"}, // Ulm, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2026-08-25"}, // Individualnummern Gevelsberg, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-08-25"}, // Gemüsedieb Lippstadt, Dieb
+//{"coords": [], "date": "2026-08-25"} // Tracker Dersum, entwendet
+{"coords": [8.6925, 52.1986], "date": "2026-08-25"}, // Zeugen Löhne, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2026-08-25"}, // Nordhorn, gestohlen
+{"coords": [9.0, 50.7333], "date": "2026-08-25"}, // Tipps Homberg, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-08-25"}, // Ulm, Raub
+//{"coords": [], "date": "2026-08-25"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.1333, 48.8], "date": "2026-08-25"}, // Feuerbach, Raub
+{"coords": [7.1, 51.5167], "date": "2026-08-25"}, // Gelsenkirchen, Raub
+{"coords": [10.0528, 51.1889], "date": "2026-08-25"}, // Eschwege Eschwege, stehlen

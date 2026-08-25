@@ -20932,3 +20932,12 @@
 {"coords": [9.1333, 48.8], "date": "2026-08-25"}, // Feuerbach, Raub
 {"coords": [7.1, 51.5167], "date": "2026-08-25"}, // Gelsenkirchen, Raub
 {"coords": [10.0528, 51.1889], "date": "2026-08-25"}, // Eschwege Eschwege, stehlen
+{"coords": [9.0, 47.85], "date": "2026-08-25"}, // Stockach, Dieb
+//{"coords": [], "date": "2026-08-25"} // Deißlingen, eingebrochen
+//{"coords": [], "date": "2026-08-25"} // Dietingen, Diebstähle
+{"coords": [8.8403, 47.7592], "date": "2026-08-25"}, // Singen, Einbruch
+//{"coords": [], "date": "2026-08-25"} // Villingen, Diebstahl
+//{"coords": [], "date": "2026-08-25"} // Villingen, Einbruch
+{"coords": [9.4367, 54.7819], "date": "2026-08-25"}, // Zeugen Flensburg, Raub
+//{"coords": [], "date": "2026-08-25"} // Bad Sulza, gestohlen
+//{"coords": [], "date": "2026-08-25"} // Rumänien, Diebstahl

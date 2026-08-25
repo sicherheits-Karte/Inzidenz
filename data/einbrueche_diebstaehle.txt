@@ -20941,3 +20941,11 @@
 {"coords": [9.4367, 54.7819], "date": "2026-08-25"}, // Zeugen Flensburg, Raub
 //{"coords": [], "date": "2026-08-25"} // Bad Sulza, gestohlen
 //{"coords": [], "date": "2026-08-25"} // Rumänien, Diebstahl
+//{"coords": [], "date": "2026-08-25"} // Kreis, Diebstahl
+//{"coords": [], "date": "2026-08-25"} // Kreis, Raub
+//{"coords": [], "date": "2026-08-25"} // Zeugenaufruf Helpsen, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-08-25"}, // Zeugen Wilhelmshaven, Raub
+{"coords": [7.7689, 49.4447], "date": "2026-08-25"}, // Kaiserslautern, gestohlen
+{"coords": [10.0, 51.7064], "date": "2026-08-25"}, // Wochenende Northeim, Diebstähle
+//{"coords": [], "date": "2026-08-25"} // Kreis, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-08-25"}, // Zeugen Düsseldorf, Einbruch

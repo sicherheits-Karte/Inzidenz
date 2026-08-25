@@ -20880,3 +20880,5 @@
 //{"coords": [], "date": "2026-08-25"} // Holzland, Einbruch
 {"coords": [11.5862, 50.9271], "date": "2026-08-25"}, // Kellern Jena, Dieb
 //{"coords": [], "date": "2026-08-25"} // Zeugen Bad Langensalza, Einbrüche
+{"coords": [8.0, 51.45], "date": "2026-08-25"}, // Einfamilienhaus Arnsberg, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-08-25"}, // Delmenhorst, Raub

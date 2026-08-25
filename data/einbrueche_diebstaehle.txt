@@ -20873,3 +20873,6 @@
 {"coords": [10.7956, 51.5019], "date": "2026-08-24"}, // Elektrogeräte Nordhausen, Einbruch
 //{"coords": [], "date": "2026-08-24"} // Bad Langensalza, Diebstahl
 //{"coords": [], "date": "2026-08-24"} // Fahrraddiebstahl Osburg, Diebstahl
+{"coords": [12.1997, 50.6544], "date": "2026-08-25"}, // Greiz, entwendet
+{"coords": [12.4333, 50.985], "date": "2026-08-25"}, // Altenburg, Diebstahl
+{"coords": [9.1833, 50.2], "date": "2026-08-25"}, // Hinweise Gelnhausen, Raub

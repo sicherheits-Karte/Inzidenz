@@ -20977,3 +20977,9 @@
 {"coords": [6.7623, 51.4344], "date": "2026-08-25"}, // Duisburg, Einbruch
 {"coords": [12.0991, 54.0924], "date": "2026-08-25"}, // Landkreis Rostock, Einbrüche
 {"coords": [10.4, 53.25], "date": "2026-08-25"}, // Lüneburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-25"}, // Aalen, gestohlen
+{"coords": [10.25, 50.6833], "date": "2026-08-25"}, // Vogelsberg, entwendet
+{"coords": [9.6775, 50.5528], "date": "2026-08-25"}, // Fulda, entwendet
+{"coords": [8.6833, 50.5833], "date": "2026-08-25"}, // Giessen, Einbrecher
+{"coords": [8.4414, 50.0919], "date": "2026-08-25"}, // Restaurant Hofheim, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-25"}, // Unfallflucht Aalen, Diebstahl

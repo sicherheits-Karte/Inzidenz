@@ -20909,3 +20909,8 @@
 {"coords": [6.7583, 51.6417], "date": "2026-08-25"}, // Hinweise Hünxe, Raub
 {"coords": [10.3667, 50.35], "date": "2026-08-25"}, // Zimmern, entwendet
 {"coords": [7.7156, 52.2778], "date": "2026-08-25"}, // Ibbenbüren, gestohlen
+{"coords": [8.875, 53.05], "date": "2026-08-25"}, // Osterholz, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-08-25"}, // Lippe, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2026-08-25"}, // Zeugen Göttingen, Einbruch
+{"coords": [8.705, 48.895], "date": "2026-08-25"}, // Zeugen Pforzheim, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-08-25"}, // Ulm, gestohlen

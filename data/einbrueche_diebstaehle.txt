@@ -20949,3 +20949,7 @@
 {"coords": [10.0, 51.7064], "date": "2026-08-25"}, // Wochenende Northeim, Diebstähle
 //{"coords": [], "date": "2026-08-25"} // Kreis, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2026-08-25"}, // Zeugen Düsseldorf, Einbruch
+{"coords": [9.5, 51.3167], "date": "2026-08-25"}, // Kassel, Einbruch
+//{"coords": [], "date": "2026-08-25"} // Kein Ort gefunden, Raub
+//{"coords": [], "date": "2026-08-25"} // Holthausen, Einbruch
+{"coords": [8.6, 51.6833], "date": "2026-08-25"}, // Einbruch Salzkotten, Einbruch

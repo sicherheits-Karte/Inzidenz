@@ -20983,3 +20983,8 @@
 {"coords": [8.6833, 50.5833], "date": "2026-08-25"}, // Giessen, Einbrecher
 {"coords": [8.4414, 50.0919], "date": "2026-08-25"}, // Restaurant Hofheim, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-08-25"}, // Unfallflucht Aalen, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-08-25"}, // Supermarkt Giessen, Einbruch
+//{"coords": [], "date": "2026-08-25"} // eine Kindertagesstätten, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-08-25"}, // Werkzeugdiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-08-25"}, // Einbruchdiebstahl Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-08-25"}, // Augsburg, entwendet

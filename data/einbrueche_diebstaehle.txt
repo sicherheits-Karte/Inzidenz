@@ -20876,3 +20876,7 @@
 {"coords": [12.1997, 50.6544], "date": "2026-08-25"}, // Greiz, entwendet
 {"coords": [12.4333, 50.985], "date": "2026-08-25"}, // Altenburg, Diebstahl
 {"coords": [9.1833, 50.2], "date": "2026-08-25"}, // Hinweise Gelnhausen, Raub
+//{"coords": [], "date": "2026-08-25"} // Weimarer Land, gestohlen
+//{"coords": [], "date": "2026-08-25"} // Holzland, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-08-25"}, // Kellern Jena, Dieb
+//{"coords": [], "date": "2026-08-25"} // Zeugen Bad Langensalza, Einbrüche

@@ -20953,3 +20953,12 @@
 //{"coords": [], "date": "2026-08-25"} // Kein Ort gefunden, Raub
 //{"coords": [], "date": "2026-08-25"} // Holthausen, Einbruch
 {"coords": [8.6, 51.6833], "date": "2026-08-25"}, // Einbruch Salzkotten, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-08-25"}, // Delmenhorst, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-08-25"}, // Wiesbaden, gestohlen
+{"coords": [6.85, 49.3], "date": "2026-08-25"}, // Falsche Handwerker Bad Schwalbach, gestohlen
+{"coords": [9.2556, 48.7561], "date": "2026-08-25"}, // Hedelfingen, Dieb
+//{"coords": [], "date": "2026-08-25"} // Bad Cannstatt, eingebrochen
+{"coords": [7.82, 47.99], "date": "2026-08-25"}, // Fahrzeug Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-08-25"}, // Zeugen Freiburg, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-08-25"}, // Zeugen Freiburg, Einbruch
+//{"coords": [], "date": "2026-08-25"} // Kreis, aufbruch

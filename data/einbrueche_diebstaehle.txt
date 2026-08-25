@@ -20988,3 +20988,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-08-25"}, // Werkzeugdiebstahl Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-08-25"}, // Einbruchdiebstahl Augsburg, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-08-25"}, // Augsburg, entwendet
+{"coords": [8.0667, 50.3833], "date": "2026-08-25"}, // Rastplatz Limburg, Diebstahl

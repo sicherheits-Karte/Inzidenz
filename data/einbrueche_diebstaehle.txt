@@ -20969,3 +20969,11 @@
 {"coords": [8.6944, 49.4092], "date": "2026-08-25"}, // Personen Heidelberg, Dieb
 //{"coords": [], "date": "2026-08-25"} // Höhe, Dieb
 //{"coords": [], "date": "2026-08-25"} // Kein Ort gefunden, entwendet
+{"coords": [6.3917, 51.2556], "date": "2026-08-25"}, // Kreis Viersen, Einbrecher
+//{"coords": [], "date": "2026-08-25"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2026-08-25"} // Elmpt, Einbruch
+{"coords": [9.5, 53.7333], "date": "2026-08-25"}, // Zeugen Kollmar, Einbruch
+//{"coords": [], "date": "2026-08-25"} // Ankershagen ist in der Nacht von gestern auf heute ein Anhänger mit einem darauf fest montierten Saugfass gestohlen worden. Dabei handelt es sich um einen Tank mit Benzinmotorpumpe. Und da der oder die Täter einen solchen Anhänger nicht per Hand gezogen haben können, geht die Polizei davon aus, dass sie mit einem Fahrzeug mit, Diebstähle
+{"coords": [6.7623, 51.4344], "date": "2026-08-25"}, // Duisburg, Einbruch
+{"coords": [12.0991, 54.0924], "date": "2026-08-25"}, // Landkreis Rostock, Einbrüche
+{"coords": [10.4, 53.25], "date": "2026-08-25"}, // Lüneburg, Einbruch

@@ -21012,3 +21012,12 @@
 {"coords": [7.2167, 52.2], "date": "2026-08-26"}, // Reitverein Ochtrup, Einbruch
 {"coords": [7.7, 52.2], "date": "2026-08-26"}, // Ladbergen, gestohlen
 {"coords": [6.3917, 51.2556], "date": "2026-08-26"}, // Mädchen Viersen, Raub
+{"coords": [8.6833, 50.5833], "date": "2026-08-26"}, // Ermittlungserfolg Giessen, Diebstahl
+//{"coords": [], "date": "2026-08-26"} // Kreis, gestohlen
+{"coords": [6.7872, 50.6606], "date": "2026-08-26"}, // Scooter Euskirchen, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-08-26"}, // Schmuck Coesfeld, Einbrecher
+{"coords": [7.7, 51.375], "date": "2026-08-26"}, // Diebstählen Iserlohn, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-08-26"}, // Coesfeld, Dieb
+{"coords": [8.5331, 52.021], "date": "2026-08-26"}, // Wettbüro Bielefeld, Einbruch
+//{"coords": [], "date": "2026-08-26"} // Windeck, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-08-26"}, // Mitte, Raub

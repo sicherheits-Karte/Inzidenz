@@ -21065,3 +21065,10 @@
 {"coords": [7.2, 51.6167], "date": "2026-08-26"}, // Recklinghausen, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-08-26"}, // Hildesheim, aufbruch
 {"coords": [7.1508, 51.2562], "date": "2026-08-26"}, // Fürstenstraße Wuppertal, Raub
+{"coords": [10.7333, 50.65], "date": "2026-08-26"}, // Mehlis, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-08-26"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2026-08-26"}, // Visier Bensheim, aufbruch
+{"coords": [8.5331, 52.021], "date": "2026-08-26"}, // Bielefeld, Dieb
+{"coords": [10.4167, 50.55], "date": "2026-08-26"}, // Meiningen, Diebstahl
+{"coords": [6.315, 51.0794], "date": "2026-08-26"}, // Erkelenz, Dieb
+{"coords": [8.6822, 50.1106], "date": "2026-08-26"}, // Raubes Frankfurt, Raub

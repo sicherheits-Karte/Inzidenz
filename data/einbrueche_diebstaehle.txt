@@ -21030,3 +21030,13 @@
 {"coords": [7.3392, 51.3197], "date": "2026-08-26"}, // Gevelsberg, Raub
 {"coords": [11.0299, 50.9848], "date": "2026-08-26"}, // Imbiss Erfurt, Einbruch
 //{"coords": [], "date": "2026-08-26"} // Zeugen Wusterhusen, Diebstahl
+//{"coords": [], "date": "2026-08-26"} // das Gebäude eingedrungen waren. Ersten Überprüfungen zufolge nahmen die Täter mehrere Münzen sowie einen Fahrzeugschlüssel mit. Zeugen, Einbrecher
+{"coords": [9.5, 51.3167], "date": "2026-08-26"}, // Kassel, Dieb
+{"coords": [6.1667, 51.6833], "date": "2026-08-26"}, // Goch, entwendet
+{"coords": [7.7689, 49.4447], "date": "2026-08-26"}, // Fahrzeugen Kaiserslautern, Diebstähle
+{"coords": [10.4508, 50.7211], "date": "2026-08-26"}, // Schmalkalden, Diebstahl
+{"coords": [8.75, 52.3333], "date": "2026-08-26"}, // Werk Hille, Dieb
+{"coords": [10.0, 51.7064], "date": "2026-08-26"}, // Northeim, entwendet
+{"coords": [6.6264, 51.4519], "date": "2026-08-26"}, // Hinweise Moers, Einbruch
+{"coords": [6.3778, 51.6083], "date": "2026-08-26"}, // Gaststätteneinbruch Sonsbeck, Einbruch
+{"coords": [8.7167, 50.9], "date": "2026-08-26"}, // Wetter, Einbruch

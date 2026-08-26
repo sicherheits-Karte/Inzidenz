@@ -21097,3 +21097,4 @@
 {"coords": [10.7956, 51.5019], "date": "2026-08-26"}, // Nordhausen, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-08-26"}, // Haft Köln, Raub
 {"coords": [10.8708, 51.3697], "date": "2026-08-26"}, // Einsatz Sondershausen, Raub
+{"coords": [10.5722, 51.4403], "date": "2026-08-26"}, // Bleicherode, gestohlen

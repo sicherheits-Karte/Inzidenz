@@ -21006,3 +21006,9 @@
 {"coords": [12.5897, 47.8081], "date": "2026-08-26"}, // Werkstatt Bergen, Einbruch
 {"coords": [7.9833, 51.95], "date": "2026-08-26"}, // Warendorf, Einbruch
 {"coords": [7.9139, 51.5528], "date": "2026-08-26"}, // Werl, Diebstahl
+{"coords": [8.5833, 49.8667], "date": "2026-08-26"}, // Zeugen Griesheim, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-08-26"}, // Unfall Aalen, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-08-26"}, // Zeugen Dortmund, Raub
+{"coords": [7.2167, 52.2], "date": "2026-08-26"}, // Reitverein Ochtrup, Einbruch
+{"coords": [7.7, 52.2], "date": "2026-08-26"}, // Ladbergen, gestohlen
+{"coords": [6.3917, 51.2556], "date": "2026-08-26"}, // Mädchen Viersen, Raub

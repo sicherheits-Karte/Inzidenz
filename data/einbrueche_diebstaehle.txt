@@ -21021,3 +21021,12 @@
 {"coords": [8.5331, 52.021], "date": "2026-08-26"}, // Wettbüro Bielefeld, Einbruch
 //{"coords": [], "date": "2026-08-26"} // Windeck, Diebstahl
 {"coords": [8.5833, 53.55], "date": "2026-08-26"}, // Mitte, Raub
+//{"coords": [], "date": "2026-08-26"} // Neu Wulmstorf, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-08-26"}, // Zeugen Freiburg, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-08-26"}, // Sömmerda, gestohlen
+{"coords": [10.4167, 50.55], "date": "2026-08-26"}, // Meiningen, eingebrochen
+{"coords": [11.1167, 51.1667], "date": "2026-08-26"}, // Sömmerda, eingebrochen
+{"coords": [10.0528, 51.1889], "date": "2026-08-26"}, // Zeugen Eschwege, gestohlen
+{"coords": [7.3392, 51.3197], "date": "2026-08-26"}, // Gevelsberg, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-08-26"}, // Imbiss Erfurt, Einbruch
+//{"coords": [], "date": "2026-08-26"} // Zeugen Wusterhusen, Diebstahl

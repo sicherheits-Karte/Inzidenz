@@ -20992,3 +20992,6 @@
 {"coords": [8.9167, 50.1333], "date": "2026-08-25"}, // Zügige Festnahme Hanau, Dieb
 //{"coords": [], "date": "2026-08-26"} // Kreis, Raub
 {"coords": [12.4333, 50.985], "date": "2026-08-26"}, // Altenburg, Einbruch
+//{"coords": [], "date": "2026-08-26"} // Bergisch Gladbach, gestohlen
+{"coords": [8.5833, 53.55], "date": "2026-08-26"}, // Mitte, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-08-26"}, // Erpressung Aalen, Einbruch

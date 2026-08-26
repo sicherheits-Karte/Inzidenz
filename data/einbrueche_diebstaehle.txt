@@ -21078,3 +21078,13 @@
 {"coords": [6.9333, 51.8333], "date": "2026-08-26"}, // Heiden, Raub
 {"coords": [10.8978, 48.3705], "date": "2026-08-26"}, // Diebstahl Augsburg, Diebstahl
 //{"coords": [], "date": "2026-08-26"} // Bad Gandersheim, aufbruch
+{"coords": [9.6775, 50.5528], "date": "2026-08-26"}, // Stall Fulda, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-08-26"}, // Gewerbe Wiesbaden, Einbrüche
+{"coords": [9.4108, 53.1111], "date": "2026-08-26"}, // Rotenburg, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-08-26"}, // Vogelsbergkreis, Einbruch
+{"coords": [9.6106, 47.7828], "date": "2026-08-26"}, // Landkreis Ravensburg Landkreis Ravensburg, Raub
+{"coords": [8.5331, 52.021], "date": "2026-08-26"}, // Bielefeld, Raub
+{"coords": [6.8139, 50.9147], "date": "2026-08-26"}, // Zeugensuche Frechen, entwendet
+{"coords": [6.7735, 51.2277], "date": "2026-08-26"}, // Vorläufige Festnahme Düsseldorf, Einbrecher
+{"coords": [6.8761, 50.8778], "date": "2026-08-26"}, // Hürth, entwendet
+{"coords": [11.3239, 50.9795], "date": "2026-08-26"}, // Weimar, Diebstahl

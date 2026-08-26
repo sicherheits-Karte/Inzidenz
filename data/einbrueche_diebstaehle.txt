@@ -21072,3 +21072,9 @@
 {"coords": [10.4167, 50.55], "date": "2026-08-26"}, // Meiningen, Diebstahl
 {"coords": [6.315, 51.0794], "date": "2026-08-26"}, // Erkelenz, Dieb
 {"coords": [8.6822, 50.1106], "date": "2026-08-26"}, // Raubes Frankfurt, Raub
+{"coords": [9.732, 52.3759], "date": "2026-08-26"}, // Hannover, Raub
+{"coords": [8.3833, 51.9], "date": "2026-08-26"}, // Gütersloh, Raub
+{"coords": [6.4333, 51.2], "date": "2026-08-26"}, // Mönchengladbach, Diebstahl
+{"coords": [6.9333, 51.8333], "date": "2026-08-26"}, // Heiden, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-08-26"}, // Diebstahl Augsburg, Diebstahl
+//{"coords": [], "date": "2026-08-26"} // Bad Gandersheim, aufbruch

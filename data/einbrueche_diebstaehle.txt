@@ -21108,3 +21108,5 @@
 {"coords": [10.8978, 48.3705], "date": "2026-08-27"}, // Diebstahl Augsburg, Diebstahl
 {"coords": [10.25, 50.6833], "date": "2026-08-27"}, // Vogelsberg, Einbruch
 {"coords": [8.5333, 50.0667], "date": "2026-08-27"}, // Kelsterbach, Dieb
+//{"coords": [], "date": "2026-08-27"} // Kein Ort gefunden, Diebstahl
+{"coords": [10.4, 53.25], "date": "2026-08-27"}, // Lüneburg, Diebstahl

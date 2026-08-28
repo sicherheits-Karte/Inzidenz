@@ -21110,3 +21110,10 @@
 {"coords": [8.5333, 50.0667], "date": "2026-08-27"}, // Kelsterbach, Dieb
 //{"coords": [], "date": "2026-08-27"} // Kein Ort gefunden, Diebstahl
 {"coords": [10.4, 53.25], "date": "2026-08-27"}, // Lüneburg, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-08-28"}, // Transporters Diepholz, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-08-28"}, // Wohnhaus Warendorf, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-08-28"}, // Gera, Diebstahl
+{"coords": [6.45, 51.6583], "date": "2026-08-28"}, // Zeugen Xanten, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-08-28"}, // Elektronikgeschäft Einbeck, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-08-28"}, // Einsatz Düsseldorf, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-08-28"}, // Aalen, Einbruch

@@ -21119,3 +21119,6 @@
 {"coords": [10.0936, 48.8372], "date": "2026-08-28"}, // Aalen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-08-28"}, // Freiburg, Diebstahl
 {"coords": [13.0431, 53.905], "date": "2026-08-29"}, // Dieb Demmin, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-08-29"}, // Hofheim, Diebstahl
+//{"coords": [], "date": "2026-08-29"} // Ampelanlage Friedrichsrode, entwendet
+{"coords": [10.6944, 50.6111], "date": "2026-08-29"}, // Zeugenaufruf Suhl, Diebstahl

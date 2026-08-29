@@ -21122,3 +21122,11 @@
 {"coords": [8.4414, 50.0919], "date": "2026-08-29"}, // Hofheim, Diebstahl
 //{"coords": [], "date": "2026-08-29"} // Ampelanlage Friedrichsrode, entwendet
 {"coords": [10.6944, 50.6111], "date": "2026-08-29"}, // Zeugenaufruf Suhl, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-08-29"}, // Drogeneinfluss Limburg, Einbruch
+{"coords": [11.1167, 51.1667], "date": "2026-08-29"}, // Diebstahl Sömmerda, Diebstahl
+{"coords": [7.3, 51.1333], "date": "2026-08-29"}, // Hückeswagen, Raub
+//{"coords": [], "date": "2026-08-29"} // Kein Ort gefunden, entwendet
+{"coords": [9.0667, 50.0], "date": "2026-08-29"}, // und Kleinostheim, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-08-29"}, // Körperverletzung Reutlingen, Einbrüche
+{"coords": [10.45, 52.1667], "date": "2026-08-29"}, // Thiede, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-08-29"}, // Maisfeld Osnabrück, aufbruch

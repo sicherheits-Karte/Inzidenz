@@ -21130,3 +21130,6 @@
 {"coords": [9.2167, 48.4833], "date": "2026-08-29"}, // Körperverletzung Reutlingen, Einbrüche
 {"coords": [10.45, 52.1667], "date": "2026-08-29"}, // Thiede, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-08-29"}, // Maisfeld Osnabrück, aufbruch
+{"coords": [7.5792, 50.4267], "date": "2026-08-29"}, // Bankkarte Bendorf, Diebstahl
+//{"coords": [], "date": "2026-08-29"} // sichtbarer Sachschaden. Wie der Pkw im Bereich der Seitenscheibe geöffnet werden konnte, ist Gegenstand der derzeitigen Ermittlungen, entwendet
+//{"coords": [], "date": "2026-08-29"} // oder mehrere Unbekannte gewaltsam Zutritt zu einem Garten, Einbruch

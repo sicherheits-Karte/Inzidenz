@@ -21118,3 +21118,4 @@
 {"coords": [6.7735, 51.2277], "date": "2026-08-28"}, // Einsatz Düsseldorf, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-08-28"}, // Aalen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-08-28"}, // Freiburg, Diebstahl
+{"coords": [13.0431, 53.905], "date": "2026-08-29"}, // Dieb Demmin, Diebstahl

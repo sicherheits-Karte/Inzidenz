@@ -21137,3 +21137,13 @@
 {"coords": [10.6944, 50.6111], "date": "2026-08-30"}, // Zeugen Suhl, Diebstahl
 //{"coords": [], "date": "2026-08-30"} // Dausfeld, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-08-30"}, // Täterkontakt Hildesheim, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2026-08-30"}, // Uhr Polizeiinspektion Harburg, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-08-30"}, // Visier Dortmund, gestohlen
+{"coords": [8.6306, 53.05], "date": "2026-08-30"}, // Delmenhorst, aufbruch
+{"coords": [7.6333, 51.6167], "date": "2026-08-30"}, // Bergkamen, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-08-30"}, // Lüneburg, Einbruch
+{"coords": [6.9667, 51.2333], "date": "2026-08-30"}, // Polizei Mettmann POL-ME, entwendet
+{"coords": [8.6822, 50.1106], "date": "2026-08-30"}, // Taschendiebstahls Frankfurt, Diebstahl
+//{"coords": [], "date": "2026-08-30"} // Elversberg, Einbruch
+//{"coords": [], "date": "2026-08-30"} // Wiebelskirchen, Einbruch
+{"coords": [8.4167, 49.4], "date": "2026-08-30"}, // Limburgerhof Limburgerhof, Dieb

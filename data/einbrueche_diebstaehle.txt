@@ -21133,3 +21133,7 @@
 {"coords": [7.5792, 50.4267], "date": "2026-08-29"}, // Bankkarte Bendorf, Diebstahl
 //{"coords": [], "date": "2026-08-29"} // sichtbarer Sachschaden. Wie der Pkw im Bereich der Seitenscheibe geöffnet werden konnte, ist Gegenstand der derzeitigen Ermittlungen, entwendet
 //{"coords": [], "date": "2026-08-29"} // oder mehrere Unbekannte gewaltsam Zutritt zu einem Garten, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-08-30"}, // Dreiste Ladendiebin Weimar, Dieb
+{"coords": [10.6944, 50.6111], "date": "2026-08-30"}, // Zeugen Suhl, Diebstahl
+//{"coords": [], "date": "2026-08-30"} // Dausfeld, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-08-30"}, // Täterkontakt Hildesheim, Einbruch

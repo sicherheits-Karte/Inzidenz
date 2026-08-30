@@ -21147,3 +21147,9 @@
 //{"coords": [], "date": "2026-08-30"} // Elversberg, Einbruch
 //{"coords": [], "date": "2026-08-30"} // Wiebelskirchen, Einbruch
 {"coords": [8.4167, 49.4], "date": "2026-08-30"}, // Limburgerhof Limburgerhof, Dieb
+//{"coords": [], "date": "2026-08-30"} // Kues, eingebrochen
+{"coords": [10.0936, 48.8372], "date": "2026-08-30"}, // Einbruch Aalen, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-08-30"}, // Osterholz, Diebstahl
+{"coords": [10.0, 51.7064], "date": "2026-08-30"}, // Northeim, entwendet
+{"coords": [8.4414, 50.0919], "date": "2026-08-30"}, // Park Hofheim, Einbruch
+//{"coords": [], "date": "2026-08-30"} // Altenburger Land, Diebstahl

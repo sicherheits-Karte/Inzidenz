@@ -21153,3 +21153,4 @@
 {"coords": [10.0, 51.7064], "date": "2026-08-30"}, // Northeim, entwendet
 {"coords": [8.4414, 50.0919], "date": "2026-08-30"}, // Park Hofheim, Einbruch
 //{"coords": [], "date": "2026-08-30"} // Altenburger Land, Diebstahl
+//{"coords": [], "date": "2026-08-30"} // Waren, Diebstahl

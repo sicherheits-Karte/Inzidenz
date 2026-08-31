@@ -21176,3 +21176,6 @@
 //{"coords": [], "date": "2026-08-31"} // Bad Cannstatt, eingebrochen
 {"coords": [12.0991, 54.0924], "date": "2026-08-31"}, // Fahrraddiebstählen Rostock, Diebstahl
 {"coords": [8.4414, 50.0919], "date": "2026-08-31"}, // Hofheim, entwendet
+{"coords": [7.0333, 50.0], "date": "2026-08-31"}, // Einfamilienhaus Ürzig, Einbruch
+//{"coords": [], "date": "2026-08-31"} // die Wappenschmiede und das Biosphärenhaus ein, bei denen ein Gesamtschaden von rund, Einbrecher
+{"coords": [9.95, 52.15], "date": "2026-08-31"}, // Zeugenaufruf Hildesheim, Einbruch

@@ -21167,3 +21167,12 @@
 {"coords": [6.6178, 51.6589], "date": "2026-08-31"}, // Imbiss Wesel, Einbruch
 //{"coords": [], "date": "2026-08-31"} // Bergisch Gladbach, entwendet
 {"coords": [10.0831, 52.6247], "date": "2026-08-31"}, // Celle Celle, Diebstahl
+{"coords": [6.9667, 51.2333], "date": "2026-08-31"}, // Polizei Mettmann POL-ME, Raub
+{"coords": [7.9833, 51.95], "date": "2026-08-31"}, // Betäubungsmitteleinfluss Warendorf, Dieb
+{"coords": [10.0936, 48.8372], "date": "2026-08-31"}, // Widerstand Aalen, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-08-31"}, // Viersen, Einbruch
+{"coords": [6.6, 49.7833], "date": "2026-08-31"}, // Aach, entwendet
+{"coords": [8.6514, 49.8728], "date": "2026-08-31"}, // Untersuchungshaft Darmstadt, Diebstahl
+//{"coords": [], "date": "2026-08-31"} // Bad Cannstatt, eingebrochen
+{"coords": [12.0991, 54.0924], "date": "2026-08-31"}, // Fahrraddiebstählen Rostock, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-08-31"}, // Hofheim, entwendet

@@ -21179,3 +21179,4 @@
 {"coords": [7.0333, 50.0], "date": "2026-08-31"}, // Einfamilienhaus Ürzig, Einbruch
 //{"coords": [], "date": "2026-08-31"} // die Wappenschmiede und das Biosphärenhaus ein, bei denen ein Gesamtschaden von rund, Einbrecher
 {"coords": [9.95, 52.15], "date": "2026-08-31"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-09-01"}, // Arnsberg, Raub

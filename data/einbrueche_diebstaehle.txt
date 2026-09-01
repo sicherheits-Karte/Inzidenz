@@ -21180,3 +21180,12 @@
 //{"coords": [], "date": "2026-08-31"} // die Wappenschmiede und das Biosphärenhaus ein, bei denen ein Gesamtschaden von rund, Einbrecher
 {"coords": [9.95, 52.15], "date": "2026-08-31"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [8.0, 51.45], "date": "2026-09-01"}, // Arnsberg, Raub
+{"coords": [8.4043, 49.014], "date": "2026-09-01"}, // Zeugen Karlsruhe, Raub
+{"coords": [9.0958, 54.1958], "date": "2026-09-01"}, // Heide, Diebstahl
+//{"coords": [], "date": "2026-09-01"} // Furtwangen, Diebstahl
+//{"coords": [], "date": "2026-09-01"} // Kreis, Dieb
+{"coords": [9.6403, 47.8061], "date": "2026-09-01"}, // Vereinsheim Weingarten, Einbruch
+//{"coords": [], "date": "2026-09-01"} // Kein Ort gefunden, Diebstähle
+{"coords": [7.9833, 51.95], "date": "2026-09-01"}, // Rollerdiebstahl Warendorf, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-09-01"}, // Vechta, Diebstahl
+{"coords": [8.5331, 52.021], "date": "2026-09-01"}, // Jugendeinrichtung Bielefeld, Einbruch

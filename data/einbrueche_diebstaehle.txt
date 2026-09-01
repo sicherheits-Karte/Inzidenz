@@ -21192,3 +21192,4 @@
 //{"coords": [], "date": "2026-09-01"} // Zizenhausen, gestohlen
 {"coords": [6.3475, 51.2742], "date": "2026-09-01"}, // Dülken, Raub
 {"coords": [7.9167, 52.2833], "date": "2026-09-01"}, // Rädern Lotte, Diebstahl
+{"coords": [7.4614, 50.4286], "date": "2026-09-01"}, // Rohbau Neuwied, Diebstahl

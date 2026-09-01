@@ -21189,3 +21189,6 @@
 {"coords": [7.9833, 51.95], "date": "2026-09-01"}, // Rollerdiebstahl Warendorf, Diebstahl
 {"coords": [8.2869, 52.7303], "date": "2026-09-01"}, // Vechta, Diebstahl
 {"coords": [8.5331, 52.021], "date": "2026-09-01"}, // Jugendeinrichtung Bielefeld, Einbruch
+//{"coords": [], "date": "2026-09-01"} // Zizenhausen, gestohlen
+{"coords": [6.3475, 51.2742], "date": "2026-09-01"}, // Dülken, Raub
+{"coords": [7.9167, 52.2833], "date": "2026-09-01"}, // Rädern Lotte, Diebstahl

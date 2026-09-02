@@ -21195,3 +21195,5 @@
 {"coords": [7.4614, 50.4286], "date": "2026-09-01"}, // Rohbau Neuwied, Diebstahl
 {"coords": [8.4661, 49.4878], "date": "2026-09-01"}, // Mannheim, Raub
 {"coords": [8.4661, 49.4878], "date": "2026-09-02"}, // Mannheim, Raub
+{"coords": [9.95, 52.15], "date": "2026-09-02"}, // Bahnhof Alfeld Hildesheim, aufbrüche
+{"coords": [9.95, 52.15], "date": "2026-09-02"}, // Alfeld Hildesheim, Einbruch

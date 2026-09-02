@@ -21214,3 +21214,9 @@
 {"coords": [7.8139, 52.2194], "date": "2026-09-02"}, // Supermarkt Tecklenburg, Raub
 {"coords": [7.6333, 51.2167], "date": "2026-09-02"}, // Einbrüche Lüdenscheid, Einbrüche
 {"coords": [7.2061, 53.3669], "date": "2026-09-02"}, // Emden, Diebstahl
+{"coords": [8.0169, 50.3714], "date": "2026-09-02"}, // Diez, Einbrüche
+//{"coords": [], "date": "2026-09-02"} // Bad Nenndorf, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-09-02"}, // Reutlingen, gestohlen
+{"coords": [6.9603, 50.9375], "date": "2026-09-02"}, // Ostheim Köln, Raub
+{"coords": [7.2, 51.6167], "date": "2026-09-02"}, // Einbruch Recklinghausen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-09-02"}, // Zeugensuche Duisburg, entwendet

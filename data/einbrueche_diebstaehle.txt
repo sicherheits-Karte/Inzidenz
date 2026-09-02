@@ -21220,3 +21220,5 @@
 {"coords": [6.9603, 50.9375], "date": "2026-09-02"}, // Ostheim Köln, Raub
 {"coords": [7.2, 51.6167], "date": "2026-09-02"}, // Einbruch Recklinghausen, Einbruch
 {"coords": [6.7623, 51.4344], "date": "2026-09-02"}, // Zeugensuche Duisburg, entwendet
+//{"coords": [], "date": "2026-09-02"} // Ruschberg, entwendet
+{"coords": [8.9167, 50.1333], "date": "2026-09-02"}, // Hinweise Hanau, Raub

@@ -21194,3 +21194,4 @@
 {"coords": [7.9167, 52.2833], "date": "2026-09-01"}, // Rädern Lotte, Diebstahl
 {"coords": [7.4614, 50.4286], "date": "2026-09-01"}, // Rohbau Neuwied, Diebstahl
 {"coords": [8.4661, 49.4878], "date": "2026-09-01"}, // Mannheim, Raub
+{"coords": [8.4661, 49.4878], "date": "2026-09-02"}, // Mannheim, Raub

@@ -21197,3 +21197,11 @@
 {"coords": [8.4661, 49.4878], "date": "2026-09-02"}, // Mannheim, Raub
 {"coords": [9.95, 52.15], "date": "2026-09-02"}, // Bahnhof Alfeld Hildesheim, aufbrüche
 {"coords": [9.95, 52.15], "date": "2026-09-02"}, // Alfeld Hildesheim, Einbruch
+//{"coords": [], "date": "2026-09-02"} // Schöppingen, Raub
+{"coords": [6.9603, 50.9375], "date": "2026-09-02"}, // Einbrecher Köln, Einbrecher
+{"coords": [8.9167, 52.3], "date": "2026-09-02"}, // Minden, entwendet
+{"coords": [8.2711, 50.0], "date": "2026-09-02"}, // Anzeigenaufnahme Mainz, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-09-02"}, // Hechtsheimer Geschäft Mainz, Einbruch
+//{"coords": [], "date": "2026-09-02"} // Möhringen, eingebrochen
+{"coords": [10.0, 51.7064], "date": "2026-09-02"}, // Euro Sachschaden Northeim, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-09-02"}, // Gütersloh, eingebrochen

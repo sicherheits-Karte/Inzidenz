@@ -21229,3 +21229,11 @@
 {"coords": [8.1092, 51.5711], "date": "2026-09-03"}, // Zeugen Soest, Diebstahl
 {"coords": [9.3903, 52.6542], "date": "2026-09-03"}, // Steimbke, Diebstahl
 {"coords": [10.8, 53.4833], "date": "2026-09-03"}, // Kfz Greven, Diebstahl
+{"coords": [8.6331, 52.3775], "date": "2026-09-03"}, // Werk Espelkamp, eingebrochen
+{"coords": [7.1675, 51.9436], "date": "2026-09-03"}, // Coesfeld, gestohlen
+//{"coords": [], "date": "2026-09-03"} // Kreis, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-09-03"}, // Diebstahl Düren, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-09-03"}, // Polizei Osnabrück Warendorf, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-09-03"}, // Wiesbaden, Einbrüche
+{"coords": [9.8667, 51.8167], "date": "2026-09-03"}, // Kennzeichendiebstahl Einbeck, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-09-03"}, // Zeugenaufruf Cuxhaven, Einbruch

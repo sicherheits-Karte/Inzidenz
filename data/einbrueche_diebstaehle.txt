@@ -21222,3 +21222,10 @@
 {"coords": [6.7623, 51.4344], "date": "2026-09-02"}, // Zeugensuche Duisburg, entwendet
 //{"coords": [], "date": "2026-09-02"} // Ruschberg, entwendet
 {"coords": [8.9167, 50.1333], "date": "2026-09-02"}, // Hinweise Hanau, Raub
+//{"coords": [], "date": "2026-09-03"} // Eisental, Einbruch
+{"coords": [7.35, 52.15], "date": "2026-09-03"}, // Korrektur Steinfurt, Raub
+{"coords": [13.2611, 53.5569], "date": "2026-09-03"}, // Hohendorf Neubrandenburg, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2026-09-03"}, // Zeugen Nienburg, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2026-09-03"}, // Zeugen Soest, Diebstahl
+{"coords": [9.3903, 52.6542], "date": "2026-09-03"}, // Steimbke, Diebstahl
+{"coords": [10.8, 53.4833], "date": "2026-09-03"}, // Kfz Greven, Diebstahl

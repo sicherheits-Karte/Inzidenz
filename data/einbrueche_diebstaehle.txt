@@ -21237,3 +21237,10 @@
 {"coords": [8.24, 50.0822], "date": "2026-09-03"}, // Wiesbaden, Einbrüche
 {"coords": [9.8667, 51.8167], "date": "2026-09-03"}, // Kennzeichendiebstahl Einbeck, Diebstahl
 {"coords": [8.6944, 53.8619], "date": "2026-09-03"}, // Zeugenaufruf Cuxhaven, Einbruch
+{"coords": [6.5244, 49.9742], "date": "2026-09-03"}, // Folgemeldung Bitburg, stahl
+{"coords": [10.8708, 51.3697], "date": "2026-09-03"}, // Sondershausen, Raub
+//{"coords": [], "date": "2026-09-03"} // Täter Borxleben, Diebstahl
+{"coords": [7.1861, 49.6583], "date": "2026-09-03"}, // Geschäft Birkenfeld, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-09-03"}, // Kindertagesstätte Giessen, Einbruch
+//{"coords": [], "date": "2026-09-03"} // Einsatz Bad Frankenhausen, Raub
+{"coords": [9.5694, 54.5153], "date": "2026-09-03"}, // Schleswig, Räuber

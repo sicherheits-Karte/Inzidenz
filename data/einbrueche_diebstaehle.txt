@@ -21244,3 +21244,4 @@
 {"coords": [8.6833, 50.5833], "date": "2026-09-03"}, // Kindertagesstätte Giessen, Einbruch
 //{"coords": [], "date": "2026-09-03"} // Einsatz Bad Frankenhausen, Raub
 {"coords": [9.5694, 54.5153], "date": "2026-09-03"}, // Schleswig, Räuber
+{"coords": [8.4311, 49.3194], "date": "2026-09-04"}, // Speyer, Einbruch

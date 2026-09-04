@@ -21264,3 +21264,9 @@
 {"coords": [8.705, 48.895], "date": "2026-09-04"}, // Pforzheim, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-09-04"}, // Balkon Reutlingen, Einbruch
 //{"coords": [], "date": "2026-09-04"} // Zeugen Lehre, Einbruch
+{"coords": [9.1753, 47.6633], "date": "2026-09-04"}, // Konstanz, gestohlen
+{"coords": [8.6833, 52.15], "date": "2026-09-04"}, // Herford, Diebstahl
+//{"coords": [], "date": "2026-09-04"} // Bad Segeberg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-09-04"}, // Schmorbrand Aalen, Diebstahl
+{"coords": [7.4653, 51.5136], "date": "2026-09-04"}, // Untersuchungshaft Dortmund, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-09-04"}, // Bonn, Dieb

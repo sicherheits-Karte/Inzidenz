@@ -21255,3 +21255,12 @@
 {"coords": [6.5167, 51.4833], "date": "2026-09-04"}, // Lintfort, eingebrochen
 {"coords": [7.75, 51.3833], "date": "2026-09-04"}, // Fenster Hemer, Einbruch
 {"coords": [6.8889, 49.9858], "date": "2026-09-04"}, // Diebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2026-09-04"} // Burbach, Einbruch
+//{"coords": [], "date": "2026-09-04"} // Netphen, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-09-04"}, // Flucht Bielefeld, Dieb
+{"coords": [8.8667, 51.9333], "date": "2026-09-04"}, // Lippe, Einbrecher
+{"coords": [8.1128, 49.1994], "date": "2026-09-04"}, // Justizvollzugsanstalt Landau, Diebstahl
+//{"coords": [], "date": "2026-09-04"} // Kreis, stahl
+{"coords": [8.705, 48.895], "date": "2026-09-04"}, // Pforzheim, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-09-04"}, // Balkon Reutlingen, Einbruch
+//{"coords": [], "date": "2026-09-04"} // Zeugen Lehre, Einbruch

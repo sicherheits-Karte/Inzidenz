@@ -21270,3 +21270,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-09-04"}, // Schmorbrand Aalen, Diebstahl
 {"coords": [7.4653, 51.5136], "date": "2026-09-04"}, // Untersuchungshaft Dortmund, Einbruch
 {"coords": [7.0982, 50.7374], "date": "2026-09-04"}, // Bonn, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-09-04"}, // Polizeieinsatz Reutlingen, Raub

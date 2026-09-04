@@ -21245,3 +21245,13 @@
 //{"coords": [], "date": "2026-09-03"} // Einsatz Bad Frankenhausen, Raub
 {"coords": [9.5694, 54.5153], "date": "2026-09-03"}, // Schleswig, Räuber
 {"coords": [8.4311, 49.3194], "date": "2026-09-04"}, // Speyer, Einbruch
+{"coords": [8.1667, 51.6833], "date": "2026-09-04"}, // Beute Lippetal, Einbruch
+{"coords": [7.9167, 51.5833], "date": "2026-09-04"}, // Hövel, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-09-04"}, // Zeugenaufruf Hildesheim, entwendet
+{"coords": [7.215, 51.1397], "date": "2026-09-04"}, // Dabringhausen Wermelskirchen, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2026-09-04"}, // Greiz, gestohlen
+{"coords": [12.1997, 50.6544], "date": "2026-09-04"}, // Greiz, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-09-04"}, // Altenburg, Einbruch
+{"coords": [6.5167, 51.4833], "date": "2026-09-04"}, // Lintfort, eingebrochen
+{"coords": [7.75, 51.3833], "date": "2026-09-04"}, // Fenster Hemer, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-09-04"}, // Diebstahl Wittlich, Diebstahl

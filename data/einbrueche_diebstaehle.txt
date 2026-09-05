@@ -21293,3 +21293,4 @@
 {"coords": [8.0472, 52.2799], "date": "2026-09-05"}, // Umspannwerks Osnabrück, Raub
 {"coords": [8.5167, 53.65], "date": "2026-09-05"}, // Hafen Wremen Brake, Einbruch
 {"coords": [8.875, 53.05], "date": "2026-09-05"}, // Osterholz, Diebstahl
+{"coords": [6.1353, 51.7875], "date": "2026-09-05"}, // Kleve, Diebstahl

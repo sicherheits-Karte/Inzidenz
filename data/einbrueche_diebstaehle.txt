@@ -21288,3 +21288,8 @@
 //{"coords": [], "date": "2026-09-05"} // Mertesdorf, Diebstahl
 //{"coords": [], "date": "2026-09-05"} // Linsengericht, Raub
 {"coords": [8.6822, 50.1106], "date": "2026-09-05"}, // Hörgerätediebstahl Frankfurt, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-09-05"}, // Hofheim, entwendet
+{"coords": [8.0667, 50.3833], "date": "2026-09-05"}, // Limburg, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-09-05"}, // Umspannwerks Osnabrück, Raub
+{"coords": [8.5167, 53.65], "date": "2026-09-05"}, // Hafen Wremen Brake, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-09-05"}, // Osterholz, Diebstahl

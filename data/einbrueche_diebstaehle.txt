@@ -21278,3 +21278,8 @@
 {"coords": [11.0299, 50.9848], "date": "2026-09-05"}, // Erfurt, entwendet
 {"coords": [7.3392, 51.3197], "date": "2026-09-05"}, // Mehrfamilienhaus Gevelsberg, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-09-05"}, // Aalen, Raub
+//{"coords": [], "date": "2026-09-05"} // Edesheim, gestohlen
+{"coords": [8.1272, 49.2839], "date": "2026-09-05"}, // Edenkoben, entwendet
+{"coords": [9.8333, 53.95], "date": "2026-09-05"}, // Tatverdächtigen Hagen, Diebstahl
+//{"coords": [], "date": "2026-09-05"} // Radolfzell, Einbruch
+{"coords": [8.3667, 49.2167], "date": "2026-09-05"}, // Wohnhaus Germersheim, Einbruch

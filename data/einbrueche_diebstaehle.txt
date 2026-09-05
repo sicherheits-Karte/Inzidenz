@@ -21273,3 +21273,8 @@
 {"coords": [9.2167, 48.4833], "date": "2026-09-04"}, // Polizeieinsatz Reutlingen, Raub
 //{"coords": [], "date": "2026-09-04"} // Kreis, Raub
 //{"coords": [], "date": "2026-09-05"} // Kreis, Raub
+{"coords": [10.0722, 51.3625], "date": "2026-09-05"}, // Mehrere Kellereinbrüche Uder, Einbrüche
+//{"coords": [], "date": "2026-09-05"} // Zeugen Laar, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-09-05"}, // Erfurt, entwendet
+{"coords": [7.3392, 51.3197], "date": "2026-09-05"}, // Mehrfamilienhaus Gevelsberg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-09-05"}, // Aalen, Raub

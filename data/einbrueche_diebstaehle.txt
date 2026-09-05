@@ -21272,3 +21272,4 @@
 {"coords": [7.0982, 50.7374], "date": "2026-09-04"}, // Bonn, Dieb
 {"coords": [9.2167, 48.4833], "date": "2026-09-04"}, // Polizeieinsatz Reutlingen, Raub
 //{"coords": [], "date": "2026-09-04"} // Kreis, Raub
+//{"coords": [], "date": "2026-09-05"} // Kreis, Raub

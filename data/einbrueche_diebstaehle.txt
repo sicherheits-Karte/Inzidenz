@@ -21283,3 +21283,8 @@
 {"coords": [9.8333, 53.95], "date": "2026-09-05"}, // Tatverdächtigen Hagen, Diebstahl
 //{"coords": [], "date": "2026-09-05"} // Radolfzell, Einbruch
 {"coords": [8.3667, 49.2167], "date": "2026-09-05"}, // Wohnhaus Germersheim, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-09-05"}, // Oldenburg, stahl
+{"coords": [7.7806, 53.5769], "date": "2026-09-05"}, // Wittmund, entwendet
+//{"coords": [], "date": "2026-09-05"} // Mertesdorf, Diebstahl
+//{"coords": [], "date": "2026-09-05"} // Linsengericht, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-09-05"}, // Hörgerätediebstahl Frankfurt, Diebstahl

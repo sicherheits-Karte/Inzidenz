@@ -21295,3 +21295,6 @@
 {"coords": [8.875, 53.05], "date": "2026-09-05"}, // Osterholz, Diebstahl
 {"coords": [6.1353, 51.7875], "date": "2026-09-05"}, // Kleve, Diebstahl
 {"coords": [10.4278, 51.9042], "date": "2026-09-05"}, // Vermisstensuche Goslar, Raub
+{"coords": [8.3667, 49.2167], "date": "2026-09-06"}, // Tatort Germersheim, Diebstahl
+{"coords": [8.2794, 49.1983], "date": "2026-09-06"}, // Einfamilienhaus Bellheim, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-09-06"}, // Hordel Bochum, Einbruch

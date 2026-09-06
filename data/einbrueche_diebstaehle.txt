@@ -21309,3 +21309,7 @@
 {"coords": [6.9889, 51.8944], "date": "2026-09-06"}, // Velen, Einbrecher
 {"coords": [7.0, 52.05], "date": "2026-09-06"}, // Legden, eingebrochen
 {"coords": [6.6153, 51.8367], "date": "2026-09-06"}, // Bocholt, entwendet
+//{"coords": [], "date": "2026-09-06"} // Bad Gandersheim, Einbruch
+//{"coords": [], "date": "2026-09-06"} // Edigheim, Raub
+{"coords": [10.8, 53.4833], "date": "2026-09-06"}, // Stadt Greven, Raub
+{"coords": [6.6178, 51.6589], "date": "2026-09-06"}, // Einsatz Wesel, Raub

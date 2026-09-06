@@ -21305,3 +21305,7 @@
 //{"coords": [], "date": "2026-09-06"} // Höhe, Einbruch
 {"coords": [6.85, 49.3], "date": "2026-09-06"}, // Bad Schwalbach, entwendet
 {"coords": [8.0472, 52.2799], "date": "2026-09-06"}, // Motorrads Osnabrück, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-09-06"}, // Wohnungseinbruchsdiebstahl Wittlich, Einbruch
+{"coords": [6.9889, 51.8944], "date": "2026-09-06"}, // Velen, Einbrecher
+{"coords": [7.0, 52.05], "date": "2026-09-06"}, // Legden, eingebrochen
+{"coords": [6.6153, 51.8367], "date": "2026-09-06"}, // Bocholt, entwendet

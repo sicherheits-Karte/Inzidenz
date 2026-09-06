@@ -21298,3 +21298,10 @@
 {"coords": [8.3667, 49.2167], "date": "2026-09-06"}, // Tatort Germersheim, Diebstahl
 {"coords": [8.2794, 49.1983], "date": "2026-09-06"}, // Einfamilienhaus Bellheim, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-09-06"}, // Hordel Bochum, Einbruch
+{"coords": [9.5831, 52.8619], "date": "2026-09-06"}, // Wohnhaus Walsrode, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2026-09-06"}, // Wittmund, entwendet
+{"coords": [8.6822, 50.1106], "date": "2026-09-06"}, // Zeugenaufruf Frankfurt, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-09-06"}, // Aufbruch Frankfurt, aufbruch
+//{"coords": [], "date": "2026-09-06"} // Höhe, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-09-06"}, // Bad Schwalbach, entwendet
+{"coords": [8.0472, 52.2799], "date": "2026-09-06"}, // Motorrads Osnabrück, Diebstahl

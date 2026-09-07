@@ -21316,3 +21316,10 @@
 {"coords": [10.0936, 48.8372], "date": "2026-09-07"}, // Polizeibeamte Aalen, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2026-09-07"}, // Landau, Dieb
 //{"coords": [], "date": "2026-09-07"} // Fahrzeug Bettenfeld, Diebstahl
+//{"coords": [], "date": "2026-09-07"} // Zeugen Bad Kreuznach, Diebstahl
+{"coords": [9.9158, 51.5413], "date": "2026-09-07"}, // Kombi Göttingen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-09-07"}, // Recklinghausen, gestohlen
+{"coords": [7.35, 52.15], "date": "2026-09-07"}, // Steinfurt, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-09-07"}, // Mitte, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-09-07"}, // Bielefeld, Einbrüche
+{"coords": [7.75, 51.6333], "date": "2026-09-07"}, // Herringen, Einbruch

@@ -21328,3 +21328,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-09-07"}, // Brandlegung Augsburg, klau
 {"coords": [10.8978, 48.3705], "date": "2026-09-07"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [6.2833, 50.8167], "date": "2026-09-07"}, // Eschweiler, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-09-07"}, // Aufbruch Aalen, aufbruch

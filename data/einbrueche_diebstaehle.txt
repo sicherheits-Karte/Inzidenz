@@ -21323,3 +21323,8 @@
 {"coords": [8.5833, 53.55], "date": "2026-09-07"}, // Mitte, Einbruch
 {"coords": [8.5331, 52.021], "date": "2026-09-07"}, // Bielefeld, Einbrüche
 {"coords": [7.75, 51.6333], "date": "2026-09-07"}, // Herringen, Einbruch
+{"coords": [9.732, 52.3759], "date": "2026-09-07"}, // Zeugen Hannover, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-09-07"}, // Sportgaststätte Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-09-07"}, // Brandlegung Augsburg, klau
+{"coords": [10.8978, 48.3705], "date": "2026-09-07"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [6.2833, 50.8167], "date": "2026-09-07"}, // Eschweiler, Raub

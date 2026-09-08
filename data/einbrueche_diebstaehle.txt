@@ -21344,3 +21344,11 @@
 {"coords": [8.2711, 50.0], "date": "2026-09-08"}, // Modegeschäft Mainz, Diebstahl
 {"coords": [8.2711, 50.0], "date": "2026-09-08"}, // Mainz, Diebstahl
 {"coords": [8.2711, 50.0], "date": "2026-09-08"}, // Bier Mainz, Dieb
+{"coords": [10.8978, 48.3705], "date": "2026-09-08"}, // Trickdiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-09-08"}, // Pkw Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-09-08"}, // Fahrraddiebstahl Augsburg, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-09-08"}, // Schulgebäude Hofheim, Einbruch
+{"coords": [8.8731, 51.275], "date": "2026-09-08"}, // Korbach Korbach, Einbrüche
+{"coords": [8.0472, 52.2799], "date": "2026-09-08"}, // Zeugen Osnabrück, Diebstähle
+//{"coords": [], "date": "2026-09-08"} // Höhe, entwendet
+//{"coords": [], "date": "2026-09-08"} // Wohnhaus, Einbruch

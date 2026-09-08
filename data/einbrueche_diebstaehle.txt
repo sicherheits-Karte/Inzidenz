@@ -21335,3 +21335,12 @@
 {"coords": [11.5862, 50.9271], "date": "2026-09-08"}, // Container Jena, Einbruch
 {"coords": [10.7333, 50.65], "date": "2026-09-08"}, // Mehlis, Einbruch
 {"coords": [9.0492, 52.2603], "date": "2026-09-08"}, // Fahrraddiebstahl Bückeburg, Diebstahl
+{"coords": [7.2431, 51.3464], "date": "2026-09-08"}, // Sprockhövel, gestohlen
+//{"coords": [], "date": "2026-09-08"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2026-09-08"} // Fahrzeugen Winsen, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-09-08"}, // Unterstraße Wuppertal, Raub
+{"coords": [7.6333, 51.2167], "date": "2026-09-08"}, // Einbrecher Lüdenscheid, Einbrecher
+{"coords": [7.6333, 51.1], "date": "2026-09-08"}, // Falsche Handwerker Meinerzhagen, entwendet
+{"coords": [8.2711, 50.0], "date": "2026-09-08"}, // Modegeschäft Mainz, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-09-08"}, // Mainz, Diebstahl
+{"coords": [8.2711, 50.0], "date": "2026-09-08"}, // Bier Mainz, Dieb

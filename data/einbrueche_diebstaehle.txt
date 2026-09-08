@@ -21352,3 +21352,10 @@
 {"coords": [8.0472, 52.2799], "date": "2026-09-08"}, // Zeugen Osnabrück, Diebstähle
 //{"coords": [], "date": "2026-09-08"} // Höhe, entwendet
 //{"coords": [], "date": "2026-09-08"} // Wohnhaus, Einbruch
+{"coords": [10.6583, 51.2464], "date": "2026-09-08"}, // Zeugen Schlotheim, Einbruch
+//{"coords": [], "date": "2026-09-08"} // Epfendorf, Diebstähle
+{"coords": [8.0667, 50.3833], "date": "2026-09-08"}, // Limburg, gestohlen
+{"coords": [6.85, 49.3], "date": "2026-09-08"}, // Schule Bad Schwalbach, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-09-08"}, // Hinweise Osnabrück, stehlen
+{"coords": [7.0982, 50.7374], "date": "2026-09-08"}, // Hinweise Bonn, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-09-08"}, // Augsburg, eingebrochen

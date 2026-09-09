@@ -21379,3 +21379,7 @@
 //{"coords": [], "date": "2026-09-09"} // Kein Ort gefunden, Diebstahl
 {"coords": [6.45, 51.3167], "date": "2026-09-09"}, // Tönis, gestohlen
 //{"coords": [], "date": "2026-09-09"} // Kein Ort gefunden, gestohlen
+{"coords": [7.3, 51.1333], "date": "2026-09-09"}, // Einsatz Hückeswagen, Raub
+{"coords": [7.0667, 52.4333], "date": "2026-09-09"}, // Nordhorn, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-09-09"}, // Verkehrsunfall Reutlingen, Einbruch
+//{"coords": [], "date": "2026-09-09"} // Mehrfamilienhaus Bad Pyrmont, Einbrecher

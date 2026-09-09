@@ -21363,3 +21363,13 @@
 {"coords": [10.0936, 48.8372], "date": "2026-09-09"}, // Aalen, Raub
 {"coords": [8.25, 49.2], "date": "2026-09-09"}, // Herxheim, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2026-09-09"}, // Schäden Hannover, Raub
+{"coords": [8.6833, 52.15], "date": "2026-09-09"}, // Gebüsch Herford, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2026-09-09"}, // Nürnberg, entwendet
+{"coords": [8.7667, 50.1], "date": "2026-09-09"}, // Kreis Offenbach, entwendet
+{"coords": [6.7623, 51.4344], "date": "2026-09-09"}, // Duisburg, Raub
+//{"coords": [], "date": "2026-09-09"} // Zeugensuche Bergheim, entwendet
+{"coords": [8.2711, 50.0], "date": "2026-09-09"}, // Betrug Mainz, Diebstahl
+//{"coords": [], "date": "2026-09-09"} // Weimarer Land, Einbruch
+{"coords": [11.5862, 50.9271], "date": "2026-09-09"}, // Jena, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2026-09-09"}, // Zeuge Wolfsburg, Einbruch
+{"coords": [7.1667, 50.8167], "date": "2026-09-09"}, // Troisdorf, gestohlen

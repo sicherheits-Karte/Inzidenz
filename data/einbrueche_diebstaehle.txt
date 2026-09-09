@@ -21383,3 +21383,4 @@
 {"coords": [7.0667, 52.4333], "date": "2026-09-09"}, // Nordhorn, entwendet
 {"coords": [9.2167, 48.4833], "date": "2026-09-09"}, // Verkehrsunfall Reutlingen, Einbruch
 //{"coords": [], "date": "2026-09-09"} // Mehrfamilienhaus Bad Pyrmont, Einbrecher
+{"coords": [7.82, 47.99], "date": "2026-09-09"}, // Freiburg, Einbrüche

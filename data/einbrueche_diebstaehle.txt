@@ -21384,3 +21384,13 @@
 {"coords": [9.2167, 48.4833], "date": "2026-09-09"}, // Verkehrsunfall Reutlingen, Einbruch
 //{"coords": [], "date": "2026-09-09"} // Mehrfamilienhaus Bad Pyrmont, Einbrecher
 {"coords": [7.82, 47.99], "date": "2026-09-09"}, // Freiburg, Einbrüche
+{"coords": [8.0472, 52.2799], "date": "2026-09-10"}, // Ladendiebstahl Osnabrück, Diebstahl
+{"coords": [8.7167, 49.9167], "date": "2026-09-10"}, // Tipps Messel, hab und gut
+//{"coords": [], "date": "2026-09-10"} // Emmerthal, Raub
+//{"coords": [], "date": "2026-09-10"} // Kogel Kogel, Einbruch
+{"coords": [8.6514, 49.8728], "date": "2026-09-10"}, // Zeugen Darmstadt, Einbrecher
+{"coords": [6.7623, 51.4344], "date": "2026-09-10"}, // Duisburg, gestohlen
+//{"coords": [], "date": "2026-09-10"} // Kreis, Raub
+{"coords": [9.9916, 48.3984], "date": "2026-09-10"}, // Ulm, Dieb
+{"coords": [7.75, 51.3833], "date": "2026-09-10"}, // Taschendiebin Hemer, Dieb
+{"coords": [11.9, 49.95], "date": "2026-09-10"}, // Brand. Der Wind wehte die brennenden Zeitungen in ein nahes Waldstück und entzündeten einen Bereich von zwei bis drei Quadratmetern. Dank des schnellen Eingreifens der Feuerwehr konnte eine Ausbreitung des Feuers verhindert werden. Die Polizei, Dieb

@@ -21408,3 +21408,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-09-10"}, // Bronzefigur Augsburg, Diebstahl
 {"coords": [10.5333, 51.4167], "date": "2026-09-10"}, // Sollstedt, eingebrochen
 //{"coords": [], "date": "2026-09-10"} // Bad Frankenhausen, eingebrochen
+//{"coords": [], "date": "2026-09-11"} // Gemarkung Dieblich, Dieb

@@ -21401,3 +21401,10 @@
 {"coords": [8.8731, 51.275], "date": "2026-09-10"}, // Korbach, Einbrecher
 {"coords": [8.8075, 53.075], "date": "2026-09-10"}, // Innenstadt-- Bremen, eingebrochen
 {"coords": [9.95, 52.15], "date": "2026-09-10"}, // Hildesheim, Einbrüche
+{"coords": [8.0667, 50.3833], "date": "2026-09-10"}, // Führerschein Limburg, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2026-09-10"}, // Coesfeld, Dieb
+{"coords": [11.1667, 51.3], "date": "2026-09-10"}, // Oldisleben, gestohlen
+{"coords": [10.7956, 51.5019], "date": "2026-09-10"}, // Diebesgut Nordhausen, Dieb
+{"coords": [10.8978, 48.3705], "date": "2026-09-10"}, // Bronzefigur Augsburg, Diebstahl
+{"coords": [10.5333, 51.4167], "date": "2026-09-10"}, // Sollstedt, eingebrochen
+//{"coords": [], "date": "2026-09-10"} // Bad Frankenhausen, eingebrochen

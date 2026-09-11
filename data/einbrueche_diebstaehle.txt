@@ -21432,3 +21432,4 @@
 {"coords": [9.4108, 53.1111], "date": "2026-09-11"}, // Rotenburg, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2026-09-11"}, // Nordhausen, entwendet
 {"coords": [9.55, 49.3167], "date": "2026-09-11"}, // Hohenlohekreis, Raub
+//{"coords": [], "date": "2026-09-11"} // Föhrlenberg Leinsweiler, Raub

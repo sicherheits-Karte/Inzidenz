@@ -21415,3 +21415,13 @@
 {"coords": [12.1997, 50.6544], "date": "2026-09-11"}, // Greiz, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-09-11"}, // Wohnung Wittlich, Diebstahl
 {"coords": [7.85, 51.6333], "date": "2026-09-11"}, // Rhynern, Einbruch
+{"coords": [7.75, 51.3833], "date": "2026-09-11"}, // Leiterdiebe Hemer, Dieb
+{"coords": [8.4333, 49.4333], "date": "2026-09-11"}, // Gartenstadt, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-09-11"}, // Ludwigsburg, Dieb
+{"coords": [10.4, 53.25], "date": "2026-09-11"}, // Straßenbaum Lüneburg, Raub
+//{"coords": [], "date": "2026-09-11"} // der Danziger Straße, Raub
+{"coords": [10.6639, 51.5867], "date": "2026-09-11"}, // Sicherungsschloss Ellrich, Diebstahl
+{"coords": [6.0839, 50.7753], "date": "2026-09-11"}, // Raubüberfall Aachen, Raub
+{"coords": [6.6264, 51.4519], "date": "2026-09-11"}, // Zeugen Moers, Einbruch
+{"coords": [6.55, 51.4667], "date": "2026-09-11"}, // Vluyn, aufbruch
+{"coords": [6.7623, 51.4344], "date": "2026-09-11"}, // Zeugensuche Duisburg, Diebstahl

@@ -21409,3 +21409,9 @@
 {"coords": [10.5333, 51.4167], "date": "2026-09-10"}, // Sollstedt, eingebrochen
 //{"coords": [], "date": "2026-09-10"} // Bad Frankenhausen, eingebrochen
 //{"coords": [], "date": "2026-09-11"} // Gemarkung Dieblich, Dieb
+//{"coords": [], "date": "2026-09-11"} // Kein Ort gefunden, gestohlen
+{"coords": [8.2146, 53.1434], "date": "2026-09-11"}, // Oldenburg, entwendet
+{"coords": [8.24, 50.0822], "date": "2026-09-11"}, // Wiesbaden, Raub
+{"coords": [12.1997, 50.6544], "date": "2026-09-11"}, // Greiz, Diebstahl
+{"coords": [6.8889, 49.9858], "date": "2026-09-11"}, // Wohnung Wittlich, Diebstahl
+{"coords": [7.85, 51.6333], "date": "2026-09-11"}, // Rhynern, Einbruch

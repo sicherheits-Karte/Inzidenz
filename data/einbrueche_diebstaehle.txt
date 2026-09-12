@@ -21443,3 +21443,8 @@
 //{"coords": [], "date": "2026-09-12"} // West, Raub
 {"coords": [8.5861, 52.1983], "date": "2026-09-12"}, // Bünde, entwendet
 //{"coords": [], "date": "2026-09-12"} // Rhein, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2026-09-12"}, // Diepholz, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-09-12"}, // Osterholz, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2026-09-12"}, // Wittmund, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-09-12"}, // Limburg, Diebstahl
+{"coords": [9.6106, 47.7828], "date": "2026-09-12"}, // Landkreis Ravensburg Ravensburg, geklaut

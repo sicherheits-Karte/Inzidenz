@@ -21448,3 +21448,6 @@
 {"coords": [7.7806, 53.5769], "date": "2026-09-12"}, // Wittmund, Dieb
 {"coords": [8.0667, 50.3833], "date": "2026-09-12"}, // Limburg, Diebstahl
 {"coords": [9.6106, 47.7828], "date": "2026-09-12"}, // Landkreis Ravensburg Ravensburg, geklaut
+{"coords": [8.4414, 50.0919], "date": "2026-09-12"}, // Neubaus Hofheim, entwendet
+{"coords": [6.9667, 49.5167], "date": "2026-09-12"}, // Primstal, Diebstahl
+//{"coords": [], "date": "2026-09-12"} // Kreis, Raub

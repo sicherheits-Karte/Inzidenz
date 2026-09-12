@@ -21451,3 +21451,6 @@
 {"coords": [8.4414, 50.0919], "date": "2026-09-12"}, // Neubaus Hofheim, entwendet
 {"coords": [6.9667, 49.5167], "date": "2026-09-12"}, // Primstal, Diebstahl
 //{"coords": [], "date": "2026-09-12"} // Kreis, Raub
+{"coords": [14.2667, 52.1], "date": "2026-09-12"}, // Tatortnähe Friedland, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-09-12"}, // Landkreis Gotha, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-09-12"}, // Landkreis Gotha, Diebstahl

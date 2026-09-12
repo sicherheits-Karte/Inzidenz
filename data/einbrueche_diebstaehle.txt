@@ -21433,3 +21433,6 @@
 {"coords": [10.7956, 51.5019], "date": "2026-09-11"}, // Nordhausen, entwendet
 {"coords": [9.55, 49.3167], "date": "2026-09-11"}, // Hohenlohekreis, Raub
 //{"coords": [], "date": "2026-09-11"} // Föhrlenberg Leinsweiler, Raub
+//{"coords": [], "date": "2026-09-12"} // Quint, Diebstahl
+{"coords": [6.4333, 50.2], "date": "2026-09-12"}, // Prüm, Diebstahl
+//{"coords": [], "date": "2026-09-12"} // Hürtgenwald, Raub

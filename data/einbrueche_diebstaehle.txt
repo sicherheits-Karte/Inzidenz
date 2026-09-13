@@ -21455,3 +21455,9 @@
 {"coords": [10.7183, 50.9489], "date": "2026-09-12"}, // Landkreis Gotha, entwendet
 {"coords": [10.7183, 50.9489], "date": "2026-09-12"}, // Landkreis Gotha, Diebstahl
 {"coords": [7.2, 51.6167], "date": "2026-09-13"}, // Hinweise Recklinghausen, Raub
+{"coords": [6.8889, 49.9858], "date": "2026-09-13"}, // Wittlich, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2026-09-13"}, // Kfz Suhl, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-09-13"}, // Zigarettenautomat Mühlhausen, Diebstahl
+//{"coords": [], "date": "2026-09-13"} // Garage Bad Langensalza, Diebstahl
+//{"coords": [], "date": "2026-09-13"} // Lagerhalle Bad Langensalza, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-09-13"}, // Pkw Jena, Diebstahl

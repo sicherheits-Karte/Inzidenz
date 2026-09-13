@@ -21468,3 +21468,10 @@
 {"coords": [7.7806, 53.5769], "date": "2026-09-13"}, // Wittmund, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-09-13"}, // Verkehrsunfall Reutlingen, Einbruch
 {"coords": [11.0767, 49.4521], "date": "2026-09-13"}, // Festnahme Nürnberg, Dieb
+//{"coords": [], "date": "2026-09-13"} // Verkehrsschildes Mudenbach, Diebstahl
+//{"coords": [], "date": "2026-09-13"} // Keller entwendet mehr, entwendet
+//{"coords": [], "date": "2026-09-13"} // Höhe, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-09-13"}, // Landkreis Gotha, entwendet
+{"coords": [10.7183, 50.9489], "date": "2026-09-13"}, // Landkreis Gotha, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-09-13"}, // Landkreis Gotha, Diebstähle
+{"coords": [6.6594, 50.2228], "date": "2026-09-13"}, // Fahrzeugen Gerolstein, Diebstahl

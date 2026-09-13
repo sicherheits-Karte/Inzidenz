@@ -21454,3 +21454,4 @@
 {"coords": [14.2667, 52.1], "date": "2026-09-12"}, // Tatortnähe Friedland, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-09-12"}, // Landkreis Gotha, entwendet
 {"coords": [10.7183, 50.9489], "date": "2026-09-12"}, // Landkreis Gotha, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-09-13"}, // Hinweise Recklinghausen, Raub

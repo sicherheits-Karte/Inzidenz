@@ -21461,3 +21461,10 @@
 //{"coords": [], "date": "2026-09-13"} // Garage Bad Langensalza, Diebstahl
 //{"coords": [], "date": "2026-09-13"} // Lagerhalle Bad Langensalza, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2026-09-13"}, // Pkw Jena, Diebstahl
+{"coords": [13.0819, 54.3092], "date": "2026-09-13"}, // Stralsund Stralsund, Einbruch
+{"coords": [8.4414, 50.0919], "date": "2026-09-13"}, // Festnahme Hofheim, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-09-13"}, // Bad Schwalbach, Einbruch
+//{"coords": [], "date": "2026-09-13"} // Mörsdorf, Dieb
+{"coords": [7.7806, 53.5769], "date": "2026-09-13"}, // Wittmund, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-09-13"}, // Verkehrsunfall Reutlingen, Einbruch
+{"coords": [11.0767, 49.4521], "date": "2026-09-13"}, // Festnahme Nürnberg, Dieb

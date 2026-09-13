@@ -21475,3 +21475,7 @@
 {"coords": [10.7183, 50.9489], "date": "2026-09-13"}, // Landkreis Gotha, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-09-13"}, // Landkreis Gotha, Diebstähle
 {"coords": [6.6594, 50.2228], "date": "2026-09-13"}, // Fahrzeugen Gerolstein, Diebstahl
+{"coords": [11.35, 47.9667], "date": "2026-09-13"}, // Bereich des Garagenkomplexes Am Dornheimer Berg eine Garage gewaltsam geöffnet. Es entstand Sachschaden in Höhe von ca, Diebstahl
+{"coords": [10.9147, 50.6856], "date": "2026-09-13"}, // Ilmenau, Einbrüche
+//{"coords": [], "date": "2026-09-13"} // des Arnstädter Lohmühlenweges über zwei dunkle Gestalten auf ihrem Balkon, welche mit Einschalten des Lichtes flüchteten. Durch die eingesetzten Beamten konnte ermittelt werden, dass die durstigen Diebe alkoholische Getränke und Tabakwaren im Gesamtwert von über, Diebstahl
+{"coords": [11.3406, 50.7206], "date": "2026-09-13"}, // Nahwinden auf die B90N auf. Er übersah hierbei einen bereits auf der Bundesstraße fahrenden Mercedes-Bus, welcher aus Richtung Rudolstadt kam. Es kam zur seitlichen Kollision zwischen den beiden Pkws. Der Audi-Fahrer wurde, Einbruch

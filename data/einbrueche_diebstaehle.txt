@@ -21481,3 +21481,5 @@
 {"coords": [11.3406, 50.7206], "date": "2026-09-13"}, // Nahwinden auf die B90N auf. Er übersah hierbei einen bereits auf der Bundesstraße fahrenden Mercedes-Bus, welcher aus Richtung Rudolstadt kam. Es kam zur seitlichen Kollision zwischen den beiden Pkws. Der Audi-Fahrer wurde, Einbruch
 //{"coords": [], "date": "2026-09-13"} // Kein Ort gefunden, Diebstähle
 //{"coords": [], "date": "2026-09-14"} // Enkirch Enkirch, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-09-14"}, // Gera, Diebstahl
+{"coords": [6.6306, 49.4431], "date": "2026-09-14"}, // Merzig Merzig, Einbruch

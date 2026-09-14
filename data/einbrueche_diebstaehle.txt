@@ -21501,3 +21501,6 @@
 {"coords": [8.6833, 50.5833], "date": "2026-09-14"}, // Giessen, gestohlen
 {"coords": [11.4167, 51.2667], "date": "2026-09-14"}, // Wiehe, gestohlen
 //{"coords": [], "date": "2026-09-14"} // Tuttlingen, Einbruch
+{"coords": [7.7167, 50.1], "date": "2026-09-14"}, // Oberwesel Boppard, Diebstahl
+{"coords": [7.4614, 50.4286], "date": "2026-09-14"}, // Neuwieder Einkaufszentrum Neuwied, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-09-14"}, // Feuerwehr Ahrbergen Hildesheim, Einbruch

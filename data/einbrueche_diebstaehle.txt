@@ -21535,3 +21535,4 @@
 {"coords": [9.9937, 53.5511], "date": "2026-09-15"}, // Hamburg-HafenCity mehr, Einbruch
 {"coords": [8.3833, 51.9], "date": "2026-09-15"}, // Pavenstädter Weg Gütersloh, Diebstahl
 {"coords": [7.5667, 50.15], "date": "2026-09-15"}, // Emmelshausen Emmelshausen, Diebstahl
+//{"coords": [], "date": "2026-09-15"} // Einachskippers Kronweiler, Diebstahl

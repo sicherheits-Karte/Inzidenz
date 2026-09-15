@@ -21515,3 +21515,15 @@
 //{"coords": [], "date": "2026-09-15"} // Birstein, Einbruch
 {"coords": [7.9139, 51.5528], "date": "2026-09-15"}, // Werl, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-09-15"}, // Sachbeschädigungen Aalen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-09-15"}, // Einbruch Coesfeld, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2026-09-15"}, // Zeugenaufruf Heidelberg, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-09-15"}, // Wiesbaden, Diebstahl
+{"coords": [9.3833, 50.6333], "date": "2026-09-15"}, // Vogelsbergkreis, entwendet
+{"coords": [9.6775, 50.5528], "date": "2026-09-15"}, // Wohnhäuser Fulda, Einbrüche
+{"coords": [9.9916, 48.3984], "date": "2026-09-15"}, // Ulm, Dieb
+{"coords": [8.0667, 50.3833], "date": "2026-09-15"}, // Limburg, gestohlen
+{"coords": [7.6333, 51.6167], "date": "2026-09-15"}, // Bergkamen, Einbruch
+{"coords": [9.6667, 54.1667], "date": "2026-09-15"}, // Stafstedt, Raub
+{"coords": [8.4167, 49.4667], "date": "2026-09-15"}, // Mundenheim, Diebstahl
+{"coords": [6.9769, 50.8236], "date": "2026-09-15"}, // Einbrüchen Wesseling, Einbrüche
+{"coords": [7.0083, 52.075], "date": "2026-09-15"}, // Ahaus, Dieb

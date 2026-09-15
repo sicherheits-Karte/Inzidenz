@@ -21527,3 +21527,10 @@
 {"coords": [8.4167, 49.4667], "date": "2026-09-15"}, // Mundenheim, Diebstahl
 {"coords": [6.9769, 50.8236], "date": "2026-09-15"}, // Einbrüchen Wesseling, Einbrüche
 {"coords": [7.0083, 52.075], "date": "2026-09-15"}, // Ahaus, Dieb
+{"coords": [7.4653, 51.5136], "date": "2026-09-15"}, // Lüner Drogeriefiliale Dortmund, stehlen
+{"coords": [8.6833, 50.5833], "date": "2026-09-15"}, // Giessen, Einbruch
+//{"coords": [], "date": "2026-09-15"} // Sportheim des SV Hinterweidenthal Hinterweidenthal, Einbruch
+{"coords": [8.2417, 48.7994], "date": "2026-09-15"}, // Baden, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2026-09-15"}, // Haft Recklinghausen, Raub
+{"coords": [9.9937, 53.5511], "date": "2026-09-15"}, // Hamburg-HafenCity mehr, Einbruch
+{"coords": [8.3833, 51.9], "date": "2026-09-15"}, // Pavenstädter Weg Gütersloh, Diebstahl

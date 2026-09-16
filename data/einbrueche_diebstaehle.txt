@@ -21549,3 +21549,4 @@
 {"coords": [6.8139, 50.9147], "date": "2026-09-16"}, // Zeugensuche Frechen, Raub
 {"coords": [6.95, 52.5833], "date": "2026-09-16"}, // Kupferkabel Hoogstede, entwendet
 //{"coords": [], "date": "2026-09-16"} // Garage entwendet, entwendet
+//{"coords": [], "date": "2026-09-16"} // dem Kreisgebiet, Einbrüche

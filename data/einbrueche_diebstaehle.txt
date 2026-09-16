@@ -21541,3 +21541,10 @@
 {"coords": [8.8333, 50.15], "date": "2026-09-16"}, // Kompostierungsanlage Maintal, Einbruch
 {"coords": [12.4333, 50.985], "date": "2026-09-16"}, // Altenburg, entwendet
 //{"coords": [], "date": "2026-09-16"} // Ruchheim, Raub
+{"coords": [7.65, 52.1833], "date": "2026-09-16"}, // Tresor Saerbeck, Einbruch
+{"coords": [8.2833, 49.4667], "date": "2026-09-16"}, // Schauernheim, stehlen
+{"coords": [8.8667, 51.9333], "date": "2026-09-16"}, // Lippe, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-09-16"}, // Lippe, Einbrecher
+{"coords": [7.2333, 52.3167], "date": "2026-09-16"}, // Restaurant Schüttorf, Einbruch
+{"coords": [6.8139, 50.9147], "date": "2026-09-16"}, // Zeugensuche Frechen, Raub
+{"coords": [6.95, 52.5833], "date": "2026-09-16"}, // Kupferkabel Hoogstede, entwendet

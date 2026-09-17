@@ -21550,3 +21550,10 @@
 {"coords": [6.95, 52.5833], "date": "2026-09-16"}, // Kupferkabel Hoogstede, entwendet
 //{"coords": [], "date": "2026-09-16"} // Garage entwendet, entwendet
 //{"coords": [], "date": "2026-09-16"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.6014, 52.6853], "date": "2026-09-17"}, // Diebstahl Herzlake, Diebstahl
+{"coords": [11.3406, 50.7206], "date": "2026-09-17"}, // Rudolstadt, Diebstahl
+{"coords": [8.1092, 51.5711], "date": "2026-09-17"}, // Baustelle Soest, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-09-17"}, // Delmenhorst, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-09-17"}, // Sachbeschädigung Aalen, Einbruch
+{"coords": [12.4333, 50.985], "date": "2026-09-17"}, // Altenburg, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-09-17"}, // Wohnhaus Arnsberg, eingebrochen

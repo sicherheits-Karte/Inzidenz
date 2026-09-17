@@ -21570,3 +21570,10 @@
 {"coords": [7.7689, 49.4447], "date": "2026-09-17"}, // Hinweise Kaiserslautern, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-09-17"}, // Fahrraddiebstählen Augsburg, Diebstähle
 {"coords": [8.1075, 53.5219], "date": "2026-09-17"}, // Wilhelmshaven, Einbruch
+{"coords": [10.3175, 51.3153], "date": "2026-09-17"}, // Bargeld Dingelstädt, entwendet
+{"coords": [10.7956, 51.5019], "date": "2026-09-17"}, // Nordhausen, Einbrecher
+{"coords": [6.1667, 51.6833], "date": "2026-09-17"}, // Zeugen Goch, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-09-17"}, // Nordhausen, aufbrechen
+//{"coords": [], "date": "2026-09-17"} // Büttelborn, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-09-17"}, // Ringe Giessen, Dieb
+{"coords": [6.4333, 51.2], "date": "2026-09-17"}, // Zeugen Mönchengladbach, Diebstahl

@@ -21577,3 +21577,4 @@
 //{"coords": [], "date": "2026-09-17"} // Büttelborn, Dieb
 {"coords": [8.6833, 50.5833], "date": "2026-09-17"}, // Ringe Giessen, Dieb
 {"coords": [6.4333, 51.2], "date": "2026-09-17"}, // Zeugen Mönchengladbach, Diebstahl
+{"coords": [12.0799, 50.8772], "date": "2026-09-18"}, // Gera, gestohlen

@@ -21578,3 +21578,16 @@
 {"coords": [8.6833, 50.5833], "date": "2026-09-17"}, // Ringe Giessen, Dieb
 {"coords": [6.4333, 51.2], "date": "2026-09-17"}, // Zeugen Mönchengladbach, Diebstahl
 {"coords": [12.0799, 50.8772], "date": "2026-09-18"}, // Gera, gestohlen
+{"coords": [6.1667, 51.6833], "date": "2026-09-18"}, // Goch, Einbruch
+{"coords": [6.5139, 51.1917], "date": "2026-09-18"}, // Polizei Korschenbroich, Einbruch
+{"coords": [8.4833, 52.1333], "date": "2026-09-18"}, // Spenge, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-09-18"}, // Beverstedt Cuxhaven, aufbruch
+{"coords": [9.9333, 52.9667], "date": "2026-09-18"}, // Radfahrerin Heidekreis, entwendet
+//{"coords": [], "date": "2026-09-18"} // ein Einfamilienhaus ein. Die Tat ereignete sich in Abwesenheit der Bewohner zwischen, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-09-18"}, // Reutlingen, Einbruch
+{"coords": [7.8508, 51.0281], "date": "2026-09-18"}, // Kreis Olpe, Diebstähle
+//{"coords": [], "date": "2026-09-18"} // Schule Lähden, Einbruch
+{"coords": [7.9733, 51.1681], "date": "2026-09-18"}, // Bauwagen Finnentrop, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-09-18"}, // Betriebsgelände Vogelsbergkreis, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2026-09-18"}, // Sportgeschäft Meppen, Einbruch
+{"coords": [6.0167, 51.7917], "date": "2026-09-18"}, // Kranenburg, Einbrüche

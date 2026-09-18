@@ -21591,3 +21591,11 @@
 {"coords": [9.3833, 50.6333], "date": "2026-09-18"}, // Betriebsgelände Vogelsbergkreis, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2026-09-18"}, // Sportgeschäft Meppen, Einbruch
 {"coords": [6.0167, 51.7917], "date": "2026-09-18"}, // Kranenburg, Einbrüche
+//{"coords": [], "date": "2026-09-18"} // Kreis, Räuber
+//{"coords": [], "date": "2026-09-18"} // Mann ist dabei in seinem Wagen eingeklemmt worden. Er wurde von der hinzugerufenen Feuerwehr befreit. Ein Rettungshubschrauber brachte den schwer verletzten, Raub
+{"coords": [7.1861, 49.6583], "date": "2026-09-18"}, // Birkenfeld, Einbrüche
+{"coords": [13.3878, 54.0931], "date": "2026-09-18"}, // Greifswald, Diebstahl
+{"coords": [11.1833, 51.2667], "date": "2026-09-18"}, // Gorsleben, entwendet
+{"coords": [8.9167, 52.3], "date": "2026-09-18"}, // Minden, Dieb
+{"coords": [6.4333, 51.2], "date": "2026-09-18"}, // Schaufensterscheibe Mönchengladbach, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-09-18"}, // Kaiserslautern, gestohlen

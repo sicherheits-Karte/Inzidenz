@@ -21604,3 +21604,10 @@
 {"coords": [9.9937, 53.5511], "date": "2026-09-18"}, // Wandsbek Hamburg, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-09-18"}, // Kinderbrandstiftung Reutlingen, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2026-09-19"}, // Herne, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2026-09-19"}, // Soest, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-09-19"}, // Dame Gelsenkirchen, Diebstahl
+//{"coords": [], "date": "2026-09-19"} // Geschäftshaus Schapen, Einbruch
+//{"coords": [], "date": "2026-09-19"} // Elektroklapprad im Wert von ca, Diebstahl
+{"coords": [10.95, 50.8333], "date": "2026-09-19"}, // Augenoptikergeschäft Arnstadt, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-09-19"}, // Bremer Ecks Diepholz, Raub
+{"coords": [7.3625, 51.2981], "date": "2026-09-19"}, // Mehrfamilienhaus Ennepetal, Einbruch

@@ -21618,3 +21618,7 @@
 {"coords": [8.6822, 50.1106], "date": "2026-09-19"}, // Frankfurt, Raub
 //{"coords": [], "date": "2026-09-19"} // Herongen, Raub
 {"coords": [8.6306, 53.05], "date": "2026-09-19"}, // Delmenhorst Delmenhorst, entwendet
+{"coords": [7.6, 49.2], "date": "2026-09-19"}, // Realschule Plus Pirmasens, Diebstahl
+{"coords": [7.6, 49.2], "date": "2026-09-19"}, // Pirmasens, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-09-19"}, // Hofheim, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-09-19"}, // Diepholz, Diebstahl

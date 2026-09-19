@@ -21603,3 +21603,4 @@
 {"coords": [7.3328, 49.6133], "date": "2026-09-18"}, // Kfz- Kennzeichen Baumholder, Diebstahl
 {"coords": [9.9937, 53.5511], "date": "2026-09-18"}, // Wandsbek Hamburg, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-09-18"}, // Kinderbrandstiftung Reutlingen, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-09-19"}, // Herne, Einbruch

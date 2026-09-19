@@ -21611,3 +21611,10 @@
 {"coords": [10.95, 50.8333], "date": "2026-09-19"}, // Augenoptikergeschäft Arnstadt, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2026-09-19"}, // Bremer Ecks Diepholz, Raub
 {"coords": [7.3625, 51.2981], "date": "2026-09-19"}, // Mehrfamilienhaus Ennepetal, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-09-19"}, // Villmar Limburg, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-09-19"}, // Delmenhorst, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-09-19"}, // Fahrerlaubnis Reutlingen, Dieb
+{"coords": [8.6822, 50.1106], "date": "2026-09-19"}, // Bargeld Frankfurt, Dieb
+{"coords": [8.6822, 50.1106], "date": "2026-09-19"}, // Frankfurt, Raub
+//{"coords": [], "date": "2026-09-19"} // Herongen, Raub
+{"coords": [8.6306, 53.05], "date": "2026-09-19"}, // Delmenhorst Delmenhorst, entwendet

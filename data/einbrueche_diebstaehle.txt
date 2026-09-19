@@ -21626,3 +21626,5 @@
 //{"coords": [], "date": "2026-09-19"} // Kein Ort gefunden, entwendet
 //{"coords": [], "date": "2026-09-19"} // gemeldet. Die Tat dürfte sich im Zeitraum vom, Diebstahl
 {"coords": [7.9833, 50.5667], "date": "2026-09-19"}, // Grabschmuck Westerburg, Diebstahl
+{"coords": [9.1753, 47.6633], "date": "2026-09-19"}, // Rettungskräften Konstanz, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-09-19"}, // Barnten Hildesheim, Raub

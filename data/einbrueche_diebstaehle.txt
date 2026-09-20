@@ -21639,3 +21639,13 @@
 {"coords": [7.7689, 49.4447], "date": "2026-09-20"}, // Kaiserslautern, Einbruch
 {"coords": [7.7806, 53.5769], "date": "2026-09-20"}, // Wittmund, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-09-20"}, // Reutlingen, Einbruch
+{"coords": [11.5928, 50.6933], "date": "2026-09-20"}, // Pößneck, Diebstahl
+{"coords": [7.3208, 49.6922], "date": "2026-09-20"}, // Oberstein, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-09-20"}, // Erfurt, gestohlen
+{"coords": [7.7689, 49.4447], "date": "2026-09-20"}, // Zeugen Kaiserslautern, Einbruch
+//{"coords": [], "date": "2026-09-20"} // Höhe, Einbruch
+//{"coords": [], "date": "2026-09-20"} // Burlo, entwendet
+//{"coords": [], "date": "2026-09-20"} // Wüllen, entwendet
+//{"coords": [], "date": "2026-09-20"} // Produktionshalle Schöppingen, Einbruch
+{"coords": [6.9333, 51.8333], "date": "2026-09-20"}, // Versuchter Einbruch Heiden, Einbruch
+{"coords": [9.2844, 51.045], "date": "2026-09-20"}, // Weseler Landstraße Borken, Einbruch

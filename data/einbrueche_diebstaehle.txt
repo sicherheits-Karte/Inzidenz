@@ -21649,3 +21649,5 @@
 //{"coords": [], "date": "2026-09-20"} // Produktionshalle Schöppingen, Einbruch
 {"coords": [6.9333, 51.8333], "date": "2026-09-20"}, // Versuchter Einbruch Heiden, Einbruch
 {"coords": [9.2844, 51.045], "date": "2026-09-20"}, // Weseler Landstraße Borken, Einbruch
+{"coords": [7.3, 51.1333], "date": "2026-09-20"}, // Einsatz Hückeswagen, Raub
+{"coords": [6.85, 49.3], "date": "2026-09-20"}, // Bad Schwalbach, Diebstahl

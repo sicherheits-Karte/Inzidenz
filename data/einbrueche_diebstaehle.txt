@@ -21651,3 +21651,14 @@
 {"coords": [9.2844, 51.045], "date": "2026-09-20"}, // Weseler Landstraße Borken, Einbruch
 {"coords": [7.3, 51.1333], "date": "2026-09-20"}, // Einsatz Hückeswagen, Raub
 {"coords": [6.85, 49.3], "date": "2026-09-20"}, // Bad Schwalbach, Diebstahl
+{"coords": [6.7583, 51.6417], "date": "2026-09-21"}, // Motorrads Hünxe, Diebstahl
+//{"coords": [], "date": "2026-09-21"} // der Straße der Einheit entwendeten ein oder mehrere bislang unbekannte Personen zwei Fahrräder im Gesamtwert von circa, entwendet
+//{"coords": [], "date": "2026-09-21"} // Lidl, Raub
+{"coords": [9.8833, 53.3333], "date": "2026-09-21"}, // Stadtwerke Buchholz, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-09-21"}, // Bargteheider Bahnhof Ratzeburg, Raub
+//{"coords": [], "date": "2026-09-21"} // Dokument mehr, Einbruch
+{"coords": [8.7069, 51.1972], "date": "2026-09-21"}, // Ferienpark Medebach, Einbruch
+{"coords": [8.0, 51.3333], "date": "2026-09-21"}, // Jagdhaus Sundern, Einbruch
+//{"coords": [], "date": "2026-09-21"} // Kein Ort gefunden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-09-21"}, // Einbruch Aalen, Einbruch
+{"coords": [8.2833, 51.35], "date": "2026-09-21"}, // Zeugen Meschede, Diebstahl

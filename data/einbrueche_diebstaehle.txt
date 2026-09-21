@@ -21669,3 +21669,9 @@
 //{"coords": [], "date": "2026-09-21"} // Föhr, Einbrüche
 {"coords": [7.82, 47.99], "date": "2026-09-21"}, // Freiburg, Diebstahl
 {"coords": [7.0982, 50.7374], "date": "2026-09-21"}, // Hinweise Bonn, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-09-21"}, // Viersen, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-09-21"}, // Ludwigsburg, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-09-21"}, // Schwerverletztem Limburg, Einbrecher
+//{"coords": [], "date": "2026-09-21"} // Hohberg, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-09-21"}, // Trunkenheitsfahrt Reutlingen, Einbrüche
+{"coords": [8.4661, 49.4878], "date": "2026-09-21"}, // Zeugenaufruf Mannheim, Raub

@@ -21694,3 +21694,12 @@
 {"coords": [12.0991, 54.0924], "date": "2026-09-22"}, // Landkreis Rostock, gestohlen
 {"coords": [9.2108, 49.1425], "date": "2026-09-22"}, // Landkreis Heilbronn, Einbruch
 {"coords": [7.2, 51.6167], "date": "2026-09-22"}, // Hinweise Recklinghausen, Diebstahl
+//{"coords": [], "date": "2026-09-22"} // Mutterstadt, gestohlen
+{"coords": [8.35, 49.5333], "date": "2026-09-22"}, // Frankenthal, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-09-22"}, // Gaststätte Giessen, Einbruch
+//{"coords": [], "date": "2026-09-22"} // Kennzeichendiebstahl Stadtkyll, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-09-22"}, // Diebstahl Reutlingen, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-09-22"}, // Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-09-22"}, // Freiburg, Einbrüche
+{"coords": [7.82, 47.99], "date": "2026-09-22"}, // Freiburg, gestohlen
+{"coords": [8.4043, 49.014], "date": "2026-09-22"}, // Haft Karlsruhe, Diebstahl

@@ -21683,3 +21683,14 @@
 {"coords": [10.0936, 48.8372], "date": "2026-09-22"}, // Baustelle Aalen, Diebstahl
 {"coords": [12.4333, 50.985], "date": "2026-09-22"}, // Altenburg, Diebstahl
 //{"coords": [], "date": "2026-09-22"} // Bad Kreuznach, gestohlen
+{"coords": [7.2931, 51.2861], "date": "2026-09-22"}, // Bargeld Schwelm, Einbruch
+//{"coords": [], "date": "2026-09-22"} // sogenanntes Keyless-Open-Signal-System, bei dem der Schlüssel nur nah genug sein muss, damit die Türen aufgehen. Die Täter haben vermutlich das Signal des Funkschlüssels verstärkt und so den Mercedes-Benz, stehlen
+{"coords": [8.8667, 51.9333], "date": "2026-09-22"}, // Lippe, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-09-22"}, // Rastanlage Fulda, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-09-22"}, // Rotenburg, Diebstahl
+//{"coords": [], "date": "2026-09-22"} // Bad Cannstatt, eingebrochen
+{"coords": [6.2194, 51.0614], "date": "2026-09-22"}, // Hückelhoven, gestohlen
+{"coords": [6.315, 51.0794], "date": "2026-09-22"}, // Vereinsheim Erkelenz, Einbruch
+{"coords": [12.0991, 54.0924], "date": "2026-09-22"}, // Landkreis Rostock, gestohlen
+{"coords": [9.2108, 49.1425], "date": "2026-09-22"}, // Landkreis Heilbronn, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-09-22"}, // Hinweise Recklinghausen, Diebstahl

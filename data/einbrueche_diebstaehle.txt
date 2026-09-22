@@ -21676,3 +21676,10 @@
 {"coords": [9.2167, 48.4833], "date": "2026-09-21"}, // Trunkenheitsfahrt Reutlingen, Einbrüche
 {"coords": [8.4661, 49.4878], "date": "2026-09-21"}, // Zeugenaufruf Mannheim, Raub
 {"coords": [9.95, 52.15], "date": "2026-09-21"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [11.4012, 53.6355], "date": "2026-09-22"}, // Schwerin Schwerin, Räuber
+//{"coords": [], "date": "2026-09-22"} // Dodenburg, Diebstähle
+//{"coords": [], "date": "2026-09-22"} // Wohnungseinbruchsdiebstahl Hetzerath, Einbruch
+{"coords": [12.0799, 50.8772], "date": "2026-09-22"}, // Gera, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-09-22"}, // Baustelle Aalen, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-09-22"}, // Altenburg, Diebstahl
+//{"coords": [], "date": "2026-09-22"} // Bad Kreuznach, gestohlen

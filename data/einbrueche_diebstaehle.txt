@@ -21714,3 +21714,5 @@
 //{"coords": [], "date": "2026-09-23"} // eine Gaststätte in der Klosterstraße eingedrungen. Nach den bisherigen Ermittlungen verschafften sich die Unbekannten zwischen, Einbrecher
 {"coords": [9.6775, 50.5528], "date": "2026-09-23"}, // Fulda, entwendet
 {"coords": [10.7292, 50.4258], "date": "2026-09-23"}, // Hildburghausen, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2026-09-23"}, // Cuxhaven, entwendet
+{"coords": [8.4661, 49.4878], "date": "2026-09-23"}, // Zeugenaufruf Mannheim, Einbruch

@@ -21729,3 +21729,11 @@
 {"coords": [8.7239, 49.8244], "date": "2026-09-24"}, // Mühltal, aufbruch
 //{"coords": [], "date": "2026-09-24"} // Altschweier, Raub
 {"coords": [10.775, 52.1439], "date": "2026-09-24"}, // Schöppenstedt, Einbruch
+//{"coords": [], "date": "2026-09-24"} // ein Fahrzeug und entwendeten seinen hochwertigen Pkw, entwendet
+{"coords": [8.6833, 50.5833], "date": "2026-09-24"}, // Giessen, Diebstahl
+{"coords": [6.6717, 51.2614], "date": "2026-09-24"}, // Meerbusch Neuss, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-09-24"}, // Aalen, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-09-24"}, // Gaststätte Ludwigsburg, Einbruch
+{"coords": [7.5667, 51.0833], "date": "2026-09-24"}, // Gummersbach, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-09-24"}, // Fahrraddiebstählen Augsburg, Diebstähle
+{"coords": [7.6, 49.2], "date": "2026-09-24"}, // Pirmasens, Diebstahl

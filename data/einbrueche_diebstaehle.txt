@@ -21722,3 +21722,10 @@
 {"coords": [10.7956, 51.5019], "date": "2026-09-23"}, // Fahrzeuginnenraum Nordhausen, entwendet
 {"coords": [10.7956, 51.5019], "date": "2026-09-23"}, // Nordhausen, gestohlen
 {"coords": [10.0936, 48.8372], "date": "2026-09-24"}, // Aalen, Raub
+{"coords": [7.4653, 51.5136], "date": "2026-09-24"}, // Nordstadt Dortmund, Raub
+{"coords": [7.9833, 51.95], "date": "2026-09-24"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2026-09-24"}, // Verkehrskontrolle Diepholz, Einbruch
+{"coords": [10.5267, 52.2689], "date": "2026-09-24"}, // Raub Braunschweig, Raub
+{"coords": [8.7239, 49.8244], "date": "2026-09-24"}, // Mühltal, aufbruch
+//{"coords": [], "date": "2026-09-24"} // Altschweier, Raub
+{"coords": [10.775, 52.1439], "date": "2026-09-24"}, // Schöppenstedt, Einbruch

@@ -21737,3 +21737,11 @@
 {"coords": [7.5667, 51.0833], "date": "2026-09-24"}, // Gummersbach, Raub
 {"coords": [10.8978, 48.3705], "date": "2026-09-24"}, // Fahrraddiebstählen Augsburg, Diebstähle
 {"coords": [7.6, 49.2], "date": "2026-09-24"}, // Pirmasens, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-09-24"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [6.7667, 49.8333], "date": "2026-09-24"}, // Fahrradträger Schweich, Diebstahl
+{"coords": [7.7333, 51.4667], "date": "2026-09-24"}, // Fröndenberg Fröndenberg, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-09-24"}, // Fahrzeugdiebstahl Reutlingen, Diebstahl
+//{"coords": [], "date": "2026-09-24"} // Wipperdorf, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-09-24"}, // Präventionsaktion Kaiserslautern, Diebstähle
+//{"coords": [], "date": "2026-09-24"} // Mun, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-09-24"}, // Giessen, Dieb

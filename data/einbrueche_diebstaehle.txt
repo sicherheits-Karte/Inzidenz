@@ -21753,3 +21753,11 @@
 {"coords": [6.3917, 51.2556], "date": "2026-09-25"}, // Viersen, gestohlen
 {"coords": [7.1675, 51.9436], "date": "2026-09-25"}, // Versuchter Einbruch Coesfeld, Einbruch
 //{"coords": [], "date": "2026-09-25"} // Tierarztpraxis Balduinstein, Einbruch
+//{"coords": [], "date": "2026-09-25"} // landwirtschaftlichen Fahrzeugen, Diebstahl
+//{"coords": [], "date": "2026-09-25"} // Lahde, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2026-09-25"}, // Nordhausen, gestohlen
+{"coords": [9.4667, 51.35], "date": "2026-09-25"}, // Vellmar Vellmar, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-09-25"}, // Köln, Raub
+{"coords": [11.012, 49.5897], "date": "2026-09-25"}, // Erlangen, Einbrüche
+{"coords": [6.75, 51.5833], "date": "2026-09-25"}, // Hinweise Dinslaken, gestohlen
+{"coords": [7.4836, 53.4711], "date": "2026-09-25"}, // Landkreis Aurich, Einbruch

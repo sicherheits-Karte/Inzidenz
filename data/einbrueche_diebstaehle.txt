@@ -21761,3 +21761,9 @@
 {"coords": [11.012, 49.5897], "date": "2026-09-25"}, // Erlangen, Einbrüche
 {"coords": [6.75, 51.5833], "date": "2026-09-25"}, // Hinweise Dinslaken, gestohlen
 {"coords": [7.4836, 53.4711], "date": "2026-09-25"}, // Landkreis Aurich, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-09-25"}, // Kettentrick Cuxhaven, Diebstahl
+{"coords": [7.1861, 49.6583], "date": "2026-09-25"}, // Zeugenhinweise Birkenfeld, Diebstähle
+{"coords": [9.2167, 48.4833], "date": "2026-09-25"}, // Ausnahmezustand Reutlingen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-09-25"}, // Zeugen Duisburg, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-09-25"}, // Untersuchungshaft Karlsruhe, Einbruch
+{"coords": [10.75, 53.7], "date": "2026-09-25"}, // Ratzeburg, Raub

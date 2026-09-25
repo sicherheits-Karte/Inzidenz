@@ -21746,3 +21746,10 @@
 //{"coords": [], "date": "2026-09-24"} // Mun, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-09-24"}, // Giessen, Dieb
 //{"coords": [], "date": "2026-09-25"} // Bronzefiguren Merzalben, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2026-09-25"}, // Wilhelmshaven, Diebstahl
+//{"coords": [], "date": "2026-09-25"} // Kein Ort gefunden, Einbrecher
+//{"coords": [], "date": "2026-09-25"} // Haft, Einbrecher
+{"coords": [10.0936, 48.8372], "date": "2026-09-25"}, // Diebstahl Aalen, Einbrüche
+{"coords": [6.3917, 51.2556], "date": "2026-09-25"}, // Viersen, gestohlen
+{"coords": [7.1675, 51.9436], "date": "2026-09-25"}, // Versuchter Einbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2026-09-25"} // Tierarztpraxis Balduinstein, Einbruch

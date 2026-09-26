@@ -21768,3 +21768,10 @@
 {"coords": [8.4043, 49.014], "date": "2026-09-25"}, // Untersuchungshaft Karlsruhe, Einbruch
 {"coords": [10.75, 53.7], "date": "2026-09-25"}, // Ratzeburg, Raub
 {"coords": [10.0936, 48.8372], "date": "2026-09-25"}, // Aalen, Raub
+{"coords": [7.4547, 53.2311], "date": "2026-09-26"}, // Leer, Diebstahl
+{"coords": [10.7333, 50.65], "date": "2026-09-26"}, // Mehlis, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-09-26"}, // Mitte, Dieb
+{"coords": [10.6944, 50.6111], "date": "2026-09-26"}, // Zeugen Suhl, entwendet
+{"coords": [8.5833, 49.8667], "date": "2026-09-26"}, // Zeugen Griesheim, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-09-26"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2026-09-26"}, // Salzgitter, Diebstahl

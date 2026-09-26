@@ -21775,3 +21775,12 @@
 {"coords": [8.5833, 49.8667], "date": "2026-09-26"}, // Zeugen Griesheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-09-26"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [10.3333, 52.15], "date": "2026-09-26"}, // Salzgitter, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2026-09-26"}, // Wittmund, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-09-26"}, // Gasaustritt Reutlingen, Einbrüche
+{"coords": [7.25, 52.6167], "date": "2026-09-26"}, // Diebstahl Geeste, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-09-26"}, // Teurer Einkauf Erfurt, Dieb
+{"coords": [7.0667, 52.4333], "date": "2026-09-26"}, // Eckventile Nordhorn, entwendet
+{"coords": [8.4353, 49.4811], "date": "2026-09-26"}, // Maudach Ludwigshafen, Diebstahl
+{"coords": [8.1333, 51.5], "date": "2026-09-26"}, // Möhnesee, Raub
+{"coords": [7.1, 51.5167], "date": "2026-09-26"}, // Gelsenkirchen, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-09-26"}, // Zeugenaufruf Hildesheim, Einbruch

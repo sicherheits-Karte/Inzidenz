@@ -21810,3 +21810,5 @@
 {"coords": [8.2146, 53.1434], "date": "2026-09-27"}, // Oldenburg, Einbruch
 //{"coords": [], "date": "2026-09-27"} // Telefon, Raub
 //{"coords": [], "date": "2026-09-27"} // Röbel, Diebstahl
+{"coords": [6.9333, 50.3833], "date": "2026-09-27"}, // Adenau, Diebstahl
+{"coords": [6.8333, 49.25], "date": "2026-09-27"}, // Völklingen Völklingen, Einbruch

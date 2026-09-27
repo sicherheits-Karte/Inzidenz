@@ -21793,3 +21793,10 @@
 //{"coords": [], "date": "2026-09-27"} // Weiersbach, Diebstahl
 {"coords": [7.1861, 49.6583], "date": "2026-09-27"}, // Birkenfeld, entwendet
 {"coords": [8.5833, 51.3833], "date": "2026-09-27"}, // Brilon, Raub
+{"coords": [8.8075, 53.075], "date": "2026-09-27"}, // Bremen, Einbrecher
+{"coords": [8.8667, 51.9333], "date": "2026-09-27"}, // Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-09-27"}, // Lippe, entwendet
+{"coords": [11.0299, 50.9848], "date": "2026-09-27"}, // Basecap Erfurt, Raub
+{"coords": [7.2061, 53.3669], "date": "2026-09-27"}, // Emden, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2026-09-27"}, // Teurer Einkauf Erfurt, Dieb
+//{"coords": [], "date": "2026-09-27"} // Bad Salzungen, Diebstahl

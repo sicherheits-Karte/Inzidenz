@@ -21792,3 +21792,4 @@
 {"coords": [8.4414, 50.0919], "date": "2026-09-26"}, // Verkehrsunfallflucht Hofheim, Diebstahl
 //{"coords": [], "date": "2026-09-27"} // Weiersbach, Diebstahl
 {"coords": [7.1861, 49.6583], "date": "2026-09-27"}, // Birkenfeld, entwendet
+{"coords": [8.5833, 51.3833], "date": "2026-09-27"}, // Brilon, Raub

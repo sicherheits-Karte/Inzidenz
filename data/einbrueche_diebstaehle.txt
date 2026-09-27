@@ -21800,3 +21800,7 @@
 {"coords": [7.2061, 53.3669], "date": "2026-09-27"}, // Emden, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2026-09-27"}, // Teurer Einkauf Erfurt, Dieb
 //{"coords": [], "date": "2026-09-27"} // Bad Salzungen, Diebstahl
+{"coords": [8.875, 53.05], "date": "2026-09-27"}, // Osterholz, Dieb
+//{"coords": [], "date": "2026-09-27"} // Polizeihubschrauber die Bodenkräfte bei der Suche nach einer vermissten Person. Rückfragen bitte an, Raub
+{"coords": [8.3708, 52.6078], "date": "2026-09-27"}, // Diepholz, Diebstähle
+{"coords": [8.8517, 50.0717], "date": "2026-09-27"}, // Tatverdächtigen Obertshausen, Raub

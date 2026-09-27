@@ -21809,3 +21809,4 @@
 {"coords": [12.9981, 51.3667], "date": "2026-09-27"}, // Dahlen, Diebstahl
 {"coords": [8.2146, 53.1434], "date": "2026-09-27"}, // Oldenburg, Einbruch
 //{"coords": [], "date": "2026-09-27"} // Telefon, Raub
+//{"coords": [], "date": "2026-09-27"} // Röbel, Diebstahl

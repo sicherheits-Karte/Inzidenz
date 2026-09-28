@@ -21813,3 +21813,14 @@
 {"coords": [6.9333, 50.3833], "date": "2026-09-27"}, // Adenau, Diebstahl
 {"coords": [6.8333, 49.25], "date": "2026-09-27"}, // Völklingen Völklingen, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-09-28"}, // Erfurt, Einbruch
+{"coords": [7.4333, 52.2833], "date": "2026-09-28"}, // Zeugen Rheine, stehlen
+{"coords": [10.6944, 50.6111], "date": "2026-09-28"}, // Suhl, Einbrüche
+{"coords": [10.6944, 50.6111], "date": "2026-09-28"}, // Suhl, entwendet
+{"coords": [10.6944, 50.6111], "date": "2026-09-28"}, // Suhl, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-09-28"}, // Harsewinkelplatz Münster, Diebstahl
+{"coords": [10.9667, 50.3333], "date": "2026-09-28"}, // Zeugen Lautertal, Einbruch
+//{"coords": [], "date": "2026-09-28"} // Richtung Eisenacher Straße. Nach dem Passieren einer Bahnunterführung kam der Mann aus bislang unbekannter Ursache alleinbeteiligt zu Fall. Er verletzte sich lebensbedrohlich. Ein Rettungshubschrauber kam zum Einsatz um den Mann in ein Krankenhaus zu fliegen. Aufgrund der Hubschrauberlandung wurde die B7 zeitweise gesperrt, Raub
+//{"coords": [], "date": "2026-09-28"} // Firmengrundstück für Betonteile in der Straße, Diebstahl
+{"coords": [10.9147, 50.6856], "date": "2026-09-28"}, // Versuchter Einbruch Ilmenau, Einbruch
+//{"coords": [], "date": "2026-09-28"} // Lidl, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-09-28"}, // Coesfeld, entwendet

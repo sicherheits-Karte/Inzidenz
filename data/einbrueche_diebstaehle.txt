@@ -21824,3 +21824,10 @@
 {"coords": [10.9147, 50.6856], "date": "2026-09-28"}, // Versuchter Einbruch Ilmenau, Einbruch
 //{"coords": [], "date": "2026-09-28"} // Lidl, Raub
 {"coords": [7.1675, 51.9436], "date": "2026-09-28"}, // Coesfeld, entwendet
+{"coords": [7.82, 47.99], "date": "2026-09-28"}, // Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-09-28"}, // Freiburg, gestohlen
+{"coords": [9.2167, 48.4833], "date": "2026-09-28"}, // Raubdelikt Reutlingen, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2026-09-28"}, // Aalen, Diebstahl
+{"coords": [11.4653, 53.8925], "date": "2026-09-28"}, // Wismar Wismar, Raub
+{"coords": [10.8978, 48.3705], "date": "2026-09-28"}, // Einbruchdiebstahl Augsburg, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2026-09-28"}, // Köln, Raub

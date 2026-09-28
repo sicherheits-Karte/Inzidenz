@@ -21812,3 +21812,4 @@
 //{"coords": [], "date": "2026-09-27"} // Röbel, Diebstahl
 {"coords": [6.9333, 50.3833], "date": "2026-09-27"}, // Adenau, Diebstahl
 {"coords": [6.8333, 49.25], "date": "2026-09-27"}, // Völklingen Völklingen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-09-28"}, // Erfurt, Einbruch

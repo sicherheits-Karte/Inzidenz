@@ -21831,3 +21831,13 @@
 {"coords": [11.4653, 53.8925], "date": "2026-09-28"}, // Wismar Wismar, Raub
 {"coords": [10.8978, 48.3705], "date": "2026-09-28"}, // Einbruchdiebstahl Augsburg, Einbruch
 {"coords": [6.9603, 50.9375], "date": "2026-09-28"}, // Köln, Raub
+//{"coords": [], "date": "2026-09-29"} // Handwerksbetrieb, Einbruch
+//{"coords": [], "date": "2026-09-29"} // Einsatz, Raub
+{"coords": [7.2197, 51.5428], "date": "2026-09-29"}, // Herne, Raub
+//{"coords": [], "date": "2026-09-29"} // Pfalz, Raub
+{"coords": [7.1675, 51.9436], "date": "2026-09-29"}, // Einbruch Coesfeld, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-09-29"}, // Reutlingen, Diebstahl
+{"coords": [9.7194, 53.9522], "date": "2026-09-29"}, // Apotheke Kellinghusen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2026-09-29"}, // Unfälle Aalen, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-09-29"}, // Autodiebstahl Wesel, Diebstahl
+{"coords": [6.75, 51.5833], "date": "2026-09-29"}, // Dinslaken, Diebstahl

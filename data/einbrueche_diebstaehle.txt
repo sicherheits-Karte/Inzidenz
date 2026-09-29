@@ -21841,3 +21841,12 @@
 {"coords": [10.0936, 48.8372], "date": "2026-09-29"}, // Unfälle Aalen, Einbruch
 {"coords": [6.6178, 51.6589], "date": "2026-09-29"}, // Autodiebstahl Wesel, Diebstahl
 {"coords": [6.75, 51.5833], "date": "2026-09-29"}, // Dinslaken, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-09-29"}, // Mannheim, entwendet
+{"coords": [6.7735, 51.2277], "date": "2026-09-29"}, // Düsseldorf, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-09-29"}, // Kneipe Giessen, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2026-09-29"}, // Diebe Bonn, Dieb
+{"coords": [11.4653, 53.8925], "date": "2026-09-29"}, // Wismar, eingebrochen
+{"coords": [10.5267, 52.2689], "date": "2026-09-29"}, // Wohnmobilen Braunschweig, Einbrüche
+//{"coords": [], "date": "2026-09-29"} // Kreis, Einbrüche
+{"coords": [6.6528, 50.5931], "date": "2026-09-29"}, // Wohnungseinbruchdiebstahl Mechernich, Einbruch
+//{"coords": [], "date": "2026-09-29"} // Lommersum, Diebstahl

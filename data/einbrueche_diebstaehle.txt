@@ -21850,3 +21850,8 @@
 //{"coords": [], "date": "2026-09-29"} // Kreis, Einbrüche
 {"coords": [6.6528, 50.5931], "date": "2026-09-29"}, // Wohnungseinbruchdiebstahl Mechernich, Einbruch
 //{"coords": [], "date": "2026-09-29"} // Lommersum, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-09-29"}, // Täterin Augsburg, eigentumsdelikt
+{"coords": [7.3608, 49.2492], "date": "2026-09-29"}, // Zweibrücken, Einbruch
+//{"coords": [], "date": "2026-09-29"} // Süd, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-09-29"}, // Untersuchungshaft Münster, Diebstahl
+{"coords": [8.8556, 48.0778], "date": "2026-09-29"}, // Spaichingen, eingebrochen

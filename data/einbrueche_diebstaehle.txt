@@ -21879,3 +21879,5 @@
 {"coords": [10.8978, 48.3705], "date": "2026-09-30"}, // Schafen Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-09-30"}, // Fahrzeugdiebstahl Augsburg, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2026-09-30"}, // Simeonstraße Trier, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2026-09-30"}, // Einbeck, entwendet
+{"coords": [6.25, 51.2167], "date": "2026-09-30"}, // Mantrailer Brüggen, Raub

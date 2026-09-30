@@ -21855,3 +21855,4 @@
 //{"coords": [], "date": "2026-09-29"} // Süd, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2026-09-29"}, // Untersuchungshaft Münster, Diebstahl
 {"coords": [8.8556, 48.0778], "date": "2026-09-29"}, // Spaichingen, eingebrochen
+//{"coords": [], "date": "2026-09-30"} // See, Diebstahl

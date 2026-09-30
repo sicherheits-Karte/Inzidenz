@@ -21874,3 +21874,8 @@
 {"coords": [6.3917, 51.2556], "date": "2026-09-30"}, // Taschendiebstahl Kreis Viersen, Diebstahl
 {"coords": [8.6944, 49.4092], "date": "2026-09-30"}, // Untersuchungshaft Heidelberg, Diebstahl
 {"coords": [10.7956, 51.5019], "date": "2026-09-30"}, // Zeugen Nordhausen, Dieb
+{"coords": [10.0075, 53.7064], "date": "2026-09-30"}, // Norderstedt, Diebstahl
+{"coords": [8.705, 48.895], "date": "2026-09-30"}, // Zeugenhinweise Pforzheim, Räuber
+{"coords": [10.8978, 48.3705], "date": "2026-09-30"}, // Schafen Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-09-30"}, // Fahrzeugdiebstahl Augsburg, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2026-09-30"}, // Simeonstraße Trier, Einbruch

@@ -21863,3 +21863,14 @@
 {"coords": [8.1667, 51.6833], "date": "2026-09-30"}, // Lippetal, Diebstahl
 //{"coords": [], "date": "2026-09-30"} // Firmengebäude, Einbruch
 //{"coords": [], "date": "2026-09-30"} // Brackel, gestohlen
+{"coords": [9.9092, 53.7306], "date": "2026-09-30"}, // Quickborn, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2026-09-30"}, // Konstantinplatz Trier, Raub
+{"coords": [6.25, 51.35], "date": "2026-09-30"}, // Lobberich, Einbruch
+{"coords": [6.2833, 51.3167], "date": "2026-09-30"}, // Nettetal, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-09-30"}, // Mühlhausen, Einbrecher
+//{"coords": [], "date": "2026-09-30"} // Süchteln, Einbruch
+{"coords": [8.0406, 51.7558], "date": "2026-09-30"}, // Beckum, Diebstahl
+//{"coords": [], "date": "2026-09-30"} // Technik Bornhagen, Dieb
+{"coords": [6.3917, 51.2556], "date": "2026-09-30"}, // Taschendiebstahl Kreis Viersen, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2026-09-30"}, // Untersuchungshaft Heidelberg, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2026-09-30"}, // Zeugen Nordhausen, Dieb

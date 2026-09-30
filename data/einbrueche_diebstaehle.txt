@@ -21856,3 +21856,10 @@
 {"coords": [8.8678, 49.9228], "date": "2026-09-29"}, // Untersuchungshaft Münster, Diebstahl
 {"coords": [8.8556, 48.0778], "date": "2026-09-29"}, // Spaichingen, eingebrochen
 //{"coords": [], "date": "2026-09-30"} // See, Diebstahl
+{"coords": [8.6514, 49.8728], "date": "2026-09-30"}, // Zeugen Darmstadt, gestohlen
+//{"coords": [], "date": "2026-09-30"} // Weiterstadt, Dieb
+{"coords": [9.4108, 53.1111], "date": "2026-09-30"}, // Rotenburg, Einbruch
+{"coords": [8.6031, 49.8056], "date": "2026-09-30"}, // Pfungstadt, Einbruch
+{"coords": [8.1667, 51.6833], "date": "2026-09-30"}, // Lippetal, Diebstahl
+//{"coords": [], "date": "2026-09-30"} // Firmengebäude, Einbruch
+//{"coords": [], "date": "2026-09-30"} // Brackel, gestohlen

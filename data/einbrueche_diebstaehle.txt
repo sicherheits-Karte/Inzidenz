@@ -21905,3 +21905,12 @@
 {"coords": [9.4108, 53.1111], "date": "2026-10-02"}, // Rotenburg, entwendet
 {"coords": [9.6775, 50.5528], "date": "2026-10-02"}, // Fulda, Einbruch
 {"coords": [10.0831, 52.6247], "date": "2026-10-02"}, // Baustelle Celle, Diebstahl
+//{"coords": [], "date": "2026-10-02"} // Kein Ort gefunden, Raub
+{"coords": [11.4012, 53.6355], "date": "2026-10-02"}, // Schwerin Schwerin, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2026-10-02"}, // Hauptbahnhof Münster, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2026-10-02"}, // Mitte, Diebstahl
+{"coords": [11.4012, 53.6355], "date": "2026-10-02"}, // Schwerin, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2026-10-02"}, // Ludwigsburg, stahl
+{"coords": [6.9603, 50.9375], "date": "2026-10-02"}, // Tatverdacht Köln, Raub
+{"coords": [7.2, 50.8333], "date": "2026-10-02"}, // Zeugen Lohmar, Raub
+{"coords": [8.24, 50.0822], "date": "2026-10-02"}, // Wohnhaus Wiesbaden, Einbruch

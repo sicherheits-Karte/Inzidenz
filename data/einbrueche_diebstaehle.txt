@@ -21897,3 +21897,4 @@
 //{"coords": [], "date": "2026-10-01"} // Glowe, Diebstahl
 {"coords": [7.82, 47.99], "date": "2026-10-01"}, // Freiburg, entwendet
 //{"coords": [], "date": "2026-10-01"} // Kreis, Einbrecher
+{"coords": [8.2833, 49.3667], "date": "2026-10-02"}, // Haßloch, entwendet

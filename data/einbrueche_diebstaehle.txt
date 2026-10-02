@@ -21914,3 +21914,5 @@
 {"coords": [6.9603, 50.9375], "date": "2026-10-02"}, // Tatverdacht Köln, Raub
 {"coords": [7.2, 50.8333], "date": "2026-10-02"}, // Zeugen Lohmar, Raub
 {"coords": [8.24, 50.0822], "date": "2026-10-02"}, // Wohnhaus Wiesbaden, Einbruch
+//{"coords": [], "date": "2026-10-02"} // Friedhof Bad Gandersheim, Diebstahl
+//{"coords": [], "date": "2026-10-02"} // Quiddelbacher Höhe, Diebstahl

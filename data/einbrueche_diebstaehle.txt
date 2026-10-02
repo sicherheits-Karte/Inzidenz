@@ -21916,3 +21916,4 @@
 {"coords": [8.24, 50.0822], "date": "2026-10-02"}, // Wohnhaus Wiesbaden, Einbruch
 //{"coords": [], "date": "2026-10-02"} // Friedhof Bad Gandersheim, Diebstahl
 //{"coords": [], "date": "2026-10-02"} // Quiddelbacher Höhe, Diebstahl
+//{"coords": [], "date": "2026-10-02"} // Werlte, Einbruch

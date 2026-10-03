@@ -21926,3 +21926,7 @@
 {"coords": [8.4639, 53.1167], "date": "2026-10-03"}, // Hude Delmenhorst, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2026-10-03"}, // Vechta, Einbruch
 {"coords": [7.1, 51.5167], "date": "2026-10-03"}, // Polizeihund Gelsenkirchen, Dieb
+{"coords": [8.6944, 53.8619], "date": "2026-10-03"}, // Zeugenaufruf Cuxhaven, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-10-03"}, // Hildesheim, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-10-03"}, // Gehege Limburg, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-10-03"}, // Gefährliche Körperverletzung Reutlingen, Raub

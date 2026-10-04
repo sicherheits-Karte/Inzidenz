@@ -21958,3 +21958,5 @@
 {"coords": [9.95, 52.15], "date": "2026-10-04"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [11.8486, 53.4261], "date": "2026-10-04"}, // Parchim Parchim, entwendet
 //{"coords": [], "date": "2026-10-04"} // Thier, Raub
+{"coords": [10.7183, 50.9489], "date": "2026-10-04"}, // Höhe Gotha, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-10-04"}, // Gotha, gestohlen

@@ -21947,3 +21947,8 @@
 //{"coords": [], "date": "2026-10-04"} // Zentrum, Raub
 //{"coords": [], "date": "2026-10-04"} // Großvernich, Einbrüche
 //{"coords": [], "date": "2026-10-04"} // Derkum, Einbrecher
+{"coords": [8.4414, 50.0919], "date": "2026-10-04"}, // Krankenhaus Hofheim, Diebstahl
+{"coords": [7.5667, 51.0833], "date": "2026-10-04"}, // Gummersbach, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2026-10-04"}, // Uhr Landkreis Harburg, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-10-04"}, // Lüneburg, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-10-04"}, // Reutlingen, entwendet

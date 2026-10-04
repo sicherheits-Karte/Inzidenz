@@ -21937,3 +21937,13 @@
 //{"coords": [], "date": "2026-10-04"} // Kalefelder Ortschaft Westerhof Bad Gandersheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-10-04"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-10-04"}, // Zeugen Bochum, Raub
+{"coords": [9.95, 52.15], "date": "2026-10-04"}, // Stadtgebiet Bad Salzdetfurth Hildesheim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-10-04"}, // Wiesbaden, Einbrecher
+{"coords": [8.1075, 53.5219], "date": "2026-10-04"}, // Wilhelmshaven, Diebstähle
+//{"coords": [], "date": "2026-10-04"} // Hardt, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2026-10-04"}, // Untersuchungshaft Düsseldorf, Einbruch
+{"coords": [10.4458, 50.8242], "date": "2026-10-04"}, // Batterien Brotterode, Diebstahl
+//{"coords": [], "date": "2026-10-04"} // Niederkastenholz, Einbruch
+//{"coords": [], "date": "2026-10-04"} // Zentrum, Raub
+//{"coords": [], "date": "2026-10-04"} // Großvernich, Einbrüche
+//{"coords": [], "date": "2026-10-04"} // Derkum, Einbrecher

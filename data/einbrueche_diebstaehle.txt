@@ -21952,3 +21952,9 @@
 {"coords": [10.6833, 48.7833], "date": "2026-10-04"}, // Uhr Landkreis Harburg, Einbruch
 {"coords": [10.4, 53.25], "date": "2026-10-04"}, // Lüneburg, entwendet
 {"coords": [9.2167, 48.4833], "date": "2026-10-04"}, // Reutlingen, entwendet
+//{"coords": [], "date": "2026-10-04"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2026-10-04"} // Fahrzeugkolonne Piesport, klau
+{"coords": [8.9167, 50.1333], "date": "2026-10-04"}, // Zeugen Hanau, Dieb
+{"coords": [9.95, 52.15], "date": "2026-10-04"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [11.8486, 53.4261], "date": "2026-10-04"}, // Parchim Parchim, entwendet
+//{"coords": [], "date": "2026-10-04"} // Thier, Raub

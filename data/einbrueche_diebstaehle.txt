@@ -21975,3 +21975,4 @@
 {"coords": [9.2167, 48.4833], "date": "2026-10-05"}, // Reutlingen, Einbruch
 {"coords": [9.1828, 48.7756], "date": "2026-10-05"}, // Stuttgart- Gablenberg, eingebrochen
 //{"coords": [], "date": "2026-10-05"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.5228, 49.9828], "date": "2026-10-05"}, // Simmern, entwendet

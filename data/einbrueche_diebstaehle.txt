@@ -21967,3 +21967,11 @@
 {"coords": [7.2197, 51.5428], "date": "2026-10-05"}, // Tatverdächtigen Herne, Einbruch
 {"coords": [8.5333, 50.0833], "date": "2026-10-05"}, // Höchst, gestohlen
 {"coords": [8.705, 48.895], "date": "2026-10-05"}, // Halskette Pforzheim, Raub
+//{"coords": [], "date": "2026-10-05"} // Bad Cannstatt, Diebstahl
+//{"coords": [], "date": "2026-10-05"} // Kreis, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-10-05"}, // Tipps Giessen, Einbruch
+//{"coords": [], "date": "2026-10-05"} // Zeugenaufruf Durmersheim, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-10-05"}, // Einbruch Reutlingen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-10-05"}, // Reutlingen, Einbruch
+{"coords": [9.1828, 48.7756], "date": "2026-10-05"}, // Stuttgart- Gablenberg, eingebrochen
+//{"coords": [], "date": "2026-10-05"} // Kein Ort gefunden, Diebstahl

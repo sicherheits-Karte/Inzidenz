@@ -21960,3 +21960,10 @@
 //{"coords": [], "date": "2026-10-04"} // Thier, Raub
 {"coords": [10.7183, 50.9489], "date": "2026-10-04"}, // Höhe Gotha, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-10-04"}, // Gotha, gestohlen
+{"coords": [7.8208, 51.6803], "date": "2026-10-05"}, // Hamm, Einbruch
+{"coords": [8.3667, 49.2167], "date": "2026-10-05"}, // Germersheim, Einbrecher
+{"coords": [7.9167, 51.5833], "date": "2026-10-05"}, // Hövel, Einbruch
+//{"coords": [], "date": "2026-10-05"} // Benhausen, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-10-05"}, // Tatverdächtigen Herne, Einbruch
+{"coords": [8.5333, 50.0833], "date": "2026-10-05"}, // Höchst, gestohlen
+{"coords": [8.705, 48.895], "date": "2026-10-05"}, // Halskette Pforzheim, Raub

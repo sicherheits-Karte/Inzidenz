@@ -21976,3 +21976,11 @@
 {"coords": [9.1828, 48.7756], "date": "2026-10-05"}, // Stuttgart- Gablenberg, eingebrochen
 //{"coords": [], "date": "2026-10-05"} // Kein Ort gefunden, Diebstahl
 {"coords": [7.5228, 49.9828], "date": "2026-10-05"}, // Simmern, entwendet
+{"coords": [9.3833, 50.6333], "date": "2026-10-06"}, // Discounter Vogelsbergkreis, Einbruch
+//{"coords": [], "date": "2026-10-06"} // Kreis, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-10-06"}, // Kennzeichendiebstahl Fulda, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-10-06"}, // Gelsenkirchen, entwendet
+{"coords": [8.6306, 53.05], "date": "2026-10-06"}, // Delmenhorst, Einbruch
+{"coords": [11.9833, 48.3167], "date": "2026-10-06"}, // Dieselkraftstoff Bockhorn, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-10-06"}, // Ingewahrsmnahme Reutlingen, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-10-06"}, // Zeugensuche Freiburg, Diebstahl

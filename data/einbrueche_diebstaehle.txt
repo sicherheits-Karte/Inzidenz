@@ -21984,3 +21984,9 @@
 {"coords": [11.9833, 48.3167], "date": "2026-10-06"}, // Dieselkraftstoff Bockhorn, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-10-06"}, // Ingewahrsmnahme Reutlingen, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-10-06"}, // Zeugensuche Freiburg, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2026-10-06"}, // Mönchengladbach, Dieb
+{"coords": [8.5833, 53.55], "date": "2026-10-06"}, // Mitte, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-10-06"}, // Fahrzeugaufbrüche Reutlingen, Einbrüche
+{"coords": [7.1675, 51.9436], "date": "2026-10-06"}, // Praxis Coesfeld, Einbruch
+{"coords": [9.8, 53.6592], "date": "2026-10-06"}, // Kreis Pinneberg, Diebstahl
+{"coords": [8.6833, 50.5833], "date": "2026-10-06"}, // Giessen, Einbruch

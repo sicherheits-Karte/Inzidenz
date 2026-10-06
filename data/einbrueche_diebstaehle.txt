@@ -21990,3 +21990,5 @@
 {"coords": [7.1675, 51.9436], "date": "2026-10-06"}, // Praxis Coesfeld, Einbruch
 {"coords": [9.8, 53.6592], "date": "2026-10-06"}, // Kreis Pinneberg, Diebstahl
 {"coords": [8.6833, 50.5833], "date": "2026-10-06"}, // Giessen, Einbruch
+//{"coords": [], "date": "2026-10-06"} // Oberroßbach, Diebstahl
+//{"coords": [], "date": "2026-10-06"} // Kalefeld Bad Gandersheim, Diebstähle

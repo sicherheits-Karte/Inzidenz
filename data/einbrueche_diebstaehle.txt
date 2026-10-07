@@ -21993,3 +21993,12 @@
 //{"coords": [], "date": "2026-10-06"} // Oberroßbach, Diebstahl
 //{"coords": [], "date": "2026-10-06"} // Kalefeld Bad Gandersheim, Diebstähle
 {"coords": [9.95, 52.15], "date": "2026-10-06"}, // Zeugenaufruf Hildesheim, entwendet
+//{"coords": [], "date": "2026-10-07"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2026-10-07"} // Kein Ort gefunden, Dieb
+{"coords": [11.0299, 50.9848], "date": "2026-10-07"}, // Erfurt, gestohlen
+{"coords": [8.6514, 49.8728], "date": "2026-10-07"}, // Darmstadt, Dieb
+{"coords": [10.0, 51.7064], "date": "2026-10-07"}, // Motorradreifen Northeim, Raub
+{"coords": [8.6514, 49.8728], "date": "2026-10-07"}, // Darmstadt, gestohlen
+{"coords": [8.5667, 49.65], "date": "2026-10-07"}, // Euro Lorsch, Einbruch
+//{"coords": [], "date": "2026-10-07"} // Ramstadt, entwendet
+{"coords": [8.0, 51.45], "date": "2026-10-07"}, // Parfümerie Arnsberg, Einbruch

@@ -22002,3 +22002,16 @@
 {"coords": [8.5667, 49.65], "date": "2026-10-07"}, // Euro Lorsch, Einbruch
 //{"coords": [], "date": "2026-10-07"} // Ramstadt, entwendet
 {"coords": [8.0, 51.45], "date": "2026-10-07"}, // Parfümerie Arnsberg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-10-07"}, // Einbruch Augsburg, Einbruch
+{"coords": [8.5331, 52.021], "date": "2026-10-07"}, // Bielefeld, gestohlen
+{"coords": [7.7689, 49.4447], "date": "2026-10-07"}, // Kaiserslautern, Einbruch
+{"coords": [8.24, 50.0822], "date": "2026-10-07"}, // Zeugenaufruf Wiesbaden, entwendet
+{"coords": [10.8978, 48.3705], "date": "2026-10-07"}, // Fahrraddiebstahl Augsburg, Diebstahl
+//{"coords": [], "date": "2026-10-07"} // Wohnungsbrand leicht verletzt mehr, Dieb
+{"coords": [8.3708, 52.6078], "date": "2026-10-07"}, // Diepholz, entwendet
+{"coords": [8.0739, 48.6311], "date": "2026-10-07"}, // Haft Achern, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2026-10-07"}, // Zeugen Münster, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-10-07"}, // Limburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-10-07"}, // Giessen, Diebstähle
+{"coords": [9.1919, 48.8975], "date": "2026-10-07"}, // Ludwigsburg, Dieb
+{"coords": [6.6, 51.55], "date": "2026-10-07"}, // Zeugen Rheinberg, stehlen

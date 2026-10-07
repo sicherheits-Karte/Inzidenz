@@ -22016,3 +22016,4 @@
 {"coords": [9.1919, 48.8975], "date": "2026-10-07"}, // Ludwigsburg, Dieb
 {"coords": [6.6, 51.55], "date": "2026-10-07"}, // Zeugen Rheinberg, stehlen
 //{"coords": [], "date": "2026-10-07"} // Malborn, entwendet
+//{"coords": [], "date": "2026-10-07"} // Saarburg Saarburg, Einbrüche

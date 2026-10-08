@@ -22017,3 +22017,9 @@
 {"coords": [6.6, 51.55], "date": "2026-10-07"}, // Zeugen Rheinberg, stehlen
 //{"coords": [], "date": "2026-10-07"} // Malborn, entwendet
 //{"coords": [], "date": "2026-10-07"} // Saarburg Saarburg, Einbrüche
+//{"coords": [], "date": "2026-10-08"} // Kein Ort gefunden, Dieb
+{"coords": [8.7667, 50.1], "date": "2026-10-08"}, // Kreis Offenbach, Einbruch
+{"coords": [6.4247, 51.0067], "date": "2026-10-08"}, // Hinweise Titz, entwendet
+//{"coords": [], "date": "2026-10-08"} // Kreuzau, Einbruch
+{"coords": [6.4833, 50.8], "date": "2026-10-08"}, // Zeugen Düren, Einbruch
+{"coords": [9.0817, 52.1906], "date": "2026-10-08"}, // Zeugen Rinteln, Einbrüche

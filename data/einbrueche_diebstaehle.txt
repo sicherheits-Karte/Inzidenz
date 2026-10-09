@@ -22030,3 +22030,8 @@
 {"coords": [7.7689, 49.4447], "date": "2026-10-08"}, // Kaiserslautern, gestohlen
 {"coords": [9.1919, 48.8975], "date": "2026-10-08"}, // Gaststätte Ludwigsburg, Einbruch
 //{"coords": [], "date": "2026-10-09"} // Täterfestnahme Bad Gandersheim, Diebstahl
+{"coords": [9.0492, 52.2603], "date": "2026-10-09"}, // Zeugen Bückeburg, gestohlen
+//{"coords": [], "date": "2026-10-09"} // Kein Ort gefunden, Dieb
+{"coords": [7.9833, 51.95], "date": "2026-10-09"}, // Einsatz Warendorf, Raub
+{"coords": [8.4111, 49.9917], "date": "2026-10-09"}, // Rüsselsheim, Dieb
+{"coords": [7.4333, 52.2833], "date": "2026-10-09"}, // Rheine, Raub

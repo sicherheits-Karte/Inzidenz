@@ -22040,3 +22040,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-10-09"}, // Aalen, Einbrecher
 {"coords": [8.5333, 48.0667], "date": "2026-10-09"}, // Schwenningen, Einbrüche
 //{"coords": [], "date": "2026-10-09"} // Herzberg gestohlen, Zeugen gesucht mehr, gestohlen
+//{"coords": [], "date": "2026-10-21"} // Dettingen, stehlen
+{"coords": [10.1228, 54.3233], "date": "2026-10-21"}, // Kiel, Raub
+{"coords": [7.7689, 49.4447], "date": "2026-10-21"}, // Kaiserslautern, Einbruch
+//{"coords": [], "date": "2026-10-21"} // Kein Ort gefunden, Einbruch
+{"coords": [7.2333, 52.3167], "date": "2026-10-21"}, // Schüttorf, entwendet
+//{"coords": [], "date": "2026-10-21"} // Tierarztpraxis Bad Bentheim, entwendet

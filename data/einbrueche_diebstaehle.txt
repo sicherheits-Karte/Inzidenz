@@ -22046,3 +22046,5 @@
 //{"coords": [], "date": "2026-10-21"} // Kein Ort gefunden, Einbruch
 {"coords": [7.2333, 52.3167], "date": "2026-10-21"}, // Schüttorf, entwendet
 //{"coords": [], "date": "2026-10-21"} // Tierarztpraxis Bad Bentheim, entwendet
+{"coords": [8.5833, 53.55], "date": "2026-10-21"}, // Mitte, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2026-10-21"}, // Reutlingen, gestohlen

@@ -22061,3 +22061,11 @@
 {"coords": [9.9916, 48.3984], "date": "2026-10-22"}, // Ulm, Einbruch
 {"coords": [7.82, 47.99], "date": "2026-10-22"}, // Zeugen Freiburg, Einbruch
 {"coords": [7.1508, 51.2562], "date": "2026-10-22"}, // Wuppertal, Raub
+//{"coords": [], "date": "2026-10-22"} // West, eingebrochen
+//{"coords": [], "date": "2026-10-22"} // Süd, gestohlen
+{"coords": [8.4661, 49.4878], "date": "2026-10-22"}, // Zeugenaufruf Mannheim, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-10-22"}, // Mannheim, entwendet
+{"coords": [6.6167, 51.75], "date": "2026-10-22"}, // Zeugen Rees, Raub
+{"coords": [8.4043, 49.014], "date": "2026-10-22"}, // Mehrfamilienhaus Karlsruhe, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-10-22"}, // Schulen Kaiserslautern, Einbruch
+//{"coords": [], "date": "2026-10-22"} // Herzogenrath, Einbrüche

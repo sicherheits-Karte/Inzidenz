@@ -22048,3 +22048,7 @@
 //{"coords": [], "date": "2026-10-21"} // Tierarztpraxis Bad Bentheim, entwendet
 {"coords": [8.5833, 53.55], "date": "2026-10-21"}, // Mitte, Einbrüche
 {"coords": [9.2167, 48.4833], "date": "2026-10-21"}, // Reutlingen, gestohlen
+{"coords": [8.0, 51.45], "date": "2026-10-22"}, // Mehrfamilienhaus Arnsberg, Einbruch
+{"coords": [9.2, 49.4], "date": "2026-10-22"}, // Neckar, eingebrochen
+{"coords": [12.0799, 50.8772], "date": "2026-10-22"}, // Gera, Diebstahl
+{"coords": [12.4333, 50.985], "date": "2026-10-22"}, // Altenburg, gestohlen

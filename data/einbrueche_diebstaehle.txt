@@ -22052,3 +22052,12 @@
 {"coords": [9.2, 49.4], "date": "2026-10-22"}, // Neckar, eingebrochen
 {"coords": [12.0799, 50.8772], "date": "2026-10-22"}, // Gera, Diebstahl
 {"coords": [12.4333, 50.985], "date": "2026-10-22"}, // Altenburg, gestohlen
+//{"coords": [], "date": "2026-10-22"} // Hinweise Melsungen, Dieb
+//{"coords": [], "date": "2026-10-22"} // Kreis, gestohlen
+{"coords": [8.6944, 53.8619], "date": "2026-10-22"}, // Geestland Cuxhaven, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2026-10-22"}, // Cuxhaven Cuxhaven, Einbrüche
+//{"coords": [], "date": "2026-10-22"} // Selbstbedienungswaschanlage Weilerswist, Einbruch
+{"coords": [7.45, 51.4], "date": "2026-10-22"}, // Herdecke Herdecke, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-10-22"}, // Ulm, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-10-22"}, // Zeugen Freiburg, Einbruch
+{"coords": [7.1508, 51.2562], "date": "2026-10-22"}, // Wuppertal, Raub

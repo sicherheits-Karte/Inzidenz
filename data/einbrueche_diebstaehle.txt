@@ -22069,3 +22069,6 @@
 {"coords": [8.4043, 49.014], "date": "2026-10-22"}, // Mehrfamilienhaus Karlsruhe, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2026-10-22"}, // Schulen Kaiserslautern, Einbruch
 //{"coords": [], "date": "2026-10-22"} // Herzogenrath, Einbrüche
+{"coords": [7.3667, 50.9333], "date": "2026-10-22"}, // Much, Einbruch
+//{"coords": [], "date": "2026-10-22"} // der Käfernburger Straße entwendeten Unbekannte mehrere Werkzeuge, unter anderem der Marken, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2026-10-22"}, // Gotha, entwendet

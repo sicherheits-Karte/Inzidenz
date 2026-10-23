@@ -22080,3 +22080,10 @@
 {"coords": [7.9167, 51.5833], "date": "2026-10-23"}, // Hövel, entwendet
 //{"coords": [], "date": "2026-10-23"} // Diebstahl Altenberge, Diebstahl
 //{"coords": [], "date": "2026-10-23"} // Kreis, Dieb
+//{"coords": [], "date": "2026-10-23"} // Wohnhaus Breitscheid, Diebstahl
+//{"coords": [], "date": "2026-10-23"} // schwarzer Pkw Mercedes-Benz, S-Klasse im Wert vom, Diebstahl
+{"coords": [9.8667, 51.8167], "date": "2026-10-23"}, // Einkaufsmarkt Einbeck, Diebstähle
+{"coords": [9.8667, 51.8167], "date": "2026-10-23"}, // Einbeck, Diebstahl
+//{"coords": [], "date": "2026-10-23"} // Pfohren, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-10-23"}, // Ludwigsburg, Dieb
+//{"coords": [], "date": "2026-10-23"} // Zeugen Büttelborn, Einbruch

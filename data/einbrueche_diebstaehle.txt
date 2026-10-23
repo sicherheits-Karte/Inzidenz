@@ -22072,3 +22072,11 @@
 {"coords": [7.3667, 50.9333], "date": "2026-10-22"}, // Much, Einbruch
 //{"coords": [], "date": "2026-10-22"} // der Käfernburger Straße entwendeten Unbekannte mehrere Werkzeuge, unter anderem der Marken, Diebstahl
 {"coords": [10.7183, 50.9489], "date": "2026-10-22"}, // Gotha, entwendet
+{"coords": [7.82, 47.99], "date": "2026-10-23"}, // Freiburg, Einbrecher
+{"coords": [8.0472, 52.2799], "date": "2026-10-23"}, // Zeugen Osnabrück, Einbruch
+//{"coords": [], "date": "2026-10-23"} // Kein Ort gefunden, Einbruch
+{"coords": [9.1, 48.8], "date": "2026-10-23"}, // Weilimdorf, eingebrochen
+{"coords": [6.9603, 50.9375], "date": "2026-10-23"}, // Zeugenaufruf Köln, gestohlen
+{"coords": [7.9167, 51.5833], "date": "2026-10-23"}, // Hövel, entwendet
+//{"coords": [], "date": "2026-10-23"} // Diebstahl Altenberge, Diebstahl
+//{"coords": [], "date": "2026-10-23"} // Kreis, Dieb

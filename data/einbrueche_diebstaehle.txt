@@ -22087,3 +22087,4 @@
 //{"coords": [], "date": "2026-10-23"} // Pfohren, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-10-23"}, // Ludwigsburg, Dieb
 //{"coords": [], "date": "2026-10-23"} // Zeugen Büttelborn, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2026-10-24"}, // Zeugen Bochum, Raub

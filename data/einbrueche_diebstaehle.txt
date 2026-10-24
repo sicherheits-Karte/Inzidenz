@@ -22107,3 +22107,4 @@
 {"coords": [10.0936, 48.8372], "date": "2026-10-24"}, // Einbrüche Aalen, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-10-24"}, // Einsatz Mannheim, Raub
 //{"coords": [], "date": "2026-10-24"} // Ingbert, Diebstahl
+{"coords": [8.4661, 49.4878], "date": "2026-10-24"}, // Mannheim, Raub

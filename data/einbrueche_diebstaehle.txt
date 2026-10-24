@@ -22098,3 +22098,9 @@
 {"coords": [8.2869, 52.7303], "date": "2026-10-24"}, // Vechta, Einbruch
 {"coords": [6.8833, 52.5], "date": "2026-10-24"}, // Einfamilienhaus Uelsen, entwendet
 {"coords": [7.7689, 49.4447], "date": "2026-10-24"}, // Bännjerrück Kaiserslautern, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2026-10-24"}, // Erfurt, entwendet
+{"coords": [8.0667, 50.3833], "date": "2026-10-24"}, // Personen Limburg, gestohlen
+{"coords": [10.95, 50.8333], "date": "2026-10-24"}, // Mehrfamilienhaus Arnstadt, Einbruch
+//{"coords": [], "date": "2026-10-24"} // Gaststätte, Einbruch
+{"coords": [11.35, 48.3], "date": "2026-10-24"}, // Schwabhausen, Dieb
+{"coords": [8.3708, 52.6078], "date": "2026-10-24"}, // Diepholz, Einbruch

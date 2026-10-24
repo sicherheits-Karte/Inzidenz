@@ -22105,3 +22105,5 @@
 {"coords": [11.35, 48.3], "date": "2026-10-24"}, // Schwabhausen, Dieb
 {"coords": [8.3708, 52.6078], "date": "2026-10-24"}, // Diepholz, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2026-10-24"}, // Einbrüche Aalen, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-10-24"}, // Einsatz Mannheim, Raub
+//{"coords": [], "date": "2026-10-24"} // Ingbert, Diebstahl

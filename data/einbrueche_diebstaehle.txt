@@ -22128,3 +22128,4 @@
 //{"coords": [], "date": "2026-10-25"} // Bad Gandersheim Bad Gandersheim, Einbruch
 //{"coords": [], "date": "2026-10-25"} // Rhein, gestohlen
 //{"coords": [], "date": "2026-10-25"} // Erzhausen Bad Gandersheim, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2026-10-25"}, // Zeugen Bochum, Einbrecher

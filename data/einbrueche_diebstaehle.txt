@@ -22129,3 +22129,4 @@
 //{"coords": [], "date": "2026-10-25"} // Rhein, gestohlen
 //{"coords": [], "date": "2026-10-25"} // Erzhausen Bad Gandersheim, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2026-10-25"}, // Zeugen Bochum, Einbrecher
+{"coords": [7.3333, 51.4333], "date": "2026-10-25"}, // Zeugen Witten, Einbruch

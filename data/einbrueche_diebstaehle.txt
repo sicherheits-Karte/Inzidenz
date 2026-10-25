@@ -22124,3 +22124,4 @@
 //{"coords": [], "date": "2026-10-25"} // Altenburger Land, Einbruch
 //{"coords": [], "date": "2026-10-25"} // Kues, Einbruch
 {"coords": [8.24, 50.0822], "date": "2026-10-25"}, // Mülltonnenbrand Wiesbaden, Einbruch
+//{"coords": [], "date": "2026-10-25"} // Gaststätte Bad Dürkheim, Einbruch

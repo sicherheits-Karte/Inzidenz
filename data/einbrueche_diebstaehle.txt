@@ -22134,3 +22134,14 @@
 {"coords": [12.0799, 50.8772], "date": "2026-10-26"}, // Gera, Diebstahl
 {"coords": [12.0799, 50.8772], "date": "2026-10-26"}, // Gera, Einbruch
 {"coords": [12.4333, 50.985], "date": "2026-10-26"}, // Altenburg, gestohlen
+{"coords": [7.8231, 50.64], "date": "2026-10-26"}, // Hachenburg, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-10-26"}, // Gütersloh, Einbruch
+{"coords": [8.2833, 48.8333], "date": "2026-10-26"}, // Einfamilienhaus Bischweier, Einbruch
+{"coords": [8.1333, 48.7], "date": "2026-10-26"}, // Bühl, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2026-10-26"}, // Zeugen Dortmund, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-10-26"}, // Hinweise Münster, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-10-26"}, // Zeugen Freiburg, Einbruch
+{"coords": [10.4, 53.25], "date": "2026-10-26"}, // Lüneburg, Diebstahl
+{"coords": [8.3833, 51.9], "date": "2026-10-26"}, // Einfamilienhaus Gütersloh, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-10-26"}, // Zeugenaufruf Hildesheim, Diebstahl
+//{"coords": [], "date": "2026-10-26"} // Egenhausen, eingebrochen

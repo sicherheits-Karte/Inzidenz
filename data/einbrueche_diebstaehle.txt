@@ -22145,3 +22145,14 @@
 {"coords": [8.3833, 51.9], "date": "2026-10-26"}, // Einfamilienhaus Gütersloh, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-10-26"}, // Zeugenaufruf Hildesheim, Diebstahl
 //{"coords": [], "date": "2026-10-26"} // Egenhausen, eingebrochen
+{"coords": [9.4108, 53.1111], "date": "2026-10-26"}, // Rotenburg, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-10-26"}, // Geldbörse- Sachbeschädigung Fulda, Einbrüche
+{"coords": [9.3833, 50.6333], "date": "2026-10-26"}, // Hausbewohner Vogelsbergkreis, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-10-26"}, // Verkaufsgeschäft Reutlingen, Einbrüche
+{"coords": [10.8978, 48.3705], "date": "2026-10-26"}, // Verkaufsautomaten Augsburg, aufbrüche
+{"coords": [10.8978, 48.3705], "date": "2026-10-26"}, // Ladendiebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-10-26"}, // Wohnungseinbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-10-26"}, // Widerstand Augsburg, eigentumsdelikt
+{"coords": [10.8978, 48.3705], "date": "2026-10-26"}, // Fahrraddiebstählen Augsburg, Diebstähle
+{"coords": [10.8978, 48.3705], "date": "2026-10-26"}, // Augsburg, Einbruch
+{"coords": [8.6833, 50.5833], "date": "2026-10-26"}, // Giessen, Einbrecher

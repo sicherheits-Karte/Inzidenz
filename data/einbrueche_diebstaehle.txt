@@ -22156,3 +22156,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-10-26"}, // Fahrraddiebstählen Augsburg, Diebstähle
 {"coords": [10.8978, 48.3705], "date": "2026-10-26"}, // Augsburg, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-10-26"}, // Giessen, Einbrecher
+{"coords": [9.95, 52.15], "date": "2026-10-26"}, // Alfeld Hildesheim, Diebstahl

@@ -22213,3 +22213,5 @@
 //{"coords": [], "date": "2026-10-28"} // Wässerung, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-10-28"}, // Knallgeräusch Reutlingen, Einbruch
 //{"coords": [], "date": "2026-10-28"} // Täter Bad Emstal, gestohlen
+{"coords": [9.95, 52.15], "date": "2026-10-28"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-10-28"}, // Zeugenaufruf Hildesheim, Einbruch

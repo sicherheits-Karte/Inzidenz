@@ -22208,3 +22208,8 @@
 {"coords": [7.82, 47.99], "date": "2026-10-28"}, // Freiburg, Einbruch
 {"coords": [9.6694, 53.6875], "date": "2026-10-28"}, // Uetersen, Dieb
 {"coords": [7.82, 47.99], "date": "2026-10-28"}, // Zeugen Freiburg, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2026-10-28"}, // Vechta, Raub
+//{"coords": [], "date": "2026-10-28"} // Bargeld im niedrigen fünfstelligen Bereich mehr, Diebstahl
+//{"coords": [], "date": "2026-10-28"} // Wässerung, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-10-28"}, // Knallgeräusch Reutlingen, Einbruch
+//{"coords": [], "date": "2026-10-28"} // Täter Bad Emstal, gestohlen

@@ -22215,3 +22215,13 @@
 //{"coords": [], "date": "2026-10-28"} // Täter Bad Emstal, gestohlen
 {"coords": [9.95, 52.15], "date": "2026-10-28"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-10-28"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-10-29"}, // Delmenhorst, Diebstahl
+//{"coords": [], "date": "2026-10-29"} // Kreis, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-10-29"}, // Ulm, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-10-29"}, // Emden, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2026-10-29"}, // Kabelrollen Lingen, entwendet
+//{"coords": [], "date": "2026-10-29"} // Schalksmühle, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-10-29"}, // Bremen, Einbrecher
+{"coords": [7.4139, 50.9889], "date": "2026-10-29"}, // Einfamilienhaus Engelskirchen, Einbruch
+{"coords": [13.2611, 53.5569], "date": "2026-10-29"}, // Polizei Neubrandenburg, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-10-29"}, // Delmenhorst, Einbruch

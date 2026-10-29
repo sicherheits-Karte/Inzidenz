@@ -22225,3 +22225,11 @@
 {"coords": [7.4139, 50.9889], "date": "2026-10-29"}, // Einfamilienhaus Engelskirchen, Einbruch
 {"coords": [13.2611, 53.5569], "date": "2026-10-29"}, // Polizei Neubrandenburg, Einbruch
 {"coords": [8.6306, 53.05], "date": "2026-10-29"}, // Delmenhorst, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-10-29"}, // Kaiserslautern, gestohlen
+{"coords": [7.7689, 49.4447], "date": "2026-10-29"}, // Kaiserslautern, Dieb
+{"coords": [8.8731, 51.275], "date": "2026-10-29"}, // Korbach Korbach, Einbruch
+//{"coords": [], "date": "2026-10-29"} // Kein Ort gefunden, Einbrecher
+{"coords": [8.6833, 50.5833], "date": "2026-10-29"}, // Giessen, Einbrecher
+{"coords": [10.8978, 48.3705], "date": "2026-10-29"}, // Diebstahl Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-10-29"}, // Augsburg, Einbruch
+{"coords": [7.5314, 52.5536], "date": "2026-10-29"}, // Wohnhaus Lengerich, Einbruch

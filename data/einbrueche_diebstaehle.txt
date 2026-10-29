@@ -22233,3 +22233,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-10-29"}, // Diebstahl Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-10-29"}, // Augsburg, Einbruch
 {"coords": [7.5314, 52.5536], "date": "2026-10-29"}, // Wohnhaus Lengerich, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-10-29"}, // Einbruch Coesfeld, Einbruch

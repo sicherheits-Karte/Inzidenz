@@ -22239,3 +22239,6 @@
 {"coords": [7.4017, 50.4397], "date": "2026-10-30"}, // Festnahme Andernach, Einbruch
 {"coords": [10.7333, 50.65], "date": "2026-10-30"}, // Mehlis, Diebstahl
 {"coords": [10.6944, 50.6111], "date": "2026-10-30"}, // Suhl, Diebstahl
+{"coords": [6.85, 49.3], "date": "2026-10-30"}, // Bad Schwalbach, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-10-30"}, // Mittäter Speyer, Dieb
+{"coords": [7.7689, 49.4447], "date": "2026-10-30"}, // Halsketten Kaiserslautern, stehlen

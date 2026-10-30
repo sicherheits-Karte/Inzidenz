@@ -22242,3 +22242,13 @@
 {"coords": [6.85, 49.3], "date": "2026-10-30"}, // Bad Schwalbach, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2026-10-30"}, // Mittäter Speyer, Dieb
 {"coords": [7.7689, 49.4447], "date": "2026-10-30"}, // Halsketten Kaiserslautern, stehlen
+//{"coords": [], "date": "2026-10-30"} // Kreis, Einbruch
+//{"coords": [], "date": "2026-10-30"} // Wendel, Diebstahl
+{"coords": [7.82, 47.99], "date": "2026-10-30"}, // Bevölkerung Freiburg, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-10-30"}, // Reutlingen, eingebrochen
+{"coords": [7.2, 51.6167], "date": "2026-10-30"}, // Recklinghausen, Raub
+//{"coords": [], "date": "2026-10-30"} // Wohnungsdurchsuchung sicher mehr, Dieb
+{"coords": [7.82, 47.99], "date": "2026-10-30"}, // Zeugen Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-10-30"}, // Freiburg, Diebstahl
+{"coords": [8.6372, 49.6419], "date": "2026-10-30"}, // Heppenheim, entwendet
+//{"coords": [], "date": "2026-10-30"} // Landstuhl, Einbruch

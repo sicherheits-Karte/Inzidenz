@@ -22256,3 +22256,13 @@
 {"coords": [7.4333, 51.35], "date": "2026-10-31"}, // Haspe Hagen, Einbruch
 //{"coords": [], "date": "2026-10-31"} // Ingbert, Diebstahl
 {"coords": [9.95, 52.15], "date": "2026-10-31"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-10-31"}, // Limburg, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-10-31"}, // Täter Kaiserslautern, Einbruch
+{"coords": [8.0, 51.45], "date": "2026-10-31"}, // Einfamilienhaus Arnsberg, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-10-31"}, // Osterholz, gestohlen
+{"coords": [8.4333, 52.8944], "date": "2026-10-31"}, // Wildeshausen Delmenhorst, Einbruch
+{"coords": [8.5833, 52.8667], "date": "2026-10-31"}, // Beckeln Delmenhorst, Einbruch
+{"coords": [8.5889, 52.9083], "date": "2026-10-31"}, // Harpstedt Delmenhorst, Einbruch
+{"coords": [8.6306, 53.05], "date": "2026-10-31"}, // Ganderkesee Delmenhorst, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-10-31"}, // Reutlingen, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2026-10-31"}, // Erpressung Aalen, Diebstahl

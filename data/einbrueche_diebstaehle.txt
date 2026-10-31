@@ -22252,3 +22252,7 @@
 {"coords": [7.82, 47.99], "date": "2026-10-30"}, // Freiburg, Diebstahl
 {"coords": [8.6372, 49.6419], "date": "2026-10-30"}, // Heppenheim, entwendet
 //{"coords": [], "date": "2026-10-30"} // Landstuhl, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2026-10-31"}, // Baustelle Hattingen, eingebrochen
+{"coords": [7.4333, 51.35], "date": "2026-10-31"}, // Haspe Hagen, Einbruch
+//{"coords": [], "date": "2026-10-31"} // Ingbert, Diebstahl
+{"coords": [9.95, 52.15], "date": "2026-10-31"}, // Zeugenaufruf Hildesheim, Einbruch

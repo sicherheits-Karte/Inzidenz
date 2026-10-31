@@ -22266,3 +22266,6 @@
 {"coords": [8.6306, 53.05], "date": "2026-10-31"}, // Ganderkesee Delmenhorst, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-10-31"}, // Reutlingen, Einbrüche
 {"coords": [10.0936, 48.8372], "date": "2026-10-31"}, // Erpressung Aalen, Diebstahl
+{"coords": [8.705, 48.895], "date": "2026-10-31"}, // Wohnhaus Pforzheim, Raub
+{"coords": [8.2146, 53.1434], "date": "2026-10-31"}, // Zeugen Oldenburg, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-10-31"}, // Betzenberg Kaiserslautern, Raub

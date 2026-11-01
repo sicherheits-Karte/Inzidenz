@@ -22282,3 +22282,12 @@
 {"coords": [8.24, 50.0822], "date": "2026-11-01"}, // Halloween Wiesbaden, Einbruch
 {"coords": [6.6153, 51.8367], "date": "2026-11-01"}, // Einfamilienhaus Bocholt, Einbrecher
 {"coords": [6.6153, 51.8367], "date": "2026-11-01"}, // Bocholt, gestohlen
+{"coords": [8.6306, 53.05], "date": "2026-11-01"}, // Wohnungseinbruch Delmenhorst, Einbruch
+{"coords": [13.2611, 53.5569], "date": "2026-11-01"}, // Hinweisgeber über die Einsatzleitstelle des Polizeipräsidiums Neubrandenburg den Diebstahl von mehreren hundert Litern Dieselkraftstoff aus einem Lkw. Nach ersten Erkenntnissen wurden aus einem Lkw, welcher im Zeitraum vom, Diebstahl
+{"coords": [8.4414, 50.0919], "date": "2026-11-01"}, // Verkehrsunfall Hofheim, Einbrecher
+{"coords": [11.5862, 50.9271], "date": "2026-11-01"}, // Gartenlaubeneinbruch Schweizerhöhenweg Jena, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-11-01"}, // Bremen, Raub
+{"coords": [6.4333, 51.2], "date": "2026-11-01"}, // Zeugen Mönchengladbach, Räuber
+//{"coords": [], "date": "2026-11-01"} // Pleckhausen Pleckhausen, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2026-11-01"}, // Limburg, Einbruch
+{"coords": [8.875, 53.05], "date": "2026-11-01"}, // Osterholz, Diebstahl

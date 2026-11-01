@@ -22291,3 +22291,5 @@
 //{"coords": [], "date": "2026-11-01"} // Pleckhausen Pleckhausen, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2026-11-01"}, // Limburg, Einbruch
 {"coords": [8.875, 53.05], "date": "2026-11-01"}, // Osterholz, Diebstahl
+//{"coords": [], "date": "2026-11-01"} // Siebenmorgen, Einbruch
+//{"coords": [], "date": "2026-11-01"} // Einfamilienhaus Straßenhaus, Einbruch

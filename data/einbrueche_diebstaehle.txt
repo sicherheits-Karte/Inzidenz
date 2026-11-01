@@ -22270,3 +22270,15 @@
 {"coords": [8.2146, 53.1434], "date": "2026-10-31"}, // Zeugen Oldenburg, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2026-10-31"}, // Betzenberg Kaiserslautern, Raub
 //{"coords": [], "date": "2026-11-01"} // Tatverdächtige Bachenberg, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2026-11-01"}, // Wilhelmshaven, Einbruch
+{"coords": [10.9147, 50.6856], "date": "2026-11-01"}, // Ilmenau, Dieb
+{"coords": [8.4311, 49.3194], "date": "2026-11-01"}, // Wohnhauses Speyer, Einbruch
+//{"coords": [], "date": "2026-11-01"} // Ponitz, Diebstahl
+{"coords": [7.6158, 50.8767], "date": "2026-11-01"}, // Waldbröl, Einbrüche
+{"coords": [6.9194, 51.9944], "date": "2026-11-01"}, // Stadtlohn, Raub
+{"coords": [9.2844, 51.045], "date": "2026-11-01"}, // Mitarbeiter Borken, Dieb
+{"coords": [6.6153, 51.8367], "date": "2026-11-01"}, // Armbanduhr Bocholt, eingebrochen
+{"coords": [6.6153, 51.8367], "date": "2026-11-01"}, // Bocholt, eingebrochen
+{"coords": [8.24, 50.0822], "date": "2026-11-01"}, // Halloween Wiesbaden, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-11-01"}, // Einfamilienhaus Bocholt, Einbrecher
+{"coords": [6.6153, 51.8367], "date": "2026-11-01"}, // Bocholt, gestohlen

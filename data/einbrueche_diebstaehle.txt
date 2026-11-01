@@ -22293,3 +22293,5 @@
 {"coords": [8.875, 53.05], "date": "2026-11-01"}, // Osterholz, Diebstahl
 //{"coords": [], "date": "2026-11-01"} // Siebenmorgen, Einbruch
 //{"coords": [], "date": "2026-11-01"} // Einfamilienhaus Straßenhaus, Einbruch
+{"coords": [11.0167, 49.4167], "date": "2026-11-02"}, // Stein, Raub
+{"coords": [10.5369, 52.1622], "date": "2026-11-01"}, // Wolfenbüttel, Einbruch

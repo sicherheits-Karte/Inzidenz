@@ -22295,3 +22295,9 @@
 //{"coords": [], "date": "2026-11-01"} // Einfamilienhaus Straßenhaus, Einbruch
 {"coords": [11.0167, 49.4167], "date": "2026-11-02"}, // Stein, Raub
 {"coords": [10.5369, 52.1622], "date": "2026-11-01"}, // Wolfenbüttel, Einbruch
+{"coords": [8.0667, 49.9867], "date": "2026-11-02"}, // Ingelheim, Einbrüche
+//{"coords": [], "date": "2026-11-02"} // Olm, Einbruch
+{"coords": [7.8667, 51.2167], "date": "2026-11-02"}, // Pfleger Plettenberg, Diebstahl
+{"coords": [7.7, 51.375], "date": "2026-11-02"}, // Vandalismus Iserlohn, Einbruch
+{"coords": [7.8, 51.4333], "date": "2026-11-02"}, // Wahrsager Menden, gestohlen
+{"coords": [8.4311, 49.3194], "date": "2026-11-02"}, // Scooters Speyer, Diebstahl

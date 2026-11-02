@@ -22301,3 +22301,10 @@
 {"coords": [7.7, 51.375], "date": "2026-11-02"}, // Vandalismus Iserlohn, Einbruch
 {"coords": [7.8, 51.4333], "date": "2026-11-02"}, // Wahrsager Menden, gestohlen
 {"coords": [8.4311, 49.3194], "date": "2026-11-02"}, // Scooters Speyer, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2026-11-02"}, // Verkehrsunfall Aalen, Raub
+{"coords": [7.9833, 50.5667], "date": "2026-11-02"}, // Westerburg, Diebstahl
+{"coords": [8.8286, 47.7472], "date": "2026-11-02"}, // Worblingen, Diebstahl
+{"coords": [9.6775, 50.5528], "date": "2026-11-02"}, // Betriebsgebäude Fulda, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2026-11-02"}, // Zeugen Vogelsbergkreis, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-11-02"}, // Rotenburg, Einbrüche
+{"coords": [12.9589, 47.7244], "date": "2026-11-02"}, // Moos, Einbruch

@@ -22311,3 +22311,8 @@
 {"coords": [9.95, 52.15], "date": "2026-11-03"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [9.95, 52.15], "date": "2026-11-03"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [8.0169, 50.3714], "date": "2026-11-02"}, // Diez, gestohlen
+{"coords": [9.9916, 48.3984], "date": "2026-11-03"}, // Ulm, Einbruch
+//{"coords": [], "date": "2026-11-03"} // Zeugenhinweise Dobel, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-11-03"}, // Ulm, Einbrecher
+{"coords": [8.2146, 53.1434], "date": "2026-11-03"}, // Polizei Oldenburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-11-03"}, // Wohnhaus Ludwigsburg, Einbruch

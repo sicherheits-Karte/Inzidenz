@@ -22316,3 +22316,11 @@
 {"coords": [9.9916, 48.3984], "date": "2026-11-03"}, // Ulm, Einbrecher
 {"coords": [8.2146, 53.1434], "date": "2026-11-03"}, // Polizei Oldenburg, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2026-11-03"}, // Wohnhaus Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-11-03"} // Altschweier, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-11-03"}, // Kreis Kaiserslautern, Diebstähle
+{"coords": [9.4108, 53.1111], "date": "2026-11-03"}, // Rotenburg, Diebstahl
+{"coords": [10.9706, 49.4214], "date": "2026-11-03"}, // Oberasbach, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-11-03"}, // Ludwigshafen, Einbruch
+{"coords": [7.2, 51.6167], "date": "2026-11-03"}, // Hinweise Recklinghausen, Einbrüche
+{"coords": [9.5164, 53.925], "date": "2026-11-03"}, // Itzehoe, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-11-03"}, // Fahrzeugbrand Reutlingen, Einbruch

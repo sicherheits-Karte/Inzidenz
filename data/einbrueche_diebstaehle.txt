@@ -22324,3 +22324,6 @@
 {"coords": [7.2, 51.6167], "date": "2026-11-03"}, // Hinweise Recklinghausen, Einbrüche
 {"coords": [9.5164, 53.925], "date": "2026-11-03"}, // Itzehoe, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-11-03"}, // Fahrzeugbrand Reutlingen, Einbruch
+{"coords": [7.5903, 50.2308], "date": "2026-11-03"}, // Einbruchsdiebstählen Boppard, Einbruch
+{"coords": [8.9906, 49.4661], "date": "2026-11-03"}, // Eberbach, Raub
+{"coords": [8.7667, 50.1], "date": "2026-11-03"}, // Zeugen Offenbach, Räuber

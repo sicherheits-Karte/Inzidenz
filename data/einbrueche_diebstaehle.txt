@@ -22308,3 +22308,6 @@
 {"coords": [9.3833, 50.6333], "date": "2026-11-02"}, // Zeugen Vogelsbergkreis, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2026-11-02"}, // Rotenburg, Einbrüche
 {"coords": [12.9589, 47.7244], "date": "2026-11-02"}, // Moos, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-11-03"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [9.95, 52.15], "date": "2026-11-03"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [8.0169, 50.3714], "date": "2026-11-02"}, // Diez, gestohlen

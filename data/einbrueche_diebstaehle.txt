@@ -22327,3 +22327,13 @@
 {"coords": [7.5903, 50.2308], "date": "2026-11-03"}, // Einbruchsdiebstählen Boppard, Einbruch
 {"coords": [8.9906, 49.4661], "date": "2026-11-03"}, // Eberbach, Raub
 {"coords": [8.7667, 50.1], "date": "2026-11-03"}, // Zeugen Offenbach, Räuber
+{"coords": [10.3333, 52.15], "date": "2026-11-04"}, // Salzgitter, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2026-11-04"}, // Ulm, Dieb
+//{"coords": [], "date": "2026-11-04"} // Zeugen Rehburg, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-11-04"}, // Ulm, Einbrecher
+{"coords": [8.5847, 53.5469], "date": "2026-11-04"}, // Bremerhaven, Einbruch
+//{"coords": [], "date": "2026-11-04"} // Mehrfamilienhaus Lingenfeld, Einbruch
+{"coords": [8.5847, 53.5469], "date": "2026-11-04"}, // Bremerhaven, Dieb
+//{"coords": [], "date": "2026-11-04"} // Schloß Neuhaus, Einbruch
+//{"coords": [], "date": "2026-11-04"} // Hövelhof, Einbruch
+//{"coords": [], "date": "2026-11-04"} // Wohnanwesen gesucht mehr, Einbruch

@@ -22337,3 +22337,13 @@
 //{"coords": [], "date": "2026-11-04"} // Schloß Neuhaus, Einbruch
 //{"coords": [], "date": "2026-11-04"} // Hövelhof, Einbruch
 //{"coords": [], "date": "2026-11-04"} // Wohnanwesen gesucht mehr, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-11-04"}, // Vereinsheim Coesfeld, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-11-04"}, // Wohnung Coesfeld, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-11-04"}, // Mobilfunkgeschäft Coesfeld, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-11-04"}, // Reutlingen, Einbrüche
+{"coords": [8.4353, 49.4811], "date": "2026-11-04"}, // Ludwigshafen, Einbrüche
+//{"coords": [], "date": "2026-11-04"} // Kreis, Raub
+{"coords": [6.8333, 52.0333], "date": "2026-11-04"}, // Versuchter Einbruch Vreden, Einbruch
+{"coords": [7.0, 52.05], "date": "2026-11-04"}, // Einfamilienhaus Legden, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-11-04"}, // Werkzeug Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-11-04"}, // Fahrraddiebstahl Augsburg, Diebstahl

@@ -22358,3 +22358,10 @@
 {"coords": [10.6944, 50.6111], "date": "2026-11-05"}, // Suhl, Diebstahl
 {"coords": [10.3925, 52.3292], "date": "2026-11-05"}, // Wendeburg Peine, Diebstähle
 {"coords": [8.4592, 49.6436], "date": "2026-11-05"}, // Bürstadt, gestohlen
+//{"coords": [], "date": "2026-11-05"} // Kein Ort gefunden, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-11-05"}, // Kupferdiebstahl Reutlingen, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2026-11-05"}, // Autobahn Hannover, gestohlen
+//{"coords": [], "date": "2026-11-05"} // Landkreis Bad Dürkheim, Einbrüche
+{"coords": [7.1675, 51.9436], "date": "2026-11-05"}, // Täter Coesfeld, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-11-05"}, // Diebstählen Augsburg, Diebstähle
+{"coords": [10.8978, 48.3705], "date": "2026-11-05"}, // Zeugenhinweise Augsburg, Einbruch

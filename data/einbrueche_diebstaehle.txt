@@ -22349,3 +22349,12 @@
 {"coords": [10.8978, 48.3705], "date": "2026-11-04"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [8.0167, 50.6], "date": "2026-11-04"}, // Verkehrskontrolle Rennerod, Dieb
 {"coords": [9.6775, 50.5528], "date": "2026-11-05"}, // Fulda, entwendet
+//{"coords": [], "date": "2026-11-05"} // Morsbach, eingebrochen
+{"coords": [7.5667, 51.0167], "date": "2026-11-05"}, // Wiehl, stahl
+{"coords": [7.8492, 48.1214], "date": "2026-11-05"}, // Einfamilienhaus Emmendingen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2026-11-05"}, // Coesfeld Coesfeld, Einbrüche
+{"coords": [9.4144, 51.2519], "date": "2026-11-05"}, // Baunatal, eingebrochen
+//{"coords": [], "date": "2026-11-05"} // Einbruch Bad Oeynhausen, Einbruch
+{"coords": [10.6944, 50.6111], "date": "2026-11-05"}, // Suhl, Diebstahl
+{"coords": [10.3925, 52.3292], "date": "2026-11-05"}, // Wendeburg Peine, Diebstähle
+{"coords": [8.4592, 49.6436], "date": "2026-11-05"}, // Bürstadt, gestohlen

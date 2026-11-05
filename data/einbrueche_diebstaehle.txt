@@ -22365,3 +22365,7 @@
 {"coords": [7.1675, 51.9436], "date": "2026-11-05"}, // Täter Coesfeld, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2026-11-05"}, // Diebstählen Augsburg, Diebstähle
 {"coords": [10.8978, 48.3705], "date": "2026-11-05"}, // Zeugenhinweise Augsburg, Einbruch
+//{"coords": [], "date": "2026-11-05"} // Ferbach, entwendet
+{"coords": [7.8231, 50.64], "date": "2026-11-05"}, // Pkw Hachenburg, Diebstahl
+{"coords": [7.8333, 50.45], "date": "2026-11-05"}, // Tageswohnungseinbruch Wirges, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2026-11-05"}, // Zeugen Herne, Raub

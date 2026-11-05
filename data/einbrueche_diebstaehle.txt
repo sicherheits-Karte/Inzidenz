@@ -22348,3 +22348,4 @@
 {"coords": [10.8978, 48.3705], "date": "2026-11-04"}, // Werkzeug Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2026-11-04"}, // Fahrraddiebstahl Augsburg, Diebstahl
 {"coords": [8.0167, 50.6], "date": "2026-11-04"}, // Verkehrskontrolle Rennerod, Dieb
+{"coords": [9.6775, 50.5528], "date": "2026-11-05"}, // Fulda, entwendet

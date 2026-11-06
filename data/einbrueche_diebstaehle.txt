@@ -22384,3 +22384,4 @@
 {"coords": [8.1333, 48.7], "date": "2026-11-06"}, // Diebstählen Bühl, Diebstähle
 //{"coords": [], "date": "2026-11-06"} // Höhe, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2026-11-06"}, // Coesfeld, Einbrecher
+//{"coords": [], "date": "2026-11-06"} // POL-PDNR, Diebstahl

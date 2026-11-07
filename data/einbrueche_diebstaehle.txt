@@ -22386,3 +22386,11 @@
 {"coords": [7.1675, 51.9436], "date": "2026-11-06"}, // Coesfeld, Einbrecher
 //{"coords": [], "date": "2026-11-06"} // POL-PDNR, Diebstahl
 {"coords": [7.6333, 51.6167], "date": "2026-11-06"}, // Bergkamen, Diebstahl
+{"coords": [7.2931, 51.2861], "date": "2026-11-07"}, // Schwelm, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2026-11-07"}, // Versuchter Wohnungseinbruch Hattingen, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-11-07"}, // Vechta, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-11-07"}, // Tageswohnungseinbruch Wittlich, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-11-07"}, // Oldenburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-11-07"}, // Schulgebäude Ludwigsburg, Einbruch
+//{"coords": [], "date": "2026-11-07"} // Bahnhof Bad Dürkheim, Raub
+{"coords": [11.0299, 50.9848], "date": "2026-11-07"}, // Erfurt, Einbruch

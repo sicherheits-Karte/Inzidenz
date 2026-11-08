@@ -22417,3 +22417,10 @@
 {"coords": [8.6306, 53.05], "date": "2026-11-08"}, // Delmenhorst, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2026-11-08"}, // Bikes Weimar, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2026-11-08"}, // Zeugen Mühlhausen, Einbruch
+{"coords": [7.3333, 49.3167], "date": "2026-11-08"}, // Jägersburger Weiher Homburg, Diebstahl
+{"coords": [11.9333, 50.2228], "date": "2026-11-08"}, // Schwarzenbach Homburg, Diebstahl
+{"coords": [7.1167, 49.8167], "date": "2026-11-08"}, // Wohnungseinbruchdiebstahl Morbach, Einbruch
+{"coords": [7.3208, 49.6922], "date": "2026-11-08"}, // Oberstein, Einbruch
+{"coords": [9.5822, 52.9856], "date": "2026-11-08"}, // Visselhövede aufgrund eines Hinweises der Polizei Nordrhein-Westfalen einen zum Verkauf angebotenen Wohnwagen. Dabei stellte sich heraus, dass dieser bereits im Mai, entwendet
+{"coords": [9.2844, 51.045], "date": "2026-11-08"}, // Versuchter Einbruch Borken, Einbruch
+{"coords": [6.8333, 52.0333], "date": "2026-11-08"}, // Einbruch Vreden, Einbruch

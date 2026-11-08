@@ -22425,3 +22425,5 @@
 {"coords": [9.2844, 51.045], "date": "2026-11-08"}, // Versuchter Einbruch Borken, Einbruch
 {"coords": [6.8333, 52.0333], "date": "2026-11-08"}, // Einbruch Vreden, Einbruch
 {"coords": [10.45, 52.1667], "date": "2026-11-08"}, // Thiede Salzgitter, Diebstahl
+//{"coords": [], "date": "2026-11-08"} // Zeugenaufruf Görgeshausen, Einbruch
+//{"coords": [], "date": "2026-11-08"} // Weidezaungerätes Emmeroth, Diebstahl

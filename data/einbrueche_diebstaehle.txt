@@ -22409,3 +22409,11 @@
 {"coords": [10.0, 51.7064], "date": "2026-11-07"}, // Center Northeim, Einbruch
 {"coords": [10.7183, 50.9489], "date": "2026-11-07"}, // Landkreis Gotha, Raub
 {"coords": [13.2611, 53.5569], "date": "2026-11-07"}, // Waffen Neubrandenburg, Diebstahl
+{"coords": [7.1642, 49.4014], "date": "2026-11-08"}, // Ottweiler Ottweiler, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-11-08"}, // Gesamtschule Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-11-08"}, // Einfamilienhaus Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-11-08"}, // Abendstunden Lippe, Einbruch
+{"coords": [10.725, 50.7056], "date": "2026-11-08"}, // Diebstahl Oberhof, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-11-08"}, // Delmenhorst, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2026-11-08"}, // Bikes Weimar, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2026-11-08"}, // Zeugen Mühlhausen, Einbruch

@@ -22427,3 +22427,16 @@
 {"coords": [10.45, 52.1667], "date": "2026-11-08"}, // Thiede Salzgitter, Diebstahl
 //{"coords": [], "date": "2026-11-08"} // Zeugenaufruf Görgeshausen, Einbruch
 //{"coords": [], "date": "2026-11-08"} // Weidezaungerätes Emmeroth, Diebstahl
+{"coords": [6.45, 51.6583], "date": "2026-11-09"}, // Zeugen Xanten, Einbruch
+//{"coords": [], "date": "2026-11-09"} // Eppenrod, entwendet
+{"coords": [8.65, 49.3], "date": "2026-11-09"}, // Walldorf, Dieb
+{"coords": [6.4833, 50.8], "date": "2026-11-09"}, // Düren, Einbruch
+{"coords": [8.35, 51.6667], "date": "2026-11-09"}, // Einfamilienhaus Lippstadt, Einbruch
+{"coords": [7.75, 51.6333], "date": "2026-11-09"}, // Herringen, Einbruch
+{"coords": [6.2667, 50.9833], "date": "2026-11-09"}, // Zeugen Linnich, Einbruch
+{"coords": [8.6372, 49.6419], "date": "2026-11-09"}, // Heppenheim, Dieb
+{"coords": [8.3833, 51.9], "date": "2026-11-09"}, // Straße Gütersloh, Einbrecher
+{"coords": [8.35, 51.3167], "date": "2026-11-09"}, // Hochsauerlandkreis, Einbrüche
+//{"coords": [], "date": "2026-11-09"} // Bad Waldliesborn, Diebstahl
+{"coords": [8.65, 49.3], "date": "2026-11-09"}, // Walldorf, Einbruch
+{"coords": [7.8667, 51.2167], "date": "2026-11-09"}, // Samstag Plettenberg, Diebstähle

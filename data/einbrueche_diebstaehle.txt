@@ -22456,3 +22456,6 @@
 {"coords": [8.2869, 52.7303], "date": "2026-11-10"}, // Vechta, entwendet
 {"coords": [8.2869, 52.7303], "date": "2026-11-10"}, // Vechta, Diebstahl
 {"coords": [10.7333, 50.65], "date": "2026-11-10"}, // Mehlis, Diebstahl
+//{"coords": [], "date": "2026-11-10"} // Kreis, Einbruch
+//{"coords": [], "date": "2026-11-10"} // Kreis, entwendet
+{"coords": [9.95, 52.15], "date": "2026-11-10"}, // Untersuchungshaft Hildesheim, Einbruch

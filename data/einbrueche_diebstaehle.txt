@@ -22448,3 +22448,11 @@
 {"coords": [8.1075, 53.5219], "date": "2026-11-09"}, // Polizei Wilhelmshaven, Diebstahl
 {"coords": [7.7689, 49.4447], "date": "2026-11-09"}, // Tatverdächtigen Kaiserslautern, Einbruch
 {"coords": [8.6833, 50.5833], "date": "2026-11-09"}, // Giessen, Einbrecher
+//{"coords": [], "date": "2026-11-10"} // Baustellen Winsen, Diebstahl
+//{"coords": [], "date": "2026-11-10"} // Öffentlichkeitsfahndung Schwabach, klau
+{"coords": [8.6514, 49.8728], "date": "2026-11-10"}, // Einbrechern Darmstadt, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-11-10"}, // Trickdiebstahl Reutlingen, Einbruch
+{"coords": [9.6333, 51.65], "date": "2026-11-10"}, // Zeugen Uslar, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-11-10"}, // Vechta, entwendet
+{"coords": [8.2869, 52.7303], "date": "2026-11-10"}, // Vechta, Diebstahl
+{"coords": [10.7333, 50.65], "date": "2026-11-10"}, // Mehlis, Diebstahl

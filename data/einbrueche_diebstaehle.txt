@@ -22459,3 +22459,4 @@
 //{"coords": [], "date": "2026-11-10"} // Kreis, Einbruch
 //{"coords": [], "date": "2026-11-10"} // Kreis, entwendet
 {"coords": [9.95, 52.15], "date": "2026-11-10"}, // Untersuchungshaft Hildesheim, Einbruch
+{"coords": [9.7839, 52.1619], "date": "2026-11-11"}, // Nordstemmen Hildesheim, Diebstahl

@@ -22476,3 +22476,4 @@
 //{"coords": [], "date": "2026-11-11"} // Kein Ort gefunden, Diebstahl
 {"coords": [10.8667, 53.8833], "date": "2026-11-11"}, // Selmsdorf bittet die Kriminalpolizei Grevesmühlen die Bevölkerung um Mithilfe bei der Identifizierung zweier bislang unbekannter Tatverdächtiger. Nach bisherigen Erkenntnissen begaben sich die beiden Tatverdächtigen am, Diebstahl
 {"coords": [6.8889, 49.9858], "date": "2026-11-11"}, // Wittlich, Einbruch
+//{"coords": [], "date": "2026-11-11"} // Pünderich, Einbrüche

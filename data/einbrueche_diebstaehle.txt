@@ -22489,3 +22489,11 @@
 //{"coords": [], "date": "2026-11-12"} // Kreis, Einbruch
 {"coords": [8.7667, 50.1], "date": "2026-11-12"}, // Kreis Offenbach, Einbruch
 {"coords": [8.5833, 49.8667], "date": "2026-11-12"}, // Griesheim, Dieb
+//{"coords": [], "date": "2026-11-12"} // Leudersdorf, aufbruch
+//{"coords": [], "date": "2026-11-12"} // Einbruchsdiebstahl Bad Gandersheim, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-11-12"}, // Wohnungseinbrüche Ludwigshafen, Einbrüche
+{"coords": [10.8978, 48.3705], "date": "2026-11-12"}, // Raub Augsburg, entwendet
+{"coords": [10.8978, 48.3705], "date": "2026-11-12"}, // Handwerker Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-11-12"}, // Einbruchdiebstählen Augsburg, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2026-11-12"}, // Speyer, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2026-11-12"}, // Ludwigshafen, Einbruch

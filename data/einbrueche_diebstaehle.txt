@@ -22511,3 +22511,5 @@
 {"coords": [10.0936, 48.8372], "date": "2026-11-13"}, // Aalen, Einbrüche
 //{"coords": [], "date": "2026-11-13"} // Abend Bergisch Gladbach, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2026-11-13"}, // Erfurt, gestohlen
+{"coords": [9.1919, 48.8975], "date": "2026-11-13"}, // Folge Ludwigsburg, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-11-13"}, // Ludwigsburg, Einbrecher

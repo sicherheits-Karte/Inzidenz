@@ -22513,3 +22513,8 @@
 {"coords": [11.0299, 50.9848], "date": "2026-11-13"}, // Erfurt, gestohlen
 {"coords": [9.1919, 48.8975], "date": "2026-11-13"}, // Folge Ludwigsburg, Raub
 {"coords": [9.1919, 48.8975], "date": "2026-11-13"}, // Ludwigsburg, Einbrecher
+//{"coords": [], "date": "2026-11-13"} // POL-PDNR, Einbruch
+{"coords": [8.7917, 51.9917], "date": "2026-11-13"}, // einer hilflosen Lage befinden könnte. Sie wird wie folgt beschrieben, Raub
+{"coords": [7.5978, 50.3597], "date": "2026-11-13"}, // Koblenz-Moselweiß, Diebstahl
+{"coords": [7.8231, 50.64], "date": "2026-11-13"}, // Hachenburg, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2026-11-13"}, // Mannheim, Raub

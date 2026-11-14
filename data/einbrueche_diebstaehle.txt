@@ -22526,3 +22526,9 @@
 //{"coords": [], "date": "2026-11-14"} // Einbruch Olsberg, Einbruch
 {"coords": [7.4547, 53.2311], "date": "2026-11-14"}, // Leer, Diebstahl
 {"coords": [10.45, 52.1667], "date": "2026-11-14"}, // Thiede, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-11-14"}, // Wohnhäuser Delmenhorst, Einbrüche
+{"coords": [11.0667, 49.9333], "date": "2026-11-14"}, // Weißensee, gestohlen
+{"coords": [8.0667, 50.3833], "date": "2026-11-14"}, // Metallschrott Limburg, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2026-11-14"}, // Wittlich, entwendet
+//{"coords": [], "date": "2026-11-14"} // Bad Breisig Bad Breisig, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-11-14"}, // Baustelle Reutlingen, Einbruch

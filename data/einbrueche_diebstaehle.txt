@@ -22518,3 +22518,11 @@
 {"coords": [7.5978, 50.3597], "date": "2026-11-13"}, // Koblenz-Moselweiß, Diebstahl
 {"coords": [7.8231, 50.64], "date": "2026-11-13"}, // Hachenburg, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2026-11-13"}, // Mannheim, Raub
+{"coords": [8.1667, 49.5667], "date": "2026-11-14"}, // Grünstadt, Einbruch
+{"coords": [7.1, 51.5167], "date": "2026-11-14"}, // Gelsenkirchen, Einbrecher
+//{"coords": [], "date": "2026-11-14"} // Oeventrop, Einbruch
+{"coords": [6.85, 49.3], "date": "2026-11-14"}, // Einkaufswagen Bad Schwalbach, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2026-11-14"}, // Vechta, Einbruch
+//{"coords": [], "date": "2026-11-14"} // Einbruch Olsberg, Einbruch
+{"coords": [7.4547, 53.2311], "date": "2026-11-14"}, // Leer, Diebstahl
+{"coords": [10.45, 52.1667], "date": "2026-11-14"}, // Thiede, Diebstahl

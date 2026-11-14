@@ -22532,3 +22532,4 @@
 {"coords": [6.8889, 49.9858], "date": "2026-11-14"}, // Wittlich, entwendet
 //{"coords": [], "date": "2026-11-14"} // Bad Breisig Bad Breisig, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2026-11-14"}, // Baustelle Reutlingen, Einbruch
+{"coords": [9.735, 52.1225], "date": "2026-11-14"}, // Elze Hildesheim, Einbruch

@@ -22535,3 +22535,5 @@
 {"coords": [9.735, 52.1225], "date": "2026-11-14"}, // Elze Hildesheim, Einbruch
 {"coords": [7.6458, 50.6878], "date": "2026-11-14"}, // Einfamilienhaus Altenkirchen, Einbruch
 {"coords": [9.6333, 51.65], "date": "2026-11-14"}, // Uslar, entwendet
+{"coords": [7.1167, 49.8167], "date": "2026-11-15"}, // Morbach, Einbrecher
+{"coords": [8.0, 50.3833], "date": "2026-11-15"}, // Norma Filiale Altendiez, Raub

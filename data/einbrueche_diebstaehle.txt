@@ -22541,3 +22541,8 @@
 {"coords": [11.3239, 50.9795], "date": "2026-11-15"}, // Weimar, Diebstahl
 //{"coords": [], "date": "2026-11-15"} // Kein Ort gefunden, gestohlen
 {"coords": [8.7667, 50.1], "date": "2026-11-15"}, // Offenbach Stadt Offenbach, Raub
+{"coords": [8.0667, 50.3833], "date": "2026-11-15"}, // Martinsumzug Limburg, Diebstahl
+//{"coords": [], "date": "2026-11-15"} // POL-PDNR, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2026-11-15"}, // Serba Jena, Einbruch
+//{"coords": [], "date": "2026-11-15"} // Bahnhof Kreiensen Bad Gandersheim, Diebstahl
+//{"coords": [], "date": "2026-11-15"} // Kreis, Raub

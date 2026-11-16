@@ -22558,3 +22558,10 @@
 {"coords": [7.2061, 53.3669], "date": "2026-11-16"}, // Emden, Diebstahl
 //{"coords": [], "date": "2026-11-16"} // Weimarer Land, gestohlen
 {"coords": [11.5862, 50.9271], "date": "2026-11-16"}, // Jena, Dieb
+{"coords": [7.4653, 51.5136], "date": "2026-11-16"}, // Dortmund, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2026-11-16"}, // Hinweise Osnabrück, Diebstähle
+//{"coords": [], "date": "2026-11-16"} // Wohnhäusern, Diebstähle
+{"coords": [7.8208, 51.6803], "date": "2026-11-16"}, // Hamm, Einbruch
+{"coords": [6.3917, 51.2556], "date": "2026-11-16"}, // Präventionstipps Kreis Viersen, Einbrüche
+//{"coords": [], "date": "2026-11-16"} // Aull, Einbrüche
+{"coords": [8.6833, 50.5833], "date": "2026-11-16"}, // Giessen, Einbrecher

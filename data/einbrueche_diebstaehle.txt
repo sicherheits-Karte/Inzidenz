@@ -22546,3 +22546,15 @@
 {"coords": [11.5862, 50.9271], "date": "2026-11-15"}, // Serba Jena, Einbruch
 //{"coords": [], "date": "2026-11-15"} // Bahnhof Kreiensen Bad Gandersheim, Diebstahl
 //{"coords": [], "date": "2026-11-15"} // Kreis, Raub
+{"coords": [6.0167, 51.7917], "date": "2026-11-16"}, // Tabakwaren Kranenburg, Einbruch
+{"coords": [6.3667, 51.4833], "date": "2026-11-16"}, // Nieukerk, Einbruch
+{"coords": [7.1833, 50.9], "date": "2026-11-16"}, // Rösrath, Einbrüche
+{"coords": [8.2869, 52.7303], "date": "2026-11-16"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2026-11-16"} // Im Weiherfeld, Einbruch
+{"coords": [6.75, 51.5833], "date": "2026-11-16"}, // Wohnhaus Dinslaken, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2026-11-16"}, // Zeugen Wesel, Einbruch
+{"coords": [6.6264, 51.4519], "date": "2026-11-16"}, // Handtaschenraub Moers, Raub
+{"coords": [10.0936, 48.8372], "date": "2026-11-16"}, // Kellereinbruch Aalen, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2026-11-16"}, // Emden, Diebstahl
+//{"coords": [], "date": "2026-11-16"} // Weimarer Land, gestohlen
+{"coords": [11.5862, 50.9271], "date": "2026-11-16"}, // Jena, Dieb

@@ -22574,3 +22574,9 @@
 {"coords": [7.3, 51.1333], "date": "2026-11-17"}, // Hückeswagen Hückeswagen, Einbrüche
 {"coords": [7.1675, 51.9436], "date": "2026-11-17"}, // Einfamilienhaus Coesfeld, Einbruch
 {"coords": [8.6992, 51.5208], "date": "2026-11-17"}, // Bäckerei Bad Wünnenberg, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-11-17"}, // Einbruch Reutlingen, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-11-17"}, // Wohnungseinbruch Augsburg, Einbruch
+//{"coords": [], "date": "2026-11-17"} // Höhe, Einbrecher
+//{"coords": [], "date": "2026-11-17"} // Süd, eingebrochen
+{"coords": [8.5833, 53.55], "date": "2026-11-17"}, // Mitte, stehlen
+{"coords": [7.2197, 51.5428], "date": "2026-11-17"}, // Herne, Einbruch

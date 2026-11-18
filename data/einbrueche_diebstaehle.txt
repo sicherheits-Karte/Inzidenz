@@ -22595,3 +22595,11 @@
 {"coords": [8.7831, 49.5261], "date": "2026-11-18"}, // Danziger Straße Abtsteinach, Einbruch
 {"coords": [8.0472, 52.2799], "date": "2026-11-18"}, // Hinweise Osnabrück, Einbruch
 {"coords": [8.6167, 49.6833], "date": "2026-11-18"}, // Bensheim, entwendet
+//{"coords": [], "date": "2026-11-18"} // Radweg Waldrach, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-11-18"}, // Ludwigshafen, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2026-11-18"}, // Ludwigshafen, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2026-11-18"}, // Rotenburg Rotenburg, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-11-18"}, // Kaiserslautern, Diebstähle
+{"coords": [10.8978, 48.3705], "date": "2026-11-18"}, // Wohnungseinbruch Augsburg, Einbruch
+{"coords": [10.8978, 48.3705], "date": "2026-11-18"}, // Kirche Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2026-11-18"}, // Elektrokleinstfahrzeugs Augsburg, Diebstahl

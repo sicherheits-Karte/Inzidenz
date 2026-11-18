@@ -22580,3 +22580,18 @@
 //{"coords": [], "date": "2026-11-17"} // Süd, eingebrochen
 {"coords": [8.5833, 53.55], "date": "2026-11-17"}, // Mitte, stehlen
 {"coords": [7.2197, 51.5428], "date": "2026-11-17"}, // Herne, Einbruch
+//{"coords": [], "date": "2026-11-18"} // das Gebäude. Dennoch entstand ein Sachschaden in Höhe von mindestens, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2026-11-18"}, // Stadtgebiet Kaiserslautern, Einbrüche
+//{"coords": [], "date": "2026-11-18"} // Geschäft Lienen, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2026-11-18"}, // Zeugen Paderborn, Einbruch
+{"coords": [8.4111, 49.9917], "date": "2026-11-18"}, // Rüsselsheim, Diebstahl
+{"coords": [8.1333, 48.7], "date": "2026-11-18"}, // Zeugenaufruf Bühl, Einbruch
+{"coords": [7.8, 51.4333], "date": "2026-11-18"}, // Volkshochschule Menden, Einbrecher
+//{"coords": [], "date": "2026-11-18"} // Schildgen Bergisch Gladbach, Einbruch
+{"coords": [7.75, 51.3833], "date": "2026-11-18"}, // Dieben Hemer, Dieb
+{"coords": [8.4592, 49.6436], "date": "2026-11-18"}, // Bürstadt, eingebrochen
+{"coords": [7.8667, 48.35], "date": "2026-11-18"}, // Fachhandel Lahr, Einbruch
+{"coords": [8.35, 49.5333], "date": "2026-11-18"}, // Ehepaar in Frankenthal auf. Unter dem Vorwand, eine technische Störung beheben zu müssen, verschafften sie sich das Vertrauen des Ehepaares und wurden daraufhin in die Wohnung gelassen. Während die beiden Täter das Ehepaar gezielt ablenkten, gelangte offenbar eine, Diebstahl
+{"coords": [8.7831, 49.5261], "date": "2026-11-18"}, // Danziger Straße Abtsteinach, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-11-18"}, // Hinweise Osnabrück, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2026-11-18"}, // Bensheim, entwendet

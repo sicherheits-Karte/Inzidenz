@@ -22614,3 +22614,7 @@
 {"coords": [10.4, 53.25], "date": "2026-11-19"}, // Vollsperrung Lüneburg, Diebstahl
 //{"coords": [], "date": "2026-11-19"} // Höhe, Einbrüche
 //{"coords": [], "date": "2026-11-19"} // Einfamilienhaus Selm, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2026-11-19"}, // Ulm, Dieb
+{"coords": [9.2167, 48.4833], "date": "2026-11-19"}, // Verkehrsunfall Reutlingen, Einbruch
+//{"coords": [], "date": "2026-11-19"} // Kork, Einbruch
+{"coords": [8.4043, 49.014], "date": "2026-11-19"}, // Untersuchungshaft Karlsruhe, Diebstahl

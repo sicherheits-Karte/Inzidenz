@@ -22620,3 +22620,19 @@
 {"coords": [8.4043, 49.014], "date": "2026-11-19"}, // Untersuchungshaft Karlsruhe, Diebstahl
 {"coords": [7.0, 49.2333], "date": "2026-11-20"}, // Grumbachtalbrücke Saarbrücken Grumbachtalbrücke Saarbrücken, stahl
 {"coords": [8.5667, 49.65], "date": "2026-11-19"}, // Lorsch Lorsch, Raub
+{"coords": [8.4353, 49.4811], "date": "2026-11-20"}, // Ludwigshafen, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-11-20"}, // Gleisen Heilbronn, gestohlen
+{"coords": [9.4108, 53.1111], "date": "2026-11-20"}, // Rotenburg, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2026-11-20"}, // Fulda, Einbrecher
+{"coords": [9.2167, 48.4833], "date": "2026-11-20"}, // Korrektur Pressemitteilung Reutlingen, Einbruch
+{"coords": [8.5667, 51.7667], "date": "2026-11-20"}, // Diebstahl Delbrück, Diebstahl
+{"coords": [7.1508, 51.2562], "date": "2026-11-20"}, // Zeugen Wuppertal, Raub
+{"coords": [9.1919, 48.8975], "date": "2026-11-20"}, // Wohnhaus Ludwigsburg, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-11-20"}, // Ludwigsburg, aufbruch
+{"coords": [7.9733, 51.1681], "date": "2026-11-20"}, // Finnentrop Finnentrop, Diebstahl
+{"coords": [7.3333, 51.4333], "date": "2026-11-20"}, // Witten, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2026-11-20"}, // Ludwigsburg, entwendet
+{"coords": [9.1919, 48.8975], "date": "2026-11-20"}, // Uhlandstraße Ludwigsburg, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2026-11-20"}, // Unfallflucht Heilbronn, Einbruch
+//{"coords": [], "date": "2026-11-20"} // Marienloh, Dieb
+{"coords": [7.0982, 50.7374], "date": "2026-11-20"}, // Zeugenhinweise Bonn, Einbruch

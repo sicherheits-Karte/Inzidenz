@@ -22636,3 +22636,8 @@
 {"coords": [9.2108, 49.1425], "date": "2026-11-20"}, // Unfallflucht Heilbronn, Einbruch
 //{"coords": [], "date": "2026-11-20"} // Marienloh, Dieb
 {"coords": [7.0982, 50.7374], "date": "2026-11-20"}, // Zeugenhinweise Bonn, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2026-11-20"}, // Oldenburg, Raub
+{"coords": [9.95, 52.15], "date": "2026-11-20"}, // Zeugenaufruf Hildesheim, Einbruch
+{"coords": [7.4667, 49.8167], "date": "2026-11-20"}, // Glan Kirn, Einbrüche
+{"coords": [6.8889, 49.9858], "date": "2026-11-20"}, // Kennzeichen Wittlich, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2026-11-20"}, // Verkehrsunfall Reutlingen, Einbruch

@@ -22641,3 +22641,4 @@
 {"coords": [7.4667, 49.8167], "date": "2026-11-20"}, // Glan Kirn, Einbrüche
 {"coords": [6.8889, 49.9858], "date": "2026-11-20"}, // Kennzeichen Wittlich, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-11-20"}, // Verkehrsunfall Reutlingen, Einbruch
+{"coords": [6.5244, 49.9742], "date": "2026-11-20"}, // Zeugen Bitburg, Diebstahl

@@ -22642,3 +22642,8 @@
 {"coords": [6.8889, 49.9858], "date": "2026-11-20"}, // Kennzeichen Wittlich, Diebstahl
 {"coords": [9.2167, 48.4833], "date": "2026-11-20"}, // Verkehrsunfall Reutlingen, Einbruch
 {"coords": [6.5244, 49.9742], "date": "2026-11-20"}, // Zeugen Bitburg, Diebstahl
+{"coords": [7.2333, 49.2833], "date": "2026-11-21"}, // Kirkel, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2026-11-21"}, // Salzgitter, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2026-11-21"}, // Einfamilienhaus Warendorf, Einbruch
+{"coords": [12.0333, 49.8667], "date": "2026-11-21"}, // Haus Ludwigsburg, Einbrecher
+{"coords": [9.95, 52.15], "date": "2026-11-21"}, // Zeugenaufruf Hildesheim, Einbrüche

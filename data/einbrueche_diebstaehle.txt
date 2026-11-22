@@ -22661,3 +22661,12 @@
 //{"coords": [], "date": "2026-11-22"} // Bad Salzungen, Dieb
 {"coords": [7.3608, 49.2492], "date": "2026-11-22"}, // Zweibrücken, gestohlen
 //{"coords": [], "date": "2026-11-22"} // Alte Landstraße, Diebstähle
+//{"coords": [], "date": "2026-11-22"} // Amt Wachenburg, entwendet
+{"coords": [8.0169, 50.3714], "date": "2026-11-22"}, // Diez Diez, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2026-11-22"}, // Limburg, Diebstahl
+{"coords": [10.5167, 51.45], "date": "2026-11-22"}, // Kraja, gestohlen
+{"coords": [10.5722, 51.4403], "date": "2026-11-22"}, // Diebe Bleicherode, Dieb
+{"coords": [11.5667, 48.6167], "date": "2026-11-22"}, // Tageswohnungseinbruch Rohrbach, Einbruch
+{"coords": [10.3692, 52.2603], "date": "2026-11-22"}, // Vechelde, Einbruch
+{"coords": [10.3078, 52.2042], "date": "2026-11-22"}, // Lengede, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2026-11-22"}, // Harburg, entwendet

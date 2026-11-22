@@ -22655,3 +22655,9 @@
 {"coords": [10.0936, 48.8372], "date": "2026-11-21"}, // Einbrüche Aalen, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-11-21"}, // Zeugen Bochum, Raub
 {"coords": [9.6106, 47.7828], "date": "2026-11-21"}, // Landkreis Ravensburg Ravensburg, Raub
+{"coords": [7.2211, 50.3275], "date": "2026-11-22"}, // Bike Mayen, Diebstahl
+{"coords": [8.4167, 49.4], "date": "2026-11-22"}, // Limburgerhof, Einbruch
+{"coords": [10.3667, 50.6667], "date": "2026-11-22"}, // Kellereinbruch Wasungen, Einbruch
+//{"coords": [], "date": "2026-11-22"} // Bad Salzungen, Dieb
+{"coords": [7.3608, 49.2492], "date": "2026-11-22"}, // Zweibrücken, gestohlen
+//{"coords": [], "date": "2026-11-22"} // Alte Landstraße, Diebstähle

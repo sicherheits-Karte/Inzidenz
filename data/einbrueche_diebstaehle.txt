@@ -22686,3 +22686,11 @@
 {"coords": [6.4333, 51.8333], "date": "2026-11-23"}, // Emmerich, entwendet
 {"coords": [7.1675, 51.9436], "date": "2026-11-23"}, // Lagerhalle Coesfeld, Einbruch
 {"coords": [6.1353, 51.7875], "date": "2026-11-23"}, // Zeugen Kleve, entwendet
+//{"coords": [], "date": "2026-11-23"} // POL-PDNR, Diebstahl
+{"coords": [13.3878, 54.0931], "date": "2026-11-23"}, // Greifswald, Einbruch
+{"coords": [7.8153, 48.5708], "date": "2026-11-23"}, // Nachtragsmeldung Kehl, Raub
+{"coords": [7.82, 47.99], "date": "2026-11-23"}, // Zeugensuche Freiburg, entwendet
+{"coords": [9.2167, 48.4833], "date": "2026-11-23"}, // Verkehrsunfall Reutlingen, Einbruch
+//{"coords": [], "date": "2026-11-23"} // Messerich, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2026-11-23"}, // Hinweise Osnabrück, gestohlen
+//{"coords": [], "date": "2026-11-23"} // Vaihingen, eingebrochen

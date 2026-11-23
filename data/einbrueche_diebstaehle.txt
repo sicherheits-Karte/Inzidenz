@@ -22672,3 +22672,17 @@
 {"coords": [10.6833, 48.7833], "date": "2026-11-22"}, // Harburg, entwendet
 {"coords": [10.7865, 52.4226], "date": "2026-11-22"}, // Wolfsburg, Raub
 {"coords": [10.9147, 50.6856], "date": "2026-11-23"}, // Zeugenaufruf Ilmenau, Einbruch
+{"coords": [8.6094, 49.7592], "date": "2026-11-23"}, // Bickenbach, gestohlen
+{"coords": [8.4111, 49.9917], "date": "2026-11-23"}, // Zeugen Rüsselsheim, Dieb
+{"coords": [12.4333, 50.985], "date": "2026-11-23"}, // Altenburg, gestohlen
+{"coords": [7.4333, 52.2833], "date": "2026-11-23"}, // Rheine, gestohlen
+{"coords": [7.85, 52.35], "date": "2026-11-23"}, // Beute Westerkappeln, Einbruch
+//{"coords": [], "date": "2026-11-23"} // Tankstelle Baesweiler, Raub
+{"coords": [7.5833, 52.2972], "date": "2026-11-23"}, // Hörstel, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2026-11-23"}, // Ganderkesee Delmenhorst, Einbruch
+{"coords": [8.8772, 49.7711], "date": "2026-11-23"}, // Hinweise Brensbach, Einbruch
+//{"coords": [], "date": "2026-11-23"} // Kreis, Einbrüche
+{"coords": [6.3319, 51.5194], "date": "2026-11-23"}, // Geldern, entwendet
+{"coords": [6.4333, 51.8333], "date": "2026-11-23"}, // Emmerich, entwendet
+{"coords": [7.1675, 51.9436], "date": "2026-11-23"}, // Lagerhalle Coesfeld, Einbruch
+{"coords": [6.1353, 51.7875], "date": "2026-11-23"}, // Zeugen Kleve, entwendet

@@ -22696,3 +22696,10 @@
 //{"coords": [], "date": "2026-11-23"} // Vaihingen, eingebrochen
 {"coords": [9.2108, 49.1425], "date": "2026-11-24"}, // Polizeipräsidiums Heilbronn Heilbronn, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2026-11-24"}, // Bochum, Raub
+{"coords": [8.8678, 49.9228], "date": "2026-11-24"}, // Jährigen Münster, Diebstähle
+{"coords": [7.0982, 50.7374], "date": "2026-11-24"}, // Wohnungseinbruch Bonn, Einbruch
+{"coords": [9.0044, 49.6789], "date": "2026-11-24"}, // Michelstadt, Dieb
+//{"coords": [], "date": "2026-11-24"} // Verwaltungsgebäude BAD DÜRKHEIM, Einbruch
+//{"coords": [], "date": "2026-11-24"} // Heringsdorf, Dieb
+{"coords": [8.6833, 50.5833], "date": "2026-11-24"}, // Giessen, Einbrecher
+{"coords": [8.0472, 52.2799], "date": "2026-11-24"}, // Hinweise Osnabrück, Diebstahl

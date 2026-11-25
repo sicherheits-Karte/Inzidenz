@@ -22715,3 +22715,8 @@
 {"coords": [11.5164, 51.0264], "date": "2026-11-25"}, // Apolda, Dieb
 {"coords": [11.3406, 50.7206], "date": "2026-11-25"}, // Euro Rudolstadt, Diebstahl
 {"coords": [11.1444, 50.5833], "date": "2026-11-25"}, // Oberweißbach, stehlen
+{"coords": [6.8319, 50.1981], "date": "2026-11-25"}, // Dauner Innenstadt Daun, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2026-11-25"}, // Raubdelikt Karlsruhe, Raub
+{"coords": [9.95, 52.15], "date": "2026-11-25"}, // Zeugenaufruf Hildesheim, Diebstahl
+{"coords": [10.1592, 50.6267], "date": "2026-11-25"}, // Tödlicher Zusammenstoß Kaltennordheim, Raub
+//{"coords": [], "date": "2026-11-25"} // Oldtimer gestohlen- Zeugensuche mehr, gestohlen

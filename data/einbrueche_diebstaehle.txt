@@ -22704,3 +22704,14 @@
 {"coords": [8.6833, 50.5833], "date": "2026-11-24"}, // Giessen, Einbrecher
 {"coords": [8.0472, 52.2799], "date": "2026-11-24"}, // Hinweise Osnabrück, Diebstahl
 //{"coords": [], "date": "2026-11-25"} // Einfamilienhaus Dernbach, Einbruch
+{"coords": [8.8075, 53.075], "date": "2026-11-25"}, // Präventionstipps-- Bremen, Einbruch
+{"coords": [7.0333, 52.2167], "date": "2026-11-25"}, // Gronau, Diebstähle
+{"coords": [8.4353, 49.4811], "date": "2026-11-25"}, // Vogelgesang Ludwigshafen, Einbrüche
+{"coords": [6.8333, 51.7833], "date": "2026-11-25"}, // Einfamilienhaus Raesfeld, Einbruch
+{"coords": [6.6153, 51.8367], "date": "2026-11-25"}, // Pkw Bocholt, Diebstahl
+{"coords": [11.4012, 53.6355], "date": "2026-11-25"}, // Schweriner Weihnachtsmarkt Schwerin, eingebrochen
+{"coords": [8.5833, 53.55], "date": "2026-11-25"}, // Mitte, Einbruch
+{"coords": [7.2, 49.15], "date": "2026-11-25"}, // Bliesdalheim Gersheim, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2026-11-25"}, // Apolda, Dieb
+{"coords": [11.3406, 50.7206], "date": "2026-11-25"}, // Euro Rudolstadt, Diebstahl
+{"coords": [11.1444, 50.5833], "date": "2026-11-25"}, // Oberweißbach, stehlen

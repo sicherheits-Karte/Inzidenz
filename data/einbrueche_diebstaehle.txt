@@ -22734,3 +22734,9 @@
 {"coords": [8.8667, 51.9333], "date": "2026-11-26"}, // Lippe, Einbruch
 {"coords": [8.8667, 51.9333], "date": "2026-11-26"}, // Lippe, eingebrochen
 {"coords": [8.6331, 52.3775], "date": "2026-11-26"}, // Espelkamp, entwendet
+{"coords": [8.1075, 53.5219], "date": "2026-11-26"}, // Einsatz Wilhelmshaven, Raub
+{"coords": [11.4653, 53.8925], "date": "2026-11-26"}, // Einbruchschutz Wismar, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2026-11-26"}, // Unfall Reutlingen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2026-11-26"}, // Dieb Duisburg, Dieb
+{"coords": [7.4653, 51.5136], "date": "2026-11-26"}, // Präventionshinweise Dortmund, aufbrüche
+{"coords": [7.35, 52.15], "date": "2026-11-26"}, // Baustelle Steinfurt, Diebstahl

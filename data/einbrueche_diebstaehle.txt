@@ -22722,3 +22722,15 @@
 //{"coords": [], "date": "2026-11-25"} // Oldtimer gestohlen- Zeugensuche mehr, gestohlen
 //{"coords": [], "date": "2026-11-25"} // Kennzeichendiebstahl Bad Gandersheim, Diebstahl
 {"coords": [6.6178, 51.6589], "date": "2026-11-25"}, // Einsatz Wesel, Raub
+{"coords": [9.9937, 53.5511], "date": "2026-11-26"}, // Hamburg-Harburg mehr, Einbrecher
+{"coords": [9.9916, 48.3984], "date": "2026-11-26"}, // Ulm, Einbrecher
+//{"coords": [], "date": "2026-11-26"} // Solarkollektoren Bad Gandersheim, Diebstahl
+{"coords": [8.3667, 50.0], "date": "2026-11-26"}, // Frau Bischofsheim, Diebstahl
+{"coords": [6.6153, 51.8367], "date": "2026-11-26"}, // Bocholt, eingebrochen
+{"coords": [7.2162, 51.4818], "date": "2026-11-26"}, // Zeugen Bochum, Einbruch
+//{"coords": [], "date": "2026-11-26"} // Palmersheim, eingebrochen
+//{"coords": [], "date": "2026-11-26"} // Gemünd, Dieb
+{"coords": [6.9194, 51.9944], "date": "2026-11-26"}, // Pkw Stadtlohn, Diebstahl
+{"coords": [8.8667, 51.9333], "date": "2026-11-26"}, // Lippe, Einbruch
+{"coords": [8.8667, 51.9333], "date": "2026-11-26"}, // Lippe, eingebrochen
+{"coords": [8.6331, 52.3775], "date": "2026-11-26"}, // Espelkamp, entwendet

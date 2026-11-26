@@ -22720,3 +22720,5 @@
 {"coords": [9.95, 52.15], "date": "2026-11-25"}, // Zeugenaufruf Hildesheim, Diebstahl
 {"coords": [10.1592, 50.6267], "date": "2026-11-25"}, // Tödlicher Zusammenstoß Kaltennordheim, Raub
 //{"coords": [], "date": "2026-11-25"} // Oldtimer gestohlen- Zeugensuche mehr, gestohlen
+//{"coords": [], "date": "2026-11-25"} // Kennzeichendiebstahl Bad Gandersheim, Diebstahl
+{"coords": [6.6178, 51.6589], "date": "2026-11-25"}, // Einsatz Wesel, Raub

@@ -22751,3 +22751,7 @@
 {"coords": [9.6775, 50.5528], "date": "2026-11-27"}, // Wohnhaus Fulda, Einbruch
 {"coords": [7.3392, 51.3197], "date": "2026-11-27"}, // Gevelsberg, Einbruch
 //{"coords": [], "date": "2026-11-27"} // Höhe, Einbruch
+{"coords": [7.82, 47.99], "date": "2026-11-27"}, // Freiburg, Dieb
+{"coords": [9.732, 52.3759], "date": "2026-11-27"}, // Zeugen Hannover, Raub
+{"coords": [9.2167, 48.4833], "date": "2026-11-27"}, // Baustellengerüst Reutlingen, Einbrüche
+{"coords": [9.1681, 48.8319], "date": "2026-11-27"}, // Zuffenhausen, Raub

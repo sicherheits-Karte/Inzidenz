@@ -22756,3 +22756,10 @@
 {"coords": [9.2167, 48.4833], "date": "2026-11-27"}, // Baustellengerüst Reutlingen, Einbrüche
 {"coords": [9.1681, 48.8319], "date": "2026-11-27"}, // Zuffenhausen, Raub
 //{"coords": [], "date": "2026-11-27"} // Darscheid, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2026-11-28"}, // Wittmund, Diebstahl
+{"coords": [8.8075, 53.075], "date": "2026-11-28"}, // Bremen, Raub
+{"coords": [8.6306, 53.05], "date": "2026-11-28"}, // Delmenhorst, Einbruch
+{"coords": [8.3333, 51.4833], "date": "2026-11-28"}, // Belecke, Raub
+{"coords": [8.6822, 50.1106], "date": "2026-11-28"}, // Handydiebstahl Frankfurt, Diebstahl
+{"coords": [8.6822, 50.1106], "date": "2026-11-28"}, // Frankfurt, Diebstahl
+//{"coords": [], "date": "2026-11-28"} // Höhe, Einbruch

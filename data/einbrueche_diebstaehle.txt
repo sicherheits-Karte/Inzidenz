@@ -22755,3 +22755,4 @@
 {"coords": [9.732, 52.3759], "date": "2026-11-27"}, // Zeugen Hannover, Raub
 {"coords": [9.2167, 48.4833], "date": "2026-11-27"}, // Baustellengerüst Reutlingen, Einbrüche
 {"coords": [9.1681, 48.8319], "date": "2026-11-27"}, // Zuffenhausen, Raub
+//{"coords": [], "date": "2026-11-27"} // Darscheid, Einbruch
